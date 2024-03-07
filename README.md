@@ -53,17 +53,6 @@
 | **Altitude** | 9.8m |
 | **Camera Direction** | E (90°) |
 
-![data/images/Photo-2024-02-10-08-03-25-(1).jpg](data/images/Photo-2024-02-10-08-03-25-(1).jpg)
-
-## 🌳 [6.9136°N,79.8615°E](https://www.google.com/maps/place/6.913619N,79.86145E) (2024-02-10 08:03:25)
-
-|  |  |
-| --- | --- |
-| **Time** | 2024-02-10 08:03:25 |
-| **Location** | [6.9136°N,79.8615°E](https://www.google.com/maps/place/6.913619N,79.86145E) |
-| **Altitude** | 9.8m |
-| **Camera Direction** | E (90°) |
-
 ![data/images/Photo-2024-02-10-08-03-25.jpg](data/images/Photo-2024-02-10-08-03-25.jpg)
 
 ## 🌳 [6.9137°N,79.8615°E](https://www.google.com/maps/place/6.913686N,79.861497E) (2023-12-31 07:53:22)
