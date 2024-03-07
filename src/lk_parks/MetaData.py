@@ -73,8 +73,10 @@ class MetaData:
                 MetaData.from_hms(img.gps_longitude),
             )
             alt = img.gps_altitude
-            direction = img.gps_img_direction
-
+            try:
+                direction = img.gps_img_direction   
+            except AttributeError:
+                direction = None
             image_path = MetaData.resize_image(original_image_path)
 
             return MetaData(
@@ -100,6 +102,12 @@ class MetaData:
     def direction_humanized(self) -> str:
         directions = ['N', 'NE', 'E', 'SE', 'S', 'SW', 'W', 'NW', 'N']
         return directions[round(self.direction / 45) % 8]
+    
+    @property
+    def direction_pretty(self) -> str:
+        if not self.direction:
+            return 'Unknown'
+        return f'{self.direction:.1f}° ({self.direction_humanized})'    
 
     @property
     def description_lines(self):
@@ -109,8 +117,7 @@ class MetaData:
             f'| **Time** | {self.time_str} |',
             f'| **Location** | {self.google_maps_link} |',
             f'| **Altitude** | {self.alt:.1f}m |',
-            f'| **Camera Direction** | {self.direction_humanized}'
-            + f' ({self.direction:.0f}°) |',
+            f'| **Camera Direction** | {self.direction_pretty} |',
         ]
 
     @property
