@@ -43,7 +43,9 @@ class MetaData:
 
     @staticmethod
     def resize_image(original_image_path: str) -> str:
-        image_path = os.path.join(MetaData.DIR_IMAGES, os.path.basename(original_image_path))
+        image_name = os.path.basename(original_image_path)
+        image_name = image_name.replace(' ', '-').replace(',', '')
+        image_path = os.path.join(MetaData.DIR_IMAGES, image_name)
         if not os.path.exists(image_path):
             im = PILImage.open(original_image_path)
             w, h = im.size
