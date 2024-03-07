@@ -6,7 +6,9 @@
 at 6.913619°N,79.86145°E, 9.818228m,
  (facing 90.5°)
 
+
 ![data/images/Photo 2024-02-10, 08 03 25.jpg](data/images/Photo 2024-02-10, 08 03 25.jpg)
+
 
 ## data/images/Photo 2024-02-22, 07 10 50.jpg
 
