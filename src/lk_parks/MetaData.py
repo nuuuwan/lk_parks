@@ -26,6 +26,8 @@ class MetaData:
     JSON_DATA_PATH = os.path.join('data', 'metadata.json')
     README_PATH = os.path.join('README.md')
 
+    IMAGE_WIDTH = 960
+
     def __dict__(self) -> dict:
         return dict(
             image_path=self.image_path,
@@ -49,7 +51,7 @@ class MetaData:
         if not os.path.exists(image_path):
             im = PILImage.open(original_image_path)
             w, h = im.size
-            new_w = 800
+            new_w = MetaData.IMAGE_WIDTH
             new_h = int(h * new_w / w)
             im = im.resize((new_w, new_h))
             im.save(image_path)
