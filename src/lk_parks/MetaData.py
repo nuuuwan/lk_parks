@@ -1,9 +1,9 @@
 import os
-import webbrowser
 from dataclasses import dataclass
 from functools import cache
-from PIL import Image as PILImage
+
 from exif import Image as ExifImage
+from PIL import Image as PILImage
 from utils import TIME_FORMAT_TIME, File, JSONFile, Log, Time, TimeFormat
 
 log = Log('MetaData')
@@ -22,7 +22,7 @@ class MetaData:
     VALID_IMAGE_EXT_LIST = ['jpg', 'jpeg', 'png', 'gif', 'bmp', 'tiff']
 
     DIR_IMAGES = os.path.join('data', 'images')
-    DIR_IMAGES_ORIGINAL =  os.path.join('data', 'images_original')
+    DIR_IMAGES_ORIGINAL = os.path.join('data', 'images_original')
     JSON_DATA_PATH = os.path.join('data', 'metadata.json')
     README_PATH = os.path.join('README.md')
 
@@ -41,7 +41,6 @@ class MetaData:
     def from_hms(hms):
         h, m, s = hms
         return round(h + m / 60 + s / 3600, 6)
-    
 
     @staticmethod
     def resize_image(original_image_path: str) -> str:
@@ -55,7 +54,10 @@ class MetaData:
             new_h = int(h * new_w / w)
             im = im.resize((new_w, new_h))
             im.save(image_path)
-            log.debug(f'Resized {original_image_path} ({w}x{h}) to {image_path} ({new_w}x{new_h})')
+            log.debug(
+                f'Resized {original_image_path} ({w}x{h})'
+                + f' to {image_path} ({new_w}x{new_h})'
+            )
         return image_path
 
     @staticmethod
@@ -73,33 +75,46 @@ class MetaData:
             alt = img.gps_altitude
             direction = img.gps_img_direction
 
-            image_path= MetaData.resize_image(original_image_path)
+            image_path = MetaData.resize_image(original_image_path)
 
-            return MetaData(original_image_path, image_path, ut, latlng, alt, direction)
-
-    def open_in_google_maps(self):
-        lat, lng = self.latlng
-        webbrowser.open(f'https://www.google.com/maps/place/{lat}N,{lng}E')
+            return MetaData(
+                original_image_path, image_path, ut, latlng, alt, direction
+            )
 
     @property
     def time_str(self) -> str:
         return TIME_FORMAT_TIME.stringify(Time(self.ut))
 
     @property
-    def latlng_pretty(self) -> str:
-        return f'{self.latlng[0]}°N,{self.latlng[1]}°E'
+    def google_maps_link(self) -> str:
+        lat, lng = self.latlng
+        url = f'https://www.google.com/maps/place/{lat}N,{lng}E'
+        label = f'{lat:.4f}°N,{lng:.4f}°E'
+        return f'[{label}]({url})'
 
     @property
     def image_path_unix(self) -> str:
         return self.image_path.replace('\\', '/')
 
     @property
+    def direction_humanized(self) -> str:
+        directions = ['N', 'NE', 'E', 'SE', 'S', 'SW', 'W', 'NW', 'N']
+        return directions[round(self.direction / 45) % 8]
+
+    @property
     def description_lines(self):
         return [
-            f'*{self.time_str}*',
-            f'at {self.latlng_pretty}, {self.alt:1f}m,',
-            f' (facing {self.direction:.1f}°)',
+            '| --: | :-- |',
+            f'| **Time** | {self.time_str} |',
+            f'| **Location** | {self.google_maps_link} |',
+            f'| **Altitude** | {self.alt:.1f}m |',
+            f'| **Camera Direction** | {self.direction_humanized}'
+            + f' ({self.direction:.0f}°) |',
         ]
+
+    @property
+    def title(self) -> str:
+        return f'🌳 {self.google_maps_link} ({self.time_str})'
 
     # lists
 
@@ -111,7 +126,9 @@ class MetaData:
             ext = file_name.split('.')[-1]
             if ext not in MetaData.VALID_IMAGE_EXT_LIST:
                 continue
-            original_image_path = os.path.join(MetaData.DIR_IMAGES_ORIGINAL, file_name)
+            original_image_path = os.path.join(
+                MetaData.DIR_IMAGES_ORIGINAL, file_name
+            )
             original_image_path_list.append(original_image_path)
         return original_image_path_list
 
@@ -137,7 +154,7 @@ class MetaData:
     def build_readme():
         lines = ['# Parks of Sri Lanka (Trees)', '']
         for md in MetaData.list_all():
-            lines.append(f'## {md.image_path_unix}')
+            lines.append(f'## {md.title}')
             lines.append('')
             lines.extend(md.description_lines)
             lines.append('')
