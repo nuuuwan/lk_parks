@@ -104,6 +104,7 @@ class MetaData:
     @property
     def description_lines(self):
         return [
+            '| k | v |',
             '| --- | --- |',
             f'| **Time** | {self.time_str} |',
             f'| **Location** | {self.google_maps_link} |',
