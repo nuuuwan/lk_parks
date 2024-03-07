@@ -29,34 +29,35 @@ class MetaDataBase:
             direction=self.direction,
             plantnet_results=self.plantnet_results,
         )
-    
-    @property 
+
+    @property
     def best_plantnet_result(self) -> dict:
         return self.plantnet_results[0]
-    
+
     @property
     def scientific_name(self) -> str:
         return self.best_plantnet_result['species']['scientificNameWithoutAuthor']
-    
-    @property 
+
+    @property
     def family(self) -> str:
         return self.best_plantnet_result['species']['family']['scientificName']
-    
+
     @property
     def common_names(self) -> list[str]:
         return self.best_plantnet_result['species']['commonNames']
-    
-    @property 
+
+    @property
     def confidence(self) -> float:
         return self.best_plantnet_result['score']
-    
-    @property 
+
+    @property
     def candidate_species_to_score(self) -> dict:
-        return {result['species']['scientificNameWithoutAuthor']: result['score'] for result in self.plantnet_results}
-    
+        return {result['species']['scientificNameWithoutAuthor']                : result['score'] for result in self.plantnet_results}
+
     @property
     def candidates_pretty(self) -> str:
-        return ', '.join([f'{species} ({score:.1%})' for species, score in self.candidate_species_to_score.items()])
+        return ', '.join([f'{species} ({score:.1%})' for species,
+                         score in self.candidate_species_to_score.items()])
 
     @property
     def time_str(self) -> str:
@@ -77,12 +78,11 @@ class MetaDataBase:
             return 'Unknown'
         return f'{self.direction:.1f}° ({self.direction_humanized})'
 
-
-
     @property
     def metadata_path(self) -> str:
         name_only = os.path.basename(self.image_path).split('.')[0]
-        return os.path.join(MetaDataBase.DIR_DATA_METADATA, name_only + '.json')
+        return os.path.join(MetaDataBase.DIR_DATA_METADATA,
+                            name_only + '.json')
 
     def write(self):
         if os.path.exists(self.metadata_path):
