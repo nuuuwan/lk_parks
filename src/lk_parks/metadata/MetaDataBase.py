@@ -8,7 +8,7 @@ log = Log('MetaData')
 
 
 @dataclass
-class MetaData:
+class MetaDataBase:
     original_image_path: str
     image_path: str
     ut: int
@@ -29,17 +29,38 @@ class MetaData:
             direction=self.direction,
             plantnet_results=self.plantnet_results,
         )
+    
+    @property 
+    def best_plantnet_result(self) -> dict:
+        return self.plantnet_results[0]
+    
+    @property
+    def scientific_name(self) -> str:
+        return self.best_plantnet_result['species']['scientificNameWithoutAuthor']
+    
+    @property 
+    def family(self) -> str:
+        return self.best_plantnet_result['species']['family']['scientificName']
+    
+    @property
+    def common_names(self) -> list[str]:
+        return self.best_plantnet_result['species']['commonNames']
+    
+    @property 
+    def confidence(self) -> float:
+        return self.best_plantnet_result['score']
+    
+    @property 
+    def candidate_species_to_score(self) -> dict:
+        return {result['species']['scientificNameWithoutAuthor']: result['score'] for result in self.plantnet_results}
+    
+    @property
+    def candidates_pretty(self) -> str:
+        return ', '.join([f'{species} ({score:.1%})' for species, score in self.candidate_species_to_score.items()])
 
     @property
     def time_str(self) -> str:
         return TIME_FORMAT_TIME.stringify(Time(self.ut))
-
-    @property
-    def google_maps_link(self) -> str:
-        lat, lng = self.latlng
-        url = f'https://www.google.com/maps/place/{lat}N,{lng}E'
-        label = f'{lat:.4f}°N,{lng:.4f}°E'
-        return f'[{label}]({url})'
 
     @property
     def image_path_unix(self) -> str:
@@ -56,25 +77,12 @@ class MetaData:
             return 'Unknown'
         return f'{self.direction:.1f}° ({self.direction_humanized})'
 
-    @property
-    def description_lines(self):
-        return [
-            '|  |  |',
-            '| --- | --- |',
-            f'| **Time** | {self.time_str} |',
-            f'| **Location** | {self.google_maps_link} |',
-            f'| **Altitude** | {self.alt:.1f}m |',
-            f'| **Camera Direction** | {self.direction_pretty} |',
-        ]
 
-    @property
-    def title(self) -> str:
-        return f'🌳 {self.google_maps_link} ({self.time_str})'
 
     @property
     def metadata_path(self) -> str:
         name_only = os.path.basename(self.image_path).split('.')[0]
-        return os.path.join(MetaData.DIR_DATA_METADATA, name_only + '.json')
+        return os.path.join(MetaDataBase.DIR_DATA_METADATA, name_only + '.json')
 
     def write(self):
         if os.path.exists(self.metadata_path):
@@ -84,16 +92,16 @@ class MetaData:
         JSONFile(self.metadata_path).write(data)
         log.debug(f'Wrote {self.metadata_path}')
 
-    @staticmethod
+    @classmethod
     @cache
-    def list_all():
+    def list_all(cls):
         md_list = []
-        for file_name in os.listdir(MetaData.DIR_DATA_METADATA):
+        for file_name in os.listdir(MetaDataBase.DIR_DATA_METADATA):
             if file_name.endswith('.json'):
                 metadata_path = os.path.join(
-                    MetaData.DIR_DATA_METADATA, file_name
+                    MetaDataBase.DIR_DATA_METADATA, file_name
                 )
                 data = JSONFile(metadata_path).read()
-                md = MetaData(**data)
+                md = cls(**data)
                 md_list.append(md)
         return md_list

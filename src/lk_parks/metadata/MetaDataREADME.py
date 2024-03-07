@@ -12,7 +12,7 @@ class MetaDataREADME:
 
     @property
     def title(self) -> str:
-        return f'🌳 {self.google_maps_link} ({self.time_str})'
+        return f'🌳 {self.scientific_name} ({self.google_maps_link})'
 
     @property
     def google_maps_link(self) -> str:
@@ -26,6 +26,11 @@ class MetaDataREADME:
         return [
             '|  |  |',
             '| --- | --- |',
+            f'| **Scientific Name** | {self.scientific_name} |',
+            f'| **Family** | {self.family} |',
+            f'| **Common Names** | {", ".join(self.common_names)} |',
+            f'| **Confidence** | {self.confidence:.1%} |',
+            f'| **Candidates** | {self.candidates_pretty} |',
             f'| **Time** | {self.time_str} |',
             f'| **Location** | {self.google_maps_link} |',
             f'| **Altitude** | {self.alt:.1f}m |',

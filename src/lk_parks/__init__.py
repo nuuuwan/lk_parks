@@ -1,1 +1,1 @@
-from lk_parks.metadata.MetaDataOriginalImage import MetaData
+from lk_parks.metadata.MetaData import MetaData
