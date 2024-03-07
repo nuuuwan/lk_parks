@@ -136,10 +136,12 @@ class MetaData:
     @staticmethod
     @cache
     def list_all():
-        return [
+        unsorted_list = [
             MetaData.from_original_image(img_path)
             for img_path in MetaData.original_image_path_list()
         ]
+        sorted_list = sorted(unsorted_list, key=lambda md: md.latlng[0] * 3_600 + md.latlng[1])
+        return sorted_list
 
     @staticmethod
     def save_all():
