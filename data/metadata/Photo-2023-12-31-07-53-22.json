@@ -1,0 +1,173 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2023-12-31, 07 53 22.jpg",
+  "image_path": "data\\images\\Photo-2023-12-31-07-53-22.jpg",
+  "ut": 1703989402,
+  "latlng": [
+    6.913686,
+    79.861497
+  ],
+  "alt": 13.783876828918428,
+  "direction": 180.42135613442036,
+  "plantnet_results": [
+    {
+      "score": 0.20467,
+      "species": {
+        "scientificNameWithoutAuthor": "Avicennia marina",
+        "scientificNameAuthorship": "(Forssk.) Vierh.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Avicennia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Avicennia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Acanthaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Acanthaceae"
+        },
+        "commonNames": [
+          "Grey mangrove",
+          "White mangrove",
+          "Gray mangrove"
+        ],
+        "scientificName": "Avicennia marina (Forssk.) Vierh."
+      },
+      "gbif": {
+        "id": "2925403"
+      },
+      "powo": {
+        "id": "861130-1"
+      },
+      "iucn": {
+        "id": "178828",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.03862,
+      "species": {
+        "scientificNameWithoutAuthor": "Camellia sinensis",
+        "scientificNameAuthorship": "(L.) Kuntze",
+        "genus": {
+          "scientificNameWithoutAuthor": "Camellia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Camellia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Theaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Theaceae"
+        },
+        "commonNames": [
+          "Black tea",
+          "Tea",
+          "Teabush"
+        ],
+        "scientificName": "Camellia sinensis (L.) Kuntze"
+      },
+      "gbif": {
+        "id": "3189635"
+      },
+      "powo": {
+        "id": "828548-1"
+      },
+      "iucn": {
+        "id": "62037625",
+        "category": "DD"
+      }
+    },
+    {
+      "score": 0.01702,
+      "species": {
+        "scientificNameWithoutAuthor": "Myrtus communis",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Myrtus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Myrtus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Myrtaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Myrtaceae"
+        },
+        "commonNames": [
+          "Myrtle",
+          "Common Myrtle",
+          "Greek Myrtle"
+        ],
+        "scientificName": "Myrtus communis L."
+      },
+      "gbif": {
+        "id": "3180085"
+      },
+      "powo": {
+        "id": "599719-1"
+      },
+      "iucn": {
+        "id": "203365",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.01365,
+      "species": {
+        "scientificNameWithoutAuthor": "Salix euxina",
+        "scientificNameAuthorship": "I.V.Belyaeva",
+        "genus": {
+          "scientificNameWithoutAuthor": "Salix",
+          "scientificNameAuthorship": "",
+          "scientificName": "Salix"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Salicaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Salicaceae"
+        },
+        "commonNames": [
+          "Crack Willow",
+          "Brittle Willow"
+        ],
+        "scientificName": "Salix euxina I.V.Belyaeva"
+      },
+      "gbif": {
+        "id": "5927965"
+      },
+      "powo": {
+        "id": "77102927-1"
+      }
+    },
+    {
+      "score": 0.01147,
+      "species": {
+        "scientificNameWithoutAuthor": "Salix pentandra",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Salix",
+          "scientificNameAuthorship": "",
+          "scientificName": "Salix"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Salicaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Salicaceae"
+        },
+        "commonNames": [
+          "Bay willow",
+          "Laurel willow",
+          "Bay-leaf Willow"
+        ],
+        "scientificName": "Salix pentandra L."
+      },
+      "gbif": {
+        "id": "5372647"
+      },
+      "powo": {
+        "id": "312506-2"
+      },
+      "iucn": {
+        "id": "79927560",
+        "category": "LC"
+      }
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-01-19, 07 23 37.jpg",
+  "image_path": "data\\images\\Photo-2024-01-19-07-23-37.jpg",
+  "ut": 1705629217,
+  "latlng": [
+    6.914128,
+    79.862206
+  ],
+  "alt": 7.617761143246002,
+  "direction": 345.7876588021779,
+  "plantnet_results": [
+    {
+      "score": 0.08592,
+      "species": {
+        "scientificNameWithoutAuthor": "Diospyros buxifolia",
+        "scientificNameAuthorship": "(Blume) Hiern",
+        "genus": {
+          "scientificNameWithoutAuthor": "Diospyros",
+          "scientificNameAuthorship": "",
+          "scientificName": "Diospyros"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Ebenaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ebenaceae"
+        },
+        "commonNames": [
+          "Black ebony"
+        ],
+        "scientificName": "Diospyros buxifolia (Blume) Hiern"
+      },
+      "gbif": {
+        "id": "4070235"
+      },
+      "powo": {
+        "id": "322176-1"
+      },
+      "iucn": {
+        "id": "173387",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.03022,
+      "species": {
+        "scientificNameWithoutAuthor": "Zanthoxylum rhoifolium",
+        "scientificNameAuthorship": "Lam.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Zanthoxylum",
+          "scientificNameAuthorship": "",
+          "scientificName": "Zanthoxylum"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Rutaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Rutaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Zanthoxylum rhoifolium Lam."
+      },
+      "gbif": {
+        "id": "7269222"
+      },
+      "powo": {
+        "id": "775991-1"
+      },
+      "iucn": {
+        "id": "136793249",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02181,
+      "species": {
+        "scientificNameWithoutAuthor": "Lagerstroemia speciosa",
+        "scientificNameAuthorship": "(L.) Pers.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Lagerstroemia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Lagerstroemia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Lythraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Lythraceae"
+        },
+        "commonNames": [
+          "Queen's crape-myrtle",
+          "Pride-of-India",
+          "Queen's-flower"
+        ],
+        "scientificName": "Lagerstroemia speciosa (L.) Pers."
+      },
+      "gbif": {
+        "id": "3188724"
+      },
+      "powo": {
+        "id": "553618-1"
+      },
+      "iucn": {
+        "id": "61780249",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02137,
+      "species": {
+        "scientificNameWithoutAuthor": "Inga edulis",
+        "scientificNameAuthorship": "Mart.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Inga",
+          "scientificNameAuthorship": "",
+          "scientificName": "Inga"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Ice-cream-bean",
+          "Guaba",
+          "Pois Doux"
+        ],
+        "scientificName": "Inga edulis Mart."
+      },
+      "gbif": {
+        "id": "5357677"
+      },
+      "powo": {
+        "id": "128478-2"
+      },
+      "iucn": {
+        "id": "137640618",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.01993,
+      "species": {
+        "scientificNameWithoutAuthor": "Pterocarpus indicus",
+        "scientificNameAuthorship": "Willd.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Pterocarpus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Pterocarpus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Amboyna-wood",
+          "Malay padauk",
+          "Papua New Guinea rosewood"
+        ],
+        "scientificName": "Pterocarpus indicus Willd."
+      },
+      "gbif": {
+        "id": "5349242"
+      },
+      "powo": {
+        "id": "516487-1"
+      },
+      "iucn": {
+        "id": "33241",
+        "category": "EN"
+      }
+    }
+  ]
+}

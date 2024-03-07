@@ -1,0 +1,177 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-02-22, 07 10 50.jpg",
+  "image_path": "data\\images\\Photo-2024-02-22-07-10-50.jpg",
+  "ut": 1708566050,
+  "latlng": [
+    6.913933,
+    79.863183
+  ],
+  "alt": 8.126430997609763,
+  "direction": 100.39419554804171,
+  "plantnet_results": [
+    {
+      "score": 0.36621,
+      "species": {
+        "scientificNameWithoutAuthor": "Juglans nigra",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Juglans",
+          "scientificNameAuthorship": "",
+          "scientificName": "Juglans"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Juglandaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Juglandaceae"
+        },
+        "commonNames": [
+          "Black walnut",
+          "American Walnut",
+          "Otaes\u00e9men\u00f4tse"
+        ],
+        "scientificName": "Juglans nigra L."
+      },
+      "gbif": {
+        "id": "3054357"
+      },
+      "powo": {
+        "id": "279034-2"
+      },
+      "iucn": {
+        "id": "62019712",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.07063,
+      "species": {
+        "scientificNameWithoutAuthor": "Ulmus americana",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ulmus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ulmus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Ulmaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ulmaceae"
+        },
+        "commonNames": [
+          "American elm",
+          "White elm",
+          "Water elm"
+        ],
+        "scientificName": "Ulmus americana L."
+      },
+      "gbif": {
+        "id": "5361872"
+      },
+      "powo": {
+        "id": "304464-2"
+      },
+      "iucn": {
+        "id": "61966619",
+        "category": "EN"
+      }
+    },
+    {
+      "score": 0.05528,
+      "species": {
+        "scientificNameWithoutAuthor": "Juglans cinerea",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Juglans",
+          "scientificNameAuthorship": "",
+          "scientificName": "Juglans"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Juglandaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Juglandaceae"
+        },
+        "commonNames": [
+          "White walnut",
+          "Butternut",
+          "Butternut Tree"
+        ],
+        "scientificName": "Juglans cinerea L."
+      },
+      "gbif": {
+        "id": "3054352"
+      },
+      "powo": {
+        "id": "442334-1"
+      },
+      "iucn": {
+        "id": "62019689",
+        "category": "EN"
+      }
+    },
+    {
+      "score": 0.03433,
+      "species": {
+        "scientificNameWithoutAuthor": "Ulmus thomasii",
+        "scientificNameAuthorship": "Sarg.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ulmus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ulmus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Ulmaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ulmaceae"
+        },
+        "commonNames": [
+          "Cork elm",
+          "Rock elm"
+        ],
+        "scientificName": "Ulmus thomasii Sarg."
+      },
+      "gbif": {
+        "id": "5361875"
+      },
+      "powo": {
+        "id": "300247-2"
+      },
+      "iucn": {
+        "id": "61967392",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.03407,
+      "species": {
+        "scientificNameWithoutAuthor": "Quercus macrocarpa",
+        "scientificNameAuthorship": "Michx.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Quercus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Quercus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fagaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fagaceae"
+        },
+        "commonNames": [
+          "Burr Oak",
+          "Bur oak",
+          "Mossy-cup oak"
+        ],
+        "scientificName": "Quercus macrocarpa Michx."
+      },
+      "gbif": {
+        "id": "2878213"
+      },
+      "powo": {
+        "id": "30014114-2"
+      },
+      "iucn": {
+        "id": "33991",
+        "category": "LC"
+      }
+    }
+  ]
+}

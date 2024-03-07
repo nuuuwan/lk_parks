@@ -1,0 +1,171 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2023-12-30, 07 59 02.jpg",
+  "image_path": "data\\images\\Photo-2023-12-30-07-59-02.jpg",
+  "ut": 1703903342,
+  "latlng": [
+    6.913214,
+    79.861183
+  ],
+  "alt": 9.21319151782728,
+  "direction": 46.417739887538545,
+  "plantnet_results": [
+    {
+      "score": 0.11861,
+      "species": {
+        "scientificNameWithoutAuthor": "Erythrina poeppigiana",
+        "scientificNameAuthorship": "(Walp.) O.F.Cook",
+        "genus": {
+          "scientificNameWithoutAuthor": "Erythrina",
+          "scientificNameAuthorship": "",
+          "scientificName": "Erythrina"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Coral tree",
+          "Immortelle-tree",
+          "Mountain immortelle"
+        ],
+        "scientificName": "Erythrina poeppigiana (Walp.) O.F.Cook"
+      },
+      "gbif": {
+        "id": "5349755"
+      },
+      "powo": {
+        "id": "96637-2"
+      },
+      "iucn": {
+        "id": "144314476",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.10644,
+      "species": {
+        "scientificNameWithoutAuthor": "Erythrina fusca",
+        "scientificNameAuthorship": "Lour.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Erythrina",
+          "scientificNameAuthorship": "",
+          "scientificName": "Erythrina"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Coral-bean",
+          "Purple coraltree",
+          "Swamp immortelle"
+        ],
+        "scientificName": "Erythrina fusca Lour."
+      },
+      "gbif": {
+        "id": "5349620"
+      },
+      "powo": {
+        "id": "494431-1"
+      },
+      "iucn": {
+        "id": "165431910",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.04565,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus benghalensis",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Indian banyan",
+          "Ficus Audrey",
+          "Bengal banyan"
+        ],
+        "scientificName": "Ficus benghalensis L."
+      },
+      "gbif": {
+        "id": "5361919"
+      },
+      "powo": {
+        "id": "852482-1"
+      }
+    },
+    {
+      "score": 0.0207,
+      "species": {
+        "scientificNameWithoutAuthor": "Erythrina speciosa",
+        "scientificNameAuthorship": "Andrews",
+        "genus": {
+          "scientificNameWithoutAuthor": "Erythrina",
+          "scientificNameAuthorship": "",
+          "scientificName": "Erythrina"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Coral tree",
+          "\u00c1rbol de coral"
+        ],
+        "scientificName": "Erythrina speciosa Andrews"
+      },
+      "gbif": {
+        "id": "5349528"
+      },
+      "powo": {
+        "id": "494588-1"
+      },
+      "iucn": {
+        "id": "177827429",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02011,
+      "species": {
+        "scientificNameWithoutAuthor": "Erythrina amazonica",
+        "scientificNameAuthorship": "Krukoff",
+        "genus": {
+          "scientificNameWithoutAuthor": "Erythrina",
+          "scientificNameAuthorship": "",
+          "scientificName": "Erythrina"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Amazon coral tree"
+        ],
+        "scientificName": "Erythrina amazonica Krukoff"
+      },
+      "gbif": {
+        "id": "5349510"
+      },
+      "powo": {
+        "id": "96551-2"
+      },
+      "iucn": {
+        "id": "145709859",
+        "category": "LC"
+      }
+    }
+  ]
+}

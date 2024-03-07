@@ -1,0 +1,172 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2023-12-31, 07 51 13.jpg",
+  "image_path": "data\\images\\Photo-2023-12-31-07-51-13.jpg",
+  "ut": 1703989273,
+  "latlng": [
+    6.914558,
+    79.862511
+  ],
+  "alt": 12.170553978519797,
+  "direction": 271.5167693360712,
+  "plantnet_results": [
+    {
+      "score": 0.07832,
+      "species": {
+        "scientificNameWithoutAuthor": "Juglans regia",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Juglans",
+          "scientificNameAuthorship": "",
+          "scientificName": "Juglans"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Juglandaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Juglandaceae"
+        },
+        "commonNames": [
+          "Black Walnut",
+          "English walnut",
+          "Carpathian walnut"
+        ],
+        "scientificName": "Juglans regia L."
+      },
+      "gbif": {
+        "id": "3054368"
+      },
+      "powo": {
+        "id": "442427-1"
+      },
+      "iucn": {
+        "id": "63495",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.04867,
+      "species": {
+        "scientificNameWithoutAuthor": "Carya illinoinensis",
+        "scientificNameAuthorship": "(Wangenh.) K.Koch",
+        "genus": {
+          "scientificNameWithoutAuthor": "Carya",
+          "scientificNameAuthorship": "",
+          "scientificName": "Carya"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Juglandaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Juglandaceae"
+        },
+        "commonNames": [
+          "Pecan",
+          "Nogal morado",
+          "Nuez encarcelada"
+        ],
+        "scientificName": "Carya illinoinensis (Wangenh.) K.Koch"
+      },
+      "gbif": {
+        "id": "3054289"
+      },
+      "powo": {
+        "id": "442167-1"
+      },
+      "iucn": {
+        "id": "62019622",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.04844,
+      "species": {
+        "scientificNameWithoutAuthor": "Fraxinus excelsior",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Fraxinus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fraxinus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Oleaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Oleaceae"
+        },
+        "commonNames": [
+          "Ash",
+          "European ash",
+          "Common Ash"
+        ],
+        "scientificName": "Fraxinus excelsior L."
+      },
+      "gbif": {
+        "id": "3172358"
+      },
+      "powo": {
+        "id": "609009-1"
+      },
+      "iucn": {
+        "id": "203367",
+        "category": "NT"
+      }
+    },
+    {
+      "score": 0.01951,
+      "species": {
+        "scientificNameWithoutAuthor": "Alnus japonica",
+        "scientificNameAuthorship": "(Thunb.) Steud.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Alnus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Alnus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Betulaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Betulaceae"
+        },
+        "commonNames": [
+          "Japanese alder"
+        ],
+        "scientificName": "Alnus japonica (Thunb.) Steud."
+      },
+      "gbif": {
+        "id": "2876196"
+      },
+      "powo": {
+        "id": "294936-1"
+      },
+      "iucn": {
+        "id": "194581",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.01533,
+      "species": {
+        "scientificNameWithoutAuthor": "Pterodon emarginatus",
+        "scientificNameAuthorship": "Vogel",
+        "genus": {
+          "scientificNameWithoutAuthor": "Pterodon",
+          "scientificNameAuthorship": "",
+          "scientificName": "Pterodon"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Pterodon emarginatus Vogel"
+      },
+      "gbif": {
+        "id": "5342608"
+      },
+      "powo": {
+        "id": "516615-1"
+      },
+      "iucn": {
+        "id": "144304793",
+        "category": "LC"
+      }
+    }
+  ]
+}

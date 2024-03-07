@@ -1,0 +1,172 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-02-24, 07 57 14.jpg",
+  "image_path": "data\\images\\Photo-2024-02-24-07-57-14.jpg",
+  "ut": 1708741634,
+  "latlng": [
+    6.913258,
+    79.858528
+  ],
+  "alt": 8.968686748422432,
+  "direction": 141.995361328125,
+  "plantnet_results": [
+    {
+      "score": 0.71923,
+      "species": {
+        "scientificNameWithoutAuthor": "Tabernaemontana divaricata",
+        "scientificNameAuthorship": "(L.) R.Br. ex Roem. & Schult.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tabernaemontana",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tabernaemontana"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Apocynaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Apocynaceae"
+        },
+        "commonNames": [
+          "Crape-jasmine",
+          "Butterfly-gardenia",
+          "\u0c28\u0c02\u0c26\u0c3f\u0c35\u0c30\u0c4d\u0c27\u0c28\u0c02"
+        ],
+        "scientificName": "Tabernaemontana divaricata (L.) R.Br. ex Roem. & Schult."
+      },
+      "gbif": {
+        "id": "3169625"
+      },
+      "powo": {
+        "id": "82097-1"
+      },
+      "iucn": {
+        "id": "149853146",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.03367,
+      "species": {
+        "scientificNameWithoutAuthor": "Tabernaemontana catharinensis",
+        "scientificNameAuthorship": "A.DC.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tabernaemontana",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tabernaemontana"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Apocynaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Apocynaceae"
+        },
+        "commonNames": [
+          "Pinwheel-flower",
+          "Pinwheel-jessamine"
+        ],
+        "scientificName": "Tabernaemontana catharinensis A.DC."
+      },
+      "gbif": {
+        "id": "3618496"
+      },
+      "powo": {
+        "id": "82043-1"
+      },
+      "iucn": {
+        "id": "58920120",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.03034,
+      "species": {
+        "scientificNameWithoutAuthor": "Pittosporum undulatum",
+        "scientificNameAuthorship": "Vent.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Pittosporum",
+          "scientificNameAuthorship": "",
+          "scientificName": "Pittosporum"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Pittosporaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Pittosporaceae"
+        },
+        "commonNames": [
+          "Australian cheesewood",
+          "Cheesewood",
+          "Orange-berry pittosporum"
+        ],
+        "scientificName": "Pittosporum undulatum Vent."
+      },
+      "gbif": {
+        "id": "2986239"
+      },
+      "powo": {
+        "id": "684734-1"
+      }
+    },
+    {
+      "score": 0.02914,
+      "species": {
+        "scientificNameWithoutAuthor": "Cestrum nocturnum",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Cestrum",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cestrum"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Solanaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Solanaceae"
+        },
+        "commonNames": [
+          "Night jasmine",
+          "Raat Rani",
+          "\u0645\u0633\u0643 \u0627\u0644\u0644\u064a\u0644"
+        ],
+        "scientificName": "Cestrum nocturnum L."
+      },
+      "gbif": {
+        "id": "2928791"
+      },
+      "powo": {
+        "id": "316386-2"
+      },
+      "iucn": {
+        "id": "72045868",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.01243,
+      "species": {
+        "scientificNameWithoutAuthor": "Tabernaemontana elegans",
+        "scientificNameAuthorship": "Stapf",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tabernaemontana",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tabernaemontana"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Apocynaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Apocynaceae"
+        },
+        "commonNames": [
+          "Toadtree",
+          "Low-veld toadtree"
+        ],
+        "scientificName": "Tabernaemontana elegans Stapf"
+      },
+      "gbif": {
+        "id": "3617608"
+      },
+      "powo": {
+        "id": "82109-1"
+      },
+      "iucn": {
+        "id": "149502995",
+        "category": "LC"
+      }
+    }
+  ]
+}
