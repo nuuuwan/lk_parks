@@ -1,4 +1,4 @@
-# Parks of Sri Lanka (Trees)
+# Viharamahadevi Park, Colombo, Sri Lanka
 
 ## 🌳 [6.9136°N,79.8615°E](https://www.google.com/maps/place/6.913619N,79.86145E) (2024-02-10 08:03:25)
 

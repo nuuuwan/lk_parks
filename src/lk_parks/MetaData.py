@@ -155,7 +155,7 @@ class MetaData:
 
     @staticmethod
     def build_readme():
-        lines = ['# Parks of Sri Lanka (Trees)', '']
+        lines = ['# Viharamahadevi Park, Colombo, Sri Lanka', '']
         for md in MetaData.list_all():
             lines.append(f'## {md.title}')
             lines.append('')
