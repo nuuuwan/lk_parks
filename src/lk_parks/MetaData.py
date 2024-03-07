@@ -2,8 +2,8 @@ import os
 import webbrowser
 from dataclasses import dataclass
 from functools import cache
-
-from exif import Image
+from PIL import Image as PILImage
+from exif import Image as ExifImage
 from utils import TIME_FORMAT_TIME, File, JSONFile, Log, Time, TimeFormat
 
 log = Log('MetaData')
@@ -11,6 +11,7 @@ log = Log('MetaData')
 
 @dataclass
 class MetaData:
+    original_image_path: str
     image_path: str
     ut: int
     latlng: tuple[float, float]
@@ -18,8 +19,10 @@ class MetaData:
     direction: float
 
     TIME_FORMAT_EXIF = TimeFormat('%Y:%m:%d %H:%M:%S')
+    VALID_IMAGE_EXT_LIST = ['jpg', 'jpeg', 'png', 'gif', 'bmp', 'tiff']
 
     DIR_IMAGES = os.path.join('data', 'images')
+    DIR_IMAGES_ORIGINAL =  os.path.join('data', 'images_original')
     JSON_DATA_PATH = os.path.join('data', 'metadata.json')
     README_PATH = os.path.join('README.md')
 
@@ -36,12 +39,26 @@ class MetaData:
     def from_hms(hms):
         h, m, s = hms
         return round(h + m / 60 + s / 3600, 6)
+    
+
+    @staticmethod
+    def resize_image(original_image_path: str) -> str:
+        image_path = os.path.join(MetaData.DIR_IMAGES, os.path.basename(original_image_path))
+        if not os.path.exists(image_path):
+            im = PILImage.open(original_image_path)
+            w, h = im.size
+            new_w = 800
+            new_h = int(h * new_w / w)
+            im = im.resize((new_w, new_h))
+            im.save(image_path)
+            log.debug(f'Resized {original_image_path} ({w}x{h}) to {image_path} ({new_w}x{new_h})')
+        return image_path
 
     @staticmethod
     @cache
-    def from_image(img_path: str) -> 'MetaData':
-        with open(img_path, 'rb') as src:
-            img = Image(src)
+    def from_original_image(original_image_path: str) -> 'MetaData':
+        with open(original_image_path, 'rb') as src:
+            img = ExifImage(src)
             ut = int(
                 MetaData.TIME_FORMAT_EXIF.parse(img.datetime_original).ut
             )
@@ -51,7 +68,10 @@ class MetaData:
             )
             alt = img.gps_altitude
             direction = img.gps_img_direction
-            return MetaData(img_path, ut, latlng, alt, direction)
+
+            image_path= MetaData.resize_image(original_image_path)
+
+            return MetaData(original_image_path, image_path, ut, latlng, alt, direction)
 
     def open_in_google_maps(self):
         lat, lng = self.latlng
@@ -81,22 +101,22 @@ class MetaData:
 
     @staticmethod
     @cache
-    def image_path_list() -> list[str]:
-        image_path_list = []
-        for file_name in os.listdir(MetaData.DIR_IMAGES):
+    def original_image_path_list() -> list[str]:
+        original_image_path_list = []
+        for file_name in os.listdir(MetaData.DIR_IMAGES_ORIGINAL):
             ext = file_name.split('.')[-1]
-            if ext not in ['jpg', 'jpeg', 'png']:
+            if ext not in MetaData.VALID_IMAGE_EXT_LIST:
                 continue
-            image_path = os.path.join(MetaData.DIR_IMAGES, file_name)
-            image_path_list.append(image_path)
-        return image_path_list
+            original_image_path = os.path.join(MetaData.DIR_IMAGES_ORIGINAL, file_name)
+            original_image_path_list.append(original_image_path)
+        return original_image_path_list
 
     @staticmethod
     @cache
     def list_all():
         return [
-            MetaData.from_image(img_path)
-            for img_path in MetaData.image_path_list()
+            MetaData.from_original_image(img_path)
+            for img_path in MetaData.original_image_path_list()
         ]
 
     @staticmethod
