@@ -49,6 +49,16 @@ class MetaDataBase:
     @property
     def confidence(self) -> float:
         return self.best_plantnet_result['score']
+    
+    @property
+    def confidence_emoji(self) -> str:
+        if self.confidence < 0.25:
+            return '🔴'
+        if self.confidence < 0.5:
+            return '🟠'
+        if self.confidence < 0.75:
+            return '🟡'
+        return '🟢'
 
     @property
     def candidate_species_to_score(self) -> dict:

@@ -12,7 +12,7 @@ class MetaDataREADME:
 
     @property
     def title(self) -> str:
-        return f'🌳 {self.scientific_name} ({self.google_maps_link})'
+        return f'{self.confidence_emoji}'+f' {self.scientific_name} ({self.google_maps_link})'
 
     @property
     def google_maps_link(self) -> str:
