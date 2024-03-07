@@ -103,9 +103,8 @@ class MetaDataBase:
         log.debug(f'Wrote {self.metadata_path}')
 
     @property
-    def sorter(self) -> int:
-        lat, lng = self.latlng
-        return int(lat * 1000 + lng)
+    def cmp(self) -> int:
+        return self.confidence
 
     @classmethod
     @cache
@@ -119,5 +118,5 @@ class MetaDataBase:
                 data = JSONFile(metadata_path).read()
                 md = cls(**data)
                 md_list.append(md)
-        md_list = sorted(md_list, key=lambda md: md.sorter)
+        md_list = sorted(md_list, key=lambda md: md.cmp, reverse=True)
         return md_list
