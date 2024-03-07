@@ -37,6 +37,10 @@ class MetaDataBase:
     @property
     def scientific_name(self) -> str:
         return self.best_plantnet_result['species']['scientificNameWithoutAuthor']
+    
+    @property
+    def wikipedia_url(self) -> str:
+        return 'https://en.wikipedia.org/wiki/' + self.scientific_name.replace(' ', '_')
 
     @property
     def family(self) -> str:

@@ -1,10 +1,10 @@
 # Viharamahadevi Park, Colombo, Sri Lanka
 
-## 🟠 Paubrasilia echinata ([6.9143°N,79.8623°E](https://www.google.com/maps/place/6.914261N,79.862342E))
+## 🟠 [Paubrasilia echinata](https://en.wikipedia.org/wiki/Paubrasilia_echinata) ([6.9143°N,79.8623°E](https://www.google.com/maps/place/6.914261N,79.862342E))
 
 |  |  |
 | --- | --- |
-| **Scientific Name** | *Paubrasilia echinata* |
+| **Scientific Name** | *[Paubrasilia echinata](https://en.wikipedia.org/wiki/Paubrasilia_echinata)* |
 | **Family** | Fabaceae |
 | **Common Names** | Orabutá (Portuguese), Pau-rosado (Portuguese) |
 | **Confidence** | 🟠 41.8% |
@@ -17,11 +17,11 @@
 
 ![data/images/Photo-2023-12-19-07-37-48.jpg](data/images/Photo-2023-12-19-07-37-48.jpg)
 
-## 🔴 Erythrina poeppigiana ([6.9132°N,79.8612°E](https://www.google.com/maps/place/6.913214N,79.861183E))
+## 🔴 [Erythrina poeppigiana](https://en.wikipedia.org/wiki/Erythrina_poeppigiana) ([6.9132°N,79.8612°E](https://www.google.com/maps/place/6.913214N,79.861183E))
 
 |  |  |
 | --- | --- |
-| **Scientific Name** | *Erythrina poeppigiana* |
+| **Scientific Name** | *[Erythrina poeppigiana](https://en.wikipedia.org/wiki/Erythrina_poeppigiana)* |
 | **Family** | Fabaceae |
 | **Common Names** | Coral tree, Immortelle-tree, Mountain immortelle |
 | **Confidence** | 🔴 11.9% |
@@ -34,11 +34,11 @@
 
 ![data/images/Photo-2023-12-30-07-59-02.jpg](data/images/Photo-2023-12-30-07-59-02.jpg)
 
-## 🔴 Juglans regia ([6.9146°N,79.8625°E](https://www.google.com/maps/place/6.914558N,79.862511E))
+## 🔴 [Juglans regia](https://en.wikipedia.org/wiki/Juglans_regia) ([6.9146°N,79.8625°E](https://www.google.com/maps/place/6.914558N,79.862511E))
 
 |  |  |
 | --- | --- |
-| **Scientific Name** | *Juglans regia* |
+| **Scientific Name** | *[Juglans regia](https://en.wikipedia.org/wiki/Juglans_regia)* |
 | **Family** | Juglandaceae |
 | **Common Names** | Black Walnut, English walnut, Carpathian walnut |
 | **Confidence** | 🔴 7.8% |
@@ -51,11 +51,11 @@
 
 ![data/images/Photo-2023-12-31-07-51-13.jpg](data/images/Photo-2023-12-31-07-51-13.jpg)
 
-## 🔴 Avicennia marina ([6.9137°N,79.8615°E](https://www.google.com/maps/place/6.913686N,79.861497E))
+## 🔴 [Avicennia marina](https://en.wikipedia.org/wiki/Avicennia_marina) ([6.9137°N,79.8615°E](https://www.google.com/maps/place/6.913686N,79.861497E))
 
 |  |  |
 | --- | --- |
-| **Scientific Name** | *Avicennia marina* |
+| **Scientific Name** | *[Avicennia marina](https://en.wikipedia.org/wiki/Avicennia_marina)* |
 | **Family** | Acanthaceae |
 | **Common Names** | Grey mangrove, White mangrove, Gray mangrove |
 | **Confidence** | 🔴 20.5% |
@@ -68,11 +68,11 @@
 
 ![data/images/Photo-2023-12-31-07-53-22.jpg](data/images/Photo-2023-12-31-07-53-22.jpg)
 
-## 🔴 Monodora tenuifolia ([6.9138°N,79.8600°E](https://www.google.com/maps/place/6.913781N,79.859978E))
+## 🔴 [Monodora tenuifolia](https://en.wikipedia.org/wiki/Monodora_tenuifolia) ([6.9138°N,79.8600°E](https://www.google.com/maps/place/6.913781N,79.859978E))
 
 |  |  |
 | --- | --- |
-| **Scientific Name** | *Monodora tenuifolia* |
+| **Scientific Name** | *[Monodora tenuifolia](https://en.wikipedia.org/wiki/Monodora_tenuifolia)* |
 | **Family** | Annonaceae |
 | **Common Names** | Orchidtree, African-nutmeg |
 | **Confidence** | 🔴 1.2% |
@@ -85,11 +85,11 @@
 
 ![data/images/Photo-2024-01-10-07-49-18.jpg](data/images/Photo-2024-01-10-07-49-18.jpg)
 
-## 🟠 Cassia grandis ([6.9133°N,79.8590°E](https://www.google.com/maps/place/6.913269N,79.858994E))
+## 🟠 [Cassia grandis](https://en.wikipedia.org/wiki/Cassia_grandis) ([6.9133°N,79.8590°E](https://www.google.com/maps/place/6.913269N,79.858994E))
 
 |  |  |
 | --- | --- |
-| **Scientific Name** | *Cassia grandis* |
+| **Scientific Name** | *[Cassia grandis](https://en.wikipedia.org/wiki/Cassia_grandis)* |
 | **Family** | Fabaceae |
 | **Common Names** | Appleblossom cassia, Coral shower, Horse cassia |
 | **Confidence** | 🟠 25.4% |
@@ -102,11 +102,11 @@
 
 ![data/images/Photo-2024-01-18-07-31-18.jpg](data/images/Photo-2024-01-18-07-31-18.jpg)
 
-## 🔴 Paubrasilia echinata ([6.9141°N,79.8622°E](https://www.google.com/maps/place/6.914117N,79.862189E))
+## 🔴 [Paubrasilia echinata](https://en.wikipedia.org/wiki/Paubrasilia_echinata) ([6.9141°N,79.8622°E](https://www.google.com/maps/place/6.914117N,79.862189E))
 
 |  |  |
 | --- | --- |
-| **Scientific Name** | *Paubrasilia echinata* |
+| **Scientific Name** | *[Paubrasilia echinata](https://en.wikipedia.org/wiki/Paubrasilia_echinata)* |
 | **Family** | Fabaceae |
 | **Common Names** | Orabutá (Portuguese), Pau-rosado (Portuguese) |
 | **Confidence** | 🔴 9.9% |
@@ -119,11 +119,11 @@
 
 ![data/images/Photo-2024-01-19-07-23-31.jpg](data/images/Photo-2024-01-19-07-23-31.jpg)
 
-## 🔴 Diospyros buxifolia ([6.9141°N,79.8622°E](https://www.google.com/maps/place/6.914128N,79.862206E))
+## 🔴 [Diospyros buxifolia](https://en.wikipedia.org/wiki/Diospyros_buxifolia) ([6.9141°N,79.8622°E](https://www.google.com/maps/place/6.914128N,79.862206E))
 
 |  |  |
 | --- | --- |
-| **Scientific Name** | *Diospyros buxifolia* |
+| **Scientific Name** | *[Diospyros buxifolia](https://en.wikipedia.org/wiki/Diospyros_buxifolia)* |
 | **Family** | Ebenaceae |
 | **Common Names** | Black ebony |
 | **Confidence** | 🔴 8.6% |
@@ -136,11 +136,11 @@
 
 ![data/images/Photo-2024-01-19-07-23-37.jpg](data/images/Photo-2024-01-19-07-23-37.jpg)
 
-## 🔴 Carissa carandas ([6.9121°N,79.8627°E](https://www.google.com/maps/place/6.912069N,79.862708E))
+## 🔴 [Carissa carandas](https://en.wikipedia.org/wiki/Carissa_carandas) ([6.9121°N,79.8627°E](https://www.google.com/maps/place/6.912069N,79.862708E))
 
 |  |  |
 | --- | --- |
-| **Scientific Name** | *Carissa carandas* |
+| **Scientific Name** | *[Carissa carandas](https://en.wikipedia.org/wiki/Carissa_carandas)* |
 | **Family** | Apocynaceae |
 | **Common Names** | Bengal-currants, Carandas-plum, Karanda |
 | **Confidence** | 🔴 12.7% |
@@ -153,11 +153,11 @@
 
 ![data/images/Photo-2024-01-20-08-02-53.jpg](data/images/Photo-2024-01-20-08-02-53.jpg)
 
-## 🔴 Pittosporum undulatum ([6.9136°N,79.8615°E](https://www.google.com/maps/place/6.913619N,79.86145E))
+## 🔴 [Pittosporum undulatum](https://en.wikipedia.org/wiki/Pittosporum_undulatum) ([6.9136°N,79.8615°E](https://www.google.com/maps/place/6.913619N,79.86145E))
 
 |  |  |
 | --- | --- |
-| **Scientific Name** | *Pittosporum undulatum* |
+| **Scientific Name** | *[Pittosporum undulatum](https://en.wikipedia.org/wiki/Pittosporum_undulatum)* |
 | **Family** | Pittosporaceae |
 | **Common Names** | Australian cheesewood, Cheesewood, Orange-berry pittosporum |
 | **Confidence** | 🔴 5.3% |
@@ -170,11 +170,11 @@
 
 ![data/images/Photo-2024-02-10-08-03-25.jpg](data/images/Photo-2024-02-10-08-03-25.jpg)
 
-## 🟠 Juglans nigra ([6.9139°N,79.8632°E](https://www.google.com/maps/place/6.913933N,79.863183E))
+## 🟠 [Juglans nigra](https://en.wikipedia.org/wiki/Juglans_nigra) ([6.9139°N,79.8632°E](https://www.google.com/maps/place/6.913933N,79.863183E))
 
 |  |  |
 | --- | --- |
-| **Scientific Name** | *Juglans nigra* |
+| **Scientific Name** | *[Juglans nigra](https://en.wikipedia.org/wiki/Juglans_nigra)* |
 | **Family** | Juglandaceae |
 | **Common Names** | Black walnut, American Walnut, Otaesémenôtse |
 | **Confidence** | 🟠 36.6% |
@@ -187,11 +187,11 @@
 
 ![data/images/Photo-2024-02-22-07-10-50.jpg](data/images/Photo-2024-02-22-07-10-50.jpg)
 
-## 🟡 Mesua ferrea ([6.9150°N,79.8627°E](https://www.google.com/maps/place/6.914983N,79.862703E))
+## 🟡 [Mesua ferrea](https://en.wikipedia.org/wiki/Mesua_ferrea) ([6.9150°N,79.8627°E](https://www.google.com/maps/place/6.914983N,79.862703E))
 
 |  |  |
 | --- | --- |
-| **Scientific Name** | *Mesua ferrea* |
+| **Scientific Name** | *[Mesua ferrea](https://en.wikipedia.org/wiki/Mesua_ferrea)* |
 | **Family** | Calophyllaceae |
 | **Common Names** | Mesua, Iron Wood Tree, Ceylon Ironwood |
 | **Confidence** | 🟡 60.5% |
@@ -204,11 +204,11 @@
 
 ![data/images/Photo-2024-02-22-07-16-55.jpg](data/images/Photo-2024-02-22-07-16-55.jpg)
 
-## 🔴 Averrhoa bilimbi ([6.9151°N,79.8626°E](https://www.google.com/maps/place/6.915089N,79.862572E))
+## 🔴 [Averrhoa bilimbi](https://en.wikipedia.org/wiki/Averrhoa_bilimbi) ([6.9151°N,79.8626°E](https://www.google.com/maps/place/6.915089N,79.862572E))
 
 |  |  |
 | --- | --- |
-| **Scientific Name** | *Averrhoa bilimbi* |
+| **Scientific Name** | *[Averrhoa bilimbi](https://en.wikipedia.org/wiki/Averrhoa_bilimbi)* |
 | **Family** | Oxalidaceae |
 | **Common Names** | Bilimbi, Tree-sorrel, Bilimbi-tree |
 | **Confidence** | 🔴 10.9% |
@@ -221,11 +221,11 @@
 
 ![data/images/Photo-2024-02-22-07-17-16.jpg](data/images/Photo-2024-02-22-07-17-16.jpg)
 
-## 🟡 Tabernaemontana divaricata ([6.9133°N,79.8585°E](https://www.google.com/maps/place/6.913258N,79.858528E))
+## 🟡 [Tabernaemontana divaricata](https://en.wikipedia.org/wiki/Tabernaemontana_divaricata) ([6.9133°N,79.8585°E](https://www.google.com/maps/place/6.913258N,79.858528E))
 
 |  |  |
 | --- | --- |
-| **Scientific Name** | *Tabernaemontana divaricata* |
+| **Scientific Name** | *[Tabernaemontana divaricata](https://en.wikipedia.org/wiki/Tabernaemontana_divaricata)* |
 | **Family** | Apocynaceae |
 | **Common Names** | Crape-jasmine, Butterfly-gardenia, నందివర్ధనం |
 | **Confidence** | 🟡 71.9% |

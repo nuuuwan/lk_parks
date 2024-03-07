@@ -11,8 +11,12 @@ class MetaDataREADME:
     README_PATH = os.path.join('README.md')
 
     @property
+    def scientific_name_link(self) -> str:
+        return f'[{self.scientific_name}]({self.wikipedia_url})'
+
+    @property
     def title(self) -> str:
-        return f'{self.confidence_emoji}'+f' {self.scientific_name} ({self.google_maps_link})'
+        return f'{self.confidence_emoji}'+f' {self.scientific_name_link} ({self.google_maps_link})'
 
     @property
     def google_maps_link(self) -> str:
@@ -26,7 +30,7 @@ class MetaDataREADME:
         return [
             '|  |  |',
             '| --- | --- |',
-            f'| **Scientific Name** | *{self.scientific_name}* |',
+            f'| **Scientific Name** | *{self.scientific_name_link}* |',
             f'| **Family** | {self.family} |',
             f'| **Common Names** | {", ".join(self.common_names)} |',
             f'| **Confidence** | '+f'{self.confidence_emoji} {self.confidence:.1%} |',
