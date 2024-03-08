@@ -37,6 +37,10 @@ class MetaDataBase:
     @property
     def scientific_name(self) -> str:
         return self.best_plantnet_result['species']['scientificNameWithoutAuthor']
+    
+    @property
+    def authorship(self) -> str:
+        return self.best_plantnet_result['species']['scientificNameAuthorship']
 
     @property
     def wikipedia_url(self) -> str:
