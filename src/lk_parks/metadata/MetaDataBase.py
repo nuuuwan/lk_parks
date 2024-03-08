@@ -41,8 +41,11 @@ class MetaDataBase:
 
     @property
     def direction_humanized(self) -> str:
-        directions = ['N', 'NE', 'E', 'SE', 'S', 'SW', 'W', 'NW', 'N']
-        return directions[round(self.direction / 45) % 8]
+        directions = ['N', 'NNE', 'NE', 'ENE',
+                      'E', 'ESE', 'SE', 'SSE',
+                      'S', 'SSW', 'SW', 'WSW',
+                      'W', 'WNW', 'NW', 'NNW']
+        return directions[round(self.direction / 22.5) % 16]
 
     @property
     def direction_pretty(self) -> str:

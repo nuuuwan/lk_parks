@@ -26,7 +26,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [158379](https://www.iucnredlist.org/search?query=Vachellia+nilotica&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 289.9° (W) |
+| **Camera Direction** | 289.9° (WNW) |
 | **Location** | [6.9156°N,79.8618°E](https://www.google.com/maps/place/6.915586N,79.861817E) |
 | **Altitude** | 12.3m |
 
@@ -48,7 +48,7 @@
 | **IUCN** | Unknown |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 210.1° (SW) |
+| **Camera Direction** | 210.1° (SSW) |
 | **Location** | [6.9156°N,79.8618°E](https://www.google.com/maps/place/6.915556N,79.861839E) |
 | **Altitude** | 11.0m |
 
@@ -70,7 +70,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [61986278](https://www.iucnredlist.org/search?query=Tabebuia+rosea&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 346.8° (N) |
+| **Camera Direction** | 346.8° (NNW) |
 | **Location** | [6.9155°N,79.8621°E](https://www.google.com/maps/place/6.915522N,79.862061E) |
 | **Altitude** | 10.0m |
 
@@ -92,7 +92,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [203351](https://www.iucnredlist.org/search?query=Laurus+nobilis&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 303.6° (NW) |
+| **Camera Direction** | 303.6° (WNW) |
 | **Location** | [6.9155°N,79.8623°E](https://www.google.com/maps/place/6.915464N,79.862336E) |
 | **Altitude** | 7.8m |
 
@@ -158,7 +158,7 @@
 | **IUCN** | `⚪ Data Deficient (DD)` [31389](https://www.iucnredlist.org/search?query=Mangifera+indica&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 331.8° (NW) |
+| **Camera Direction** | 331.8° (NNW) |
 | **Location** | [6.9153°N,79.8618°E](https://www.google.com/maps/place/6.915297N,79.8618E) |
 | **Altitude** | 9.5m |
 
@@ -202,7 +202,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [31332](https://www.iucnredlist.org/search?query=Toona+ciliata&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 342.5° (N) |
+| **Camera Direction** | 342.5° (NNW) |
 | **Location** | [6.9153°N,79.8619°E](https://www.google.com/maps/place/6.915258N,79.861908E) |
 | **Altitude** | 11.1m |
 
@@ -334,7 +334,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [61986231](https://www.iucnredlist.org/search?query=Tabebuia+pallida&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 240.1° (SW) |
+| **Camera Direction** | 240.1° (WSW) |
 | **Location** | [6.9149°N,79.8622°E](https://www.google.com/maps/place/6.914925N,79.862189E) |
 | **Altitude** | 11.4m |
 
@@ -356,7 +356,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [61986231](https://www.iucnredlist.org/search?query=Tabebuia+pallida&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 241.5° (SW) |
+| **Camera Direction** | 241.5° (WSW) |
 | **Location** | [6.9149°N,79.8622°E](https://www.google.com/maps/place/6.914911N,79.862175E) |
 | **Altitude** | 11.5m |
 
@@ -400,7 +400,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [136142327](https://www.iucnredlist.org/search?query=Cassia+fistula&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 11.5° (N) |
+| **Camera Direction** | 11.5° (NNE) |
 | **Location** | [6.9148°N,79.8624°E](https://www.google.com/maps/place/6.914814N,79.862433E) |
 | **Altitude** | 6.8m |
 
@@ -422,7 +422,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [72278682](https://www.iucnredlist.org/search?query=Ficus+retusa&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 77.1° (E) |
+| **Camera Direction** | 77.1° (ENE) |
 | **Location** | [6.9147°N,79.8602°E](https://www.google.com/maps/place/6.914742N,79.860231E) |
 | **Altitude** | 13.4m |
 
@@ -466,7 +466,7 @@
 | **IUCN** | Unknown |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 19.5° (N) |
+| **Camera Direction** | 19.5° (NNE) |
 | **Location** | [6.9147°N,79.8631°E](https://www.google.com/maps/place/6.914694N,79.863053E) |
 | **Altitude** | 8.5m |
 
@@ -532,7 +532,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [137640618](https://www.iucnredlist.org/search?query=Inga+edulis&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 250.0° (W) |
+| **Camera Direction** | 250.0° (WSW) |
 | **Location** | [6.9146°N,79.8626°E](https://www.google.com/maps/place/6.914606N,79.862586E) |
 | **Altitude** | 9.3m |
 
@@ -620,7 +620,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [32947](https://www.iucnredlist.org/search?query=Delonix+regia&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 255.8° (W) |
+| **Camera Direction** | 255.8° (WSW) |
 | **Location** | [6.9145°N,79.8624°E](https://www.google.com/maps/place/6.914486N,79.86235E) |
 | **Altitude** | 8.6m |
 
@@ -642,7 +642,7 @@
 | **IUCN** | Unknown |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 246.3° (SW) |
+| **Camera Direction** | 246.3° (WSW) |
 | **Location** | [6.9145°N,79.8621°E](https://www.google.com/maps/place/6.914483N,79.862144E) |
 | **Altitude** | 8.0m |
 
@@ -664,7 +664,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [61964765](https://www.iucnredlist.org/search?query=Mimusops+elengi&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 299.7° (NW) |
+| **Camera Direction** | 299.7° (WNW) |
 | **Location** | [6.9145°N,79.8634°E](https://www.google.com/maps/place/6.914475N,79.863442E) |
 | **Altitude** | 10.8m |
 
@@ -686,7 +686,7 @@
 | **IUCN** | Unknown |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 166.2° (S) |
+| **Camera Direction** | 166.2° (SSE) |
 | **Location** | [6.9144°N,79.8628°E](https://www.google.com/maps/place/6.914431N,79.862839E) |
 | **Altitude** | 10.4m |
 
@@ -774,7 +774,7 @@
 | **IUCN** | `⚪ Data Deficient (DD)` [61917032](https://www.iucnredlist.org/search?query=Melaleuca+leucadendra&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 337.3° (NW) |
+| **Camera Direction** | 337.3° (NNW) |
 | **Location** | [6.9143°N,79.8630°E](https://www.google.com/maps/place/6.914319N,79.862992E) |
 | **Altitude** | 7.6m |
 
@@ -796,7 +796,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [31332](https://www.iucnredlist.org/search?query=Toona+ciliata&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 162.9° (S) |
+| **Camera Direction** | 162.9° (SSE) |
 | **Location** | [6.9143°N,79.8604°E](https://www.google.com/maps/place/6.914306N,79.860419E) |
 | **Altitude** | 10.7m |
 
@@ -840,7 +840,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [189620212](https://www.iucnredlist.org/search?query=Moquilea+tomentosa&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 334.7° (NW) |
+| **Camera Direction** | 334.7° (NNW) |
 | **Location** | [6.9143°N,79.8636°E](https://www.google.com/maps/place/6.914269N,79.863578E) |
 | **Altitude** | 12.8m |
 
@@ -862,7 +862,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [49278407](https://www.iucnredlist.org/search?query=Melaleuca+quinquenervia&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 327.3° (NW) |
+| **Camera Direction** | 327.3° (NNW) |
 | **Location** | [6.9143°N,79.8639°E](https://www.google.com/maps/place/6.914267N,79.863883E) |
 | **Altitude** | 10.9m |
 
@@ -884,7 +884,7 @@
 | **IUCN** | `🟠 Endangered (EN)` [33974](https://www.iucnredlist.org/search?query=Paubrasilia+echinata&searchType=species) |
 |  |  |
 | **Time** | 07:12 AM (Dec 19, 2023) |
-| **Camera Direction** | 251.7° (W) |
+| **Camera Direction** | 251.7° (WSW) |
 | **Location** | [6.9143°N,79.8623°E](https://www.google.com/maps/place/6.914261N,79.862342E) |
 | **Altitude** | 11.8m |
 
@@ -906,7 +906,7 @@
 | **IUCN** | Unknown |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 257.7° (W) |
+| **Camera Direction** | 257.7° (WSW) |
 | **Location** | [6.9142°N,79.8638°E](https://www.google.com/maps/place/6.914247N,79.863831E) |
 | **Altitude** | 9.8m |
 
@@ -1060,7 +1060,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [49487196](https://www.iucnredlist.org/search?query=Syzygium+cumini&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 338.1° (N) |
+| **Camera Direction** | 338.1° (NNW) |
 | **Location** | [6.9142°N,79.8637°E](https://www.google.com/maps/place/6.914189N,79.8637E) |
 | **Altitude** | 9.7m |
 
@@ -1082,7 +1082,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [49487196](https://www.iucnredlist.org/search?query=Syzygium+cumini&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 334.2° (NW) |
+| **Camera Direction** | 334.2° (NNW) |
 | **Location** | [6.9142°N,79.8637°E](https://www.google.com/maps/place/6.914189N,79.863678E) |
 | **Altitude** | 11.9m |
 
@@ -1126,7 +1126,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [16728404](https://www.iucnredlist.org/search?query=Casuarina+equisetifolia&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 71.2° (E) |
+| **Camera Direction** | 71.2° (ENE) |
 | **Location** | [6.9141°N,79.8632°E](https://www.google.com/maps/place/6.914147N,79.863236E) |
 | **Altitude** | 7.8m |
 
@@ -1170,7 +1170,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [173387](https://www.iucnredlist.org/search?query=Diospyros+buxifolia&searchType=species) |
 |  |  |
 | **Time** | 07:01 AM (Jan 19, 2024) |
-| **Camera Direction** | 345.8° (N) |
+| **Camera Direction** | 345.8° (NNW) |
 | **Location** | [6.9141°N,79.8622°E](https://www.google.com/maps/place/6.914128N,79.862206E) |
 | **Altitude** | 7.6m |
 
@@ -1214,7 +1214,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [49278407](https://www.iucnredlist.org/search?query=Melaleuca+quinquenervia&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 302.5° (NW) |
+| **Camera Direction** | 302.5° (WNW) |
 | **Location** | [6.9141°N,79.8641°E](https://www.google.com/maps/place/6.914108N,79.864106E) |
 | **Altitude** | 9.8m |
 
@@ -1302,7 +1302,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [136789578](https://www.iucnredlist.org/search?query=Hamelia+patens&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 240.4° (SW) |
+| **Camera Direction** | 240.4° (WSW) |
 | **Location** | [6.9140°N,79.8622°E](https://www.google.com/maps/place/6.913983N,79.862244E) |
 | **Altitude** | 12.6m |
 
@@ -1368,7 +1368,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [61986401](https://www.iucnredlist.org/search?query=Cordia+dichotoma&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 109.8° (E) |
+| **Camera Direction** | 109.8° (ESE) |
 | **Location** | [6.9139°N,79.8604°E](https://www.google.com/maps/place/6.91395N,79.860358E) |
 | **Altitude** | 8.9m |
 
@@ -1412,7 +1412,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [61986278](https://www.iucnredlist.org/search?query=Tabebuia+rosea&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 292.3° (W) |
+| **Camera Direction** | 292.3° (WNW) |
 | **Location** | [6.9139°N,79.8642°E](https://www.google.com/maps/place/6.913917N,79.864236E) |
 | **Altitude** | 10.7m |
 
@@ -1434,7 +1434,7 @@
 | **IUCN** | Unknown |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 300.3° (NW) |
+| **Camera Direction** | 300.3° (WNW) |
 | **Location** | [6.9139°N,79.8645°E](https://www.google.com/maps/place/6.913894N,79.864494E) |
 | **Altitude** | 9.5m |
 
@@ -1478,7 +1478,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [19893142](https://www.iucnredlist.org/search?query=Bauhinia+variegata&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 256.8° (W) |
+| **Camera Direction** | 256.8° (WSW) |
 | **Location** | [6.9138°N,79.8645°E](https://www.google.com/maps/place/6.913811N,79.864517E) |
 | **Altitude** | 10.2m |
 
@@ -1522,7 +1522,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [79919776](https://www.iucnredlist.org/search?query=Phillyrea+latifolia&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 24.7° (NE) |
+| **Camera Direction** | 24.7° (NNE) |
 | **Location** | [6.9138°N,79.8643°E](https://www.google.com/maps/place/6.913775N,79.864267E) |
 | **Altitude** | 9.5m |
 
@@ -1566,7 +1566,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [133377043](https://www.iucnredlist.org/search?query=Eucalyptus+sideroxylon&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 338.0° (N) |
+| **Camera Direction** | 338.0° (NNW) |
 | **Location** | [6.9138°N,79.8637°E](https://www.google.com/maps/place/6.913761N,79.863686E) |
 | **Altitude** | 8.2m |
 
@@ -1588,7 +1588,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [194551](https://www.iucnredlist.org/search?query=Betula+nigra&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 284.9° (W) |
+| **Camera Direction** | 284.9° (WNW) |
 | **Location** | [6.9138°N,79.8644°E](https://www.google.com/maps/place/6.913758N,79.864433E) |
 | **Altitude** | 9.8m |
 
@@ -1610,7 +1610,7 @@
 | **IUCN** | `⚪ Data Deficient (DD)` [31389](https://www.iucnredlist.org/search?query=Mangifera+indica&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 207.1° (SW) |
+| **Camera Direction** | 207.1° (SSW) |
 | **Location** | [6.9137°N,79.8644°E](https://www.google.com/maps/place/6.913736N,79.864433E) |
 | **Altitude** | 10.4m |
 
@@ -1676,7 +1676,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [16728404](https://www.iucnredlist.org/search?query=Casuarina+equisetifolia&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 256.3° (W) |
+| **Camera Direction** | 256.3° (WSW) |
 | **Location** | [6.9137°N,79.8621°E](https://www.google.com/maps/place/6.913722N,79.862144E) |
 | **Altitude** | 10.2m |
 
@@ -1786,7 +1786,7 @@
 | **IUCN** | Unknown |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 213.0° (SW) |
+| **Camera Direction** | 213.0° (SSW) |
 | **Location** | [6.9136°N,79.8644°E](https://www.google.com/maps/place/6.913614N,79.864411E) |
 | **Altitude** | 10.5m |
 
@@ -1852,7 +1852,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [62329](https://www.iucnredlist.org/search?query=Roystonea+regia&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 73.5° (E) |
+| **Camera Direction** | 73.5° (ENE) |
 | **Location** | [6.9133°N,79.8615°E](https://www.google.com/maps/place/6.913325N,79.86155E) |
 | **Altitude** | 11.2m |
 
@@ -1918,7 +1918,7 @@
 | **IUCN** | `Unknown Category (LR/cd)` [38733](https://www.iucnredlist.org/search?query=Wodyetia+bifurcata&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 104.9° (E) |
+| **Camera Direction** | 104.9° (ESE) |
 | **Location** | [6.9132°N,79.8615°E](https://www.google.com/maps/place/6.913236N,79.861497E) |
 | **Altitude** | 12.4m |
 
@@ -1962,7 +1962,7 @@
 | **IUCN** | Unknown |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 282.8° (W) |
+| **Camera Direction** | 282.8° (WNW) |
 | **Location** | [6.9132°N,79.8614°E](https://www.google.com/maps/place/6.913178N,79.861419E) |
 | **Altitude** | 9.2m |
 
@@ -1984,7 +1984,7 @@
 | **IUCN** | `🟢 Least Concern (LC)` [194245](https://www.iucnredlist.org/search?query=Quercus+virginiana&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
-| **Camera Direction** | 159.1° (S) |
+| **Camera Direction** | 159.1° (SSE) |
 | **Location** | [6.9132°N,79.8614°E](https://www.google.com/maps/place/6.913156N,79.861436E) |
 | **Altitude** | 11.0m |
 
