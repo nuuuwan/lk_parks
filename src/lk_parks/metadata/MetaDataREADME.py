@@ -29,13 +29,12 @@ class MetaDataREADME:
     def description_lines(self):
         return [
             '|  |  |',
-            '| --- | --- |',
             f'| **Scientific Name** | *{self.scientific_name_link}* |',
             f'| **Family** | {self.family} |',
             f'| **Common Names** | {", ".join(self.common_names)} |',
             f'| **Confidence** | '+f'{self.confidence_emoji} {self.confidence:.1%} |',
             f'| **Other Candidates** | {self.other_candidates_pretty} |',
-            '| --- | --- |',
+            '|  |  |',
             f'| **Time** | {self.time_str} |',
             f'| **Location** | {self.google_maps_link} |',
             f'| **Altitude** | {self.alt:.1f}m |',
