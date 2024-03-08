@@ -81,9 +81,9 @@ class MetaDataREADME:
             f'| **Other Candidates** | {self.other_candidates_pretty} |',
             '|  |  |',
 
-            f'| **GBIF** | {self.gbif_pretty} |',
-            f'| **POWO** | {self.powo_pretty} |',
-            f'| **IUCN** | {self.iucn_pretty} |',
+            f'| **Global Biodiversity Information Facility (GBIF)** | {self.gbif_pretty} |',
+            f'| **Plants of the World Online (POWO)** | {self.powo_pretty} |',
+            f'| **International Union for Conservation of Nature (IUCN)** | {self.iucn_pretty} |',
 
             '|  |  |',
             f'| **Time** | {self.time_str} |',
