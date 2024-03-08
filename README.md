@@ -10,7 +10,7 @@
 | **Family** | Myrtaceae |
 | **Common Names** | Punktree, Belbowrie, Bottle brush tree |
 | **Confidence** | 🌳 98.5% |
-| **Candidates** | Melaleuca leucadendra (0.6%), Melaleuca styphelioides (0.2%) |
+| **c** | Melaleuca leucadendra (0.6%), Melaleuca styphelioides (0.2%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:58:25 |
 | **Location** | [6.9143°N,79.8639°E](https://www.google.com/maps/place/6.914267N,79.863883E) |
@@ -27,7 +27,7 @@
 | **Family** | Rubiaceae |
 | **Common Names** | Fire bush, Redhead, Scarletbush |
 | **Confidence** | 🌳 97.4% |
-| **Candidates** | Weigela florida (0.3%), Mussaenda erythrophylla (0.2%), Viburnum farreri (0.1%), Viburnum plicatum (0.1%) |
+| **c** | Weigela florida (0.3%), Mussaenda erythrophylla (0.2%), Viburnum farreri (0.1%), Viburnum plicatum (0.1%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:15:54 |
 | **Location** | [6.9140°N,79.8622°E](https://www.google.com/maps/place/6.913983N,79.862244E) |
@@ -44,7 +44,7 @@
 | **Family** | Moraceae |
 | **Common Names** | Jackfruit, কাঠাল, పనస |
 | **Confidence** | 🌳 94.2% |
-| **Candidates** | Artocarpus integer (3.4%), Ficus benghalensis (0.1%) |
+| **c** | Artocarpus integer (3.4%), Ficus benghalensis (0.1%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:07:47 |
 | **Location** | [6.9152°N,79.8619°E](https://www.google.com/maps/place/6.915197N,79.861947E) |
@@ -61,7 +61,7 @@
 | **Family** | Combretaceae |
 | **Common Names** | Tropical almond, Indian-almond, Country-almond |
 | **Confidence** | 🌳 94.1% |
-| **Candidates** | Tectona grandis (0.7%), Careya arborea (0.5%), Anacardium occidentale (0.3%), Anthocleista grandiflora (0.2%) |
+| **c** | Tectona grandis (0.7%), Careya arborea (0.5%), Anacardium occidentale (0.3%), Anthocleista grandiflora (0.2%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:07:01 |
 | **Location** | [6.9153°N,79.8618°E](https://www.google.com/maps/place/6.915267N,79.861847E) |
@@ -78,7 +78,7 @@
 | **Family** | Fabaceae |
 | **Common Names** | Golden Shower Tree, Indian-laburnum, Amaltas |
 | **Confidence** | 🌳 91.8% |
-| **Candidates** | Cassia abbreviata (0.5%), Aegle marmelos (0.5%), Senna surattensis (0.3%), Tipuana tipu (0.2%) |
+| **c** | Cassia abbreviata (0.5%), Aegle marmelos (0.5%), Senna surattensis (0.3%), Tipuana tipu (0.2%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:09:59 |
 | **Location** | [6.9148°N,79.8624°E](https://www.google.com/maps/place/6.914814N,79.862433E) |
@@ -95,7 +95,7 @@
 | **Family** | Moraceae |
 | **Common Names** | Peepal tree, Sacred fig, రావి |
 | **Confidence** | 🌳 84.2% |
-| **Candidates** | Hura crepitans (2.3%), Bischofia javanica (1.4%), Triadica sebifera (1.4%), Ficus virens (0.9%) |
+| **c** | Hura crepitans (2.3%), Bischofia javanica (1.4%), Triadica sebifera (1.4%), Ficus virens (0.9%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:14:47 |
 | **Location** | [6.9142°N,79.8621°E](https://www.google.com/maps/place/6.914203N,79.862136E) |
@@ -112,7 +112,7 @@
 | **Family** | Polypodiaceae |
 | **Common Names** | Fishtail swordfern |
 | **Confidence** | 🌳 84.0% |
-| **Candidates** | Nephrolepis biserrata (6.5%), Nephrolepis abrupta (1.1%), Phymatosorus scolopendria (0.5%), Nephrolepis exaltata (0.3%) |
+| **c** | Nephrolepis biserrata (6.5%), Nephrolepis abrupta (1.1%), Phymatosorus scolopendria (0.5%), Nephrolepis exaltata (0.3%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:19:20 |
 | **Location** | [6.9132°N,79.8614°E](https://www.google.com/maps/place/6.913178N,79.861419E) |
@@ -129,7 +129,7 @@
 | **Family** | Myrtaceae |
 | **Common Names** | Punktree, Belbowrie, Bottle brush tree |
 | **Confidence** | 🌳 77.0% |
-| **Candidates** | Melaleuca leucadendra (5.8%), Melaleuca styphelioides (1.8%), Acacia spirorbis (0.8%), Acacia longifolia (0.4%) |
+| **c** | Melaleuca leucadendra (5.8%), Melaleuca styphelioides (1.8%), Acacia spirorbis (0.8%), Acacia longifolia (0.4%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:57:27 |
 | **Location** | [6.9141°N,79.8642°E](https://www.google.com/maps/place/6.914072N,79.864206E) |
@@ -146,7 +146,7 @@
 | **Family** | Casuarinaceae |
 | **Common Names** | Beach sheoak, Australian beefwood, Australian-pine |
 | **Confidence** | 🌳 75.0% |
-| **Candidates** | Casuarina cunninghamiana (14.9%), Pinus pinea (1.1%), Pinus wallichiana (0.9%), Parkinsonia aculeata (0.3%) |
+| **c** | Casuarina cunninghamiana (14.9%), Pinus pinea (1.1%), Pinus wallichiana (0.9%), Parkinsonia aculeata (0.3%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:50:00 |
 | **Location** | [6.9141°N,79.8632°E](https://www.google.com/maps/place/6.914147N,79.863236E) |
@@ -163,7 +163,7 @@
 | **Family** | Arecaceae |
 | **Common Names** | Cuban royal palm, Florida royal palm, Royal palm |
 | **Confidence** | 🌳 74.8% |
-| **Candidates** | Roystonea oleracea (5.5%), Dictyosperma album (3.2%), Archontophoenix cunninghamiana (2.5%), Pseudophoenix sargentii (1.4%) |
+| **c** | Roystonea oleracea (5.5%), Dictyosperma album (3.2%), Archontophoenix cunninghamiana (2.5%), Pseudophoenix sargentii (1.4%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:17:50 |
 | **Location** | [6.9135°N,79.8617°E](https://www.google.com/maps/place/6.913517N,79.861708E) |
@@ -180,7 +180,7 @@
 | **Family** | Apocynaceae |
 | **Common Names** | Crape-jasmine, Butterfly-gardenia, నందివర్ధనం |
 | **Confidence** | 🌳 71.9% |
-| **Candidates** | Tabernaemontana catharinensis (3.4%), Pittosporum undulatum (3.0%), Cestrum nocturnum (2.9%), Tabernaemontana elegans (1.2%) |
+| **c** | Tabernaemontana catharinensis (3.4%), Pittosporum undulatum (3.0%), Cestrum nocturnum (2.9%), Tabernaemontana elegans (1.2%) |
 | --- | --- |
 | **Time** | 2024-02-24 07:57:14 |
 | **Location** | [6.9133°N,79.8585°E](https://www.google.com/maps/place/6.913258N,79.858528E) |
@@ -197,7 +197,7 @@
 | **Family** | Bignoniaceae |
 | **Common Names** | Pink poui, Pink trumpet-tree, Rosy trumpet-tree |
 | **Confidence** | 🌳 62.7% |
-| **Candidates** | Citharexylum myrianthum (13.6%), Handroanthus ochraceus (3.3%), Melia azedarach (3.2%), Bischofia javanica (1.4%) |
+| **c** | Citharexylum myrianthum (13.6%), Handroanthus ochraceus (3.3%), Melia azedarach (3.2%), Bischofia javanica (1.4%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:05:25 |
 | **Location** | [6.9155°N,79.8621°E](https://www.google.com/maps/place/6.915522N,79.862061E) |
@@ -214,7 +214,7 @@
 | **Family** | Casuarinaceae |
 | **Common Names** | Beach sheoak, Australian beefwood, Australian-pine |
 | **Confidence** | 🌳 62.2% |
-| **Candidates** | Casuarina cunninghamiana (30.5%), Tamarix gallica (1.4%), Tamarix ramosissima (0.5%), Casuarina glauca (0.3%) |
+| **c** | Casuarina cunninghamiana (30.5%), Tamarix gallica (1.4%), Tamarix ramosissima (0.5%), Casuarina glauca (0.3%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:16:43 |
 | **Location** | [6.9138°N,79.8621°E](https://www.google.com/maps/place/6.913772N,79.862083E) |
@@ -231,7 +231,7 @@
 | **Family** | Calophyllaceae |
 | **Common Names** | Mesua, Iron Wood Tree, Ceylon Ironwood |
 | **Confidence** | 🌳 60.5% |
-| **Candidates** | Monoon longifolium (8.2%), Quercus myrsinifolia (4.6%), Ficus maclellandii (1.9%), Saraca indica (0.8%) |
+| **c** | Monoon longifolium (8.2%), Quercus myrsinifolia (4.6%), Ficus maclellandii (1.9%), Saraca indica (0.8%) |
 | --- | --- |
 | **Time** | 2024-02-22 07:16:55 |
 | **Location** | [6.9150°N,79.8627°E](https://www.google.com/maps/place/6.914983N,79.862703E) |
@@ -248,7 +248,7 @@
 | **Family** | Arecaceae |
 | **Common Names** | Foxtail palm |
 | **Confidence** | 🌳 60.3% |
-| **Candidates** | Syagrus romanzoffiana (3.0%), Ptychosperma microcarpum (2.3%), Chamaedorea seifrizii (2.2%), Chamaedorea elegans (1.9%) |
+| **c** | Syagrus romanzoffiana (3.0%), Ptychosperma microcarpum (2.3%), Chamaedorea seifrizii (2.2%), Chamaedorea elegans (1.9%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:19:02 |
 | **Location** | [6.9132°N,79.8615°E](https://www.google.com/maps/place/6.913236N,79.861497E) |
@@ -265,7 +265,7 @@
 | **Family** | Bignoniaceae |
 | **Common Names** | Pink poui, Pink trumpet-tree, Rosy trumpet-tree |
 | **Confidence** | 🌳 57.3% |
-| **Candidates** | Tabebuia heterophylla (15.6%), Handroanthus impetiginosus (4.2%), Handroanthus heptaphyllus (2.1%), Tabebuia pallida (0.4%) |
+| **c** | Tabebuia heterophylla (15.6%), Handroanthus impetiginosus (4.2%), Handroanthus heptaphyllus (2.1%), Tabebuia pallida (0.4%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:50:57 |
 | **Location** | [6.9140°N,79.8634°E](https://www.google.com/maps/place/6.913964N,79.863358E) |
@@ -282,7 +282,7 @@
 | **Family** | Moraceae |
 | **Common Names** |  |
 | **Confidence** | 🌳 53.0% |
-| **Candidates** | Ficus virens (9.6%), Ficus lutea (5.1%), Syzygium cumini (2.7%), Inga uraguensis (2.0%) |
+| **c** | Ficus virens (9.6%), Ficus lutea (5.1%), Syzygium cumini (2.7%), Inga uraguensis (2.0%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:43:16 |
 | **Location** | [6.9141°N,79.8604°E](https://www.google.com/maps/place/6.914133N,79.860358E) |
@@ -299,7 +299,7 @@
 | **Family** | Apocynaceae |
 | **Common Names** | Golden-trumpet, Allamanda, Yellow allamanda |
 | **Confidence** | 🌳 52.8% |
-| **Candidates** | Allamanda schottii (34.4%), Hypericum lanceolatum (0.5%), Hypericum revolutum (0.3%), Polygala myrtifolia (0.2%) |
+| **c** | Allamanda schottii (34.4%), Hypericum lanceolatum (0.5%), Hypericum revolutum (0.3%), Polygala myrtifolia (0.2%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:02:39 |
 | **Location** | [6.9147°N,79.8631°E](https://www.google.com/maps/place/6.914694N,79.863053E) |
@@ -316,7 +316,7 @@
 | **Family** | Podocarpaceae |
 | **Common Names** | Kaphal, Asian bayberry, Nagi |
 | **Confidence** | ❓ 49.5% |
-| **Candidates** | Myristica fragrans (1.7%), Diospyros buxifolia (1.7%), Elaeocarpus reticulatus (1.4%), Prunus caroliniana (1.3%) |
+| **c** | Myristica fragrans (1.7%), Diospyros buxifolia (1.7%), Elaeocarpus reticulatus (1.4%), Prunus caroliniana (1.3%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:20:12 |
 | **Location** | [6.9130°N,79.8614°E](https://www.google.com/maps/place/6.912992N,79.861442E) |
@@ -333,7 +333,7 @@
 | **Family** | Moraceae |
 | **Common Names** | Indian banyan, Ficus Audrey, Bengal banyan |
 | **Confidence** | ❓ 48.5% |
-| **Candidates** | Ficus septica (9.2%), Ficus aurea (6.7%), Ficus callosa (5.0%), Ficus altissima (3.6%) |
+| **c** | Ficus septica (9.2%), Ficus aurea (6.7%), Ficus callosa (5.0%), Ficus altissima (3.6%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:56:14 |
 | **Location** | [6.9137°N,79.8642°E](https://www.google.com/maps/place/6.913725N,79.864197E) |
@@ -350,7 +350,7 @@
 | **Family** | Casuarinaceae |
 | **Common Names** | Beach sheoak, Australian beefwood, Australian-pine |
 | **Confidence** | ❓ 47.9% |
-| **Candidates** | Casuarina cunninghamiana (26.5%), Melaleuca armillaris (1.9%), Pinus pinea (1.3%), Casuarina glauca (1.2%) |
+| **c** | Casuarina cunninghamiana (26.5%), Melaleuca armillaris (1.9%), Pinus pinea (1.3%), Casuarina glauca (1.2%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:16:32 |
 | **Location** | [6.9137°N,79.8621°E](https://www.google.com/maps/place/6.913722N,79.862144E) |
@@ -367,7 +367,7 @@
 | **Family** | Moraceae |
 | **Common Names** | Indian banyan, Ficus Audrey, Bengal banyan |
 | **Confidence** | ❓ 42.6% |
-| **Candidates** | Ficus altissima (14.5%), Ficus elastica (11.8%), Ficus aurea (5.0%), Ficus virens (2.9%) |
+| **c** | Ficus altissima (14.5%), Ficus elastica (11.8%), Ficus aurea (5.0%), Ficus virens (2.9%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:12:45 |
 | **Location** | [6.9145°N,79.8621°E](https://www.google.com/maps/place/6.914483N,79.862144E) |
@@ -384,7 +384,7 @@
 | **Family** | Moraceae |
 | **Common Names** | Rubberplant, فیکوس, فیکوس الاستیکا |
 | **Confidence** | ❓ 42.1% |
-| **Candidates** | Ficus altissima (12.9%), Ficus lutea (8.9%), Ficus benghalensis (7.6%), Ficus virens (1.7%) |
+| **c** | Ficus altissima (12.9%), Ficus lutea (8.9%), Ficus benghalensis (7.6%), Ficus virens (1.7%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:49:41 |
 | **Location** | [6.9142°N,79.8631°E](https://www.google.com/maps/place/6.914217N,79.863136E) |
@@ -401,7 +401,7 @@
 | **Family** | Fabaceae |
 | **Common Names** | Orabutá (Portuguese), Pau-rosado (Portuguese) |
 | **Confidence** | ❓ 41.8% |
-| **Candidates** | Pterocarya stenoptera (6.8%), Samanea saman (1.3%), Pterocarya fraxinifolia (1.3%), Guaiacum sanctum (0.9%) |
+| **c** | Pterocarya stenoptera (6.8%), Samanea saman (1.3%), Pterocarya fraxinifolia (1.3%), Guaiacum sanctum (0.9%) |
 | --- | --- |
 | **Time** | 2023-12-19 07:37:48 |
 | **Location** | [6.9143°N,79.8623°E](https://www.google.com/maps/place/6.914261N,79.862342E) |
@@ -418,7 +418,7 @@
 | **Family** | Euphorbiaceae |
 | **Common Names** | Copper leaf, Capa de obispo, Beefsteak plant |
 | **Confidence** | ❓ 37.0% |
-| **Candidates** | Amaranthus tricolor (8.5%), Alternanthera brasiliana (4.0%), Amaranthus hybridus (2.3%), Amaranthus cruentus (2.2%) |
+| **c** | Amaranthus tricolor (8.5%), Alternanthera brasiliana (4.0%), Amaranthus hybridus (2.3%), Amaranthus cruentus (2.2%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:48:34 |
 | **Location** | [6.9144°N,79.8628°E](https://www.google.com/maps/place/6.914431N,79.862839E) |
@@ -435,7 +435,7 @@
 | **Family** | Bignoniaceae |
 | **Common Names** | Cuban pink trumpet-tree, White-cedar, Whitewood |
 | **Confidence** | ❓ 36.7% |
-| **Candidates** | Tabebuia heterophylla (11.2%), Rosa banksiae (4.5%), Tabebuia roseoalba (2.7%), Rosa moschata (1.4%) |
+| **c** | Tabebuia heterophylla (11.2%), Rosa banksiae (4.5%), Tabebuia roseoalba (2.7%), Rosa moschata (1.4%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:09:04 |
 | **Location** | [6.9149°N,79.8622°E](https://www.google.com/maps/place/6.914911N,79.862175E) |
@@ -452,7 +452,7 @@
 | **Family** | Juglandaceae |
 | **Common Names** | Black walnut, American Walnut, Otaesémenôtse |
 | **Confidence** | ❓ 36.6% |
-| **Candidates** | Ulmus americana (7.1%), Juglans cinerea (5.5%), Ulmus thomasii (3.4%), Quercus macrocarpa (3.4%) |
+| **c** | Ulmus americana (7.1%), Juglans cinerea (5.5%), Ulmus thomasii (3.4%), Quercus macrocarpa (3.4%) |
 | --- | --- |
 | **Time** | 2024-02-22 07:10:50 |
 | **Location** | [6.9139°N,79.8632°E](https://www.google.com/maps/place/6.913933N,79.863183E) |
@@ -469,7 +469,7 @@
 | **Family** | Myrtaceae |
 | **Common Names** | Red ironbark, Black ironbark, Ironbark |
 | **Confidence** | ❓ 35.4% |
-| **Candidates** | Mesua ferrea (11.2%), Celtis australis (3.2%), Eugenia jambosoides (3.0%), Eucalyptus obliqua (2.3%) |
+| **c** | Mesua ferrea (11.2%), Celtis australis (3.2%), Eugenia jambosoides (3.0%), Eucalyptus obliqua (2.3%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:52:11 |
 | **Location** | [6.9138°N,79.8637°E](https://www.google.com/maps/place/6.913761N,79.863686E) |
@@ -486,7 +486,7 @@
 | **Family** | Meliaceae |
 | **Common Names** | Red Cedar, Australian redcedar, Australian red-cedar |
 | **Confidence** | ❓ 35.0% |
-| **Candidates** | Pterocarpus indicus (4.6%), Spathodea campanulata (2.7%), Amburana cearensis (2.5%), Azadirachta indica (2.4%) |
+| **c** | Pterocarpus indicus (4.6%), Spathodea campanulata (2.7%), Amburana cearensis (2.5%), Azadirachta indica (2.4%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:14:23 |
 | **Location** | [6.9142°N,79.8622°E](https://www.google.com/maps/place/6.914192N,79.862214E) |
@@ -503,7 +503,7 @@
 | **Family** | Apocynaceae |
 | **Common Names** | Frangipani, Singapore graveyard flower, దేవ గన్నేరు |
 | **Confidence** | ❓ 34.2% |
-| **Candidates** | Plumeria rubra (24.9%), Plumeria alba (6.2%), Voacanga thouarsii (5.0%), Terminalia mantaly (2.1%) |
+| **c** | Plumeria rubra (24.9%), Plumeria alba (6.2%), Voacanga thouarsii (5.0%), Terminalia mantaly (2.1%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:09:30 |
 | **Location** | [6.9149°N,79.8623°E](https://www.google.com/maps/place/6.914878N,79.862328E) |
@@ -520,7 +520,7 @@
 | **Family** | Arecaceae |
 | **Common Names** | Common princess palm, Hurricane palm |
 | **Confidence** | ❓ 33.8% |
-| **Candidates** | Roystonea oleracea (7.1%), Roystonea regia (6.3%), Euterpe oleracea (2.8%), Archontophoenix cunninghamiana (2.5%) |
+| **c** | Roystonea oleracea (7.1%), Roystonea regia (6.3%), Euterpe oleracea (2.8%), Archontophoenix cunninghamiana (2.5%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:46:14 |
 | **Location** | [6.9131°N,79.8617°E](https://www.google.com/maps/place/6.913108N,79.861708E) |
@@ -537,7 +537,7 @@
 | **Family** | Myrtaceae |
 | **Common Names** | Punktree, Belbowrie, Bottle brush tree |
 | **Confidence** | ❓ 33.3% |
-| **Candidates** | Banksia integrifolia (4.5%), Byrsonima crassifolia (4.5%), Melaleuca leucadendra (4.2%), Umbellularia californica (3.2%) |
+| **c** | Banksia integrifolia (4.5%), Byrsonima crassifolia (4.5%), Melaleuca leucadendra (4.2%), Umbellularia californica (3.2%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:01:12 |
 | **Location** | [6.9145°N,79.8635°E](https://www.google.com/maps/place/6.914506N,79.863547E) |
@@ -554,7 +554,7 @@
 | **Family** | Poaceae |
 | **Common Names** | Hedge bamboo, Chinese dwarf bamboo, Chinese-goddess bamboo |
 | **Confidence** | ❓ 32.2% |
-| **Candidates** | Bambusa vulgaris (6.6%), Phyllostachys aurea (2.3%), Phyllostachys nigra (1.0%), Bambusa tuldoides (0.7%) |
+| **c** | Bambusa vulgaris (6.6%), Phyllostachys aurea (2.3%), Phyllostachys nigra (1.0%), Bambusa tuldoides (0.7%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:42:10 |
 | **Location** | [6.9147°N,79.8604°E](https://www.google.com/maps/place/6.914669N,79.860358E) |
@@ -571,7 +571,7 @@
 | **Family** | Combretaceae |
 | **Common Names** | Arjun, White murdh, Kumbuk |
 | **Confidence** | ❓ 30.4% |
-| **Candidates** | Psidium guajava (23.7%), Lagerstroemia speciosa (9.9%), Syzygium jambos (3.6%), Licania ternatensis (1.5%) |
+| **c** | Psidium guajava (23.7%), Lagerstroemia speciosa (9.9%), Syzygium jambos (3.6%), Licania ternatensis (1.5%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:58:33 |
 | **Location** | [6.9142°N,79.8638°E](https://www.google.com/maps/place/6.914247N,79.863831E) |
@@ -588,7 +588,7 @@
 | **Family** | Fabaceae |
 | **Common Names** | African-mahogany, Afzelia |
 | **Confidence** | ❓ 29.3% |
-| **Candidates** | Terminalia chebula (5.1%), Afzelia quanzensis (5.0%), Tabebuia rosea (3.3%), Pterocarpus angolensis (2.5%) |
+| **c** | Terminalia chebula (5.1%), Afzelia quanzensis (5.0%), Tabebuia rosea (3.3%), Pterocarpus angolensis (2.5%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:08:02 |
 | **Location** | [6.9151°N,79.8620°E](https://www.google.com/maps/place/6.915136N,79.862E) |
@@ -605,7 +605,7 @@
 | **Family** | Moraceae |
 | **Common Names** | Rubberplant, فیکوس, فیکوس الاستیکا |
 | **Confidence** | ❓ 29.1% |
-| **Candidates** | Ficus benghalensis (18.4%), Ficus religiosa (7.8%), Ficus nymphaeifolia (6.2%), Ficus altissima (5.7%) |
+| **c** | Ficus benghalensis (18.4%), Ficus religiosa (7.8%), Ficus nymphaeifolia (6.2%), Ficus altissima (5.7%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:53:49 |
 | **Location** | [6.9136°N,79.8641°E](https://www.google.com/maps/place/6.913567N,79.864144E) |
@@ -622,7 +622,7 @@
 | **Family** | Bignoniaceae |
 | **Common Names** | Cuban pink trumpet-tree, White-cedar, Whitewood |
 | **Confidence** | ❓ 28.3% |
-| **Candidates** | Tabebuia heterophylla (12.6%), Ceiba glaziovii (1.9%), Tabebuia roseoalba (1.8%), Moringa oleifera (1.5%) |
+| **c** | Tabebuia heterophylla (12.6%), Ceiba glaziovii (1.9%), Tabebuia roseoalba (1.8%), Moringa oleifera (1.5%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:08:54 |
 | **Location** | [6.9149°N,79.8622°E](https://www.google.com/maps/place/6.914925N,79.862189E) |
@@ -639,7 +639,7 @@
 | **Family** | Arecaceae |
 | **Common Names** | Cuban royal palm, Florida royal palm, Royal palm |
 | **Confidence** | ❓ 26.9% |
-| **Candidates** | Euterpe oleracea (9.7%), Phoenix reclinata (8.4%), Dypsis lutescens (7.3%), Roystonea oleracea (5.7%) |
+| **c** | Euterpe oleracea (9.7%), Phoenix reclinata (8.4%), Dypsis lutescens (7.3%), Roystonea oleracea (5.7%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:18:39 |
 | **Location** | [6.9133°N,79.8615°E](https://www.google.com/maps/place/6.913325N,79.86155E) |
@@ -656,7 +656,7 @@
 | **Family** | Meliaceae |
 | **Common Names** | Red Cedar, Australian redcedar, Australian red-cedar |
 | **Confidence** | ❓ 25.5% |
-| **Candidates** | Handroanthus serratifolius (20.3%), Pleiogynium timoriense (9.6%), Pterocarpus indicus (8.7%), Cassia fistula (4.3%) |
+| **c** | Handroanthus serratifolius (20.3%), Pleiogynium timoriense (9.6%), Pterocarpus indicus (8.7%), Cassia fistula (4.3%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:07:28 |
 | **Location** | [6.9153°N,79.8619°E](https://www.google.com/maps/place/6.915258N,79.861908E) |
@@ -673,7 +673,7 @@
 | **Family** | Fabaceae |
 | **Common Names** | Appleblossom cassia, Coral shower, Horse cassia |
 | **Confidence** | ❓ 25.4% |
-| **Candidates** | Albizia julibrissin (6.8%), Enterolobium contortisiliquum (5.1%), Albizia lebbeck (4.4%), Peltophorum pterocarpum (4.3%) |
+| **c** | Albizia julibrissin (6.8%), Enterolobium contortisiliquum (5.1%), Albizia lebbeck (4.4%), Peltophorum pterocarpum (4.3%) |
 | --- | --- |
 | **Time** | 2024-01-18 07:31:18 |
 | **Location** | [6.9133°N,79.8590°E](https://www.google.com/maps/place/6.913269N,79.858994E) |
@@ -690,7 +690,7 @@
 | **Family** | Myrtaceae |
 | **Common Names** | जामुन, Jaman, అల్లనేరేడు |
 | **Confidence** | ❓ 24.1% |
-| **Candidates** | Juglans regia (6.8%), Syzygium malaccense (3.5%), Ficus altissima (2.9%), Ficus lacor (2.7%) |
+| **c** | Juglans regia (6.8%), Syzygium malaccense (3.5%), Ficus altissima (2.9%), Ficus lacor (2.7%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:59:40 |
 | **Location** | [6.9142°N,79.8637°E](https://www.google.com/maps/place/6.914189N,79.8637E) |
@@ -707,7 +707,7 @@
 | **Family** | Apocynaceae |
 | **Common Names** | Frangipani, Singapore graveyard flower, దేవ గన్నేరు |
 | **Confidence** | ❓ 23.9% |
-| **Candidates** | Plumeria alba (17.1%), Plumeria rubra (9.8%), Pachypodium decaryi (3.2%), Ficus maxima (2.1%) |
+| **c** | Plumeria alba (17.1%), Plumeria rubra (9.8%), Pachypodium decaryi (3.2%), Ficus maxima (2.1%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:10:36 |
 | **Location** | [6.9147°N,79.8624°E](https://www.google.com/maps/place/6.914736N,79.862428E) |
@@ -724,7 +724,7 @@
 | **Family** | Moraceae |
 | **Common Names** | Florida strangler, Florida strangler fig |
 | **Confidence** | ❓ 21.4% |
-| **Candidates** | Ficus luschnathiana (11.9%), Ficus insipida (8.0%), Ficus septica (5.5%), Ficus virens (4.1%) |
+| **c** | Ficus luschnathiana (11.9%), Ficus insipida (8.0%), Ficus septica (5.5%), Ficus virens (4.1%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:52:52 |
 | **Location** | [6.9137°N,79.8639°E](https://www.google.com/maps/place/6.913653N,79.863853E) |
@@ -741,7 +741,7 @@
 | **Family** | Moraceae |
 | **Common Names** | Indian laurel, Indian Laurel Fig, Ficus nitida |
 | **Confidence** | ❓ 20.8% |
-| **Candidates** | Ficus benjamina (18.5%), Osmanthus fragrans (11.6%), Quercus glauca (2.8%), Cinnamomum camphora (2.5%) |
+| **c** | Ficus benjamina (18.5%), Osmanthus fragrans (11.6%), Quercus glauca (2.8%), Cinnamomum camphora (2.5%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:41:54 |
 | **Location** | [6.9147°N,79.8602°E](https://www.google.com/maps/place/6.914742N,79.860231E) |
@@ -758,7 +758,7 @@
 | **Family** | Moraceae |
 | **Common Names** | Jackfruit, কাঠাল, పనస |
 | **Confidence** | ❓ 20.8% |
-| **Candidates** | Magnolia virginiana (5.1%), Terminalia catappa (4.7%), Artocarpus integer (4.5%), Viburnum odoratissimum (2.1%) |
+| **c** | Magnolia virginiana (5.1%), Terminalia catappa (4.7%), Artocarpus integer (4.5%), Viburnum odoratissimum (2.1%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:55:11 |
 | **Location** | [6.9139°N,79.8645°E](https://www.google.com/maps/place/6.913894N,79.864494E) |
@@ -775,7 +775,7 @@
 | **Family** | Acanthaceae |
 | **Common Names** | Grey mangrove, White mangrove, Gray mangrove |
 | **Confidence** | ❓ 20.5% |
-| **Candidates** | Camellia sinensis (3.9%), Myrtus communis (1.7%), Salix euxina (1.4%), Salix pentandra (1.1%) |
+| **c** | Camellia sinensis (3.9%), Myrtus communis (1.7%), Salix euxina (1.4%), Salix pentandra (1.1%) |
 | --- | --- |
 | **Time** | 2023-12-31 07:53:22 |
 | **Location** | [6.9137°N,79.8615°E](https://www.google.com/maps/place/6.913686N,79.861497E) |
@@ -792,7 +792,7 @@
 | **Family** | Meliaceae |
 | **Common Names** | Cuban mahogany, West Indian mahogany, Spanish mahogany |
 | **Confidence** | ❓ 20.4% |
-| **Candidates** | Fraxinus pennsylvanica (19.6%), Carya illinoinensis (11.2%), Swietenia macrophylla (3.5%), Tabebuia rosea (3.2%) |
+| **c** | Fraxinus pennsylvanica (19.6%), Carya illinoinensis (11.2%), Swietenia macrophylla (3.5%), Tabebuia rosea (3.2%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:51:54 |
 | **Location** | [6.9138°N,79.8636°E](https://www.google.com/maps/place/6.913839N,79.863647E) |
@@ -809,7 +809,7 @@
 | **Family** | Bignoniaceae |
 | **Common Names** | Pink poui, Pink trumpet-tree, Rosy trumpet-tree |
 | **Confidence** | ❓ 20.2% |
-| **Candidates** | Tipuana tipu (9.3%), Schinus terebinthifolia (5.6%), Albizia lebbeck (4.1%), Robinia hispida (3.8%) |
+| **c** | Tipuana tipu (9.3%), Schinus terebinthifolia (5.6%), Albizia lebbeck (4.1%), Robinia hispida (3.8%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:48:53 |
 | **Location** | [6.9144°N,79.8629°E](https://www.google.com/maps/place/6.914369N,79.862922E) |
@@ -826,7 +826,7 @@
 | **Family** | Fabaceae |
 | **Common Names** | Mountain ebony, Orchidtree, Butterfly tree |
 | **Confidence** | ❓ 20.1% |
-| **Candidates** | Bauhinia purpurea (15.3%), Hamamelis virginiana (5.3%), Cordia sebestena (2.9%), Cordia dichotoma (2.4%) |
+| **c** | Bauhinia purpurea (15.3%), Hamamelis virginiana (5.3%), Cordia sebestena (2.9%), Cordia dichotoma (2.4%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:54:59 |
 | **Location** | [6.9138°N,79.8645°E](https://www.google.com/maps/place/6.913811N,79.864517E) |
@@ -843,7 +843,7 @@
 | **Family** | Anacardiaceae |
 | **Common Names** | Purple mombin, Red mombin, Spanish-plum |
 | **Confidence** | ❓ 20.0% |
-| **Candidates** | Filicium decipiens (11.1%), Samanea saman (4.7%), Schinus terebinthifolia (4.2%), Kigelia africana (4.0%) |
+| **c** | Filicium decipiens (11.1%), Samanea saman (4.7%), Schinus terebinthifolia (4.2%), Kigelia africana (4.0%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:59:26 |
 | **Location** | [6.9141°N,79.8637°E](https://www.google.com/maps/place/6.914081N,79.863747E) |
@@ -860,7 +860,7 @@
 | **Family** | Oleaceae |
 | **Common Names** | Chinese ash |
 | **Confidence** | ❓ 19.2% |
-| **Candidates** | Tabebuia roseoalba (8.6%), Tabebuia rosea (6.2%), Clerodendrum quadriloculare (2.8%), Handroanthus ochraceus (2.1%) |
+| **c** | Tabebuia roseoalba (8.6%), Tabebuia rosea (6.2%), Clerodendrum quadriloculare (2.8%), Handroanthus ochraceus (2.1%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:12:01 |
 | **Location** | [6.9145°N,79.8625°E](https://www.google.com/maps/place/6.914511N,79.862481E) |
@@ -877,7 +877,7 @@
 | **Family** | Fabaceae |
 | **Common Names** |  |
 | **Confidence** | ❓ 18.1% |
-| **Candidates** | Swietenia macrophylla (2.0%), Tabebuia rosea (1.9%), Spathodea campanulata (1.9%), Handroanthus impetiginosus (1.8%) |
+| **c** | Swietenia macrophylla (2.0%), Tabebuia rosea (1.9%), Spathodea campanulata (1.9%), Handroanthus impetiginosus (1.8%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:05:09 |
 | **Location** | [6.9154°N,79.8621°E](https://www.google.com/maps/place/6.915444N,79.862131E) |
@@ -894,7 +894,7 @@
 | **Family** | Arecaceae |
 | **Common Names** | Cuban royal palm, Florida royal palm, Royal palm |
 | **Confidence** | ❓ 17.8% |
-| **Candidates** | Phoenix reclinata (15.3%), Roystonea oleracea (5.6%), Archontophoenix cunninghamiana (4.3%), Syagrus romanzoffiana (4.2%) |
+| **c** | Phoenix reclinata (15.3%), Roystonea oleracea (5.6%), Archontophoenix cunninghamiana (4.3%), Syagrus romanzoffiana (4.2%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:42:57 |
 | **Location** | [6.9143°N,79.8604°E](https://www.google.com/maps/place/6.91425N,79.860375E) |
@@ -911,7 +911,7 @@
 | **Family** | Anacardiaceae |
 | **Common Names** | Mango, Mango Tree, आम |
 | **Confidence** | ❓ 17.5% |
-| **Candidates** | × Chitalpa tashkentensis (5.0%), Mimusops elengi (4.9%), Quercus acutissima (3.5%), Acacia auriculiformis (3.4%) |
+| **c** | × Chitalpa tashkentensis (5.0%), Mimusops elengi (4.9%), Quercus acutissima (3.5%), Acacia auriculiformis (3.4%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:06:50 |
 | **Location** | [6.9153°N,79.8618°E](https://www.google.com/maps/place/6.915297N,79.8618E) |
@@ -928,7 +928,7 @@
 | **Family** | Myrtaceae |
 | **Common Names** | जामुन, Jaman, అల్లనేరేడు |
 | **Confidence** | ❓ 17.2% |
-| **Candidates** | Annona purpurea (7.8%), Juglans regia (4.9%), Diospyros blancoi (2.9%), Eugenia jambosoides (2.6%) |
+| **c** | Annona purpurea (7.8%), Juglans regia (4.9%), Diospyros blancoi (2.9%), Eugenia jambosoides (2.6%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:00:00 |
 | **Location** | [6.9142°N,79.8637°E](https://www.google.com/maps/place/6.914189N,79.863678E) |
@@ -945,7 +945,7 @@
 | **Family** | Boraginaceae |
 | **Common Names** | Fragrant manjack, Indian-cherry, Clammy-cherry |
 | **Confidence** | ❓ 17.0% |
-| **Candidates** | Bauhinia × blakeana (9.1%), Cordia sebestena (5.5%), Celtis sinensis (4.8%), Bauhinia variegata (4.4%) |
+| **c** | Bauhinia × blakeana (9.1%), Cordia sebestena (5.5%), Celtis sinensis (4.8%), Bauhinia variegata (4.4%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:43:33 |
 | **Location** | [6.9139°N,79.8604°E](https://www.google.com/maps/place/6.91395N,79.860358E) |
@@ -962,7 +962,7 @@
 | **Family** | Fabaceae |
 | **Common Names** | Ice-cream-bean, Guaba, Pois Doux |
 | **Confidence** | ❓ 16.9% |
-| **Candidates** | Hymenaea courbaril (11.3%), Tabebuia rosea (7.4%), Inga uraguensis (6.3%), Eugenia candolleana (3.1%) |
+| **c** | Hymenaea courbaril (11.3%), Tabebuia rosea (7.4%), Inga uraguensis (6.3%), Eugenia candolleana (3.1%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:11:46 |
 | **Location** | [6.9146°N,79.8626°E](https://www.google.com/maps/place/6.914606N,79.862586E) |
@@ -979,7 +979,7 @@
 | **Family** | Moringaceae |
 | **Common Names** | Moringa, Drumstick Tree, Moringa Tree |
 | **Confidence** | ❓ 16.6% |
-| **Candidates** | Ficus religiosa (12.7%), Tabebuia rosea (5.7%), Ipomoea arborescens (2.1%), Amburana cearensis (1.5%) |
+| **c** | Ficus religiosa (12.7%), Tabebuia rosea (5.7%), Ipomoea arborescens (2.1%), Amburana cearensis (1.5%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:13:16 |
 | **Location** | [6.9143°N,79.8623°E](https://www.google.com/maps/place/6.914325N,79.862328E) |
@@ -996,7 +996,7 @@
 | **Family** | Anacardiaceae |
 | **Common Names** | Cashew, Cashewnut, Pomifera |
 | **Confidence** | ❓ 16.5% |
-| **Candidates** | Kigelia africana (12.0%), Schleichera oleosa (11.6%), Psidium guajava (9.8%), Trichilia dregeana (4.6%) |
+| **c** | Kigelia africana (12.0%), Schleichera oleosa (11.6%), Psidium guajava (9.8%), Trichilia dregeana (4.6%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:58:10 |
 | **Location** | [6.9142°N,79.8640°E](https://www.google.com/maps/place/6.914239N,79.863975E) |
@@ -1013,7 +1013,7 @@
 | **Family** | Fabaceae |
 | **Common Names** | Gum arabic tree, Black Piquant, Cassie |
 | **Confidence** | ❓ 16.5% |
-| **Candidates** | Vachellia farnesiana (5.1%), Nothofagus antarctica (4.4%), Tamarindus indica (3.9%), Ulmus pumila (2.4%) |
+| **c** | Vachellia farnesiana (5.1%), Nothofagus antarctica (4.4%), Tamarindus indica (3.9%), Ulmus pumila (2.4%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:05:52 |
 | **Location** | [6.9156°N,79.8618°E](https://www.google.com/maps/place/6.915586N,79.861817E) |
@@ -1030,7 +1030,7 @@
 | **Family** | Combretaceae |
 | **Common Names** | Arjun, White murdh, Kumbuk |
 | **Confidence** | ❓ 16.2% |
-| **Candidates** | Quercus phellos (10.4%), Polyalthia suberosa (9.0%), Brownea grandiceps (4.6%), Syzygium jambos (2.6%) |
+| **c** | Quercus phellos (10.4%), Polyalthia suberosa (9.0%), Brownea grandiceps (4.6%), Syzygium jambos (2.6%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:44:01 |
 | **Location** | [6.9136°N,79.8605°E](https://www.google.com/maps/place/6.913642N,79.860481E) |
@@ -1047,7 +1047,7 @@
 | **Family** | Meliaceae |
 | **Common Names** | Red Cedar, Australian redcedar, Australian red-cedar |
 | **Confidence** | ❓ 15.8% |
-| **Candidates** | Lagerstroemia speciosa (13.2%), Casimiroa edulis (4.3%), Bridelia micrantha (3.6%), Cassia fistula (3.4%) |
+| **c** | Lagerstroemia speciosa (13.2%), Casimiroa edulis (4.3%), Bridelia micrantha (3.6%), Cassia fistula (3.4%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:42:44 |
 | **Location** | [6.9143°N,79.8604°E](https://www.google.com/maps/place/6.914306N,79.860419E) |
@@ -1064,7 +1064,7 @@
 | **Family** | Betulaceae |
 | **Common Names** | River birch, Red birch, Black Birch |
 | **Confidence** | ❓ 14.9% |
-| **Candidates** | Platanus occidentalis (5.3%), Ulmus americana (3.9%), Liriodendron tulipifera (3.2%), Morus nigra (3.0%) |
+| **c** | Platanus occidentalis (5.3%), Ulmus americana (3.9%), Liriodendron tulipifera (3.2%), Morus nigra (3.0%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:54:46 |
 | **Location** | [6.9138°N,79.8644°E](https://www.google.com/maps/place/6.913758N,79.864433E) |
@@ -1081,7 +1081,7 @@
 | **Family** | Lauraceae |
 | **Common Names** | (Sweet) Bay leaf, Bay Laurel, Sweet bay |
 | **Confidence** | ❓ 14.7% |
-| **Candidates** | Laurus azorica (3.4%), Ruprechtia laxiflora (3.3%), Gymnanthemum amygdalinum (2.7%), Combretum kraussii (2.2%) |
+| **c** | Laurus azorica (3.4%), Ruprechtia laxiflora (3.3%), Gymnanthemum amygdalinum (2.7%), Combretum kraussii (2.2%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:04:39 |
 | **Location** | [6.9155°N,79.8623°E](https://www.google.com/maps/place/6.915464N,79.862336E) |
@@ -1098,7 +1098,7 @@
 | **Family** | Malvaceae |
 | **Common Names** | Hawaiian hibiscus, Hibiscus, गुड़हल |
 | **Confidence** | ❓ 12.9% |
-| **Candidates** | Hibiscus fragilis (5.6%), Hibiscus schizopetalus (4.4%), Lantana camara (2.5%), Crataegus persimilis (0.8%) |
+| **c** | Hibiscus fragilis (5.6%), Hibiscus schizopetalus (4.4%), Lantana camara (2.5%), Crataegus persimilis (0.8%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:55:50 |
 | **Location** | [6.9136°N,79.8644°E](https://www.google.com/maps/place/6.913614N,79.864411E) |
@@ -1115,7 +1115,7 @@
 | **Family** | Apocynaceae |
 | **Common Names** | Bengal-currants, Carandas-plum, Karanda |
 | **Confidence** | ❓ 12.7% |
-| **Candidates** | Eugenia brasiliensis (8.9%), Myrsine guianensis (7.1%), Quercus humboldtii (6.9%), Ixora chinensis (3.9%) |
+| **c** | Eugenia brasiliensis (8.9%), Myrsine guianensis (7.1%), Quercus humboldtii (6.9%), Ixora chinensis (3.9%) |
 | --- | --- |
 | **Time** | 2024-01-20 08:02:53 |
 | **Location** | [6.9121°N,79.8627°E](https://www.google.com/maps/place/6.912069N,79.862708E) |
@@ -1132,7 +1132,7 @@
 | **Family** | Fagaceae |
 | **Common Names** | Southern live oak, Live oak, Virginia Live Oak |
 | **Confidence** | ❓ 12.7% |
-| **Candidates** | Ficus religiosa (7.4%), Inga laurina (6.9%), Pistacia atlantica (4.8%), Swietenia mahagoni (4.0%) |
+| **c** | Ficus religiosa (7.4%), Inga laurina (6.9%), Pistacia atlantica (4.8%), Swietenia mahagoni (4.0%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:19:27 |
 | **Location** | [6.9132°N,79.8614°E](https://www.google.com/maps/place/6.913156N,79.861436E) |
@@ -1149,7 +1149,7 @@
 | **Family** | Myrtaceae |
 | **Common Names** | Punktree, Belbowrie, Bottle brush tree |
 | **Confidence** | ❓ 12.6% |
-| **Candidates** | Olea europaea (9.1%), Melaleuca citrina (6.0%), Melaleuca viminalis (2.6%), Tristaniopsis laurina (2.5%) |
+| **c** | Olea europaea (9.1%), Melaleuca citrina (6.0%), Melaleuca viminalis (2.6%), Tristaniopsis laurina (2.5%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:57:45 |
 | **Location** | [6.9141°N,79.8641°E](https://www.google.com/maps/place/6.914108N,79.864106E) |
@@ -1166,7 +1166,7 @@
 | **Family** | Sapindaceae |
 | **Common Names** | Ferntree |
 | **Confidence** | ❓ 12.5% |
-| **Candidates** | Myrica faya (5.9%), Banksia integrifolia (4.4%), Acacia longifolia (3.0%), Licania ternatensis (2.7%) |
+| **c** | Myrica faya (5.9%), Banksia integrifolia (4.4%), Acacia longifolia (3.0%), Licania ternatensis (2.7%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:59:04 |
 | **Location** | [6.9140°N,79.8639°E](https://www.google.com/maps/place/6.913964N,79.863922E) |
@@ -1183,7 +1183,7 @@
 | **Family** | Fabaceae |
 | **Common Names** | Coral tree, Immortelle-tree, Mountain immortelle |
 | **Confidence** | ❓ 11.9% |
-| **Candidates** | Erythrina fusca (10.6%), Ficus benghalensis (4.6%), Erythrina speciosa (2.1%), Erythrina amazonica (2.0%) |
+| **c** | Erythrina fusca (10.6%), Ficus benghalensis (4.6%), Erythrina speciosa (2.1%), Erythrina amazonica (2.0%) |
 | --- | --- |
 | **Time** | 2023-12-30 07:59:02 |
 | **Location** | [6.9132°N,79.8612°E](https://www.google.com/maps/place/6.913214N,79.861183E) |
@@ -1200,7 +1200,7 @@
 | **Family** | Combretaceae |
 | **Common Names** | Satellite Tree., Amandier de Madagascar, Ketapang Kencana |
 | **Confidence** | ❓ 11.8% |
-| **Candidates** | Ficus microcarpa (10.4%), Ficus elastica (6.3%), Ficus benghalensis (6.2%), Ficus sycomorus (4.0%) |
+| **c** | Ficus microcarpa (10.4%), Ficus elastica (6.3%), Ficus benghalensis (6.2%), Ficus sycomorus (4.0%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:04:14 |
 | **Location** | [6.9153°N,79.8626°E](https://www.google.com/maps/place/6.915325N,79.862556E) |
@@ -1217,7 +1217,7 @@
 | **Family** | Bignoniaceae |
 | **Common Names** | Pink poui, Pink trumpet-tree, Rosy trumpet-tree |
 | **Confidence** | ❓ 11.5% |
-| **Candidates** | Handroanthus heptaphyllus (9.2%), Celtis australis (8.2%), Ficus virens (4.3%), Quercus glauca (3.7%) |
+| **c** | Handroanthus heptaphyllus (9.2%), Celtis australis (8.2%), Ficus virens (4.3%), Quercus glauca (3.7%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:57:03 |
 | **Location** | [6.9140°N,79.8642°E](https://www.google.com/maps/place/6.913983N,79.864236E) |
@@ -1234,7 +1234,7 @@
 | **Family** | Malpighiaceae |
 | **Common Names** | Peanut butter fruit, Sunset fruit |
 | **Confidence** | ❓ 11.3% |
-| **Candidates** | Ehretia anacua (10.4%), Flacourtia jangomas (3.4%), Malpighia glabra (3.3%), Campomanesia xanthocarpa (2.4%) |
+| **c** | Ehretia anacua (10.4%), Flacourtia jangomas (3.4%), Malpighia glabra (3.3%), Campomanesia xanthocarpa (2.4%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:06:01 |
 | **Location** | [6.9156°N,79.8618°E](https://www.google.com/maps/place/6.915556N,79.861839E) |
@@ -1251,7 +1251,7 @@
 | **Family** | Oxalidaceae |
 | **Common Names** | Bilimbi, Tree-sorrel, Bilimbi-tree |
 | **Confidence** | ❓ 10.9% |
-| **Candidates** | Lagerstroemia speciosa (7.7%), Brownea grandiceps (5.7%), Phyllanthus acidus (4.9%), Koelreuteria bipinnata (4.4%) |
+| **c** | Lagerstroemia speciosa (7.7%), Brownea grandiceps (5.7%), Phyllanthus acidus (4.9%), Koelreuteria bipinnata (4.4%) |
 | --- | --- |
 | **Time** | 2024-02-22 07:17:16 |
 | **Location** | [6.9151°N,79.8626°E](https://www.google.com/maps/place/6.915089N,79.862572E) |
@@ -1268,7 +1268,7 @@
 | **Family** | Apocynaceae |
 | **Common Names** | Star jasmine, Confederate jasmine, Chinese star-jessamine |
 | **Confidence** | ❓ 10.0% |
-| **Candidates** | Trachelospermum asiaticum (8.4%), Ilex cornuta (4.9%), Atalantia buxifolia (3.8%), Psidium guajava (3.3%) |
+| **c** | Trachelospermum asiaticum (8.4%), Ilex cornuta (4.9%), Atalantia buxifolia (3.8%), Psidium guajava (3.3%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:11:11 |
 | **Location** | [6.9146°N,79.8625°E](https://www.google.com/maps/place/6.914644N,79.862525E) |
@@ -1285,7 +1285,7 @@
 | **Family** | Bignoniaceae |
 | **Common Names** | Pink poui, Pink trumpet-tree, Rosy trumpet-tree |
 | **Confidence** | ❓ 9.9% |
-| **Candidates** | Tabebuia pallida (5.2%), Phytolacca dioica (4.4%), Swietenia macrophylla (2.5%), Cinnamomum camphora (2.0%) |
+| **c** | Tabebuia pallida (5.2%), Phytolacca dioica (4.4%), Swietenia macrophylla (2.5%), Cinnamomum camphora (2.0%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:52:20 |
 | **Location** | [6.9137°N,79.8637°E](https://www.google.com/maps/place/6.913733N,79.863708E) |
@@ -1302,7 +1302,7 @@
 | **Family** | Fabaceae |
 | **Common Names** | Orabutá (Portuguese), Pau-rosado (Portuguese) |
 | **Confidence** | ❓ 9.9% |
-| **Candidates** | Diospyros buxifolia (5.4%), Senna siamea (3.5%), Pterocarya stenoptera (1.8%), Tipuana tipu (1.6%) |
+| **c** | Diospyros buxifolia (5.4%), Senna siamea (3.5%), Pterocarya stenoptera (1.8%), Tipuana tipu (1.6%) |
 | --- | --- |
 | **Time** | 2024-01-19 07:23:31 |
 | **Location** | [6.9141°N,79.8622°E](https://www.google.com/maps/place/6.914117N,79.862189E) |
@@ -1319,7 +1319,7 @@
 | **Family** | Bignoniaceae |
 | **Common Names** | Pink poui, Pink trumpet-tree, Rosy trumpet-tree |
 | **Confidence** | ❓ 9.7% |
-| **Candidates** | Melicoccus bijugatus (2.6%), Inga edulis (2.5%), Licania ternatensis (2.3%), Inga laurina (2.1%) |
+| **c** | Melicoccus bijugatus (2.6%), Inga edulis (2.5%), Licania ternatensis (2.3%), Inga laurina (2.1%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:57:14 |
 | **Location** | [6.9139°N,79.8642°E](https://www.google.com/maps/place/6.913917N,79.864236E) |
@@ -1336,7 +1336,7 @@
 | **Family** | Fabaceae |
 | **Common Names** | Golden Shower Tree, Indian-laburnum, Amaltas |
 | **Confidence** | ❓ 9.0% |
-| **Candidates** | Holarrhena pubescens (6.0%), Pleiogynium timoriense (4.0%), Paubrasilia echinata (3.5%), Copaifera langsdorffii (2.4%) |
+| **c** | Holarrhena pubescens (6.0%), Pleiogynium timoriense (4.0%), Paubrasilia echinata (3.5%), Copaifera langsdorffii (2.4%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:13:30 |
 | **Location** | [6.9143°N,79.8623°E](https://www.google.com/maps/place/6.914278N,79.862275E) |
@@ -1353,7 +1353,7 @@
 | **Family** | Lauraceae |
 | **Common Names** | Camphor-laurel, Camphortree, Japanese camphor |
 | **Confidence** | ❓ 8.6% |
-| **Candidates** | Mimusops elengi (7.7%), Syzygium cumini (7.1%), Phytolacca dioica (6.3%), Ligustrum lucidum (3.4%) |
+| **c** | Mimusops elengi (7.7%), Syzygium cumini (7.1%), Phytolacca dioica (6.3%), Ligustrum lucidum (3.4%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:00:57 |
 | **Location** | [6.9144°N,79.8635°E](https://www.google.com/maps/place/6.914403N,79.863472E) |
@@ -1370,7 +1370,7 @@
 | **Family** | Ebenaceae |
 | **Common Names** | Black ebony |
 | **Confidence** | ❓ 8.6% |
-| **Candidates** | Zanthoxylum rhoifolium (3.0%), Lagerstroemia speciosa (2.2%), Inga edulis (2.1%), Pterocarpus indicus (2.0%) |
+| **c** | Zanthoxylum rhoifolium (3.0%), Lagerstroemia speciosa (2.2%), Inga edulis (2.1%), Pterocarpus indicus (2.0%) |
 | --- | --- |
 | **Time** | 2024-01-19 07:23:37 |
 | **Location** | [6.9141°N,79.8622°E](https://www.google.com/maps/place/6.914128N,79.862206E) |
@@ -1387,7 +1387,7 @@
 | **Family** | Oleaceae |
 | **Common Names** | Phillyrea, Green Olive Tree |
 | **Confidence** | ❓ 8.5% |
-| **Candidates** | Terminalia mantaly (3.5%), Quercus suber (2.9%), Sloanea terniflora (2.3%), Ulmus pumila (1.9%) |
+| **c** | Terminalia mantaly (3.5%), Quercus suber (2.9%), Sloanea terniflora (2.3%), Ulmus pumila (1.9%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:54:25 |
 | **Location** | [6.9138°N,79.8643°E](https://www.google.com/maps/place/6.913775N,79.864267E) |
@@ -1404,7 +1404,7 @@
 | **Family** | Chrysobalanaceae |
 | **Common Names** | Oiti (Portuguese GRIN ) |
 | **Confidence** | ❓ 7.9% |
-| **Candidates** | Guarea guidonia (4.7%), Syzygium cumini (4.5%), Lagerstroemia speciosa (3.8%), Carpinus betulus (2.7%) |
+| **c** | Guarea guidonia (4.7%), Syzygium cumini (4.5%), Lagerstroemia speciosa (3.8%), Carpinus betulus (2.7%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:00:22 |
 | **Location** | [6.9143°N,79.8636°E](https://www.google.com/maps/place/6.914269N,79.863578E) |
@@ -1421,7 +1421,7 @@
 | **Family** | Juglandaceae |
 | **Common Names** | Black Walnut, English walnut, Carpathian walnut |
 | **Confidence** | ❓ 7.8% |
-| **Candidates** | Carya illinoinensis (4.9%), Fraxinus excelsior (4.8%), Alnus japonica (2.0%), Pterodon emarginatus (1.5%) |
+| **c** | Carya illinoinensis (4.9%), Fraxinus excelsior (4.8%), Alnus japonica (2.0%), Pterodon emarginatus (1.5%) |
 | --- | --- |
 | **Time** | 2023-12-31 07:51:13 |
 | **Location** | [6.9146°N,79.8625°E](https://www.google.com/maps/place/6.914558N,79.862511E) |
@@ -1438,7 +1438,7 @@
 | **Family** | Lamiaceae |
 | **Common Names** | Teak, Bankok teak, Indian-oak |
 | **Confidence** | ❓ 7.8% |
-| **Candidates** | Lagerstroemia speciosa (7.2%), Magnolia kobus (5.4%), Magnolia acuminata (3.8%), Holarrhena pubescens (3.4%) |
+| **c** | Lagerstroemia speciosa (7.2%), Magnolia kobus (5.4%), Magnolia acuminata (3.8%), Holarrhena pubescens (3.4%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:58:01 |
 | **Location** | [6.9142°N,79.8640°E](https://www.google.com/maps/place/6.914164N,79.863992E) |
@@ -1455,7 +1455,7 @@
 | **Family** | Sapotaceae |
 | **Common Names** | Medlar, Tanjongtree, Spanish-cherry |
 | **Confidence** | ❓ 7.5% |
-| **Candidates** | Ligustrum lucidum (5.9%), Syzygium cumini (5.6%), Plinia cauliflora (4.7%), Quercus glauca (3.5%) |
+| **c** | Ligustrum lucidum (5.9%), Syzygium cumini (5.6%), Plinia cauliflora (4.7%), Quercus glauca (3.5%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:01:24 |
 | **Location** | [6.9145°N,79.8634°E](https://www.google.com/maps/place/6.914475N,79.863442E) |
@@ -1472,7 +1472,7 @@
 | **Family** | Anacardiaceae |
 | **Common Names** | Mango, Mango Tree, आम |
 | **Confidence** | ❓ 7.3% |
-| **Candidates** | Monoon longifolium (4.1%), Ceiba pentandra (3.2%), Pandanus tectorius (3.0%), Phytolacca dioica (2.6%) |
+| **c** | Monoon longifolium (4.1%), Ceiba pentandra (3.2%), Pandanus tectorius (3.0%), Phytolacca dioica (2.6%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:15:10 |
 | **Location** | [6.9142°N,79.8621°E](https://www.google.com/maps/place/6.914233N,79.862061E) |
@@ -1489,7 +1489,7 @@
 | **Family** | Anacardiaceae |
 | **Common Names** | Mango, Mango Tree, आम |
 | **Confidence** | ❓ 7.3% |
-| **Candidates** | Aegle marmelos (6.6%), Qualea parviflora (4.1%), Phytolacca dioica (4.1%), Quercus humboldtii (3.2%) |
+| **c** | Aegle marmelos (6.6%), Qualea parviflora (4.1%), Phytolacca dioica (4.1%), Quercus humboldtii (3.2%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:55:31 |
 | **Location** | [6.9137°N,79.8644°E](https://www.google.com/maps/place/6.913736N,79.864433E) |
@@ -1506,7 +1506,7 @@
 | **Family** | Caryocaraceae |
 | **Common Names** | Pequi, Piki, Pekea nut |
 | **Confidence** | ❓ 6.6% |
-| **Candidates** | Averrhoa carambola (5.6%), Bauhinia variegata (5.1%), Bauhinia purpurea (4.8%), Tipuana tipu (3.8%) |
+| **c** | Averrhoa carambola (5.6%), Bauhinia variegata (5.1%), Bauhinia purpurea (4.8%), Tipuana tipu (3.8%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:03:42 |
 | **Location** | [6.9150°N,79.8627°E](https://www.google.com/maps/place/6.915036N,79.862708E) |
@@ -1523,7 +1523,7 @@
 | **Family** | Myrtaceae |
 | **Common Names** | Cajaput-tree, Longleaf paperbark, Paperbark |
 | **Confidence** | ❓ 6.4% |
-| **Candidates** | Celtis australis (5.6%), Eucalyptus robusta (4.3%), Mesua ferrea (2.3%), Eucalyptus globulus (2.3%) |
+| **c** | Celtis australis (5.6%), Eucalyptus robusta (4.3%), Mesua ferrea (2.3%), Eucalyptus globulus (2.3%) |
 | --- | --- |
 | **Time** | 2024-03-08 06:49:11 |
 | **Location** | [6.9143°N,79.8630°E](https://www.google.com/maps/place/6.914319N,79.862992E) |
@@ -1540,7 +1540,7 @@
 | **Family** | Pittosporaceae |
 | **Common Names** | Australian cheesewood, Cheesewood, Orange-berry pittosporum |
 | **Confidence** | ❓ 5.3% |
-| **Candidates** | Melaleuca alternifolia (3.4%), Camellia sinensis (3.2%), Pittosporum senacia (2.3%), Cornus florida (2.1%) |
+| **c** | Melaleuca alternifolia (3.4%), Camellia sinensis (3.2%), Pittosporum senacia (2.3%), Cornus florida (2.1%) |
 | --- | --- |
 | **Time** | 2024-02-10 08:03:25 |
 | **Location** | [6.9136°N,79.8615°E](https://www.google.com/maps/place/6.913619N,79.86145E) |
@@ -1557,7 +1557,7 @@
 | **Family** | Fabaceae |
 | **Common Names** | Flamboyant, Flame-of-the-forest, Flametree |
 | **Confidence** | ❓ 4.0% |
-| **Candidates** | Hymenaea courbaril (2.4%), Elaeocarpus serratus (2.4%), Ceiba pentandra (1.2%), Disocactus ackermannii (1.2%) |
+| **c** | Hymenaea courbaril (2.4%), Elaeocarpus serratus (2.4%), Ceiba pentandra (1.2%), Disocactus ackermannii (1.2%) |
 | --- | --- |
 | **Time** | 2024-03-08 07:12:19 |
 | **Location** | [6.9145°N,79.8624°E](https://www.google.com/maps/place/6.914486N,79.86235E) |
@@ -1574,7 +1574,7 @@
 | **Family** | Annonaceae |
 | **Common Names** | Orchidtree, African-nutmeg |
 | **Confidence** | ❓ 1.2% |
-| **Candidates** | Chamaedorea elegans (1.0%), Mangifera indica (0.9%), Vanda coerulea (0.9%), Cerbera manghas (0.9%) |
+| **c** | Chamaedorea elegans (1.0%), Mangifera indica (0.9%), Vanda coerulea (0.9%), Cerbera manghas (0.9%) |
 | --- | --- |
 | **Time** | 2024-01-10 07:49:18 |
 | **Location** | [6.9138°N,79.8600°E](https://www.google.com/maps/place/6.913781N,79.859978E) |
