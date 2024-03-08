@@ -19,7 +19,7 @@ class MetaDataREADME:
 
     @staticmethod
     def get_wiki_link(x):
-        return f'[{x}]({MetaDataREADME.get_wiki_url(x)})'
+        return f'[`{x}`]({MetaDataREADME.get_wiki_url(x)})'
 
     @property
     def common_names_pretty(self) -> str:
