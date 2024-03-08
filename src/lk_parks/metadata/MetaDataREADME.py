@@ -56,30 +56,43 @@ class MetaDataREADME:
         return f'`{self.iucn_category_humanized}` [{self.iucn_id}]({self.iucn_url})'
 
     @property
-    def description_lines(self):
+    def image_md(self) -> str:
+        return f'![{self.image_path_unix}]({self.image_path_unix})'
+
+    @property
+    def species_lines(self):
         return [
             '|  |  |',
-            '| --- | --- |',
-            '| **Scientific Name** | ' + f'*{self.scientific_name_link}* ' +
-            f'{self.authorship} |',
-            f'| **Genus** | {self.genus_link} |',
-            f'| **Family** | {self.family_link} |',
-            f'| **Common Names** | {self.common_names_pretty} |',
-            '| **Identification Confidence** | ' +
-            f'{self.confidence_emoji} {self.confidence:.1%} |',
-            f'| **Other Candidates** | {self.other_candidates_pretty} |',
-            '|  |  |',
 
+            '| --- | --- |',
+
+            '| **Scientific Name** | ' + f'*{MetaDataREADME.get_wiki_link(self.scientific_name)}* ' +
+            f'{self.authorship} |',
+            f'| **Genus** | {MetaDataREADME.get_wiki_link(self.genus)} |',
+            f'| **Family** | {MetaDataREADME.get_wiki_link(self.family)} |',
+            f'| **Common Names** | {self.common_names_pretty} |',
             f'| **Global Biodiversity Information Facility (GBIF)** | {self.gbif_pretty} |',
             f'| **Plants of the World Online (POWO)** | {self.powo_pretty} |',
             f'| **International Union for Conservation of Nature (IUCN)** | {self.iucn_pretty} |',
+            '',
 
+        ]
+
+    @property
+    def photo_lines(self):
+        return [
+            f'{self.image_md}',
+            '',
             '|  |  |',
+            '| --- | --- |',
+            '| **Identification Confidence** | ' +
+            f'{self.confidence_emoji} {self.confidence:.1%} |',
+            f'| **Other Candidates** | {self.other_candidates_pretty} |',
             f'| **Time** | {self.time_str} |',
             f'| **Camera Direction** | {self.direction_pretty} |',
             f'| **Location** | {self.google_maps_link} |',
             f'| **Altitude** | {self.alt:.1f}m |',
-
+            '',
         ]
 
     @classmethod
@@ -95,6 +108,11 @@ class MetaDataREADME:
                 for species, md_list in idx_genus.items():
                     lines.extend(
                         [f'#### {MetaDataREADME.get_wiki_link(species)}', ''])
+                    lines.extend(md_list[0].species_lines)
+                    lines.extend(['##### Photos', ''])
+                    for md in md_list:
+                        lines.extend(md.photo_lines)
+                        lines.append('')
 
         File(MetaDataREADME.README_PATH).write_lines(lines)
         log.debug(f'Wrote {MetaDataREADME.README_PATH}')
