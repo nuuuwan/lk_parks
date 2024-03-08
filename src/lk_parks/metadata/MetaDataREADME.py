@@ -10,7 +10,7 @@ log = Log('MetaData')
 class MetaDataREADME:
     README_PATH = os.path.join('README.md')
 
-    @staticmethod 
+    @staticmethod
     def get_wiki_url(x):
         return 'https://en.wikipedia.org/wiki/' + \
             x.replace(' ', '_')
@@ -26,12 +26,11 @@ class MetaDataREADME:
         wiki_url = self.get_wiki_url(self.scientific_name)
         return f'[{self.scientific_name}]({wiki_url})'
 
-
     @property
     def family_link(self) -> str:
         wiki_url = self.get_wiki_url(self.family)
         return f'[{self.family}]({wiki_url})'
-    
+
     @property
     def genus_link(self) -> str:
         wiki_url = self.get_wiki_url(self.genus)

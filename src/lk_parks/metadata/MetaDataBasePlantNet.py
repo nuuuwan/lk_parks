@@ -37,8 +37,6 @@ class MetaDataBasePlantNet:
     def authorship(self) -> str:
         return self.species_data['scientificNameAuthorship']
 
-
-
     @property
     def family(self) -> str:
         return self.species_data['family']['scientificName']
