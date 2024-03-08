@@ -61,13 +61,13 @@ class MetaDataBase:
         return '🌳'
 
     @property
-    def candidate_species_to_score(self) -> dict:
-        return {result['species']['scientificNameWithoutAuthor']                : result['score'] for result in self.plantnet_results}
+    def other_candidate_species_to_score(self) -> dict:
+        return {result['species']['scientificNameWithoutAuthor']                : result['score'] for result in self.plantnet_results[1:]}
 
     @property
-    def candidates_pretty(self) -> str:
+    def other_candidates_pretty(self) -> str:
         return ', '.join([f'{species} ({score:.1%})' for species,
-                         score in self.candidate_species_to_score.items()])
+                         score in self.other_candidate_species_to_score.items()])
 
     @property
     def time_str(self) -> str:

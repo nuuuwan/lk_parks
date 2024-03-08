@@ -34,7 +34,7 @@ class MetaDataREADME:
             f'| **Family** | {self.family} |',
             f'| **Common Names** | {", ".join(self.common_names)} |',
             f'| **Confidence** | '+f'{self.confidence_emoji} {self.confidence:.1%} |',
-            f'| **Candidates** | {self.candidates_pretty} |',
+            f'| **Candidates** | {self.other_candidates_pretty} |',
             '| --- | --- |',
             f'| **Time** | {self.time_str} |',
             f'| **Location** | {self.google_maps_link} |',
