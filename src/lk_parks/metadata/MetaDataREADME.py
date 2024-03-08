@@ -25,10 +25,15 @@ class MetaDataREADME:
             return '-'
         return ', '.join(self.common_names)
 
+    @staticmethod
+    def dot_join(*args):
+        return ' · '.join(args)
+
     @property
     def title(self) -> str:
-        return f'{self.confidence_emoji}' + \
-            f' {MetaDataREADME.get_wiki_link(self.scientific_name)} ({self.google_maps_link})'
+        return MetaDataREADME.dot_join(self.confidence_emoji + MetaDataREADME.get_wiki_link(self.scientific_name),
+                                       self.time_str, self.google_maps_link,
+                                       )
 
     @property
     def google_maps_link(self) -> str:
@@ -53,7 +58,10 @@ class MetaDataREADME:
     def iucn_pretty(self) -> str:
         if not self.iucn_id:
             return 'Unknown'
-        return f'`{self.iucn_category_humanized}` [{self.iucn_id}]({self.iucn_url})'
+        return MetaDataREADME.dot_join(
+            self.iucn_category_humanized,
+            f'[{self.iucn_id}]({self.iucn_url})'
+        )
 
     @property
     def image_md(self) -> str:
