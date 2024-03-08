@@ -1,0 +1,174 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 07 04 14.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-07-04-14.jpg",
+  "ut": 1709861654,
+  "latlng": [
+    6.915325,
+    79.862556
+  ],
+  "alt": 9.106565361387103,
+  "direction": 349.67666623190297,
+  "plantnet_results": [
+    {
+      "score": 0.11788,
+      "species": {
+        "scientificNameWithoutAuthor": "Terminalia mantaly",
+        "scientificNameAuthorship": "H.Perrier",
+        "genus": {
+          "scientificNameWithoutAuthor": "Terminalia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Terminalia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Combretaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Combretaceae"
+        },
+        "commonNames": [
+          "Satellite Tree.",
+          "Amandier de Madagascar",
+          "Ketapang Kencana"
+        ],
+        "scientificName": "Terminalia mantaly H.Perrier"
+      },
+      "gbif": {
+        "id": "3699873"
+      },
+      "powo": {
+        "id": "171229-1"
+      },
+      "iucn": {
+        "id": "128091369",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.10353,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus microcarpa",
+        "scientificNameAuthorship": "L.f.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Chinese banyan",
+          "Ficus ginseng",
+          "Indian-laurel"
+        ],
+        "scientificName": "Ficus microcarpa L.f."
+      },
+      "gbif": {
+        "id": "7467639"
+      },
+      "powo": {
+        "id": "853217-1"
+      },
+      "iucn": {
+        "id": "73088912",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.06346,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus elastica",
+        "scientificNameAuthorship": "Roxb. ex Hornem.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Rubberplant",
+          "\u0641\u06cc\u06a9\u0648\u0633",
+          "\u0641\u06cc\u06a9\u0648\u0633 \u0627\u0644\u0627\u0633\u062a\u06cc\u06a9\u0627"
+        ],
+        "scientificName": "Ficus elastica Roxb. ex Hornem."
+      },
+      "gbif": {
+        "id": "5361903"
+      },
+      "powo": {
+        "id": "60458499-2"
+      },
+      "iucn": {
+        "id": "116271522",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.06165,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus benghalensis",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Indian banyan",
+          "Ficus Audrey",
+          "Bengal banyan"
+        ],
+        "scientificName": "Ficus benghalensis L."
+      },
+      "gbif": {
+        "id": "5361919"
+      },
+      "powo": {
+        "id": "852482-1"
+      }
+    },
+    {
+      "score": 0.03959,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus sycomorus",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Sycomore",
+          "Pharoah fig",
+          "Mulberry fig"
+        ],
+        "scientificName": "Ficus sycomorus L."
+      },
+      "gbif": {
+        "id": "5361921"
+      },
+      "powo": {
+        "id": "853797-1"
+      },
+      "iucn": {
+        "id": "146188430",
+        "category": "LC"
+      }
+    }
+  ]
+}

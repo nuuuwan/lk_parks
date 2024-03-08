@@ -1,0 +1,178 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 06 50 00.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-06-50-00.jpg",
+  "ut": 1709860800,
+  "latlng": [
+    6.914147,
+    79.863236
+  ],
+  "alt": 7.815903549173665,
+  "direction": 71.23865506701152,
+  "plantnet_results": [
+    {
+      "score": 0.75018,
+      "species": {
+        "scientificNameWithoutAuthor": "Casuarina equisetifolia",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Casuarina",
+          "scientificNameAuthorship": "",
+          "scientificName": "Casuarina"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Casuarinaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Casuarinaceae"
+        },
+        "commonNames": [
+          "Beach sheoak",
+          "Australian beefwood",
+          "Australian-pine"
+        ],
+        "scientificName": "Casuarina equisetifolia L."
+      },
+      "gbif": {
+        "id": "2891930"
+      },
+      "powo": {
+        "id": "159856-1"
+      },
+      "iucn": {
+        "id": "16728404",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.14875,
+      "species": {
+        "scientificNameWithoutAuthor": "Casuarina cunninghamiana",
+        "scientificNameAuthorship": "Miq.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Casuarina",
+          "scientificNameAuthorship": "",
+          "scientificName": "Casuarina"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Casuarinaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Casuarinaceae"
+        },
+        "commonNames": [
+          "Australian Pine",
+          "Beefwood",
+          "River she-oak"
+        ],
+        "scientificName": "Casuarina cunninghamiana Miq."
+      },
+      "gbif": {
+        "id": "2891932"
+      },
+      "powo": {
+        "id": "159845-1"
+      },
+      "iucn": {
+        "id": "61988221",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.01089,
+      "species": {
+        "scientificNameWithoutAuthor": "Pinus pinea",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Pinus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Pinus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Pinaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Pinaceae"
+        },
+        "commonNames": [
+          "Umbrella pine",
+          "Pignolia-nut pine",
+          "Stone pine"
+        ],
+        "scientificName": "Pinus pinea L."
+      },
+      "gbif": {
+        "id": "5285165"
+      },
+      "powo": {
+        "id": "263221-1"
+      },
+      "iucn": {
+        "id": "42391",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00891,
+      "species": {
+        "scientificNameWithoutAuthor": "Pinus wallichiana",
+        "scientificNameAuthorship": "A.B.Jacks.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Pinus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Pinus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Pinaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Pinaceae"
+        },
+        "commonNames": [
+          "Bhutan Pine",
+          "Blue pine",
+          "Himalayan pine"
+        ],
+        "scientificName": "Pinus wallichiana A.B.Jacks."
+      },
+      "gbif": {
+        "id": "5285074"
+      },
+      "powo": {
+        "id": "677118-1"
+      },
+      "iucn": {
+        "id": "42427",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00337,
+      "species": {
+        "scientificNameWithoutAuthor": "Parkinsonia aculeata",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Parkinsonia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Parkinsonia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Palo Verde",
+          "Jerusalem-thorn",
+          "Horse-bean"
+        ],
+        "scientificName": "Parkinsonia aculeata L."
+      },
+      "gbif": {
+        "id": "5357217"
+      },
+      "powo": {
+        "id": "512242-1"
+      },
+      "iucn": {
+        "id": "82889698",
+        "category": "LC"
+      }
+    }
+  ]
+}

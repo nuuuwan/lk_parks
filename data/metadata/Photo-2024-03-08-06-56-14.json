@@ -1,0 +1,166 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 06 56 14.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-06-56-14.jpg",
+  "ut": 1709861174,
+  "latlng": [
+    6.913725,
+    79.864197
+  ],
+  "alt": 7.462162596401028,
+  "direction": 226.36238095238096,
+  "plantnet_results": [
+    {
+      "score": 0.48539,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus benghalensis",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Indian banyan",
+          "Ficus Audrey",
+          "Bengal banyan"
+        ],
+        "scientificName": "Ficus benghalensis L."
+      },
+      "gbif": {
+        "id": "5361919"
+      },
+      "powo": {
+        "id": "852482-1"
+      }
+    },
+    {
+      "score": 0.09159,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus septica",
+        "scientificNameAuthorship": "Burm.f.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Septic fig"
+        ],
+        "scientificName": "Ficus septica Burm.f."
+      },
+      "gbif": {
+        "id": "7852448"
+      },
+      "powo": {
+        "id": "853688-1"
+      },
+      "iucn": {
+        "id": "145362991",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.0667,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus aurea",
+        "scientificNameAuthorship": "Nutt.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Florida strangler",
+          "Florida strangler fig"
+        ],
+        "scientificName": "Ficus aurea Nutt."
+      },
+      "gbif": {
+        "id": "5361923"
+      },
+      "powo": {
+        "id": "852451-1"
+      },
+      "iucn": {
+        "id": "181217702",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.04974,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus callosa",
+        "scientificNameAuthorship": "Willd.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Jack fruit",
+          "Ilat-ilatan (Indonesia)"
+        ],
+        "scientificName": "Ficus callosa Willd."
+      },
+      "gbif": {
+        "id": "5571016"
+      },
+      "powo": {
+        "id": "852543-1"
+      }
+    },
+    {
+      "score": 0.03561,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus altissima",
+        "scientificNameAuthorship": "Blume",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Counciltree",
+          "Lofty fig",
+          "False banyan"
+        ],
+        "scientificName": "Ficus altissima Blume"
+      },
+      "gbif": {
+        "id": "5361907"
+      },
+      "powo": {
+        "id": "852369-1"
+      },
+      "iucn": {
+        "id": "147483545",
+        "category": "LC"
+      }
+    }
+  ]
+}

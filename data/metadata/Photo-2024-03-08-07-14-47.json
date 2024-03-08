@@ -1,0 +1,178 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 07 14 47.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-07-14-47.jpg",
+  "ut": 1709862287,
+  "latlng": [
+    6.914203,
+    79.862136
+  ],
+  "alt": 9.539751632313404,
+  "direction": 219.0790405033425,
+  "plantnet_results": [
+    {
+      "score": 0.84206,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus religiosa",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Peepal tree",
+          "Sacred fig",
+          "\u0c30\u0c3e\u0c35\u0c3f"
+        ],
+        "scientificName": "Ficus religiosa L."
+      },
+      "gbif": {
+        "id": "5361935"
+      },
+      "powo": {
+        "id": "853563-1"
+      },
+      "iucn": {
+        "id": "150222331",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02337,
+      "species": {
+        "scientificNameWithoutAuthor": "Hura crepitans",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Hura",
+          "scientificNameAuthorship": "",
+          "scientificName": "Hura"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Euphorbiaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Euphorbiaceae"
+        },
+        "commonNames": [
+          "Sandboxtree",
+          "Dynamite Tree",
+          "Monkey Dinner Bell"
+        ],
+        "scientificName": "Hura crepitans L."
+      },
+      "gbif": {
+        "id": "5380015"
+      },
+      "powo": {
+        "id": "350060-1"
+      },
+      "iucn": {
+        "id": "62003544",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.01434,
+      "species": {
+        "scientificNameWithoutAuthor": "Bischofia javanica",
+        "scientificNameAuthorship": "Blume",
+        "genus": {
+          "scientificNameWithoutAuthor": "Bischofia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bischofia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Phyllanthaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Phyllanthaceae"
+        },
+        "commonNames": [
+          "Bishopwood",
+          "Needlebark",
+          "Java-cedar"
+        ],
+        "scientificName": "Bischofia javanica Blume"
+      },
+      "gbif": {
+        "id": "5383085"
+      },
+      "powo": {
+        "id": "339921-1"
+      },
+      "iucn": {
+        "id": "61956399",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.01358,
+      "species": {
+        "scientificNameWithoutAuthor": "Triadica sebifera",
+        "scientificNameAuthorship": "(L.) Small",
+        "genus": {
+          "scientificNameWithoutAuthor": "Triadica",
+          "scientificNameAuthorship": "",
+          "scientificName": "Triadica"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Euphorbiaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Euphorbiaceae"
+        },
+        "commonNames": [
+          "Popcorntree",
+          "Chinese tallowtree",
+          "Candleberry-tree"
+        ],
+        "scientificName": "Triadica sebifera (L.) Small"
+      },
+      "gbif": {
+        "id": "3054399"
+      },
+      "powo": {
+        "id": "256588-2"
+      },
+      "iucn": {
+        "id": "18435729",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00877,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus virens",
+        "scientificNameAuthorship": "Aiton",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Spotted fig",
+          "Mountain fig",
+          "Caroline banyan"
+        ],
+        "scientificName": "Ficus virens Aiton"
+      },
+      "gbif": {
+        "id": "9512597"
+      },
+      "powo": {
+        "id": "853954-1"
+      },
+      "iucn": {
+        "id": "147495192",
+        "category": "LC"
+      }
+    }
+  ]
+}

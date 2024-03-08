@@ -1,0 +1,178 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 06 51 54.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-06-51-54.jpg",
+  "ut": 1709860914,
+  "latlng": [
+    6.913839,
+    79.863647
+  ],
+  "alt": 9.418715879994203,
+  "direction": 36.13182831661093,
+  "plantnet_results": [
+    {
+      "score": 0.20435,
+      "species": {
+        "scientificNameWithoutAuthor": "Swietenia mahagoni",
+        "scientificNameAuthorship": "(L.) Jacq.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Swietenia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Swietenia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Meliaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Meliaceae"
+        },
+        "commonNames": [
+          "Cuban mahogany",
+          "West Indian mahogany",
+          "Spanish mahogany"
+        ],
+        "scientificName": "Swietenia mahagoni (L.) Jacq."
+      },
+      "gbif": {
+        "id": "3190485"
+      },
+      "powo": {
+        "id": "1080203-2"
+      },
+      "iucn": {
+        "id": "32519",
+        "category": "NT"
+      }
+    },
+    {
+      "score": 0.19614,
+      "species": {
+        "scientificNameWithoutAuthor": "Fraxinus pennsylvanica",
+        "scientificNameAuthorship": "Marshall",
+        "genus": {
+          "scientificNameWithoutAuthor": "Fraxinus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fraxinus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Oleaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Oleaceae"
+        },
+        "commonNames": [
+          "Green ash",
+          "Red ash",
+          "Downy ash"
+        ],
+        "scientificName": "Fraxinus pennsylvanica Marshall"
+      },
+      "gbif": {
+        "id": "3172348"
+      },
+      "powo": {
+        "id": "105864-2"
+      },
+      "iucn": {
+        "id": "61918934",
+        "category": "CR"
+      }
+    },
+    {
+      "score": 0.11184,
+      "species": {
+        "scientificNameWithoutAuthor": "Carya illinoinensis",
+        "scientificNameAuthorship": "(Wangenh.) K.Koch",
+        "genus": {
+          "scientificNameWithoutAuthor": "Carya",
+          "scientificNameAuthorship": "",
+          "scientificName": "Carya"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Juglandaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Juglandaceae"
+        },
+        "commonNames": [
+          "Pecan",
+          "Nogal morado",
+          "Nuez encarcelada"
+        ],
+        "scientificName": "Carya illinoinensis (Wangenh.) K.Koch"
+      },
+      "gbif": {
+        "id": "3054289"
+      },
+      "powo": {
+        "id": "442167-1"
+      },
+      "iucn": {
+        "id": "62019622",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.03468,
+      "species": {
+        "scientificNameWithoutAuthor": "Swietenia macrophylla",
+        "scientificNameAuthorship": "King",
+        "genus": {
+          "scientificNameWithoutAuthor": "Swietenia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Swietenia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Meliaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Meliaceae"
+        },
+        "commonNames": [
+          "Honduran mahogany",
+          "Mahogany",
+          "Honduras mahogany"
+        ],
+        "scientificName": "Swietenia macrophylla King"
+      },
+      "gbif": {
+        "id": "3190484"
+      },
+      "powo": {
+        "id": "246905-2"
+      },
+      "iucn": {
+        "id": "32293",
+        "category": "EN"
+      }
+    },
+    {
+      "score": 0.03162,
+      "species": {
+        "scientificNameWithoutAuthor": "Tabebuia rosea",
+        "scientificNameAuthorship": "(Bertol.) Bertero ex A.DC.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tabebuia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tabebuia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Bignoniaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bignoniaceae"
+        },
+        "commonNames": [
+          "Pink poui",
+          "Pink trumpet-tree",
+          "Rosy trumpet-tree"
+        ],
+        "scientificName": "Tabebuia rosea (Bertol.) Bertero ex A.DC."
+      },
+      "gbif": {
+        "id": "3172537"
+      },
+      "powo": {
+        "id": "111027-1"
+      },
+      "iucn": {
+        "id": "61986278",
+        "category": "LC"
+      }
+    }
+  ]
+}

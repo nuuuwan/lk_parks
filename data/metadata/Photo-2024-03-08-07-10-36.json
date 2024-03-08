@@ -1,0 +1,166 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 07 10 36.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-07-10-36.jpg",
+  "ut": 1709862036,
+  "latlng": [
+    6.914736,
+    79.862428
+  ],
+  "alt": 10.469452590420332,
+  "direction": 229.3912050256996,
+  "plantnet_results": [
+    {
+      "score": 0.23899,
+      "species": {
+        "scientificNameWithoutAuthor": "Plumeria obtusa",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Plumeria",
+          "scientificNameAuthorship": "",
+          "scientificName": "Plumeria"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Apocynaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Apocynaceae"
+        },
+        "commonNames": [
+          "Frangipani",
+          "Singapore graveyard flower",
+          "\u0c26\u0c47\u0c35 \u0c17\u0c28\u0c4d\u0c28\u0c47\u0c30\u0c41"
+        ],
+        "scientificName": "Plumeria obtusa L."
+      },
+      "gbif": {
+        "id": "3169677"
+      },
+      "powo": {
+        "id": "81256-1"
+      },
+      "iucn": {
+        "id": "156770956",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.17055,
+      "species": {
+        "scientificNameWithoutAuthor": "Plumeria alba",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Plumeria",
+          "scientificNameAuthorship": "",
+          "scientificName": "Plumeria"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Apocynaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Apocynaceae"
+        },
+        "commonNames": [
+          "White Frangipani",
+          "Wild frangipani",
+          "Champa"
+        ],
+        "scientificName": "Plumeria alba L."
+      },
+      "gbif": {
+        "id": "3169673"
+      },
+      "powo": {
+        "id": "81171-1"
+      },
+      "iucn": {
+        "id": "208165050",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.09815,
+      "species": {
+        "scientificNameWithoutAuthor": "Plumeria rubra",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Plumeria",
+          "scientificNameAuthorship": "",
+          "scientificName": "Plumeria"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Apocynaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Apocynaceae"
+        },
+        "commonNames": [
+          "Frangipani",
+          "Plumeria",
+          "Pagoda-tree"
+        ],
+        "scientificName": "Plumeria rubra L."
+      },
+      "gbif": {
+        "id": "3169674"
+      },
+      "powo": {
+        "id": "81275-1"
+      },
+      "iucn": {
+        "id": "144270910",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.03181,
+      "species": {
+        "scientificNameWithoutAuthor": "Pachypodium decaryi",
+        "scientificNameAuthorship": "Poiss.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Pachypodium",
+          "scientificNameAuthorship": "",
+          "scientificName": "Pachypodium"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Apocynaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Apocynaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Pachypodium decaryi Poiss."
+      },
+      "gbif": {
+        "id": "5829527"
+      },
+      "powo": {
+        "id": "77177339-1"
+      }
+    },
+    {
+      "score": 0.02054,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus maxima",
+        "scientificNameAuthorship": "Mill.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [],
+        "scientificName": "Ficus maxima Mill."
+      },
+      "gbif": {
+        "id": "5571386"
+      },
+      "powo": {
+        "id": "853200-1"
+      },
+      "iucn": {
+        "id": "131214756",
+        "category": "LC"
+      }
+    }
+  ]
+}

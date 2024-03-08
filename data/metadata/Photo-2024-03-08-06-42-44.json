@@ -1,0 +1,178 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 06 42 44.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-06-42-44.jpg",
+  "ut": 1709860364,
+  "latlng": [
+    6.914306,
+    79.860419
+  ],
+  "alt": 10.74739527960876,
+  "direction": 162.9469298245614,
+  "plantnet_results": [
+    {
+      "score": 0.15763,
+      "species": {
+        "scientificNameWithoutAuthor": "Toona ciliata",
+        "scientificNameAuthorship": "M.Roem.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Toona",
+          "scientificNameAuthorship": "",
+          "scientificName": "Toona"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Meliaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Meliaceae"
+        },
+        "commonNames": [
+          "Red Cedar",
+          "Australian redcedar",
+          "Australian red-cedar"
+        ],
+        "scientificName": "Toona ciliata M.Roem."
+      },
+      "gbif": {
+        "id": "3190472"
+      },
+      "powo": {
+        "id": "579299-1"
+      },
+      "iucn": {
+        "id": "31332",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.13176,
+      "species": {
+        "scientificNameWithoutAuthor": "Lagerstroemia speciosa",
+        "scientificNameAuthorship": "(L.) Pers.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Lagerstroemia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Lagerstroemia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Lythraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Lythraceae"
+        },
+        "commonNames": [
+          "Queen's crape-myrtle",
+          "Pride-of-India",
+          "Queen's-flower"
+        ],
+        "scientificName": "Lagerstroemia speciosa (L.) Pers."
+      },
+      "gbif": {
+        "id": "3188724"
+      },
+      "powo": {
+        "id": "553618-1"
+      },
+      "iucn": {
+        "id": "61780249",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.04304,
+      "species": {
+        "scientificNameWithoutAuthor": "Casimiroa edulis",
+        "scientificNameAuthorship": "La Llave",
+        "genus": {
+          "scientificNameWithoutAuthor": "Casimiroa",
+          "scientificNameAuthorship": "",
+          "scientificName": "Casimiroa"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Rutaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Rutaceae"
+        },
+        "commonNames": [
+          "Mexican apple",
+          "White sapote",
+          "Casimiroa"
+        ],
+        "scientificName": "Casimiroa edulis La Llave"
+      },
+      "gbif": {
+        "id": "3190134"
+      },
+      "powo": {
+        "id": "771774-1"
+      },
+      "iucn": {
+        "id": "150120517",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.03564,
+      "species": {
+        "scientificNameWithoutAuthor": "Bridelia micrantha",
+        "scientificNameAuthorship": "(Hochst.) Baill.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Bridelia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bridelia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Phyllanthaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Phyllanthaceae"
+        },
+        "commonNames": [
+          "Bridelia",
+          "Mitzeerie",
+          "Mitzeeri"
+        ],
+        "scientificName": "Bridelia micrantha (Hochst.) Baill."
+      },
+      "gbif": {
+        "id": "3076142"
+      },
+      "powo": {
+        "id": "340183-1"
+      },
+      "iucn": {
+        "id": "61956569",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.03433,
+      "species": {
+        "scientificNameWithoutAuthor": "Cassia fistula",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Cassia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cassia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Golden Shower Tree",
+          "Indian-laburnum",
+          "Amaltas"
+        ],
+        "scientificName": "Cassia fistula L."
+      },
+      "gbif": {
+        "id": "5357108"
+      },
+      "powo": {
+        "id": "484507-1"
+      },
+      "iucn": {
+        "id": "136142327",
+        "category": "LC"
+      }
+    }
+  ]
+}

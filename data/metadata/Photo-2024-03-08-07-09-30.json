@@ -1,0 +1,176 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 07 09 30.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-07-09-30.jpg",
+  "ut": 1709861970,
+  "latlng": [
+    6.914878,
+    79.862328
+  ],
+  "alt": 10.159399698072995,
+  "direction": 264.427734375,
+  "plantnet_results": [
+    {
+      "score": 0.34156,
+      "species": {
+        "scientificNameWithoutAuthor": "Plumeria obtusa",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Plumeria",
+          "scientificNameAuthorship": "",
+          "scientificName": "Plumeria"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Apocynaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Apocynaceae"
+        },
+        "commonNames": [
+          "Frangipani",
+          "Singapore graveyard flower",
+          "\u0c26\u0c47\u0c35 \u0c17\u0c28\u0c4d\u0c28\u0c47\u0c30\u0c41"
+        ],
+        "scientificName": "Plumeria obtusa L."
+      },
+      "gbif": {
+        "id": "3169677"
+      },
+      "powo": {
+        "id": "81256-1"
+      },
+      "iucn": {
+        "id": "156770956",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.24863,
+      "species": {
+        "scientificNameWithoutAuthor": "Plumeria rubra",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Plumeria",
+          "scientificNameAuthorship": "",
+          "scientificName": "Plumeria"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Apocynaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Apocynaceae"
+        },
+        "commonNames": [
+          "Frangipani",
+          "Plumeria",
+          "Pagoda-tree"
+        ],
+        "scientificName": "Plumeria rubra L."
+      },
+      "gbif": {
+        "id": "3169674"
+      },
+      "powo": {
+        "id": "81275-1"
+      },
+      "iucn": {
+        "id": "144270910",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.06156,
+      "species": {
+        "scientificNameWithoutAuthor": "Plumeria alba",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Plumeria",
+          "scientificNameAuthorship": "",
+          "scientificName": "Plumeria"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Apocynaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Apocynaceae"
+        },
+        "commonNames": [
+          "White Frangipani",
+          "Wild frangipani",
+          "Champa"
+        ],
+        "scientificName": "Plumeria alba L."
+      },
+      "gbif": {
+        "id": "3169673"
+      },
+      "powo": {
+        "id": "81171-1"
+      },
+      "iucn": {
+        "id": "208165050",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.05025,
+      "species": {
+        "scientificNameWithoutAuthor": "Voacanga thouarsii",
+        "scientificNameAuthorship": "Roem. & Schult.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Voacanga",
+          "scientificNameAuthorship": "",
+          "scientificName": "Voacanga"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Apocynaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Apocynaceae"
+        },
+        "commonNames": [
+          "Wild frangipani"
+        ],
+        "scientificName": "Voacanga thouarsii Roem. & Schult."
+      },
+      "gbif": {
+        "id": "3615729"
+      },
+      "powo": {
+        "id": "82760-1"
+      },
+      "iucn": {
+        "id": "165444858",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02133,
+      "species": {
+        "scientificNameWithoutAuthor": "Terminalia mantaly",
+        "scientificNameAuthorship": "H.Perrier",
+        "genus": {
+          "scientificNameWithoutAuthor": "Terminalia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Terminalia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Combretaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Combretaceae"
+        },
+        "commonNames": [
+          "Satellite Tree.",
+          "Amandier de Madagascar",
+          "Ketapang Kencana"
+        ],
+        "scientificName": "Terminalia mantaly H.Perrier"
+      },
+      "gbif": {
+        "id": "3699873"
+      },
+      "powo": {
+        "id": "171229-1"
+      },
+      "iucn": {
+        "id": "128091369",
+        "category": "LC"
+      }
+    }
+  ]
+}

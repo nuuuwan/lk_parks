@@ -1,0 +1,170 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 07 12 19.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-07-12-19.jpg",
+  "ut": 1709862139,
+  "latlng": [
+    6.914486,
+    79.86235
+  ],
+  "alt": 8.576725582400952,
+  "direction": 255.7665711556829,
+  "plantnet_results": [
+    {
+      "score": 0.04045,
+      "species": {
+        "scientificNameWithoutAuthor": "Delonix regia",
+        "scientificNameAuthorship": "(Bojer) Raf.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Delonix",
+          "scientificNameAuthorship": "",
+          "scientificName": "Delonix"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Flamboyant",
+          "Flame-of-the-forest",
+          "Flametree"
+        ],
+        "scientificName": "Delonix regia (Bojer) Raf."
+      },
+      "gbif": {
+        "id": "2956176"
+      },
+      "iucn": {
+        "id": "32947",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02425,
+      "species": {
+        "scientificNameWithoutAuthor": "Hymenaea courbaril",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Hymenaea",
+          "scientificNameAuthorship": "",
+          "scientificName": "Hymenaea"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Brazilian copal",
+          "South American-locust",
+          "Amami-gum"
+        ],
+        "scientificName": "Hymenaea courbaril L."
+      },
+      "gbif": {
+        "id": "2950750"
+      },
+      "powo": {
+        "id": "125420-2"
+      },
+      "iucn": {
+        "id": "19891869",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02412,
+      "species": {
+        "scientificNameWithoutAuthor": "Elaeocarpus serratus",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Elaeocarpus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Elaeocarpus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Elaeocarpaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Elaeocarpaceae"
+        },
+        "commonNames": [
+          "Ceylon-olive",
+          "\u099c\u09b2\u09ab\u09be\u0987"
+        ],
+        "scientificName": "Elaeocarpus serratus L."
+      },
+      "gbif": {
+        "id": "7880979"
+      },
+      "powo": {
+        "id": "833955-1"
+      }
+    },
+    {
+      "score": 0.01227,
+      "species": {
+        "scientificNameWithoutAuthor": "Ceiba pentandra",
+        "scientificNameAuthorship": "(L.) Gaertn.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ceiba",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ceiba"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Malvaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Malvaceae"
+        },
+        "commonNames": [
+          "White silk cottontree",
+          "Kapok",
+          "Kapoktree"
+        ],
+        "scientificName": "Ceiba pentandra (L.) Gaertn."
+      },
+      "gbif": {
+        "id": "5406697"
+      },
+      "powo": {
+        "id": "1166232-2"
+      },
+      "iucn": {
+        "id": "61782438",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.01178,
+      "species": {
+        "scientificNameWithoutAuthor": "Disocactus ackermannii",
+        "scientificNameAuthorship": "(Haw.) Ralf Bauer",
+        "genus": {
+          "scientificNameWithoutAuthor": "Disocactus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Disocactus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Cactaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cactaceae"
+        },
+        "commonNames": [
+          "Orchid Cactus",
+          "Red Orchid Cactus",
+          "Fireworks"
+        ],
+        "scientificName": "Disocactus ackermannii (Haw.) Ralf Bauer"
+      },
+      "gbif": {
+        "id": "7649247"
+      },
+      "powo": {
+        "id": "50425940-2"
+      },
+      "iucn": {
+        "id": "152413",
+        "category": "LC"
+      }
+    }
+  ]
+}

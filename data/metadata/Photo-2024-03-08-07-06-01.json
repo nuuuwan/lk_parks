@@ -1,0 +1,161 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 07 06 01.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-07-06-01.jpg",
+  "ut": 1709861761,
+  "latlng": [
+    6.915556,
+    79.861839
+  ],
+  "alt": 11.049545801262049,
+  "direction": 210.07000736919676,
+  "plantnet_results": [
+    {
+      "score": 0.11256,
+      "species": {
+        "scientificNameWithoutAuthor": "Bunchosia armeniaca",
+        "scientificNameAuthorship": "(Cav.) DC.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Bunchosia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bunchosia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Malpighiaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Malpighiaceae"
+        },
+        "commonNames": [
+          "Peanut butter fruit",
+          "Sunset fruit"
+        ],
+        "scientificName": "Bunchosia armeniaca (Cav.) DC."
+      },
+      "gbif": {
+        "id": "7285310"
+      },
+      "powo": {
+        "id": "555884-1"
+      }
+    },
+    {
+      "score": 0.10365,
+      "species": {
+        "scientificNameWithoutAuthor": "Ehretia anacua",
+        "scientificNameAuthorship": "(Ter\u00e1n & Berland.) I.M.Johnst.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ehretia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ehretia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Boraginaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Boraginaceae"
+        },
+        "commonNames": [
+          "Anacua",
+          "Knock-away",
+          "Sandpaper-tree"
+        ],
+        "scientificName": "Ehretia anacua (Ter\u00e1n & Berland.) I.M.Johnst."
+      },
+      "gbif": {
+        "id": "2926379"
+      },
+      "powo": {
+        "id": "88877-2"
+      },
+      "iucn": {
+        "id": "144117987",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.03355,
+      "species": {
+        "scientificNameWithoutAuthor": "Flacourtia jangomas",
+        "scientificNameAuthorship": "(Lour.) Raeusch.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Flacourtia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Flacourtia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Salicaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Salicaceae"
+        },
+        "commonNames": [
+          "Indian-plum",
+          "Greater krekup",
+          "Runeala-plum"
+        ],
+        "scientificName": "Flacourtia jangomas (Lour.) Raeusch."
+      },
+      "gbif": {
+        "id": "5331164"
+      },
+      "powo": {
+        "id": "365350-1"
+      }
+    },
+    {
+      "score": 0.03285,
+      "species": {
+        "scientificNameWithoutAuthor": "Malpighia glabra",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Malpighia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Malpighia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Malpighiaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Malpighiaceae"
+        },
+        "commonNames": [
+          "Barbados cherry",
+          "Wild crapemyrtle",
+          "Acerola"
+        ],
+        "scientificName": "Malpighia glabra L."
+      },
+      "gbif": {
+        "id": "5421429"
+      },
+      "powo": {
+        "id": "557048-1"
+      },
+      "iucn": {
+        "id": "131036549",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02423,
+      "species": {
+        "scientificNameWithoutAuthor": "Campomanesia xanthocarpa",
+        "scientificNameAuthorship": "(Mart.) O.Berg",
+        "genus": {
+          "scientificNameWithoutAuthor": "Campomanesia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Campomanesia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Myrtaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Myrtaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Campomanesia xanthocarpa (Mart.) O.Berg"
+      },
+      "gbif": {
+        "id": "3181064"
+      },
+      "powo": {
+        "id": "273998-2"
+      }
+    }
+  ]
+}

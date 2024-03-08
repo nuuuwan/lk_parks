@@ -1,0 +1,170 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 06 57 14.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-06-57-14.jpg",
+  "ut": 1709861234,
+  "latlng": [
+    6.913917,
+    79.864236
+  ],
+  "alt": 10.673696742920317,
+  "direction": 292.25085440874915,
+  "plantnet_results": [
+    {
+      "score": 0.09665,
+      "species": {
+        "scientificNameWithoutAuthor": "Tabebuia rosea",
+        "scientificNameAuthorship": "(Bertol.) Bertero ex A.DC.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tabebuia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tabebuia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Bignoniaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bignoniaceae"
+        },
+        "commonNames": [
+          "Pink poui",
+          "Pink trumpet-tree",
+          "Rosy trumpet-tree"
+        ],
+        "scientificName": "Tabebuia rosea (Bertol.) Bertero ex A.DC."
+      },
+      "gbif": {
+        "id": "3172537"
+      },
+      "powo": {
+        "id": "111027-1"
+      },
+      "iucn": {
+        "id": "61986278",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02632,
+      "species": {
+        "scientificNameWithoutAuthor": "Melicoccus bijugatus",
+        "scientificNameAuthorship": "Jacq.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Melicoccus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Melicoccus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Sapindaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Sapindaceae"
+        },
+        "commonNames": [
+          "Genip",
+          "Spanish-lime",
+          "Honeyberry"
+        ],
+        "scientificName": "Melicoccus bijugatus Jacq."
+      },
+      "gbif": {
+        "id": "3189990"
+      },
+      "powo": {
+        "id": "783682-1"
+      },
+      "iucn": {
+        "id": "179306554",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.0252,
+      "species": {
+        "scientificNameWithoutAuthor": "Inga edulis",
+        "scientificNameAuthorship": "Mart.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Inga",
+          "scientificNameAuthorship": "",
+          "scientificName": "Inga"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Ice-cream-bean",
+          "Guaba",
+          "Pois Doux"
+        ],
+        "scientificName": "Inga edulis Mart."
+      },
+      "gbif": {
+        "id": "5357677"
+      },
+      "powo": {
+        "id": "128478-2"
+      },
+      "iucn": {
+        "id": "137640618",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02322,
+      "species": {
+        "scientificNameWithoutAuthor": "Licania ternatensis",
+        "scientificNameAuthorship": "Hook.f. ex Duss",
+        "genus": {
+          "scientificNameWithoutAuthor": "Licania",
+          "scientificNameAuthorship": "",
+          "scientificName": "Licania"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Chrysobalanaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Chrysobalanaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Licania ternatensis Hook.f. ex Duss"
+      },
+      "gbif": {
+        "id": "7539273"
+      },
+      "powo": {
+        "id": "726168-1"
+      }
+    },
+    {
+      "score": 0.02094,
+      "species": {
+        "scientificNameWithoutAuthor": "Inga laurina",
+        "scientificNameAuthorship": "(Sw.) Willd.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Inga",
+          "scientificNameAuthorship": "",
+          "scientificName": "Inga"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Guam\u00e1",
+          "Sacky sac bean",
+          "Red Wood"
+        ],
+        "scientificName": "Inga laurina (Sw.) Willd."
+      },
+      "gbif": {
+        "id": "5358039"
+      },
+      "powo": {
+        "id": "1199545-2"
+      },
+      "iucn": {
+        "id": "136789974",
+        "category": "LC"
+      }
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 06 57 03.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-06-57-03.jpg",
+  "ut": 1709861223,
+  "latlng": [
+    6.913983,
+    79.864236
+  ],
+  "alt": 10.31447309915518,
+  "direction": 96.67762753534112,
+  "plantnet_results": [
+    {
+      "score": 0.1153,
+      "species": {
+        "scientificNameWithoutAuthor": "Tabebuia rosea",
+        "scientificNameAuthorship": "(Bertol.) Bertero ex A.DC.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tabebuia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tabebuia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Bignoniaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bignoniaceae"
+        },
+        "commonNames": [
+          "Pink poui",
+          "Pink trumpet-tree",
+          "Rosy trumpet-tree"
+        ],
+        "scientificName": "Tabebuia rosea (Bertol.) Bertero ex A.DC."
+      },
+      "gbif": {
+        "id": "3172537"
+      },
+      "powo": {
+        "id": "111027-1"
+      },
+      "iucn": {
+        "id": "61986278",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.09153,
+      "species": {
+        "scientificNameWithoutAuthor": "Handroanthus heptaphyllus",
+        "scientificNameAuthorship": "(Vell.) Mattos",
+        "genus": {
+          "scientificNameWithoutAuthor": "Handroanthus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Handroanthus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Bignoniaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bignoniaceae"
+        },
+        "commonNames": [
+          "Pink tab",
+          "Pink trumpet tree"
+        ],
+        "scientificName": "Handroanthus heptaphyllus (Vell.) Mattos"
+      },
+      "gbif": {
+        "id": "4092253"
+      },
+      "powo": {
+        "id": "117329-2"
+      },
+      "iucn": {
+        "id": "61985488",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.08235,
+      "species": {
+        "scientificNameWithoutAuthor": "Celtis australis",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Celtis",
+          "scientificNameAuthorship": "",
+          "scientificName": "Celtis"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Cannabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cannabaceae"
+        },
+        "commonNames": [
+          "European hackberry",
+          "Lotetree",
+          "Mediterranean hackberry"
+        ],
+        "scientificName": "Celtis australis L."
+      },
+      "gbif": {
+        "id": "2984492"
+      },
+      "powo": {
+        "id": "850999-1"
+      },
+      "iucn": {
+        "id": "19218728",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.04288,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus virens",
+        "scientificNameAuthorship": "Aiton",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Spotted fig",
+          "Mountain fig",
+          "Caroline banyan"
+        ],
+        "scientificName": "Ficus virens Aiton"
+      },
+      "gbif": {
+        "id": "9512597"
+      },
+      "powo": {
+        "id": "853954-1"
+      },
+      "iucn": {
+        "id": "147495192",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.03664,
+      "species": {
+        "scientificNameWithoutAuthor": "Quercus glauca",
+        "scientificNameAuthorship": "Thunb.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Quercus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Quercus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fagaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fagaceae"
+        },
+        "commonNames": [
+          "Ring-cup oak"
+        ],
+        "scientificName": "Quercus glauca Thunb."
+      },
+      "gbif": {
+        "id": "2876873"
+      },
+      "powo": {
+        "id": "927477-1"
+      },
+      "iucn": {
+        "id": "194825",
+        "category": "LC"
+      }
+    }
+  ]
+}

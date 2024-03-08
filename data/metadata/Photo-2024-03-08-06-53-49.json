@@ -1,0 +1,172 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 06 53 49.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-06-53-49.jpg",
+  "ut": 1709861029,
+  "latlng": [
+    6.913567,
+    79.864144
+  ],
+  "alt": 10.131761298996794,
+  "direction": 85.67476654282558,
+  "plantnet_results": [
+    {
+      "score": 0.29119,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus elastica",
+        "scientificNameAuthorship": "Roxb. ex Hornem.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Rubberplant",
+          "\u0641\u06cc\u06a9\u0648\u0633",
+          "\u0641\u06cc\u06a9\u0648\u0633 \u0627\u0644\u0627\u0633\u062a\u06cc\u06a9\u0627"
+        ],
+        "scientificName": "Ficus elastica Roxb. ex Hornem."
+      },
+      "gbif": {
+        "id": "5361903"
+      },
+      "powo": {
+        "id": "60458499-2"
+      },
+      "iucn": {
+        "id": "116271522",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.18381,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus benghalensis",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Indian banyan",
+          "Ficus Audrey",
+          "Bengal banyan"
+        ],
+        "scientificName": "Ficus benghalensis L."
+      },
+      "gbif": {
+        "id": "5361919"
+      },
+      "powo": {
+        "id": "852482-1"
+      }
+    },
+    {
+      "score": 0.0781,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus religiosa",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Peepal tree",
+          "Sacred fig",
+          "\u0c30\u0c3e\u0c35\u0c3f"
+        ],
+        "scientificName": "Ficus religiosa L."
+      },
+      "gbif": {
+        "id": "5361935"
+      },
+      "powo": {
+        "id": "853563-1"
+      },
+      "iucn": {
+        "id": "150222331",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.06197,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus nymphaeifolia",
+        "scientificNameAuthorship": "Mill.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Fig"
+        ],
+        "scientificName": "Ficus nymphaeifolia Mill."
+      },
+      "gbif": {
+        "id": "5570630"
+      },
+      "powo": {
+        "id": "853301-1"
+      },
+      "iucn": {
+        "id": "61886071",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.05669,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus altissima",
+        "scientificNameAuthorship": "Blume",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Counciltree",
+          "Lofty fig",
+          "False banyan"
+        ],
+        "scientificName": "Ficus altissima Blume"
+      },
+      "gbif": {
+        "id": "5361907"
+      },
+      "powo": {
+        "id": "852369-1"
+      },
+      "iucn": {
+        "id": "147483545",
+        "category": "LC"
+      }
+    }
+  ]
+}

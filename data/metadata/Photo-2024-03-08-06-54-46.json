@@ -1,0 +1,174 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 06 54 46.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-06-54-46.jpg",
+  "ut": 1709861086,
+  "latlng": [
+    6.913758,
+    79.864433
+  ],
+  "alt": 9.82335537765402,
+  "direction": 284.884430176565,
+  "plantnet_results": [
+    {
+      "score": 0.14911,
+      "species": {
+        "scientificNameWithoutAuthor": "Betula nigra",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Betula",
+          "scientificNameAuthorship": "",
+          "scientificName": "Betula"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Betulaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Betulaceae"
+        },
+        "commonNames": [
+          "River birch",
+          "Red birch",
+          "Black Birch"
+        ],
+        "scientificName": "Betula nigra L."
+      },
+      "gbif": {
+        "id": "5331532"
+      },
+      "powo": {
+        "id": "295155-1"
+      },
+      "iucn": {
+        "id": "194551",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.05295,
+      "species": {
+        "scientificNameWithoutAuthor": "Platanus occidentalis",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Platanus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Platanus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Platanaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Platanaceae"
+        },
+        "commonNames": [
+          "American sycamore",
+          "Sycamore",
+          "Tulip poplar"
+        ],
+        "scientificName": "Platanus occidentalis L."
+      },
+      "gbif": {
+        "id": "3152820"
+      },
+      "powo": {
+        "id": "685871-1"
+      },
+      "iucn": {
+        "id": "61956705",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.03889,
+      "species": {
+        "scientificNameWithoutAuthor": "Ulmus americana",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ulmus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ulmus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Ulmaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ulmaceae"
+        },
+        "commonNames": [
+          "American elm",
+          "White elm",
+          "Water elm"
+        ],
+        "scientificName": "Ulmus americana L."
+      },
+      "gbif": {
+        "id": "5361872"
+      },
+      "powo": {
+        "id": "304464-2"
+      },
+      "iucn": {
+        "id": "61966619",
+        "category": "EN"
+      }
+    },
+    {
+      "score": 0.03198,
+      "species": {
+        "scientificNameWithoutAuthor": "Liriodendron tulipifera",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Liriodendron",
+          "scientificNameAuthorship": "",
+          "scientificName": "Liriodendron"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Magnoliaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Magnoliaceae"
+        },
+        "commonNames": [
+          "Tulip Poplar",
+          "Tuliptree",
+          "Yellow Poplar"
+        ],
+        "scientificName": "Liriodendron tulipifera L."
+      },
+      "gbif": {
+        "id": "3152861"
+      },
+      "powo": {
+        "id": "30197364-2"
+      },
+      "iucn": {
+        "id": "194015",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02977,
+      "species": {
+        "scientificNameWithoutAuthor": "Morus nigra",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Morus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Morus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Black mulberry",
+          "Common Mulberry",
+          "Mulberry"
+        ],
+        "scientificName": "Morus nigra L."
+      },
+      "gbif": {
+        "id": "5361888"
+      },
+      "powo": {
+        "id": "854688-1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 07 00 00.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-07-00-00.jpg",
+  "ut": 1709861400,
+  "latlng": [
+    6.914189,
+    79.863678
+  ],
+  "alt": 11.870136768025494,
+  "direction": 334.22125256673513,
+  "plantnet_results": [
+    {
+      "score": 0.17154,
+      "species": {
+        "scientificNameWithoutAuthor": "Syzygium cumini",
+        "scientificNameAuthorship": "(L.) Skeels",
+        "genus": {
+          "scientificNameWithoutAuthor": "Syzygium",
+          "scientificNameAuthorship": "",
+          "scientificName": "Syzygium"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Myrtaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Myrtaceae"
+        },
+        "commonNames": [
+          "\u091c\u093e\u092e\u0941\u0928",
+          "Jaman",
+          "\u0c05\u0c32\u0c4d\u0c32\u0c28\u0c47\u0c30\u0c47\u0c21\u0c41"
+        ],
+        "scientificName": "Syzygium cumini (L.) Skeels"
+      },
+      "gbif": {
+        "id": "3183840"
+      },
+      "powo": {
+        "id": "601603-1"
+      },
+      "iucn": {
+        "id": "49487196",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.0783,
+      "species": {
+        "scientificNameWithoutAuthor": "Annona purpurea",
+        "scientificNameAuthorship": "Moc. & Sess\u00e9 ex Dunal",
+        "genus": {
+          "scientificNameWithoutAuthor": "Annona",
+          "scientificNameAuthorship": "",
+          "scientificName": "Annona"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Annonaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Annonaceae"
+        },
+        "commonNames": [
+          "Negrohead",
+          "Soncoya"
+        ],
+        "scientificName": "Annona purpurea Moc. & Sess\u00e9 ex Dunal"
+      },
+      "gbif": {
+        "id": "5407091"
+      },
+      "powo": {
+        "id": "72289-1"
+      },
+      "iucn": {
+        "id": "143319997",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.04911,
+      "species": {
+        "scientificNameWithoutAuthor": "Juglans regia",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Juglans",
+          "scientificNameAuthorship": "",
+          "scientificName": "Juglans"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Juglandaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Juglandaceae"
+        },
+        "commonNames": [
+          "Black Walnut",
+          "English walnut",
+          "Carpathian walnut"
+        ],
+        "scientificName": "Juglans regia L."
+      },
+      "gbif": {
+        "id": "3054368"
+      },
+      "powo": {
+        "id": "442427-1"
+      },
+      "iucn": {
+        "id": "63495",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.029,
+      "species": {
+        "scientificNameWithoutAuthor": "Diospyros blancoi",
+        "scientificNameAuthorship": "A.DC.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Diospyros",
+          "scientificNameAuthorship": "",
+          "scientificName": "Diospyros"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Ebenaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ebenaceae"
+        },
+        "commonNames": [
+          "Mabola-tree",
+          "Mabolo",
+          "Velvet persimmon"
+        ],
+        "scientificName": "Diospyros blancoi A.DC."
+      },
+      "gbif": {
+        "id": "3032974"
+      },
+      "powo": {
+        "id": "322146-1"
+      }
+    },
+    {
+      "score": 0.02624,
+      "species": {
+        "scientificNameWithoutAuthor": "Eugenia jambosoides",
+        "scientificNameAuthorship": "C.Wright ex Griseb.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Eugenia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Eugenia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Myrtaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Myrtaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Eugenia jambosoides C.Wright ex Griseb."
+      },
+      "gbif": {
+        "id": "5416672"
+      },
+      "powo": {
+        "id": "276962-2"
+      }
+    }
+  ]
+}

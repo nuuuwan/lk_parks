@@ -1,0 +1,173 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 07 12 45.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-07-12-45.jpg",
+  "ut": 1709862165,
+  "latlng": [
+    6.914483,
+    79.862144
+  ],
+  "alt": 7.977548599069088,
+  "direction": 246.2880859375,
+  "plantnet_results": [
+    {
+      "score": 0.42605,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus benghalensis",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Indian banyan",
+          "Ficus Audrey",
+          "Bengal banyan"
+        ],
+        "scientificName": "Ficus benghalensis L."
+      },
+      "gbif": {
+        "id": "5361919"
+      },
+      "powo": {
+        "id": "852482-1"
+      }
+    },
+    {
+      "score": 0.14455,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus altissima",
+        "scientificNameAuthorship": "Blume",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Counciltree",
+          "Lofty fig",
+          "False banyan"
+        ],
+        "scientificName": "Ficus altissima Blume"
+      },
+      "gbif": {
+        "id": "5361907"
+      },
+      "powo": {
+        "id": "852369-1"
+      },
+      "iucn": {
+        "id": "147483545",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.11832,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus elastica",
+        "scientificNameAuthorship": "Roxb. ex Hornem.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Rubberplant",
+          "\u0641\u06cc\u06a9\u0648\u0633",
+          "\u0641\u06cc\u06a9\u0648\u0633 \u0627\u0644\u0627\u0633\u062a\u06cc\u06a9\u0627"
+        ],
+        "scientificName": "Ficus elastica Roxb. ex Hornem."
+      },
+      "gbif": {
+        "id": "5361903"
+      },
+      "powo": {
+        "id": "60458499-2"
+      },
+      "iucn": {
+        "id": "116271522",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.05045,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus aurea",
+        "scientificNameAuthorship": "Nutt.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Florida strangler",
+          "Florida strangler fig"
+        ],
+        "scientificName": "Ficus aurea Nutt."
+      },
+      "gbif": {
+        "id": "5361923"
+      },
+      "powo": {
+        "id": "852451-1"
+      },
+      "iucn": {
+        "id": "181217702",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02913,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus virens",
+        "scientificNameAuthorship": "Aiton",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Spotted fig",
+          "Mountain fig",
+          "Caroline banyan"
+        ],
+        "scientificName": "Ficus virens Aiton"
+      },
+      "gbif": {
+        "id": "9512597"
+      },
+      "powo": {
+        "id": "853954-1"
+      },
+      "iucn": {
+        "id": "147495192",
+        "category": "LC"
+      }
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 07 11 46.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-07-11-46.jpg",
+  "ut": 1709862106,
+  "latlng": [
+    6.914606,
+    79.862586
+  ],
+  "alt": 9.340123456790124,
+  "direction": 250.04019174041298,
+  "plantnet_results": [
+    {
+      "score": 0.16861,
+      "species": {
+        "scientificNameWithoutAuthor": "Inga edulis",
+        "scientificNameAuthorship": "Mart.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Inga",
+          "scientificNameAuthorship": "",
+          "scientificName": "Inga"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Ice-cream-bean",
+          "Guaba",
+          "Pois Doux"
+        ],
+        "scientificName": "Inga edulis Mart."
+      },
+      "gbif": {
+        "id": "5357677"
+      },
+      "powo": {
+        "id": "128478-2"
+      },
+      "iucn": {
+        "id": "137640618",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.11323,
+      "species": {
+        "scientificNameWithoutAuthor": "Hymenaea courbaril",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Hymenaea",
+          "scientificNameAuthorship": "",
+          "scientificName": "Hymenaea"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Brazilian copal",
+          "South American-locust",
+          "Amami-gum"
+        ],
+        "scientificName": "Hymenaea courbaril L."
+      },
+      "gbif": {
+        "id": "2950750"
+      },
+      "powo": {
+        "id": "125420-2"
+      },
+      "iucn": {
+        "id": "19891869",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.0737,
+      "species": {
+        "scientificNameWithoutAuthor": "Tabebuia rosea",
+        "scientificNameAuthorship": "(Bertol.) Bertero ex A.DC.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tabebuia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tabebuia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Bignoniaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bignoniaceae"
+        },
+        "commonNames": [
+          "Pink poui",
+          "Pink trumpet-tree",
+          "Rosy trumpet-tree"
+        ],
+        "scientificName": "Tabebuia rosea (Bertol.) Bertero ex A.DC."
+      },
+      "gbif": {
+        "id": "3172537"
+      },
+      "powo": {
+        "id": "111027-1"
+      },
+      "iucn": {
+        "id": "61986278",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.06283,
+      "species": {
+        "scientificNameWithoutAuthor": "Inga uraguensis",
+        "scientificNameAuthorship": "Hook. & Arn.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Inga",
+          "scientificNameAuthorship": "",
+          "scientificName": "Inga"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Inga uraguensis Hook. & Arn."
+      },
+      "gbif": {
+        "id": "5357546"
+      },
+      "powo": {
+        "id": "128804-2"
+      },
+      "iucn": {
+        "id": "62026250",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.0311,
+      "species": {
+        "scientificNameWithoutAuthor": "Eugenia candolleana",
+        "scientificNameAuthorship": "DC.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Eugenia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Eugenia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Myrtaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Myrtaceae"
+        },
+        "commonNames": [
+          "\u0c1a\u0c3f\u0c1f\u0c4d\u0c1f\u0c3f \u0c28\u0c47\u0c30\u0c47\u0c21\u0c41"
+        ],
+        "scientificName": "Eugenia candolleana DC."
+      },
+      "gbif": {
+        "id": "5416896"
+      },
+      "powo": {
+        "id": "593908-1"
+      },
+      "iucn": {
+        "id": "149210772",
+        "category": "LC"
+      }
+    }
+  ]
+}

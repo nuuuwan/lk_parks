@@ -1,0 +1,174 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 06 49 11.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-06-49-11.jpg",
+  "ut": 1709860751,
+  "latlng": [
+    6.914319,
+    79.862992
+  ],
+  "alt": 7.564458941994044,
+  "direction": 337.2604369879048,
+  "plantnet_results": [
+    {
+      "score": 0.06443,
+      "species": {
+        "scientificNameWithoutAuthor": "Melaleuca leucadendra",
+        "scientificNameAuthorship": "(L.) L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Melaleuca",
+          "scientificNameAuthorship": "",
+          "scientificName": "Melaleuca"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Myrtaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Myrtaceae"
+        },
+        "commonNames": [
+          "Cajaput-tree",
+          "Longleaf paperbark",
+          "Paperbark"
+        ],
+        "scientificName": "Melaleuca leucadendra (L.) L."
+      },
+      "gbif": {
+        "id": "5415976"
+      },
+      "powo": {
+        "id": "598002-1"
+      },
+      "iucn": {
+        "id": "61917032",
+        "category": "DD"
+      }
+    },
+    {
+      "score": 0.05576,
+      "species": {
+        "scientificNameWithoutAuthor": "Celtis australis",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Celtis",
+          "scientificNameAuthorship": "",
+          "scientificName": "Celtis"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Cannabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cannabaceae"
+        },
+        "commonNames": [
+          "European hackberry",
+          "Lotetree",
+          "Mediterranean hackberry"
+        ],
+        "scientificName": "Celtis australis L."
+      },
+      "gbif": {
+        "id": "2984492"
+      },
+      "powo": {
+        "id": "850999-1"
+      },
+      "iucn": {
+        "id": "19218728",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.04274,
+      "species": {
+        "scientificNameWithoutAuthor": "Eucalyptus robusta",
+        "scientificNameAuthorship": "Sm.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Eucalyptus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Eucalyptus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Myrtaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Myrtaceae"
+        },
+        "commonNames": [
+          "Swamp messmate",
+          "Swamp stringybark",
+          "Swamp-mahogany"
+        ],
+        "scientificName": "Eucalyptus robusta Sm."
+      },
+      "gbif": {
+        "id": "3176743"
+      },
+      "powo": {
+        "id": "593318-1"
+      },
+      "iucn": {
+        "id": "61915765",
+        "category": "NT"
+      }
+    },
+    {
+      "score": 0.02317,
+      "species": {
+        "scientificNameWithoutAuthor": "Mesua ferrea",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Mesua",
+          "scientificNameAuthorship": "",
+          "scientificName": "Mesua"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Calophyllaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Calophyllaceae"
+        },
+        "commonNames": [
+          "Mesua",
+          "Iron Wood Tree",
+          "Ceylon Ironwood"
+        ],
+        "scientificName": "Mesua ferrea L."
+      },
+      "gbif": {
+        "id": "7330039"
+      },
+      "powo": {
+        "id": "428832-1"
+      }
+    },
+    {
+      "score": 0.02314,
+      "species": {
+        "scientificNameWithoutAuthor": "Eucalyptus globulus",
+        "scientificNameAuthorship": "Labill.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Eucalyptus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Eucalyptus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Myrtaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Myrtaceae"
+        },
+        "commonNames": [
+          "Tasmanian bluegum",
+          "Blue gum",
+          "Victorian blue gum"
+        ],
+        "scientificName": "Eucalyptus globulus Labill."
+      },
+      "gbif": {
+        "id": "3176787"
+      },
+      "powo": {
+        "id": "592965-1"
+      },
+      "iucn": {
+        "id": "61912929",
+        "category": "LC"
+      }
+    }
+  ]
+}

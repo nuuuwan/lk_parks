@@ -1,0 +1,177 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 07 08 02.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-07-08-02.jpg",
+  "ut": 1709861882,
+  "latlng": [
+    6.915136,
+    79.862
+  ],
+  "alt": 10.09666450777202,
+  "direction": 350.37606837606836,
+  "plantnet_results": [
+    {
+      "score": 0.29288,
+      "species": {
+        "scientificNameWithoutAuthor": "Afzelia africana",
+        "scientificNameAuthorship": "Sm. ex Pers.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Afzelia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Afzelia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "African-mahogany",
+          "Afzelia"
+        ],
+        "scientificName": "Afzelia africana Sm. ex Pers."
+      },
+      "gbif": {
+        "id": "5358300"
+      },
+      "powo": {
+        "id": "473043-1"
+      },
+      "iucn": {
+        "id": "33032",
+        "category": "VU"
+      }
+    },
+    {
+      "score": 0.05139,
+      "species": {
+        "scientificNameWithoutAuthor": "Terminalia chebula",
+        "scientificNameAuthorship": "Retz.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Terminalia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Terminalia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Combretaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Combretaceae"
+        },
+        "commonNames": [
+          "Chebulic myrobalan",
+          "Black myrobalan",
+          "Inknut"
+        ],
+        "scientificName": "Terminalia chebula Retz."
+      },
+      "gbif": {
+        "id": "3189388"
+      },
+      "powo": {
+        "id": "171037-1"
+      },
+      "iucn": {
+        "id": "61990218",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.05034,
+      "species": {
+        "scientificNameWithoutAuthor": "Afzelia quanzensis",
+        "scientificNameAuthorship": "Welw.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Afzelia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Afzelia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Pod-mahogany",
+          "Lucky Bean Tree",
+          "Ihlene"
+        ],
+        "scientificName": "Afzelia quanzensis Welw."
+      },
+      "gbif": {
+        "id": "5358281"
+      },
+      "powo": {
+        "id": "473077-1"
+      },
+      "iucn": {
+        "id": "60757666",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.03344,
+      "species": {
+        "scientificNameWithoutAuthor": "Tabebuia rosea",
+        "scientificNameAuthorship": "(Bertol.) Bertero ex A.DC.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tabebuia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tabebuia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Bignoniaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bignoniaceae"
+        },
+        "commonNames": [
+          "Pink poui",
+          "Pink trumpet-tree",
+          "Rosy trumpet-tree"
+        ],
+        "scientificName": "Tabebuia rosea (Bertol.) Bertero ex A.DC."
+      },
+      "gbif": {
+        "id": "3172537"
+      },
+      "powo": {
+        "id": "111027-1"
+      },
+      "iucn": {
+        "id": "61986278",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02454,
+      "species": {
+        "scientificNameWithoutAuthor": "Pterocarpus angolensis",
+        "scientificNameAuthorship": "DC.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Pterocarpus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Pterocarpus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Transvaal-teak",
+          "Muninga",
+          "Bleedwoodtree"
+        ],
+        "scientificName": "Pterocarpus angolensis DC."
+      },
+      "gbif": {
+        "id": "5349240"
+      },
+      "powo": {
+        "id": "516403-1"
+      },
+      "iucn": {
+        "id": "33190",
+        "category": "LC"
+      }
+    }
+  ]
+}

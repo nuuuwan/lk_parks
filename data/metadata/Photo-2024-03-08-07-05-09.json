@@ -1,0 +1,173 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 07 05 09.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-07-05-09.jpg",
+  "ut": 1709861709,
+  "latlng": [
+    6.915444,
+    79.862131
+  ],
+  "alt": 11.005416093535075,
+  "direction": 356.0813295615276,
+  "plantnet_results": [
+    {
+      "score": 0.18063,
+      "species": {
+        "scientificNameWithoutAuthor": "Inga uraguensis",
+        "scientificNameAuthorship": "Hook. & Arn.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Inga",
+          "scientificNameAuthorship": "",
+          "scientificName": "Inga"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Inga uraguensis Hook. & Arn."
+      },
+      "gbif": {
+        "id": "5357546"
+      },
+      "powo": {
+        "id": "128804-2"
+      },
+      "iucn": {
+        "id": "62026250",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.0203,
+      "species": {
+        "scientificNameWithoutAuthor": "Swietenia macrophylla",
+        "scientificNameAuthorship": "King",
+        "genus": {
+          "scientificNameWithoutAuthor": "Swietenia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Swietenia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Meliaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Meliaceae"
+        },
+        "commonNames": [
+          "Honduran mahogany",
+          "Mahogany",
+          "Honduras mahogany"
+        ],
+        "scientificName": "Swietenia macrophylla King"
+      },
+      "gbif": {
+        "id": "3190484"
+      },
+      "powo": {
+        "id": "246905-2"
+      },
+      "iucn": {
+        "id": "32293",
+        "category": "EN"
+      }
+    },
+    {
+      "score": 0.01938,
+      "species": {
+        "scientificNameWithoutAuthor": "Tabebuia rosea",
+        "scientificNameAuthorship": "(Bertol.) Bertero ex A.DC.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tabebuia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tabebuia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Bignoniaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bignoniaceae"
+        },
+        "commonNames": [
+          "Pink poui",
+          "Pink trumpet-tree",
+          "Rosy trumpet-tree"
+        ],
+        "scientificName": "Tabebuia rosea (Bertol.) Bertero ex A.DC."
+      },
+      "gbif": {
+        "id": "3172537"
+      },
+      "powo": {
+        "id": "111027-1"
+      },
+      "iucn": {
+        "id": "61986278",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.01923,
+      "species": {
+        "scientificNameWithoutAuthor": "Spathodea campanulata",
+        "scientificNameAuthorship": "P.Beauv.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Spathodea",
+          "scientificNameAuthorship": "",
+          "scientificName": "Spathodea"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Bignoniaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bignoniaceae"
+        },
+        "commonNames": [
+          "African Tuliptree",
+          "African Flame Tree",
+          "African Tulip Tree"
+        ],
+        "scientificName": "Spathodea campanulata P.Beauv."
+      },
+      "gbif": {
+        "id": "3172574"
+      },
+      "powo": {
+        "id": "110661-1"
+      },
+      "iucn": {
+        "id": "49196213",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.01824,
+      "species": {
+        "scientificNameWithoutAuthor": "Handroanthus impetiginosus",
+        "scientificNameAuthorship": "(Mart. ex DC.) Mattos",
+        "genus": {
+          "scientificNameWithoutAuthor": "Handroanthus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Handroanthus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Bignoniaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bignoniaceae"
+        },
+        "commonNames": [
+          "Pink trumpet-tree",
+          "Taheebo"
+        ],
+        "scientificName": "Handroanthus impetiginosus (Mart. ex DC.) Mattos"
+      },
+      "gbif": {
+        "id": "4092242"
+      },
+      "powo": {
+        "id": "117330-2"
+      },
+      "iucn": {
+        "id": "144297143",
+        "category": "NT"
+      }
+    }
+  ]
+}

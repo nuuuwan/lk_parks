@@ -1,0 +1,172 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 06 55 11.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-06-55-11.jpg",
+  "ut": 1709861111,
+  "latlng": [
+    6.913894,
+    79.864494
+  ],
+  "alt": 9.471372614384531,
+  "direction": 300.30004967709885,
+  "plantnet_results": [
+    {
+      "score": 0.20787,
+      "species": {
+        "scientificNameWithoutAuthor": "Artocarpus heterophyllus",
+        "scientificNameAuthorship": "Lam.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Artocarpus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Artocarpus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Jackfruit",
+          "\u0995\u09be\u09a0\u09be\u09b2",
+          "\u0c2a\u0c28\u0c38"
+        ],
+        "scientificName": "Artocarpus heterophyllus Lam."
+      },
+      "gbif": {
+        "id": "2984565"
+      },
+      "powo": {
+        "id": "850389-1"
+      }
+    },
+    {
+      "score": 0.05066,
+      "species": {
+        "scientificNameWithoutAuthor": "Magnolia virginiana",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Magnolia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Magnolia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Magnoliaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Magnoliaceae"
+        },
+        "commonNames": [
+          "Sweetbay Magnolia",
+          "Swamp-laurel",
+          "Sweet bay"
+        ],
+        "scientificName": "Magnolia virginiana L."
+      },
+      "gbif": {
+        "id": "3153639"
+      },
+      "powo": {
+        "id": "30016308-2"
+      },
+      "iucn": {
+        "id": "194018",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.04732,
+      "species": {
+        "scientificNameWithoutAuthor": "Terminalia catappa",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Terminalia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Terminalia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Combretaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Combretaceae"
+        },
+        "commonNames": [
+          "Tropical almond",
+          "Indian-almond",
+          "Country-almond"
+        ],
+        "scientificName": "Terminalia catappa L."
+      },
+      "gbif": {
+        "id": "3189394"
+      },
+      "powo": {
+        "id": "171034-1"
+      },
+      "iucn": {
+        "id": "61989853",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.04522,
+      "species": {
+        "scientificNameWithoutAuthor": "Artocarpus integer",
+        "scientificNameAuthorship": "(Thunb.) Merr.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Artocarpus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Artocarpus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Chempedak",
+          "Cempedak",
+          "Jack tree"
+        ],
+        "scientificName": "Artocarpus integer (Thunb.) Merr."
+      },
+      "gbif": {
+        "id": "2984566"
+      },
+      "powo": {
+        "id": "582622-1"
+      },
+      "iucn": {
+        "id": "61220334",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02066,
+      "species": {
+        "scientificNameWithoutAuthor": "Viburnum odoratissimum",
+        "scientificNameAuthorship": "Ker Gawl.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Viburnum",
+          "scientificNameAuthorship": "",
+          "scientificName": "Viburnum"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Viburnaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Viburnaceae"
+        },
+        "commonNames": [
+          "Sweet arrowwood"
+        ],
+        "scientificName": "Viburnum odoratissimum Ker Gawl."
+      },
+      "gbif": {
+        "id": "2888626"
+      },
+      "powo": {
+        "id": "149848-1"
+      },
+      "iucn": {
+        "id": "147389414",
+        "category": "LC"
+      }
+    }
+  ]
+}

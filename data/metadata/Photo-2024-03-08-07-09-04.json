@@ -1,0 +1,167 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 07 09 04.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-07-09-04.jpg",
+  "ut": 1709861944,
+  "latlng": [
+    6.914911,
+    79.862175
+  ],
+  "alt": 11.46624769747535,
+  "direction": 241.49353049907577,
+  "plantnet_results": [
+    {
+      "score": 0.36669,
+      "species": {
+        "scientificNameWithoutAuthor": "Tabebuia pallida",
+        "scientificNameAuthorship": "(Lindl.) Miers",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tabebuia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tabebuia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Bignoniaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bignoniaceae"
+        },
+        "commonNames": [
+          "Cuban pink trumpet-tree",
+          "White-cedar",
+          "Whitewood"
+        ],
+        "scientificName": "Tabebuia pallida (Lindl.) Miers"
+      },
+      "gbif": {
+        "id": "3172527"
+      },
+      "powo": {
+        "id": "110996-1"
+      },
+      "iucn": {
+        "id": "61986231",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.11219,
+      "species": {
+        "scientificNameWithoutAuthor": "Tabebuia heterophylla",
+        "scientificNameAuthorship": "(DC.) Britton",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tabebuia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tabebuia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Bignoniaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bignoniaceae"
+        },
+        "commonNames": [
+          "White-cedar",
+          "Pink manjack",
+          "Pink trumpet-tree"
+        ],
+        "scientificName": "Tabebuia heterophylla (DC.) Britton"
+      },
+      "gbif": {
+        "id": "3172526"
+      },
+      "powo": {
+        "id": "248689-2"
+      },
+      "iucn": {
+        "id": "157815878",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.04519,
+      "species": {
+        "scientificNameWithoutAuthor": "Rosa banksiae",
+        "scientificNameAuthorship": "R.Br.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Rosa",
+          "scientificNameAuthorship": "",
+          "scientificName": "Rosa"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Rosaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Rosaceae"
+        },
+        "commonNames": [
+          "Lady Bank's Rose",
+          "\u0622\u0628\u0634\u0627\u0631 \u0637\u0644\u0627",
+          "\u0631\u0632 \u0622\u0628\u0634\u0627\u0631 \u0637\u0644\u0627"
+        ],
+        "scientificName": "Rosa banksiae R.Br."
+      },
+      "gbif": {
+        "id": "7827393"
+      },
+      "powo": {
+        "id": "731723-1"
+      }
+    },
+    {
+      "score": 0.02698,
+      "species": {
+        "scientificNameWithoutAuthor": "Tabebuia roseoalba",
+        "scientificNameAuthorship": "(Ridl.) Sandwith",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tabebuia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tabebuia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Bignoniaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bignoniaceae"
+        },
+        "commonNames": [
+          "White ip\u00ea"
+        ],
+        "scientificName": "Tabebuia roseoalba (Ridl.) Sandwith"
+      },
+      "gbif": {
+        "id": "4091431"
+      },
+      "powo": {
+        "id": "248789-2"
+      },
+      "iucn": {
+        "id": "145693608",
+        "category": "NT"
+      }
+    },
+    {
+      "score": 0.01389,
+      "species": {
+        "scientificNameWithoutAuthor": "Rosa moschata",
+        "scientificNameAuthorship": "Herrm.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Rosa",
+          "scientificNameAuthorship": "",
+          "scientificName": "Rosa"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Rosaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Rosaceae"
+        },
+        "commonNames": [
+          "Musk rose",
+          "\u0646\u0633\u062a\u0631\u0646 \u0634\u06cc\u0631\u0627\u0632\u06cc\u060c"
+        ],
+        "scientificName": "Rosa moschata Herrm."
+      },
+      "gbif": {
+        "id": "3005529"
+      },
+      "powo": {
+        "id": "733393-1"
+      }
+    }
+  ]
+}

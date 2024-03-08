@@ -1,0 +1,172 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 07 12 01.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-07-12-01.jpg",
+  "ut": 1709862121,
+  "latlng": [
+    6.914511,
+    79.862481
+  ],
+  "alt": 8.586512836082719,
+  "direction": 267.045867589788,
+  "plantnet_results": [
+    {
+      "score": 0.19167,
+      "species": {
+        "scientificNameWithoutAuthor": "Fraxinus chinensis",
+        "scientificNameAuthorship": "Roxb.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Fraxinus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fraxinus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Oleaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Oleaceae"
+        },
+        "commonNames": [
+          "Chinese ash"
+        ],
+        "scientificName": "Fraxinus chinensis Roxb."
+      },
+      "gbif": {
+        "id": "3172325"
+      },
+      "powo": {
+        "id": "608968-1"
+      },
+      "iucn": {
+        "id": "35953",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.0856,
+      "species": {
+        "scientificNameWithoutAuthor": "Tabebuia roseoalba",
+        "scientificNameAuthorship": "(Ridl.) Sandwith",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tabebuia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tabebuia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Bignoniaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bignoniaceae"
+        },
+        "commonNames": [
+          "White ip\u00ea"
+        ],
+        "scientificName": "Tabebuia roseoalba (Ridl.) Sandwith"
+      },
+      "gbif": {
+        "id": "4091431"
+      },
+      "powo": {
+        "id": "248789-2"
+      },
+      "iucn": {
+        "id": "145693608",
+        "category": "NT"
+      }
+    },
+    {
+      "score": 0.06187,
+      "species": {
+        "scientificNameWithoutAuthor": "Tabebuia rosea",
+        "scientificNameAuthorship": "(Bertol.) Bertero ex A.DC.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tabebuia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tabebuia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Bignoniaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bignoniaceae"
+        },
+        "commonNames": [
+          "Pink poui",
+          "Pink trumpet-tree",
+          "Rosy trumpet-tree"
+        ],
+        "scientificName": "Tabebuia rosea (Bertol.) Bertero ex A.DC."
+      },
+      "gbif": {
+        "id": "3172537"
+      },
+      "powo": {
+        "id": "111027-1"
+      },
+      "iucn": {
+        "id": "61986278",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02768,
+      "species": {
+        "scientificNameWithoutAuthor": "Clerodendrum quadriloculare",
+        "scientificNameAuthorship": "(Blanco) Merr.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Clerodendrum",
+          "scientificNameAuthorship": "",
+          "scientificName": "Clerodendrum"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Lamiaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Lamiaceae"
+        },
+        "commonNames": [
+          "Philippine glorybower",
+          "Bronze-leaved clerodendrum"
+        ],
+        "scientificName": "Clerodendrum quadriloculare (Blanco) Merr."
+      },
+      "gbif": {
+        "id": "3890217"
+      },
+      "powo": {
+        "id": "862346-1"
+      },
+      "iucn": {
+        "id": "127525329",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02052,
+      "species": {
+        "scientificNameWithoutAuthor": "Handroanthus ochraceus",
+        "scientificNameAuthorship": "(Cham.) Mattos",
+        "genus": {
+          "scientificNameWithoutAuthor": "Handroanthus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Handroanthus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Bignoniaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bignoniaceae"
+        },
+        "commonNames": [
+          "Yellow Trumpet",
+          "Yellow Tabebuia"
+        ],
+        "scientificName": "Handroanthus ochraceus (Cham.) Mattos"
+      },
+      "gbif": {
+        "id": "4092146"
+      },
+      "powo": {
+        "id": "117333-2"
+      },
+      "iucn": {
+        "id": "145674139",
+        "category": "LC"
+      }
+    }
+  ]
+}

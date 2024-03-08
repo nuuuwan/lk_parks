@@ -1,0 +1,176 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 07 07 28.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-07-07-28.jpg",
+  "ut": 1709861848,
+  "latlng": [
+    6.915258,
+    79.861908
+  ],
+  "alt": 11.069528032942667,
+  "direction": 342.53826913456726,
+  "plantnet_results": [
+    {
+      "score": 0.25548,
+      "species": {
+        "scientificNameWithoutAuthor": "Toona ciliata",
+        "scientificNameAuthorship": "M.Roem.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Toona",
+          "scientificNameAuthorship": "",
+          "scientificName": "Toona"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Meliaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Meliaceae"
+        },
+        "commonNames": [
+          "Red Cedar",
+          "Australian redcedar",
+          "Australian red-cedar"
+        ],
+        "scientificName": "Toona ciliata M.Roem."
+      },
+      "gbif": {
+        "id": "3190472"
+      },
+      "powo": {
+        "id": "579299-1"
+      },
+      "iucn": {
+        "id": "31332",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.20273,
+      "species": {
+        "scientificNameWithoutAuthor": "Handroanthus serratifolius",
+        "scientificNameAuthorship": "(Vahl) S.O.Grose",
+        "genus": {
+          "scientificNameWithoutAuthor": "Handroanthus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Handroanthus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Bignoniaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bignoniaceae"
+        },
+        "commonNames": [
+          "Yellow poui",
+          "Yellow Ipe",
+          "Yellow Lapacho"
+        ],
+        "scientificName": "Handroanthus serratifolius (Vahl) S.O.Grose"
+      },
+      "gbif": {
+        "id": "4092017"
+      },
+      "powo": {
+        "id": "77085096-1"
+      },
+      "iucn": {
+        "id": "61985509",
+        "category": "EN"
+      }
+    },
+    {
+      "score": 0.09635,
+      "species": {
+        "scientificNameWithoutAuthor": "Pleiogynium timoriense",
+        "scientificNameAuthorship": "(DC.) Leenh.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Pleiogynium",
+          "scientificNameAuthorship": "",
+          "scientificName": "Pleiogynium"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Anacardiaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Anacardiaceae"
+        },
+        "commonNames": [
+          "Burdekin Pumb"
+        ],
+        "scientificName": "Pleiogynium timoriense (DC.) Leenh."
+      },
+      "gbif": {
+        "id": "3661589"
+      },
+      "powo": {
+        "id": "70288-1"
+      },
+      "iucn": {
+        "id": "146095426",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.08737,
+      "species": {
+        "scientificNameWithoutAuthor": "Pterocarpus indicus",
+        "scientificNameAuthorship": "Willd.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Pterocarpus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Pterocarpus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Amboyna-wood",
+          "Malay padauk",
+          "Papua New Guinea rosewood"
+        ],
+        "scientificName": "Pterocarpus indicus Willd."
+      },
+      "gbif": {
+        "id": "5349242"
+      },
+      "powo": {
+        "id": "516487-1"
+      },
+      "iucn": {
+        "id": "33241",
+        "category": "EN"
+      }
+    },
+    {
+      "score": 0.04315,
+      "species": {
+        "scientificNameWithoutAuthor": "Cassia fistula",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Cassia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cassia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Golden Shower Tree",
+          "Indian-laburnum",
+          "Amaltas"
+        ],
+        "scientificName": "Cassia fistula L."
+      },
+      "gbif": {
+        "id": "5357108"
+      },
+      "powo": {
+        "id": "484507-1"
+      },
+      "iucn": {
+        "id": "136142327",
+        "category": "LC"
+      }
+    }
+  ]
+}

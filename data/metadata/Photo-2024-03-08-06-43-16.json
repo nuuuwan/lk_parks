@@ -1,0 +1,170 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 06 43 16.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-06-43-16.jpg",
+  "ut": 1709860396,
+  "latlng": [
+    6.914133,
+    79.860358
+  ],
+  "alt": 10.75254517105384,
+  "direction": 137.27888493475683,
+  "plantnet_results": [
+    {
+      "score": 0.53041,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus insipida",
+        "scientificNameAuthorship": "Willd.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [],
+        "scientificName": "Ficus insipida Willd."
+      },
+      "gbif": {
+        "id": "6358534"
+      },
+      "powo": {
+        "id": "853024-1"
+      },
+      "iucn": {
+        "id": "61886011",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.09582,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus virens",
+        "scientificNameAuthorship": "Aiton",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Spotted fig",
+          "Mountain fig",
+          "Caroline banyan"
+        ],
+        "scientificName": "Ficus virens Aiton"
+      },
+      "gbif": {
+        "id": "9512597"
+      },
+      "powo": {
+        "id": "853954-1"
+      },
+      "iucn": {
+        "id": "147495192",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.0509,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus lutea",
+        "scientificNameAuthorship": "Vahl",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Dahomey rubbertree",
+          "West African rubbertree",
+          "Lagos rubbertree"
+        ],
+        "scientificName": "Ficus lutea Vahl"
+      },
+      "gbif": {
+        "id": "5571832"
+      },
+      "powo": {
+        "id": "853155-1"
+      },
+      "iucn": {
+        "id": "146435575",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02676,
+      "species": {
+        "scientificNameWithoutAuthor": "Syzygium cumini",
+        "scientificNameAuthorship": "(L.) Skeels",
+        "genus": {
+          "scientificNameWithoutAuthor": "Syzygium",
+          "scientificNameAuthorship": "",
+          "scientificName": "Syzygium"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Myrtaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Myrtaceae"
+        },
+        "commonNames": [
+          "\u091c\u093e\u092e\u0941\u0928",
+          "Jaman",
+          "\u0c05\u0c32\u0c4d\u0c32\u0c28\u0c47\u0c30\u0c47\u0c21\u0c41"
+        ],
+        "scientificName": "Syzygium cumini (L.) Skeels"
+      },
+      "gbif": {
+        "id": "3183840"
+      },
+      "powo": {
+        "id": "601603-1"
+      },
+      "iucn": {
+        "id": "49487196",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.01955,
+      "species": {
+        "scientificNameWithoutAuthor": "Inga uraguensis",
+        "scientificNameAuthorship": "Hook. & Arn.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Inga",
+          "scientificNameAuthorship": "",
+          "scientificName": "Inga"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Inga uraguensis Hook. & Arn."
+      },
+      "gbif": {
+        "id": "5357546"
+      },
+      "powo": {
+        "id": "128804-2"
+      },
+      "iucn": {
+        "id": "62026250",
+        "category": "LC"
+      }
+    }
+  ]
+}

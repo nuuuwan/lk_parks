@@ -1,0 +1,176 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 06 41 54.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-06-41-54.jpg",
+  "ut": 1709860314,
+  "latlng": [
+    6.914742,
+    79.860231
+  ],
+  "alt": 13.447924689773213,
+  "direction": 77.07725527831094,
+  "plantnet_results": [
+    {
+      "score": 0.20823,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus retusa",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Indian laurel",
+          "Indian Laurel Fig",
+          "Ficus nitida"
+        ],
+        "scientificName": "Ficus retusa L."
+      },
+      "gbif": {
+        "id": "3765871"
+      },
+      "powo": {
+        "id": "853577-1"
+      },
+      "iucn": {
+        "id": "72278682",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.18488,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus benjamina",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Weeping fig",
+          "\u0628\u0646\u062c\u0627\u0645\u06cc\u0646 \u0627\u0628\u0644\u0642",
+          "Benjamin fig"
+        ],
+        "scientificName": "Ficus benjamina L."
+      },
+      "gbif": {
+        "id": "5361932"
+      },
+      "powo": {
+        "id": "852486-1"
+      },
+      "iucn": {
+        "id": "145362709",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.11594,
+      "species": {
+        "scientificNameWithoutAuthor": "Osmanthus fragrans",
+        "scientificNameAuthorship": "Lour.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Osmanthus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Osmanthus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Oleaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Oleaceae"
+        },
+        "commonNames": [
+          "Sweet osmanthus",
+          "Fragrant Olive",
+          "Tea Olive"
+        ],
+        "scientificName": "Osmanthus fragrans Lour."
+      },
+      "gbif": {
+        "id": "3172278"
+      },
+      "powo": {
+        "id": "610878-1"
+      },
+      "iucn": {
+        "id": "147642268",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02788,
+      "species": {
+        "scientificNameWithoutAuthor": "Quercus glauca",
+        "scientificNameAuthorship": "Thunb.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Quercus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Quercus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fagaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fagaceae"
+        },
+        "commonNames": [
+          "Ring-cup oak"
+        ],
+        "scientificName": "Quercus glauca Thunb."
+      },
+      "gbif": {
+        "id": "2876873"
+      },
+      "powo": {
+        "id": "927477-1"
+      },
+      "iucn": {
+        "id": "194825",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02453,
+      "species": {
+        "scientificNameWithoutAuthor": "Cinnamomum camphora",
+        "scientificNameAuthorship": "(L.) J.Presl",
+        "genus": {
+          "scientificNameWithoutAuthor": "Cinnamomum",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cinnamomum"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Lauraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Lauraceae"
+        },
+        "commonNames": [
+          "Camphor-laurel",
+          "Camphortree",
+          "Japanese camphor"
+        ],
+        "scientificName": "Cinnamomum camphora (L.) J.Presl"
+      },
+      "gbif": {
+        "id": "3033991"
+      },
+      "powo": {
+        "id": "463336-1"
+      },
+      "iucn": {
+        "id": "15441072",
+        "category": "LC"
+      }
+    }
+  ]
+}

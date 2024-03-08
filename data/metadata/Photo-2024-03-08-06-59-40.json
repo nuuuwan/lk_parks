@@ -1,0 +1,170 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 06 59 40.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-06-59-40.jpg",
+  "ut": 1709861380,
+  "latlng": [
+    6.914189,
+    79.8637
+  ],
+  "alt": 9.668085949103872,
+  "direction": 338.068145800317,
+  "plantnet_results": [
+    {
+      "score": 0.24077,
+      "species": {
+        "scientificNameWithoutAuthor": "Syzygium cumini",
+        "scientificNameAuthorship": "(L.) Skeels",
+        "genus": {
+          "scientificNameWithoutAuthor": "Syzygium",
+          "scientificNameAuthorship": "",
+          "scientificName": "Syzygium"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Myrtaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Myrtaceae"
+        },
+        "commonNames": [
+          "\u091c\u093e\u092e\u0941\u0928",
+          "Jaman",
+          "\u0c05\u0c32\u0c4d\u0c32\u0c28\u0c47\u0c30\u0c47\u0c21\u0c41"
+        ],
+        "scientificName": "Syzygium cumini (L.) Skeels"
+      },
+      "gbif": {
+        "id": "3183840"
+      },
+      "powo": {
+        "id": "601603-1"
+      },
+      "iucn": {
+        "id": "49487196",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.06849,
+      "species": {
+        "scientificNameWithoutAuthor": "Juglans regia",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Juglans",
+          "scientificNameAuthorship": "",
+          "scientificName": "Juglans"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Juglandaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Juglandaceae"
+        },
+        "commonNames": [
+          "Black Walnut",
+          "English walnut",
+          "Carpathian walnut"
+        ],
+        "scientificName": "Juglans regia L."
+      },
+      "gbif": {
+        "id": "3054368"
+      },
+      "powo": {
+        "id": "442427-1"
+      },
+      "iucn": {
+        "id": "63495",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.03481,
+      "species": {
+        "scientificNameWithoutAuthor": "Syzygium malaccense",
+        "scientificNameAuthorship": "(L.) Merr. & L.M.Perry",
+        "genus": {
+          "scientificNameWithoutAuthor": "Syzygium",
+          "scientificNameAuthorship": "",
+          "scientificName": "Syzygium"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Myrtaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Myrtaceae"
+        },
+        "commonNames": [
+          "Malay apple",
+          "Pomarosa",
+          "Malaysian apple"
+        ],
+        "scientificName": "Syzygium malaccense (L.) Merr. & L.M.Perry"
+      },
+      "gbif": {
+        "id": "3184509"
+      },
+      "powo": {
+        "id": "601907-1"
+      },
+      "iucn": {
+        "id": "136055196",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02877,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus altissima",
+        "scientificNameAuthorship": "Blume",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Counciltree",
+          "Lofty fig",
+          "False banyan"
+        ],
+        "scientificName": "Ficus altissima Blume"
+      },
+      "gbif": {
+        "id": "5361907"
+      },
+      "powo": {
+        "id": "852369-1"
+      },
+      "iucn": {
+        "id": "147483545",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02726,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus lacor",
+        "scientificNameAuthorship": "Buch.-Ham.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [],
+        "scientificName": "Ficus lacor Buch.-Ham."
+      },
+      "gbif": {
+        "id": "5572206"
+      },
+      "powo": {
+        "id": "853069-1"
+      }
+    }
+  ]
+}

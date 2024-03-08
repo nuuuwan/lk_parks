@@ -1,0 +1,147 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 06 42 10.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-06-42-10.jpg",
+  "ut": 1709860330,
+  "latlng": [
+    6.914669,
+    79.860358
+  ],
+  "alt": 6.038220551378446,
+  "direction": 180.1967162329616,
+  "plantnet_results": [
+    {
+      "score": 0.32159,
+      "species": {
+        "scientificNameWithoutAuthor": "Bambusa multiplex",
+        "scientificNameAuthorship": "(Lour.) Raeusch. ex Schult.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Bambusa",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bambusa"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Poaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Poaceae"
+        },
+        "commonNames": [
+          "Hedge bamboo",
+          "Chinese dwarf bamboo",
+          "Chinese-goddess bamboo"
+        ],
+        "scientificName": "Bambusa multiplex (Lour.) Raeusch. ex Schult."
+      },
+      "gbif": {
+        "id": "2705757"
+      }
+    },
+    {
+      "score": 0.06586,
+      "species": {
+        "scientificNameWithoutAuthor": "Bambusa vulgaris",
+        "scientificNameAuthorship": "Schrad.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Bambusa",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bambusa"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Poaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Poaceae"
+        },
+        "commonNames": [
+          "Bamboo",
+          "Common bamboo",
+          "\u0c35\u0c46\u0c26\u0c41\u0c30\u0c41"
+        ],
+        "scientificName": "Bambusa vulgaris Schrad."
+      },
+      "gbif": {
+        "id": "2705758"
+      }
+    },
+    {
+      "score": 0.02262,
+      "species": {
+        "scientificNameWithoutAuthor": "Phyllostachys aurea",
+        "scientificNameAuthorship": "Rivi\u00e8re & C.Rivi\u00e8re",
+        "genus": {
+          "scientificNameWithoutAuthor": "Phyllostachys",
+          "scientificNameAuthorship": "",
+          "scientificName": "Phyllostachys"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Poaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Poaceae"
+        },
+        "commonNames": [
+          "Golden bamboo",
+          "Fish-pole bamboo",
+          "\u0628\u0627\u0645\u0628\u0648"
+        ],
+        "scientificName": "Phyllostachys aurea Rivi\u00e8re & C.Rivi\u00e8re"
+      },
+      "gbif": {
+        "id": "5290167"
+      }
+    },
+    {
+      "score": 0.01029,
+      "species": {
+        "scientificNameWithoutAuthor": "Phyllostachys nigra",
+        "scientificNameAuthorship": "(Lodd. ex Lindl.) Munro",
+        "genus": {
+          "scientificNameWithoutAuthor": "Phyllostachys",
+          "scientificNameAuthorship": "",
+          "scientificName": "Phyllostachys"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Poaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Poaceae"
+        },
+        "commonNames": [
+          "Black bamboo",
+          "\u0c28\u0c32\u0c4d\u0c32 \u0c15\u0c02\u0c15"
+        ],
+        "scientificName": "Phyllostachys nigra (Lodd. ex Lindl.) Munro"
+      },
+      "gbif": {
+        "id": "5290171"
+      },
+      "powo": {
+        "id": "416031-1"
+      }
+    },
+    {
+      "score": 0.00682,
+      "species": {
+        "scientificNameWithoutAuthor": "Bambusa tuldoides",
+        "scientificNameAuthorship": "Munro",
+        "genus": {
+          "scientificNameWithoutAuthor": "Bambusa",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bambusa"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Poaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Poaceae"
+        },
+        "commonNames": [
+          "Verdant bamboo",
+          "Puntingpole bamboo"
+        ],
+        "scientificName": "Bambusa tuldoides Munro"
+      },
+      "gbif": {
+        "id": "2705762"
+      },
+      "powo": {
+        "id": "392553-1"
+      }
+    }
+  ]
+}

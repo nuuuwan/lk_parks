@@ -1,0 +1,178 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 06 54 59.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-06-54-59.jpg",
+  "ut": 1709861099,
+  "latlng": [
+    6.913811,
+    79.864517
+  ],
+  "alt": 10.234003469741811,
+  "direction": 256.83016983016984,
+  "plantnet_results": [
+    {
+      "score": 0.20084,
+      "species": {
+        "scientificNameWithoutAuthor": "Bauhinia variegata",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Bauhinia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bauhinia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Mountain ebony",
+          "Orchidtree",
+          "Butterfly tree"
+        ],
+        "scientificName": "Bauhinia variegata L."
+      },
+      "gbif": {
+        "id": "2953251"
+      },
+      "powo": {
+        "id": "481756-1"
+      },
+      "iucn": {
+        "id": "19893142",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.15333,
+      "species": {
+        "scientificNameWithoutAuthor": "Bauhinia purpurea",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Bauhinia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bauhinia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Orchid Tree",
+          "\u0997\u09c1\u09b2\u09aa\u09c0\u09af\u09bc\u09be \u0995\u09be\u099e\u09cd\u099a\u09a8",
+          "Camel's-foot"
+        ],
+        "scientificName": "Bauhinia purpurea L."
+      },
+      "gbif": {
+        "id": "2953871"
+      },
+      "powo": {
+        "id": "481605-1"
+      },
+      "iucn": {
+        "id": "19891953",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.05273,
+      "species": {
+        "scientificNameWithoutAuthor": "Hamamelis virginiana",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Hamamelis",
+          "scientificNameAuthorship": "",
+          "scientificName": "Hamamelis"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Hamamelidaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Hamamelidaceae"
+        },
+        "commonNames": [
+          "Witch Hazel",
+          "American witchhazel",
+          "American Witch-Hazel"
+        ],
+        "scientificName": "Hamamelis virginiana L."
+      },
+      "gbif": {
+        "id": "3152827"
+      },
+      "powo": {
+        "id": "430697-1"
+      },
+      "iucn": {
+        "id": "62018973",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02861,
+      "species": {
+        "scientificNameWithoutAuthor": "Cordia sebestena",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Cordia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cordia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Boraginaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Boraginaceae"
+        },
+        "commonNames": [
+          "Geranium-tree",
+          "Geigertree",
+          "Large-leaf geigertree"
+        ],
+        "scientificName": "Cordia sebestena L."
+      },
+      "gbif": {
+        "id": "5341289"
+      },
+      "powo": {
+        "id": "65551-2"
+      },
+      "iucn": {
+        "id": "62558",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02382,
+      "species": {
+        "scientificNameWithoutAuthor": "Cordia dichotoma",
+        "scientificNameAuthorship": "G.Forst.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Cordia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cordia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Boraginaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Boraginaceae"
+        },
+        "commonNames": [
+          "Fragrant manjack",
+          "Indian-cherry",
+          "Clammy-cherry"
+        ],
+        "scientificName": "Cordia dichotoma G.Forst."
+      },
+      "gbif": {
+        "id": "5341270"
+      },
+      "powo": {
+        "id": "114098-1"
+      },
+      "iucn": {
+        "id": "61986401",
+        "category": "LC"
+      }
+    }
+  ]
+}
