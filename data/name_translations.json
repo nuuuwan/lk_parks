@@ -1,16 +1,16 @@
 {
-  "Botanical names,": {
+  "Botanical names": {
     "sinhala": "Sinhala",
     "pali_sanskrit": "Sanskrit (Pali)",
     "tamil": "Tamil"
   },
-  "Abelmoschus angulosus,": {
+  "Abelmoschus angulosus": {
     "sinhala": "Kapukinissa",
     "pali_sanskrit": "latakasturika-",
     "tamil": "varttilai kasturi-"
   },
   "Abelmoschus esculentus": {
-    "sinhala": "Bandakka ",
+    "sinhala": "Bandakka",
     "pali_sanskrit": "pitali, asra-patrka, catuspundra, karaparna and many other names.",
     "tamil": "vendai (\u0bb5\u0bc6\u0ba3\u0bcd\u0b9f\u0bc8), Vendaikkaay"
   },
@@ -30,21 +30,21 @@
     "tamil": "Karuval, Kinthirikkam (Malayalam)"
   },
   "Acacia caesia": {
-    "sinhala": "Hingurupatta vel,  \t",
+    "sinhala": "Hingurupatta vel,",
     "pali_sanskrit": "Nikunjika",
     "tamil": "indu, intu, vellintu, inkakkai"
   },
-  "Acacia chundra,": {
+  "Acacia chundra": {
     "sinhala": "Kihiri, Rat Kihiriya",
     "pali_sanskrit": "-",
     "tamil": "karangali"
   },
-  "Acacia concinna,": {
+  "Acacia concinna": {
     "sinhala": "Seenidda",
-    "pali_sanskrit": "Bahuphenarasa, Bhuriphena,Charmakansa, Charmakasa, Phenila  ",
+    "pali_sanskrit": "Bahuphenarasa, Bhuriphena,Charmakansa, Charmakasa, Phenila",
     "tamil": "cikkay, Shikakai"
   },
-  "Acacia cornigera(cockspur)": {
+  "Acacia cornigera": {
     "sinhala": "kukul-katu andaraA forbidding , low thorny shrub found in the",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -77,14 +77,14 @@
   "Acanthus ilicifolius": {
     "sinhala": "ikiri",
     "pali_sanskrit": "Harikusa (Sanskrit)",
-    "tamil": "Kaludaimulli "
+    "tamil": "Kaludaimulli"
   },
   "Acetosa agrestis": {
     "sinhala": "Sinhala:? Not known in Sri Lanka. Found in tem,perate and",
     "pali_sanskrit": "Sanskrit ? -",
     "tamil": "Tamil ? -"
   },
-  "Achillea millefolium\n": {
+  "Achillea millefolium": {
     "sinhala": "Sinhala: raajamaari ?",
     "pali_sanskrit": "Sanskrit- pushpaskanda ?",
     "tamil": "Tamil - Achchiliya"
@@ -96,7 +96,7 @@
   },
   "Acorus calamus": {
     "sinhala": "Wadakaha, Vad(h)akaha - \u0dc0\u0daf\u0d9a\u0db7",
-    "pali_sanskrit": "Vacha,Sadgrantha ",
+    "pali_sanskrit": "Vacha,Sadgrantha",
     "tamil": "vacampu, vasambu"
   },
   "Acronychia pedunculata": {
@@ -104,7 +104,7 @@
     "pali_sanskrit": "Gandha rusa-",
     "tamil": "-"
   },
-  "Actaea racemosa,": {
+  "Actaea racemosa": {
     "sinhala": "?",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -119,17 +119,17 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Adenanthera pavonina,": {
+  "Adenanthera pavonina": {
     "sinhala": "Madatiya, Madhatiya, \u0db8\u0daf\u0da7\u0dd2\u0dba",
     "pali_sanskrit": "kusandana",
     "tamil": "tilam, manjadi"
   },
-  "Adhatoda vasica,": {
+  "Adhatoda vasica": {
     "sinhala": "Vang Aepala, Agaladara, Agalaadaara, Adathoda",
     "pali_sanskrit": "vrasa, Vasaka",
     "tamil": "Atatotai, Adatodai, Adadodai (Malayalam- Adalodakam)"
   },
-  "Adiantum capillus-veneris,": {
+  "Adiantum capillus": {
     "sinhala": "Vaelvaenna, Walwenna, Walawenna",
     "pali_sanskrit": "Parna-",
     "tamil": "-"
@@ -149,7 +149,7 @@
     "pali_sanskrit": "-",
     "tamil": "Vithilikanna"
   },
-  "Aegle marmelos\n": {
+  "Aegle marmelos": {
     "sinhala": "Beli",
     "pali_sanskrit": "ShreePhal,Adhararuha, Sivadrumah, Tripatre",
     "tamil": "kuvilam, Vilvam"
@@ -159,12 +159,12 @@
     "pali_sanskrit": "-",
     "tamil": "cirupilai, thengapookeerai"
   },
-  "Agave vera-cruz": {
+  "Agave vera": {
     "sinhala": "Pathok-hana-",
     "pali_sanskrit": "Kantala-",
     "tamil": "Alagai-"
   },
-  "Ageratum conyzoides(billygoat-weed,": {
+  "Ageratum conyzoides": {
     "sinhala": "Hulantala-",
     "pali_sanskrit": "-",
     "tamil": "appakkoti"
@@ -180,16 +180,16 @@
     "tamil": "cokkalai, kannikkompu"
   },
   "Agrostistachys indica": {
-    "sinhala": "Beru ",
+    "sinhala": "Beru",
     "pali_sanskrit": "-",
     "tamil": "ManchareiAlthough the village of beruwala has been"
   },
-  "Grewia asiatica,": {
+  "Grewia asiatica": {
     "sinhala": "Sinhala: parushaaka",
     "pali_sanskrit": "Sanskrit: Parushaka, Mridupha",
     "tamil": "Tamil: Unnu"
   },
-  "Alangium lamarkii,": {
+  "Alangium lamarkii": {
     "sinhala": "Sinhala: Ruk-Anguna, Damaniya (?)",
     "pali_sanskrit": "Sanskrit: Ankota. Dhalakura",
     "tamil": "Tamil:chadachchi"
@@ -199,7 +199,7 @@
     "pali_sanskrit": "Amkol",
     "tamil": "alincil,sainkolam"
   },
-  "Alastonia scholaris-": {
+  "Alastonia scholaris": {
     "sinhala": "Ruk Attana -",
     "pali_sanskrit": "Sapta-parni",
     "tamil": "Elilaipalai, Mukam palei, Palai, Palegaruda-"
@@ -229,13 +229,13 @@
     "pali_sanskrit": "Lasuna, rasona -",
     "tamil": "Vellaippuntu-"
   },
-  "Allophylus cobbe,": {
+  "Allophylus cobbe": {
     "sinhala": "Kobbe, kobbae  \u0d9a\u0ddc\u0db6\u0dd9\u0dba\u0dd2 \u0d9c\u0db7 -",
     "pali_sanskrit": "Triputa-",
     "tamil": "Amalai-"
   },
-  "Alocasia indica,": {
-    "sinhala": "Sinhala: Habarala - A cultivar of this, Xanthosoma sagittifolium oso known as  Alocasia talihan Elmer ex Merr ",
+  "Alocasia indica": {
+    "sinhala": "Sinhala: Habarala - A cultivar of this, Xanthosoma sagittifolium oso known as  Alocasia talihan Elmer ex Merr",
     "pali_sanskrit": "Sanskrit: -",
     "tamil": "-"
   },
@@ -249,12 +249,12 @@
     "pali_sanskrit": "Hastikarni -",
     "tamil": "Parum sembu -"
   },
-  "Alocasia sp.\n(chinese": {
+  "Alocasia sp": {
     "sinhala": "Mapil-habarala -",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Aloe species-": {
+  "Aloe species": {
     "sinhala": "Vel Komarika Vael Komarika kirikawelu",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -279,7 +279,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Alstonia scholaris,": {
+  "Alstonia scholaris": {
     "sinhala": "Ruk Attana",
     "pali_sanskrit": "saptaparna",
     "tamil": "elilaippalai"
@@ -294,13 +294,13 @@
     "pali_sanskrit": "matsyaksaka",
     "tamil": "ponnankanni, kotuppai"
   },
-  "Alysicarpus ovalifolius,": {
+  "Alysicarpus ovalifolius": {
     "sinhala": "Aswenna  Aesvaenna",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Amaranthus oleraceus,": {
-    "sinhala": "Thampala ",
+  "Amaranthus oleraceus": {
+    "sinhala": "Thampala",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
@@ -379,12 +379,12 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Anethum graveolens,": {
+  "Anethum graveolens": {
     "sinhala": "Sinhala:  En-duru,\u0d91\u0db3\u0dd4\u0dbb\u0dd4 (i.e., a type of duru or \"jeera\",",
-    "pali_sanskrit": "Sanskrit: Shatapushpa ",
+    "pali_sanskrit": "Sanskrit: Shatapushpa",
     "tamil": "Tamil: -i Cathakuppi, \u0b9a\u0ba4\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bbf,"
   },
-  "Angel mamelos,": {
+  "Angel mamelos": {
     "sinhala": "Beli",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -405,12 +405,12 @@
     "tamil": "Tamil: Seetha palam"
   },
   "Annona reticulata": {
-    "sinhala": "Sinhala: ",
+    "sinhala": "Sinhala:",
     "pali_sanskrit": "Sanskrit:",
     "tamil": "Tamil:"
   },
   "Annona squamosa": {
-    "sinhala": "Sinhala: vaeli-Aththa, Anona ",
+    "sinhala": "Sinhala: vaeli-Aththa, Anona",
     "pali_sanskrit": "Sanskrit: sitaphala",
     "tamil": "Tamil:  atta, sitapalam"
   },
@@ -419,32 +419,32 @@
     "pali_sanskrit": "Sanskrit: -",
     "tamil": "Tamil: namai,vekkali"
   },
-  "Anthurium andraeanum;": {
+  "Anthurium andraeanum": {
     "sinhala": "Anthurium",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Antidesma montanum,antidesma": {
+  "Antidesma montanum": {
     "sinhala": "Karawala-kabella, Kaeballa",
     "pali_sanskrit": "-",
     "tamil": "peyicci"
   },
-  "Aponogeton crispus,": {
-    "sinhala": "Kekatiya ",
+  "Aponogeton crispus": {
+    "sinhala": "Kekatiya",
     "pali_sanskrit": "-",
     "tamil": "Kotti"
   },
-  "Archidendron bigeminum,\nabarema": {
+  "Archidendron bigeminum": {
     "sinhala": "Kalatiya",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Asclepias eriocarpa,": {
+  "Asclepias eriocarpa": {
     "sinhala": "Varaa, Wara",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "-Aporosa lindleyana": {
+  "Aporosa lindleyana": {
     "sinhala": "Kebella, Kaebaella,Kaebella, Kabella",
     "pali_sanskrit": "-",
     "tamil": "Kodali, Vettikan, Vettil, Vittil, Vitti"
@@ -484,10 +484,10 @@
     "pali_sanskrit": "Sanskrit:-",
     "tamil": "Tamil: kozzikottai, kolurucci"
   },
-  "Arctium lappa,": {
+  "Arctium lappa": {
     "sinhala": "Sinhala Name not available. The plant is not common in Sri Lanka. Prefers higher altitudes and temperate climates.",
     "pali_sanskrit": "Sanskrit: Sarpakshi  The prickly heads of these plants (burrs) easily attach to fur and clothing, forming a method of efficient seed dispersal. The prickly heads inspired the creation of the \"Velcro\" attaching system. The roots and even leaves are claimed to have medicinal uses (diuretic, control of excessive perspiration, and also claimed to be  \"blood purifying\" agent although these calims are not based on good clinical trials).",
-    "tamil": "Tamil: Marul-u-mattai "
+    "tamil": "Tamil: Marul-u-mattai"
   },
   "Areca catechu": {
     "sinhala": "Puwak, Puvak",
@@ -499,7 +499,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Argyreia nervosa,": {
+  "Argyreia nervosa": {
     "sinhala": "Girithilla",
     "pali_sanskrit": "samudraphalaka, vriddadaru, Vidhara, murva,-",
     "tamil": "kakkatan, katar-palai, samuttira-p-pala"
@@ -531,15 +531,15 @@
   },
   "Artemisia indica": {
     "sinhala": "sinhala: \"Tarragon\" is not known is Sri lanka. But varieties of Mugwort (\"Nagadamana) may be known to ayurvedic practitioners.",
-    "pali_sanskrit": "Sanskrit: Nagadamani, ",
+    "pali_sanskrit": "Sanskrit: Nagadamani,",
     "tamil": "Tamil: Machipatchai, Palau"
   },
   "Artemisia annua": {
-    "sinhala": "Naagadamana, Indhana ? ",
+    "sinhala": "Naagadamana, Indhana ?",
     "pali_sanskrit": "Indhana",
     "tamil": "Makkippu"
   },
-  "Artemisia moderaspatana,\n": {
+  "Artemisia moderaspatana": {
     "sinhala": "Mastharu,",
     "pali_sanskrit": "Masipathri-",
     "tamil": "-"
@@ -556,7 +556,7 @@
   },
   "Artocarpus heterophyllus": {
     "sinhala": "Herali, Kos, Vaela, (Waraka see Artocarpus Indica)",
-    "pali_sanskrit": "Panasam (sanskrit) ",
+    "pali_sanskrit": "Panasam (sanskrit)",
     "tamil": "pila, pala, Palavu (Tamil)"
   },
   "Arundina graminifolia": {
@@ -584,12 +584,12 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Asteracantha longifolia,": {
+  "Asteracantha longifolia": {
     "sinhala": "Ikiriya, Katu-Ikiriya, Neeramulliya, kokila",
     "pali_sanskrit": "kokilaksa",
     "tamil": "nirmulli"
   },
-  "Asystasia coromandeliana,": {
+  "Asystasia coromandeliana": {
     "sinhala": "nil-puruk (?)",
     "pali_sanskrit": "-",
     "tamil": "medday keerai, peyppatchotti"
@@ -609,17 +609,17 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Austroeupatorium inulifolium,": {
+  "Austroeupatorium inulifolium": {
     "sinhala": "Sudda, \u0dc3\u0dd4\u0daf\u0dca\u0daf Valsudda",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "< valign=top>averrhoa": {
-    "sinhala": "Sinhala: Bilin ",
+  "Valign top": {
+    "sinhala": "Sinhala: Bilin",
     "pali_sanskrit": "Sanskrit: Karmaraka, Karamaranga, Siralam, Krama, Amlee, Karukha",
-    "tamil": "Tamil: Ilumbanpuli, Bilimbi, "
+    "tamil": "Tamil: Ilumbanpuli, Bilimbi,"
   },
-  "Avicennia marina,": {
+  "Avicennia marina": {
     "sinhala": "Manda",
     "pali_sanskrit": "-",
     "tamil": "Kanna"
@@ -627,11 +627,11 @@
   "Azadirachta indica": {
     "sinhala": "Sinhala: Kohomba",
     "pali_sanskrit": "Sanskrit: Pakvakrita, nimbaka, nimba-",
-    "tamil": "Tamil: vempu, vembu, veppa "
+    "tamil": "Tamil: vempu, vembu, veppa"
   },
-  "Azolla pinnata,(mosquito": {
+  "Azolla pinnata": {
     "sinhala": "sinhala: pas-penda, kaerli penda? \u0d9a\u0dd0\u0dbb\u0dbd\u0dd2",
-    "pali_sanskrit": "sanskrit: Pasubhojya, Plavini. ",
+    "pali_sanskrit": "sanskrit: Pasubhojya, Plavini.",
     "tamil": "Tamil: name in Tamil not known."
   },
   "Baccurea mottleyana": {
@@ -640,7 +640,7 @@
     "tamil": "-"
   },
   "Bacopa monnieri": {
-    "sinhala": "Sinhala: Lunuvila, Lunuwila ",
+    "sinhala": "Sinhala: Lunuvila, Lunuwila",
     "pali_sanskrit": "Sanskrit: Brahami",
     "tamil": "Tamil: pirami, piramiyam, carumam"
   },
@@ -660,7 +660,7 @@
     "tamil": "-"
   },
   "Bambusa vulgaris": {
-    "sinhala": "Una, \u0d8b\u0db1 \u00a0  unabambu, ",
+    "sinhala": "Una, \u0d8b\u0db1 \u00a0  unabambu,",
     "pali_sanskrit": "Vamsah, Venuh-",
     "tamil": "Mulmankil"
   },
@@ -704,7 +704,7 @@
     "pali_sanskrit": "upodika",
     "tamil": "venpacali, sivappu vasalakkirai, pasali"
   },
-  "Bassia latifolia,": {
+  "Bassia latifolia": {
     "sinhala": "Mee, Madupa",
     "pali_sanskrit": "Madhupa",
     "tamil": "iluppai, kattu iluppai"
@@ -749,7 +749,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Begonia suave-oleans": {
+  "Begonia suave": {
     "sinhala": "Kumburu wel, Kumburu Vael",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -814,12 +814,12 @@
     "pali_sanskrit": "-",
     "tamil": "kirusnakeli,kiruttinakeli"
   },
-  "-Brachiaria mutica": {
+  "Brachiaria mutica": {
     "sinhala": "Diya Tana -",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "-Brachystelma lankana": {
+  "Brachystelma lankana": {
     "sinhala": "Pathan ala",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -854,7 +854,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Bruguiera cylindrica,": {
+  "Bruguiera cylindrica": {
     "sinhala": "Mal Kadol",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -869,7 +869,7 @@
     "pali_sanskrit": "Sanskrit name not known. Other varieties of  Strigia  are parasitic",
     "tamil": "Tamil: milagaranaii, Pallipoondu, kollaippalli, Chirakachitam, Chirakacitappuntu"
   },
-  "Buchanania latifolia,": {
+  "Buchanania latifolia": {
     "sinhala": "Piyaa gaha",
     "pali_sanskrit": "-",
     "tamil": "Modamaram?-"
@@ -894,7 +894,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Caesalpinia enneaphyllum,": {
+  "Caesalpinia enneaphyllum": {
     "sinhala": "Goda-vavlaetiya,  (Goda Wavlatiya)-",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -934,10 +934,10 @@
     "pali_sanskrit": "sthulapushpa",
     "tamil": "Sendigai Poo-"
   },
-  "(Alexandrian laurel": {
+  "Alexandrian laurel": {
     "sinhala": "Keena, Kina",
     "pali_sanskrit": "Naga Champa-",
-    "tamil": "Punnai is C. Inophyllum listed in Sinhala as \"Domba\". "
+    "tamil": "Punnai is C. Inophyllum listed in Sinhala as \"Domba\"."
   },
   "Calophyllum inophyllum": {
     "sinhala": "Domba",
@@ -955,26 +955,26 @@
     "tamil": "-"
   },
   "Calotropis gigantea": {
-    "sinhala": "Wara, Vara, varaa, \u0dc0\u0dd0\u0dbd\u0dca ",
+    "sinhala": "Wara, Vara, varaa, \u0dc0\u0dd0\u0dbd\u0dca",
     "pali_sanskrit": "Sooryapathra, arka",
     "tamil": "erukku, erukkam"
   },
-  "Calotropis procera,": {
+  "Calotropis procera": {
     "sinhala": "kiri wara, Vaeli Wara?",
     "pali_sanskrit": "adityapushpika, alarka,",
     "tamil": "vellai erukku"
   },
-  "Calycopteris floribunda,": {
-    "sinhala": "Varaa Vael ",
+  "Calycopteris floribunda": {
+    "sinhala": "Varaa Vael",
     "pali_sanskrit": "Shetha Dhataki, Susavi",
     "tamil": "therulankodi, Pullanti Valli, Minnarakoti, minnaragodi"
   },
-  "Camellia sinensis,": {
+  "Camellia sinensis": {
     "sinhala": "The (as in Th\u00e9bes),\u00a0 \u0dad\u0dda The gaha, The Kola",
     "pali_sanskrit": "Syamaparni",
     "tamil": "thayilai, Tey"
   },
-  "Canarium zeylanicum,": {
+  "Canarium zeylanicum": {
     "sinhala": "Kekuna, Kaekuna, kakuna",
     "pali_sanskrit": "-",
     "tamil": "Pakkilipal-"
@@ -994,7 +994,7 @@
     "pali_sanskrit": "ganjika-  bhanga",
     "tamil": "kanja, kanca"
   },
-  "Capparis horida,": {
+  "Capparis horida": {
     "sinhala": "Wellangiriya, Vellangiriya",
     "pali_sanskrit": "-",
     "tamil": "turatti"
@@ -1019,7 +1019,7 @@
     "pali_sanskrit": "Sanskrit: maricam-",
     "tamil": "Tamil: milagai"
   },
-  "Carallia brachiata,": {
+  "Carallia brachiata": {
     "sinhala": "Davata, Dawata",
     "pali_sanskrit": "-",
     "tamil": "Andimiriam"
@@ -1029,17 +1029,17 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Carum carvi(caraway,": {
-    "sinhala": "Sinhala: No well established sinhala name for Caraway, although ",
+  "Carum carvi": {
+    "sinhala": "Sinhala: No well established sinhala name for Caraway, although",
     "pali_sanskrit": "Sanskrit: Krishna Jeeraka, Karavi",
-    "tamil": "Tamil: Appakacaccompucceti, Appakacam "
+    "tamil": "Tamil: Appakacaccompucceti, Appakacam"
   },
   "Careya arborea": {
     "sinhala": "Kahata -",
     "pali_sanskrit": "-",
     "tamil": "kumbi"
   },
-  "Cardiospermum halicacabum,": {
+  "Cardiospermum halicacabum": {
     "sinhala": "Wel Penela, Vael Penela",
     "pali_sanskrit": "jyotismati- indravalli",
     "tamil": "kottavan, mutakkarran"
@@ -1049,7 +1049,7 @@
     "pali_sanskrit": "Sanskrit: erandakarkati, madhukarkati",
     "tamil": "Tamil: pappayi, pappali"
   },
-  "Carissa carandas\nimages": {
+  "Carissa carandas": {
     "sinhala": "Karanda, Maha Karamba",
     "pali_sanskrit": "karamardaka-",
     "tamil": "kila, kala"
@@ -1064,7 +1064,7 @@
     "pali_sanskrit": "-",
     "tamil": "Kurivinci"
   },
-  "Carum ajowan,": {
+  "Carum ajowan": {
     "sinhala": "Sinhala: Assamodagam \u0d85\u0dc3\u0db8\u0ddd\u0daf\u0d9c\u0db8\u0dca",
     "pali_sanskrit": "Sanskrit: Ajamoda, Yavanaka, yavani, may imply that the seed is of Greek origin.",
     "tamil": "Tamil: Asamtavomam, Amam, Omam"
@@ -1084,7 +1084,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Cassia alata,": {
+  "Cassia alata": {
     "sinhala": "Eth Thora, Aeth thora",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -1094,13 +1094,13 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Cassia angustifolia,": {
+  "Cassia angustifolia": {
     "sinhala": "Sinhala:Seneha Kola",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Cassia auriculata,": {
-    "sinhala": "Sinhala: Ranavara, Ranawara \u0dbb\u0dab\u0dc0\u0dbb\u0dcf ",
+  "Cassia auriculata": {
+    "sinhala": "Sinhala: Ranavara, Ranawara \u0dbb\u0dab\u0dc0\u0dbb\u0dcf",
     "pali_sanskrit": "Sanskrit: avartaki",
     "tamil": "Tamil: avarai, avaram"
   },
@@ -1129,8 +1129,8 @@
     "pali_sanskrit": "-",
     "tamil": "Vakai"
   },
-  "Cassia senna,": {
-    "sinhala": "Sinhala: Seneha kola ",
+  "Cassia senna": {
+    "sinhala": "Sinhala: Seneha kola",
     "pali_sanskrit": "Sanskrit: Svarnapathri -",
     "tamil": "Tamil: Alakalam, Alakalampokki, Alakalampokkicceti."
   },
@@ -1144,7 +1144,7 @@
     "pali_sanskrit": "-",
     "tamil": "ponnavirai-"
   },
-  "Cassia spectabilis,\nsynonyms:": {
+  "Cassia spectabilis": {
     "sinhala": "Aehala, Kahakona, kaha-kona",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -1154,8 +1154,8 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Cassia tora,": {
-    "sinhala": "Sinhala: Peti Thora, Pethi-thora, \u0db4\u0dd9\u0dad\u0dd2 \u0dad\u0ddd\u0dbb ",
+  "Cassia tora": {
+    "sinhala": "Sinhala: Peti Thora, Pethi-thora, \u0db4\u0dd9\u0dad\u0dd2 \u0dad\u0ddd\u0dbb",
     "pali_sanskrit": "Sanskrit: Prapunnaad, Edagaj, Dadrughna, Chakramardak, Padmaat, Uranaakhya. The many",
     "tamil": "Tamil: thagarai, Senavu"
   },
@@ -1171,7 +1171,7 @@
   },
   "Catharanthus roseus": {
     "sinhala": "Mini Mal, Paspethi ?",
-    "pali_sanskrit": "Sadaphuli ",
+    "pali_sanskrit": "Sadaphuli",
     "tamil": "Nithya Kalyani-"
   },
   "Catunaregum spinosa": {
@@ -1185,11 +1185,11 @@
     "tamil": "tiripatakam, kattuperandai, kitamatti"
   },
   "Ceiba pentandra": {
-    "sinhala": "Imbul, himbul, Kotta ",
+    "sinhala": "Imbul, himbul, Kotta",
     "pali_sanskrit": "-",
     "tamil": "ilavu"
   },
-  "Celastrus paniculatus,": {
+  "Celastrus paniculatus": {
     "sinhala": "Duhudu-",
     "pali_sanskrit": "Jayothismati-",
     "tamil": "vaaluluvai"
@@ -1214,7 +1214,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Centella asiatica,": {
+  "Centella asiatica": {
     "sinhala": "Gotukola, gotukola",
     "pali_sanskrit": "mandukaparni, Brahmi-",
     "tamil": "parni, vallarai,"
@@ -1224,7 +1224,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Centranthera indica,": {
+  "Centranthera indica": {
     "sinhala": "Dutu Saputa",
     "pali_sanskrit": "Undir Karni",
     "tamil": "kovai ?-"
@@ -1234,7 +1234,7 @@
     "pali_sanskrit": "Sanskrit: Ambutala, Jalaja, Jalaneela, Jalamundapi,Jalakesha",
     "tamil": "Tamil: Vellampaasi"
   },
-  "Cerbera manghas,": {
+  "Cerbera manghas": {
     "sinhala": "Kaduru, Gon-Kaduru",
     "pali_sanskrit": "auddalakah-",
     "tamil": "-"
@@ -1250,7 +1250,7 @@
     "tamil": "-"
   },
   "Cestrum aurantiacum": {
-    "sinhala": "Sinhala:  ",
+    "sinhala": "Sinhala:",
     "pali_sanskrit": "Sanskrit: Nishagandhi ?",
     "tamil": "Tamil:-"
   },
@@ -1259,7 +1259,7 @@
     "pali_sanskrit": "Rathri-rani ?",
     "tamil": "-"
   },
-  "Chlorophytum borivilianum\nfamily:": {
+  "Chlorophytum borivilianum": {
     "sinhala": "?",
     "pali_sanskrit": "Safed Musli is used in Hindi",
     "tamil": "?"
@@ -1269,12 +1269,12 @@
     "pali_sanskrit": "Chandana",
     "tamil": "vaimari"
   },
-  "Chromolaena odorata,": {
+  "Chromolaena odorata": {
     "sinhala": "podisinghomaran",
     "pali_sanskrit": "-",
     "tamil": "podisinghomaran"
   },
-  "Chukrasia tabularis,": {
+  "Chukrasia tabularis": {
     "sinhala": "Hulan-hik, Ull-hik",
     "pali_sanskrit": "-",
     "tamil": "agil, Aayili, Malaivempu"
@@ -1291,23 +1291,18 @@
   },
   "Cinnamomum tamala": {
     "sinhala": "Davala kurundhu, davul Kurundhu, thamala-kurundhu.",
-    "pali_sanskrit": "-tamala-pattra ",
+    "pali_sanskrit": "-tamala-pattra",
     "tamil": "Talishap-pattiri"
-  },
-  "Cinnamomum zeylanicum,\ncinnamomum": {
-    "sinhala": "Kurundu \u00a0 \u00a0\u0d9a\u0dd4\u0dbb\u0dd4\u0db3\u0dd4",
-    "pali_sanskrit": "tacagandhi (pali), Lathaparna, patrnaamaka,",
-    "tamil": "Karuvaa"
-  },
-  "Cinnamomum litseafolium": {
-    "sinhala": "Kuda Kurundu",
-    "pali_sanskrit": "-",
-    "tamil": "-"
   },
   "Cinnamomum zeylanicum": {
     "sinhala": "Kurundu, ceylonl cinnamon",
     "pali_sanskrit": "Twale, Tvak",
     "tamil": "Karuva, ilavankappattai"
+  },
+  "Cinnamomum litseafolium": {
+    "sinhala": "Kuda Kurundu",
+    "pali_sanskrit": "-",
+    "tamil": "-"
   },
   "Cipadessa baccifera": {
     "sinhala": "Halbembiya",
@@ -1334,7 +1329,7 @@
     "pali_sanskrit": "-",
     "tamil": "varagamothankodi"
   },
-  "Citrus aurantifolia,": {
+  "Citrus aurantifolia": {
     "sinhala": "Sinhala: Dehi  Nutritonally, lemons and limes are similer.",
     "pali_sanskrit": "Sanskrit: jambira ?, matulunga",
     "tamil": "Tamil: elumiccai, champalam"
@@ -1384,22 +1379,22 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Citrus reticulata,": {
+  "Citrus reticulata": {
     "sinhala": "Sinhala: Heen Naran, Heen Naaran",
-    "pali_sanskrit": "Sanskrit ? ",
+    "pali_sanskrit": "Sanskrit ?",
     "tamil": "Tamil: kamalapalam, naarangam"
   },
   "Citrus sinensis": {
     "sinhala": "Sinhala: Pani Dodang,",
-    "pali_sanskrit": "Sanskrit:  May be \"Mosambi\".  ",
-    "tamil": "Tamil: Inippu aarancu  "
+    "pali_sanskrit": "Sanskrit:  May be \"Mosambi\".",
+    "tamil": "Tamil: Inippu aarancu"
   },
   "Clausena indica": {
     "sinhala": "Sinhala: MeeGon Karapinccha, rata karapincha\u0db8\u0dd3\u0d9c\u0ddc\u0db1\u0dca",
     "pali_sanskrit": "Sanskrit: -",
     "tamil": "Tamil: Nana, Kariveppilei, Katta-veppilei-"
   },
-  "Cleidion nitidium,": {
+  "Cleidion nitidium": {
     "sinhala": "Snhala: Okuru",
     "pali_sanskrit": "Sanskrit:-",
     "tamil": "Tamil: -"
@@ -1424,8 +1419,8 @@
     "pali_sanskrit": "-",
     "tamil": "taivelai"
   },
-  "Cleome gynandra,": {
-    "sinhala": "Wela, ajagandha, arjaka ",
+  "Cleome gynandra": {
+    "sinhala": "Wela, ajagandha, arjaka",
     "pali_sanskrit": "Ajagandha",
     "tamil": "velai, nalvelai, Taivelai, acakanta"
   },
@@ -1434,22 +1429,22 @@
     "pali_sanskrit": "-",
     "tamil": "pinicampokkicceti, nattarccarimli"
   },
-  "Cleome monophylla,": {
+  "Cleome monophylla": {
     "sinhala": "ran-manissa  often seen  in fallow paddy fields in Sri Lanka.",
     "pali_sanskrit": "Kanikarjaka",
     "tamil": "ucivelai, Ellukku Sakkalathi"
   },
-  "Cleome viscosa,": {
-    "sinhala": "Wal-aba ",
+  "Cleome viscosa": {
+    "sinhala": "Wal-aba",
     "pali_sanskrit": "-Peetharjaka (?)",
     "tamil": "naivelai,naikkadduku,  kattu-k-katuki"
   },
-  "Clerodendrum inerme,": {
+  "Clerodendrum inerme": {
     "sinhala": "Galinda, wal-bo-haenda, Wal Pichcha, Kundali",
-    "pali_sanskrit": "kundali ",
+    "pali_sanskrit": "kundali",
     "tamil": "cankankuppi, sangam, peechchanku, Anjali"
   },
-  "Clerodendrum infortunatum,": {
+  "Clerodendrum infortunatum": {
     "sinhala": "Pinna, Gas-Pinna, Kalupinna",
     "pali_sanskrit": "bhandira",
     "tamil": "karukanni, Perugilai, vellaikkanni"
@@ -1464,9 +1459,9 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Clerodendrum serratum\nturk's": {
-    "sinhala": "Kanhendha, Kanhaendha, SiriTekku ",
-    "pali_sanskrit": "Bharangi, Bruggabhava, Brahmayashtika, Bhangika According to Mukesh Singhe et al ",
+  "Clerodendrum serratum": {
+    "sinhala": "Kanhendha, Kanhaendha, SiriTekku",
+    "pali_sanskrit": "Bharangi, Bruggabhava, Brahmayashtika, Bhangika According to Mukesh Singhe et al",
     "tamil": "cittirap-palatai"
   },
   "Clerodendrum phlomidis": {
@@ -1474,7 +1469,7 @@
     "pali_sanskrit": "-",
     "tamil": "talutalai, Taluddai"
   },
-  "Clitoria ternatea,": {
+  "Clitoria ternatea": {
     "sinhala": "Katarolu, Nil Katarolu, Katarodu, Sithapushpa",
     "pali_sanskrit": "aparajita, Sankhapushpi-",
     "tamil": "kakkanam, kakkattan, sangupu"
@@ -1489,17 +1484,17 @@
     "pali_sanskrit": "Bimbi",
     "tamil": "kovai, matupakku"
   },
-  "Cochlospermum gossipyum,": {
+  "Cochlospermum gossipyum": {
     "sinhala": "Kinihiriya, Ela-imbul",
     "pali_sanskrit": "-",
     "tamil": "Kattupparutti, Tanaku konga"
   },
   "Cocos nucifera": {
-    "sinhala": "pol, Pol, Thambili, Thaembili, Kurumba, Vaevara ",
+    "sinhala": "pol, Pol, Thambili, Thaembili, Kurumba, Vaevara",
     "pali_sanskrit": "Naarikela,N\u0101\u1e37ikerika, Narikela, Narikera,",
-    "tamil": "Thennnai, Ila,taakkinay "
+    "tamil": "Thennnai, Ila,taakkinay"
   },
-  "Cochlosermum gossypium,": {
+  "Cochlosermum gossypium": {
     "sinhala": "Kinihiriya, wael kinihitiya",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -1514,7 +1509,7 @@
     "pali_sanskrit": "karpuravalli-",
     "tamil": "muttainari"
   },
-  "Coleus forskohlii,": {
+  "Coleus forskohlii": {
     "sinhala": "Val seneha kola, Maagandi?, Kapparawalliya,?",
     "pali_sanskrit": "Makandi",
     "tamil": "Karpooravalli (Karpuravalli), Pashanbheda"
@@ -1539,7 +1534,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Colocasia sp.": {
+  "Colocasia sp": {
     "sinhala": "Thun-mas ala, Isuru desala, Krir ala",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -1589,13 +1584,13 @@
     "pali_sanskrit": "-",
     "tamil": "kottumalli"
   },
-  "Corypha umbraculifera,": {
+  "Corypha umbraculifera": {
     "sinhala": "Talapath, (Puskola path)",
     "pali_sanskrit": "Talapathra",
     "tamil": "talippanai, talappam"
   },
-  "Coscinium fenestratum\n(tree": {
-    "sinhala": "Wenivael gaeta, Weniwelgeta,  Venivaelgata, Vaenivael gaeta, ",
+  "Coscinium fenestratum": {
+    "sinhala": "Wenivael gaeta, Weniwelgeta,  Venivaelgata, Vaenivael gaeta,",
     "pali_sanskrit": "Daruharidra, Pitadaru",
     "tamil": "Maramanjal, Manjalkodi, Pasamantram, Imalam"
   },
@@ -1612,9 +1607,9 @@
   "Couroupita guianensis": {
     "sinhala": "Salgaha",
     "pali_sanskrit": "-Nagakesara ?",
-    "tamil": "Naagalingam tree, Kunturukkam "
+    "tamil": "Naagalingam tree, Kunturukkam"
   },
-  "Crateva adansonii,": {
+  "Crateva adansonii": {
     "sinhala": "Lunuwarana, Lunu warna,  Lunu varana, Lunuvarana",
     "pali_sanskrit": "Varuna-",
     "tamil": "Marvilinga-"
@@ -1634,7 +1629,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Crocus sativus,": {
+  "Crocus sativus": {
     "sinhala": "kunkuma",
     "pali_sanskrit": "Kunkuma, Kashmira, Kesar, Zafran",
     "tamil": "Kungumapoo"
@@ -1649,17 +1644,17 @@
     "pali_sanskrit": "-",
     "tamil": "kuttu"
   },
-  "Crotalaria laburnifolia,": {
+  "Crotalaria laburnifolia": {
     "sinhala": "Yak Beriya",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Crotalaria pallida,": {
+  "Crotalaria pallida": {
     "sinhala": "Andanagiriya",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Crotalaria retusa,": {
+  "Crotalaria retusa": {
     "sinhala": "Kappetiya, Kaha-Andana-Hiriya",
     "pali_sanskrit": "-",
     "tamil": "kilukiluppai"
@@ -1669,7 +1664,7 @@
     "pali_sanskrit": "Dantibija, Tintidiphala, Dravanthi, Jeyphala-",
     "tamil": "nervalam, nagandi"
   },
-  "Croton caudatus,": {
+  "Croton caudatus": {
     "sinhala": "Wel kappetiya, Vael Kaeppetiya",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -1714,8 +1709,8 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Cuminum cyminum(cumin)\nfamily:": {
-    "sinhala": "Sinhala:\u00a0 sooduru [su:\u00f0uru]\u0dc3\u0dd6\u0daf\u0dd4\u0dbb\u0dd4 ",
+  "Cuminum cyminum": {
+    "sinhala": "Sinhala:\u00a0 sooduru [su:\u00f0uru]\u0dc3\u0dd6\u0daf\u0dd4\u0dbb\u0dd4",
     "pali_sanskrit": "Sanskrit: jira",
     "tamil": "Tamil: shiragam, cirakam"
   },
@@ -1725,8 +1720,8 @@
     "tamil": "nilappanai, kuratti"
   },
   "Curcuma amada": {
-    "sinhala": "sinhala:  Amba-kaha ",
-    "pali_sanskrit": "sanskrit: amragandha, karpuraharidra etc, ",
+    "sinhala": "sinhala:  Amba-kaha",
+    "pali_sanskrit": "sanskrit: amragandha, karpuraharidra etc,",
     "tamil": "Tamil: arukamlaka, maingi, mamidiallam, mankay inci, mankayinci, mankayyinci, mavinci"
   },
   "Curcuma aromatica": {
@@ -1759,7 +1754,7 @@
     "pali_sanskrit": "-",
     "tamil": "civappu nayuruvi, cirukatalati"
   },
-  "Cycas nathorstii\nnote": {
+  "Cycas nathorstii": {
     "sinhala": "Madu, \u0db8\u0da9\u0dd4, madugaha",
     "pali_sanskrit": "-",
     "tamil": "kamappu"
@@ -1800,7 +1795,7 @@
     "tamil": "korai, kilangu, muthakasu, kottukkorai ?"
   },
   "Cyperus difformis": {
-    "sinhala": "sinhala: \"pang\" ",
+    "sinhala": "sinhala: \"pang\"",
     "pali_sanskrit": "Sanskrit:-It is one of the commonest weeds of paddy or flooded rice",
     "tamil": "Tamil:Vattakorai"
   },
@@ -1814,7 +1809,7 @@
     "pali_sanskrit": "Bhadramusta, Nagaramustaka-",
     "tamil": "-"
   },
-  "Daemia extensa,": {
+  "Daemia extensa": {
     "sinhala": "Meda-hangu,",
     "pali_sanskrit": "-",
     "tamil": "uttamani"
@@ -1834,12 +1829,12 @@
     "pali_sanskrit": "write up and images",
     "tamil": "itti, sisu"
   },
-  "Dalbergia pseudo-sissoo": {
+  "Dalbergia pseudo": {
     "sinhala": "bambara wael, bambara wel, bambara vel, bambara vael",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Dalzellia ceylanica,": {
+  "Dalzellia ceylanica": {
     "sinhala": "If you know the Sinhala name, Tamil name etc., write to chandre.dharma@yahoo.ca",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -1859,7 +1854,7 @@
     "pali_sanskrit": "Datura",
     "tamil": "umattai"
   },
-  "Daucus carota,": {
+  "Daucus carota": {
     "sinhala": "Val Kaerat",
     "pali_sanskrit": "-",
     "tamil": "mancalmullanki, kartkilanku"
@@ -1875,21 +1870,21 @@
     "tamil": "-"
   },
   "Dendrocalamus strictus": {
-    "sinhala": "rata una ",
+    "sinhala": "rata una",
     "pali_sanskrit": "-",
     "tamil": "kattumunkil"
   },
-  "Dendrophthoe falcata,": {
+  "Dendrophthoe falcata": {
     "sinhala": "Ehatu Mal",
     "pali_sanskrit": "Vuksha Dhanai",
     "tamil": "pulluruvi, Pulluri"
   },
-  "Derris indica,": {
+  "Derris indica": {
     "sinhala": "Mal karanda ?",
     "pali_sanskrit": "Naktamaala",
     "tamil": "pungam, Pungai"
   },
-  "Derris canarensis,": {
+  "Derris canarensis": {
     "sinhala": "Diya Kala Wel, Diyakala Vael, Sudu Kala Vael, Kala-Wel, Bokalawel",
     "pali_sanskrit": "-",
     "tamil": "kotippunku"
@@ -1909,7 +1904,7 @@
     "pali_sanskrit": "-",
     "tamil": "pullati"
   },
-  "Desmodium triflorum\nimage": {
+  "Desmodium triflorum": {
     "sinhala": "Undupialli, Heen undupialli",
     "pali_sanskrit": "-",
     "tamil": "--"
@@ -1919,7 +1914,7 @@
     "pali_sanskrit": "-",
     "tamil": "Pe karkai (?)"
   },
-  "-Dichrostachys cinerea": {
+  "Dichrostachys cinerea": {
     "sinhala": "mal-Andara",
     "pali_sanskrit": "Bahuvaraka, Virtaru",
     "tamil": "vitattalai, vedathalam"
@@ -1929,13 +1924,13 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  ", ,": {
+  "Dilivaria illicifolia": {
     "sinhala": "Katu Ikili, Vael Ikiri",
     "pali_sanskrit": "-",
     "tamil": "Kazhuthai Mulli, Kalutaamul"
   },
   "Achyranthes aspera": {
-    "sinhala": "Karal Heba, Karak haeba, kinihi ",
+    "sinhala": "Karal Heba, Karak haeba, kinihi",
     "pali_sanskrit": "Apamarga, Khara-manjar",
     "tamil": "nayuruvi"
   },
@@ -1949,7 +1944,7 @@
     "pali_sanskrit": "-",
     "tamil": "Kaduppuvam, cempuvam"
   },
-  "Dioscorea alata,": {
+  "Dioscorea alata": {
     "sinhala": "Hingurala, Raja-ala (Raajaala), Anjili-ala, kahata-ala, Kiri Kondol, Kiri ala, Ini ala, Ley dantha, Dandila, rathu-ala,",
     "pali_sanskrit": "-",
     "tamil": "kayvalli, Raasa-valli, Khatangal, Peruvalli"
@@ -1969,7 +1964,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Dioscorea oppositifolia,": {
+  "Dioscorea oppositifolia": {
     "sinhala": "Kondol",
     "pali_sanskrit": "-",
     "tamil": "varivalli, Kavala-kodi,Verrilaivalli"
@@ -1984,7 +1979,7 @@
     "pali_sanskrit": "-",
     "tamil": "Kotakavalli,Urumpirei"
   },
-  "Dioscorea pentaphylla,": {
+  "Dioscorea pentaphylla": {
     "sinhala": "Kondol, Katuala, Katuwa-ala",
     "pali_sanskrit": "-",
     "tamil": "kattuvalli, Kaattukkaayvalli"
@@ -1999,17 +1994,17 @@
     "pali_sanskrit": "-",
     "tamil": "Gusvakendu"
   },
-  "Diospyros attenuata,": {
+  "Diospyros attenuata": {
     "sinhala": "Kadumberiya, Kaluvaella",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Diospyros chaetocarpa,": {
+  "Diospyros chaetocarpa": {
     "sinhala": "Kalu Madiriya",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Diospyros condelleana,": {
+  "Diospyros condelleana": {
     "sinhala": "Ho-madiriya, Ho Maediriya",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -2019,12 +2014,12 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Diospyros embryopteris,": {
+  "Diospyros embryopteris": {
     "sinhala": "Thimbiri, thiburu, Kollan gaha",
-    "pali_sanskrit": "Tinduka, [Gaab] ",
+    "pali_sanskrit": "Tinduka, [Gaab]",
     "tamil": "Panichchai, Tumbika"
   },
-  "Diospyros ferrea,": {
+  "Diospyros ferrea": {
     "sinhala": "Hik-ul-Haenda",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -2034,7 +2029,7 @@
     "pali_sanskrit": "kendu ?",
     "tamil": "karai"
   },
-  "Diospyros malabarica,": {
+  "Diospyros malabarica": {
     "sinhala": "Timbiri, thinduka",
     "pali_sanskrit": "-",
     "tamil": "thumbai"
@@ -2089,17 +2084,17 @@
     "pali_sanskrit": "-",
     "tamil": "virali"
   },
-  "Dolichandrone spathacea,": {
+  "Dolichandrone spathacea": {
     "sinhala": "diya -danga",
     "pali_sanskrit": "-",
     "tamil": "kaliyacca"
   },
-  "Dolichos biflorus,": {
+  "Dolichos biflorus": {
     "sinhala": "Kollu",
     "pali_sanskrit": "-",
     "tamil": "Kollu paruppu, Kulad"
   },
-  "Doona cordifolia,": {
+  "Doona cordifolia": {
     "sinhala": "Potathala, Beraliya",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -2139,7 +2134,7 @@
     "pali_sanskrit": "Unkatara, brahmadandi",
     "tamil": "kutiraippijan, kutiraippisanmaram"
   },
-  "Eclipta alba,": {
+  "Eclipta alba": {
     "sinhala": "Keekirindiya, Kikirindiya",
     "pali_sanskrit": "Bhringaraja, Kesharaja-",
     "tamil": "karippan, kaikeshi, karisalankanni"
@@ -2175,8 +2170,8 @@
     "tamil": "kevuru"
   },
   "Eleusine coracana": {
-    "sinhala": "Kurakkan ",
-    "pali_sanskrit": "Rajika ",
+    "sinhala": "Kurakkan",
+    "pali_sanskrit": "Rajika",
     "tamil": "Ragi, Iraaki,  kelvaragu."
   },
   "Embelia ribes": {
@@ -2189,7 +2184,7 @@
     "pali_sanskrit": "-",
     "tamil": "Thimbiriya (Thumpalai)"
   },
-  "Eragrostis (love": {
+  "Eragrostis love": {
     "sinhala": "Thuththiri",
     "pali_sanskrit": "A variety of Eragrotis is considered sacred in some Hindu localities.",
     "tamil": "Eragrostis cynosuroides known as (Dharbham -in Sanskrit)."
@@ -2199,7 +2194,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Eriodendron anfractuosum,": {
+  "Eriodendron anfractuosum": {
     "sinhala": "Imbul, Pulun Imbul",
     "pali_sanskrit": "Salmali",
     "tamil": "Illanku"
@@ -2210,11 +2205,11 @@
     "tamil": "-"
   },
   "Eryngium foetidum": {
-    "sinhala": "\u0d85\u0db3\u0dd4 \u0d9a\u0ddc\u0dbd Andu-kola ",
+    "sinhala": "\u0d85\u0db3\u0dd4 \u0d9a\u0ddc\u0dbd Andu-kola",
     "pali_sanskrit": "Piranga",
     "tamil": "-"
   },
-  "Erythrina indica,": {
+  "Erythrina indica": {
     "sinhala": "Erabadu -",
     "pali_sanskrit": "-",
     "tamil": "kaliyana murukkan, Mullu-murukku"
@@ -2234,7 +2229,7 @@
     "pali_sanskrit": "paribhadra-",
     "tamil": "mullumurukku"
   },
-  "Erythroxylum monogynum\n\nimages": {
+  "Erythroxylum monogynum": {
     "sinhala": "Devadaram, Devadaaram, Agil-",
     "pali_sanskrit": "-",
     "tamil": "pittaru"
@@ -2281,7 +2276,7 @@
   },
   "Evolvulus alsinoides": {
     "sinhala": "Vishnukranthi,Wisnukranthi",
-    "pali_sanskrit": "vishnugandhi (Wild Tumeric) teh plant grows wild in ",
+    "pali_sanskrit": "vishnugandhi (Wild Tumeric) teh plant grows wild in",
     "tamil": "vishnukarandi, visnukiranti"
   },
   "Exacum trinervium": {
@@ -2294,17 +2289,17 @@
     "pali_sanskrit": "-",
     "tamil": "tillai, Thilla"
   },
-  "Fagopyrum esculentum,": {
+  "Fagopyrum esculentum": {
     "sinhala": "The plant is not known in Sri Lanka with its tropical climate.",
     "pali_sanskrit": "Sanskrit: Soba,",
     "tamil": "Khaadu"
   },
-  "Fagraea ceilanica,": {
+  "Fagraea ceilanica": {
     "sinhala": "Eta Muru, Aeta Muru",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Farmeria metzgerioides,": {
+  "Farmeria metzgerioides": {
     "sinhala": "-",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -2319,7 +2314,7 @@
     "pali_sanskrit": "-",
     "tamil": "norivila, Villati, Villan"
   },
-  "Ferula assa-foetida": {
+  "Ferula assa": {
     "sinhala": "Singu, Perungkaayam",
     "pali_sanskrit": "(\u0938\u0902\u0938\u094d\u0915\u0943\u0924\u092e\u094d)",
     "tamil": "Perungayam"
@@ -2334,7 +2329,7 @@
     "pali_sanskrit": "Nygrodha, Nyagrodha, Vata, Sriksaka",
     "tamil": "alamaram,  kottam , Nakar, Nakaram,  Niyaman"
   },
-  "Ficus benjamina,": {
+  "Ficus benjamina": {
     "sinhala": "Mandara ( according to a Sinhalese Vedakama practitioner)",
     "pali_sanskrit": "Benjana, Benjamana, Nandaruksha, Mandhara",
     "tamil": "Nintamaravakal, Vellal"
@@ -2344,7 +2339,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Ficus caulocarpa,": {
+  "Ficus caulocarpa": {
     "sinhala": "Sinhala: A specific Sinhala name is unknown, although there is a",
     "pali_sanskrit": "Sanskrit name: In General Sanskirt \"Plaksa\" may be applied to fig plants.",
     "tamil": "Tamil: Peyatti (?)"
@@ -2364,7 +2359,7 @@
     "pali_sanskrit": "Kakodumbarika",
     "tamil": "peyatti, kattatti"
   },
-  "Ficus racemosa,": {
+  "Ficus racemosa": {
     "sinhala": "Aththikka, Attikka",
     "pali_sanskrit": "sadaphala, udumbarah",
     "tamil": "atthi"
@@ -2380,11 +2375,6 @@
     "tamil": "-"
   },
   "Ficus tinctoria": {
-    "sinhala": "Val Aehaetu, Wal Ehetu",
-    "pali_sanskrit": "-",
-    "tamil": "itti"
-  },
-  "Ficus tinctoria,": {
     "sinhala": "Ehetu",
     "pali_sanskrit": "-",
     "tamil": "kallitti,irattiri"
@@ -2394,7 +2384,7 @@
     "pali_sanskrit": "-",
     "tamil": "varaiyalmuram, Kalaal"
   },
-  "Flacourtia indica,": {
+  "Flacourtia indica": {
     "sinhala": "Lovi, Uguraessa, uguressa,  Katulovi, katu lovi",
     "pali_sanskrit": "Shruvavrikksha, Aghori -",
     "tamil": "kurumulli, sottaikkala,cholhakilai, kutukali, mulanninchil"
@@ -2405,7 +2395,7 @@
     "tamil": "Irubulai, varatpulaver, Mulluppulatti"
   },
   "Foeniculum vulgare": {
-    "sinhala": "Sinhala: Maa-duru \u0db8\u0dcf\u0daf\u0dd4\u0dbb\u0dd4, ",
+    "sinhala": "Sinhala: Maa-duru \u0db8\u0dcf\u0daf\u0dd4\u0dbb\u0dd4,",
     "pali_sanskrit": "Sanskrit: Madhurika",
     "tamil": "Tamil: Sompu, Perun siragum"
   },
@@ -2424,7 +2414,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Garcinia cambogia,": {
+  "Garcinia cambogia": {
     "sinhala": "Goraka, kana-goraka",
     "pali_sanskrit": "-",
     "tamil": "Kodakka"
@@ -2434,7 +2424,7 @@
     "pali_sanskrit": "Sanskrit:Vrikshamia, Amlabija, Amlapura, Amlashaka",
     "tamil": "Tamil: maampaa vakai,"
   },
-  "Garcinia morella,": {
+  "Garcinia morella": {
     "sinhala": "Kokatiya, Gokatiya",
     "pali_sanskrit": "kankustha-",
     "tamil": "makki, makkimaram"
@@ -2454,18 +2444,18 @@
     "pali_sanskrit": "sindhu-parni, gambhari,",
     "tamil": "kumla, kumalamaram, kumil,(Kumizh)"
   },
-  "Gendarussa vulgaris,": {
+  "Gendarussa vulgaris": {
     "sinhala": "kalu weraniya, kalu veraniya",
     "pali_sanskrit": "Kasanah, viadyasinha",
     "tamil": "karunochchi"
   },
-  "Gentiana chirayata,": {
+  "Gentiana chirayata": {
     "sinhala": "Kiratha, Kirata,",
-    "pali_sanskrit": "Kirata, Kirata-tikta ",
+    "pali_sanskrit": "Kirata, Kirata-tikta",
     "tamil": "-"
   },
   "Gerardia delphinifolia": {
-    "sinhala": "Renu- Haedilla, (P 766 of Pridham) ",
+    "sinhala": "Renu- Haedilla, (P 766 of Pridham)",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
@@ -2494,7 +2484,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Gliricidia sepium(gliricidia,": {
+  "Gliricidia sepium": {
     "sinhala": "\u0d9c\u0dd2\u0dbb\u0dd2\u0dc3\u0dd3\u0da9\u0dd2\u0dba",
     "pali_sanskrit": "Saranga",
     "tamil": "Vivasaaya Thegarai, Seemai agathi, Girisidia"
@@ -2504,7 +2494,7 @@
     "pali_sanskrit": "agnisikha-  langali",
     "tamil": "kalappaik-kilangu, kantal, Karthigai"
   },
-  "Glycyrrhiza glabra,": {
+  "Glycyrrhiza glabra": {
     "sinhala": "Vael Mee",
     "pali_sanskrit": "Madhuka, Yashtimadhu (Hindi: Hindi\tJethimadh)",
     "tamil": "Atimaduram, (Malayalam: Yashtimadhukam)"
@@ -2549,13 +2539,13 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Gordonia speciosa,": {
-    "sinhala": "Rath Mihiriya, ",
+  "Gordonia speciosa": {
+    "sinhala": "Rath Mihiriya,",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
   "Gossypum herbaceumlevant": {
-    "sinhala": "kapu Pulun ",
+    "sinhala": "kapu Pulun",
     "pali_sanskrit": "Karparsa",
     "tamil": "-"
   },
@@ -2614,20 +2604,20 @@
     "pali_sanskrit": "-",
     "tamil": "velai,nal velai -"
   },
-  "Gyrinops walla\nimage\nif": {
+  "Gyrinops walla": {
     "sinhala": "Wallapatta, Vallapatta, Patta vael, Pattawel, Walla Patta",
-    "pali_sanskrit": "Sanskrit name: Aguru  ",
-    "tamil": "Tamil name: Akil "
+    "pali_sanskrit": "Sanskrit name: Aguru",
+    "tamil": "Tamil name: Akil"
   },
   "Gynura procumbens": {
     "sinhala": "Sinhala: Cheena nivithi",
     "pali_sanskrit": "Sanskrit: Dvipantharavacha",
     "tamil": "Tamil:  If you know the Tamil name, plese send an email to"
   },
-  "Gynura pseudocina,gynura": {
+  "Gynura pseudocina": {
     "sinhala": "Sinhala: Cheenala, Cheena Ala,  Seeen ala, Ala beth, Chopachini, Dvipantaravacha",
     "pali_sanskrit": "Sanskrit: Madhusnuhi (in Ayurveda), Dvipantharavach",
-    "tamil": "-Tamil: Not KNown by us.     "
+    "tamil": "-Tamil: Not KNown by us."
   },
   "Haldina cordifolia": {
     "sinhala": "Kolon",
@@ -2644,7 +2634,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Hedyotis pumila,": {
+  "Hedyotis pumila": {
     "sinhala": "Wel-kawududala, Vel kavudu dala",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -2655,7 +2645,7 @@
     "tamil": "pulladi"
   },
   "Helianthus annuus": {
-    "sinhala": "Sooriya Kaantha, ",
+    "sinhala": "Sooriya Kaantha,",
     "pali_sanskrit": "Sooryamukh, sooryakantha",
     "tamil": "curiyakantam. sooryakanthi -"
   },
@@ -2679,7 +2669,7 @@
     "pali_sanskrit": "sariva-",
     "tamil": "nannari, kirusnavalli, Ananadamulla"
   },
-  "Heptapleurum exaltatum,": {
+  "Heptapleurum exaltatum": {
     "sinhala": "Goda-iththa",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -2719,7 +2709,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Hibiscus rosa-sinensis": {
+  "Hibiscus rosa": {
     "sinhala": "Pokuru Wada, Pokuru Wadamal",
     "pali_sanskrit": "-",
     "tamil": "semparuthi"
@@ -2734,9 +2724,9 @@
     "pali_sanskrit": "-",
     "tamil": "kurukkatti, madavi"
   },
-  "Holarrhena antidysenterica,": {
-    "sinhala": "Sinhala: Wal Idda, Val Idda \u0dc0\u0dbd\u0dca ;\u0d89\u0daf\u0dca\u0daf ",
-    "pali_sanskrit": "Sanskrit:  Kutaja, Kutaj, Kit, Vatsaka, Girimallika, Kalinga, ",
+  "Holarrhena antidysenterica": {
+    "sinhala": "Sinhala: Wal Idda, Val Idda \u0dc0\u0dbd\u0dca ;\u0d89\u0daf\u0dca\u0daf",
+    "pali_sanskrit": "Sanskrit:  Kutaja, Kutaj, Kit, Vatsaka, Girimallika, Kalinga,",
     "tamil": "Tamil: kutacappalai"
   },
   "Holarrhena mitis": {
@@ -2754,7 +2744,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Hortonia angustifolia,": {
+  "Hortonia angustifolia": {
     "sinhala": "We are currently looking for theeir inages and sinhala names.",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -2764,7 +2754,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Hoya viridiflora,": {
+  "Hoya viridiflora": {
     "sinhala": "Kiri anguna",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -2792,7 +2782,7 @@
   "Hydrilla verticillatawater": {
     "sinhala": "Sinhala: valal-paasi (?)",
     "pali_sanskrit": "Sanskrit: Jhangi, kureli ?",
-    "tamil": "Tamil: amirana-p-paci, cikavalakam "
+    "tamil": "Tamil: amirana-p-paci, cikavalakam"
   },
   "Hydrolea zeylanica": {
     "sinhala": "Diya-mitta, Diyamiththa, Diyakirilla",
@@ -2809,7 +2799,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Hygrophila auriculata,": {
+  "Hygrophila auriculata": {
     "sinhala": "Ikiriya",
     "pali_sanskrit": "-",
     "tamil": "nirmulii"
@@ -2830,11 +2820,11 @@
     "tamil": "-"
   },
   "Illicium verum": {
-    "sinhala": "Sinahla name not known. ",
-    "pali_sanskrit": "Sinskrit: Takkolaka ",
+    "sinhala": "Sinahla name not known.",
+    "pali_sanskrit": "Sinskrit: Takkolaka",
     "tamil": "Malayalam: Thakkolam,  Takkolapputtil. No known tamil name."
   },
-  "Impatiens bijlora,": {
+  "Impatiens bijlora": {
     "sinhala": "Vel Koodalu, Wael Koodalu, Wel Kudalu",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -2864,17 +2854,17 @@
     "pali_sanskrit": "-",
     "tamil": "ceppu-neruncil"
   },
-  "Indigofera suffruticosa,": {
+  "Indigofera suffruticosa": {
     "sinhala": "Sinhala: Nil-aevariya, Nil Averia,Nil Awariya, Nil Aevariya",
     "pali_sanskrit": "Sankrit: nilika, Nilambi, gandhapushpa, maharasa, nilini, rangapushpi, ranjani, shyamalika-",
     "tamil": "Tamil:  cimai-nil, Neela Amari, avuri, Nili"
   },
-  "Ipomoea aquatica\n": {
+  "Ipomoea aquatica": {
     "sinhala": "Kankun  \u0d9a\u0d82\u0d9a\u0dd4\u0db1\u0dca,  \u0d9a\u0d82\u0d9a\u0dd4\u0d82,",
     "pali_sanskrit": "kalambi, Karemu",
     "tamil": "Nalikam, vallikkoti, Sarkaraivalli"
   },
-  "Ipomoea asarifolia,": {
+  "Ipomoea asarifolia": {
     "sinhala": "Bim Tamburu,Bin Tamburu",
     "pali_sanskrit": "-",
     "tamil": "Carkkaraivalli-"
@@ -2884,7 +2874,7 @@
     "pali_sanskrit": "-",
     "tamil": "pavala- carkkaraivalli, Seeni-k-kilanku, var-r-aali \u0bb5\u0bb1\u0bcd\u0bb1\u0bbe\u0bb3\u0bc8"
   },
-  "Ipomoea bona-nox,": {
+  "Ipomoea bona": {
     "sinhala": "Chandrakaanthi-",
     "pali_sanskrit": "Gulchandani-",
     "tamil": "nagamughatei"
@@ -2914,7 +2904,7 @@
     "pali_sanskrit": "-",
     "tamil": "cirutali, kuruvilatcumi"
   },
-  "Ipomoea pes-tigridis": {
+  "Ipomoea pes": {
     "sinhala": "Divi adiya, Divi Pahauru",
     "pali_sanskrit": "vyaghranakhi-",
     "tamil": "punaikkirai"
@@ -2929,7 +2919,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Isatis ": {
+  "Isatis indigotica": {
     "sinhala": "Mahanil aevariya, cheena aevariya",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -2994,15 +2984,15 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Jonesia asoca,": {
+  "Jonesia asoca": {
     "sinhala": "Diya Rathmal",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
   "Jussiaea repens": {
-    "sinhala": "Jaala pichcha, Jala pichcha  (?) Lavanaga ",
-    "pali_sanskrit": "toyapipall, ShodhaGanaga, Keshardam. ",
-    "tamil": "Neeru  dantu (Malayalam and some Tamil area) "
+    "sinhala": "Jaala pichcha, Jala pichcha  (?) Lavanaga",
+    "pali_sanskrit": "toyapipall, ShodhaGanaga, Keshardam.",
+    "tamil": "Neeru  dantu (Malayalam and some Tamil area)"
   },
   "Justicia adhatoda": {
     "sinhala": "Adhathoda",
@@ -3014,12 +3004,12 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Justicia gendarussa,": {
+  "Justicia gendarussa": {
     "sinhala": "Kalu Vaeraniya",
     "pali_sanskrit": "-",
     "tamil": "karunocci"
   },
-  "Kaempferia galanga,": {
+  "Kaempferia galanga": {
     "sinhala": "Inguru Piyali, Singuru piyali",
     "pali_sanskrit": "-",
     "tamil": "kacholum"
@@ -3029,7 +3019,7 @@
     "pali_sanskrit": "hemasagara-  parnabija",
     "tamil": "kkattukkalli, ranakalli"
   },
-  "Kalanchoe pinnata,": {
+  "Kalanchoe pinnata": {
     "sinhala": "Akkapana",
     "pali_sanskrit": "asthibhaksha-",
     "tamil": "Mallakulli, Runakkalli, viranakkalli, irankall"
@@ -3039,7 +3029,7 @@
     "pali_sanskrit": "-",
     "tamil": "Kandal"
   },
-  "Kendrikuia walkeri,osbeckia": {
+  "Kendrikuia walkeri": {
     "sinhala": "Val Bo~vitiya, Wal Bovitiya",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -3069,7 +3059,7 @@
     "pali_sanskrit": "ajasringgi-",
     "tamil": "udi, anaikarai"
   },
-  "Lantana camara\nverbenaceae": {
+  "Lantana camara": {
     "sinhala": "Gandapana -",
     "pali_sanskrit": "Bhandika, bhandira",
     "tamil": "puchedi, arippu, Unnichedi"
@@ -3079,7 +3069,7 @@
     "pali_sanskrit": "-",
     "tamil": "nativaricceti, kutampai"
   },
-  "Laportea interrupta,": {
+  "Laportea interrupta": {
     "sinhala": "Val Kahambiliya",
     "pali_sanskrit": "-",
     "tamil": "perunkanchori"
@@ -3089,12 +3079,12 @@
     "pali_sanskrit": "Indian bay leaf is Cinnamomum tamala, and is",
     "tamil": "click for a short note and images in Wikipedia"
   },
-  "Lavandula angustifolia(common": {
+  "Lavandula angustifolia": {
     "sinhala": "Laevandtha, Lavandha, Gal Kapparawalli",
     "pali_sanskrit": "Brahmasuvarcala-",
     "tamil": "-"
   },
-  "Lawsonia inermis,": {
+  "Lawsonia inermis": {
     "sinhala": "Marathonda,  Maehaenda",
     "pali_sanskrit": "madayantika, ragangi, sakachera",
     "tamil": "maroodaniei, Marudhaani"
@@ -3116,8 +3106,8 @@
   },
   "Lepidum sativum": {
     "sinhala": "Sinhala: chandasura, \u0da0\u0db1\u0dca\u0daf\u0dc3\u0dd4\u0dbb",
-    "pali_sanskrit": "Sanskrit: chandrashura, ",
-    "tamil": "Tamil: ali "
+    "pali_sanskrit": "Sanskrit: chandrashura,",
+    "tamil": "Tamil: ali"
   },
   "Lepurandra saccidora": {
     "sinhala": "Ritigaha",
@@ -3139,17 +3129,17 @@
     "pali_sanskrit": "\"Dronapusha\" is used for Lecus aspera, a closely related species of \"thumba\"",
     "tamil": "Thumbai, Thumpai, Thungum. The closely related Leucas aspera is common in south India."
   },
-  "Limonia acidissima,": {
+  "Limonia acidissima": {
     "sinhala": "Divul, Diwul, Dimbul, Givul (?)",
     "pali_sanskrit": "kapitthah",
     "tamil": "narivila"
   },
   "Limonia pentaphylla": {
-    "sinhala": "Ve kurundu, Velkurundu (?) ",
+    "sinhala": "Ve kurundu, Velkurundu (?)",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Lionicera caprifolium,": {
+  "Lionicera caprifolium": {
     "sinhala": "Paeni-kaeralli",
     "pali_sanskrit": "Amirtha",
     "tamil": "-"
@@ -3164,23 +3154,23 @@
     "pali_sanskrit": "-",
     "tamil": "kattupugaiyilai"
   },
-  "Loranthus falcatus,": {
+  "Loranthus falcatus": {
     "sinhala": "Ehatu Mal",
     "pali_sanskrit": "-",
     "tamil": "Pulluruvi,  sangattanmarattubulluruvi"
   },
-  "Loxococcus rupicola\nimages\nand": {
-    "sinhala": "Sinhala: dothalu, rathdothalu, randothalu, ranthaeri ",
+  "Loxococcus rupicola": {
+    "sinhala": "Sinhala: dothalu, rathdothalu, randothalu, ranthaeri",
     "pali_sanskrit": "Sanskrit: -",
     "tamil": "Tamil:"
   },
-  "Ludwigia octovalvis,": {
+  "Ludwigia octovalvis": {
     "sinhala": "Lavanga, Jala pichcha",
     "pali_sanskrit": "Bhu-Lavanga",
     "tamil": "Kattukkirampu"
   },
   "Ludwigia perennis": {
-    "sinhala": "Sinhala: Jala piccha, Lavanaga ",
+    "sinhala": "Sinhala: Jala piccha, Lavanaga",
     "pali_sanskrit": "Sanskrit: -",
     "tamil": "Tamil: musalkathilai, mucar-katilai"
   },
@@ -3219,7 +3209,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Maba buxifolia,\ndiospyros": {
+  "Maba buxifolia": {
     "sinhala": "kalu-habaraliya, Kalu habaraliya, Ila paththaTD>",
     "pali_sanskrit": "-",
     "tamil": "Irambali, Tella alli"
@@ -3234,7 +3224,7 @@
     "pali_sanskrit": "Tamil, ?",
     "tamil": "Sanskrit, ?"
   },
-  "Macrotyloma uniflorum,": {
+  "Macrotyloma uniflorum": {
     "sinhala": "Sinhala: Kollu",
     "pali_sanskrit": "Sanskrit: Kulatha Kala",
     "tamil": "Tamil: Kananm (Kaanam), Kollu-parappu"
@@ -3259,12 +3249,12 @@
     "pali_sanskrit": "No Sanskrit name:  Pictures and description from Kerala",
     "tamil": "Native of West Indes. No Tamil or Malayam names are  known although the plant is cultivated in kerala and called \"Cherry\" or \"Maslpi\""
   },
-  "Mangifera indica,": {
+  "Mangifera indica": {
     "sinhala": "Mee Amba, amba",
     "pali_sanskrit": "amra, sahakara",
     "tamil": "Ma, Mamaram, Amiram, Mangai"
   },
-  "Manihot utilissima,": {
+  "Manihot utilissima": {
     "sinhala": "Man(g)nokka",
     "pali_sanskrit": "kalpakandah-  darukandah",
     "tamil": "maravaati, maravalli, al-vallik-kizhangu"
@@ -3304,7 +3294,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Medinila fuchsioides\nfamily": {
+  "Medinila fuchsioides": {
     "sinhala": "Laenthaerum-mal, Lantharum mal",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -3324,7 +3314,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Memecylon edule,": {
+  "Memecylon edule": {
     "sinhala": "Korakaha",
     "pali_sanskrit": "anjani-",
     "tamil": "kaca"
@@ -3334,13 +3324,23 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Mentha ": {
+  "Mentha auricularia": {
+    "sinhala": "Haema-nilla",
+    "pali_sanskrit": "-",
+    "tamil": "-"
+  },
+  "Mentha haplocalyx": {
+    "sinhala": "Kotu Minchi, Cheena minchi",
+    "pali_sanskrit": "-",
+    "tamil": "-"
+  },
+  "Mentha piperita": {
     "sinhala": "saera-Minchi, Paparamintha",
     "pali_sanskrit": "Paparamintha",
     "tamil": "Pudina"
   },
   "Mentha perilloides": {
-    "sinhala": "Ham Kollankola; ",
+    "sinhala": "Ham Kollankola;",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
@@ -3355,7 +3355,7 @@
     "tamil": "tirippanpul, auvaiyar kundal"
   },
   "Messua nagassarium": {
-    "sinhala": "Naa, Na gaha. ",
+    "sinhala": "Naa, Na gaha.",
     "pali_sanskrit": "nagakesarah-",
     "tamil": "Peri"
   },
@@ -3364,13 +3364,13 @@
     "pali_sanskrit": "nagakesarah-  nagapuspa",
     "tamil": "nangu, cirunakappu"
   },
-  "Mesua shorea,": {
+  "Mesua shorea": {
     "sinhala": "Nadoon, Naedun",
     "pali_sanskrit": "-",
     "tamil": "Nirnaval?-"
   },
   "Mesua stylosa": {
-    "sinhala": "Suvanda ",
+    "sinhala": "Suvanda",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
@@ -3399,7 +3399,7 @@
     "pali_sanskrit": "-",
     "tamil": "Karuvel"
   },
-  "Mimosa cinerea,": {
+  "Mimosa cinerea": {
     "sinhala": "type of Andara",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -3409,12 +3409,12 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Mimosa pudicatouch-me-not": {
-    "sinhala": "Nidi Kumba. ",
-    "pali_sanskrit": "lajjalu-  samanga, ",
+  "Mimosa pudicatouch": {
+    "sinhala": "Nidi Kumba.",
+    "pali_sanskrit": "lajjalu-  samanga,",
     "tamil": "ilaccaki, tottalvati, Thotta-siningi"
   },
-  "Mimosa pigra\n\nlalith": {
+  "Mimosa pigra": {
     "sinhala": "Yoda-Nidi-Kumba",
     "pali_sanskrit": "-?",
     "tamil": "periya-ilaccaki,periya-tottalvati"
@@ -3454,7 +3454,7 @@
     "pali_sanskrit": "Dheera...",
     "tamil": "Tirayaanti"
   },
-  "Momordica charantia\n": {
+  "Momordica charantia": {
     "sinhala": "Sinhala: Karawila, Karavila, Karavalli",
     "pali_sanskrit": "Sanskrit: karavella (Karav \u012bra ?), Karavellakah;",
     "tamil": "Tamil:  itaka-valli, pAgakkai, pakal, paval"
@@ -3469,7 +3469,7 @@
     "pali_sanskrit": "bankreal ?-",
     "tamil": "palupalagakalungai,palupakarkoti"
   },
-  "Monochoriahastata (arrowleaf": {
+  "Monochoriahastata arrowleaf": {
     "sinhala": "Moodu awara",
     "pali_sanskrit": "Arusakara",
     "tamil": "tankacci"
@@ -3484,12 +3484,12 @@
     "pali_sanskrit": "-",
     "tamil": "nuna"
   },
-  "Moringa oleifera/murunga\n": {
+  "Moringa oleifera": {
     "sinhala": "Murunga, Murunga karal is the Sinhala",
     "pali_sanskrit": "Sanskrit: sigru-  sobhanjana",
     "tamil": "Tamil: murunkai, murungai"
   },
-  "Mucuna pruriens,": {
+  "Mucuna pruriens": {
     "sinhala": "Wanduru Me, Vanduru Mee-",
     "pali_sanskrit": "Atmagupta-, Kapikacchu",
     "tamil": "punaikkali"
@@ -3514,7 +3514,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Munronia pinnata,": {
+  "Munronia pinnata": {
     "sinhala": "Sinhala:  Bin Kohomba, Bim Kohomba",
     "pali_sanskrit": "Sanskrit: Bhu-nimba, kala-megha, maha-tikta, yava-tikta",
     "tamil": "nila-vempu"
@@ -3527,7 +3527,7 @@
   "Musa paradisiaca": {
     "sinhala": "Alu Kesel, Alu Kesel Aramba",
     "pali_sanskrit": "Amshumatphalaa, Vaaranabhusaa,  Kadalee, rambha",
-    "tamil": "vazahai, vazakkai "
+    "tamil": "vazahai, vazakkai"
   },
   "Mussaenda frondosa": {
     "sinhala": "Mussanda",
@@ -3535,7 +3535,7 @@
     "tamil": "velli ilai"
   },
   "Myrtus canescens": {
-    "sinhala": "Sitha Pera, seetha Pe~ra, ",
+    "sinhala": "Sitha Pera, seetha Pe~ra,",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
@@ -3549,7 +3549,7 @@
     "pali_sanskrit": "Sanskrit: kamala,  arvinda",
     "tamil": "Tamil: tamarai, ambal, Sivapputamarai,"
   },
-  "Neolitsea cassia,": {
+  "Neolitsea cassia": {
     "sinhala": "Kurundu",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -3569,17 +3569,17 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Nephelium longanum,": {
+  "Nephelium longanum": {
     "sinhala": "Mora",
     "pali_sanskrit": "-",
     "tamil": "Nurai ?"
   },
-  "Neptunia oleracea,": {
+  "Neptunia oleracea": {
     "sinhala": "Jalakumba",
     "pali_sanskrit": "alambusa-",
     "tamil": "sundaikkirai, kuntikkirai"
   },
-  "Nervilia ": {
+  "Nervilia orchids": {
     "sinhala": "Sinhala: Niraviliyaa orchid, Niravili Udavaedia",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -3591,10 +3591,10 @@
   },
   "Nigella sativa": {
     "sinhala": "Sinhala: kaluduru, kalu duru \u0d9a\u0dc5\u0dd4\u0daf\u0dd4\u0dbb\u0dd4",
-    "pali_sanskrit": "kaalajira, Sthulajiraka, (Kalunji in Hindi) ",
+    "pali_sanskrit": "kaalajira, Sthulajiraka, (Kalunji in Hindi)",
     "tamil": "Sanskrit: karum-cheerakam, karunjilakara"
   },
-  "Nyctanthes arbor-tristis,": {
+  "Nyctanthes arbor": {
     "sinhala": "Sepalika",
     "pali_sanskrit": "sephalika, Parijath-",
     "tamil": "paricatam, parijata"
@@ -3609,7 +3609,7 @@
     "pali_sanskrit": "Neelkamal",
     "tamil": "allittamarai, Karuneythal, Neelambal"
   },
-  "Nymphaea pubescens\n(pink/while": {
+  "Nymphaea pubescens": {
     "sinhala": "Olu, O~lu, \u0d95\u0dbd\u0dd4 i.e., the \"O~\" sound is long, as in \"Orchestra\".",
     "pali_sanskrit": "Kumudu",
     "tamil": "alli,VeLLAmbal"
@@ -3619,7 +3619,7 @@
     "pali_sanskrit": "Indheevara, Niluppala",
     "tamil": "Neelambal, Kamalam, Alli Tamarei"
   },
-  "Nymphoides indica,": {
+  "Nymphoides indica": {
     "sinhala": "Kumudu",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -3630,7 +3630,7 @@
     "tamil": "Iral, Irul"
   },
   "Ochna jabodapita": {
-    "sinhala": "Mal-kera, Bo-kera ",
+    "sinhala": "Mal-kera, Bo-kera",
     "pali_sanskrit": "-",
     "tamil": "paliya,padalakkonai"
   },
@@ -3649,7 +3649,7 @@
     "pali_sanskrit": "Ajaka, Arjaka, Gambhitr",
     "tamil": "pakli, Korai, Naitulasi,palinkiam"
   },
-  "Ocimum gratissimum,": {
+  "Ocimum gratissimum": {
     "sinhala": "Thungadirima, Sitharjaka, Thungathala ?",
     "pali_sanskrit": "Rantulsi, Vriddhatulsi",
     "tamil": "elumichantulasi, peruntulaci"
@@ -3659,7 +3659,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Ocimum sanctum,": {
+  "Ocimum sanctum": {
     "sinhala": "Maduruthala",
     "pali_sanskrit": "surasa-",
     "tamil": "karuntulaci, tulaci, Alungai,Kullai"
@@ -3700,7 +3700,7 @@
     "tamil": "Vanga, achi, pana"
   },
   "Oryza sativa": {
-    "sinhala": "Wee, Vee, haal, Sahal, goyam, ",
+    "sinhala": "Wee, Vee, haal, Sahal, goyam,",
     "pali_sanskrit": "tandula, sali",
     "tamil": "Nel, Nellu. The Tamil language has many words associated"
   },
@@ -3709,18 +3709,18 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Osbeckia parvifolia,": {
+  "Osbeckia parvifolia": {
     "sinhala": "Bovitiya,  Bowitiya",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Osbeckia wakeri,kendrikuia": {
+  "Osbeckia wakeri": {
     "sinhala": "Bovitya, Bowitiya-",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
   "Pandanus amaryllifolius": {
-    "sinhala": "Rampa, Rampe ",
+    "sinhala": "Rampa, Rampe",
     "pali_sanskrit": "Ketaki in Sanskrit and Pali.",
     "tamil": "tazhai  in Tamil."
   },
@@ -3754,7 +3754,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Parkia timoriana,": {
+  "Parkia timoriana": {
     "sinhala": "Saputa Maara, Toku-gedi gaha ?",
     "pali_sanskrit": "Sapota",
     "tamil": "Shivalaingada Maara (dravidian languages) ?"
@@ -3765,7 +3765,7 @@
     "tamil": "-"
   },
   "Paspalum scrobiculatum": {
-    "sinhala": "Amu Sal ",
+    "sinhala": "Amu Sal",
     "pali_sanskrit": "Kodravah, varuka",
     "tamil": "vapitam, varagu, varuka"
   },
@@ -3789,7 +3789,7 @@
     "pali_sanskrit": "Bala",
     "tamil": "cirramuttii,chitta mutti"
   },
-  "Peltophorum pterocarpum,": {
+  "Peltophorum pterocarpum": {
     "sinhala": "Maara, Kaha-maara",
     "pali_sanskrit": "-",
     "tamil": "Nilalvakai, Kona Maram-"
@@ -3814,22 +3814,22 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Perotis indica\n(indian": {
+  "Perotis indica": {
     "sinhala": "kudira-thana ?",
     "pali_sanskrit": "-",
     "tamil": "thopparai pullu, narival, kudiraival pullu"
   },
-  "Petroselinum hortense.": {
+  "Petroselinum hortense": {
     "sinhala": "Sinhala: \u0db4\u0dc3\u0dbd\u0dd2",
-    "pali_sanskrit": "Sanskrit: pashajmoda (pa:\u0283jmo\u00f0\u0259), ajmoda  ",
+    "pali_sanskrit": "Sanskrit: pashajmoda (pa:\u0283jmo\u00f0\u0259), ajmoda",
     "tamil": "Tamil:  vo:kko:su, Vokkocu"
   },
   "Persea americana": {
-    "sinhala": "\u0d85\u0dbd\u0dd2\u0d9c\u0dd0\u0da7 \u0db4\u0dda\u0dbb ",
-    "pali_sanskrit": "Neera-beeja,  ",
+    "sinhala": "\u0d85\u0dbd\u0dd2\u0d9c\u0dd0\u0da7 \u0db4\u0dda\u0dbb",
+    "pali_sanskrit": "Neera-beeja,",
     "tamil": "Vennai pazham, Vennaip-palam / \u00e0\u00ae\u00b5\u00e0\u00af\u0086\u00e0\u00ae\u00a3\u00e0\u00af\u008d\u00e0\u00ae\u00a3\u00e0\u00af\u0088\u00e0\u00ae\u00aa\u00e0\u00af\u008d \u00e0\u00ae\u00aa\u00e0\u00ae\u00b4\u00e0\u00ae\u00ae\u00e0\u00af\u008d -"
   },
-  "Persicaria wallichii,": {
+  "Persicaria wallichii": {
     "sinhala": "Aembul Gaeta, Ambul Gata,\u0d87\u0db8\u0dca\u0db6\u0dd4\u0dbd\u0dca \u0d9c\u0dd0\u0da7",
     "pali_sanskrit": "Images and write up",
     "tamil": "-"
@@ -3862,7 +3862,7 @@
   "Phoenix dactylifera": {
     "sinhala": "Rata Indi, \u0dbb\u0da7 \u0d89\u0d82\u0daf\u0dd2",
     "pali_sanskrit": "-",
-    "tamil": "- Pericham pazham, pericham balam, "
+    "tamil": "- Pericham pazham, pericham balam,"
   },
   "Phoenix pusilla": {
     "sinhala": "Indi-gaha, \u0d89\u0d82\u0daf\u0dd2 \u0d9c\u0dc4",
@@ -3874,13 +3874,13 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Phyllanthus debilis,": {
+  "Phyllanthus debilis": {
     "sinhala": "Pitawakka, Pitavakka",
     "pali_sanskrit": "Thaamalaki-,Drdhapadia",
     "tamil": "-"
   },
-  "Phyllanthus emblica,": {
-    "sinhala": "Sinhala: Nelli ",
+  "Phyllanthus emblica": {
+    "sinhala": "Sinhala: Nelli",
     "pali_sanskrit": "Sanskrit: Dhatri",
     "tamil": "Tamil: Nelli, toppi"
   },
@@ -3925,7 +3925,7 @@
     "tamil": "Pippili, tippili, Pipallu (Tel), Tippali (Mal), Hipli (K)"
   },
   "Piper methysticum": {
-    "sinhala": "umadu miris (?), unmaada miris {?) ",
+    "sinhala": "umadu miris (?), unmaada miris {?)",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
@@ -3934,13 +3934,13 @@
     "pali_sanskrit": "maricam-",
     "tamil": "milaku, milagu"
   },
-  "Pisionia grandis,": {
+  "Pisionia grandis": {
     "sinhala": "\u0dc0\u0dcf\u0dad \u0db7\u0d82\u0d9c",
     "pali_sanskrit": "-",
     "tamil": "Lechai-Kottai-Keerai-"
   },
   "Pistia stratiotes": {
-    "sinhala": "Diya - gova ",
+    "sinhala": "Diya - gova",
     "pali_sanskrit": "-",
     "tamil": "kodi-tamarai, akayat-tamarai"
   },
@@ -3949,12 +3949,12 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Plectranthus zeylanicus,": {
-    "sinhala": "Iriveriya, \u0d89\u0dbb\u0dd2\u0dc0\u0dda\u0dbb\u0dd2\u0dba ",
+  "Plectranthus zeylanicus": {
+    "sinhala": "Iriveriya, \u0d89\u0dbb\u0dd2\u0dc0\u0dda\u0dbb\u0dd2\u0dba",
     "pali_sanskrit": "Hireeberum",
     "tamil": "Vettiyar"
   },
-  "Plantago ovata,": {
+  "Plantago ovata": {
     "sinhala": "Sinhala: aspagolla \u0d85\u0dc3\u0dca\u0db4\u0d9c\u0ddc\u0dbd\u0dca\u0dbd",
     "pali_sanskrit": "Sanskrit: Ashwagol,Ishadgola,Ashwakarnabeeja, Sheetabeeja",
     "tamil": "Tamil: Iskolvirai, Iskol, Isphagol, Ishappukolvirai, Ishappukol"
@@ -3974,7 +3974,7 @@
     "pali_sanskrit": "-",
     "tamil": "arali, perungalli, kanagile, kuppiyalani,"
   },
-  "Pogostemon heyneanus,": {
+  "Pogostemon heyneanus": {
     "sinhala": "Gam Kollan-kola",
     "pali_sanskrit": "-",
     "tamil": "kannokkikyacceti, katir paccai"
@@ -3995,7 +3995,7 @@
     "tamil": "(Malayalam),Kurintipanel,"
   },
   "Polygala arvensis": {
-    "sinhala": "-sinhala name not known. ",
+    "sinhala": "-sinhala name not known.",
     "pali_sanskrit": "-",
     "tamil": "veppilainankai, orupanankaicceti"
   },
@@ -4005,7 +4005,7 @@
     "tamil": "ciriyanankai"
   },
   "Polygala javana": {
-    "sinhala": "- sinhala name not known. ",
+    "sinhala": "- sinhala name not known.",
     "pali_sanskrit": "-",
     "tamil": "ciriyanankai"
   },
@@ -4014,7 +4014,7 @@
     "pali_sanskrit": "-",
     "tamil": "niralari, kulattukkulkuratti"
   },
-  "Polygonum capitatum,": {
+  "Polygonum capitatum": {
     "sinhala": "rathu gaetathumba?",
     "pali_sanskrit": "Ratniyowla dharam ?",
     "tamil": "-"
@@ -4024,7 +4024,7 @@
     "pali_sanskrit": "-",
     "tamil": "Murali, Chem-poovam"
   },
-  "Pongamia pinnata\npongamia": {
+  "Pongamia pinnata": {
     "sinhala": "Sinhala: Karanda",
     "pali_sanskrit": "Sanskrit: Naktamaala",
     "tamil": "Tamil: kolliyam, pomka, punku"
@@ -4044,12 +4044,12 @@
     "pali_sanskrit": "Angnimantha-",
     "tamil": "Erumai-mullai, perumunnai, munnai"
   },
-  "-Prosopis cineraria": {
-    "sinhala": "Vanni-andara. Katu andara, Kalapu andara, Lunu andara. ",
+  "Prosopis cineraria": {
+    "sinhala": "Vanni-andara. Katu andara, Kalapu andara, Lunu andara.",
     "pali_sanskrit": "-",
     "tamil": "vanni, parambi"
   },
-  "-Prosopis juliflora": {
+  "Prosopis juliflora": {
     "sinhala": "vanni-andara, Katu andara, Lunu Andara",
     "pali_sanskrit": "-",
     "tamil": "cimaikkaruvel, velikattan"
@@ -4064,7 +4064,7 @@
     "pali_sanskrit": "Threatened plant",
     "tamil": "katilai, Pallankachchi, Attanarei"
   },
-  "Pseudarthria viscida\nfamily:": {
+  "Pseudarthria viscida": {
     "sinhala": "Gas-Gonika",
     "pali_sanskrit": "Salaprni, Saliparni, prisniparni",
     "tamil": "pitani, Neermalli"
@@ -4084,12 +4084,12 @@
     "pali_sanskrit": "raktachandana-",
     "tamil": "cencantam"
   },
-  "Pterospermum canescens,": {
+  "Pterospermum canescens": {
     "sinhala": "Velang, Welan",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Pueraria phaseoloides,": {
+  "Pueraria phaseoloides": {
     "sinhala": "Not known in Sri Lanka although it may be grown horticulturally",
     "pali_sanskrit": "It is a perrenial and climber shrub. It is from the pea family, and",
     "tamil": "-"
@@ -4105,11 +4105,11 @@
     "tamil": "karupali"
   },
   "Pyrrosia heterophylla": {
-    "sinhala": "Panam pethi ",
+    "sinhala": "Panam pethi",
     "pali_sanskrit": "-",
     "tamil": "karupali"
   },
-  "Quisqualis indica,": {
+  "Quisqualis indica": {
     "sinhala": "Raengun-mal, Raengun vael",
     "pali_sanskrit": "-",
     "tamil": "irangun-malli, ilankaramallikai"
@@ -4134,12 +4134,12 @@
     "pali_sanskrit": "Sanskrit: -",
     "tamil": "Tamil: -"
   },
-  "Rhinacanthus communis.": {
+  "Rhinacanthus communis": {
     "sinhala": "Vael anitta, Wael Aniththa",
     "pali_sanskrit": "-",
     "tamil": "-l"
   },
-  "Rhizophora mucronata,": {
+  "Rhizophora mucronata": {
     "sinhala": "Maha Kadol",
     "pali_sanskrit": "-",
     "tamil": "kandal"
@@ -4149,7 +4149,7 @@
     "pali_sanskrit": "Lali Guranth (Nepali)",
     "tamil": "Billi, Varasu (Malayalam)"
   },
-  "Rhodomytus tomentosa,": {
+  "Rhodomytus tomentosa": {
     "sinhala": "Sitha Pera, \u0dc3\u0dd3\u0dad \u0db4\u0dda\u0dbb",
     "pali_sanskrit": "-",
     "tamil": "Thavittu koya-"
@@ -4159,7 +4159,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Ricinus communis(castor)\nimage": {
+  "Ricinus communis": {
     "sinhala": "Erandu, thel- erandu, Gadamba",
     "pali_sanskrit": "eranda, erandagaccha (pali)",
     "tamil": "amanakku, erantam"
@@ -4179,7 +4179,7 @@
     "pali_sanskrit": "-",
     "tamil": "coracakkicceti, kiranti nayan-"
   },
-  "Ruellia prostrata,": {
+  "Ruellia prostrata": {
     "sinhala": "Nil Puruk",
     "pali_sanskrit": "Dhanavan",
     "tamil": "coracakkicceti"
@@ -4204,13 +4204,13 @@
     "pali_sanskrit": "tall reedy grass",
     "tamil": "-"
   },
-  "Salacia prinoides,": {
+  "Salacia prinoides": {
     "sinhala": "Kothala-himbutu",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Salicornia spp,": {
-    "sinhala": "Sinhala: Lunu-kolli, Lunu-vaariya, ? ",
+  "Salicornia spp": {
+    "sinhala": "Sinhala: Lunu-kolli, Lunu-vaariya, ?",
     "pali_sanskrit": "Sanskrit: - not known to us.",
     "tamil": "Tamil: Kolliam, Pavazhappoondu"
   },
@@ -4220,7 +4220,7 @@
     "tamil": "opa, uka"
   },
   "Salvia hispanica": {
-    "sinhala": "sinhala name ? ",
+    "sinhala": "sinhala name ?",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
@@ -4229,9 +4229,9 @@
     "pali_sanskrit": "Sanskrit: -",
     "tamil": "Tamil: - The main problem in"
   },
-  "Samanea saman,acacia": {
-    "sinhala": "Sinhala name:  Maara tree, Mara tree, Pini Maara, Pare mara. ",
-    "pali_sanskrit": "Sanskrit name: ",
+  "Samanea saman": {
+    "sinhala": "Sinhala name:  Maara tree, Mara tree, Pini Maara, Pare mara.",
+    "pali_sanskrit": "Sanskrit name:",
     "tamil": "Tamil name: Enakvakai, Amaivagai, Thoongumoonji maram"
   },
   "Sansevieria zeylanica": {
@@ -4274,12 +4274,12 @@
     "pali_sanskrit": "-",
     "tamil": "kalappalai,kalappai"
   },
-  "Scaevolas koenigii,": {
+  "Scaevolas koenigii": {
     "sinhala": "Thakkada",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Schleichera oleosa,": {
+  "Schleichera oleosa": {
     "sinhala": "Koon, (Ko~n) \u0d9a\u0ddd\u0db1\u0dca Kone",
     "pali_sanskrit": "Mukulakah, Rakthamrah",
     "tamil": "Puvatti-puvam, Pumarata, modakapulasu (Telegu)"
@@ -4294,12 +4294,12 @@
     "pali_sanskrit": "-",
     "tamil": "Poththu ?"
   },
-  "Scrophularia nodosa\na": {
+  "Scrophularia nodosa": {
     "sinhala": "Sinhala:Maha saringa ?",
     "pali_sanskrit": "Sanskrit:Mesharinga ?",
     "tamil": "Tamil:-"
   },
-  "Botanical: scutellaria": {
+  "Botanical scutellaria": {
     "sinhala": "Sinhala: Dam thulsi (?)",
     "pali_sanskrit": "Sanskrit:?",
     "tamil": "Tamil: novu pacchilai"
@@ -4316,15 +4316,15 @@
   },
   "Sesbania grandiflora": {
     "sinhala": "Sinhala: Kathuru Murunga \u0d9a\u0dad\u0dd4\u0dbb\u0dd4",
-    "pali_sanskrit": "Sanskrit: \u0905\u0917\u0938\u094d\u0924\u093f ",
+    "pali_sanskrit": "Sanskrit: \u0905\u0917\u0938\u094d\u0924\u093f",
     "tamil": "Tamil: \u0b85\u0b95\u0ba4\u0bcd\u0ba4\u0bbf (akatthi)-"
   },
   "Shorea robusta": {
-    "sinhala": "Sal ",
+    "sinhala": "Sal",
     "pali_sanskrit": "agnivallabha, ashvakarna, ashvakarnika",
     "tamil": "Kungkiliyam, Attam, Venkungilium, Chaalamban"
   },
-  "Shorea ": {
+  "Shorea hulanidda": {
     "sinhala": "Hulan Idda",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -4350,7 +4350,7 @@
     "tamil": "-"
   },
   "Solanum giganteum": {
-    "sinhala": "sinhala:? ",
+    "sinhala": "sinhala:?",
     "pali_sanskrit": "Sanskrit:? -",
     "tamil": "Tamil: paintilikakkoti"
   },
@@ -4359,19 +4359,14 @@
     "pali_sanskrit": "Sanskrit: Not known",
     "tamil": "Tamil: not known"
   },
-  "Solanum indica,": {
+  "Solanum indica": {
     "sinhala": "Thibbatu, batu",
     "pali_sanskrit": "brahati-",
     "tamil": "karimulli, mulli"
   },
   "Solanum melongena": {
-    "sinhala": "Elabatu",
-    "pali_sanskrit": "-bhantaki",
-    "tamil": "valutalai"
-  },
-  "Solanum melongena,": {
     "sinhala": "Wambotu, Vambatu, Vambotu",
-    "pali_sanskrit": "Vatimgana, Vazhuthananga ",
+    "pali_sanskrit": "Vatimgana, Vazhuthananga",
     "tamil": "kattari"
   },
   "Solanum mauritianum": {
@@ -4399,7 +4394,7 @@
     "pali_sanskrit": "alarka-",
     "tamil": "tutuvalai, thuthulai"
   },
-  "Solanum xanthocarpum;": {
+  "Solanum xanthocarpum": {
     "sinhala": "katuwael Batu",
     "pali_sanskrit": "nidigdhika-  kantakari",
     "tamil": "kantankattiri"
@@ -4409,7 +4404,7 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Sonneratia caseolaris,": {
+  "Sonneratia caseolaris": {
     "sinhala": "Kirala",
     "pali_sanskrit": "-",
     "tamil": "ucittakarai"
@@ -4424,7 +4419,7 @@
     "pali_sanskrit": "The sanskrit name Yavanala (i.e, seed barley), indicates that Sorghum was introduced",
     "tamil": "Cholama (the Tamil name) is probably linked to the Kafir name  Solam"
   },
-  "Stemodia camphorata\nstemodia.": {
+  "Stemodia camphorata": {
     "sinhala": "Gona Kola",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -4449,7 +4444,12 @@
     "pali_sanskrit": "-",
     "tamil": "-"
   },
-  "Stemonoporus ": {
+  "Stemonoporus mooni": {
+    "sinhala": "Hora wel, Hora vael",
+    "pali_sanskrit": "-",
+    "tamil": "-"
+  },
+  "Stemonoporus wightii": {
     "sinhala": "Hal-Mendora",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -4469,7 +4469,7 @@
     "pali_sanskrit": "Vitkadhira",
     "tamil": "Kutirappittukku"
   },
-  "Stereospermum suaveolens,": {
+  "Stereospermum suaveolens": {
     "sinhala": "Palol",
     "pali_sanskrit": "Paataala, kaamavRntA,kRSNavRntA",
     "tamil": "patirimaram"
@@ -4479,7 +4479,7 @@
     "pali_sanskrit": "Shakhotaka, Saakhota, pathrollekhatharu",
     "tamil": "pira, piraay, Parai-maram"
   },
-  "Strobilanthes calycina\nacnthaceae": {
+  "Strobilanthes calycina": {
     "sinhala": "Sinhala: kaha Nelu, (from \"nelum\"?)",
     "pali_sanskrit": "Sanskrit: -",
     "tamil": "Tamil: -"
@@ -4492,14 +4492,14 @@
   "Strobilanthes kunthianus": {
     "sinhala": "Sinhala: nil Nelu, Nelu",
     "pali_sanskrit": "Sanskrit:  Neela Kundhi",
-    "tamil": "Tamil: Neelakkurinji "
+    "tamil": "Tamil: Neelakkurinji"
   },
   "Strobilanthes medahinnensis": {
     "sinhala": "Maedahinne Nelu",
     "pali_sanskrit": "Sanskrit:-",
     "tamil": "Tamil:-"
   },
-  "Strobilanthes pulcherrima,": {
+  "Strobilanthes pulcherrima": {
     "sinhala": "Nelu, Niloo",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -4509,12 +4509,12 @@
     "pali_sanskrit": "sanskrit: -",
     "tamil": "Tamil: -"
   },
-  "Strychnos nux-vomica": {
+  "Strychnos nux": {
     "sinhala": "Kaduru, Goda kaduru",
     "pali_sanskrit": "kalshti,  kupilu, Vishamushti",
     "tamil": "yetti, ettiu, Eddi, Etti, Kagodi"
   },
-  "Sunaptera ": {
+  "Sunaptera scabriuscula": {
     "sinhala": "Napath Beraliya",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -4532,10 +4532,10 @@
   "Symplocos cochinchinensis": {
     "sinhala": "Bombu \u0db6\u0ddd\u0db9\u0dd4",
     "pali_sanskrit": "Lodra, Tilvaka, Tilva, Kramuka-",
-    "tamil": "kambli-vetti "
+    "tamil": "kambli-vetti"
   },
-  "Syzygium ": {
-    "sinhala": "Dhamba",
+  "Syzygium amphoraecarpus": {
+    "sinhala": "Val Jambu",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
@@ -4544,10 +4544,15 @@
     "pali_sanskrit": "Lavanagha",
     "tamil": "kirampui, kirambu"
   },
-  "Syzygium cumini(indain": {
+  "Syzygium cumini": {
     "sinhala": "kalu dan, \u0d9a\u0dbd\u0dd4 ;\u0daf\u0d82   Kaadan,  Madan",
     "pali_sanskrit": "-",
     "tamil": "naavali, Naaval Pazham"
+  },
+  "Syzygium assimile": {
+    "sinhala": "Dhamba",
+    "pali_sanskrit": "-",
+    "tamil": "-"
   },
   "Syzygium caryophyllatum": {
     "sinhala": "Heen Dan",
@@ -4574,7 +4579,7 @@
     "pali_sanskrit": "Tall tree with showy flower",
     "tamil": "Illambili"
   },
-  "Syzygium makul,": {
+  "Syzygium makul": {
     "sinhala": "Alubo",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -4644,7 +4649,7 @@
     "pali_sanskrit": "Sharaphunka",
     "tamil": "kolluk-kay-velai, Kawati, Kolinchi"
   },
-  "Telosma cordata(chinese": {
+  "Telosma cordata": {
     "sinhala": "Vael varaa (?)",
     "pali_sanskrit": "-Guaalmanda ?",
     "tamil": "Chambangi"
@@ -4654,7 +4659,7 @@
     "pali_sanskrit": "kakubha-",
     "tamil": "maruthu, marutu"
   },
-  "Terminalia bellirica,": {
+  "Terminalia bellirica": {
     "sinhala": "Bulu",
     "pali_sanskrit": "Bibhitaki, Bhaira",
     "tamil": "tanri, tanikkay, Pulu"
@@ -4669,7 +4674,7 @@
     "pali_sanskrit": "haritaki-",
     "tamil": "katukkay"
   },
-  "Thelypteris bergiana,": {
+  "Thelypteris bergiana": {
     "sinhala": "Kakilla, Kaekilla",
     "pali_sanskrit": "-",
     "tamil": "-"
@@ -4684,7 +4689,7 @@
     "pali_sanskrit": "-",
     "tamil": "intiraputpi"
   },
-  "Tinospora cordifolia,": {
+  "Tinospora cordifolia": {
     "sinhala": "Rasakinda",
     "pali_sanskrit": "amrta, Guruchi-",
     "tamil": "seenthil, cintil, Shindil-kodi, Amirthavalli, Kunali"
@@ -4724,12 +4729,12 @@
     "pali_sanskrit": "Jalasirasa (Hindi)",
     "tamil": "kalutaikkali"
   },
-  "Trichopus zeylanicus\n\nimage": {
+  "Trichopus zeylanicus": {
     "sinhala": "Bim pol",
     "pali_sanskrit": "Arogya pachcha-",
     "tamil": "-"
   },
-  "Trichosanthes cucumerina,": {
+  "Trichosanthes cucumerina": {
     "sinhala": "Pathola, Dummalla, Dummella, Dummaella",
     "pali_sanskrit": "-",
     "tamil": "Pudulankaai"
@@ -4745,7 +4750,7 @@
     "tamil": "sambu"
   },
   "Ulex europaeus": {
-    "sinhala": "Common Gorse is an evergreen shrub, native to western Europe. ",
+    "sinhala": "Common Gorse is an evergreen shrub, native to western Europe.",
     "pali_sanskrit": "-",
     "tamil": "-"
   },
@@ -4821,7 +4826,7 @@
   },
   "Vicia faba": {
     "sinhala": "Bonchi, pethi bonchi",
-    "pali_sanskrit": "There does not appear to be a Sanskrit name, as it was introduced to Southern India rather late, though it seems to have been known in ",
+    "pali_sanskrit": "There does not appear to be a Sanskrit name, as it was introduced to Southern India rather late, though it seems to have been known in",
     "tamil": "Mochai, avarai, avarakkai (\u00e0\u00ae\u0085\u00e0\u00ae\u00b5\u00e0\u00ae\u00b0\u00e0\u00af\u0088\u00e0\u00ae\u0095\u00e0\u00af\u008d\u00e0\u00ae\u0095\u00e0\u00ae\u00be\u00e0\u00ae\u00af\u00e0\u00af\u008d)-"
   },
   "Vigna marina": {
@@ -4864,12 +4869,12 @@
     "pali_sanskrit": "Mudrika",
     "tamil": "-"
   },
-  "Walsura antidysentricum,nerium": {
+  "Walsura antidysentricum": {
     "sinhala": "Wal Idda, Wal Idda, sudu Idda, Gal Idda",
     "pali_sanskrit": "-",
     "tamil": "valsura"
   },
-  "Walsura pisidia,": {
+  "Walsura pisidia": {
     "sinhala": "Kiri Koon.",
     "pali_sanskrit": "-",
     "tamil": "cattuvakku"
@@ -4924,7 +4929,7 @@
     "pali_sanskrit": "-",
     "tamil": "marhe-matta, marul-umathan"
   },
-  "Xanthochymus pictorius,": {
+  "Xanthochymus pictorius": {
     "sinhala": "Kolon gaha, Kollan gaha",
     "pali_sanskrit": "-",
     "tamil": "-"

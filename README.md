@@ -6,7 +6,7 @@
 
 *Grey mangrove, White mangrove, Gray mangrove*
 
-
+*සි: Manda, த: Kanna*
 
 |  |  |
 | --- | --- |
@@ -54,7 +54,7 @@
 
 *Mango, Mango Tree, आम*
 
-
+*සි: Mee Amba, amba, த: Ma, Mamaram, Amiram, Mangai*
 
 |  |  |
 | --- | --- |
@@ -164,7 +164,7 @@
 
 *Bengal-currants, Carandas-plum, Karanda*
 
-
+*සි: Karanda, Maha Karamba, த: kila, kala*
 
 |  |  |
 | --- | --- |
@@ -1137,7 +1137,7 @@
 
 *Hawaiian hibiscus, Hibiscus, गुड़हल*
 
-*සි: Pokuru Wada, Pokuru Wadamal, த: semparuthi*
+
 
 |  |  |
 | --- | --- |
@@ -1398,7 +1398,7 @@
 
 *Moringa, Drumstick Tree, Moringa Tree*
 
-
+*සි: Murunga, Murunga karal is the Sinhala, த: Tamil: murunkai, murungai*
 
 |  |  |
 | --- | --- |
@@ -1511,7 +1511,7 @@
 
 *जामुन, Jaman, అల్లనేరేడు*
 
-
+*සි: kalu dan, කලු ;දං   Kaadan,  Madan, த: naavali, Naaval Pazham*
 
 |  |  |
 | --- | --- |
