@@ -32,10 +32,8 @@ class MetaDataREADME:
     @property
     def title(self) -> str:
         return MetaDataREADME.dot_join(
-            self.confidence_emoji +
-            MetaDataREADME.get_wiki_link(self.scientific_name),
+            self.confidence_emoji + self.time_str,
             self.google_maps_link,
-            self.time_str,
         )
 
     @property
