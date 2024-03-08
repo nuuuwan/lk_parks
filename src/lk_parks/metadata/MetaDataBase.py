@@ -109,8 +109,8 @@ class MetaDataBase:
 
     @property
     def cmp(self) -> int:
-        return self.confidence
-
+        lat, lng = self.latlng
+        return lat*1000 + lng
     @classmethod
     @cache
     def list_all(cls):
@@ -138,11 +138,12 @@ class MetaDataBase:
                 if key not in key_to_n:
                     key_to_n[key] = 0
                 key_to_n[key] += 1
-            return key_to_n
+            sorted_key_to_n = dict(sorted(key_to_n.items(), key=lambda item: item[1], reverse=True))
+            return sorted_key_to_n
 
         return dict(
             n=len(md_list),
             family_to_n=count(lambda md: md.family),
-            genus_to_n=count(lambda md: md.genus),
+            genus_to_n=count(lambda md: f'{md.genus} ({md.family})'),
             species_to_n=count(lambda md: md.scientific_name),
         )

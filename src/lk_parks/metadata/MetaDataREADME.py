@@ -53,15 +53,25 @@ class MetaDataREADME:
         n_families = len(summary['family_to_n'])
         n_genera = len(summary['genus_to_n'])
         n_species = len(summary['species_to_n'])
+
+        def common(key_to_n):
+            N_DISPLAY = 5
+            return ', '.join([f'{key} ({n})' for key, n in list(key_to_n.items())[:N_DISPLAY]])
+
+        common_families = common(summary['family_to_n'])
+        common_genera = common(summary['genus_to_n'])
+        common_species = common(summary['species_to_n'])
+
         lines = [
             '## Summary Statistics',
             '',
-            '|  |  |',
-            '| --- | ---: |',
-            f'| **Total Plants** | {n} |',
-            f'| **Unique Families** | {n_families} |',
-            f'| **Unique Genera** | {n_genera} |',
-            f'| **Unique Species** | {n_species} |',
+            '|  |  |  |',
+            '| --- | ---: | --- |',
+            f'| **Unique Families** | {n_families} | {common_families} |',
+            f'| **Unique Genera** | {n_genera} | {common_genera} |',
+            f'| **Unique Species** | {n_species} | {common_species} |',
+            f'| **Total Plants** | {n} | |',
+            
         ]
         return lines
 
