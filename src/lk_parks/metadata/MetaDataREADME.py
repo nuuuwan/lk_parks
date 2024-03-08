@@ -77,10 +77,10 @@ class MetaDataREADME:
 
             '| --- | --- |',
 
-            '| **Scientific Name** | ' + f'*{MetaDataREADME.get_wiki_link(self.scientific_name)}* ' +
-            f'{self.authorship} |',
-            f'| **Genus** | {MetaDataREADME.get_wiki_link(self.genus)} |',
-            f'| **Family** | {MetaDataREADME.get_wiki_link(self.family)} |',
+            # '| **Scientific Name** | ' + f'*{MetaDataREADME.get_wiki_link(self.scientific_name)}* ' +
+            # f'{self.authorship} |',
+            # f'| **Genus** | {MetaDataREADME.get_wiki_link(self.genus)} |',
+            # f'| **Family** | {MetaDataREADME.get_wiki_link(self.family)} |',
             f'| **Common Names** | {self.common_names_pretty} |',
             f'| **Global Biodiversity Information Facility (GBIF)** | {self.gbif_pretty} |',
             f'| **Plants of the World Online (POWO)** | {self.powo_pretty} |',
@@ -101,9 +101,9 @@ class MetaDataREADME:
             '| **Identification Confidence** | ' +
             f'{self.confidence_emoji} {self.confidence:.1%} |',
             f'| **Other Guesses** | {self.other_candidates_pretty} |',
-            f'| **Time** | {self.time_str} |',
+            # f'| **Time** | {self.time_str} |',
             f'| **Camera Direction** | {self.direction_pretty} |',
-            f'| **Location** | {self.google_maps_link} |',
+            # f'| **Location** | {self.google_maps_link} |',
             f'| **Altitude** | {self.alt:.1f}m |',
             '',
         ]
@@ -121,9 +121,10 @@ class MetaDataREADME:
                 for species, md_list in idx_genus.items():
                     n = len(md_list)
                     n_str = f'({n} Examples)' if n > 1 else '(1 Example)'
+                    md0 = md_list[0]
                     lines.extend(
-                        [f'### {MetaDataREADME.get_wiki_link(species)}', ''])
-                    lines.extend(md_list[0].species_lines)
+                        [f'### ' + f'*{MetaDataREADME.get_wiki_link(md0.scientific_name)}* ' + f'{md0.authorship}', ''])
+                    lines.extend(md0.species_lines)
                     lines.extend([n_str, ''])
                     for md in md_list:
                         lines.extend(md.photo_lines)
