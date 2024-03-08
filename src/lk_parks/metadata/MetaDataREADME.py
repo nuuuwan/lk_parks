@@ -32,7 +32,7 @@ class MetaDataREADME:
     @property
     def title(self) -> str:
         return MetaDataREADME.dot_join(
-            self.confidence_emoji + self.time_str,
+            self.time_str,
             self.google_maps_link,
         )
 
@@ -107,9 +107,9 @@ class MetaDataREADME:
         return [
             f'#### {self.title}',
             '',
-            self.image_md,
-            '',
             self.confidence_combined,
+            '',
+            self.image_md,
 
             # '|  |  |',
             # '| --- | --- |',
