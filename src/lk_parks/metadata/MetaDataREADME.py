@@ -76,13 +76,14 @@ class MetaDataREADME:
         data = nt.get(self.scientific_name)
         if not data:
             return ''
-        return f'සි: {data["sinhala"]}, த: {data["tamil"]}'
+        return f'*සි: {data["sinhala"]}, த: {data["tamil"]}*'
 
     @property
     def species_lines(self):
         return [
             f'*{self.common_names_pretty}*',
-            f'*{self.pretty_name_translations}*',
+            '',
+            f'{self.pretty_name_translations}',
             '',
             '|  |  |',
 
