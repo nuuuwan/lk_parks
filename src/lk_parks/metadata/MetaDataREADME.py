@@ -119,9 +119,12 @@ class MetaDataREADME:
                 lines.extend(
                     [f'## {MetaDataREADME.get_wiki_link(genus)}', ''])
                 for species, md_list in idx_genus.items():
+                    n = len(md_list)
+                    n_str = f'({n} Examples)' if n > 1 else '(1 Example)'
                     lines.extend(
-                        [f'### {MetaDataREADME.get_wiki_link(species)}', ''])
+                        [f'### {MetaDataREADME.get_wiki_link(species)} {n_str}', ''])
                     lines.extend(md_list[0].species_lines)
+                    lines.extend([n_str, ''])
                     for md in md_list:
                         lines.extend(md.photo_lines)
                         lines.append('')
