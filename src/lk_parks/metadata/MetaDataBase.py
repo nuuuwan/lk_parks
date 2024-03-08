@@ -49,7 +49,7 @@ class MetaDataBase:
     @property
     def direction_pretty(self) -> str:
         if not self.direction:
-            return 'Unknown'
+            return '(No Data)'
         return f'{self.direction:.1f}° ({self.direction_humanized})'
 
     @property
