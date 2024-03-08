@@ -3,6 +3,8 @@ from dataclasses import dataclass
 
 from utils import File, Log
 
+from lk_parks.NameTranslator import NameTranslator
+
 log = Log('MetaData')
 
 
@@ -69,9 +71,18 @@ class MetaDataREADME:
         return f'![{self.image_path_unix}]({self.image_path_unix})'
 
     @property
+    def pretty_name_translations(self):
+        nt = NameTranslator()
+        data = nt.get(self.scientific_name)
+        if not data:
+            return ''
+        return f'සි: {data["sinhala"]}, த: {data["tamil"]}'
+
+    @property
     def species_lines(self):
         return [
             f'*{self.common_names_pretty}*',
+            f'*{self.pretty_name_translations}*',
             '',
             '|  |  |',
 
