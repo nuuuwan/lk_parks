@@ -31,7 +31,8 @@ class MetaDataREADME:
         return [
             '|  |  |',
             '| --- | --- |',
-            f'| **Scientific Name** | *{self.scientific_name_link}* '+f'{self.authorship} |',
+            f'| **Scientific Name** | *{self.scientific_name_link}* ' +
+            f'{self.authorship} |',
             f'| **Genus** | {self.genus} |',
             f'| **Family** | {self.family} |',
             f'| **Common Names** | {", ".join(self.common_names)} |',
