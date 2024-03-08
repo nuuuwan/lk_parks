@@ -17,7 +17,7 @@ class MetaDataBase:
     plantnet_results: list[dict]
 
     DIR_DATA_METADATA = os.path.join('data', 'metadata')
-    TIME_FORMAT = TimeFormat('%H:%m %p (%b %d, %Y)')
+    TIME_FORMAT = TimeFormat('%H:%M %p (%b %d, %Y)')
 
     def __dict__(self) -> dict:
         return dict(
