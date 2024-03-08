@@ -19,14 +19,20 @@ class NameTranslator:
             log.warn(f'Removed {NameTranslator.JSON_PATH}')
 
     @staticmethod
+    def clean_text(x):
+        x = re.sub(r'[^a-zA-Z ]', ' ', x)
+        x = re.sub(r'\s+', ' ', x)
+        return x.strip()
+
+    @staticmethod
     def extract_text(elem):
-        return elem.text.strip().split('\n')[0].strip()
+        x = elem.text.split('\n')[0]
+        x = NameTranslator.clean_text(x)
+        return x
 
     @staticmethod
     def parse_scientific_name(elem):
-        x = elem.text
-        x = re.sub(r'[^a-zA-Z ]', ' ', x)
-        x = re.sub(r'\s+', ' ', x)
+        x = NameTranslator.clean_text(elem.text)
 
         tokens = x.strip().split(' ')
         if len(tokens) < 2:

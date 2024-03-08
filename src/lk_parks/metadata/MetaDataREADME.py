@@ -76,7 +76,12 @@ class MetaDataREADME:
         data = nt.get(self.scientific_name)
         if not data:
             return ''
-        return f'*සි: {data["sinhala"]}, த: {data["tamil"]}*'
+        parts = []
+        if data['sinhala']:
+            parts.append(f'සි: {data["sinhala"]}')
+        if data['tamil']:
+            parts.append(f'த: {data["tamil"]}')
+        return MetaDataREADME.dot_join(*parts)
 
     @property
     def species_lines(self):
@@ -132,7 +137,7 @@ class MetaDataREADME:
             # f'| **Camera Direction** | {self.direction_pretty} |',
             # f'| **Location** | {self.google_maps_link} |',
             # f'| **Altitude** | {self.alt:.1f}m |',
-            '',
+
         ]
 
     @classmethod
