@@ -122,7 +122,7 @@ class MetaDataREADME:
                     n = len(md_list)
                     n_str = f'({n} Examples)' if n > 1 else '(1 Example)'
                     lines.extend(
-                        [f'### {MetaDataREADME.get_wiki_link(species)} {n_str}', ''])
+                        [f'### {MetaDataREADME.get_wiki_link(species)}', ''])
                     lines.extend(md_list[0].species_lines)
                     lines.extend([n_str, ''])
                     for md in md_list:
