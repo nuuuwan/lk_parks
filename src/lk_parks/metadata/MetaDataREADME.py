@@ -15,26 +15,15 @@ class MetaDataREADME:
         return 'https://en.wikipedia.org/wiki/' + \
             x.replace(' ', '_')
 
+    @staticmethod
+    def get_wiki_link(x):
+        return f'[{x}]({MetaDataREADME.get_wiki_url(x)})'
+
     @property
     def common_names_pretty(self) -> str:
         if not self.common_names:
             return '-'
         return ', '.join(self.common_names)
-
-    @property
-    def scientific_name_link(self) -> str:
-        wiki_url = self.get_wiki_url(self.scientific_name)
-        return f'[{self.scientific_name}]({wiki_url})'
-
-    @property
-    def family_link(self) -> str:
-        wiki_url = self.get_wiki_url(self.family)
-        return f'[{self.family}]({wiki_url})'
-
-    @property
-    def genus_link(self) -> str:
-        wiki_url = self.get_wiki_url(self.genus)
-        return f'[{self.genus}]({wiki_url})'
 
     @property
     def title(self) -> str:
@@ -95,13 +84,17 @@ class MetaDataREADME:
 
     @classmethod
     def build_readme(cls):
-        lines = ['# Viharamahadevi Park, Colombo, Sri Lanka', '']
-        for md in cls.list_all():
-            lines.append(f'## {md.title}')
-            lines.append('')
-            lines.append(f'![{md.image_path_unix}]({md.image_path_unix})')
-            lines.append('')
-            lines.extend(md.description_lines)
-            lines.append('')
+        lines = ['# Plants for Sri Lanka :sri_lanka:', '']
+
+        idx = cls.idx()
+        for family, idx_family in idx.items():
+            lines.extend([f'## {MetaDataREADME.get_wiki_link(family)}', ''])
+            for genus, idx_genus in idx_family.items():
+                lines.extend(
+                    [f'### {MetaDataREADME.get_wiki_link(genus)}', ''])
+                for species, md_list in idx_genus.items():
+                    lines.extend(
+                        [f'#### {MetaDataREADME.get_wiki_link(species)}', ''])
+
         File(MetaDataREADME.README_PATH).write_lines(lines)
         log.debug(f'Wrote {MetaDataREADME.README_PATH}')

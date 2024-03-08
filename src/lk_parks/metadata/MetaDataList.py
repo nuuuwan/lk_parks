@@ -12,8 +12,8 @@ class MetaDataList:
 
     @property
     def cmp(self) -> int:
-        lat, lng = self.latlng
-        return lat * 1000 + lng
+        return '-'.join([self.family, self.genus,
+                        self.scientific_name, str(self.latlng[0])])
 
     @classmethod
     @cache
@@ -27,7 +27,7 @@ class MetaDataList:
                 data = JSONFile(metadata_path).read()
                 md = cls(**data)
                 md_list.append(md)
-        md_list = sorted(md_list, key=lambda md: md.cmp, reverse=True)
+        md_list = sorted(md_list, key=lambda md: md.cmp)
         return md_list
 
     @classmethod
@@ -73,19 +73,4 @@ class MetaDataList:
             if species not in idx[family][genus]:
                 idx[family][genus][species] = []
             idx[family][genus][species].append(md)
-
-        # sort each level
-        for family in idx:
-            for genus in idx[family]:
-                for species in idx[family][genus]:
-                    idx[family][genus][species] = sorted(
-                        idx[family][genus][species], key=lambda md: md.cmp)
-                idx[family][genus] = dict(
-                    sorted(
-                        idx[family][genus].items(),
-                        key=lambda item: item[0]))
-            idx[family] = dict(
-                sorted(
-                    idx[family].items(),
-                    key=lambda item: item[0]))
         return idx
