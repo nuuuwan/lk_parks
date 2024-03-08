@@ -65,18 +65,18 @@
 *❓ Identification Confidence: [Mangifera indica](https://en.wikipedia.org/wiki/Mangifera_indica) (7.3%), [Aegle marmelos](https://en.wikipedia.org/wiki/Aegle_marmelos) (6.6%), [Qualea parviflora](https://en.wikipedia.org/wiki/Qualea_parviflora) (4.1%), [Phytolacca dioica](https://en.wikipedia.org/wiki/Phytolacca_dioica) (4.1%), [Quercus humboldtii](https://en.wikipedia.org/wiki/Quercus_humboldtii) (3.2%)*
 
 
-#### ❓07:06 AM (Mar 08, 2024) · [6.9153°N,79.8618°E](https://www.google.com/maps/place/6.915297N,79.8618E)
-
-![data/images/Photo-2024-03-08-07-06-50.jpg](data/images/Photo-2024-03-08-07-06-50.jpg)
-
-*❓ Identification Confidence: [Mangifera indica](https://en.wikipedia.org/wiki/Mangifera_indica) (17.5%), [× Chitalpa tashkentensis](https://en.wikipedia.org/wiki/×_Chitalpa_tashkentensis) (5.0%), [Mimusops elengi](https://en.wikipedia.org/wiki/Mimusops_elengi) (4.9%), [Quercus acutissima](https://en.wikipedia.org/wiki/Quercus_acutissima) (3.5%), [Acacia auriculiformis](https://en.wikipedia.org/wiki/Acacia_auriculiformis) (3.4%)*
-
-
 #### ❓07:15 AM (Mar 08, 2024) · [6.9142°N,79.8621°E](https://www.google.com/maps/place/6.914233N,79.862061E)
 
 ![data/images/Photo-2024-03-08-07-15-10.jpg](data/images/Photo-2024-03-08-07-15-10.jpg)
 
 *❓ Identification Confidence: [Mangifera indica](https://en.wikipedia.org/wiki/Mangifera_indica) (7.3%), [Monoon longifolium](https://en.wikipedia.org/wiki/Monoon_longifolium) (4.1%), [Ceiba pentandra](https://en.wikipedia.org/wiki/Ceiba_pentandra) (3.2%), [Pandanus tectorius](https://en.wikipedia.org/wiki/Pandanus_tectorius) (3.0%), [Phytolacca dioica](https://en.wikipedia.org/wiki/Phytolacca_dioica) (2.6%)*
+
+
+#### ❓07:06 AM (Mar 08, 2024) · [6.9153°N,79.8618°E](https://www.google.com/maps/place/6.915297N,79.8618E)
+
+![data/images/Photo-2024-03-08-07-06-50.jpg](data/images/Photo-2024-03-08-07-06-50.jpg)
+
+*❓ Identification Confidence: [Mangifera indica](https://en.wikipedia.org/wiki/Mangifera_indica) (17.5%), [× Chitalpa tashkentensis](https://en.wikipedia.org/wiki/×_Chitalpa_tashkentensis) (5.0%), [Mimusops elengi](https://en.wikipedia.org/wiki/Mimusops_elengi) (4.9%), [Quercus acutissima](https://en.wikipedia.org/wiki/Quercus_acutissima) (3.5%), [Acacia auriculiformis](https://en.wikipedia.org/wiki/Acacia_auriculiformis) (3.4%)*
 
 
 ## [Spondias](https://en.wikipedia.org/wiki/Spondias)
@@ -181,18 +181,18 @@
 
 (2 Examples)
 
-#### ❓07:09 AM (Mar 08, 2024) · [6.9149°N,79.8623°E](https://www.google.com/maps/place/6.914878N,79.862328E)
-
-![data/images/Photo-2024-03-08-07-09-30.jpg](data/images/Photo-2024-03-08-07-09-30.jpg)
-
-*❓ Identification Confidence: [Plumeria obtusa](https://en.wikipedia.org/wiki/Plumeria_obtusa) (34.2%), [Plumeria rubra](https://en.wikipedia.org/wiki/Plumeria_rubra) (24.9%), [Plumeria alba](https://en.wikipedia.org/wiki/Plumeria_alba) (6.2%), [Voacanga thouarsii](https://en.wikipedia.org/wiki/Voacanga_thouarsii) (5.0%), [Terminalia mantaly](https://en.wikipedia.org/wiki/Terminalia_mantaly) (2.1%)*
-
-
 #### ❓07:10 AM (Mar 08, 2024) · [6.9147°N,79.8624°E](https://www.google.com/maps/place/6.914736N,79.862428E)
 
 ![data/images/Photo-2024-03-08-07-10-36.jpg](data/images/Photo-2024-03-08-07-10-36.jpg)
 
 *❓ Identification Confidence: [Plumeria obtusa](https://en.wikipedia.org/wiki/Plumeria_obtusa) (23.9%), [Plumeria alba](https://en.wikipedia.org/wiki/Plumeria_alba) (17.1%), [Plumeria rubra](https://en.wikipedia.org/wiki/Plumeria_rubra) (9.8%), [Pachypodium decaryi](https://en.wikipedia.org/wiki/Pachypodium_decaryi) (3.2%), [Ficus maxima](https://en.wikipedia.org/wiki/Ficus_maxima) (2.1%)*
+
+
+#### ❓07:09 AM (Mar 08, 2024) · [6.9149°N,79.8623°E](https://www.google.com/maps/place/6.914878N,79.862328E)
+
+![data/images/Photo-2024-03-08-07-09-30.jpg](data/images/Photo-2024-03-08-07-09-30.jpg)
+
+*❓ Identification Confidence: [Plumeria obtusa](https://en.wikipedia.org/wiki/Plumeria_obtusa) (34.2%), [Plumeria rubra](https://en.wikipedia.org/wiki/Plumeria_rubra) (24.9%), [Plumeria alba](https://en.wikipedia.org/wiki/Plumeria_alba) (6.2%), [Voacanga thouarsii](https://en.wikipedia.org/wiki/Voacanga_thouarsii) (5.0%), [Terminalia mantaly](https://en.wikipedia.org/wiki/Terminalia_mantaly) (2.1%)*
 
 
 ## [Tabernaemontana](https://en.wikipedia.org/wiki/Tabernaemontana)
@@ -281,18 +281,18 @@
 *❓ Identification Confidence: [Roystonea regia](https://en.wikipedia.org/wiki/Roystonea_regia) (17.8%), [Phoenix reclinata](https://en.wikipedia.org/wiki/Phoenix_reclinata) (15.3%), [Roystonea oleracea](https://en.wikipedia.org/wiki/Roystonea_oleracea) (5.6%), [Archontophoenix cunninghamiana](https://en.wikipedia.org/wiki/Archontophoenix_cunninghamiana) (4.3%), [Syagrus romanzoffiana](https://en.wikipedia.org/wiki/Syagrus_romanzoffiana) (4.2%)*
 
 
-#### 🌳07:17 AM (Mar 08, 2024) · [6.9135°N,79.8617°E](https://www.google.com/maps/place/6.913517N,79.861708E)
-
-![data/images/Photo-2024-03-08-07-17-50.jpg](data/images/Photo-2024-03-08-07-17-50.jpg)
-
-*🌳 Identification Confidence: [Roystonea regia](https://en.wikipedia.org/wiki/Roystonea_regia) (74.8%), [Roystonea oleracea](https://en.wikipedia.org/wiki/Roystonea_oleracea) (5.5%), [Dictyosperma album](https://en.wikipedia.org/wiki/Dictyosperma_album) (3.2%), [Archontophoenix cunninghamiana](https://en.wikipedia.org/wiki/Archontophoenix_cunninghamiana) (2.5%), [Pseudophoenix sargentii](https://en.wikipedia.org/wiki/Pseudophoenix_sargentii) (1.4%)*
-
-
 #### ❓07:18 AM (Mar 08, 2024) · [6.9133°N,79.8615°E](https://www.google.com/maps/place/6.913325N,79.86155E)
 
 ![data/images/Photo-2024-03-08-07-18-39.jpg](data/images/Photo-2024-03-08-07-18-39.jpg)
 
 *❓ Identification Confidence: [Roystonea regia](https://en.wikipedia.org/wiki/Roystonea_regia) (26.9%), [Euterpe oleracea](https://en.wikipedia.org/wiki/Euterpe_oleracea) (9.7%), [Phoenix reclinata](https://en.wikipedia.org/wiki/Phoenix_reclinata) (8.4%), [Dypsis lutescens](https://en.wikipedia.org/wiki/Dypsis_lutescens) (7.3%), [Roystonea oleracea](https://en.wikipedia.org/wiki/Roystonea_oleracea) (5.7%)*
+
+
+#### 🌳07:17 AM (Mar 08, 2024) · [6.9135°N,79.8617°E](https://www.google.com/maps/place/6.913517N,79.861708E)
+
+![data/images/Photo-2024-03-08-07-17-50.jpg](data/images/Photo-2024-03-08-07-17-50.jpg)
+
+*🌳 Identification Confidence: [Roystonea regia](https://en.wikipedia.org/wiki/Roystonea_regia) (74.8%), [Roystonea oleracea](https://en.wikipedia.org/wiki/Roystonea_oleracea) (5.5%), [Dictyosperma album](https://en.wikipedia.org/wiki/Dictyosperma_album) (3.2%), [Archontophoenix cunninghamiana](https://en.wikipedia.org/wiki/Archontophoenix_cunninghamiana) (2.5%), [Pseudophoenix sargentii](https://en.wikipedia.org/wiki/Pseudophoenix_sargentii) (1.4%)*
 
 
 ## [Wodyetia](https://en.wikipedia.org/wiki/Wodyetia)
@@ -381,6 +381,27 @@
 
 (6 Examples)
 
+#### ❓06:52 AM (Mar 08, 2024) · [6.9137°N,79.8637°E](https://www.google.com/maps/place/6.913733N,79.863708E)
+
+![data/images/Photo-2024-03-08-06-52-20.jpg](data/images/Photo-2024-03-08-06-52-20.jpg)
+
+*❓ Identification Confidence: [Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea) (9.9%), [Tabebuia pallida](https://en.wikipedia.org/wiki/Tabebuia_pallida) (5.2%), [Phytolacca dioica](https://en.wikipedia.org/wiki/Phytolacca_dioica) (4.4%), [Swietenia macrophylla](https://en.wikipedia.org/wiki/Swietenia_macrophylla) (2.5%), [Cinnamomum camphora](https://en.wikipedia.org/wiki/Cinnamomum_camphora) (2.0%)*
+
+
+#### ❓06:57 AM (Mar 08, 2024) · [6.9139°N,79.8642°E](https://www.google.com/maps/place/6.913917N,79.864236E)
+
+![data/images/Photo-2024-03-08-06-57-14.jpg](data/images/Photo-2024-03-08-06-57-14.jpg)
+
+*❓ Identification Confidence: [Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea) (9.7%), [Melicoccus bijugatus](https://en.wikipedia.org/wiki/Melicoccus_bijugatus) (2.6%), [Inga edulis](https://en.wikipedia.org/wiki/Inga_edulis) (2.5%), [Licania ternatensis](https://en.wikipedia.org/wiki/Licania_ternatensis) (2.3%), [Inga laurina](https://en.wikipedia.org/wiki/Inga_laurina) (2.1%)*
+
+
+#### ❓06:57 AM (Mar 08, 2024) · [6.9140°N,79.8642°E](https://www.google.com/maps/place/6.913983N,79.864236E)
+
+![data/images/Photo-2024-03-08-06-57-03.jpg](data/images/Photo-2024-03-08-06-57-03.jpg)
+
+*❓ Identification Confidence: [Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea) (11.5%), [Handroanthus heptaphyllus](https://en.wikipedia.org/wiki/Handroanthus_heptaphyllus) (9.2%), [Celtis australis](https://en.wikipedia.org/wiki/Celtis_australis) (8.2%), [Ficus virens](https://en.wikipedia.org/wiki/Ficus_virens) (4.3%), [Quercus glauca](https://en.wikipedia.org/wiki/Quercus_glauca) (3.7%)*
+
+
 #### ❓06:48 AM (Mar 08, 2024) · [6.9144°N,79.8629°E](https://www.google.com/maps/place/6.914369N,79.862922E)
 
 ![data/images/Photo-2024-03-08-06-48-53.jpg](data/images/Photo-2024-03-08-06-48-53.jpg)
@@ -393,27 +414,6 @@
 ![data/images/Photo-2024-03-08-06-50-57.jpg](data/images/Photo-2024-03-08-06-50-57.jpg)
 
 *🌳 Identification Confidence: [Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea) (57.3%), [Tabebuia heterophylla](https://en.wikipedia.org/wiki/Tabebuia_heterophylla) (15.6%), [Handroanthus impetiginosus](https://en.wikipedia.org/wiki/Handroanthus_impetiginosus) (4.2%), [Handroanthus heptaphyllus](https://en.wikipedia.org/wiki/Handroanthus_heptaphyllus) (2.1%), [Tabebuia pallida](https://en.wikipedia.org/wiki/Tabebuia_pallida) (0.4%)*
-
-
-#### ❓06:52 AM (Mar 08, 2024) · [6.9137°N,79.8637°E](https://www.google.com/maps/place/6.913733N,79.863708E)
-
-![data/images/Photo-2024-03-08-06-52-20.jpg](data/images/Photo-2024-03-08-06-52-20.jpg)
-
-*❓ Identification Confidence: [Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea) (9.9%), [Tabebuia pallida](https://en.wikipedia.org/wiki/Tabebuia_pallida) (5.2%), [Phytolacca dioica](https://en.wikipedia.org/wiki/Phytolacca_dioica) (4.4%), [Swietenia macrophylla](https://en.wikipedia.org/wiki/Swietenia_macrophylla) (2.5%), [Cinnamomum camphora](https://en.wikipedia.org/wiki/Cinnamomum_camphora) (2.0%)*
-
-
-#### ❓06:57 AM (Mar 08, 2024) · [6.9140°N,79.8642°E](https://www.google.com/maps/place/6.913983N,79.864236E)
-
-![data/images/Photo-2024-03-08-06-57-03.jpg](data/images/Photo-2024-03-08-06-57-03.jpg)
-
-*❓ Identification Confidence: [Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea) (11.5%), [Handroanthus heptaphyllus](https://en.wikipedia.org/wiki/Handroanthus_heptaphyllus) (9.2%), [Celtis australis](https://en.wikipedia.org/wiki/Celtis_australis) (8.2%), [Ficus virens](https://en.wikipedia.org/wiki/Ficus_virens) (4.3%), [Quercus glauca](https://en.wikipedia.org/wiki/Quercus_glauca) (3.7%)*
-
-
-#### ❓06:57 AM (Mar 08, 2024) · [6.9139°N,79.8642°E](https://www.google.com/maps/place/6.913917N,79.864236E)
-
-![data/images/Photo-2024-03-08-06-57-14.jpg](data/images/Photo-2024-03-08-06-57-14.jpg)
-
-*❓ Identification Confidence: [Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea) (9.7%), [Melicoccus bijugatus](https://en.wikipedia.org/wiki/Melicoccus_bijugatus) (2.6%), [Inga edulis](https://en.wikipedia.org/wiki/Inga_edulis) (2.5%), [Licania ternatensis](https://en.wikipedia.org/wiki/Licania_ternatensis) (2.3%), [Inga laurina](https://en.wikipedia.org/wiki/Inga_laurina) (2.1%)*
 
 
 #### 🌳07:05 AM (Mar 08, 2024) · [6.9155°N,79.8621°E](https://www.google.com/maps/place/6.915522N,79.862061E)
@@ -508,13 +508,6 @@
 
 (3 Examples)
 
-#### 🌳06:50 AM (Mar 08, 2024) · [6.9141°N,79.8632°E](https://www.google.com/maps/place/6.914147N,79.863236E)
-
-![data/images/Photo-2024-03-08-06-50-00.jpg](data/images/Photo-2024-03-08-06-50-00.jpg)
-
-*🌳 Identification Confidence: [Casuarina equisetifolia](https://en.wikipedia.org/wiki/Casuarina_equisetifolia) (75.0%), [Casuarina cunninghamiana](https://en.wikipedia.org/wiki/Casuarina_cunninghamiana) (14.9%), [Pinus pinea](https://en.wikipedia.org/wiki/Pinus_pinea) (1.1%), [Pinus wallichiana](https://en.wikipedia.org/wiki/Pinus_wallichiana) (0.9%), [Parkinsonia aculeata](https://en.wikipedia.org/wiki/Parkinsonia_aculeata) (0.3%)*
-
-
 #### ❓07:16 AM (Mar 08, 2024) · [6.9137°N,79.8621°E](https://www.google.com/maps/place/6.913722N,79.862144E)
 
 ![data/images/Photo-2024-03-08-07-16-32.jpg](data/images/Photo-2024-03-08-07-16-32.jpg)
@@ -527,6 +520,13 @@
 ![data/images/Photo-2024-03-08-07-16-43.jpg](data/images/Photo-2024-03-08-07-16-43.jpg)
 
 *🌳 Identification Confidence: [Casuarina equisetifolia](https://en.wikipedia.org/wiki/Casuarina_equisetifolia) (62.2%), [Casuarina cunninghamiana](https://en.wikipedia.org/wiki/Casuarina_cunninghamiana) (30.5%), [Tamarix gallica](https://en.wikipedia.org/wiki/Tamarix_gallica) (1.4%), [Tamarix ramosissima](https://en.wikipedia.org/wiki/Tamarix_ramosissima) (0.5%), [Casuarina glauca](https://en.wikipedia.org/wiki/Casuarina_glauca) (0.3%)*
+
+
+#### 🌳06:50 AM (Mar 08, 2024) · [6.9141°N,79.8632°E](https://www.google.com/maps/place/6.914147N,79.863236E)
+
+![data/images/Photo-2024-03-08-06-50-00.jpg](data/images/Photo-2024-03-08-06-50-00.jpg)
+
+*🌳 Identification Confidence: [Casuarina equisetifolia](https://en.wikipedia.org/wiki/Casuarina_equisetifolia) (75.0%), [Casuarina cunninghamiana](https://en.wikipedia.org/wiki/Casuarina_cunninghamiana) (14.9%), [Pinus pinea](https://en.wikipedia.org/wiki/Pinus_pinea) (1.1%), [Pinus wallichiana](https://en.wikipedia.org/wiki/Pinus_wallichiana) (0.9%), [Parkinsonia aculeata](https://en.wikipedia.org/wiki/Parkinsonia_aculeata) (0.3%)*
 
 
 # [Chrysobalanaceae](https://en.wikipedia.org/wiki/Chrysobalanaceae)
@@ -724,18 +724,18 @@
 
 (2 Examples)
 
-#### 🌳07:09 AM (Mar 08, 2024) · [6.9148°N,79.8624°E](https://www.google.com/maps/place/6.914814N,79.862433E)
-
-![data/images/Photo-2024-03-08-07-09-59.jpg](data/images/Photo-2024-03-08-07-09-59.jpg)
-
-*🌳 Identification Confidence: [Cassia fistula](https://en.wikipedia.org/wiki/Cassia_fistula) (91.8%), [Cassia abbreviata](https://en.wikipedia.org/wiki/Cassia_abbreviata) (0.5%), [Aegle marmelos](https://en.wikipedia.org/wiki/Aegle_marmelos) (0.5%), [Senna surattensis](https://en.wikipedia.org/wiki/Senna_surattensis) (0.3%), [Tipuana tipu](https://en.wikipedia.org/wiki/Tipuana_tipu) (0.2%)*
-
-
 #### ❓07:13 AM (Mar 08, 2024) · [6.9143°N,79.8623°E](https://www.google.com/maps/place/6.914278N,79.862275E)
 
 ![data/images/Photo-2024-03-08-07-13-30.jpg](data/images/Photo-2024-03-08-07-13-30.jpg)
 
 *❓ Identification Confidence: [Cassia fistula](https://en.wikipedia.org/wiki/Cassia_fistula) (9.0%), [Holarrhena pubescens](https://en.wikipedia.org/wiki/Holarrhena_pubescens) (6.0%), [Pleiogynium timoriense](https://en.wikipedia.org/wiki/Pleiogynium_timoriense) (4.0%), [Paubrasilia echinata](https://en.wikipedia.org/wiki/Paubrasilia_echinata) (3.5%), [Copaifera langsdorffii](https://en.wikipedia.org/wiki/Copaifera_langsdorffii) (2.4%)*
+
+
+#### 🌳07:09 AM (Mar 08, 2024) · [6.9148°N,79.8624°E](https://www.google.com/maps/place/6.914814N,79.862433E)
+
+![data/images/Photo-2024-03-08-07-09-59.jpg](data/images/Photo-2024-03-08-07-09-59.jpg)
+
+*🌳 Identification Confidence: [Cassia fistula](https://en.wikipedia.org/wiki/Cassia_fistula) (91.8%), [Cassia abbreviata](https://en.wikipedia.org/wiki/Cassia_abbreviata) (0.5%), [Aegle marmelos](https://en.wikipedia.org/wiki/Aegle_marmelos) (0.5%), [Senna surattensis](https://en.wikipedia.org/wiki/Senna_surattensis) (0.3%), [Tipuana tipu](https://en.wikipedia.org/wiki/Tipuana_tipu) (0.2%)*
 
 
 ### *[Cassia grandis](https://en.wikipedia.org/wiki/Cassia_grandis)* L.f.
@@ -853,18 +853,18 @@
 
 (2 Examples)
 
-#### ❓07:37 AM (Dec 19, 2023) · [6.9143°N,79.8623°E](https://www.google.com/maps/place/6.914261N,79.862342E)
-
-![data/images/Photo-2023-12-19-07-37-48.jpg](data/images/Photo-2023-12-19-07-37-48.jpg)
-
-*❓ Identification Confidence: [Paubrasilia echinata](https://en.wikipedia.org/wiki/Paubrasilia_echinata) (41.8%), [Pterocarya stenoptera](https://en.wikipedia.org/wiki/Pterocarya_stenoptera) (6.8%), [Samanea saman](https://en.wikipedia.org/wiki/Samanea_saman) (1.3%), [Pterocarya fraxinifolia](https://en.wikipedia.org/wiki/Pterocarya_fraxinifolia) (1.3%), [Guaiacum sanctum](https://en.wikipedia.org/wiki/Guaiacum_sanctum) (0.9%)*
-
-
 #### ❓07:23 AM (Jan 19, 2024) · [6.9141°N,79.8622°E](https://www.google.com/maps/place/6.914117N,79.862189E)
 
 ![data/images/Photo-2024-01-19-07-23-31.jpg](data/images/Photo-2024-01-19-07-23-31.jpg)
 
 *❓ Identification Confidence: [Paubrasilia echinata](https://en.wikipedia.org/wiki/Paubrasilia_echinata) (9.9%), [Diospyros buxifolia](https://en.wikipedia.org/wiki/Diospyros_buxifolia) (5.4%), [Senna siamea](https://en.wikipedia.org/wiki/Senna_siamea) (3.5%), [Pterocarya stenoptera](https://en.wikipedia.org/wiki/Pterocarya_stenoptera) (1.8%), [Tipuana tipu](https://en.wikipedia.org/wiki/Tipuana_tipu) (1.6%)*
+
+
+#### ❓07:37 AM (Dec 19, 2023) · [6.9143°N,79.8623°E](https://www.google.com/maps/place/6.914261N,79.862342E)
+
+![data/images/Photo-2023-12-19-07-37-48.jpg](data/images/Photo-2023-12-19-07-37-48.jpg)
+
+*❓ Identification Confidence: [Paubrasilia echinata](https://en.wikipedia.org/wiki/Paubrasilia_echinata) (41.8%), [Pterocarya stenoptera](https://en.wikipedia.org/wiki/Pterocarya_stenoptera) (6.8%), [Samanea saman](https://en.wikipedia.org/wiki/Samanea_saman) (1.3%), [Pterocarya fraxinifolia](https://en.wikipedia.org/wiki/Pterocarya_fraxinifolia) (1.3%), [Guaiacum sanctum](https://en.wikipedia.org/wiki/Guaiacum_sanctum) (0.9%)*
 
 
 ## [Vachellia](https://en.wikipedia.org/wiki/Vachellia)
@@ -1187,18 +1187,18 @@
 
 (2 Examples)
 
-#### ❓06:56 AM (Mar 08, 2024) · [6.9137°N,79.8642°E](https://www.google.com/maps/place/6.913725N,79.864197E)
-
-![data/images/Photo-2024-03-08-06-56-14.jpg](data/images/Photo-2024-03-08-06-56-14.jpg)
-
-*❓ Identification Confidence: [Ficus benghalensis](https://en.wikipedia.org/wiki/Ficus_benghalensis) (48.5%), [Ficus septica](https://en.wikipedia.org/wiki/Ficus_septica) (9.2%), [Ficus aurea](https://en.wikipedia.org/wiki/Ficus_aurea) (6.7%), [Ficus callosa](https://en.wikipedia.org/wiki/Ficus_callosa) (5.0%), [Ficus altissima](https://en.wikipedia.org/wiki/Ficus_altissima) (3.6%)*
-
-
 #### ❓07:12 AM (Mar 08, 2024) · [6.9145°N,79.8621°E](https://www.google.com/maps/place/6.914483N,79.862144E)
 
 ![data/images/Photo-2024-03-08-07-12-45.jpg](data/images/Photo-2024-03-08-07-12-45.jpg)
 
 *❓ Identification Confidence: [Ficus benghalensis](https://en.wikipedia.org/wiki/Ficus_benghalensis) (42.6%), [Ficus altissima](https://en.wikipedia.org/wiki/Ficus_altissima) (14.5%), [Ficus elastica](https://en.wikipedia.org/wiki/Ficus_elastica) (11.8%), [Ficus aurea](https://en.wikipedia.org/wiki/Ficus_aurea) (5.0%), [Ficus virens](https://en.wikipedia.org/wiki/Ficus_virens) (2.9%)*
+
+
+#### ❓06:56 AM (Mar 08, 2024) · [6.9137°N,79.8642°E](https://www.google.com/maps/place/6.913725N,79.864197E)
+
+![data/images/Photo-2024-03-08-06-56-14.jpg](data/images/Photo-2024-03-08-06-56-14.jpg)
+
+*❓ Identification Confidence: [Ficus benghalensis](https://en.wikipedia.org/wiki/Ficus_benghalensis) (48.5%), [Ficus septica](https://en.wikipedia.org/wiki/Ficus_septica) (9.2%), [Ficus aurea](https://en.wikipedia.org/wiki/Ficus_aurea) (6.7%), [Ficus callosa](https://en.wikipedia.org/wiki/Ficus_callosa) (5.0%), [Ficus altissima](https://en.wikipedia.org/wiki/Ficus_altissima) (3.6%)*
 
 
 ### *[Ficus elastica](https://en.wikipedia.org/wiki/Ficus_elastica)* Roxb. ex Hornem.
@@ -1213,18 +1213,18 @@
 
 (2 Examples)
 
-#### ❓06:49 AM (Mar 08, 2024) · [6.9142°N,79.8631°E](https://www.google.com/maps/place/6.914217N,79.863136E)
-
-![data/images/Photo-2024-03-08-06-49-41.jpg](data/images/Photo-2024-03-08-06-49-41.jpg)
-
-*❓ Identification Confidence: [Ficus elastica](https://en.wikipedia.org/wiki/Ficus_elastica) (42.1%), [Ficus altissima](https://en.wikipedia.org/wiki/Ficus_altissima) (12.9%), [Ficus lutea](https://en.wikipedia.org/wiki/Ficus_lutea) (8.9%), [Ficus benghalensis](https://en.wikipedia.org/wiki/Ficus_benghalensis) (7.6%), [Ficus virens](https://en.wikipedia.org/wiki/Ficus_virens) (1.7%)*
-
-
 #### ❓06:53 AM (Mar 08, 2024) · [6.9136°N,79.8641°E](https://www.google.com/maps/place/6.913567N,79.864144E)
 
 ![data/images/Photo-2024-03-08-06-53-49.jpg](data/images/Photo-2024-03-08-06-53-49.jpg)
 
 *❓ Identification Confidence: [Ficus elastica](https://en.wikipedia.org/wiki/Ficus_elastica) (29.1%), [Ficus benghalensis](https://en.wikipedia.org/wiki/Ficus_benghalensis) (18.4%), [Ficus religiosa](https://en.wikipedia.org/wiki/Ficus_religiosa) (7.8%), [Ficus nymphaeifolia](https://en.wikipedia.org/wiki/Ficus_nymphaeifolia) (6.2%), [Ficus altissima](https://en.wikipedia.org/wiki/Ficus_altissima) (5.7%)*
+
+
+#### ❓06:49 AM (Mar 08, 2024) · [6.9142°N,79.8631°E](https://www.google.com/maps/place/6.914217N,79.863136E)
+
+![data/images/Photo-2024-03-08-06-49-41.jpg](data/images/Photo-2024-03-08-06-49-41.jpg)
+
+*❓ Identification Confidence: [Ficus elastica](https://en.wikipedia.org/wiki/Ficus_elastica) (42.1%), [Ficus altissima](https://en.wikipedia.org/wiki/Ficus_altissima) (12.9%), [Ficus lutea](https://en.wikipedia.org/wiki/Ficus_lutea) (8.9%), [Ficus benghalensis](https://en.wikipedia.org/wiki/Ficus_benghalensis) (7.6%), [Ficus virens](https://en.wikipedia.org/wiki/Ficus_virens) (1.7%)*
 
 
 ### *[Ficus insipida](https://en.wikipedia.org/wiki/Ficus_insipida)* Willd.
@@ -1363,13 +1363,6 @@
 
 (4 Examples)
 
-#### 🌳06:57 AM (Mar 08, 2024) · [6.9141°N,79.8642°E](https://www.google.com/maps/place/6.914072N,79.864206E)
-
-![data/images/Photo-2024-03-08-06-57-27.jpg](data/images/Photo-2024-03-08-06-57-27.jpg)
-
-*🌳 Identification Confidence: [Melaleuca quinquenervia](https://en.wikipedia.org/wiki/Melaleuca_quinquenervia) (77.0%), [Melaleuca leucadendra](https://en.wikipedia.org/wiki/Melaleuca_leucadendra) (5.8%), [Melaleuca styphelioides](https://en.wikipedia.org/wiki/Melaleuca_styphelioides) (1.8%), [Acacia spirorbis](https://en.wikipedia.org/wiki/Acacia_spirorbis) (0.8%), [Acacia longifolia](https://en.wikipedia.org/wiki/Acacia_longifolia) (0.4%)*
-
-
 #### ❓06:57 AM (Mar 08, 2024) · [6.9141°N,79.8641°E](https://www.google.com/maps/place/6.914108N,79.864106E)
 
 ![data/images/Photo-2024-03-08-06-57-45.jpg](data/images/Photo-2024-03-08-06-57-45.jpg)
@@ -1377,18 +1370,25 @@
 *❓ Identification Confidence: [Melaleuca quinquenervia](https://en.wikipedia.org/wiki/Melaleuca_quinquenervia) (12.6%), [Olea europaea](https://en.wikipedia.org/wiki/Olea_europaea) (9.1%), [Melaleuca citrina](https://en.wikipedia.org/wiki/Melaleuca_citrina) (6.0%), [Melaleuca viminalis](https://en.wikipedia.org/wiki/Melaleuca_viminalis) (2.6%), [Tristaniopsis laurina](https://en.wikipedia.org/wiki/Tristaniopsis_laurina) (2.5%)*
 
 
-#### 🌳06:58 AM (Mar 08, 2024) · [6.9143°N,79.8639°E](https://www.google.com/maps/place/6.914267N,79.863883E)
-
-![data/images/Photo-2024-03-08-06-58-25.jpg](data/images/Photo-2024-03-08-06-58-25.jpg)
-
-*🌳 Identification Confidence: [Melaleuca quinquenervia](https://en.wikipedia.org/wiki/Melaleuca_quinquenervia) (98.5%), [Melaleuca leucadendra](https://en.wikipedia.org/wiki/Melaleuca_leucadendra) (0.6%), [Melaleuca styphelioides](https://en.wikipedia.org/wiki/Melaleuca_styphelioides) (0.2%)*
-
-
 #### ❓07:01 AM (Mar 08, 2024) · [6.9145°N,79.8635°E](https://www.google.com/maps/place/6.914506N,79.863547E)
 
 ![data/images/Photo-2024-03-08-07-01-12.jpg](data/images/Photo-2024-03-08-07-01-12.jpg)
 
 *❓ Identification Confidence: [Melaleuca quinquenervia](https://en.wikipedia.org/wiki/Melaleuca_quinquenervia) (33.3%), [Banksia integrifolia](https://en.wikipedia.org/wiki/Banksia_integrifolia) (4.5%), [Byrsonima crassifolia](https://en.wikipedia.org/wiki/Byrsonima_crassifolia) (4.5%), [Melaleuca leucadendra](https://en.wikipedia.org/wiki/Melaleuca_leucadendra) (4.2%), [Umbellularia californica](https://en.wikipedia.org/wiki/Umbellularia_californica) (3.2%)*
+
+
+#### 🌳06:57 AM (Mar 08, 2024) · [6.9141°N,79.8642°E](https://www.google.com/maps/place/6.914072N,79.864206E)
+
+![data/images/Photo-2024-03-08-06-57-27.jpg](data/images/Photo-2024-03-08-06-57-27.jpg)
+
+*🌳 Identification Confidence: [Melaleuca quinquenervia](https://en.wikipedia.org/wiki/Melaleuca_quinquenervia) (77.0%), [Melaleuca leucadendra](https://en.wikipedia.org/wiki/Melaleuca_leucadendra) (5.8%), [Melaleuca styphelioides](https://en.wikipedia.org/wiki/Melaleuca_styphelioides) (1.8%), [Acacia spirorbis](https://en.wikipedia.org/wiki/Acacia_spirorbis) (0.8%), [Acacia longifolia](https://en.wikipedia.org/wiki/Acacia_longifolia) (0.4%)*
+
+
+#### 🌳06:58 AM (Mar 08, 2024) · [6.9143°N,79.8639°E](https://www.google.com/maps/place/6.914267N,79.863883E)
+
+![data/images/Photo-2024-03-08-06-58-25.jpg](data/images/Photo-2024-03-08-06-58-25.jpg)
+
+*🌳 Identification Confidence: [Melaleuca quinquenervia](https://en.wikipedia.org/wiki/Melaleuca_quinquenervia) (98.5%), [Melaleuca leucadendra](https://en.wikipedia.org/wiki/Melaleuca_leucadendra) (0.6%), [Melaleuca styphelioides](https://en.wikipedia.org/wiki/Melaleuca_styphelioides) (0.2%)*
 
 
 ## [Syzygium](https://en.wikipedia.org/wiki/Syzygium)
@@ -1405,18 +1405,18 @@
 
 (2 Examples)
 
-#### ❓06:59 AM (Mar 08, 2024) · [6.9142°N,79.8637°E](https://www.google.com/maps/place/6.914189N,79.8637E)
-
-![data/images/Photo-2024-03-08-06-59-40.jpg](data/images/Photo-2024-03-08-06-59-40.jpg)
-
-*❓ Identification Confidence: [Syzygium cumini](https://en.wikipedia.org/wiki/Syzygium_cumini) (24.1%), [Juglans regia](https://en.wikipedia.org/wiki/Juglans_regia) (6.8%), [Syzygium malaccense](https://en.wikipedia.org/wiki/Syzygium_malaccense) (3.5%), [Ficus altissima](https://en.wikipedia.org/wiki/Ficus_altissima) (2.9%), [Ficus lacor](https://en.wikipedia.org/wiki/Ficus_lacor) (2.7%)*
-
-
 #### ❓07:00 AM (Mar 08, 2024) · [6.9142°N,79.8637°E](https://www.google.com/maps/place/6.914189N,79.863678E)
 
 ![data/images/Photo-2024-03-08-07-00-00.jpg](data/images/Photo-2024-03-08-07-00-00.jpg)
 
 *❓ Identification Confidence: [Syzygium cumini](https://en.wikipedia.org/wiki/Syzygium_cumini) (17.2%), [Annona purpurea](https://en.wikipedia.org/wiki/Annona_purpurea) (7.8%), [Juglans regia](https://en.wikipedia.org/wiki/Juglans_regia) (4.9%), [Diospyros blancoi](https://en.wikipedia.org/wiki/Diospyros_blancoi) (2.9%), [Eugenia jambosoides](https://en.wikipedia.org/wiki/Eugenia_jambosoides) (2.6%)*
+
+
+#### ❓06:59 AM (Mar 08, 2024) · [6.9142°N,79.8637°E](https://www.google.com/maps/place/6.914189N,79.8637E)
+
+![data/images/Photo-2024-03-08-06-59-40.jpg](data/images/Photo-2024-03-08-06-59-40.jpg)
+
+*❓ Identification Confidence: [Syzygium cumini](https://en.wikipedia.org/wiki/Syzygium_cumini) (24.1%), [Juglans regia](https://en.wikipedia.org/wiki/Juglans_regia) (6.8%), [Syzygium malaccense](https://en.wikipedia.org/wiki/Syzygium_malaccense) (3.5%), [Ficus altissima](https://en.wikipedia.org/wiki/Ficus_altissima) (2.9%), [Ficus lacor](https://en.wikipedia.org/wiki/Ficus_lacor) (2.7%)*
 
 
 # [Oleaceae](https://en.wikipedia.org/wiki/Oleaceae)

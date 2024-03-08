@@ -12,8 +12,9 @@ class MetaDataList:
 
     @property
     def cmp(self) -> int:
+        p = int(self.confidence * 100 + 0.5)
         return '-'.join([self.family, self.genus,
-                        self.scientific_name, f'{self.ut:.0f}'])
+                        self.scientific_name, f'{p:03d}'])
 
     @classmethod
     @cache
