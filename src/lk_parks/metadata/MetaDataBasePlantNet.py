@@ -55,9 +55,11 @@ class MetaDataBasePlantNet:
 
     @property
     def confidence_emoji(self) -> str:
-        if self.confidence < 0.5:
-            return '❓'
-        return '🌳'
+        if self.confidence < 1 / 3:
+            return '🟥'
+        if self.confidence < 2 / 3:
+            return '🟨'
+        return '🟩'
 
     @property
     def species_to_score(self) -> dict:
