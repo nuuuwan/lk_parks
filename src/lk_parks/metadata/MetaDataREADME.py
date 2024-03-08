@@ -88,21 +88,28 @@ class MetaDataREADME:
         ]
 
     @property
+    def confidence_combined(self) -> str:
+        return '(Identification Confidence=' + \
+            f'{self.confidence_emoji}{self.confidence:.1%}. ' + \
+            'Other Guesses: ' + f'{self.other_candidates_pretty})'
+
+    @property
     def photo_lines(self):
         return [
             f'#### {self.title}',
             '',
-            f'{self.image_md}',
+            self.image_md,
             '',
-            '|  |  |',
-            '| --- | --- |',
-            '| **Identification Confidence** | ' +
+            self.confidence_combined,
+            # '|  |  |',
+            # '| --- | --- |',
+            # '| **Identification Confidence** | ' +
             f'{self.confidence_emoji} {self.confidence:.1%} |',
             f'| **Other Guesses** | {self.other_candidates_pretty} |',
             # f'| **Time** | {self.time_str} |',
-            f'| **Camera Direction** | {self.direction_pretty} |',
+            # f'| **Camera Direction** | {self.direction_pretty} |',
             # f'| **Location** | {self.google_maps_link} |',
-            f'| **Altitude** | {self.alt:.1f}m |',
+            # f'| **Altitude** | {self.alt:.1f}m |',
             '',
         ]
 
