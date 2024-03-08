@@ -8,6 +8,19 @@ log = Log('MetaDataBasePlantNet')
 @dataclass
 class MetaDataBasePlantNet:
 
+    IUCN_CATEGORY_TO_DESCRIPTION = {
+        'EX': '⚫ Extinct',
+        'EW': '🟤 Extinct in the Wild',
+        'CR': '🔴 Critically Endangered',
+        'EN': '🟠 Endangered',
+        'VU': '🟡 Vulnerable',
+        'NT': '🟡 Near Threatened',
+        'CD': '🟡 Conservation Dependent',
+        'LC': '🟢 Least Concern',
+        'DD': '⚪ Data Deficient',
+        'NE': '⚪ Not Evaluated',
+    }
+
     @property
     def best_plantnet_result(self) -> dict:
         return self.plantnet_results[0]
@@ -65,3 +78,42 @@ class MetaDataBasePlantNet:
             return f'{species} ({score:.1%})'
         return ', '.join([format_item(x)
                          for x in self.species_to_score.items()])
+
+    @property
+    def gbif_id(self) -> str:
+        return self.best_plantnet_result['gbif']['id']
+
+    @property
+    def gbif_url(self) -> str:
+        return f'https://www.gbif.org/species/{self.gbif_id}'
+
+    @property
+    def powo_id(self) -> str:
+        if 'powo' in self.best_plantnet_result:
+            return self.best_plantnet_result['powo']['id']
+        return None
+
+    @property
+    def powo_url(self) -> str:
+        return f'https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:{self.powo_id}'
+
+    @property
+    def iucn_id(self) -> str:
+        if 'iucn' in self.best_plantnet_result:
+            return self.best_plantnet_result['iucn']['id']
+        return None
+
+    @property
+    def iucn_url(self) -> str:
+        return f'https://www.iucnredlist.org/species/{self.iucn_id}'
+
+    @property
+    def iucn_category(self) -> str:
+        if 'iucn' in self.best_plantnet_result:
+            return self.best_plantnet_result['iucn']['category']
+        return None
+
+    @property
+    def iucn_category_humanized(self) -> str:
+        return self.IUCN_CATEGORY_TO_DESCRIPTION.get(
+            self.iucn_category, 'Unknown Category')

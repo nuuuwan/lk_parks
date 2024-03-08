@@ -27,6 +27,24 @@ class MetaDataREADME:
         return f'[{label}]({url})'
 
     @property
+    def gbif_pretty(self) -> str:
+        if not self.gbif_id:
+            return 'Unknown'
+        return f'[{self.gbif_id}]({self.gbif_url})'
+
+    @property
+    def powo_pretty(self) -> str:
+        if not self.powo_id:
+            return 'Unknown'
+        return f'[{self.powo_id}]({self.powo_url})'
+
+    @property
+    def iucn_pretty(self) -> str:
+        if not self.iucn_id:
+            return 'Unknown'
+        return f'{self.iucn_category_humanized} [{self.iucn_id}]'
+
+    @property
     def description_lines(self):
         return [
             '|  |  |',
@@ -41,6 +59,11 @@ class MetaDataREADME:
             f'| **Other Candidates** | {self.other_candidates_pretty} |',
             '|  |  |',
 
+            f'! **GBIF** | {self.gbif_pretty} |',
+            f'! **POWO** | {self.powo_pretty} |',
+            f'! **IUCN** | {self.iucn_pretty} |',
+
+            '|  |  |',
             f'| **Time** | {self.time_str} |',
             f'| **Camera Direction** | {self.direction_pretty} |',
             f'| **Location** | {self.google_maps_link} |',
