@@ -120,4 +120,4 @@ class MetaDataBasePlantNet:
     def iucn_category_humanized(self) -> str:
         description = self.IUCN_CATEGORY_TO_DESCRIPTION.get(
             self.iucn_category, 'Unknown Category')
-        return f'{self.description} ({self.iucn_category})'
+        return f'{description} ({self.iucn_category})'
