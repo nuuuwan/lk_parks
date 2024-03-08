@@ -105,7 +105,8 @@ class MetaDataBasePlantNet:
 
     @property
     def iucn_url(self) -> str:
-        return f'https://www.iucnredlist.org/species/{self.iucn_id}'
+        return 'https://www.iucnredlist.org/search' + \
+            f'?query={self.scientific_name}' + '&searchType=species'
 
     @property
     def iucn_category(self) -> str:
@@ -115,5 +116,6 @@ class MetaDataBasePlantNet:
 
     @property
     def iucn_category_humanized(self) -> str:
-        return self.IUCN_CATEGORY_TO_DESCRIPTION.get(
+        description = self.IUCN_CATEGORY_TO_DESCRIPTION.get(
             self.iucn_category, 'Unknown Category')
+        return f'{self.iucn_category} ({description})'

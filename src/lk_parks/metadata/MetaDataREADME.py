@@ -48,7 +48,7 @@ class MetaDataREADME:
     def iucn_pretty(self) -> str:
         if not self.iucn_id:
             return 'Unknown'
-        return f'{self.iucn_category_humanized} [{self.iucn_id}]'
+        return f'`{self.iucn_category_humanized}` [{self.iucn_id}]({self.iucn_url})'
 
     @property
     def description_lines(self):

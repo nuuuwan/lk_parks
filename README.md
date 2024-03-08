@@ -23,7 +23,7 @@
 |  |  |
 | **GBIF** | [3974744](https://www.gbif.org/species/3974744) |
 | **POWO** | [77089275-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77089275-1) |
-| **IUCN** | 🟢 Least Concern [158379] |
+| **IUCN** | `LC (🟢 Least Concern)` [158379](https://www.iucnredlist.org/search?query=Vachellia nilotica&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 289.9° (W) |
@@ -67,7 +67,7 @@
 |  |  |
 | **GBIF** | [3172537](https://www.gbif.org/species/3172537) |
 | **POWO** | [111027-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:111027-1) |
-| **IUCN** | 🟢 Least Concern [61986278] |
+| **IUCN** | `LC (🟢 Least Concern)` [61986278](https://www.iucnredlist.org/search?query=Tabebuia rosea&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 346.8° (N) |
@@ -89,7 +89,7 @@
 |  |  |
 | **GBIF** | [3034015](https://www.gbif.org/species/3034015) |
 | **POWO** | [465049-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:465049-1) |
-| **IUCN** | 🟢 Least Concern [203351] |
+| **IUCN** | `LC (🟢 Least Concern)` [203351](https://www.iucnredlist.org/search?query=Laurus nobilis&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 303.6° (NW) |
@@ -111,7 +111,7 @@
 |  |  |
 | **GBIF** | [5357546](https://www.gbif.org/species/5357546) |
 | **POWO** | [128804-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:128804-2) |
-| **IUCN** | 🟢 Least Concern [62026250] |
+| **IUCN** | `LC (🟢 Least Concern)` [62026250](https://www.iucnredlist.org/search?query=Inga uraguensis&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 356.1° (N) |
@@ -133,7 +133,7 @@
 |  |  |
 | **GBIF** | [3699873](https://www.gbif.org/species/3699873) |
 | **POWO** | [171229-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:171229-1) |
-| **IUCN** | 🟢 Least Concern [128091369] |
+| **IUCN** | `LC (🟢 Least Concern)` [128091369](https://www.iucnredlist.org/search?query=Terminalia mantaly&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 349.7° (N) |
@@ -155,7 +155,7 @@
 |  |  |
 | **GBIF** | [3190638](https://www.gbif.org/species/3190638) |
 | **POWO** | [69913-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:69913-1) |
-| **IUCN** | ⚪ Data Deficient [31389] |
+| **IUCN** | `DD (⚪ Data Deficient)` [31389](https://www.iucnredlist.org/search?query=Mangifera indica&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 331.8° (NW) |
@@ -177,7 +177,7 @@
 |  |  |
 | **GBIF** | [3189394](https://www.gbif.org/species/3189394) |
 | **POWO** | [171034-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:171034-1) |
-| **IUCN** | 🟢 Least Concern [61989853] |
+| **IUCN** | `LC (🟢 Least Concern)` [61989853](https://www.iucnredlist.org/search?query=Terminalia catappa&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 273.6° (W) |
@@ -199,7 +199,7 @@
 |  |  |
 | **GBIF** | [3190472](https://www.gbif.org/species/3190472) |
 | **POWO** | [579299-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:579299-1) |
-| **IUCN** | 🟢 Least Concern [31332] |
+| **IUCN** | `LC (🟢 Least Concern)` [31332](https://www.iucnredlist.org/search?query=Toona ciliata&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 342.5° (N) |
@@ -243,7 +243,7 @@
 |  |  |
 | **GBIF** | [5358300](https://www.gbif.org/species/5358300) |
 | **POWO** | [473043-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:473043-1) |
-| **IUCN** | 🟡 Vulnerable [33032] |
+| **IUCN** | `VU (🟡 Vulnerable)` [33032](https://www.iucnredlist.org/search?query=Afzelia africana&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 350.4° (N) |
@@ -287,7 +287,7 @@
 |  |  |
 | **GBIF** | [3189663](https://www.gbif.org/species/3189663) |
 | **POWO** | [828593-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:828593-1) |
-| **IUCN** | 🟢 Least Concern [144313008] |
+| **IUCN** | `LC (🟢 Least Concern)` [144313008](https://www.iucnredlist.org/search?query=Caryocar brasiliense&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 277.3° (W) |
@@ -331,7 +331,7 @@
 |  |  |
 | **GBIF** | [3172527](https://www.gbif.org/species/3172527) |
 | **POWO** | [110996-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:110996-1) |
-| **IUCN** | 🟢 Least Concern [61986231] |
+| **IUCN** | `LC (🟢 Least Concern)` [61986231](https://www.iucnredlist.org/search?query=Tabebuia pallida&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 240.1° (SW) |
@@ -353,7 +353,7 @@
 |  |  |
 | **GBIF** | [3172527](https://www.gbif.org/species/3172527) |
 | **POWO** | [110996-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:110996-1) |
-| **IUCN** | 🟢 Least Concern [61986231] |
+| **IUCN** | `LC (🟢 Least Concern)` [61986231](https://www.iucnredlist.org/search?query=Tabebuia pallida&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 241.5° (SW) |
@@ -375,7 +375,7 @@
 |  |  |
 | **GBIF** | [3169677](https://www.gbif.org/species/3169677) |
 | **POWO** | [81256-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:81256-1) |
-| **IUCN** | 🟢 Least Concern [156770956] |
+| **IUCN** | `LC (🟢 Least Concern)` [156770956](https://www.iucnredlist.org/search?query=Plumeria obtusa&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 264.4° (W) |
@@ -397,7 +397,7 @@
 |  |  |
 | **GBIF** | [5357108](https://www.gbif.org/species/5357108) |
 | **POWO** | [484507-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:484507-1) |
-| **IUCN** | 🟢 Least Concern [136142327] |
+| **IUCN** | `LC (🟢 Least Concern)` [136142327](https://www.iucnredlist.org/search?query=Cassia fistula&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 11.5° (N) |
@@ -419,7 +419,7 @@
 |  |  |
 | **GBIF** | [3765871](https://www.gbif.org/species/3765871) |
 | **POWO** | [853577-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:853577-1) |
-| **IUCN** | 🟢 Least Concern [72278682] |
+| **IUCN** | `LC (🟢 Least Concern)` [72278682](https://www.iucnredlist.org/search?query=Ficus retusa&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 77.1° (E) |
@@ -441,7 +441,7 @@
 |  |  |
 | **GBIF** | [3169677](https://www.gbif.org/species/3169677) |
 | **POWO** | [81256-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:81256-1) |
-| **IUCN** | 🟢 Least Concern [156770956] |
+| **IUCN** | `LC (🟢 Least Concern)` [156770956](https://www.iucnredlist.org/search?query=Plumeria obtusa&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 229.4° (SW) |
@@ -529,7 +529,7 @@
 |  |  |
 | **GBIF** | [5357677](https://www.gbif.org/species/5357677) |
 | **POWO** | [128478-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:128478-2) |
-| **IUCN** | 🟢 Least Concern [137640618] |
+| **IUCN** | `LC (🟢 Least Concern)` [137640618](https://www.iucnredlist.org/search?query=Inga edulis&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 250.0° (W) |
@@ -551,7 +551,7 @@
 |  |  |
 | **GBIF** | [3054368](https://www.gbif.org/species/3054368) |
 | **POWO** | [442427-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:442427-1) |
-| **IUCN** | 🟢 Least Concern [63495] |
+| **IUCN** | `LC (🟢 Least Concern)` [63495](https://www.iucnredlist.org/search?query=Juglans regia&searchType=species) |
 |  |  |
 | **Time** | 07:12 AM (Dec 31, 2023) |
 | **Camera Direction** | 271.5° (W) |
@@ -573,7 +573,7 @@
 |  |  |
 | **GBIF** | [3172325](https://www.gbif.org/species/3172325) |
 | **POWO** | [608968-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:608968-1) |
-| **IUCN** | 🟢 Least Concern [35953] |
+| **IUCN** | `LC (🟢 Least Concern)` [35953](https://www.iucnredlist.org/search?query=Fraxinus chinensis&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 267.0° (W) |
@@ -595,7 +595,7 @@
 |  |  |
 | **GBIF** | [5415832](https://www.gbif.org/species/5415832) |
 | **POWO** | [598073-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:598073-1) |
-| **IUCN** | 🟢 Least Concern [49278407] |
+| **IUCN** | `LC (🟢 Least Concern)` [49278407](https://www.iucnredlist.org/search?query=Melaleuca quinquenervia&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 4.1° (N) |
@@ -617,7 +617,7 @@
 |  |  |
 | **GBIF** | [2956176](https://www.gbif.org/species/2956176) |
 | **POWO** | Unknown |
-| **IUCN** | 🟢 Least Concern [32947] |
+| **IUCN** | `LC (🟢 Least Concern)` [32947](https://www.iucnredlist.org/search?query=Delonix regia&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 255.8° (W) |
@@ -661,7 +661,7 @@
 |  |  |
 | **GBIF** | [2883768](https://www.gbif.org/species/2883768) |
 | **POWO** | [787918-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:787918-1) |
-| **IUCN** | 🟢 Least Concern [61964765] |
+| **IUCN** | `LC (🟢 Least Concern)` [61964765](https://www.iucnredlist.org/search?query=Mimusops elengi&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 299.7° (NW) |
@@ -705,7 +705,7 @@
 |  |  |
 | **GBIF** | [3033991](https://www.gbif.org/species/3033991) |
 | **POWO** | [463336-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:463336-1) |
-| **IUCN** | 🟢 Least Concern [15441072] |
+| **IUCN** | `LC (🟢 Least Concern)` [15441072](https://www.iucnredlist.org/search?query=Cinnamomum camphora&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 311.0° (NW) |
@@ -727,7 +727,7 @@
 |  |  |
 | **GBIF** | [3172537](https://www.gbif.org/species/3172537) |
 | **POWO** | [111027-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:111027-1) |
-| **IUCN** | 🟢 Least Concern [61986278] |
+| **IUCN** | `LC (🟢 Least Concern)` [61986278](https://www.iucnredlist.org/search?query=Tabebuia rosea&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 267.9° (W) |
@@ -749,7 +749,7 @@
 |  |  |
 | **GBIF** | [3054181](https://www.gbif.org/species/3054181) |
 | **POWO** | [584736-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:584736-1) |
-| **IUCN** | 🟢 Least Concern [61890232] |
+| **IUCN** | `LC (🟢 Least Concern)` [61890232](https://www.iucnredlist.org/search?query=Moringa oleifera&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 230.4° (SW) |
@@ -771,7 +771,7 @@
 |  |  |
 | **GBIF** | [5415976](https://www.gbif.org/species/5415976) |
 | **POWO** | [598002-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:598002-1) |
-| **IUCN** | ⚪ Data Deficient [61917032] |
+| **IUCN** | `DD (⚪ Data Deficient)` [61917032](https://www.iucnredlist.org/search?query=Melaleuca leucadendra&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 337.3° (NW) |
@@ -793,7 +793,7 @@
 |  |  |
 | **GBIF** | [3190472](https://www.gbif.org/species/3190472) |
 | **POWO** | [579299-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:579299-1) |
-| **IUCN** | 🟢 Least Concern [31332] |
+| **IUCN** | `LC (🟢 Least Concern)` [31332](https://www.iucnredlist.org/search?query=Toona ciliata&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 162.9° (S) |
@@ -815,7 +815,7 @@
 |  |  |
 | **GBIF** | [5357108](https://www.gbif.org/species/5357108) |
 | **POWO** | [484507-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:484507-1) |
-| **IUCN** | 🟢 Least Concern [136142327] |
+| **IUCN** | `LC (🟢 Least Concern)` [136142327](https://www.iucnredlist.org/search?query=Cassia fistula&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 230.0° (SW) |
@@ -837,7 +837,7 @@
 |  |  |
 | **GBIF** | [2985500](https://www.gbif.org/species/2985500) |
 | **POWO** | [726782-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:726782-1) |
-| **IUCN** | 🟢 Least Concern [189620212] |
+| **IUCN** | `LC (🟢 Least Concern)` [189620212](https://www.iucnredlist.org/search?query=Moquilea tomentosa&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 334.7° (NW) |
@@ -859,7 +859,7 @@
 |  |  |
 | **GBIF** | [5415832](https://www.gbif.org/species/5415832) |
 | **POWO** | [598073-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:598073-1) |
-| **IUCN** | 🟢 Least Concern [49278407] |
+| **IUCN** | `LC (🟢 Least Concern)` [49278407](https://www.iucnredlist.org/search?query=Melaleuca quinquenervia&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 327.3° (NW) |
@@ -881,7 +881,7 @@
 |  |  |
 | **GBIF** | [9119360](https://www.gbif.org/species/9119360) |
 | **POWO** | [77158012-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77158012-1) |
-| **IUCN** | 🟠 Endangered [33974] |
+| **IUCN** | `EN (🟠 Endangered)` [33974](https://www.iucnredlist.org/search?query=Paubrasilia echinata&searchType=species) |
 |  |  |
 | **Time** | 07:12 AM (Dec 19, 2023) |
 | **Camera Direction** | 251.7° (W) |
@@ -925,7 +925,7 @@
 |  |  |
 | **GBIF** | [2733755](https://www.gbif.org/species/2733755) |
 | **POWO** | [222809-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:222809-2) |
-| **IUCN** | 🟢 Least Concern [62329] |
+| **IUCN** | `LC (🟢 Least Concern)` [62329](https://www.iucnredlist.org/search?query=Roystonea regia&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 179.0° (S) |
@@ -947,7 +947,7 @@
 |  |  |
 | **GBIF** | [5421368](https://www.gbif.org/species/5421368) |
 | **POWO** | [319068-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:319068-2) |
-| **IUCN** | 🟢 Least Concern [60761600] |
+| **IUCN** | `LC (🟢 Least Concern)` [60761600](https://www.iucnredlist.org/search?query=Anacardium occidentale&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 311.7° (NW) |
@@ -969,7 +969,7 @@
 |  |  |
 | **GBIF** | [3190638](https://www.gbif.org/species/3190638) |
 | **POWO** | [69913-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:69913-1) |
-| **IUCN** | ⚪ Data Deficient [31389] |
+| **IUCN** | `DD (⚪ Data Deficient)` [31389](https://www.iucnredlist.org/search?query=Mangifera indica&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 276.7° (W) |
@@ -991,7 +991,7 @@
 |  |  |
 | **GBIF** | [5361903](https://www.gbif.org/species/5361903) |
 | **POWO** | [60458499-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60458499-2) |
-| **IUCN** | 🟢 Least Concern [116271522] |
+| **IUCN** | `LC (🟢 Least Concern)` [116271522](https://www.iucnredlist.org/search?query=Ficus elastica&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 277.9° (W) |
@@ -1013,7 +1013,7 @@
 |  |  |
 | **GBIF** | [5361935](https://www.gbif.org/species/5361935) |
 | **POWO** | [853563-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:853563-1) |
-| **IUCN** | 🟢 Least Concern [150222331] |
+| **IUCN** | `LC (🟢 Least Concern)` [150222331](https://www.iucnredlist.org/search?query=Ficus religiosa&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 219.1° (SW) |
@@ -1035,7 +1035,7 @@
 |  |  |
 | **GBIF** | [3190472](https://www.gbif.org/species/3190472) |
 | **POWO** | [579299-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:579299-1) |
-| **IUCN** | 🟢 Least Concern [31332] |
+| **IUCN** | `LC (🟢 Least Concern)` [31332](https://www.iucnredlist.org/search?query=Toona ciliata&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 219.9° (SW) |
@@ -1057,7 +1057,7 @@
 |  |  |
 | **GBIF** | [3183840](https://www.gbif.org/species/3183840) |
 | **POWO** | [601603-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:601603-1) |
-| **IUCN** | 🟢 Least Concern [49487196] |
+| **IUCN** | `LC (🟢 Least Concern)` [49487196](https://www.iucnredlist.org/search?query=Syzygium cumini&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 338.1° (N) |
@@ -1079,7 +1079,7 @@
 |  |  |
 | **GBIF** | [3183840](https://www.gbif.org/species/3183840) |
 | **POWO** | [601603-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:601603-1) |
-| **IUCN** | 🟢 Least Concern [49487196] |
+| **IUCN** | `LC (🟢 Least Concern)` [49487196](https://www.iucnredlist.org/search?query=Syzygium cumini&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 334.2° (NW) |
@@ -1101,7 +1101,7 @@
 |  |  |
 | **GBIF** | [2925649](https://www.gbif.org/species/2925649) |
 | **POWO** | [864923-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:864923-1) |
-| **IUCN** | 🟠 Endangered [62019830] |
+| **IUCN** | `EN (🟠 Endangered)` [62019830](https://www.iucnredlist.org/search?query=Tectona grandis&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 4.5° (N) |
@@ -1123,7 +1123,7 @@
 |  |  |
 | **GBIF** | [2891930](https://www.gbif.org/species/2891930) |
 | **POWO** | [159856-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:159856-1) |
-| **IUCN** | 🟢 Least Concern [16728404] |
+| **IUCN** | `LC (🟢 Least Concern)` [16728404](https://www.iucnredlist.org/search?query=Casuarina equisetifolia&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 71.2° (E) |
@@ -1145,7 +1145,7 @@
 |  |  |
 | **GBIF** | [6358534](https://www.gbif.org/species/6358534) |
 | **POWO** | [853024-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:853024-1) |
-| **IUCN** | 🟢 Least Concern [61886011] |
+| **IUCN** | `LC (🟢 Least Concern)` [61886011](https://www.iucnredlist.org/search?query=Ficus insipida&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 137.3° (SE) |
@@ -1167,7 +1167,7 @@
 |  |  |
 | **GBIF** | [4070235](https://www.gbif.org/species/4070235) |
 | **POWO** | [322176-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:322176-1) |
-| **IUCN** | 🟢 Least Concern [173387] |
+| **IUCN** | `LC (🟢 Least Concern)` [173387](https://www.iucnredlist.org/search?query=Diospyros buxifolia&searchType=species) |
 |  |  |
 | **Time** | 07:01 AM (Jan 19, 2024) |
 | **Camera Direction** | 345.8° (N) |
@@ -1189,7 +1189,7 @@
 |  |  |
 | **GBIF** | [9119360](https://www.gbif.org/species/9119360) |
 | **POWO** | [77158012-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77158012-1) |
-| **IUCN** | 🟠 Endangered [33974] |
+| **IUCN** | `EN (🟠 Endangered)` [33974](https://www.iucnredlist.org/search?query=Paubrasilia echinata&searchType=species) |
 |  |  |
 | **Time** | 07:01 AM (Jan 19, 2024) |
 | **Camera Direction** | 358.2° (N) |
@@ -1211,7 +1211,7 @@
 |  |  |
 | **GBIF** | [5415832](https://www.gbif.org/species/5415832) |
 | **POWO** | [598073-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:598073-1) |
-| **IUCN** | 🟢 Least Concern [49278407] |
+| **IUCN** | `LC (🟢 Least Concern)` [49278407](https://www.iucnredlist.org/search?query=Melaleuca quinquenervia&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 302.5° (NW) |
@@ -1233,7 +1233,7 @@
 |  |  |
 | **GBIF** | [3190598](https://www.gbif.org/species/3190598) |
 | **POWO** | [71494-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:71494-1) |
-| **IUCN** | 🟢 Least Concern [144248337] |
+| **IUCN** | `LC (🟢 Least Concern)` [144248337](https://www.iucnredlist.org/search?query=Spondias purpurea&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 266.9° (W) |
@@ -1255,7 +1255,7 @@
 |  |  |
 | **GBIF** | [5415832](https://www.gbif.org/species/5415832) |
 | **POWO** | [598073-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:598073-1) |
-| **IUCN** | 🟢 Least Concern [49278407] |
+| **IUCN** | `LC (🟢 Least Concern)` [49278407](https://www.iucnredlist.org/search?query=Melaleuca quinquenervia&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 308.4° (NW) |
@@ -1277,7 +1277,7 @@
 |  |  |
 | **GBIF** | [3172537](https://www.gbif.org/species/3172537) |
 | **POWO** | [111027-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:111027-1) |
-| **IUCN** | 🟢 Least Concern [61986278] |
+| **IUCN** | `LC (🟢 Least Concern)` [61986278](https://www.iucnredlist.org/search?query=Tabebuia rosea&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 96.7° (E) |
@@ -1299,7 +1299,7 @@
 |  |  |
 | **GBIF** | [2902066](https://www.gbif.org/species/2902066) |
 | **POWO** | [752194-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:752194-1) |
-| **IUCN** | 🟢 Least Concern [136789578] |
+| **IUCN** | `LC (🟢 Least Concern)` [136789578](https://www.iucnredlist.org/search?query=Hamelia patens&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 240.4° (SW) |
@@ -1321,7 +1321,7 @@
 |  |  |
 | **GBIF** | [3189977](https://www.gbif.org/species/3189977) |
 | **POWO** | [128045-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:128045-1) |
-| **IUCN** | 🟢 Least Concern [165432282] |
+| **IUCN** | `LC (🟢 Least Concern)` [165432282](https://www.iucnredlist.org/search?query=Filicium decipiens&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 266.5° (W) |
@@ -1343,7 +1343,7 @@
 |  |  |
 | **GBIF** | [3172537](https://www.gbif.org/species/3172537) |
 | **POWO** | [111027-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:111027-1) |
-| **IUCN** | 🟢 Least Concern [61986278] |
+| **IUCN** | `LC (🟢 Least Concern)` [61986278](https://www.iucnredlist.org/search?query=Tabebuia rosea&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 276.5° (W) |
@@ -1365,7 +1365,7 @@
 |  |  |
 | **GBIF** | [5341270](https://www.gbif.org/species/5341270) |
 | **POWO** | [114098-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:114098-1) |
-| **IUCN** | 🟢 Least Concern [61986401] |
+| **IUCN** | `LC (🟢 Least Concern)` [61986401](https://www.iucnredlist.org/search?query=Cordia dichotoma&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 109.8° (E) |
@@ -1387,7 +1387,7 @@
 |  |  |
 | **GBIF** | [3054357](https://www.gbif.org/species/3054357) |
 | **POWO** | [279034-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:279034-2) |
-| **IUCN** | 🟢 Least Concern [62019712] |
+| **IUCN** | `LC (🟢 Least Concern)` [62019712](https://www.iucnredlist.org/search?query=Juglans nigra&searchType=species) |
 |  |  |
 | **Time** | 07:02 AM (Feb 22, 2024) |
 | **Camera Direction** | 100.4° (E) |
@@ -1409,7 +1409,7 @@
 |  |  |
 | **GBIF** | [3172537](https://www.gbif.org/species/3172537) |
 | **POWO** | [111027-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:111027-1) |
-| **IUCN** | 🟢 Least Concern [61986278] |
+| **IUCN** | `LC (🟢 Least Concern)` [61986278](https://www.iucnredlist.org/search?query=Tabebuia rosea&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 292.3° (W) |
@@ -1453,7 +1453,7 @@
 |  |  |
 | **GBIF** | [3190485](https://www.gbif.org/species/3190485) |
 | **POWO** | [1080203-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1080203-2) |
-| **IUCN** | 🟡 Near Threatened [32519] |
+| **IUCN** | `NT (🟡 Near Threatened)` [32519](https://www.iucnredlist.org/search?query=Swietenia mahagoni&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 36.1° (NE) |
@@ -1475,7 +1475,7 @@
 |  |  |
 | **GBIF** | [2953251](https://www.gbif.org/species/2953251) |
 | **POWO** | [481756-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:481756-1) |
-| **IUCN** | 🟢 Least Concern [19893142] |
+| **IUCN** | `LC (🟢 Least Concern)` [19893142](https://www.iucnredlist.org/search?query=Bauhinia variegata&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 256.8° (W) |
@@ -1497,7 +1497,7 @@
 |  |  |
 | **GBIF** | [3154093](https://www.gbif.org/species/3154093) |
 | **POWO** | [74147-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:74147-1) |
-| **IUCN** | 🟢 Least Concern [132683676] |
+| **IUCN** | `LC (🟢 Least Concern)` [132683676](https://www.iucnredlist.org/search?query=Monodora tenuifolia&searchType=species) |
 |  |  |
 | **Time** | 07:01 AM (Jan 10, 2024) |
 | **Camera Direction** | 230.7° (SW) |
@@ -1519,7 +1519,7 @@
 |  |  |
 | **GBIF** | [7325923](https://www.gbif.org/species/7325923) |
 | **POWO** | [610971-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:610971-1) |
-| **IUCN** | 🟢 Least Concern [79919776] |
+| **IUCN** | `LC (🟢 Least Concern)` [79919776](https://www.iucnredlist.org/search?query=Phillyrea latifolia&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 24.7° (NE) |
@@ -1541,7 +1541,7 @@
 |  |  |
 | **GBIF** | [2891930](https://www.gbif.org/species/2891930) |
 | **POWO** | [159856-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:159856-1) |
-| **IUCN** | 🟢 Least Concern [16728404] |
+| **IUCN** | `LC (🟢 Least Concern)` [16728404](https://www.iucnredlist.org/search?query=Casuarina equisetifolia&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 260.6° (W) |
@@ -1563,7 +1563,7 @@
 |  |  |
 | **GBIF** | [3177189](https://www.gbif.org/species/3177189) |
 | **POWO** | [593359-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:593359-1) |
-| **IUCN** | 🟢 Least Concern [133377043] |
+| **IUCN** | `LC (🟢 Least Concern)` [133377043](https://www.iucnredlist.org/search?query=Eucalyptus sideroxylon&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 338.0° (N) |
@@ -1585,7 +1585,7 @@
 |  |  |
 | **GBIF** | [5331532](https://www.gbif.org/species/5331532) |
 | **POWO** | [295155-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:295155-1) |
-| **IUCN** | 🟢 Least Concern [194551] |
+| **IUCN** | `LC (🟢 Least Concern)` [194551](https://www.iucnredlist.org/search?query=Betula nigra&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 284.9° (W) |
@@ -1607,7 +1607,7 @@
 |  |  |
 | **GBIF** | [3190638](https://www.gbif.org/species/3190638) |
 | **POWO** | [69913-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:69913-1) |
-| **IUCN** | ⚪ Data Deficient [31389] |
+| **IUCN** | `DD (⚪ Data Deficient)` [31389](https://www.iucnredlist.org/search?query=Mangifera indica&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 207.1° (SW) |
@@ -1629,7 +1629,7 @@
 |  |  |
 | **GBIF** | [3172537](https://www.gbif.org/species/3172537) |
 | **POWO** | [111027-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:111027-1) |
-| **IUCN** | 🟢 Least Concern [61986278] |
+| **IUCN** | `LC (🟢 Least Concern)` [61986278](https://www.iucnredlist.org/search?query=Tabebuia rosea&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 54.8° (NE) |
@@ -1673,7 +1673,7 @@
 |  |  |
 | **GBIF** | [2891930](https://www.gbif.org/species/2891930) |
 | **POWO** | [159856-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:159856-1) |
-| **IUCN** | 🟢 Least Concern [16728404] |
+| **IUCN** | `LC (🟢 Least Concern)` [16728404](https://www.iucnredlist.org/search?query=Casuarina equisetifolia&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 256.3° (W) |
@@ -1695,7 +1695,7 @@
 |  |  |
 | **GBIF** | [2925403](https://www.gbif.org/species/2925403) |
 | **POWO** | [861130-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:861130-1) |
-| **IUCN** | 🟢 Least Concern [178828] |
+| **IUCN** | `LC (🟢 Least Concern)` [178828](https://www.iucnredlist.org/search?query=Avicennia marina&searchType=species) |
 |  |  |
 | **Time** | 07:12 AM (Dec 31, 2023) |
 | **Camera Direction** | 180.4° (S) |
@@ -1717,7 +1717,7 @@
 |  |  |
 | **GBIF** | [5361923](https://www.gbif.org/species/5361923) |
 | **POWO** | [852451-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:852451-1) |
-| **IUCN** | 🟢 Least Concern [181217702] |
+| **IUCN** | `LC (🟢 Least Concern)` [181217702](https://www.iucnredlist.org/search?query=Ficus aurea&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 51.0° (NE) |
@@ -1805,7 +1805,7 @@
 |  |  |
 | **GBIF** | [5361903](https://www.gbif.org/species/5361903) |
 | **POWO** | [60458499-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60458499-2) |
-| **IUCN** | 🟢 Least Concern [116271522] |
+| **IUCN** | `LC (🟢 Least Concern)` [116271522](https://www.iucnredlist.org/search?query=Ficus elastica&searchType=species) |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 85.7° (E) |
@@ -1827,7 +1827,7 @@
 |  |  |
 | **GBIF** | [2733755](https://www.gbif.org/species/2733755) |
 | **POWO** | [222809-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:222809-2) |
-| **IUCN** | 🟢 Least Concern [62329] |
+| **IUCN** | `LC (🟢 Least Concern)` [62329](https://www.iucnredlist.org/search?query=Roystonea regia&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 81.0° (E) |
@@ -1849,7 +1849,7 @@
 |  |  |
 | **GBIF** | [2733755](https://www.gbif.org/species/2733755) |
 | **POWO** | [222809-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:222809-2) |
-| **IUCN** | 🟢 Least Concern [62329] |
+| **IUCN** | `LC (🟢 Least Concern)` [62329](https://www.iucnredlist.org/search?query=Roystonea regia&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 73.5° (E) |
@@ -1871,7 +1871,7 @@
 |  |  |
 | **GBIF** | [5357158](https://www.gbif.org/species/5357158) |
 | **POWO** | [484607-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:484607-1) |
-| **IUCN** | 🟢 Least Concern [144277575] |
+| **IUCN** | `LC (🟢 Least Concern)` [144277575](https://www.iucnredlist.org/search?query=Cassia grandis&searchType=species) |
 |  |  |
 | **Time** | 07:01 AM (Jan 18, 2024) |
 | **Camera Direction** | 304.8° (NW) |
@@ -1893,7 +1893,7 @@
 |  |  |
 | **GBIF** | [3169625](https://www.gbif.org/species/3169625) |
 | **POWO** | [82097-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:82097-1) |
-| **IUCN** | 🟢 Least Concern [149853146] |
+| **IUCN** | `LC (🟢 Least Concern)` [149853146](https://www.iucnredlist.org/search?query=Tabernaemontana divaricata&searchType=species) |
 |  |  |
 | **Time** | 07:02 AM (Feb 24, 2024) |
 | **Camera Direction** | 142.0° (SE) |
@@ -1915,7 +1915,7 @@
 |  |  |
 | **GBIF** | [2736620](https://www.gbif.org/species/2736620) |
 | **POWO** | [903383-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:903383-1) |
-| **IUCN** | Unknown Category [38733] |
+| **IUCN** | `LR/cd (Unknown Category)` [38733](https://www.iucnredlist.org/search?query=Wodyetia bifurcata&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 104.9° (E) |
@@ -1937,7 +1937,7 @@
 |  |  |
 | **GBIF** | [5349755](https://www.gbif.org/species/5349755) |
 | **POWO** | [96637-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:96637-2) |
-| **IUCN** | 🟢 Least Concern [144314476] |
+| **IUCN** | `LC (🟢 Least Concern)` [144314476](https://www.iucnredlist.org/search?query=Erythrina poeppigiana&searchType=species) |
 |  |  |
 | **Time** | 07:12 AM (Dec 30, 2023) |
 | **Camera Direction** | 46.4° (NE) |
@@ -1981,7 +1981,7 @@
 |  |  |
 | **GBIF** | [2878092](https://www.gbif.org/species/2878092) |
 | **POWO** | [324846-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:324846-2) |
-| **IUCN** | 🟢 Least Concern [194245] |
+| **IUCN** | `LC (🟢 Least Concern)` [194245](https://www.iucnredlist.org/search?query=Quercus virginiana&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 159.1° (S) |
@@ -2025,7 +2025,7 @@
 |  |  |
 | **GBIF** | [2687779](https://www.gbif.org/species/2687779) |
 | **POWO** | [262544-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:262544-1) |
-| **IUCN** | 🟡 Near Threatened [46347417] |
+| **IUCN** | `NT (🟡 Near Threatened)` [46347417](https://www.iucnredlist.org/search?query=Nageia nagi&searchType=species) |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 272.0° (W) |
