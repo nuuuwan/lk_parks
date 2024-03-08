@@ -71,6 +71,9 @@ class MetaDataREADME:
     @property
     def species_lines(self):
         return [
+            '',
+            f'*{self.common_names_pretty}*'
+            '',
             '|  |  |',
 
             '| --- | --- |',
@@ -79,7 +82,6 @@ class MetaDataREADME:
             # f'{self.authorship} |',
             # f'| **Genus** | {MetaDataREADME.get_wiki_link(self.genus)} |',
             # f'| **Family** | {MetaDataREADME.get_wiki_link(self.family)} |',
-            f'| **Common Names** | {self.common_names_pretty} |',
             f'| **Global Biodiversity Information Facility (GBIF)** | {self.gbif_pretty} |',
             f'| **Plants of the World Online (POWO)** | {self.powo_pretty} |',
             f'| **International Union for Conservation of Nature (IUCN)** | {self.iucn_pretty} |',
@@ -123,7 +125,7 @@ class MetaDataREADME:
             for genus, idx_genus in idx_family.items():
                 lines.extend(
                     [f'## {MetaDataREADME.get_wiki_link(genus)}', ''])
-                for species, md_list in idx_genus.items():
+                for __, md_list in idx_genus.items():
                     n = len(md_list)
                     n_str = f'({n} Examples)' if n > 1 else '(1 Example)'
                     md0 = md_list[0]
