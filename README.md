@@ -19,7 +19,7 @@
 
 ![data/images/Photo-2023-12-31-07-53-22.jpg](data/images/Photo-2023-12-31-07-53-22.jpg)
 
-[❓ 20.5% Identification Confidence. Also could be Camellia sinensis (3.9%), Myrtus communis (1.7%), Salix euxina (1.4%), Salix pentandra (1.1%)]
+*❓ 20.5% Identification Confidence. Also could be [Camellia sinensis](https://en.wikipedia.org/wiki/Camellia_sinensis) (3.9%), [Myrtus communis](https://en.wikipedia.org/wiki/Myrtus_communis) (1.7%), [Salix euxina](https://en.wikipedia.org/wiki/Salix_euxina) (1.4%), [Salix pentandra](https://en.wikipedia.org/wiki/Salix_pentandra) (1.1%)*
 
 
 # [Anacardiaceae](https://en.wikipedia.org/wiki/Anacardiaceae)
@@ -43,7 +43,7 @@
 
 ![data/images/Photo-2024-03-08-06-58-10.jpg](data/images/Photo-2024-03-08-06-58-10.jpg)
 
-[❓ 16.5% Identification Confidence. Also could be Kigelia africana (12.0%), Schleichera oleosa (11.6%), Psidium guajava (9.8%), Trichilia dregeana (4.6%)]
+*❓ 16.5% Identification Confidence. Also could be [Kigelia africana](https://en.wikipedia.org/wiki/Kigelia_africana) (12.0%), [Schleichera oleosa](https://en.wikipedia.org/wiki/Schleichera_oleosa) (11.6%), [Psidium guajava](https://en.wikipedia.org/wiki/Psidium_guajava) (9.8%), [Trichilia dregeana](https://en.wikipedia.org/wiki/Trichilia_dregeana) (4.6%)*
 
 
 ## [Mangifera](https://en.wikipedia.org/wiki/Mangifera)
@@ -65,21 +65,21 @@
 
 ![data/images/Photo-2024-03-08-06-55-31.jpg](data/images/Photo-2024-03-08-06-55-31.jpg)
 
-[❓ 7.3% Identification Confidence. Also could be Aegle marmelos (6.6%), Qualea parviflora (4.1%), Phytolacca dioica (4.1%), Quercus humboldtii (3.2%)]
+*❓ 7.3% Identification Confidence. Also could be [Aegle marmelos](https://en.wikipedia.org/wiki/Aegle_marmelos) (6.6%), [Qualea parviflora](https://en.wikipedia.org/wiki/Qualea_parviflora) (4.1%), [Phytolacca dioica](https://en.wikipedia.org/wiki/Phytolacca_dioica) (4.1%), [Quercus humboldtii](https://en.wikipedia.org/wiki/Quercus_humboldtii) (3.2%)*
 
 
 #### ❓07:06 AM (Mar 08, 2024) · [6.9153°N,79.8618°E](https://www.google.com/maps/place/6.915297N,79.8618E)
 
 ![data/images/Photo-2024-03-08-07-06-50.jpg](data/images/Photo-2024-03-08-07-06-50.jpg)
 
-[❓ 17.5% Identification Confidence. Also could be × Chitalpa tashkentensis (5.0%), Mimusops elengi (4.9%), Quercus acutissima (3.5%), Acacia auriculiformis (3.4%)]
+*❓ 17.5% Identification Confidence. Also could be [× Chitalpa tashkentensis](https://en.wikipedia.org/wiki/×_Chitalpa_tashkentensis) (5.0%), [Mimusops elengi](https://en.wikipedia.org/wiki/Mimusops_elengi) (4.9%), [Quercus acutissima](https://en.wikipedia.org/wiki/Quercus_acutissima) (3.5%), [Acacia auriculiformis](https://en.wikipedia.org/wiki/Acacia_auriculiformis) (3.4%)*
 
 
 #### ❓07:15 AM (Mar 08, 2024) · [6.9142°N,79.8621°E](https://www.google.com/maps/place/6.914233N,79.862061E)
 
 ![data/images/Photo-2024-03-08-07-15-10.jpg](data/images/Photo-2024-03-08-07-15-10.jpg)
 
-[❓ 7.3% Identification Confidence. Also could be Monoon longifolium (4.1%), Ceiba pentandra (3.2%), Pandanus tectorius (3.0%), Phytolacca dioica (2.6%)]
+*❓ 7.3% Identification Confidence. Also could be [Monoon longifolium](https://en.wikipedia.org/wiki/Monoon_longifolium) (4.1%), [Ceiba pentandra](https://en.wikipedia.org/wiki/Ceiba_pentandra) (3.2%), [Pandanus tectorius](https://en.wikipedia.org/wiki/Pandanus_tectorius) (3.0%), [Phytolacca dioica](https://en.wikipedia.org/wiki/Phytolacca_dioica) (2.6%)*
 
 
 ## [Spondias](https://en.wikipedia.org/wiki/Spondias)
@@ -101,7 +101,7 @@
 
 ![data/images/Photo-2024-03-08-06-59-26.jpg](data/images/Photo-2024-03-08-06-59-26.jpg)
 
-[❓ 20.0% Identification Confidence. Also could be Filicium decipiens (11.1%), Samanea saman (4.7%), Schinus terebinthifolia (4.2%), Kigelia africana (4.0%)]
+*❓ 20.0% Identification Confidence. Also could be [Filicium decipiens](https://en.wikipedia.org/wiki/Filicium_decipiens) (11.1%), [Samanea saman](https://en.wikipedia.org/wiki/Samanea_saman) (4.7%), [Schinus terebinthifolia](https://en.wikipedia.org/wiki/Schinus_terebinthifolia) (4.2%), [Kigelia africana](https://en.wikipedia.org/wiki/Kigelia_africana) (4.0%)*
 
 
 # [Annonaceae](https://en.wikipedia.org/wiki/Annonaceae)
@@ -125,7 +125,7 @@
 
 ![data/images/Photo-2024-01-10-07-49-18.jpg](data/images/Photo-2024-01-10-07-49-18.jpg)
 
-[❓ 1.2% Identification Confidence. Also could be Chamaedorea elegans (1.0%), Mangifera indica (0.9%), Vanda coerulea (0.9%), Cerbera manghas (0.9%)]
+*❓ 1.2% Identification Confidence. Also could be [Chamaedorea elegans](https://en.wikipedia.org/wiki/Chamaedorea_elegans) (1.0%), [Mangifera indica](https://en.wikipedia.org/wiki/Mangifera_indica) (0.9%), [Vanda coerulea](https://en.wikipedia.org/wiki/Vanda_coerulea) (0.9%), [Cerbera manghas](https://en.wikipedia.org/wiki/Cerbera_manghas) (0.9%)*
 
 
 # [Apocynaceae](https://en.wikipedia.org/wiki/Apocynaceae)
@@ -149,7 +149,7 @@
 
 ![data/images/Photo-2024-03-08-07-02-39.jpg](data/images/Photo-2024-03-08-07-02-39.jpg)
 
-[🌳 52.8% Identification Confidence. Also could be Allamanda schottii (34.4%), Hypericum lanceolatum (0.5%), Hypericum revolutum (0.3%), Polygala myrtifolia (0.2%)]
+*🌳 52.8% Identification Confidence. Also could be [Allamanda schottii](https://en.wikipedia.org/wiki/Allamanda_schottii) (34.4%), [Hypericum lanceolatum](https://en.wikipedia.org/wiki/Hypericum_lanceolatum) (0.5%), [Hypericum revolutum](https://en.wikipedia.org/wiki/Hypericum_revolutum) (0.3%), [Polygala myrtifolia](https://en.wikipedia.org/wiki/Polygala_myrtifolia) (0.2%)*
 
 
 ## [Carissa](https://en.wikipedia.org/wiki/Carissa)
@@ -171,7 +171,7 @@
 
 ![data/images/Photo-2024-01-20-08-02-53.jpg](data/images/Photo-2024-01-20-08-02-53.jpg)
 
-[❓ 12.7% Identification Confidence. Also could be Eugenia brasiliensis (8.9%), Myrsine guianensis (7.1%), Quercus humboldtii (6.9%), Ixora chinensis (3.9%)]
+*❓ 12.7% Identification Confidence. Also could be [Eugenia brasiliensis](https://en.wikipedia.org/wiki/Eugenia_brasiliensis) (8.9%), [Myrsine guianensis](https://en.wikipedia.org/wiki/Myrsine_guianensis) (7.1%), [Quercus humboldtii](https://en.wikipedia.org/wiki/Quercus_humboldtii) (6.9%), [Ixora chinensis](https://en.wikipedia.org/wiki/Ixora_chinensis) (3.9%)*
 
 
 ## [Plumeria](https://en.wikipedia.org/wiki/Plumeria)
@@ -193,14 +193,14 @@
 
 ![data/images/Photo-2024-03-08-07-09-30.jpg](data/images/Photo-2024-03-08-07-09-30.jpg)
 
-[❓ 34.2% Identification Confidence. Also could be Plumeria rubra (24.9%), Plumeria alba (6.2%), Voacanga thouarsii (5.0%), Terminalia mantaly (2.1%)]
+*❓ 34.2% Identification Confidence. Also could be [Plumeria rubra](https://en.wikipedia.org/wiki/Plumeria_rubra) (24.9%), [Plumeria alba](https://en.wikipedia.org/wiki/Plumeria_alba) (6.2%), [Voacanga thouarsii](https://en.wikipedia.org/wiki/Voacanga_thouarsii) (5.0%), [Terminalia mantaly](https://en.wikipedia.org/wiki/Terminalia_mantaly) (2.1%)*
 
 
 #### ❓07:10 AM (Mar 08, 2024) · [6.9147°N,79.8624°E](https://www.google.com/maps/place/6.914736N,79.862428E)
 
 ![data/images/Photo-2024-03-08-07-10-36.jpg](data/images/Photo-2024-03-08-07-10-36.jpg)
 
-[❓ 23.9% Identification Confidence. Also could be Plumeria alba (17.1%), Plumeria rubra (9.8%), Pachypodium decaryi (3.2%), Ficus maxima (2.1%)]
+*❓ 23.9% Identification Confidence. Also could be [Plumeria alba](https://en.wikipedia.org/wiki/Plumeria_alba) (17.1%), [Plumeria rubra](https://en.wikipedia.org/wiki/Plumeria_rubra) (9.8%), [Pachypodium decaryi](https://en.wikipedia.org/wiki/Pachypodium_decaryi) (3.2%), [Ficus maxima](https://en.wikipedia.org/wiki/Ficus_maxima) (2.1%)*
 
 
 ## [Tabernaemontana](https://en.wikipedia.org/wiki/Tabernaemontana)
@@ -222,7 +222,7 @@
 
 ![data/images/Photo-2024-02-24-07-57-14.jpg](data/images/Photo-2024-02-24-07-57-14.jpg)
 
-[🌳 71.9% Identification Confidence. Also could be Tabernaemontana catharinensis (3.4%), Pittosporum undulatum (3.0%), Cestrum nocturnum (2.9%), Tabernaemontana elegans (1.2%)]
+*🌳 71.9% Identification Confidence. Also could be [Tabernaemontana catharinensis](https://en.wikipedia.org/wiki/Tabernaemontana_catharinensis) (3.4%), [Pittosporum undulatum](https://en.wikipedia.org/wiki/Pittosporum_undulatum) (3.0%), [Cestrum nocturnum](https://en.wikipedia.org/wiki/Cestrum_nocturnum) (2.9%), [Tabernaemontana elegans](https://en.wikipedia.org/wiki/Tabernaemontana_elegans) (1.2%)*
 
 
 ## [Trachelospermum](https://en.wikipedia.org/wiki/Trachelospermum)
@@ -244,7 +244,7 @@
 
 ![data/images/Photo-2024-03-08-07-11-11.jpg](data/images/Photo-2024-03-08-07-11-11.jpg)
 
-[❓ 10.0% Identification Confidence. Also could be Trachelospermum asiaticum (8.4%), Ilex cornuta (4.9%), Atalantia buxifolia (3.8%), Psidium guajava (3.3%)]
+*❓ 10.0% Identification Confidence. Also could be [Trachelospermum asiaticum](https://en.wikipedia.org/wiki/Trachelospermum_asiaticum) (8.4%), [Ilex cornuta](https://en.wikipedia.org/wiki/Ilex_cornuta) (4.9%), [Atalantia buxifolia](https://en.wikipedia.org/wiki/Atalantia_buxifolia) (3.8%), [Psidium guajava](https://en.wikipedia.org/wiki/Psidium_guajava) (3.3%)*
 
 
 # [Arecaceae](https://en.wikipedia.org/wiki/Arecaceae)
@@ -268,7 +268,7 @@
 
 ![data/images/Photo-2024-03-08-06-46-14.jpg](data/images/Photo-2024-03-08-06-46-14.jpg)
 
-[❓ 33.8% Identification Confidence. Also could be Roystonea oleracea (7.1%), Roystonea regia (6.3%), Euterpe oleracea (2.8%), Archontophoenix cunninghamiana (2.5%)]
+*❓ 33.8% Identification Confidence. Also could be [Roystonea oleracea](https://en.wikipedia.org/wiki/Roystonea_oleracea) (7.1%), [Roystonea regia](https://en.wikipedia.org/wiki/Roystonea_regia) (6.3%), [Euterpe oleracea](https://en.wikipedia.org/wiki/Euterpe_oleracea) (2.8%), [Archontophoenix cunninghamiana](https://en.wikipedia.org/wiki/Archontophoenix_cunninghamiana) (2.5%)*
 
 
 ## [Roystonea](https://en.wikipedia.org/wiki/Roystonea)
@@ -290,21 +290,21 @@
 
 ![data/images/Photo-2024-03-08-06-42-57.jpg](data/images/Photo-2024-03-08-06-42-57.jpg)
 
-[❓ 17.8% Identification Confidence. Also could be Phoenix reclinata (15.3%), Roystonea oleracea (5.6%), Archontophoenix cunninghamiana (4.3%), Syagrus romanzoffiana (4.2%)]
+*❓ 17.8% Identification Confidence. Also could be [Phoenix reclinata](https://en.wikipedia.org/wiki/Phoenix_reclinata) (15.3%), [Roystonea oleracea](https://en.wikipedia.org/wiki/Roystonea_oleracea) (5.6%), [Archontophoenix cunninghamiana](https://en.wikipedia.org/wiki/Archontophoenix_cunninghamiana) (4.3%), [Syagrus romanzoffiana](https://en.wikipedia.org/wiki/Syagrus_romanzoffiana) (4.2%)*
 
 
 #### 🌳07:17 AM (Mar 08, 2024) · [6.9135°N,79.8617°E](https://www.google.com/maps/place/6.913517N,79.861708E)
 
 ![data/images/Photo-2024-03-08-07-17-50.jpg](data/images/Photo-2024-03-08-07-17-50.jpg)
 
-[🌳 74.8% Identification Confidence. Also could be Roystonea oleracea (5.5%), Dictyosperma album (3.2%), Archontophoenix cunninghamiana (2.5%), Pseudophoenix sargentii (1.4%)]
+*🌳 74.8% Identification Confidence. Also could be [Roystonea oleracea](https://en.wikipedia.org/wiki/Roystonea_oleracea) (5.5%), [Dictyosperma album](https://en.wikipedia.org/wiki/Dictyosperma_album) (3.2%), [Archontophoenix cunninghamiana](https://en.wikipedia.org/wiki/Archontophoenix_cunninghamiana) (2.5%), [Pseudophoenix sargentii](https://en.wikipedia.org/wiki/Pseudophoenix_sargentii) (1.4%)*
 
 
 #### ❓07:18 AM (Mar 08, 2024) · [6.9133°N,79.8615°E](https://www.google.com/maps/place/6.913325N,79.86155E)
 
 ![data/images/Photo-2024-03-08-07-18-39.jpg](data/images/Photo-2024-03-08-07-18-39.jpg)
 
-[❓ 26.9% Identification Confidence. Also could be Euterpe oleracea (9.7%), Phoenix reclinata (8.4%), Dypsis lutescens (7.3%), Roystonea oleracea (5.7%)]
+*❓ 26.9% Identification Confidence. Also could be [Euterpe oleracea](https://en.wikipedia.org/wiki/Euterpe_oleracea) (9.7%), [Phoenix reclinata](https://en.wikipedia.org/wiki/Phoenix_reclinata) (8.4%), [Dypsis lutescens](https://en.wikipedia.org/wiki/Dypsis_lutescens) (7.3%), [Roystonea oleracea](https://en.wikipedia.org/wiki/Roystonea_oleracea) (5.7%)*
 
 
 ## [Wodyetia](https://en.wikipedia.org/wiki/Wodyetia)
@@ -326,7 +326,7 @@
 
 ![data/images/Photo-2024-03-08-07-19-02.jpg](data/images/Photo-2024-03-08-07-19-02.jpg)
 
-[🌳 60.3% Identification Confidence. Also could be Syagrus romanzoffiana (3.0%), Ptychosperma microcarpum (2.3%), Chamaedorea seifrizii (2.2%), Chamaedorea elegans (1.9%)]
+*🌳 60.3% Identification Confidence. Also could be [Syagrus romanzoffiana](https://en.wikipedia.org/wiki/Syagrus_romanzoffiana) (3.0%), [Ptychosperma microcarpum](https://en.wikipedia.org/wiki/Ptychosperma_microcarpum) (2.3%), [Chamaedorea seifrizii](https://en.wikipedia.org/wiki/Chamaedorea_seifrizii) (2.2%), [Chamaedorea elegans](https://en.wikipedia.org/wiki/Chamaedorea_elegans) (1.9%)*
 
 
 # [Betulaceae](https://en.wikipedia.org/wiki/Betulaceae)
@@ -350,7 +350,7 @@
 
 ![data/images/Photo-2024-03-08-06-54-46.jpg](data/images/Photo-2024-03-08-06-54-46.jpg)
 
-[❓ 14.9% Identification Confidence. Also could be Platanus occidentalis (5.3%), Ulmus americana (3.9%), Liriodendron tulipifera (3.2%), Morus nigra (3.0%)]
+*❓ 14.9% Identification Confidence. Also could be [Platanus occidentalis](https://en.wikipedia.org/wiki/Platanus_occidentalis) (5.3%), [Ulmus americana](https://en.wikipedia.org/wiki/Ulmus_americana) (3.9%), [Liriodendron tulipifera](https://en.wikipedia.org/wiki/Liriodendron_tulipifera) (3.2%), [Morus nigra](https://en.wikipedia.org/wiki/Morus_nigra) (3.0%)*
 
 
 # [Bignoniaceae](https://en.wikipedia.org/wiki/Bignoniaceae)
@@ -374,14 +374,14 @@
 
 ![data/images/Photo-2024-03-08-07-08-54.jpg](data/images/Photo-2024-03-08-07-08-54.jpg)
 
-[❓ 28.3% Identification Confidence. Also could be Tabebuia heterophylla (12.6%), Ceiba glaziovii (1.9%), Tabebuia roseoalba (1.8%), Moringa oleifera (1.5%)]
+*❓ 28.3% Identification Confidence. Also could be [Tabebuia heterophylla](https://en.wikipedia.org/wiki/Tabebuia_heterophylla) (12.6%), [Ceiba glaziovii](https://en.wikipedia.org/wiki/Ceiba_glaziovii) (1.9%), [Tabebuia roseoalba](https://en.wikipedia.org/wiki/Tabebuia_roseoalba) (1.8%), [Moringa oleifera](https://en.wikipedia.org/wiki/Moringa_oleifera) (1.5%)*
 
 
 #### ❓07:09 AM (Mar 08, 2024) · [6.9149°N,79.8622°E](https://www.google.com/maps/place/6.914911N,79.862175E)
 
 ![data/images/Photo-2024-03-08-07-09-04.jpg](data/images/Photo-2024-03-08-07-09-04.jpg)
 
-[❓ 36.7% Identification Confidence. Also could be Tabebuia heterophylla (11.2%), Rosa banksiae (4.5%), Tabebuia roseoalba (2.7%), Rosa moschata (1.4%)]
+*❓ 36.7% Identification Confidence. Also could be [Tabebuia heterophylla](https://en.wikipedia.org/wiki/Tabebuia_heterophylla) (11.2%), [Rosa banksiae](https://en.wikipedia.org/wiki/Rosa_banksiae) (4.5%), [Tabebuia roseoalba](https://en.wikipedia.org/wiki/Tabebuia_roseoalba) (2.7%), [Rosa moschata](https://en.wikipedia.org/wiki/Rosa_moschata) (1.4%)*
 
 
 ### *[Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea)* (Bertol.) Bertero ex A.DC.
@@ -401,42 +401,42 @@
 
 ![data/images/Photo-2024-03-08-06-48-53.jpg](data/images/Photo-2024-03-08-06-48-53.jpg)
 
-[❓ 20.2% Identification Confidence. Also could be Tipuana tipu (9.3%), Schinus terebinthifolia (5.6%), Albizia lebbeck (4.1%), Robinia hispida (3.8%)]
+*❓ 20.2% Identification Confidence. Also could be [Tipuana tipu](https://en.wikipedia.org/wiki/Tipuana_tipu) (9.3%), [Schinus terebinthifolia](https://en.wikipedia.org/wiki/Schinus_terebinthifolia) (5.6%), [Albizia lebbeck](https://en.wikipedia.org/wiki/Albizia_lebbeck) (4.1%), [Robinia hispida](https://en.wikipedia.org/wiki/Robinia_hispida) (3.8%)*
 
 
 #### 🌳06:50 AM (Mar 08, 2024) · [6.9140°N,79.8634°E](https://www.google.com/maps/place/6.913964N,79.863358E)
 
 ![data/images/Photo-2024-03-08-06-50-57.jpg](data/images/Photo-2024-03-08-06-50-57.jpg)
 
-[🌳 57.3% Identification Confidence. Also could be Tabebuia heterophylla (15.6%), Handroanthus impetiginosus (4.2%), Handroanthus heptaphyllus (2.1%), Tabebuia pallida (0.4%)]
+*🌳 57.3% Identification Confidence. Also could be [Tabebuia heterophylla](https://en.wikipedia.org/wiki/Tabebuia_heterophylla) (15.6%), [Handroanthus impetiginosus](https://en.wikipedia.org/wiki/Handroanthus_impetiginosus) (4.2%), [Handroanthus heptaphyllus](https://en.wikipedia.org/wiki/Handroanthus_heptaphyllus) (2.1%), [Tabebuia pallida](https://en.wikipedia.org/wiki/Tabebuia_pallida) (0.4%)*
 
 
 #### ❓06:52 AM (Mar 08, 2024) · [6.9137°N,79.8637°E](https://www.google.com/maps/place/6.913733N,79.863708E)
 
 ![data/images/Photo-2024-03-08-06-52-20.jpg](data/images/Photo-2024-03-08-06-52-20.jpg)
 
-[❓ 9.9% Identification Confidence. Also could be Tabebuia pallida (5.2%), Phytolacca dioica (4.4%), Swietenia macrophylla (2.5%), Cinnamomum camphora (2.0%)]
+*❓ 9.9% Identification Confidence. Also could be [Tabebuia pallida](https://en.wikipedia.org/wiki/Tabebuia_pallida) (5.2%), [Phytolacca dioica](https://en.wikipedia.org/wiki/Phytolacca_dioica) (4.4%), [Swietenia macrophylla](https://en.wikipedia.org/wiki/Swietenia_macrophylla) (2.5%), [Cinnamomum camphora](https://en.wikipedia.org/wiki/Cinnamomum_camphora) (2.0%)*
 
 
 #### ❓06:57 AM (Mar 08, 2024) · [6.9140°N,79.8642°E](https://www.google.com/maps/place/6.913983N,79.864236E)
 
 ![data/images/Photo-2024-03-08-06-57-03.jpg](data/images/Photo-2024-03-08-06-57-03.jpg)
 
-[❓ 11.5% Identification Confidence. Also could be Handroanthus heptaphyllus (9.2%), Celtis australis (8.2%), Ficus virens (4.3%), Quercus glauca (3.7%)]
+*❓ 11.5% Identification Confidence. Also could be [Handroanthus heptaphyllus](https://en.wikipedia.org/wiki/Handroanthus_heptaphyllus) (9.2%), [Celtis australis](https://en.wikipedia.org/wiki/Celtis_australis) (8.2%), [Ficus virens](https://en.wikipedia.org/wiki/Ficus_virens) (4.3%), [Quercus glauca](https://en.wikipedia.org/wiki/Quercus_glauca) (3.7%)*
 
 
 #### ❓06:57 AM (Mar 08, 2024) · [6.9139°N,79.8642°E](https://www.google.com/maps/place/6.913917N,79.864236E)
 
 ![data/images/Photo-2024-03-08-06-57-14.jpg](data/images/Photo-2024-03-08-06-57-14.jpg)
 
-[❓ 9.7% Identification Confidence. Also could be Melicoccus bijugatus (2.6%), Inga edulis (2.5%), Licania ternatensis (2.3%), Inga laurina (2.1%)]
+*❓ 9.7% Identification Confidence. Also could be [Melicoccus bijugatus](https://en.wikipedia.org/wiki/Melicoccus_bijugatus) (2.6%), [Inga edulis](https://en.wikipedia.org/wiki/Inga_edulis) (2.5%), [Licania ternatensis](https://en.wikipedia.org/wiki/Licania_ternatensis) (2.3%), [Inga laurina](https://en.wikipedia.org/wiki/Inga_laurina) (2.1%)*
 
 
 #### 🌳07:05 AM (Mar 08, 2024) · [6.9155°N,79.8621°E](https://www.google.com/maps/place/6.915522N,79.862061E)
 
 ![data/images/Photo-2024-03-08-07-05-25.jpg](data/images/Photo-2024-03-08-07-05-25.jpg)
 
-[🌳 62.7% Identification Confidence. Also could be Citharexylum myrianthum (13.6%), Handroanthus ochraceus (3.3%), Melia azedarach (3.2%), Bischofia javanica (1.4%)]
+*🌳 62.7% Identification Confidence. Also could be [Citharexylum myrianthum](https://en.wikipedia.org/wiki/Citharexylum_myrianthum) (13.6%), [Handroanthus ochraceus](https://en.wikipedia.org/wiki/Handroanthus_ochraceus) (3.3%), [Melia azedarach](https://en.wikipedia.org/wiki/Melia_azedarach) (3.2%), [Bischofia javanica](https://en.wikipedia.org/wiki/Bischofia_javanica) (1.4%)*
 
 
 # [Boraginaceae](https://en.wikipedia.org/wiki/Boraginaceae)
@@ -460,7 +460,7 @@
 
 ![data/images/Photo-2024-03-08-06-43-33.jpg](data/images/Photo-2024-03-08-06-43-33.jpg)
 
-[❓ 17.0% Identification Confidence. Also could be Bauhinia × blakeana (9.1%), Cordia sebestena (5.5%), Celtis sinensis (4.8%), Bauhinia variegata (4.4%)]
+*❓ 17.0% Identification Confidence. Also could be [Bauhinia × blakeana](https://en.wikipedia.org/wiki/Bauhinia_×_blakeana) (9.1%), [Cordia sebestena](https://en.wikipedia.org/wiki/Cordia_sebestena) (5.5%), [Celtis sinensis](https://en.wikipedia.org/wiki/Celtis_sinensis) (4.8%), [Bauhinia variegata](https://en.wikipedia.org/wiki/Bauhinia_variegata) (4.4%)*
 
 
 # [Calophyllaceae](https://en.wikipedia.org/wiki/Calophyllaceae)
@@ -484,7 +484,7 @@
 
 ![data/images/Photo-2024-02-22-07-16-55.jpg](data/images/Photo-2024-02-22-07-16-55.jpg)
 
-[🌳 60.5% Identification Confidence. Also could be Monoon longifolium (8.2%), Quercus myrsinifolia (4.6%), Ficus maclellandii (1.9%), Saraca indica (0.8%)]
+*🌳 60.5% Identification Confidence. Also could be [Monoon longifolium](https://en.wikipedia.org/wiki/Monoon_longifolium) (8.2%), [Quercus myrsinifolia](https://en.wikipedia.org/wiki/Quercus_myrsinifolia) (4.6%), [Ficus maclellandii](https://en.wikipedia.org/wiki/Ficus_maclellandii) (1.9%), [Saraca indica](https://en.wikipedia.org/wiki/Saraca_indica) (0.8%)*
 
 
 # [Caryocaraceae](https://en.wikipedia.org/wiki/Caryocaraceae)
@@ -508,7 +508,7 @@
 
 ![data/images/Photo-2024-03-08-07-03-42.jpg](data/images/Photo-2024-03-08-07-03-42.jpg)
 
-[❓ 6.6% Identification Confidence. Also could be Averrhoa carambola (5.6%), Bauhinia variegata (5.1%), Bauhinia purpurea (4.8%), Tipuana tipu (3.8%)]
+*❓ 6.6% Identification Confidence. Also could be [Averrhoa carambola](https://en.wikipedia.org/wiki/Averrhoa_carambola) (5.6%), [Bauhinia variegata](https://en.wikipedia.org/wiki/Bauhinia_variegata) (5.1%), [Bauhinia purpurea](https://en.wikipedia.org/wiki/Bauhinia_purpurea) (4.8%), [Tipuana tipu](https://en.wikipedia.org/wiki/Tipuana_tipu) (3.8%)*
 
 
 # [Casuarinaceae](https://en.wikipedia.org/wiki/Casuarinaceae)
@@ -532,21 +532,21 @@
 
 ![data/images/Photo-2024-03-08-06-50-00.jpg](data/images/Photo-2024-03-08-06-50-00.jpg)
 
-[🌳 75.0% Identification Confidence. Also could be Casuarina cunninghamiana (14.9%), Pinus pinea (1.1%), Pinus wallichiana (0.9%), Parkinsonia aculeata (0.3%)]
+*🌳 75.0% Identification Confidence. Also could be [Casuarina cunninghamiana](https://en.wikipedia.org/wiki/Casuarina_cunninghamiana) (14.9%), [Pinus pinea](https://en.wikipedia.org/wiki/Pinus_pinea) (1.1%), [Pinus wallichiana](https://en.wikipedia.org/wiki/Pinus_wallichiana) (0.9%), [Parkinsonia aculeata](https://en.wikipedia.org/wiki/Parkinsonia_aculeata) (0.3%)*
 
 
 #### ❓07:16 AM (Mar 08, 2024) · [6.9137°N,79.8621°E](https://www.google.com/maps/place/6.913722N,79.862144E)
 
 ![data/images/Photo-2024-03-08-07-16-32.jpg](data/images/Photo-2024-03-08-07-16-32.jpg)
 
-[❓ 47.9% Identification Confidence. Also could be Casuarina cunninghamiana (26.5%), Melaleuca armillaris (1.9%), Pinus pinea (1.3%), Casuarina glauca (1.2%)]
+*❓ 47.9% Identification Confidence. Also could be [Casuarina cunninghamiana](https://en.wikipedia.org/wiki/Casuarina_cunninghamiana) (26.5%), [Melaleuca armillaris](https://en.wikipedia.org/wiki/Melaleuca_armillaris) (1.9%), [Pinus pinea](https://en.wikipedia.org/wiki/Pinus_pinea) (1.3%), [Casuarina glauca](https://en.wikipedia.org/wiki/Casuarina_glauca) (1.2%)*
 
 
 #### 🌳07:16 AM (Mar 08, 2024) · [6.9138°N,79.8621°E](https://www.google.com/maps/place/6.913772N,79.862083E)
 
 ![data/images/Photo-2024-03-08-07-16-43.jpg](data/images/Photo-2024-03-08-07-16-43.jpg)
 
-[🌳 62.2% Identification Confidence. Also could be Casuarina cunninghamiana (30.5%), Tamarix gallica (1.4%), Tamarix ramosissima (0.5%), Casuarina glauca (0.3%)]
+*🌳 62.2% Identification Confidence. Also could be [Casuarina cunninghamiana](https://en.wikipedia.org/wiki/Casuarina_cunninghamiana) (30.5%), [Tamarix gallica](https://en.wikipedia.org/wiki/Tamarix_gallica) (1.4%), [Tamarix ramosissima](https://en.wikipedia.org/wiki/Tamarix_ramosissima) (0.5%), [Casuarina glauca](https://en.wikipedia.org/wiki/Casuarina_glauca) (0.3%)*
 
 
 # [Chrysobalanaceae](https://en.wikipedia.org/wiki/Chrysobalanaceae)
@@ -570,7 +570,7 @@
 
 ![data/images/Photo-2024-03-08-07-00-22.jpg](data/images/Photo-2024-03-08-07-00-22.jpg)
 
-[❓ 7.9% Identification Confidence. Also could be Guarea guidonia (4.7%), Syzygium cumini (4.5%), Lagerstroemia speciosa (3.8%), Carpinus betulus (2.7%)]
+*❓ 7.9% Identification Confidence. Also could be [Guarea guidonia](https://en.wikipedia.org/wiki/Guarea_guidonia) (4.7%), [Syzygium cumini](https://en.wikipedia.org/wiki/Syzygium_cumini) (4.5%), [Lagerstroemia speciosa](https://en.wikipedia.org/wiki/Lagerstroemia_speciosa) (3.8%), [Carpinus betulus](https://en.wikipedia.org/wiki/Carpinus_betulus) (2.7%)*
 
 
 # [Combretaceae](https://en.wikipedia.org/wiki/Combretaceae)
@@ -594,14 +594,14 @@
 
 ![data/images/Photo-2024-03-08-06-44-01.jpg](data/images/Photo-2024-03-08-06-44-01.jpg)
 
-[❓ 16.2% Identification Confidence. Also could be Quercus phellos (10.4%), Polyalthia suberosa (9.0%), Brownea grandiceps (4.6%), Syzygium jambos (2.6%)]
+*❓ 16.2% Identification Confidence. Also could be [Quercus phellos](https://en.wikipedia.org/wiki/Quercus_phellos) (10.4%), [Polyalthia suberosa](https://en.wikipedia.org/wiki/Polyalthia_suberosa) (9.0%), [Brownea grandiceps](https://en.wikipedia.org/wiki/Brownea_grandiceps) (4.6%), [Syzygium jambos](https://en.wikipedia.org/wiki/Syzygium_jambos) (2.6%)*
 
 
 #### ❓06:58 AM (Mar 08, 2024) · [6.9142°N,79.8638°E](https://www.google.com/maps/place/6.914247N,79.863831E)
 
 ![data/images/Photo-2024-03-08-06-58-33.jpg](data/images/Photo-2024-03-08-06-58-33.jpg)
 
-[❓ 30.4% Identification Confidence. Also could be Psidium guajava (23.7%), Lagerstroemia speciosa (9.9%), Syzygium jambos (3.6%), Licania ternatensis (1.5%)]
+*❓ 30.4% Identification Confidence. Also could be [Psidium guajava](https://en.wikipedia.org/wiki/Psidium_guajava) (23.7%), [Lagerstroemia speciosa](https://en.wikipedia.org/wiki/Lagerstroemia_speciosa) (9.9%), [Syzygium jambos](https://en.wikipedia.org/wiki/Syzygium_jambos) (3.6%), [Licania ternatensis](https://en.wikipedia.org/wiki/Licania_ternatensis) (1.5%)*
 
 
 ### *[Terminalia catappa](https://en.wikipedia.org/wiki/Terminalia_catappa)* L.
@@ -621,7 +621,7 @@
 
 ![data/images/Photo-2024-03-08-07-07-01.jpg](data/images/Photo-2024-03-08-07-07-01.jpg)
 
-[🌳 94.1% Identification Confidence. Also could be Tectona grandis (0.7%), Careya arborea (0.5%), Anacardium occidentale (0.3%), Anthocleista grandiflora (0.2%)]
+*🌳 94.1% Identification Confidence. Also could be [Tectona grandis](https://en.wikipedia.org/wiki/Tectona_grandis) (0.7%), [Careya arborea](https://en.wikipedia.org/wiki/Careya_arborea) (0.5%), [Anacardium occidentale](https://en.wikipedia.org/wiki/Anacardium_occidentale) (0.3%), [Anthocleista grandiflora](https://en.wikipedia.org/wiki/Anthocleista_grandiflora) (0.2%)*
 
 
 ### *[Terminalia mantaly](https://en.wikipedia.org/wiki/Terminalia_mantaly)* H.Perrier
@@ -641,7 +641,7 @@
 
 ![data/images/Photo-2024-03-08-07-04-14.jpg](data/images/Photo-2024-03-08-07-04-14.jpg)
 
-[❓ 11.8% Identification Confidence. Also could be Ficus microcarpa (10.4%), Ficus elastica (6.3%), Ficus benghalensis (6.2%), Ficus sycomorus (4.0%)]
+*❓ 11.8% Identification Confidence. Also could be [Ficus microcarpa](https://en.wikipedia.org/wiki/Ficus_microcarpa) (10.4%), [Ficus elastica](https://en.wikipedia.org/wiki/Ficus_elastica) (6.3%), [Ficus benghalensis](https://en.wikipedia.org/wiki/Ficus_benghalensis) (6.2%), [Ficus sycomorus](https://en.wikipedia.org/wiki/Ficus_sycomorus) (4.0%)*
 
 
 # [Ebenaceae](https://en.wikipedia.org/wiki/Ebenaceae)
@@ -665,7 +665,7 @@
 
 ![data/images/Photo-2024-01-19-07-23-37.jpg](data/images/Photo-2024-01-19-07-23-37.jpg)
 
-[❓ 8.6% Identification Confidence. Also could be Zanthoxylum rhoifolium (3.0%), Lagerstroemia speciosa (2.2%), Inga edulis (2.1%), Pterocarpus indicus (2.0%)]
+*❓ 8.6% Identification Confidence. Also could be [Zanthoxylum rhoifolium](https://en.wikipedia.org/wiki/Zanthoxylum_rhoifolium) (3.0%), [Lagerstroemia speciosa](https://en.wikipedia.org/wiki/Lagerstroemia_speciosa) (2.2%), [Inga edulis](https://en.wikipedia.org/wiki/Inga_edulis) (2.1%), [Pterocarpus indicus](https://en.wikipedia.org/wiki/Pterocarpus_indicus) (2.0%)*
 
 
 # [Euphorbiaceae](https://en.wikipedia.org/wiki/Euphorbiaceae)
@@ -689,7 +689,7 @@
 
 ![data/images/Photo-2024-03-08-06-48-34.jpg](data/images/Photo-2024-03-08-06-48-34.jpg)
 
-[❓ 37.0% Identification Confidence. Also could be Amaranthus tricolor (8.5%), Alternanthera brasiliana (4.0%), Amaranthus hybridus (2.3%), Amaranthus cruentus (2.2%)]
+*❓ 37.0% Identification Confidence. Also could be [Amaranthus tricolor](https://en.wikipedia.org/wiki/Amaranthus_tricolor) (8.5%), [Alternanthera brasiliana](https://en.wikipedia.org/wiki/Alternanthera_brasiliana) (4.0%), [Amaranthus hybridus](https://en.wikipedia.org/wiki/Amaranthus_hybridus) (2.3%), [Amaranthus cruentus](https://en.wikipedia.org/wiki/Amaranthus_cruentus) (2.2%)*
 
 
 # [Fabaceae](https://en.wikipedia.org/wiki/Fabaceae)
@@ -713,7 +713,7 @@
 
 ![data/images/Photo-2024-03-08-07-08-02.jpg](data/images/Photo-2024-03-08-07-08-02.jpg)
 
-[❓ 29.3% Identification Confidence. Also could be Terminalia chebula (5.1%), Afzelia quanzensis (5.0%), Tabebuia rosea (3.3%), Pterocarpus angolensis (2.5%)]
+*❓ 29.3% Identification Confidence. Also could be [Terminalia chebula](https://en.wikipedia.org/wiki/Terminalia_chebula) (5.1%), [Afzelia quanzensis](https://en.wikipedia.org/wiki/Afzelia_quanzensis) (5.0%), [Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea) (3.3%), [Pterocarpus angolensis](https://en.wikipedia.org/wiki/Pterocarpus_angolensis) (2.5%)*
 
 
 ## [Bauhinia](https://en.wikipedia.org/wiki/Bauhinia)
@@ -735,7 +735,7 @@
 
 ![data/images/Photo-2024-03-08-06-54-59.jpg](data/images/Photo-2024-03-08-06-54-59.jpg)
 
-[❓ 20.1% Identification Confidence. Also could be Bauhinia purpurea (15.3%), Hamamelis virginiana (5.3%), Cordia sebestena (2.9%), Cordia dichotoma (2.4%)]
+*❓ 20.1% Identification Confidence. Also could be [Bauhinia purpurea](https://en.wikipedia.org/wiki/Bauhinia_purpurea) (15.3%), [Hamamelis virginiana](https://en.wikipedia.org/wiki/Hamamelis_virginiana) (5.3%), [Cordia sebestena](https://en.wikipedia.org/wiki/Cordia_sebestena) (2.9%), [Cordia dichotoma](https://en.wikipedia.org/wiki/Cordia_dichotoma) (2.4%)*
 
 
 ## [Cassia](https://en.wikipedia.org/wiki/Cassia)
@@ -757,14 +757,14 @@
 
 ![data/images/Photo-2024-03-08-07-09-59.jpg](data/images/Photo-2024-03-08-07-09-59.jpg)
 
-[🌳 91.8% Identification Confidence. Also could be Cassia abbreviata (0.5%), Aegle marmelos (0.5%), Senna surattensis (0.3%), Tipuana tipu (0.2%)]
+*🌳 91.8% Identification Confidence. Also could be [Cassia abbreviata](https://en.wikipedia.org/wiki/Cassia_abbreviata) (0.5%), [Aegle marmelos](https://en.wikipedia.org/wiki/Aegle_marmelos) (0.5%), [Senna surattensis](https://en.wikipedia.org/wiki/Senna_surattensis) (0.3%), [Tipuana tipu](https://en.wikipedia.org/wiki/Tipuana_tipu) (0.2%)*
 
 
 #### ❓07:13 AM (Mar 08, 2024) · [6.9143°N,79.8623°E](https://www.google.com/maps/place/6.914278N,79.862275E)
 
 ![data/images/Photo-2024-03-08-07-13-30.jpg](data/images/Photo-2024-03-08-07-13-30.jpg)
 
-[❓ 9.0% Identification Confidence. Also could be Holarrhena pubescens (6.0%), Pleiogynium timoriense (4.0%), Paubrasilia echinata (3.5%), Copaifera langsdorffii (2.4%)]
+*❓ 9.0% Identification Confidence. Also could be [Holarrhena pubescens](https://en.wikipedia.org/wiki/Holarrhena_pubescens) (6.0%), [Pleiogynium timoriense](https://en.wikipedia.org/wiki/Pleiogynium_timoriense) (4.0%), [Paubrasilia echinata](https://en.wikipedia.org/wiki/Paubrasilia_echinata) (3.5%), [Copaifera langsdorffii](https://en.wikipedia.org/wiki/Copaifera_langsdorffii) (2.4%)*
 
 
 ### *[Cassia grandis](https://en.wikipedia.org/wiki/Cassia_grandis)* L.f.
@@ -784,7 +784,7 @@
 
 ![data/images/Photo-2024-01-18-07-31-18.jpg](data/images/Photo-2024-01-18-07-31-18.jpg)
 
-[❓ 25.4% Identification Confidence. Also could be Albizia julibrissin (6.8%), Enterolobium contortisiliquum (5.1%), Albizia lebbeck (4.4%), Peltophorum pterocarpum (4.3%)]
+*❓ 25.4% Identification Confidence. Also could be [Albizia julibrissin](https://en.wikipedia.org/wiki/Albizia_julibrissin) (6.8%), [Enterolobium contortisiliquum](https://en.wikipedia.org/wiki/Enterolobium_contortisiliquum) (5.1%), [Albizia lebbeck](https://en.wikipedia.org/wiki/Albizia_lebbeck) (4.4%), [Peltophorum pterocarpum](https://en.wikipedia.org/wiki/Peltophorum_pterocarpum) (4.3%)*
 
 
 ## [Delonix](https://en.wikipedia.org/wiki/Delonix)
@@ -806,7 +806,7 @@
 
 ![data/images/Photo-2024-03-08-07-12-19.jpg](data/images/Photo-2024-03-08-07-12-19.jpg)
 
-[❓ 4.0% Identification Confidence. Also could be Hymenaea courbaril (2.4%), Elaeocarpus serratus (2.4%), Ceiba pentandra (1.2%), Disocactus ackermannii (1.2%)]
+*❓ 4.0% Identification Confidence. Also could be [Hymenaea courbaril](https://en.wikipedia.org/wiki/Hymenaea_courbaril) (2.4%), [Elaeocarpus serratus](https://en.wikipedia.org/wiki/Elaeocarpus_serratus) (2.4%), [Ceiba pentandra](https://en.wikipedia.org/wiki/Ceiba_pentandra) (1.2%), [Disocactus ackermannii](https://en.wikipedia.org/wiki/Disocactus_ackermannii) (1.2%)*
 
 
 ## [Erythrina](https://en.wikipedia.org/wiki/Erythrina)
@@ -828,7 +828,7 @@
 
 ![data/images/Photo-2023-12-30-07-59-02.jpg](data/images/Photo-2023-12-30-07-59-02.jpg)
 
-[❓ 11.9% Identification Confidence. Also could be Erythrina fusca (10.6%), Ficus benghalensis (4.6%), Erythrina speciosa (2.1%), Erythrina amazonica (2.0%)]
+*❓ 11.9% Identification Confidence. Also could be [Erythrina fusca](https://en.wikipedia.org/wiki/Erythrina_fusca) (10.6%), [Ficus benghalensis](https://en.wikipedia.org/wiki/Ficus_benghalensis) (4.6%), [Erythrina speciosa](https://en.wikipedia.org/wiki/Erythrina_speciosa) (2.1%), [Erythrina amazonica](https://en.wikipedia.org/wiki/Erythrina_amazonica) (2.0%)*
 
 
 ## [Inga](https://en.wikipedia.org/wiki/Inga)
@@ -850,7 +850,7 @@
 
 ![data/images/Photo-2024-03-08-07-11-46.jpg](data/images/Photo-2024-03-08-07-11-46.jpg)
 
-[❓ 16.9% Identification Confidence. Also could be Hymenaea courbaril (11.3%), Tabebuia rosea (7.4%), Inga uraguensis (6.3%), Eugenia candolleana (3.1%)]
+*❓ 16.9% Identification Confidence. Also could be [Hymenaea courbaril](https://en.wikipedia.org/wiki/Hymenaea_courbaril) (11.3%), [Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea) (7.4%), [Inga uraguensis](https://en.wikipedia.org/wiki/Inga_uraguensis) (6.3%), [Eugenia candolleana](https://en.wikipedia.org/wiki/Eugenia_candolleana) (3.1%)*
 
 
 ### *[Inga uraguensis](https://en.wikipedia.org/wiki/Inga_uraguensis)* Hook. & Arn.
@@ -870,7 +870,7 @@
 
 ![data/images/Photo-2024-03-08-07-05-09.jpg](data/images/Photo-2024-03-08-07-05-09.jpg)
 
-[❓ 18.1% Identification Confidence. Also could be Swietenia macrophylla (2.0%), Tabebuia rosea (1.9%), Spathodea campanulata (1.9%), Handroanthus impetiginosus (1.8%)]
+*❓ 18.1% Identification Confidence. Also could be [Swietenia macrophylla](https://en.wikipedia.org/wiki/Swietenia_macrophylla) (2.0%), [Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea) (1.9%), [Spathodea campanulata](https://en.wikipedia.org/wiki/Spathodea_campanulata) (1.9%), [Handroanthus impetiginosus](https://en.wikipedia.org/wiki/Handroanthus_impetiginosus) (1.8%)*
 
 
 ## [Paubrasilia](https://en.wikipedia.org/wiki/Paubrasilia)
@@ -892,14 +892,14 @@
 
 ![data/images/Photo-2023-12-19-07-37-48.jpg](data/images/Photo-2023-12-19-07-37-48.jpg)
 
-[❓ 41.8% Identification Confidence. Also could be Pterocarya stenoptera (6.8%), Samanea saman (1.3%), Pterocarya fraxinifolia (1.3%), Guaiacum sanctum (0.9%)]
+*❓ 41.8% Identification Confidence. Also could be [Pterocarya stenoptera](https://en.wikipedia.org/wiki/Pterocarya_stenoptera) (6.8%), [Samanea saman](https://en.wikipedia.org/wiki/Samanea_saman) (1.3%), [Pterocarya fraxinifolia](https://en.wikipedia.org/wiki/Pterocarya_fraxinifolia) (1.3%), [Guaiacum sanctum](https://en.wikipedia.org/wiki/Guaiacum_sanctum) (0.9%)*
 
 
 #### ❓07:23 AM (Jan 19, 2024) · [6.9141°N,79.8622°E](https://www.google.com/maps/place/6.914117N,79.862189E)
 
 ![data/images/Photo-2024-01-19-07-23-31.jpg](data/images/Photo-2024-01-19-07-23-31.jpg)
 
-[❓ 9.9% Identification Confidence. Also could be Diospyros buxifolia (5.4%), Senna siamea (3.5%), Pterocarya stenoptera (1.8%), Tipuana tipu (1.6%)]
+*❓ 9.9% Identification Confidence. Also could be [Diospyros buxifolia](https://en.wikipedia.org/wiki/Diospyros_buxifolia) (5.4%), [Senna siamea](https://en.wikipedia.org/wiki/Senna_siamea) (3.5%), [Pterocarya stenoptera](https://en.wikipedia.org/wiki/Pterocarya_stenoptera) (1.8%), [Tipuana tipu](https://en.wikipedia.org/wiki/Tipuana_tipu) (1.6%)*
 
 
 ## [Vachellia](https://en.wikipedia.org/wiki/Vachellia)
@@ -921,7 +921,7 @@
 
 ![data/images/Photo-2024-03-08-07-05-52.jpg](data/images/Photo-2024-03-08-07-05-52.jpg)
 
-[❓ 16.5% Identification Confidence. Also could be Vachellia farnesiana (5.1%), Nothofagus antarctica (4.4%), Tamarindus indica (3.9%), Ulmus pumila (2.4%)]
+*❓ 16.5% Identification Confidence. Also could be [Vachellia farnesiana](https://en.wikipedia.org/wiki/Vachellia_farnesiana) (5.1%), [Nothofagus antarctica](https://en.wikipedia.org/wiki/Nothofagus_antarctica) (4.4%), [Tamarindus indica](https://en.wikipedia.org/wiki/Tamarindus_indica) (3.9%), [Ulmus pumila](https://en.wikipedia.org/wiki/Ulmus_pumila) (2.4%)*
 
 
 # [Fagaceae](https://en.wikipedia.org/wiki/Fagaceae)
@@ -945,7 +945,7 @@
 
 ![data/images/Photo-2024-03-08-07-19-27.jpg](data/images/Photo-2024-03-08-07-19-27.jpg)
 
-[❓ 12.7% Identification Confidence. Also could be Ficus religiosa (7.4%), Inga laurina (6.9%), Pistacia atlantica (4.8%), Swietenia mahagoni (4.0%)]
+*❓ 12.7% Identification Confidence. Also could be [Ficus religiosa](https://en.wikipedia.org/wiki/Ficus_religiosa) (7.4%), [Inga laurina](https://en.wikipedia.org/wiki/Inga_laurina) (6.9%), [Pistacia atlantica](https://en.wikipedia.org/wiki/Pistacia_atlantica) (4.8%), [Swietenia mahagoni](https://en.wikipedia.org/wiki/Swietenia_mahagoni) (4.0%)*
 
 
 # [Juglandaceae](https://en.wikipedia.org/wiki/Juglandaceae)
@@ -969,7 +969,7 @@
 
 ![data/images/Photo-2024-02-22-07-10-50.jpg](data/images/Photo-2024-02-22-07-10-50.jpg)
 
-[❓ 36.6% Identification Confidence. Also could be Ulmus americana (7.1%), Juglans cinerea (5.5%), Ulmus thomasii (3.4%), Quercus macrocarpa (3.4%)]
+*❓ 36.6% Identification Confidence. Also could be [Ulmus americana](https://en.wikipedia.org/wiki/Ulmus_americana) (7.1%), [Juglans cinerea](https://en.wikipedia.org/wiki/Juglans_cinerea) (5.5%), [Ulmus thomasii](https://en.wikipedia.org/wiki/Ulmus_thomasii) (3.4%), [Quercus macrocarpa](https://en.wikipedia.org/wiki/Quercus_macrocarpa) (3.4%)*
 
 
 ### *[Juglans regia](https://en.wikipedia.org/wiki/Juglans_regia)* L.
@@ -989,7 +989,7 @@
 
 ![data/images/Photo-2023-12-31-07-51-13.jpg](data/images/Photo-2023-12-31-07-51-13.jpg)
 
-[❓ 7.8% Identification Confidence. Also could be Carya illinoinensis (4.9%), Fraxinus excelsior (4.8%), Alnus japonica (2.0%), Pterodon emarginatus (1.5%)]
+*❓ 7.8% Identification Confidence. Also could be [Carya illinoinensis](https://en.wikipedia.org/wiki/Carya_illinoinensis) (4.9%), [Fraxinus excelsior](https://en.wikipedia.org/wiki/Fraxinus_excelsior) (4.8%), [Alnus japonica](https://en.wikipedia.org/wiki/Alnus_japonica) (2.0%), [Pterodon emarginatus](https://en.wikipedia.org/wiki/Pterodon_emarginatus) (1.5%)*
 
 
 # [Lamiaceae](https://en.wikipedia.org/wiki/Lamiaceae)
@@ -1013,7 +1013,7 @@
 
 ![data/images/Photo-2024-03-08-06-58-01.jpg](data/images/Photo-2024-03-08-06-58-01.jpg)
 
-[❓ 7.8% Identification Confidence. Also could be Lagerstroemia speciosa (7.2%), Magnolia kobus (5.4%), Magnolia acuminata (3.8%), Holarrhena pubescens (3.4%)]
+*❓ 7.8% Identification Confidence. Also could be [Lagerstroemia speciosa](https://en.wikipedia.org/wiki/Lagerstroemia_speciosa) (7.2%), [Magnolia kobus](https://en.wikipedia.org/wiki/Magnolia_kobus) (5.4%), [Magnolia acuminata](https://en.wikipedia.org/wiki/Magnolia_acuminata) (3.8%), [Holarrhena pubescens](https://en.wikipedia.org/wiki/Holarrhena_pubescens) (3.4%)*
 
 
 # [Lauraceae](https://en.wikipedia.org/wiki/Lauraceae)
@@ -1037,7 +1037,7 @@
 
 ![data/images/Photo-2024-03-08-07-00-57.jpg](data/images/Photo-2024-03-08-07-00-57.jpg)
 
-[❓ 8.6% Identification Confidence. Also could be Mimusops elengi (7.7%), Syzygium cumini (7.1%), Phytolacca dioica (6.3%), Ligustrum lucidum (3.4%)]
+*❓ 8.6% Identification Confidence. Also could be [Mimusops elengi](https://en.wikipedia.org/wiki/Mimusops_elengi) (7.7%), [Syzygium cumini](https://en.wikipedia.org/wiki/Syzygium_cumini) (7.1%), [Phytolacca dioica](https://en.wikipedia.org/wiki/Phytolacca_dioica) (6.3%), [Ligustrum lucidum](https://en.wikipedia.org/wiki/Ligustrum_lucidum) (3.4%)*
 
 
 ## [Laurus](https://en.wikipedia.org/wiki/Laurus)
@@ -1059,7 +1059,7 @@
 
 ![data/images/Photo-2024-03-08-07-04-39.jpg](data/images/Photo-2024-03-08-07-04-39.jpg)
 
-[❓ 14.7% Identification Confidence. Also could be Laurus azorica (3.4%), Ruprechtia laxiflora (3.3%), Gymnanthemum amygdalinum (2.7%), Combretum kraussii (2.2%)]
+*❓ 14.7% Identification Confidence. Also could be [Laurus azorica](https://en.wikipedia.org/wiki/Laurus_azorica) (3.4%), [Ruprechtia laxiflora](https://en.wikipedia.org/wiki/Ruprechtia_laxiflora) (3.3%), [Gymnanthemum amygdalinum](https://en.wikipedia.org/wiki/Gymnanthemum_amygdalinum) (2.7%), [Combretum kraussii](https://en.wikipedia.org/wiki/Combretum_kraussii) (2.2%)*
 
 
 # [Malpighiaceae](https://en.wikipedia.org/wiki/Malpighiaceae)
@@ -1083,7 +1083,7 @@
 
 ![data/images/Photo-2024-03-08-07-06-01.jpg](data/images/Photo-2024-03-08-07-06-01.jpg)
 
-[❓ 11.3% Identification Confidence. Also could be Ehretia anacua (10.4%), Flacourtia jangomas (3.4%), Malpighia glabra (3.3%), Campomanesia xanthocarpa (2.4%)]
+*❓ 11.3% Identification Confidence. Also could be [Ehretia anacua](https://en.wikipedia.org/wiki/Ehretia_anacua) (10.4%), [Flacourtia jangomas](https://en.wikipedia.org/wiki/Flacourtia_jangomas) (3.4%), [Malpighia glabra](https://en.wikipedia.org/wiki/Malpighia_glabra) (3.3%), [Campomanesia xanthocarpa](https://en.wikipedia.org/wiki/Campomanesia_xanthocarpa) (2.4%)*
 
 
 # [Malvaceae](https://en.wikipedia.org/wiki/Malvaceae)
@@ -1107,7 +1107,7 @@
 
 ![data/images/Photo-2024-03-08-06-55-50.jpg](data/images/Photo-2024-03-08-06-55-50.jpg)
 
-[❓ 12.9% Identification Confidence. Also could be Hibiscus fragilis (5.6%), Hibiscus schizopetalus (4.4%), Lantana camara (2.5%), Crataegus persimilis (0.8%)]
+*❓ 12.9% Identification Confidence. Also could be [Hibiscus fragilis](https://en.wikipedia.org/wiki/Hibiscus_fragilis) (5.6%), [Hibiscus schizopetalus](https://en.wikipedia.org/wiki/Hibiscus_schizopetalus) (4.4%), [Lantana camara](https://en.wikipedia.org/wiki/Lantana_camara) (2.5%), [Crataegus persimilis](https://en.wikipedia.org/wiki/Crataegus_persimilis) (0.8%)*
 
 
 # [Meliaceae](https://en.wikipedia.org/wiki/Meliaceae)
@@ -1131,7 +1131,7 @@
 
 ![data/images/Photo-2024-03-08-06-51-54.jpg](data/images/Photo-2024-03-08-06-51-54.jpg)
 
-[❓ 20.4% Identification Confidence. Also could be Fraxinus pennsylvanica (19.6%), Carya illinoinensis (11.2%), Swietenia macrophylla (3.5%), Tabebuia rosea (3.2%)]
+*❓ 20.4% Identification Confidence. Also could be [Fraxinus pennsylvanica](https://en.wikipedia.org/wiki/Fraxinus_pennsylvanica) (19.6%), [Carya illinoinensis](https://en.wikipedia.org/wiki/Carya_illinoinensis) (11.2%), [Swietenia macrophylla](https://en.wikipedia.org/wiki/Swietenia_macrophylla) (3.5%), [Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea) (3.2%)*
 
 
 ## [Toona](https://en.wikipedia.org/wiki/Toona)
@@ -1153,21 +1153,21 @@
 
 ![data/images/Photo-2024-03-08-06-42-44.jpg](data/images/Photo-2024-03-08-06-42-44.jpg)
 
-[❓ 15.8% Identification Confidence. Also could be Lagerstroemia speciosa (13.2%), Casimiroa edulis (4.3%), Bridelia micrantha (3.6%), Cassia fistula (3.4%)]
+*❓ 15.8% Identification Confidence. Also could be [Lagerstroemia speciosa](https://en.wikipedia.org/wiki/Lagerstroemia_speciosa) (13.2%), [Casimiroa edulis](https://en.wikipedia.org/wiki/Casimiroa_edulis) (4.3%), [Bridelia micrantha](https://en.wikipedia.org/wiki/Bridelia_micrantha) (3.6%), [Cassia fistula](https://en.wikipedia.org/wiki/Cassia_fistula) (3.4%)*
 
 
 #### ❓07:07 AM (Mar 08, 2024) · [6.9153°N,79.8619°E](https://www.google.com/maps/place/6.915258N,79.861908E)
 
 ![data/images/Photo-2024-03-08-07-07-28.jpg](data/images/Photo-2024-03-08-07-07-28.jpg)
 
-[❓ 25.5% Identification Confidence. Also could be Handroanthus serratifolius (20.3%), Pleiogynium timoriense (9.6%), Pterocarpus indicus (8.7%), Cassia fistula (4.3%)]
+*❓ 25.5% Identification Confidence. Also could be [Handroanthus serratifolius](https://en.wikipedia.org/wiki/Handroanthus_serratifolius) (20.3%), [Pleiogynium timoriense](https://en.wikipedia.org/wiki/Pleiogynium_timoriense) (9.6%), [Pterocarpus indicus](https://en.wikipedia.org/wiki/Pterocarpus_indicus) (8.7%), [Cassia fistula](https://en.wikipedia.org/wiki/Cassia_fistula) (4.3%)*
 
 
 #### ❓07:14 AM (Mar 08, 2024) · [6.9142°N,79.8622°E](https://www.google.com/maps/place/6.914192N,79.862214E)
 
 ![data/images/Photo-2024-03-08-07-14-23.jpg](data/images/Photo-2024-03-08-07-14-23.jpg)
 
-[❓ 35.0% Identification Confidence. Also could be Pterocarpus indicus (4.6%), Spathodea campanulata (2.7%), Amburana cearensis (2.5%), Azadirachta indica (2.4%)]
+*❓ 35.0% Identification Confidence. Also could be [Pterocarpus indicus](https://en.wikipedia.org/wiki/Pterocarpus_indicus) (4.6%), [Spathodea campanulata](https://en.wikipedia.org/wiki/Spathodea_campanulata) (2.7%), [Amburana cearensis](https://en.wikipedia.org/wiki/Amburana_cearensis) (2.5%), [Azadirachta indica](https://en.wikipedia.org/wiki/Azadirachta_indica) (2.4%)*
 
 
 # [Moraceae](https://en.wikipedia.org/wiki/Moraceae)
@@ -1191,14 +1191,14 @@
 
 ![data/images/Photo-2024-03-08-06-55-11.jpg](data/images/Photo-2024-03-08-06-55-11.jpg)
 
-[❓ 20.8% Identification Confidence. Also could be Magnolia virginiana (5.1%), Terminalia catappa (4.7%), Artocarpus integer (4.5%), Viburnum odoratissimum (2.1%)]
+*❓ 20.8% Identification Confidence. Also could be [Magnolia virginiana](https://en.wikipedia.org/wiki/Magnolia_virginiana) (5.1%), [Terminalia catappa](https://en.wikipedia.org/wiki/Terminalia_catappa) (4.7%), [Artocarpus integer](https://en.wikipedia.org/wiki/Artocarpus_integer) (4.5%), [Viburnum odoratissimum](https://en.wikipedia.org/wiki/Viburnum_odoratissimum) (2.1%)*
 
 
 #### 🌳07:07 AM (Mar 08, 2024) · [6.9152°N,79.8619°E](https://www.google.com/maps/place/6.915197N,79.861947E)
 
 ![data/images/Photo-2024-03-08-07-07-47.jpg](data/images/Photo-2024-03-08-07-07-47.jpg)
 
-[🌳 94.2% Identification Confidence. Also could be Artocarpus integer (3.4%), Ficus benghalensis (0.1%)]
+*🌳 94.2% Identification Confidence. Also could be [Artocarpus integer](https://en.wikipedia.org/wiki/Artocarpus_integer) (3.4%), [Ficus benghalensis](https://en.wikipedia.org/wiki/Ficus_benghalensis) (0.1%)*
 
 
 ## [Ficus](https://en.wikipedia.org/wiki/Ficus)
@@ -1220,7 +1220,7 @@
 
 ![data/images/Photo-2024-03-08-06-52-52.jpg](data/images/Photo-2024-03-08-06-52-52.jpg)
 
-[❓ 21.4% Identification Confidence. Also could be Ficus luschnathiana (11.9%), Ficus insipida (8.0%), Ficus septica (5.5%), Ficus virens (4.1%)]
+*❓ 21.4% Identification Confidence. Also could be [Ficus luschnathiana](https://en.wikipedia.org/wiki/Ficus_luschnathiana) (11.9%), [Ficus insipida](https://en.wikipedia.org/wiki/Ficus_insipida) (8.0%), [Ficus septica](https://en.wikipedia.org/wiki/Ficus_septica) (5.5%), [Ficus virens](https://en.wikipedia.org/wiki/Ficus_virens) (4.1%)*
 
 
 ### *[Ficus benghalensis](https://en.wikipedia.org/wiki/Ficus_benghalensis)* L.
@@ -1240,14 +1240,14 @@
 
 ![data/images/Photo-2024-03-08-06-56-14.jpg](data/images/Photo-2024-03-08-06-56-14.jpg)
 
-[❓ 48.5% Identification Confidence. Also could be Ficus septica (9.2%), Ficus aurea (6.7%), Ficus callosa (5.0%), Ficus altissima (3.6%)]
+*❓ 48.5% Identification Confidence. Also could be [Ficus septica](https://en.wikipedia.org/wiki/Ficus_septica) (9.2%), [Ficus aurea](https://en.wikipedia.org/wiki/Ficus_aurea) (6.7%), [Ficus callosa](https://en.wikipedia.org/wiki/Ficus_callosa) (5.0%), [Ficus altissima](https://en.wikipedia.org/wiki/Ficus_altissima) (3.6%)*
 
 
 #### ❓07:12 AM (Mar 08, 2024) · [6.9145°N,79.8621°E](https://www.google.com/maps/place/6.914483N,79.862144E)
 
 ![data/images/Photo-2024-03-08-07-12-45.jpg](data/images/Photo-2024-03-08-07-12-45.jpg)
 
-[❓ 42.6% Identification Confidence. Also could be Ficus altissima (14.5%), Ficus elastica (11.8%), Ficus aurea (5.0%), Ficus virens (2.9%)]
+*❓ 42.6% Identification Confidence. Also could be [Ficus altissima](https://en.wikipedia.org/wiki/Ficus_altissima) (14.5%), [Ficus elastica](https://en.wikipedia.org/wiki/Ficus_elastica) (11.8%), [Ficus aurea](https://en.wikipedia.org/wiki/Ficus_aurea) (5.0%), [Ficus virens](https://en.wikipedia.org/wiki/Ficus_virens) (2.9%)*
 
 
 ### *[Ficus elastica](https://en.wikipedia.org/wiki/Ficus_elastica)* Roxb. ex Hornem.
@@ -1267,14 +1267,14 @@
 
 ![data/images/Photo-2024-03-08-06-49-41.jpg](data/images/Photo-2024-03-08-06-49-41.jpg)
 
-[❓ 42.1% Identification Confidence. Also could be Ficus altissima (12.9%), Ficus lutea (8.9%), Ficus benghalensis (7.6%), Ficus virens (1.7%)]
+*❓ 42.1% Identification Confidence. Also could be [Ficus altissima](https://en.wikipedia.org/wiki/Ficus_altissima) (12.9%), [Ficus lutea](https://en.wikipedia.org/wiki/Ficus_lutea) (8.9%), [Ficus benghalensis](https://en.wikipedia.org/wiki/Ficus_benghalensis) (7.6%), [Ficus virens](https://en.wikipedia.org/wiki/Ficus_virens) (1.7%)*
 
 
 #### ❓06:53 AM (Mar 08, 2024) · [6.9136°N,79.8641°E](https://www.google.com/maps/place/6.913567N,79.864144E)
 
 ![data/images/Photo-2024-03-08-06-53-49.jpg](data/images/Photo-2024-03-08-06-53-49.jpg)
 
-[❓ 29.1% Identification Confidence. Also could be Ficus benghalensis (18.4%), Ficus religiosa (7.8%), Ficus nymphaeifolia (6.2%), Ficus altissima (5.7%)]
+*❓ 29.1% Identification Confidence. Also could be [Ficus benghalensis](https://en.wikipedia.org/wiki/Ficus_benghalensis) (18.4%), [Ficus religiosa](https://en.wikipedia.org/wiki/Ficus_religiosa) (7.8%), [Ficus nymphaeifolia](https://en.wikipedia.org/wiki/Ficus_nymphaeifolia) (6.2%), [Ficus altissima](https://en.wikipedia.org/wiki/Ficus_altissima) (5.7%)*
 
 
 ### *[Ficus insipida](https://en.wikipedia.org/wiki/Ficus_insipida)* Willd.
@@ -1294,7 +1294,7 @@
 
 ![data/images/Photo-2024-03-08-06-43-16.jpg](data/images/Photo-2024-03-08-06-43-16.jpg)
 
-[🌳 53.0% Identification Confidence. Also could be Ficus virens (9.6%), Ficus lutea (5.1%), Syzygium cumini (2.7%), Inga uraguensis (2.0%)]
+*🌳 53.0% Identification Confidence. Also could be [Ficus virens](https://en.wikipedia.org/wiki/Ficus_virens) (9.6%), [Ficus lutea](https://en.wikipedia.org/wiki/Ficus_lutea) (5.1%), [Syzygium cumini](https://en.wikipedia.org/wiki/Syzygium_cumini) (2.7%), [Inga uraguensis](https://en.wikipedia.org/wiki/Inga_uraguensis) (2.0%)*
 
 
 ### *[Ficus religiosa](https://en.wikipedia.org/wiki/Ficus_religiosa)* L.
@@ -1314,7 +1314,7 @@
 
 ![data/images/Photo-2024-03-08-07-14-47.jpg](data/images/Photo-2024-03-08-07-14-47.jpg)
 
-[🌳 84.2% Identification Confidence. Also could be Hura crepitans (2.3%), Bischofia javanica (1.4%), Triadica sebifera (1.4%), Ficus virens (0.9%)]
+*🌳 84.2% Identification Confidence. Also could be [Hura crepitans](https://en.wikipedia.org/wiki/Hura_crepitans) (2.3%), [Bischofia javanica](https://en.wikipedia.org/wiki/Bischofia_javanica) (1.4%), [Triadica sebifera](https://en.wikipedia.org/wiki/Triadica_sebifera) (1.4%), [Ficus virens](https://en.wikipedia.org/wiki/Ficus_virens) (0.9%)*
 
 
 ### *[Ficus retusa](https://en.wikipedia.org/wiki/Ficus_retusa)* L.
@@ -1334,7 +1334,7 @@
 
 ![data/images/Photo-2024-03-08-06-41-54.jpg](data/images/Photo-2024-03-08-06-41-54.jpg)
 
-[❓ 20.8% Identification Confidence. Also could be Ficus benjamina (18.5%), Osmanthus fragrans (11.6%), Quercus glauca (2.8%), Cinnamomum camphora (2.5%)]
+*❓ 20.8% Identification Confidence. Also could be [Ficus benjamina](https://en.wikipedia.org/wiki/Ficus_benjamina) (18.5%), [Osmanthus fragrans](https://en.wikipedia.org/wiki/Osmanthus_fragrans) (11.6%), [Quercus glauca](https://en.wikipedia.org/wiki/Quercus_glauca) (2.8%), [Cinnamomum camphora](https://en.wikipedia.org/wiki/Cinnamomum_camphora) (2.5%)*
 
 
 # [Moringaceae](https://en.wikipedia.org/wiki/Moringaceae)
@@ -1358,7 +1358,7 @@
 
 ![data/images/Photo-2024-03-08-07-13-16.jpg](data/images/Photo-2024-03-08-07-13-16.jpg)
 
-[❓ 16.6% Identification Confidence. Also could be Ficus religiosa (12.7%), Tabebuia rosea (5.7%), Ipomoea arborescens (2.1%), Amburana cearensis (1.5%)]
+*❓ 16.6% Identification Confidence. Also could be [Ficus religiosa](https://en.wikipedia.org/wiki/Ficus_religiosa) (12.7%), [Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea) (5.7%), [Ipomoea arborescens](https://en.wikipedia.org/wiki/Ipomoea_arborescens) (2.1%), [Amburana cearensis](https://en.wikipedia.org/wiki/Amburana_cearensis) (1.5%)*
 
 
 # [Myrtaceae](https://en.wikipedia.org/wiki/Myrtaceae)
@@ -1382,7 +1382,7 @@
 
 ![data/images/Photo-2024-03-08-06-52-11.jpg](data/images/Photo-2024-03-08-06-52-11.jpg)
 
-[❓ 35.4% Identification Confidence. Also could be Mesua ferrea (11.2%), Celtis australis (3.2%), Eugenia jambosoides (3.0%), Eucalyptus obliqua (2.3%)]
+*❓ 35.4% Identification Confidence. Also could be [Mesua ferrea](https://en.wikipedia.org/wiki/Mesua_ferrea) (11.2%), [Celtis australis](https://en.wikipedia.org/wiki/Celtis_australis) (3.2%), [Eugenia jambosoides](https://en.wikipedia.org/wiki/Eugenia_jambosoides) (3.0%), [Eucalyptus obliqua](https://en.wikipedia.org/wiki/Eucalyptus_obliqua) (2.3%)*
 
 
 ## [Melaleuca](https://en.wikipedia.org/wiki/Melaleuca)
@@ -1404,7 +1404,7 @@
 
 ![data/images/Photo-2024-03-08-06-49-11.jpg](data/images/Photo-2024-03-08-06-49-11.jpg)
 
-[❓ 6.4% Identification Confidence. Also could be Celtis australis (5.6%), Eucalyptus robusta (4.3%), Mesua ferrea (2.3%), Eucalyptus globulus (2.3%)]
+*❓ 6.4% Identification Confidence. Also could be [Celtis australis](https://en.wikipedia.org/wiki/Celtis_australis) (5.6%), [Eucalyptus robusta](https://en.wikipedia.org/wiki/Eucalyptus_robusta) (4.3%), [Mesua ferrea](https://en.wikipedia.org/wiki/Mesua_ferrea) (2.3%), [Eucalyptus globulus](https://en.wikipedia.org/wiki/Eucalyptus_globulus) (2.3%)*
 
 
 ### *[Melaleuca quinquenervia](https://en.wikipedia.org/wiki/Melaleuca_quinquenervia)* (Cav.) S.T.Blake
@@ -1424,28 +1424,28 @@
 
 ![data/images/Photo-2024-03-08-06-57-27.jpg](data/images/Photo-2024-03-08-06-57-27.jpg)
 
-[🌳 77.0% Identification Confidence. Also could be Melaleuca leucadendra (5.8%), Melaleuca styphelioides (1.8%), Acacia spirorbis (0.8%), Acacia longifolia (0.4%)]
+*🌳 77.0% Identification Confidence. Also could be [Melaleuca leucadendra](https://en.wikipedia.org/wiki/Melaleuca_leucadendra) (5.8%), [Melaleuca styphelioides](https://en.wikipedia.org/wiki/Melaleuca_styphelioides) (1.8%), [Acacia spirorbis](https://en.wikipedia.org/wiki/Acacia_spirorbis) (0.8%), [Acacia longifolia](https://en.wikipedia.org/wiki/Acacia_longifolia) (0.4%)*
 
 
 #### ❓06:57 AM (Mar 08, 2024) · [6.9141°N,79.8641°E](https://www.google.com/maps/place/6.914108N,79.864106E)
 
 ![data/images/Photo-2024-03-08-06-57-45.jpg](data/images/Photo-2024-03-08-06-57-45.jpg)
 
-[❓ 12.6% Identification Confidence. Also could be Olea europaea (9.1%), Melaleuca citrina (6.0%), Melaleuca viminalis (2.6%), Tristaniopsis laurina (2.5%)]
+*❓ 12.6% Identification Confidence. Also could be [Olea europaea](https://en.wikipedia.org/wiki/Olea_europaea) (9.1%), [Melaleuca citrina](https://en.wikipedia.org/wiki/Melaleuca_citrina) (6.0%), [Melaleuca viminalis](https://en.wikipedia.org/wiki/Melaleuca_viminalis) (2.6%), [Tristaniopsis laurina](https://en.wikipedia.org/wiki/Tristaniopsis_laurina) (2.5%)*
 
 
 #### 🌳06:58 AM (Mar 08, 2024) · [6.9143°N,79.8639°E](https://www.google.com/maps/place/6.914267N,79.863883E)
 
 ![data/images/Photo-2024-03-08-06-58-25.jpg](data/images/Photo-2024-03-08-06-58-25.jpg)
 
-[🌳 98.5% Identification Confidence. Also could be Melaleuca leucadendra (0.6%), Melaleuca styphelioides (0.2%)]
+*🌳 98.5% Identification Confidence. Also could be [Melaleuca leucadendra](https://en.wikipedia.org/wiki/Melaleuca_leucadendra) (0.6%), [Melaleuca styphelioides](https://en.wikipedia.org/wiki/Melaleuca_styphelioides) (0.2%)*
 
 
 #### ❓07:01 AM (Mar 08, 2024) · [6.9145°N,79.8635°E](https://www.google.com/maps/place/6.914506N,79.863547E)
 
 ![data/images/Photo-2024-03-08-07-01-12.jpg](data/images/Photo-2024-03-08-07-01-12.jpg)
 
-[❓ 33.3% Identification Confidence. Also could be Banksia integrifolia (4.5%), Byrsonima crassifolia (4.5%), Melaleuca leucadendra (4.2%), Umbellularia californica (3.2%)]
+*❓ 33.3% Identification Confidence. Also could be [Banksia integrifolia](https://en.wikipedia.org/wiki/Banksia_integrifolia) (4.5%), [Byrsonima crassifolia](https://en.wikipedia.org/wiki/Byrsonima_crassifolia) (4.5%), [Melaleuca leucadendra](https://en.wikipedia.org/wiki/Melaleuca_leucadendra) (4.2%), [Umbellularia californica](https://en.wikipedia.org/wiki/Umbellularia_californica) (3.2%)*
 
 
 ## [Syzygium](https://en.wikipedia.org/wiki/Syzygium)
@@ -1467,14 +1467,14 @@
 
 ![data/images/Photo-2024-03-08-06-59-40.jpg](data/images/Photo-2024-03-08-06-59-40.jpg)
 
-[❓ 24.1% Identification Confidence. Also could be Juglans regia (6.8%), Syzygium malaccense (3.5%), Ficus altissima (2.9%), Ficus lacor (2.7%)]
+*❓ 24.1% Identification Confidence. Also could be [Juglans regia](https://en.wikipedia.org/wiki/Juglans_regia) (6.8%), [Syzygium malaccense](https://en.wikipedia.org/wiki/Syzygium_malaccense) (3.5%), [Ficus altissima](https://en.wikipedia.org/wiki/Ficus_altissima) (2.9%), [Ficus lacor](https://en.wikipedia.org/wiki/Ficus_lacor) (2.7%)*
 
 
 #### ❓07:00 AM (Mar 08, 2024) · [6.9142°N,79.8637°E](https://www.google.com/maps/place/6.914189N,79.863678E)
 
 ![data/images/Photo-2024-03-08-07-00-00.jpg](data/images/Photo-2024-03-08-07-00-00.jpg)
 
-[❓ 17.2% Identification Confidence. Also could be Annona purpurea (7.8%), Juglans regia (4.9%), Diospyros blancoi (2.9%), Eugenia jambosoides (2.6%)]
+*❓ 17.2% Identification Confidence. Also could be [Annona purpurea](https://en.wikipedia.org/wiki/Annona_purpurea) (7.8%), [Juglans regia](https://en.wikipedia.org/wiki/Juglans_regia) (4.9%), [Diospyros blancoi](https://en.wikipedia.org/wiki/Diospyros_blancoi) (2.9%), [Eugenia jambosoides](https://en.wikipedia.org/wiki/Eugenia_jambosoides) (2.6%)*
 
 
 # [Oleaceae](https://en.wikipedia.org/wiki/Oleaceae)
@@ -1498,7 +1498,7 @@
 
 ![data/images/Photo-2024-03-08-07-12-01.jpg](data/images/Photo-2024-03-08-07-12-01.jpg)
 
-[❓ 19.2% Identification Confidence. Also could be Tabebuia roseoalba (8.6%), Tabebuia rosea (6.2%), Clerodendrum quadriloculare (2.8%), Handroanthus ochraceus (2.1%)]
+*❓ 19.2% Identification Confidence. Also could be [Tabebuia roseoalba](https://en.wikipedia.org/wiki/Tabebuia_roseoalba) (8.6%), [Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea) (6.2%), [Clerodendrum quadriloculare](https://en.wikipedia.org/wiki/Clerodendrum_quadriloculare) (2.8%), [Handroanthus ochraceus](https://en.wikipedia.org/wiki/Handroanthus_ochraceus) (2.1%)*
 
 
 ## [Phillyrea](https://en.wikipedia.org/wiki/Phillyrea)
@@ -1520,7 +1520,7 @@
 
 ![data/images/Photo-2024-03-08-06-54-25.jpg](data/images/Photo-2024-03-08-06-54-25.jpg)
 
-[❓ 8.5% Identification Confidence. Also could be Terminalia mantaly (3.5%), Quercus suber (2.9%), Sloanea terniflora (2.3%), Ulmus pumila (1.9%)]
+*❓ 8.5% Identification Confidence. Also could be [Terminalia mantaly](https://en.wikipedia.org/wiki/Terminalia_mantaly) (3.5%), [Quercus suber](https://en.wikipedia.org/wiki/Quercus_suber) (2.9%), [Sloanea terniflora](https://en.wikipedia.org/wiki/Sloanea_terniflora) (2.3%), [Ulmus pumila](https://en.wikipedia.org/wiki/Ulmus_pumila) (1.9%)*
 
 
 # [Oxalidaceae](https://en.wikipedia.org/wiki/Oxalidaceae)
@@ -1544,7 +1544,7 @@
 
 ![data/images/Photo-2024-02-22-07-17-16.jpg](data/images/Photo-2024-02-22-07-17-16.jpg)
 
-[❓ 10.9% Identification Confidence. Also could be Lagerstroemia speciosa (7.7%), Brownea grandiceps (5.7%), Phyllanthus acidus (4.9%), Koelreuteria bipinnata (4.4%)]
+*❓ 10.9% Identification Confidence. Also could be [Lagerstroemia speciosa](https://en.wikipedia.org/wiki/Lagerstroemia_speciosa) (7.7%), [Brownea grandiceps](https://en.wikipedia.org/wiki/Brownea_grandiceps) (5.7%), [Phyllanthus acidus](https://en.wikipedia.org/wiki/Phyllanthus_acidus) (4.9%), [Koelreuteria bipinnata](https://en.wikipedia.org/wiki/Koelreuteria_bipinnata) (4.4%)*
 
 
 # [Pittosporaceae](https://en.wikipedia.org/wiki/Pittosporaceae)
@@ -1568,7 +1568,7 @@
 
 ![data/images/Photo-2024-02-10-08-03-25.jpg](data/images/Photo-2024-02-10-08-03-25.jpg)
 
-[❓ 5.3% Identification Confidence. Also could be Melaleuca alternifolia (3.4%), Camellia sinensis (3.2%), Pittosporum senacia (2.3%), Cornus florida (2.1%)]
+*❓ 5.3% Identification Confidence. Also could be [Melaleuca alternifolia](https://en.wikipedia.org/wiki/Melaleuca_alternifolia) (3.4%), [Camellia sinensis](https://en.wikipedia.org/wiki/Camellia_sinensis) (3.2%), [Pittosporum senacia](https://en.wikipedia.org/wiki/Pittosporum_senacia) (2.3%), [Cornus florida](https://en.wikipedia.org/wiki/Cornus_florida) (2.1%)*
 
 
 # [Poaceae](https://en.wikipedia.org/wiki/Poaceae)
@@ -1592,7 +1592,7 @@
 
 ![data/images/Photo-2024-03-08-06-42-10.jpg](data/images/Photo-2024-03-08-06-42-10.jpg)
 
-[❓ 32.2% Identification Confidence. Also could be Bambusa vulgaris (6.6%), Phyllostachys aurea (2.3%), Phyllostachys nigra (1.0%), Bambusa tuldoides (0.7%)]
+*❓ 32.2% Identification Confidence. Also could be [Bambusa vulgaris](https://en.wikipedia.org/wiki/Bambusa_vulgaris) (6.6%), [Phyllostachys aurea](https://en.wikipedia.org/wiki/Phyllostachys_aurea) (2.3%), [Phyllostachys nigra](https://en.wikipedia.org/wiki/Phyllostachys_nigra) (1.0%), [Bambusa tuldoides](https://en.wikipedia.org/wiki/Bambusa_tuldoides) (0.7%)*
 
 
 # [Podocarpaceae](https://en.wikipedia.org/wiki/Podocarpaceae)
@@ -1616,7 +1616,7 @@
 
 ![data/images/Photo-2024-03-08-07-20-12.jpg](data/images/Photo-2024-03-08-07-20-12.jpg)
 
-[❓ 49.5% Identification Confidence. Also could be Myristica fragrans (1.7%), Diospyros buxifolia (1.7%), Elaeocarpus reticulatus (1.4%), Prunus caroliniana (1.3%)]
+*❓ 49.5% Identification Confidence. Also could be [Myristica fragrans](https://en.wikipedia.org/wiki/Myristica_fragrans) (1.7%), [Diospyros buxifolia](https://en.wikipedia.org/wiki/Diospyros_buxifolia) (1.7%), [Elaeocarpus reticulatus](https://en.wikipedia.org/wiki/Elaeocarpus_reticulatus) (1.4%), [Prunus caroliniana](https://en.wikipedia.org/wiki/Prunus_caroliniana) (1.3%)*
 
 
 # [Polypodiaceae](https://en.wikipedia.org/wiki/Polypodiaceae)
@@ -1640,7 +1640,7 @@
 
 ![data/images/Photo-2024-03-08-07-19-20.jpg](data/images/Photo-2024-03-08-07-19-20.jpg)
 
-[🌳 84.0% Identification Confidence. Also could be Nephrolepis biserrata (6.5%), Nephrolepis abrupta (1.1%), Phymatosorus scolopendria (0.5%), Nephrolepis exaltata (0.3%)]
+*🌳 84.0% Identification Confidence. Also could be [Nephrolepis biserrata](https://en.wikipedia.org/wiki/Nephrolepis_biserrata) (6.5%), [Nephrolepis abrupta](https://en.wikipedia.org/wiki/Nephrolepis_abrupta) (1.1%), [Phymatosorus scolopendria](https://en.wikipedia.org/wiki/Phymatosorus_scolopendria) (0.5%), [Nephrolepis exaltata](https://en.wikipedia.org/wiki/Nephrolepis_exaltata) (0.3%)*
 
 
 # [Rubiaceae](https://en.wikipedia.org/wiki/Rubiaceae)
@@ -1664,7 +1664,7 @@
 
 ![data/images/Photo-2024-03-08-07-15-54.jpg](data/images/Photo-2024-03-08-07-15-54.jpg)
 
-[🌳 97.4% Identification Confidence. Also could be Weigela florida (0.3%), Mussaenda erythrophylla (0.2%), Viburnum farreri (0.1%), Viburnum plicatum (0.1%)]
+*🌳 97.4% Identification Confidence. Also could be [Weigela florida](https://en.wikipedia.org/wiki/Weigela_florida) (0.3%), [Mussaenda erythrophylla](https://en.wikipedia.org/wiki/Mussaenda_erythrophylla) (0.2%), [Viburnum farreri](https://en.wikipedia.org/wiki/Viburnum_farreri) (0.1%), [Viburnum plicatum](https://en.wikipedia.org/wiki/Viburnum_plicatum) (0.1%)*
 
 
 # [Sapindaceae](https://en.wikipedia.org/wiki/Sapindaceae)
@@ -1688,7 +1688,7 @@
 
 ![data/images/Photo-2024-03-08-06-59-04.jpg](data/images/Photo-2024-03-08-06-59-04.jpg)
 
-[❓ 12.5% Identification Confidence. Also could be Myrica faya (5.9%), Banksia integrifolia (4.4%), Acacia longifolia (3.0%), Licania ternatensis (2.7%)]
+*❓ 12.5% Identification Confidence. Also could be [Myrica faya](https://en.wikipedia.org/wiki/Myrica_faya) (5.9%), [Banksia integrifolia](https://en.wikipedia.org/wiki/Banksia_integrifolia) (4.4%), [Acacia longifolia](https://en.wikipedia.org/wiki/Acacia_longifolia) (3.0%), [Licania ternatensis](https://en.wikipedia.org/wiki/Licania_ternatensis) (2.7%)*
 
 
 # [Sapotaceae](https://en.wikipedia.org/wiki/Sapotaceae)
@@ -1712,5 +1712,5 @@
 
 ![data/images/Photo-2024-03-08-07-01-24.jpg](data/images/Photo-2024-03-08-07-01-24.jpg)
 
-[❓ 7.5% Identification Confidence. Also could be Ligustrum lucidum (5.9%), Syzygium cumini (5.6%), Plinia cauliflora (4.7%), Quercus glauca (3.5%)]
+*❓ 7.5% Identification Confidence. Also could be [Ligustrum lucidum](https://en.wikipedia.org/wiki/Ligustrum_lucidum) (5.9%), [Syzygium cumini](https://en.wikipedia.org/wiki/Syzygium_cumini) (5.6%), [Plinia cauliflora](https://en.wikipedia.org/wiki/Plinia_cauliflora) (4.7%), [Quercus glauca](https://en.wikipedia.org/wiki/Quercus_glauca) (3.5%)*
 

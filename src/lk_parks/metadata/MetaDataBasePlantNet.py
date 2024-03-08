@@ -67,14 +67,6 @@ class MetaDataBasePlantNet:
         return idx
 
     @property
-    def other_candidates_pretty(self) -> str:
-        def format_item(item):
-            species, score = item
-            return f'{species} ({score:.1%})'
-        return ', '.join([format_item(x)
-                         for x in self.species_to_score.items()])
-
-    @property
     def gbif_id(self) -> str:
         return self.best_plantnet_result['gbif']['id']
 

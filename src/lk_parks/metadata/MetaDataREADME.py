@@ -90,10 +90,19 @@ class MetaDataREADME:
         ]
 
     @property
+    def other_candidates_pretty(self) -> str:
+        def format_item(item):
+            species, score = item
+            species_link = MetaDataREADME.get_wiki_link(species)
+            return f'{species_link} ({score:.1%})'
+        return ', '.join([format_item(x)
+                         for x in self.species_to_score.items()])
+
+    @property
     def confidence_combined(self) -> str:
-        return f'[{self.confidence_emoji} ' + \
+        return f'*{self.confidence_emoji} ' + \
             f'{self.confidence:.1%} Identification Confidence. ' + \
-            'Also could be ' + f'{self.other_candidates_pretty}]'
+            'Also could be ' + f'{self.other_candidates_pretty}*'
 
     @property
     def photo_lines(self):
