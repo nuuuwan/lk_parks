@@ -20,7 +20,7 @@ class NameTranslator:
 
     @staticmethod
     def clean_text(x):
-        x = re.sub(r'[^a-zA-Z ]', ' ', x)
+        x = re.sub(r'[^a-zA-Z, ]', ' ', x)
         x = re.sub(r'\s+', ' ', x)
         return x.strip()
 
@@ -32,7 +32,9 @@ class NameTranslator:
 
     @staticmethod
     def parse_scientific_name(elem):
-        x = NameTranslator.clean_text(elem.text)
+        x = elem.text
+        x = x.replace(',', ' ')
+        x = NameTranslator.clean_text(x)
 
         tokens = x.strip().split(' ')
         if len(tokens) < 2:
