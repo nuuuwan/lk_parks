@@ -72,7 +72,7 @@ class MetaDataREADME:
     def species_lines(self):
         return [
             '',
-            f'*{self.common_names_pretty}*'
+            f'*{self.common_names_pretty}*',
             '',
             '|  |  |',
 

@@ -5,7 +5,9 @@
 ### *[Avicennia marina](https://en.wikipedia.org/wiki/Avicennia_marina)* (Forssk.) Vierh.
 
 
-*Grey mangrove, White mangrove, Gray mangrove*|  |  |
+*Grey mangrove, White mangrove, Gray mangrove*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [2925403](https://www.gbif.org/species/2925403) |
 | **Plants of the World Online (POWO)** | [861130-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:861130-1) |
@@ -29,7 +31,9 @@
 ### *[Anacardium occidentale](https://en.wikipedia.org/wiki/Anacardium_occidentale)* L.
 
 
-*Cashew, Cashewnut, Pomifera*|  |  |
+*Cashew, Cashewnut, Pomifera*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [5421368](https://www.gbif.org/species/5421368) |
 | **Plants of the World Online (POWO)** | [319068-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:319068-2) |
@@ -51,7 +55,9 @@
 ### *[Mangifera indica](https://en.wikipedia.org/wiki/Mangifera_indica)* L.
 
 
-*Mango, Mango Tree, आम*|  |  |
+*Mango, Mango Tree, आम*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3190638](https://www.gbif.org/species/3190638) |
 | **Plants of the World Online (POWO)** | [69913-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:69913-1) |
@@ -91,7 +97,9 @@
 ### *[Spondias purpurea](https://en.wikipedia.org/wiki/Spondias_purpurea)* L.
 
 
-*Purple mombin, Red mombin, Spanish-plum*|  |  |
+*Purple mombin, Red mombin, Spanish-plum*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3190598](https://www.gbif.org/species/3190598) |
 | **Plants of the World Online (POWO)** | [71494-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:71494-1) |
@@ -115,7 +123,9 @@
 ### *[Monodora tenuifolia](https://en.wikipedia.org/wiki/Monodora_tenuifolia)* Benth.
 
 
-*Orchidtree, African-nutmeg*|  |  |
+*Orchidtree, African-nutmeg*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3154093](https://www.gbif.org/species/3154093) |
 | **Plants of the World Online (POWO)** | [74147-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:74147-1) |
@@ -139,7 +149,9 @@
 ### *[Allamanda cathartica](https://en.wikipedia.org/wiki/Allamanda_cathartica)* L.
 
 
-*Golden-trumpet, Allamanda, Yellow allamanda*|  |  |
+*Golden-trumpet, Allamanda, Yellow allamanda*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3169836](https://www.gbif.org/species/3169836) |
 | **Plants of the World Online (POWO)** | [319065-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:319065-2) |
@@ -161,7 +173,9 @@
 ### *[Carissa carandas](https://en.wikipedia.org/wiki/Carissa_carandas)* L.
 
 
-*Bengal-currants, Carandas-plum, Karanda*|  |  |
+*Bengal-currants, Carandas-plum, Karanda*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [5414419](https://www.gbif.org/species/5414419) |
 | **Plants of the World Online (POWO)** | [77691-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77691-1) |
@@ -183,7 +197,9 @@
 ### *[Plumeria obtusa](https://en.wikipedia.org/wiki/Plumeria_obtusa)* L.
 
 
-*Frangipani, Singapore graveyard flower, దేవ గన్నేరు*|  |  |
+*Frangipani, Singapore graveyard flower, దేవ గన్నేరు*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3169677](https://www.gbif.org/species/3169677) |
 | **Plants of the World Online (POWO)** | [81256-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:81256-1) |
@@ -214,7 +230,9 @@
 ### *[Tabernaemontana divaricata](https://en.wikipedia.org/wiki/Tabernaemontana_divaricata)* (L.) R.Br. ex Roem. & Schult.
 
 
-*Crape-jasmine, Butterfly-gardenia, నందివర్ధనం*|  |  |
+*Crape-jasmine, Butterfly-gardenia, నందివర్ధనం*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3169625](https://www.gbif.org/species/3169625) |
 | **Plants of the World Online (POWO)** | [82097-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:82097-1) |
@@ -236,7 +254,9 @@
 ### *[Trachelospermum jasminoides](https://en.wikipedia.org/wiki/Trachelospermum_jasminoides)* (Lindl.) Lem.
 
 
-*Star jasmine, Confederate jasmine, Chinese star-jessamine*|  |  |
+*Star jasmine, Confederate jasmine, Chinese star-jessamine*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3169713](https://www.gbif.org/species/3169713) |
 | **Plants of the World Online (POWO)** | [82553-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:82553-1) |
@@ -260,7 +280,9 @@
 ### *[Dictyosperma album](https://en.wikipedia.org/wiki/Dictyosperma_album)* (Bory) Scheff.
 
 
-*Common princess palm, Hurricane palm*|  |  |
+*Common princess palm, Hurricane palm*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [5293187](https://www.gbif.org/species/5293187) |
 | **Plants of the World Online (POWO)** | [666678-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:666678-1) |
@@ -282,7 +304,9 @@
 ### *[Roystonea regia](https://en.wikipedia.org/wiki/Roystonea_regia)* (Kunth) O.F.Cook
 
 
-*Cuban royal palm, Florida royal palm, Royal palm*|  |  |
+*Cuban royal palm, Florida royal palm, Royal palm*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [2733755](https://www.gbif.org/species/2733755) |
 | **Plants of the World Online (POWO)** | [222809-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:222809-2) |
@@ -322,7 +346,9 @@
 ### *[Wodyetia bifurcata](https://en.wikipedia.org/wiki/Wodyetia_bifurcata)* A.K.Irvine
 
 
-*Foxtail palm*|  |  |
+*Foxtail palm*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [2736620](https://www.gbif.org/species/2736620) |
 | **Plants of the World Online (POWO)** | [903383-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:903383-1) |
@@ -346,7 +372,9 @@
 ### *[Betula nigra](https://en.wikipedia.org/wiki/Betula_nigra)* L.
 
 
-*River birch, Red birch, Black Birch*|  |  |
+*River birch, Red birch, Black Birch*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [5331532](https://www.gbif.org/species/5331532) |
 | **Plants of the World Online (POWO)** | [295155-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:295155-1) |
@@ -370,7 +398,9 @@
 ### *[Tabebuia pallida](https://en.wikipedia.org/wiki/Tabebuia_pallida)* (Lindl.) Miers
 
 
-*Cuban pink trumpet-tree, White-cedar, Whitewood*|  |  |
+*Cuban pink trumpet-tree, White-cedar, Whitewood*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3172527](https://www.gbif.org/species/3172527) |
 | **Plants of the World Online (POWO)** | [110996-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:110996-1) |
@@ -399,7 +429,9 @@
 ### *[Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea)* (Bertol.) Bertero ex A.DC.
 
 
-*Pink poui, Pink trumpet-tree, Rosy trumpet-tree*|  |  |
+*Pink poui, Pink trumpet-tree, Rosy trumpet-tree*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3172537](https://www.gbif.org/species/3172537) |
 | **Plants of the World Online (POWO)** | [111027-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:111027-1) |
@@ -468,7 +500,9 @@
 ### *[Cordia dichotoma](https://en.wikipedia.org/wiki/Cordia_dichotoma)* G.Forst.
 
 
-*Fragrant manjack, Indian-cherry, Clammy-cherry*|  |  |
+*Fragrant manjack, Indian-cherry, Clammy-cherry*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [5341270](https://www.gbif.org/species/5341270) |
 | **Plants of the World Online (POWO)** | [114098-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:114098-1) |
@@ -492,7 +526,9 @@
 ### *[Mesua ferrea](https://en.wikipedia.org/wiki/Mesua_ferrea)* L.
 
 
-*Mesua, Iron Wood Tree, Ceylon Ironwood*|  |  |
+*Mesua, Iron Wood Tree, Ceylon Ironwood*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [7330039](https://www.gbif.org/species/7330039) |
 | **Plants of the World Online (POWO)** | [428832-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:428832-1) |
@@ -516,7 +552,9 @@
 ### *[Caryocar brasiliense](https://en.wikipedia.org/wiki/Caryocar_brasiliense)* A.St.-Hil.
 
 
-*Pequi, Piki, Pekea nut*|  |  |
+*Pequi, Piki, Pekea nut*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3189663](https://www.gbif.org/species/3189663) |
 | **Plants of the World Online (POWO)** | [828593-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:828593-1) |
@@ -540,7 +578,9 @@
 ### *[Casuarina equisetifolia](https://en.wikipedia.org/wiki/Casuarina_equisetifolia)* L.
 
 
-*Beach sheoak, Australian beefwood, Australian-pine*|  |  |
+*Beach sheoak, Australian beefwood, Australian-pine*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [2891930](https://www.gbif.org/species/2891930) |
 | **Plants of the World Online (POWO)** | [159856-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:159856-1) |
@@ -582,7 +622,9 @@
 ### *[Moquilea tomentosa](https://en.wikipedia.org/wiki/Moquilea_tomentosa)* Benth.
 
 
-*Oiti (Portuguese GRIN )*|  |  |
+*Oiti (Portuguese GRIN )*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [2985500](https://www.gbif.org/species/2985500) |
 | **Plants of the World Online (POWO)** | [726782-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:726782-1) |
@@ -606,7 +648,9 @@
 ### *[Terminalia arjuna](https://en.wikipedia.org/wiki/Terminalia_arjuna)* (Roxb. ex DC.) Wight & Arn.
 
 
-*Arjun, White murdh, Kumbuk*|  |  |
+*Arjun, White murdh, Kumbuk*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3699548](https://www.gbif.org/species/3699548) |
 | **Plants of the World Online (POWO)** | [170962-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:170962-1) |
@@ -635,7 +679,9 @@
 ### *[Terminalia catappa](https://en.wikipedia.org/wiki/Terminalia_catappa)* L.
 
 
-*Tropical almond, Indian-almond, Country-almond*|  |  |
+*Tropical almond, Indian-almond, Country-almond*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3189394](https://www.gbif.org/species/3189394) |
 | **Plants of the World Online (POWO)** | [171034-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:171034-1) |
@@ -655,7 +701,9 @@
 ### *[Terminalia mantaly](https://en.wikipedia.org/wiki/Terminalia_mantaly)* H.Perrier
 
 
-*Satellite Tree., Amandier de Madagascar, Ketapang Kencana*|  |  |
+*Satellite Tree., Amandier de Madagascar, Ketapang Kencana*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3699873](https://www.gbif.org/species/3699873) |
 | **Plants of the World Online (POWO)** | [171229-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:171229-1) |
@@ -679,7 +727,9 @@
 ### *[Diospyros buxifolia](https://en.wikipedia.org/wiki/Diospyros_buxifolia)* (Blume) Hiern
 
 
-*Black ebony*|  |  |
+*Black ebony*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [4070235](https://www.gbif.org/species/4070235) |
 | **Plants of the World Online (POWO)** | [322176-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:322176-1) |
@@ -703,7 +753,9 @@
 ### *[Acalypha wilkesiana](https://en.wikipedia.org/wiki/Acalypha_wilkesiana)* Müll.Arg.
 
 
-*Copper leaf, Capa de obispo, Beefsteak plant*|  |  |
+*Copper leaf, Capa de obispo, Beefsteak plant*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3057221](https://www.gbif.org/species/3057221) |
 | **Plants of the World Online (POWO)** | [337939-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:337939-1) |
@@ -727,7 +779,9 @@
 ### *[Afzelia africana](https://en.wikipedia.org/wiki/Afzelia_africana)* Sm. ex Pers.
 
 
-*African-mahogany, Afzelia*|  |  |
+*African-mahogany, Afzelia*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [5358300](https://www.gbif.org/species/5358300) |
 | **Plants of the World Online (POWO)** | [473043-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:473043-1) |
@@ -749,7 +803,9 @@
 ### *[Bauhinia variegata](https://en.wikipedia.org/wiki/Bauhinia_variegata)* L.
 
 
-*Mountain ebony, Orchidtree, Butterfly tree*|  |  |
+*Mountain ebony, Orchidtree, Butterfly tree*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [2953251](https://www.gbif.org/species/2953251) |
 | **Plants of the World Online (POWO)** | [481756-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:481756-1) |
@@ -771,7 +827,9 @@
 ### *[Cassia fistula](https://en.wikipedia.org/wiki/Cassia_fistula)* L.
 
 
-*Golden Shower Tree, Indian-laburnum, Amaltas*|  |  |
+*Golden Shower Tree, Indian-laburnum, Amaltas*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [5357108](https://www.gbif.org/species/5357108) |
 | **Plants of the World Online (POWO)** | [484507-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:484507-1) |
@@ -800,7 +858,9 @@
 ### *[Cassia grandis](https://en.wikipedia.org/wiki/Cassia_grandis)* L.f.
 
 
-*Appleblossom cassia, Coral shower, Horse cassia*|  |  |
+*Appleblossom cassia, Coral shower, Horse cassia*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [5357158](https://www.gbif.org/species/5357158) |
 | **Plants of the World Online (POWO)** | [484607-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:484607-1) |
@@ -822,7 +882,9 @@
 ### *[Delonix regia](https://en.wikipedia.org/wiki/Delonix_regia)* (Bojer) Raf.
 
 
-*Flamboyant, Flame-of-the-forest, Flametree*|  |  |
+*Flamboyant, Flame-of-the-forest, Flametree*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [2956176](https://www.gbif.org/species/2956176) |
 | **Plants of the World Online (POWO)** | (No Data) |
@@ -844,7 +906,9 @@
 ### *[Erythrina poeppigiana](https://en.wikipedia.org/wiki/Erythrina_poeppigiana)* (Walp.) O.F.Cook
 
 
-*Coral tree, Immortelle-tree, Mountain immortelle*|  |  |
+*Coral tree, Immortelle-tree, Mountain immortelle*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [5349755](https://www.gbif.org/species/5349755) |
 | **Plants of the World Online (POWO)** | [96637-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:96637-2) |
@@ -866,7 +930,9 @@
 ### *[Inga edulis](https://en.wikipedia.org/wiki/Inga_edulis)* Mart.
 
 
-*Ice-cream-bean, Guaba, Pois Doux*|  |  |
+*Ice-cream-bean, Guaba, Pois Doux*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [5357677](https://www.gbif.org/species/5357677) |
 | **Plants of the World Online (POWO)** | [128478-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:128478-2) |
@@ -886,7 +952,9 @@
 ### *[Inga uraguensis](https://en.wikipedia.org/wiki/Inga_uraguensis)* Hook. & Arn.
 
 
-*-*|  |  |
+*-*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [5357546](https://www.gbif.org/species/5357546) |
 | **Plants of the World Online (POWO)** | [128804-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:128804-2) |
@@ -908,7 +976,9 @@
 ### *[Paubrasilia echinata](https://en.wikipedia.org/wiki/Paubrasilia_echinata)* (Lam.) Gagnon, H.C.Lima & G.P.Lewis
 
 
-*Orabutá (Portuguese), Pau-rosado (Portuguese)*|  |  |
+*Orabutá (Portuguese), Pau-rosado (Portuguese)*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [9119360](https://www.gbif.org/species/9119360) |
 | **Plants of the World Online (POWO)** | [77158012-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77158012-1) |
@@ -939,7 +1009,9 @@
 ### *[Vachellia nilotica](https://en.wikipedia.org/wiki/Vachellia_nilotica)* (L.) P.J.H.Hurter & Mabb.
 
 
-*Gum arabic tree, Black Piquant, Cassie*|  |  |
+*Gum arabic tree, Black Piquant, Cassie*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3974744](https://www.gbif.org/species/3974744) |
 | **Plants of the World Online (POWO)** | [77089275-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77089275-1) |
@@ -963,7 +1035,9 @@
 ### *[Quercus virginiana](https://en.wikipedia.org/wiki/Quercus_virginiana)* Mill.
 
 
-*Southern live oak, Live oak, Virginia Live Oak*|  |  |
+*Southern live oak, Live oak, Virginia Live Oak*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [2878092](https://www.gbif.org/species/2878092) |
 | **Plants of the World Online (POWO)** | [324846-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:324846-2) |
@@ -987,7 +1061,9 @@
 ### *[Juglans nigra](https://en.wikipedia.org/wiki/Juglans_nigra)* L.
 
 
-*Black walnut, American Walnut, Otaesémenôtse*|  |  |
+*Black walnut, American Walnut, Otaesémenôtse*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3054357](https://www.gbif.org/species/3054357) |
 | **Plants of the World Online (POWO)** | [279034-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:279034-2) |
@@ -1007,7 +1083,9 @@
 ### *[Juglans regia](https://en.wikipedia.org/wiki/Juglans_regia)* L.
 
 
-*Black Walnut, English walnut, Carpathian walnut*|  |  |
+*Black Walnut, English walnut, Carpathian walnut*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3054368](https://www.gbif.org/species/3054368) |
 | **Plants of the World Online (POWO)** | [442427-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:442427-1) |
@@ -1031,7 +1109,9 @@
 ### *[Tectona grandis](https://en.wikipedia.org/wiki/Tectona_grandis)* L.f.
 
 
-*Teak, Bankok teak, Indian-oak*|  |  |
+*Teak, Bankok teak, Indian-oak*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [2925649](https://www.gbif.org/species/2925649) |
 | **Plants of the World Online (POWO)** | [864923-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:864923-1) |
@@ -1055,7 +1135,9 @@
 ### *[Cinnamomum camphora](https://en.wikipedia.org/wiki/Cinnamomum_camphora)* (L.) J.Presl
 
 
-*Camphor-laurel, Camphortree, Japanese camphor*|  |  |
+*Camphor-laurel, Camphortree, Japanese camphor*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3033991](https://www.gbif.org/species/3033991) |
 | **Plants of the World Online (POWO)** | [463336-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:463336-1) |
@@ -1077,7 +1159,9 @@
 ### *[Laurus nobilis](https://en.wikipedia.org/wiki/Laurus_nobilis)* L.
 
 
-*(Sweet) Bay leaf, Bay Laurel, Sweet bay*|  |  |
+*(Sweet) Bay leaf, Bay Laurel, Sweet bay*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3034015](https://www.gbif.org/species/3034015) |
 | **Plants of the World Online (POWO)** | [465049-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:465049-1) |
@@ -1101,7 +1185,9 @@
 ### *[Bunchosia armeniaca](https://en.wikipedia.org/wiki/Bunchosia_armeniaca)* (Cav.) DC.
 
 
-*Peanut butter fruit, Sunset fruit*|  |  |
+*Peanut butter fruit, Sunset fruit*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [7285310](https://www.gbif.org/species/7285310) |
 | **Plants of the World Online (POWO)** | [555884-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:555884-1) |
@@ -1125,7 +1211,9 @@
 ### *[Hibiscus rosa-sinensis](https://en.wikipedia.org/wiki/Hibiscus_rosa-sinensis)* L.
 
 
-*Hawaiian hibiscus, Hibiscus, गुड़हल*|  |  |
+*Hawaiian hibiscus, Hibiscus, गुड़हल*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3152559](https://www.gbif.org/species/3152559) |
 | **Plants of the World Online (POWO)** | [560756-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:560756-1) |
@@ -1149,7 +1237,9 @@
 ### *[Swietenia mahagoni](https://en.wikipedia.org/wiki/Swietenia_mahagoni)* (L.) Jacq.
 
 
-*Cuban mahogany, West Indian mahogany, Spanish mahogany*|  |  |
+*Cuban mahogany, West Indian mahogany, Spanish mahogany*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3190485](https://www.gbif.org/species/3190485) |
 | **Plants of the World Online (POWO)** | [1080203-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1080203-2) |
@@ -1171,7 +1261,9 @@
 ### *[Toona ciliata](https://en.wikipedia.org/wiki/Toona_ciliata)* M.Roem.
 
 
-*Red Cedar, Australian redcedar, Australian red-cedar*|  |  |
+*Red Cedar, Australian redcedar, Australian red-cedar*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3190472](https://www.gbif.org/species/3190472) |
 | **Plants of the World Online (POWO)** | [579299-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:579299-1) |
@@ -1213,7 +1305,9 @@
 ### *[Artocarpus heterophyllus](https://en.wikipedia.org/wiki/Artocarpus_heterophyllus)* Lam.
 
 
-*Jackfruit, কাঠাল, పనస*|  |  |
+*Jackfruit, কাঠাল, పనస*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [2984565](https://www.gbif.org/species/2984565) |
 | **Plants of the World Online (POWO)** | [850389-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:850389-1) |
@@ -1244,7 +1338,9 @@
 ### *[Ficus aurea](https://en.wikipedia.org/wiki/Ficus_aurea)* Nutt.
 
 
-*Florida strangler, Florida strangler fig*|  |  |
+*Florida strangler, Florida strangler fig*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [5361923](https://www.gbif.org/species/5361923) |
 | **Plants of the World Online (POWO)** | [852451-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:852451-1) |
@@ -1264,7 +1360,9 @@
 ### *[Ficus benghalensis](https://en.wikipedia.org/wiki/Ficus_benghalensis)* L.
 
 
-*Indian banyan, Ficus Audrey, Bengal banyan*|  |  |
+*Indian banyan, Ficus Audrey, Bengal banyan*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [5361919](https://www.gbif.org/species/5361919) |
 | **Plants of the World Online (POWO)** | [852482-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:852482-1) |
@@ -1293,7 +1391,9 @@
 ### *[Ficus elastica](https://en.wikipedia.org/wiki/Ficus_elastica)* Roxb. ex Hornem.
 
 
-*Rubberplant, فیکوس, فیکوس الاستیکا*|  |  |
+*Rubberplant, فیکوس, فیکوس الاستیکا*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [5361903](https://www.gbif.org/species/5361903) |
 | **Plants of the World Online (POWO)** | [60458499-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60458499-2) |
@@ -1322,7 +1422,9 @@
 ### *[Ficus insipida](https://en.wikipedia.org/wiki/Ficus_insipida)* Willd.
 
 
-*-*|  |  |
+*-*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [6358534](https://www.gbif.org/species/6358534) |
 | **Plants of the World Online (POWO)** | [853024-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:853024-1) |
@@ -1342,7 +1444,9 @@
 ### *[Ficus religiosa](https://en.wikipedia.org/wiki/Ficus_religiosa)* L.
 
 
-*Peepal tree, Sacred fig, రావి*|  |  |
+*Peepal tree, Sacred fig, రావి*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [5361935](https://www.gbif.org/species/5361935) |
 | **Plants of the World Online (POWO)** | [853563-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:853563-1) |
@@ -1362,7 +1466,9 @@
 ### *[Ficus retusa](https://en.wikipedia.org/wiki/Ficus_retusa)* L.
 
 
-*Indian laurel, Indian Laurel Fig, Ficus nitida*|  |  |
+*Indian laurel, Indian Laurel Fig, Ficus nitida*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3765871](https://www.gbif.org/species/3765871) |
 | **Plants of the World Online (POWO)** | [853577-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:853577-1) |
@@ -1386,7 +1492,9 @@
 ### *[Moringa oleifera](https://en.wikipedia.org/wiki/Moringa_oleifera)* Lam.
 
 
-*Moringa, Drumstick Tree, Moringa Tree*|  |  |
+*Moringa, Drumstick Tree, Moringa Tree*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3054181](https://www.gbif.org/species/3054181) |
 | **Plants of the World Online (POWO)** | [584736-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:584736-1) |
@@ -1410,7 +1518,9 @@
 ### *[Eucalyptus sideroxylon](https://en.wikipedia.org/wiki/Eucalyptus_sideroxylon)* A.Cunn. ex Woolls
 
 
-*Red ironbark, Black ironbark, Ironbark*|  |  |
+*Red ironbark, Black ironbark, Ironbark*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3177189](https://www.gbif.org/species/3177189) |
 | **Plants of the World Online (POWO)** | [593359-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:593359-1) |
@@ -1432,7 +1542,9 @@
 ### *[Melaleuca leucadendra](https://en.wikipedia.org/wiki/Melaleuca_leucadendra)* (L.) L.
 
 
-*Cajaput-tree, Longleaf paperbark, Paperbark*|  |  |
+*Cajaput-tree, Longleaf paperbark, Paperbark*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [5415976](https://www.gbif.org/species/5415976) |
 | **Plants of the World Online (POWO)** | [598002-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:598002-1) |
@@ -1452,7 +1564,9 @@
 ### *[Melaleuca quinquenervia](https://en.wikipedia.org/wiki/Melaleuca_quinquenervia)* (Cav.) S.T.Blake
 
 
-*Punktree, Belbowrie, Bottle brush tree*|  |  |
+*Punktree, Belbowrie, Bottle brush tree*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [5415832](https://www.gbif.org/species/5415832) |
 | **Plants of the World Online (POWO)** | [598073-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:598073-1) |
@@ -1501,7 +1615,9 @@
 ### *[Syzygium cumini](https://en.wikipedia.org/wiki/Syzygium_cumini)* (L.) Skeels
 
 
-*जामुन, Jaman, అల్లనేరేడు*|  |  |
+*जामुन, Jaman, అల్లనేరేడు*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3183840](https://www.gbif.org/species/3183840) |
 | **Plants of the World Online (POWO)** | [601603-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:601603-1) |
@@ -1534,7 +1650,9 @@
 ### *[Fraxinus chinensis](https://en.wikipedia.org/wiki/Fraxinus_chinensis)* Roxb.
 
 
-*Chinese ash*|  |  |
+*Chinese ash*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3172325](https://www.gbif.org/species/3172325) |
 | **Plants of the World Online (POWO)** | [608968-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:608968-1) |
@@ -1556,7 +1674,9 @@
 ### *[Phillyrea latifolia](https://en.wikipedia.org/wiki/Phillyrea_latifolia)* L.
 
 
-*Phillyrea, Green Olive Tree*|  |  |
+*Phillyrea, Green Olive Tree*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [7325923](https://www.gbif.org/species/7325923) |
 | **Plants of the World Online (POWO)** | [610971-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:610971-1) |
@@ -1580,7 +1700,9 @@
 ### *[Averrhoa bilimbi](https://en.wikipedia.org/wiki/Averrhoa_bilimbi)* L.
 
 
-*Bilimbi, Tree-sorrel, Bilimbi-tree*|  |  |
+*Bilimbi, Tree-sorrel, Bilimbi-tree*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [2891640](https://www.gbif.org/species/2891640) |
 | **Plants of the World Online (POWO)** | [371869-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:371869-1) |
@@ -1604,7 +1726,9 @@
 ### *[Pittosporum undulatum](https://en.wikipedia.org/wiki/Pittosporum_undulatum)* Vent.
 
 
-*Australian cheesewood, Cheesewood, Orange-berry pittosporum*|  |  |
+*Australian cheesewood, Cheesewood, Orange-berry pittosporum*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [2986239](https://www.gbif.org/species/2986239) |
 | **Plants of the World Online (POWO)** | [684734-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:684734-1) |
@@ -1628,7 +1752,9 @@
 ### *[Bambusa multiplex](https://en.wikipedia.org/wiki/Bambusa_multiplex)* (Lour.) Raeusch. ex Schult.
 
 
-*Hedge bamboo, Chinese dwarf bamboo, Chinese-goddess bamboo*|  |  |
+*Hedge bamboo, Chinese dwarf bamboo, Chinese-goddess bamboo*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [2705757](https://www.gbif.org/species/2705757) |
 | **Plants of the World Online (POWO)** | (No Data) |
@@ -1652,7 +1778,9 @@
 ### *[Nageia nagi](https://en.wikipedia.org/wiki/Nageia_nagi)* (Thunb.) Kuntze
 
 
-*Kaphal, Asian bayberry, Nagi*|  |  |
+*Kaphal, Asian bayberry, Nagi*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [2687779](https://www.gbif.org/species/2687779) |
 | **Plants of the World Online (POWO)** | [262544-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:262544-1) |
@@ -1676,7 +1804,9 @@
 ### *[Nephrolepis falcata](https://en.wikipedia.org/wiki/Nephrolepis_falcata)* (Cav.) C.Chr.
 
 
-*Fishtail swordfern*|  |  |
+*Fishtail swordfern*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [2650928](https://www.gbif.org/species/2650928) |
 | **Plants of the World Online (POWO)** | [17408170-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17408170-1) |
@@ -1700,7 +1830,9 @@
 ### *[Hamelia patens](https://en.wikipedia.org/wiki/Hamelia_patens)* Jacq.
 
 
-*Fire bush, Redhead, Scarletbush*|  |  |
+*Fire bush, Redhead, Scarletbush*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [2902066](https://www.gbif.org/species/2902066) |
 | **Plants of the World Online (POWO)** | [752194-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:752194-1) |
@@ -1724,7 +1856,9 @@
 ### *[Filicium decipiens](https://en.wikipedia.org/wiki/Filicium_decipiens)* (Wight & Arn.) Thwaites
 
 
-*Ferntree*|  |  |
+*Ferntree*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [3189977](https://www.gbif.org/species/3189977) |
 | **Plants of the World Online (POWO)** | [128045-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:128045-1) |
@@ -1748,7 +1882,9 @@
 ### *[Mimusops elengi](https://en.wikipedia.org/wiki/Mimusops_elengi)* L.
 
 
-*Medlar, Tanjongtree, Spanish-cherry*|  |  |
+*Medlar, Tanjongtree, Spanish-cherry*
+
+|  |  |
 | --- | --- |
 | **Global Biodiversity Information Facility (GBIF)** | [2883768](https://www.gbif.org/species/2883768) |
 | **Plants of the World Online (POWO)** | [787918-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:787918-1) |
