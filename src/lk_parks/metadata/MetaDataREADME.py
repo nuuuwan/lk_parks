@@ -49,21 +49,21 @@ class MetaDataREADME:
     def gbif_pretty(self) -> str:
         if not self.gbif_id:
             return '(No Data)'
-        return f'[{self.gbif_id}]({self.gbif_url})'
+        return f'[GBIF-{self.gbif_id}]({self.gbif_url})'
 
     @property
     def powo_pretty(self) -> str:
         if not self.powo_id:
             return '(No Data)'
-        return f'[{self.powo_id}]({self.powo_url})'
+        return f'[POWO-{self.powo_id}]({self.powo_url})'
 
     @property
     def iucn_pretty(self) -> str:
         if not self.iucn_id:
             return '(No Data)'
         return MetaDataREADME.dot_join(
+            f'[IUCN-{self.iucn_id}]({self.iucn_url})',
             self.iucn_category_humanized,
-            f'[{self.iucn_id}]({self.iucn_url})'
         )
 
     @property
@@ -91,17 +91,20 @@ class MetaDataREADME:
         return [
             f'*{self.pretty_name_translations}`E` {self.common_names_pretty}*',
             '',
-            '|  |  |',
-
-            '| --- | --- |',
-
+            # '|  |  |',
+            # '| --- | --- |',
             # '| **Scientific Name** | ' + f'*{MetaDataREADME.get_wiki_link(self.scientific_name)}* ' +
             # f'{self.authorship} |',
             # f'| **Genus** | {MetaDataREADME.get_wiki_link(self.genus)} |',
             # f'| **Family** | {MetaDataREADME.get_wiki_link(self.family)} |',
-            f'| **Global Biodiversity Information Facility (GBIF)** | {self.gbif_pretty} |',
-            f'| **Plants of the World Online (POWO)** | {self.powo_pretty} |',
-            f'| **International Union for Conservation of Nature (IUCN)** | {self.iucn_pretty} |',
+            # f'| **Global Biodiversity Information Facility (GBIF)** | {self.gbif_pretty} |',
+            # f'| **Plants of the World Online (POWO)** | {self.powo_pretty} |',
+            # f'| **International Union for Conservation of Nature (IUCN)** | {self.iucn_pretty} |',
+            MetaDataREADME.dot_join(
+                self.gbif_pretty,
+                self.powo_pretty,
+                self.iucn_pretty,
+            ),
             '',
 
         ]

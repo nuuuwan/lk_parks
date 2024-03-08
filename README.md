@@ -6,11 +6,7 @@
 
 *`සි` *Manda* `த` *Kanna* `E` Grey mangrove, White mangrove, Gray mangrove*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [2925403](https://www.gbif.org/species/2925403) |
-| **Plants of the World Online (POWO)** | [861130-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:861130-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [178828](https://www.iucnredlist.org/search?query=Avicennia+marina&searchType=species) |
+[GBIF-2925403](https://www.gbif.org/species/2925403) · [POWO-861130-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:861130-1) · [IUCN-178828](https://www.iucnredlist.org/search?query=Avicennia+marina&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -28,11 +24,7 @@
 
 *`සි` *Kadju, kaju* `த` *muntiri, andimangottai* `E` Cashew, Cashewnut, Pomifera*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [5421368](https://www.gbif.org/species/5421368) |
-| **Plants of the World Online (POWO)** | [319068-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:319068-2) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [60761600](https://www.iucnredlist.org/search?query=Anacardium+occidentale&searchType=species) |
+[GBIF-5421368](https://www.gbif.org/species/5421368) · [POWO-319068-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:319068-2) · [IUCN-60761600](https://www.iucnredlist.org/search?query=Anacardium+occidentale&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -48,11 +40,7 @@
 
 *`සි` *Mee Amba, amba* `த` *Ma, Mamaram, Amiram, Mangai* `E` Mango, Mango Tree, आम*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3190638](https://www.gbif.org/species/3190638) |
-| **Plants of the World Online (POWO)** | [69913-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:69913-1) |
-| **International Union for Conservation of Nature (IUCN)** | ⚪ Data Deficient (DD) · [31389](https://www.iucnredlist.org/search?query=Mangifera+indica&searchType=species) |
+[GBIF-3190638](https://www.gbif.org/species/3190638) · [POWO-69913-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:69913-1) · [IUCN-31389](https://www.iucnredlist.org/search?query=Mangifera+indica&searchType=species) · ⚪ Data Deficient (DD)
 
 (3 Examples)
 
@@ -80,11 +68,7 @@
 
 *`E` Purple mombin, Red mombin, Spanish-plum*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3190598](https://www.gbif.org/species/3190598) |
-| **Plants of the World Online (POWO)** | [71494-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:71494-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [144248337](https://www.iucnredlist.org/search?query=Spondias+purpurea&searchType=species) |
+[GBIF-3190598](https://www.gbif.org/species/3190598) · [POWO-71494-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:71494-1) · [IUCN-144248337](https://www.iucnredlist.org/search?query=Spondias+purpurea&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -102,11 +86,7 @@
 
 *`E` Orchidtree, African-nutmeg*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3154093](https://www.gbif.org/species/3154093) |
-| **Plants of the World Online (POWO)** | [74147-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:74147-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [132683676](https://www.iucnredlist.org/search?query=Monodora+tenuifolia&searchType=species) |
+[GBIF-3154093](https://www.gbif.org/species/3154093) · [POWO-74147-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:74147-1) · [IUCN-132683676](https://www.iucnredlist.org/search?query=Monodora+tenuifolia&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -124,11 +104,7 @@
 
 *`සි` *Val Ruk Attana* `E` Golden-trumpet, Allamanda, Yellow allamanda*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3169836](https://www.gbif.org/species/3169836) |
-| **Plants of the World Online (POWO)** | [319065-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:319065-2) |
-| **International Union for Conservation of Nature (IUCN)** | (No Data) |
+[GBIF-3169836](https://www.gbif.org/species/3169836) · [POWO-319065-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:319065-2) · (No Data)
 
 (1 Example)
 
@@ -144,11 +120,7 @@
 
 *`සි` *Karanda, Maha Karamba* `த` *kila, kala* `E` Bengal-currants, Carandas-plum, Karanda*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [5414419](https://www.gbif.org/species/5414419) |
-| **Plants of the World Online (POWO)** | [77691-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77691-1) |
-| **International Union for Conservation of Nature (IUCN)** | (No Data) |
+[GBIF-5414419](https://www.gbif.org/species/5414419) · [POWO-77691-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77691-1) · (No Data)
 
 (1 Example)
 
@@ -164,11 +136,7 @@
 
 *`E` Frangipani, Singapore graveyard flower, దేవ గన్నేరు*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3169677](https://www.gbif.org/species/3169677) |
-| **Plants of the World Online (POWO)** | [81256-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:81256-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [156770956](https://www.iucnredlist.org/search?query=Plumeria+obtusa&searchType=species) |
+[GBIF-3169677](https://www.gbif.org/species/3169677) · [POWO-81256-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:81256-1) · [IUCN-156770956](https://www.iucnredlist.org/search?query=Plumeria+obtusa&searchType=species) · 🟢 Least Concern (LC)
 
 (2 Examples)
 
@@ -190,11 +158,7 @@
 
 *`සි` *Wathu sudda, Watusudda, Watu sudda, Vathu sudda, Vathu sudda* `த` *adukkunandiyavattai, nandi battai, Nandiar vattai* `E` Crape-jasmine, Butterfly-gardenia, నందివర్ధనం*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3169625](https://www.gbif.org/species/3169625) |
-| **Plants of the World Online (POWO)** | [82097-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:82097-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [149853146](https://www.iucnredlist.org/search?query=Tabernaemontana+divaricata&searchType=species) |
+[GBIF-3169625](https://www.gbif.org/species/3169625) · [POWO-82097-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:82097-1) · [IUCN-149853146](https://www.iucnredlist.org/search?query=Tabernaemontana+divaricata&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -210,11 +174,7 @@
 
 *`E` Star jasmine, Confederate jasmine, Chinese star-jessamine*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3169713](https://www.gbif.org/species/3169713) |
-| **Plants of the World Online (POWO)** | [82553-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:82553-1) |
-| **International Union for Conservation of Nature (IUCN)** | (No Data) |
+[GBIF-3169713](https://www.gbif.org/species/3169713) · [POWO-82553-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:82553-1) · (No Data)
 
 (1 Example)
 
@@ -232,11 +192,7 @@
 
 *`E` Common princess palm, Hurricane palm*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [5293187](https://www.gbif.org/species/5293187) |
-| **Plants of the World Online (POWO)** | [666678-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:666678-1) |
-| **International Union for Conservation of Nature (IUCN)** | (No Data) |
+[GBIF-5293187](https://www.gbif.org/species/5293187) · [POWO-666678-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:666678-1) · (No Data)
 
 (1 Example)
 
@@ -252,11 +208,7 @@
 
 *`E` Cuban royal palm, Florida royal palm, Royal palm*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [2733755](https://www.gbif.org/species/2733755) |
-| **Plants of the World Online (POWO)** | [222809-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:222809-2) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [62329](https://www.iucnredlist.org/search?query=Roystonea+regia&searchType=species) |
+[GBIF-2733755](https://www.gbif.org/species/2733755) · [POWO-222809-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:222809-2) · [IUCN-62329](https://www.iucnredlist.org/search?query=Roystonea+regia&searchType=species) · 🟢 Least Concern (LC)
 
 (3 Examples)
 
@@ -284,11 +236,7 @@
 
 *`E` Foxtail palm*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [2736620](https://www.gbif.org/species/2736620) |
-| **Plants of the World Online (POWO)** | [903383-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:903383-1) |
-| **International Union for Conservation of Nature (IUCN)** | Unknown Category (LR/cd) · [38733](https://www.iucnredlist.org/search?query=Wodyetia+bifurcata&searchType=species) |
+[GBIF-2736620](https://www.gbif.org/species/2736620) · [POWO-903383-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:903383-1) · [IUCN-38733](https://www.iucnredlist.org/search?query=Wodyetia+bifurcata&searchType=species) · Unknown Category (LR/cd)
 
 (1 Example)
 
@@ -306,11 +254,7 @@
 
 *`E` River birch, Red birch, Black Birch*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [5331532](https://www.gbif.org/species/5331532) |
-| **Plants of the World Online (POWO)** | [295155-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:295155-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [194551](https://www.iucnredlist.org/search?query=Betula+nigra&searchType=species) |
+[GBIF-5331532](https://www.gbif.org/species/5331532) · [POWO-295155-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:295155-1) · [IUCN-194551](https://www.iucnredlist.org/search?query=Betula+nigra&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -328,11 +272,7 @@
 
 *`E` Cuban pink trumpet-tree, White-cedar, Whitewood*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3172527](https://www.gbif.org/species/3172527) |
-| **Plants of the World Online (POWO)** | [110996-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:110996-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [61986231](https://www.iucnredlist.org/search?query=Tabebuia+pallida&searchType=species) |
+[GBIF-3172527](https://www.gbif.org/species/3172527) · [POWO-110996-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:110996-1) · [IUCN-61986231](https://www.iucnredlist.org/search?query=Tabebuia+pallida&searchType=species) · 🟢 Least Concern (LC)
 
 (2 Examples)
 
@@ -352,11 +292,7 @@
 
 *`E` Pink poui, Pink trumpet-tree, Rosy trumpet-tree*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3172537](https://www.gbif.org/species/3172537) |
-| **Plants of the World Online (POWO)** | [111027-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:111027-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [61986278](https://www.iucnredlist.org/search?query=Tabebuia+rosea&searchType=species) |
+[GBIF-3172537](https://www.gbif.org/species/3172537) · [POWO-111027-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:111027-1) · [IUCN-61986278](https://www.iucnredlist.org/search?query=Tabebuia+rosea&searchType=species) · 🟢 Least Concern (LC)
 
 (6 Examples)
 
@@ -404,11 +340,7 @@
 
 *`த` *naruvili* `E` Fragrant manjack, Indian-cherry, Clammy-cherry*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [5341270](https://www.gbif.org/species/5341270) |
-| **Plants of the World Online (POWO)** | [114098-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:114098-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [61986401](https://www.iucnredlist.org/search?query=Cordia+dichotoma&searchType=species) |
+[GBIF-5341270](https://www.gbif.org/species/5341270) · [POWO-114098-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:114098-1) · [IUCN-61986401](https://www.iucnredlist.org/search?query=Cordia+dichotoma&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -426,11 +358,7 @@
 
 *`සි` *Na, Naa* `த` *nangu, cirunakappu* `E` Mesua, Iron Wood Tree, Ceylon Ironwood*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [7330039](https://www.gbif.org/species/7330039) |
-| **Plants of the World Online (POWO)** | [428832-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:428832-1) |
-| **International Union for Conservation of Nature (IUCN)** | (No Data) |
+[GBIF-7330039](https://www.gbif.org/species/7330039) · [POWO-428832-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:428832-1) · (No Data)
 
 (1 Example)
 
@@ -448,11 +376,7 @@
 
 *`E` Pequi, Piki, Pekea nut*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3189663](https://www.gbif.org/species/3189663) |
-| **Plants of the World Online (POWO)** | [828593-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:828593-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [144313008](https://www.iucnredlist.org/search?query=Caryocar+brasiliense&searchType=species) |
+[GBIF-3189663](https://www.gbif.org/species/3189663) · [POWO-828593-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:828593-1) · [IUCN-144313008](https://www.iucnredlist.org/search?query=Caryocar+brasiliense&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -470,11 +394,7 @@
 
 *`E` Beach sheoak, Australian beefwood, Australian-pine*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [2891930](https://www.gbif.org/species/2891930) |
-| **Plants of the World Online (POWO)** | [159856-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:159856-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [16728404](https://www.iucnredlist.org/search?query=Casuarina+equisetifolia&searchType=species) |
+[GBIF-2891930](https://www.gbif.org/species/2891930) · [POWO-159856-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:159856-1) · [IUCN-16728404](https://www.iucnredlist.org/search?query=Casuarina+equisetifolia&searchType=species) · 🟢 Least Concern (LC)
 
 (3 Examples)
 
@@ -504,11 +424,7 @@
 
 *`E` Oiti (Portuguese GRIN )*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [2985500](https://www.gbif.org/species/2985500) |
-| **Plants of the World Online (POWO)** | [726782-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:726782-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [189620212](https://www.iucnredlist.org/search?query=Moquilea+tomentosa&searchType=species) |
+[GBIF-2985500](https://www.gbif.org/species/2985500) · [POWO-726782-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:726782-1) · [IUCN-189620212](https://www.iucnredlist.org/search?query=Moquilea+tomentosa&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -526,11 +442,7 @@
 
 *`සි` *Kumbuk* `த` *maruthu, marutu* `E` Arjun, White murdh, Kumbuk*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3699548](https://www.gbif.org/species/3699548) |
-| **Plants of the World Online (POWO)** | [170962-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:170962-1) |
-| **International Union for Conservation of Nature (IUCN)** | (No Data) |
+[GBIF-3699548](https://www.gbif.org/species/3699548) · [POWO-170962-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:170962-1) · (No Data)
 
 (2 Examples)
 
@@ -550,11 +462,7 @@
 
 *`සි` *Kottan, Kottamba* `த` *nattuvadumai, nattu vadam* `E` Tropical almond, Indian-almond, Country-almond*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3189394](https://www.gbif.org/species/3189394) |
-| **Plants of the World Online (POWO)** | [171034-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:171034-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [61989853](https://www.iucnredlist.org/search?query=Terminalia+catappa&searchType=species) |
+[GBIF-3189394](https://www.gbif.org/species/3189394) · [POWO-171034-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:171034-1) · [IUCN-61989853](https://www.iucnredlist.org/search?query=Terminalia+catappa&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -568,11 +476,7 @@
 
 *`E` Satellite Tree., Amandier de Madagascar, Ketapang Kencana*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3699873](https://www.gbif.org/species/3699873) |
-| **Plants of the World Online (POWO)** | [171229-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:171229-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [128091369](https://www.iucnredlist.org/search?query=Terminalia+mantaly&searchType=species) |
+[GBIF-3699873](https://www.gbif.org/species/3699873) · [POWO-171229-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:171229-1) · [IUCN-128091369](https://www.iucnredlist.org/search?query=Terminalia+mantaly&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -590,11 +494,7 @@
 
 *`E` Black ebony*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [4070235](https://www.gbif.org/species/4070235) |
-| **Plants of the World Online (POWO)** | [322176-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:322176-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [173387](https://www.iucnredlist.org/search?query=Diospyros+buxifolia&searchType=species) |
+[GBIF-4070235](https://www.gbif.org/species/4070235) · [POWO-322176-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:322176-1) · [IUCN-173387](https://www.iucnredlist.org/search?query=Diospyros+buxifolia&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -612,11 +512,7 @@
 
 *`E` Copper leaf, Capa de obispo, Beefsteak plant*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3057221](https://www.gbif.org/species/3057221) |
-| **Plants of the World Online (POWO)** | [337939-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:337939-1) |
-| **International Union for Conservation of Nature (IUCN)** | (No Data) |
+[GBIF-3057221](https://www.gbif.org/species/3057221) · [POWO-337939-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:337939-1) · (No Data)
 
 (1 Example)
 
@@ -634,11 +530,7 @@
 
 *`E` African-mahogany, Afzelia*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [5358300](https://www.gbif.org/species/5358300) |
-| **Plants of the World Online (POWO)** | [473043-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:473043-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟡 Vulnerable (VU) · [33032](https://www.iucnredlist.org/search?query=Afzelia+africana&searchType=species) |
+[GBIF-5358300](https://www.gbif.org/species/5358300) · [POWO-473043-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:473043-1) · [IUCN-33032](https://www.iucnredlist.org/search?query=Afzelia+africana&searchType=species) · 🟡 Vulnerable (VU)
 
 (1 Example)
 
@@ -654,11 +546,7 @@
 
 *`සි` *Sinhala Koboleela, a type of Udavaedia plant* `த` *Tamil segappumandrai, tiruvatti* `E` Mountain ebony, Orchidtree, Butterfly tree*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [2953251](https://www.gbif.org/species/2953251) |
-| **Plants of the World Online (POWO)** | [481756-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:481756-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [19893142](https://www.iucnredlist.org/search?query=Bauhinia+variegata&searchType=species) |
+[GBIF-2953251](https://www.gbif.org/species/2953251) · [POWO-481756-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:481756-1) · [IUCN-19893142](https://www.iucnredlist.org/search?query=Bauhinia+variegata&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -674,11 +562,7 @@
 
 *`සි` *Aehaela, Ehela* `த` *konrai, konnai, Mullaimaram* `E` Golden Shower Tree, Indian-laburnum, Amaltas*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [5357108](https://www.gbif.org/species/5357108) |
-| **Plants of the World Online (POWO)** | [484507-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:484507-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [136142327](https://www.iucnredlist.org/search?query=Cassia+fistula&searchType=species) |
+[GBIF-5357108](https://www.gbif.org/species/5357108) · [POWO-484507-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:484507-1) · [IUCN-136142327](https://www.iucnredlist.org/search?query=Cassia+fistula&searchType=species) · 🟢 Least Concern (LC)
 
 (2 Examples)
 
@@ -698,11 +582,7 @@
 
 *`E` Appleblossom cassia, Coral shower, Horse cassia*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [5357158](https://www.gbif.org/species/5357158) |
-| **Plants of the World Online (POWO)** | [484607-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:484607-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [144277575](https://www.iucnredlist.org/search?query=Cassia+grandis&searchType=species) |
+[GBIF-5357158](https://www.gbif.org/species/5357158) · [POWO-484607-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:484607-1) · [IUCN-144277575](https://www.iucnredlist.org/search?query=Cassia+grandis&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -718,11 +598,7 @@
 
 *`E` Flamboyant, Flame-of-the-forest, Flametree*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [2956176](https://www.gbif.org/species/2956176) |
-| **Plants of the World Online (POWO)** | (No Data) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [32947](https://www.iucnredlist.org/search?query=Delonix+regia&searchType=species) |
+[GBIF-2956176](https://www.gbif.org/species/2956176) · (No Data) · [IUCN-32947](https://www.iucnredlist.org/search?query=Delonix+regia&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -738,11 +614,7 @@
 
 *`E` Coral tree, Immortelle-tree, Mountain immortelle*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [5349755](https://www.gbif.org/species/5349755) |
-| **Plants of the World Online (POWO)** | [96637-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:96637-2) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [144314476](https://www.iucnredlist.org/search?query=Erythrina+poeppigiana&searchType=species) |
+[GBIF-5349755](https://www.gbif.org/species/5349755) · [POWO-96637-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:96637-2) · [IUCN-144314476](https://www.iucnredlist.org/search?query=Erythrina+poeppigiana&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -758,11 +630,7 @@
 
 *`E` Ice-cream-bean, Guaba, Pois Doux*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [5357677](https://www.gbif.org/species/5357677) |
-| **Plants of the World Online (POWO)** | [128478-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:128478-2) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [137640618](https://www.iucnredlist.org/search?query=Inga+edulis&searchType=species) |
+[GBIF-5357677](https://www.gbif.org/species/5357677) · [POWO-128478-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:128478-2) · [IUCN-137640618](https://www.iucnredlist.org/search?query=Inga+edulis&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -776,11 +644,7 @@
 
 *`E` -*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [5357546](https://www.gbif.org/species/5357546) |
-| **Plants of the World Online (POWO)** | [128804-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:128804-2) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [62026250](https://www.iucnredlist.org/search?query=Inga+uraguensis&searchType=species) |
+[GBIF-5357546](https://www.gbif.org/species/5357546) · [POWO-128804-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:128804-2) · [IUCN-62026250](https://www.iucnredlist.org/search?query=Inga+uraguensis&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -796,11 +660,7 @@
 
 *`E` Orabutá (Portuguese), Pau-rosado (Portuguese)*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [9119360](https://www.gbif.org/species/9119360) |
-| **Plants of the World Online (POWO)** | [77158012-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77158012-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟠 Endangered (EN) · [33974](https://www.iucnredlist.org/search?query=Paubrasilia+echinata&searchType=species) |
+[GBIF-9119360](https://www.gbif.org/species/9119360) · [POWO-77158012-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77158012-1) · [IUCN-33974](https://www.iucnredlist.org/search?query=Paubrasilia+echinata&searchType=species) · 🟠 Endangered (EN)
 
 (2 Examples)
 
@@ -822,11 +682,7 @@
 
 *`E` Gum arabic tree, Black Piquant, Cassie*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3974744](https://www.gbif.org/species/3974744) |
-| **Plants of the World Online (POWO)** | [77089275-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77089275-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [158379](https://www.iucnredlist.org/search?query=Vachellia+nilotica&searchType=species) |
+[GBIF-3974744](https://www.gbif.org/species/3974744) · [POWO-77089275-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77089275-1) · [IUCN-158379](https://www.iucnredlist.org/search?query=Vachellia+nilotica&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -844,11 +700,7 @@
 
 *`E` Southern live oak, Live oak, Virginia Live Oak*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [2878092](https://www.gbif.org/species/2878092) |
-| **Plants of the World Online (POWO)** | [324846-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:324846-2) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [194245](https://www.iucnredlist.org/search?query=Quercus+virginiana&searchType=species) |
+[GBIF-2878092](https://www.gbif.org/species/2878092) · [POWO-324846-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:324846-2) · [IUCN-194245](https://www.iucnredlist.org/search?query=Quercus+virginiana&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -866,11 +718,7 @@
 
 *`E` Black walnut, American Walnut, Otaesémenôtse*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3054357](https://www.gbif.org/species/3054357) |
-| **Plants of the World Online (POWO)** | [279034-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:279034-2) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [62019712](https://www.iucnredlist.org/search?query=Juglans+nigra&searchType=species) |
+[GBIF-3054357](https://www.gbif.org/species/3054357) · [POWO-279034-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:279034-2) · [IUCN-62019712](https://www.iucnredlist.org/search?query=Juglans+nigra&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -884,11 +732,7 @@
 
 *`සි` *Aettakottam* `E` Black Walnut, English walnut, Carpathian walnut*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3054368](https://www.gbif.org/species/3054368) |
-| **Plants of the World Online (POWO)** | [442427-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:442427-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [63495](https://www.iucnredlist.org/search?query=Juglans+regia&searchType=species) |
+[GBIF-3054368](https://www.gbif.org/species/3054368) · [POWO-442427-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:442427-1) · [IUCN-63495](https://www.iucnredlist.org/search?query=Juglans+regia&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -906,11 +750,7 @@
 
 *`සි` *The kka signify long sound* `த` *thekku* `E` Teak, Bankok teak, Indian-oak*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [2925649](https://www.gbif.org/species/2925649) |
-| **Plants of the World Online (POWO)** | [864923-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:864923-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟠 Endangered (EN) · [62019830](https://www.iucnredlist.org/search?query=Tectona+grandis&searchType=species) |
+[GBIF-2925649](https://www.gbif.org/species/2925649) · [POWO-864923-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:864923-1) · [IUCN-62019830](https://www.iucnredlist.org/search?query=Tectona+grandis&searchType=species) · 🟠 Endangered (EN)
 
 (1 Example)
 
@@ -928,11 +768,7 @@
 
 *`සි` *Kapuru* `த` *karppuram* `E` Camphor-laurel, Camphortree, Japanese camphor*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3033991](https://www.gbif.org/species/3033991) |
-| **Plants of the World Online (POWO)** | [463336-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:463336-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [15441072](https://www.iucnredlist.org/search?query=Cinnamomum+camphora&searchType=species) |
+[GBIF-3033991](https://www.gbif.org/species/3033991) · [POWO-463336-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:463336-1) · [IUCN-15441072](https://www.iucnredlist.org/search?query=Cinnamomum+camphora&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -948,11 +784,7 @@
 
 *`සි` *This plant of Mediterranean origin is not known in Sinhala* `த` *click for a short note and images in Wikipedia* `E` (Sweet) Bay leaf, Bay Laurel, Sweet bay*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3034015](https://www.gbif.org/species/3034015) |
-| **Plants of the World Online (POWO)** | [465049-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:465049-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [203351](https://www.iucnredlist.org/search?query=Laurus+nobilis&searchType=species) |
+[GBIF-3034015](https://www.gbif.org/species/3034015) · [POWO-465049-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:465049-1) · [IUCN-203351](https://www.iucnredlist.org/search?query=Laurus+nobilis&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -970,11 +802,7 @@
 
 *`E` Peanut butter fruit, Sunset fruit*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [7285310](https://www.gbif.org/species/7285310) |
-| **Plants of the World Online (POWO)** | [555884-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:555884-1) |
-| **International Union for Conservation of Nature (IUCN)** | (No Data) |
+[GBIF-7285310](https://www.gbif.org/species/7285310) · [POWO-555884-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:555884-1) · (No Data)
 
 (1 Example)
 
@@ -992,11 +820,7 @@
 
 *`E` Hawaiian hibiscus, Hibiscus, गुड़हल*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3152559](https://www.gbif.org/species/3152559) |
-| **Plants of the World Online (POWO)** | [560756-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:560756-1) |
-| **International Union for Conservation of Nature (IUCN)** | (No Data) |
+[GBIF-3152559](https://www.gbif.org/species/3152559) · [POWO-560756-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:560756-1) · (No Data)
 
 (1 Example)
 
@@ -1014,11 +838,7 @@
 
 *`E` Cuban mahogany, West Indian mahogany, Spanish mahogany*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3190485](https://www.gbif.org/species/3190485) |
-| **Plants of the World Online (POWO)** | [1080203-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1080203-2) |
-| **International Union for Conservation of Nature (IUCN)** | 🟡 Near Threatened (NT) · [32519](https://www.iucnredlist.org/search?query=Swietenia+mahagoni&searchType=species) |
+[GBIF-3190485](https://www.gbif.org/species/3190485) · [POWO-1080203-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1080203-2) · [IUCN-32519](https://www.iucnredlist.org/search?query=Swietenia+mahagoni&searchType=species) · 🟡 Near Threatened (NT)
 
 (1 Example)
 
@@ -1034,11 +854,7 @@
 
 *`E` Red Cedar, Australian redcedar, Australian red-cedar*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3190472](https://www.gbif.org/species/3190472) |
-| **Plants of the World Online (POWO)** | [579299-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:579299-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [31332](https://www.iucnredlist.org/search?query=Toona+ciliata&searchType=species) |
+[GBIF-3190472](https://www.gbif.org/species/3190472) · [POWO-579299-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:579299-1) · [IUCN-31332](https://www.iucnredlist.org/search?query=Toona+ciliata&searchType=species) · 🟢 Least Concern (LC)
 
 (3 Examples)
 
@@ -1068,11 +884,7 @@
 
 *`සි` *Herali, Kos, Vaela, Waraka see Artocarpus Indica* `த` *pila, pala, Palavu Tamil* `E` Jackfruit, কাঠাল, పనస*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [2984565](https://www.gbif.org/species/2984565) |
-| **Plants of the World Online (POWO)** | [850389-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:850389-1) |
-| **International Union for Conservation of Nature (IUCN)** | (No Data) |
+[GBIF-2984565](https://www.gbif.org/species/2984565) · [POWO-850389-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:850389-1) · (No Data)
 
 (2 Examples)
 
@@ -1094,11 +906,7 @@
 
 *`E` Florida strangler, Florida strangler fig*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [5361923](https://www.gbif.org/species/5361923) |
-| **Plants of the World Online (POWO)** | [852451-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:852451-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [181217702](https://www.iucnredlist.org/search?query=Ficus+aurea&searchType=species) |
+[GBIF-5361923](https://www.gbif.org/species/5361923) · [POWO-852451-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:852451-1) · [IUCN-181217702](https://www.iucnredlist.org/search?query=Ficus+aurea&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -1112,11 +920,7 @@
 
 *`සි` *Nuga, Mahanuga* `த` *alamaram, kottam , Nakar, Nakaram, Niyaman* `E` Indian banyan, Ficus Audrey, Bengal banyan*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [5361919](https://www.gbif.org/species/5361919) |
-| **Plants of the World Online (POWO)** | [852482-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:852482-1) |
-| **International Union for Conservation of Nature (IUCN)** | (No Data) |
+[GBIF-5361919](https://www.gbif.org/species/5361919) · [POWO-852482-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:852482-1) · (No Data)
 
 (2 Examples)
 
@@ -1136,11 +940,7 @@
 
 *`E` Rubberplant, فیکوس, فیکوس الاستیکا*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [5361903](https://www.gbif.org/species/5361903) |
-| **Plants of the World Online (POWO)** | [60458499-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60458499-2) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [116271522](https://www.iucnredlist.org/search?query=Ficus+elastica&searchType=species) |
+[GBIF-5361903](https://www.gbif.org/species/5361903) · [POWO-60458499-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60458499-2) · [IUCN-116271522](https://www.iucnredlist.org/search?query=Ficus+elastica&searchType=species) · 🟢 Least Concern (LC)
 
 (2 Examples)
 
@@ -1160,11 +960,7 @@
 
 *`E` -*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [6358534](https://www.gbif.org/species/6358534) |
-| **Plants of the World Online (POWO)** | [853024-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:853024-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [61886011](https://www.iucnredlist.org/search?query=Ficus+insipida&searchType=species) |
+[GBIF-6358534](https://www.gbif.org/species/6358534) · [POWO-853024-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:853024-1) · [IUCN-61886011](https://www.iucnredlist.org/search?query=Ficus+insipida&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -1178,11 +974,7 @@
 
 *`සි` *Bo, Bodhi* `த` *asvattam, arasu* `E` Peepal tree, Sacred fig, రావి*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [5361935](https://www.gbif.org/species/5361935) |
-| **Plants of the World Online (POWO)** | [853563-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:853563-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [150222331](https://www.iucnredlist.org/search?query=Ficus+religiosa&searchType=species) |
+[GBIF-5361935](https://www.gbif.org/species/5361935) · [POWO-853563-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:853563-1) · [IUCN-150222331](https://www.iucnredlist.org/search?query=Ficus+religiosa&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -1196,11 +988,7 @@
 
 *`E` Indian laurel, Indian Laurel Fig, Ficus nitida*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3765871](https://www.gbif.org/species/3765871) |
-| **Plants of the World Online (POWO)** | [853577-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:853577-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [72278682](https://www.iucnredlist.org/search?query=Ficus+retusa&searchType=species) |
+[GBIF-3765871](https://www.gbif.org/species/3765871) · [POWO-853577-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:853577-1) · [IUCN-72278682](https://www.iucnredlist.org/search?query=Ficus+retusa&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -1218,11 +1006,7 @@
 
 *`සි` *Murunga, Murunga karal is the Sinhala* `த` *Tamil murunkai, murungai* `E` Moringa, Drumstick Tree, Moringa Tree*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3054181](https://www.gbif.org/species/3054181) |
-| **Plants of the World Online (POWO)** | [584736-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:584736-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [61890232](https://www.iucnredlist.org/search?query=Moringa+oleifera&searchType=species) |
+[GBIF-3054181](https://www.gbif.org/species/3054181) · [POWO-584736-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:584736-1) · [IUCN-61890232](https://www.iucnredlist.org/search?query=Moringa+oleifera&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -1240,11 +1024,7 @@
 
 *`E` Red ironbark, Black ironbark, Ironbark*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3177189](https://www.gbif.org/species/3177189) |
-| **Plants of the World Online (POWO)** | [593359-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:593359-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [133377043](https://www.iucnredlist.org/search?query=Eucalyptus+sideroxylon&searchType=species) |
+[GBIF-3177189](https://www.gbif.org/species/3177189) · [POWO-593359-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:593359-1) · [IUCN-133377043](https://www.iucnredlist.org/search?query=Eucalyptus+sideroxylon&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -1260,11 +1040,7 @@
 
 *`E` Cajaput-tree, Longleaf paperbark, Paperbark*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [5415976](https://www.gbif.org/species/5415976) |
-| **Plants of the World Online (POWO)** | [598002-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:598002-1) |
-| **International Union for Conservation of Nature (IUCN)** | ⚪ Data Deficient (DD) · [61917032](https://www.iucnredlist.org/search?query=Melaleuca+leucadendra&searchType=species) |
+[GBIF-5415976](https://www.gbif.org/species/5415976) · [POWO-598002-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:598002-1) · [IUCN-61917032](https://www.iucnredlist.org/search?query=Melaleuca+leucadendra&searchType=species) · ⚪ Data Deficient (DD)
 
 (1 Example)
 
@@ -1278,11 +1054,7 @@
 
 *`E` Punktree, Belbowrie, Bottle brush tree*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [5415832](https://www.gbif.org/species/5415832) |
-| **Plants of the World Online (POWO)** | [598073-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:598073-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [49278407](https://www.iucnredlist.org/search?query=Melaleuca+quinquenervia&searchType=species) |
+[GBIF-5415832](https://www.gbif.org/species/5415832) · [POWO-598073-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:598073-1) · [IUCN-49278407](https://www.iucnredlist.org/search?query=Melaleuca+quinquenervia&searchType=species) · 🟢 Least Concern (LC)
 
 (4 Examples)
 
@@ -1316,11 +1088,7 @@
 
 *`සි` *kalu dan, Kaadan, Madan* `த` *naavali, Naaval Pazham* `E` जामुन, Jaman, అల్లనేరేడు*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3183840](https://www.gbif.org/species/3183840) |
-| **Plants of the World Online (POWO)** | [601603-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:601603-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [49487196](https://www.iucnredlist.org/search?query=Syzygium+cumini&searchType=species) |
+[GBIF-3183840](https://www.gbif.org/species/3183840) · [POWO-601603-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:601603-1) · [IUCN-49487196](https://www.iucnredlist.org/search?query=Syzygium+cumini&searchType=species) · 🟢 Least Concern (LC)
 
 (2 Examples)
 
@@ -1344,11 +1112,7 @@
 
 *`E` Chinese ash*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3172325](https://www.gbif.org/species/3172325) |
-| **Plants of the World Online (POWO)** | [608968-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:608968-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [35953](https://www.iucnredlist.org/search?query=Fraxinus+chinensis&searchType=species) |
+[GBIF-3172325](https://www.gbif.org/species/3172325) · [POWO-608968-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:608968-1) · [IUCN-35953](https://www.iucnredlist.org/search?query=Fraxinus+chinensis&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -1364,11 +1128,7 @@
 
 *`E` Phillyrea, Green Olive Tree*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [7325923](https://www.gbif.org/species/7325923) |
-| **Plants of the World Online (POWO)** | [610971-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:610971-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [79919776](https://www.iucnredlist.org/search?query=Phillyrea+latifolia&searchType=species) |
+[GBIF-7325923](https://www.gbif.org/species/7325923) · [POWO-610971-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:610971-1) · [IUCN-79919776](https://www.iucnredlist.org/search?query=Phillyrea+latifolia&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -1386,11 +1146,7 @@
 
 *`E` Bilimbi, Tree-sorrel, Bilimbi-tree*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [2891640](https://www.gbif.org/species/2891640) |
-| **Plants of the World Online (POWO)** | [371869-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:371869-1) |
-| **International Union for Conservation of Nature (IUCN)** | (No Data) |
+[GBIF-2891640](https://www.gbif.org/species/2891640) · [POWO-371869-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:371869-1) · (No Data)
 
 (1 Example)
 
@@ -1408,11 +1164,7 @@
 
 *`E` Australian cheesewood, Cheesewood, Orange-berry pittosporum*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [2986239](https://www.gbif.org/species/2986239) |
-| **Plants of the World Online (POWO)** | [684734-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:684734-1) |
-| **International Union for Conservation of Nature (IUCN)** | (No Data) |
+[GBIF-2986239](https://www.gbif.org/species/2986239) · [POWO-684734-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:684734-1) · (No Data)
 
 (1 Example)
 
@@ -1430,11 +1182,7 @@
 
 *`E` Hedge bamboo, Chinese dwarf bamboo, Chinese-goddess bamboo*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [2705757](https://www.gbif.org/species/2705757) |
-| **Plants of the World Online (POWO)** | (No Data) |
-| **International Union for Conservation of Nature (IUCN)** | (No Data) |
+[GBIF-2705757](https://www.gbif.org/species/2705757) · (No Data) · (No Data)
 
 (1 Example)
 
@@ -1452,11 +1200,7 @@
 
 *`E` Kaphal, Asian bayberry, Nagi*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [2687779](https://www.gbif.org/species/2687779) |
-| **Plants of the World Online (POWO)** | [262544-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:262544-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟡 Near Threatened (NT) · [46347417](https://www.iucnredlist.org/search?query=Nageia+nagi&searchType=species) |
+[GBIF-2687779](https://www.gbif.org/species/2687779) · [POWO-262544-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:262544-1) · [IUCN-46347417](https://www.iucnredlist.org/search?query=Nageia+nagi&searchType=species) · 🟡 Near Threatened (NT)
 
 (1 Example)
 
@@ -1474,11 +1218,7 @@
 
 *`E` Fishtail swordfern*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [2650928](https://www.gbif.org/species/2650928) |
-| **Plants of the World Online (POWO)** | [17408170-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17408170-1) |
-| **International Union for Conservation of Nature (IUCN)** | (No Data) |
+[GBIF-2650928](https://www.gbif.org/species/2650928) · [POWO-17408170-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17408170-1) · (No Data)
 
 (1 Example)
 
@@ -1496,11 +1236,7 @@
 
 *`E` Fire bush, Redhead, Scarletbush*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [2902066](https://www.gbif.org/species/2902066) |
-| **Plants of the World Online (POWO)** | [752194-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:752194-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [136789578](https://www.iucnredlist.org/search?query=Hamelia+patens&searchType=species) |
+[GBIF-2902066](https://www.gbif.org/species/2902066) · [POWO-752194-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:752194-1) · [IUCN-136789578](https://www.iucnredlist.org/search?query=Hamelia+patens&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -1518,11 +1254,7 @@
 
 *`E` Ferntree*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [3189977](https://www.gbif.org/species/3189977) |
-| **Plants of the World Online (POWO)** | [128045-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:128045-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [165432282](https://www.iucnredlist.org/search?query=Filicium+decipiens&searchType=species) |
+[GBIF-3189977](https://www.gbif.org/species/3189977) · [POWO-128045-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:128045-1) · [IUCN-165432282](https://www.iucnredlist.org/search?query=Filicium+decipiens&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
@@ -1540,11 +1272,7 @@
 
 *`සි` *Moonamal* `த` *magizha,magilam* `E` Medlar, Tanjongtree, Spanish-cherry*
 
-|  |  |
-| --- | --- |
-| **Global Biodiversity Information Facility (GBIF)** | [2883768](https://www.gbif.org/species/2883768) |
-| **Plants of the World Online (POWO)** | [787918-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:787918-1) |
-| **International Union for Conservation of Nature (IUCN)** | 🟢 Least Concern (LC) · [61964765](https://www.iucnredlist.org/search?query=Mimusops+elengi&searchType=species) |
+[GBIF-2883768](https://www.gbif.org/species/2883768) · [POWO-787918-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:787918-1) · [IUCN-61964765](https://www.iucnredlist.org/search?query=Mimusops+elengi&searchType=species) · 🟢 Least Concern (LC)
 
 (1 Example)
 
