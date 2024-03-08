@@ -37,10 +37,11 @@ class MetaDataBase:
     @property
     def scientific_name(self) -> str:
         return self.best_plantnet_result['species']['scientificNameWithoutAuthor']
-    
+
     @property
     def wikipedia_url(self) -> str:
-        return 'https://en.wikipedia.org/wiki/' + self.scientific_name.replace(' ', '_')
+        return 'https://en.wikipedia.org/wiki/' + \
+            self.scientific_name.replace(' ', '_')
 
     @property
     def family(self) -> str:
@@ -57,7 +58,7 @@ class MetaDataBase:
     @property
     def confidence(self) -> float:
         return self.best_plantnet_result['score']
-    
+
     @property
     def confidence_emoji(self) -> str:
         if self.confidence < 0.5:
@@ -66,7 +67,7 @@ class MetaDataBase:
 
     @property
     def other_candidate_species_to_score(self) -> dict:
-        return {result['species']['scientificNameWithoutAuthor']                : result['score'] for result in self.plantnet_results[1:]}
+        return {result['species']['scientificNameWithoutAuthor']: result['score'] for result in self.plantnet_results[1:]}
 
     @property
     def other_candidates_pretty(self) -> str:
@@ -126,9 +127,10 @@ class MetaDataBase:
         return md_list
 
     @classmethod
-    @cache 
+    @cache
     def summary(cls) -> dict:
         md_list = cls.list_all()
+
         def count(key_lambda):
             key_to_n = {}
             for md in cls.list_all():
@@ -137,7 +139,7 @@ class MetaDataBase:
                     key_to_n[key] = 0
                 key_to_n[key] += 1
             return key_to_n
-        
+
         return dict(
             n=len(md_list),
             family_to_n=count(lambda md: md.family),

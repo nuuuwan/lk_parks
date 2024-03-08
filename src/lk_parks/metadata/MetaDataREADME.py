@@ -16,7 +16,8 @@ class MetaDataREADME:
 
     @property
     def title(self) -> str:
-        return f'{self.confidence_emoji}'+f' {self.scientific_name_link} ({self.google_maps_link})'
+        return f'{self.confidence_emoji}' + \
+            f' {self.scientific_name_link} ({self.google_maps_link})'
 
     @property
     def google_maps_link(self) -> str:
@@ -34,7 +35,8 @@ class MetaDataREADME:
             f'| **Genus** | {self.genus} |',
             f'| **Family** | {self.family} |',
             f'| **Common Names** | {", ".join(self.common_names)} |',
-            f'| **Confidence** | '+f'{self.confidence_emoji} {self.confidence:.1%} |',
+            f'| **Confidence** | ' +
+            f'{self.confidence_emoji} {self.confidence:.1%} |',
             f'| **Other Candidates** | {self.other_candidates_pretty} |',
             '|  |  |',
             f'| **Time** | {self.time_str} |',
@@ -63,12 +65,10 @@ class MetaDataREADME:
         ]
         return lines
 
-        
-
     @classmethod
     def build_readme(cls):
         lines = ['# Viharamahadevi Park, Colombo, Sri Lanka', '']
-        lines.extend(cls.lines_summary()) 
+        lines.extend(cls.lines_summary())
         for md in cls.list_all():
             lines.append(f'## {md.title}')
             lines.append('')

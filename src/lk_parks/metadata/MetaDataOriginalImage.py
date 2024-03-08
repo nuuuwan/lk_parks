@@ -94,7 +94,7 @@ class MetaDataOriginalImage:
             if ext not in MetaDataOriginalImage.VALID_IMAGE_EXT_LIST:
                 continue
             if '(' in file_name:
-                continue 
+                continue
             original_image_path = os.path.join(
                 MetaDataOriginalImage.DIR_DATA_IMAGES_ORIGINAL, file_name
             )
