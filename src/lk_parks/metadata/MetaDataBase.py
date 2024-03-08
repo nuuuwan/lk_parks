@@ -31,54 +31,6 @@ class MetaDataBase:
         )
 
     @property
-    def best_plantnet_result(self) -> dict:
-        return self.plantnet_results[0]
-
-    @property
-    def scientific_name(self) -> str:
-        return self.best_plantnet_result['species']['scientificNameWithoutAuthor']
-
-    @property
-    def authorship(self) -> str:
-        return self.best_plantnet_result['species']['scientificNameAuthorship']
-
-    @property
-    def wikipedia_url(self) -> str:
-        return 'https://en.wikipedia.org/wiki/' + \
-            self.scientific_name.replace(' ', '_')
-
-    @property
-    def family(self) -> str:
-        return self.best_plantnet_result['species']['family']['scientificName']
-
-    @property
-    def genus(self) -> str:
-        return self.best_plantnet_result['species']['genus']['scientificName']
-
-    @property
-    def common_names(self) -> list[str]:
-        return self.best_plantnet_result['species']['commonNames']
-
-    @property
-    def confidence(self) -> float:
-        return self.best_plantnet_result['score']
-
-    @property
-    def confidence_emoji(self) -> str:
-        if self.confidence < 0.5:
-            return '❓'
-        return '🌳'
-
-    @property
-    def other_candidate_species_to_score(self) -> dict:
-        return {result['species']['scientificNameWithoutAuthor']: result['score'] for result in self.plantnet_results[1:]}
-
-    @property
-    def other_candidates_pretty(self) -> str:
-        return ', '.join([f'{species} ({score:.1%})' for species,
-                         score in self.other_candidate_species_to_score.items()])
-
-    @property
     def time_str(self) -> str:
         return TIME_FORMAT_TIME.stringify(Time(self.ut))
 

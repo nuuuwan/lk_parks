@@ -31,12 +31,12 @@ class MetaDataREADME:
         return [
             '|  |  |',
             '| --- | --- |',
-            f'| **Scientific Name** | *{self.scientific_name_link}* ' +
+            '| **Scientific Name** | ' + f'*{self.scientific_name_link}* ' +
             f'{self.authorship} |',
             f'| **Genus** | {self.genus} |',
             f'| **Family** | {self.family} |',
             f'| **Common Names** | {", ".join(self.common_names)} |',
-            f'| **Identification Confidence** | ' +
+            '| **Identification Confidence** | ' +
             f'{self.confidence_emoji} {self.confidence:.1%} |',
             f'| **Other Candidates** | {self.other_candidates_pretty} |',
             '|  |  |',
@@ -57,8 +57,13 @@ class MetaDataREADME:
 
         def common(key_to_n):
             N_DISPLAY = 5
+            lines = [
+                f'{key} ({n})' for key,
+                n in list(
+                    key_to_n.items())[
+                    :N_DISPLAY]]
             return ', '.join(
-                [f'{key} ({n})' for key, n in list(key_to_n.items())[:N_DISPLAY]])
+                lines)
 
         common_families = common(summary['family_to_n'])
         common_genera = common(summary['genus_to_n'])

@@ -27,6 +27,12 @@ class MetaDataOriginalImage:
         return round(h + m / 60 + s / 3600, 6)
 
     @staticmethod
+    def parse_latlng(img):
+        lat = MetaDataOriginalImage.from_hms(img.gps_latitude)
+        lng = MetaDataOriginalImage.from_hms(img.gps_longitude)
+        return lat, lng
+
+    @staticmethod
     def get_image_path(original_image_path: str) -> str:
         image_name = os.path.basename(original_image_path)
         image_name = image_name.replace(' ', '-').replace(',', '')
@@ -49,6 +55,21 @@ class MetaDataOriginalImage:
             )
         return image_path
 
+    @staticmethod
+    def parse_direction(img):
+        try:
+            return img.gps_img_direction
+        except AttributeError as e:
+            log.debug(f'No direction in {img.filename}: ' + str(e))
+            return None
+
+    @staticmethod
+    def parse_ut(img):
+        return int(
+            MetaDataOriginalImage.TIME_FORMAT_EXIF.parse(
+                img.datetime_original).ut
+        )
+
     @classmethod
     def from_original_image(cls, original_image_path: str):
         with open(original_image_path, 'rb') as src:
@@ -59,20 +80,10 @@ class MetaDataOriginalImage:
             MetaDataOriginalImage.resize_image(original_image_path, image_path)
 
             img = ExifImage(src)
-            ut = int(
-                MetaDataOriginalImage.TIME_FORMAT_EXIF.parse(
-                    img.datetime_original).ut
-            )
-            latlng = (
-                MetaDataOriginalImage.from_hms(img.gps_latitude),
-                MetaDataOriginalImage.from_hms(img.gps_longitude),
-            )
+            ut = MetaDataOriginalImage.parse_ut(img)
+            latlng = MetaDataOriginalImage.parse_latlng(img)
             alt = img.gps_altitude
-            try:
-                direction = img.gps_img_direction
-            except AttributeError:
-                direction = None
-
+            direction = MetaDataOriginalImage.parse_direction(img)
             plantnet_results = PlantNet.from_env().identify(image_path)
 
             return cls(
