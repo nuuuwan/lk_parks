@@ -56,7 +56,8 @@ class MetaDataREADME:
 
         def common(key_to_n):
             N_DISPLAY = 5
-            return ', '.join([f'{key} ({n})' for key, n in list(key_to_n.items())[:N_DISPLAY]])
+            return ', '.join(
+                [f'{key} ({n})' for key, n in list(key_to_n.items())[:N_DISPLAY]])
 
         common_families = common(summary['family_to_n'])
         common_genera = common(summary['genus_to_n'])
@@ -71,7 +72,7 @@ class MetaDataREADME:
             f'| **Unique Genera** | {n_genera} | {common_genera} |',
             f'| **Unique Species** | {n_species} | {common_species} |',
             f'| **Total Plants** | {n} | |',
-            
+
         ]
         return lines
 
