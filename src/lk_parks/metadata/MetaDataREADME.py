@@ -11,6 +11,12 @@ class MetaDataREADME:
     README_PATH = os.path.join('README.md')
 
     @property
+    def common_names_pretty(self) -> str:
+        if not self.common_names:
+            return '-'
+        return ', '.join(self.common_names)
+
+    @property
     def scientific_name_link(self) -> str:
         return f'[{self.scientific_name}]({self.wikipedia_url})'
 
@@ -53,7 +59,7 @@ class MetaDataREADME:
             f'{self.authorship} |',
             f'| **Genus** | {self.genus} |',
             f'| **Family** | {self.family} |',
-            f'| **Common Names** | {", ".join(self.common_names)} |',
+            f'| **Common Names** | {self.common_names_pretty} |',
             '| **Identification Confidence** | ' +
             f'{self.confidence_emoji} {self.confidence:.1%} |',
             f'| **Other Candidates** | {self.other_candidates_pretty} |',

@@ -21,9 +21,9 @@
 | **Identification Confidence** | ❓ 16.5% |
 | **Other Candidates** | Vachellia farnesiana (5.1%), Nothofagus antarctica (4.4%), Tamarindus indica (3.9%), Ulmus pumila (2.4%) |
 |  |  |
-! **GBIF** | [3974744](https://www.gbif.org/species/3974744) |
-! **POWO** | [77089275-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77089275-1) |
-! **IUCN** | 🟢 Least Concern [158379] |
+| **GBIF** | [3974744](https://www.gbif.org/species/3974744) |
+| **POWO** | [77089275-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77089275-1) |
+| **IUCN** | 🟢 Least Concern [158379] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 289.9° (W) |
@@ -43,9 +43,9 @@
 | **Identification Confidence** | ❓ 11.3% |
 | **Other Candidates** | Ehretia anacua (10.4%), Flacourtia jangomas (3.4%), Malpighia glabra (3.3%), Campomanesia xanthocarpa (2.4%) |
 |  |  |
-! **GBIF** | [7285310](https://www.gbif.org/species/7285310) |
-! **POWO** | [555884-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:555884-1) |
-! **IUCN** | Unknown |
+| **GBIF** | [7285310](https://www.gbif.org/species/7285310) |
+| **POWO** | [555884-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:555884-1) |
+| **IUCN** | Unknown |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 210.1° (SW) |
@@ -65,9 +65,9 @@
 | **Identification Confidence** | 🌳 62.7% |
 | **Other Candidates** | Citharexylum myrianthum (13.6%), Handroanthus ochraceus (3.3%), Melia azedarach (3.2%), Bischofia javanica (1.4%) |
 |  |  |
-! **GBIF** | [3172537](https://www.gbif.org/species/3172537) |
-! **POWO** | [111027-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:111027-1) |
-! **IUCN** | 🟢 Least Concern [61986278] |
+| **GBIF** | [3172537](https://www.gbif.org/species/3172537) |
+| **POWO** | [111027-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:111027-1) |
+| **IUCN** | 🟢 Least Concern [61986278] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 346.8° (N) |
@@ -87,9 +87,9 @@
 | **Identification Confidence** | ❓ 14.7% |
 | **Other Candidates** | Laurus azorica (3.4%), Ruprechtia laxiflora (3.3%), Gymnanthemum amygdalinum (2.7%), Combretum kraussii (2.2%) |
 |  |  |
-! **GBIF** | [3034015](https://www.gbif.org/species/3034015) |
-! **POWO** | [465049-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:465049-1) |
-! **IUCN** | 🟢 Least Concern [203351] |
+| **GBIF** | [3034015](https://www.gbif.org/species/3034015) |
+| **POWO** | [465049-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:465049-1) |
+| **IUCN** | 🟢 Least Concern [203351] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 303.6° (NW) |
@@ -105,13 +105,13 @@
 | **Scientific Name** | *[Inga uraguensis](https://en.wikipedia.org/wiki/Inga_uraguensis)* Hook. & Arn. |
 | **Genus** | Inga |
 | **Family** | Fabaceae |
-| **Common Names** |  |
+| **Common Names** | - |
 | **Identification Confidence** | ❓ 18.1% |
 | **Other Candidates** | Swietenia macrophylla (2.0%), Tabebuia rosea (1.9%), Spathodea campanulata (1.9%), Handroanthus impetiginosus (1.8%) |
 |  |  |
-! **GBIF** | [5357546](https://www.gbif.org/species/5357546) |
-! **POWO** | [128804-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:128804-2) |
-! **IUCN** | 🟢 Least Concern [62026250] |
+| **GBIF** | [5357546](https://www.gbif.org/species/5357546) |
+| **POWO** | [128804-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:128804-2) |
+| **IUCN** | 🟢 Least Concern [62026250] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 356.1° (N) |
@@ -131,9 +131,9 @@
 | **Identification Confidence** | ❓ 11.8% |
 | **Other Candidates** | Ficus microcarpa (10.4%), Ficus elastica (6.3%), Ficus benghalensis (6.2%), Ficus sycomorus (4.0%) |
 |  |  |
-! **GBIF** | [3699873](https://www.gbif.org/species/3699873) |
-! **POWO** | [171229-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:171229-1) |
-! **IUCN** | 🟢 Least Concern [128091369] |
+| **GBIF** | [3699873](https://www.gbif.org/species/3699873) |
+| **POWO** | [171229-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:171229-1) |
+| **IUCN** | 🟢 Least Concern [128091369] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 349.7° (N) |
@@ -153,9 +153,9 @@
 | **Identification Confidence** | ❓ 17.5% |
 | **Other Candidates** | × Chitalpa tashkentensis (5.0%), Mimusops elengi (4.9%), Quercus acutissima (3.5%), Acacia auriculiformis (3.4%) |
 |  |  |
-! **GBIF** | [3190638](https://www.gbif.org/species/3190638) |
-! **POWO** | [69913-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:69913-1) |
-! **IUCN** | ⚪ Data Deficient [31389] |
+| **GBIF** | [3190638](https://www.gbif.org/species/3190638) |
+| **POWO** | [69913-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:69913-1) |
+| **IUCN** | ⚪ Data Deficient [31389] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 331.8° (NW) |
@@ -175,9 +175,9 @@
 | **Identification Confidence** | 🌳 94.1% |
 | **Other Candidates** | Tectona grandis (0.7%), Careya arborea (0.5%), Anacardium occidentale (0.3%), Anthocleista grandiflora (0.2%) |
 |  |  |
-! **GBIF** | [3189394](https://www.gbif.org/species/3189394) |
-! **POWO** | [171034-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:171034-1) |
-! **IUCN** | 🟢 Least Concern [61989853] |
+| **GBIF** | [3189394](https://www.gbif.org/species/3189394) |
+| **POWO** | [171034-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:171034-1) |
+| **IUCN** | 🟢 Least Concern [61989853] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 273.6° (W) |
@@ -197,9 +197,9 @@
 | **Identification Confidence** | ❓ 25.5% |
 | **Other Candidates** | Handroanthus serratifolius (20.3%), Pleiogynium timoriense (9.6%), Pterocarpus indicus (8.7%), Cassia fistula (4.3%) |
 |  |  |
-! **GBIF** | [3190472](https://www.gbif.org/species/3190472) |
-! **POWO** | [579299-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:579299-1) |
-! **IUCN** | 🟢 Least Concern [31332] |
+| **GBIF** | [3190472](https://www.gbif.org/species/3190472) |
+| **POWO** | [579299-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:579299-1) |
+| **IUCN** | 🟢 Least Concern [31332] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 342.5° (N) |
@@ -219,9 +219,9 @@
 | **Identification Confidence** | 🌳 94.2% |
 | **Other Candidates** | Artocarpus integer (3.4%), Ficus benghalensis (0.1%) |
 |  |  |
-! **GBIF** | [2984565](https://www.gbif.org/species/2984565) |
-! **POWO** | [850389-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:850389-1) |
-! **IUCN** | Unknown |
+| **GBIF** | [2984565](https://www.gbif.org/species/2984565) |
+| **POWO** | [850389-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:850389-1) |
+| **IUCN** | Unknown |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 259.6° (W) |
@@ -241,9 +241,9 @@
 | **Identification Confidence** | ❓ 29.3% |
 | **Other Candidates** | Terminalia chebula (5.1%), Afzelia quanzensis (5.0%), Tabebuia rosea (3.3%), Pterocarpus angolensis (2.5%) |
 |  |  |
-! **GBIF** | [5358300](https://www.gbif.org/species/5358300) |
-! **POWO** | [473043-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:473043-1) |
-! **IUCN** | 🟡 Vulnerable [33032] |
+| **GBIF** | [5358300](https://www.gbif.org/species/5358300) |
+| **POWO** | [473043-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:473043-1) |
+| **IUCN** | 🟡 Vulnerable [33032] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 350.4° (N) |
@@ -263,9 +263,9 @@
 | **Identification Confidence** | ❓ 10.9% |
 | **Other Candidates** | Lagerstroemia speciosa (7.7%), Brownea grandiceps (5.7%), Phyllanthus acidus (4.9%), Koelreuteria bipinnata (4.4%) |
 |  |  |
-! **GBIF** | [2891640](https://www.gbif.org/species/2891640) |
-! **POWO** | [371869-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:371869-1) |
-! **IUCN** | Unknown |
+| **GBIF** | [2891640](https://www.gbif.org/species/2891640) |
+| **POWO** | [371869-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:371869-1) |
+| **IUCN** | Unknown |
 |  |  |
 | **Time** | 07:02 AM (Feb 22, 2024) |
 | **Camera Direction** | 278.6° (W) |
@@ -285,9 +285,9 @@
 | **Identification Confidence** | ❓ 6.6% |
 | **Other Candidates** | Averrhoa carambola (5.6%), Bauhinia variegata (5.1%), Bauhinia purpurea (4.8%), Tipuana tipu (3.8%) |
 |  |  |
-! **GBIF** | [3189663](https://www.gbif.org/species/3189663) |
-! **POWO** | [828593-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:828593-1) |
-! **IUCN** | 🟢 Least Concern [144313008] |
+| **GBIF** | [3189663](https://www.gbif.org/species/3189663) |
+| **POWO** | [828593-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:828593-1) |
+| **IUCN** | 🟢 Least Concern [144313008] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 277.3° (W) |
@@ -307,9 +307,9 @@
 | **Identification Confidence** | 🌳 60.5% |
 | **Other Candidates** | Monoon longifolium (8.2%), Quercus myrsinifolia (4.6%), Ficus maclellandii (1.9%), Saraca indica (0.8%) |
 |  |  |
-! **GBIF** | [7330039](https://www.gbif.org/species/7330039) |
-! **POWO** | [428832-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:428832-1) |
-! **IUCN** | Unknown |
+| **GBIF** | [7330039](https://www.gbif.org/species/7330039) |
+| **POWO** | [428832-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:428832-1) |
+| **IUCN** | Unknown |
 |  |  |
 | **Time** | 07:02 AM (Feb 22, 2024) |
 | **Camera Direction** | 267.7° (W) |
@@ -329,9 +329,9 @@
 | **Identification Confidence** | ❓ 28.3% |
 | **Other Candidates** | Tabebuia heterophylla (12.6%), Ceiba glaziovii (1.9%), Tabebuia roseoalba (1.8%), Moringa oleifera (1.5%) |
 |  |  |
-! **GBIF** | [3172527](https://www.gbif.org/species/3172527) |
-! **POWO** | [110996-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:110996-1) |
-! **IUCN** | 🟢 Least Concern [61986231] |
+| **GBIF** | [3172527](https://www.gbif.org/species/3172527) |
+| **POWO** | [110996-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:110996-1) |
+| **IUCN** | 🟢 Least Concern [61986231] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 240.1° (SW) |
@@ -351,9 +351,9 @@
 | **Identification Confidence** | ❓ 36.7% |
 | **Other Candidates** | Tabebuia heterophylla (11.2%), Rosa banksiae (4.5%), Tabebuia roseoalba (2.7%), Rosa moschata (1.4%) |
 |  |  |
-! **GBIF** | [3172527](https://www.gbif.org/species/3172527) |
-! **POWO** | [110996-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:110996-1) |
-! **IUCN** | 🟢 Least Concern [61986231] |
+| **GBIF** | [3172527](https://www.gbif.org/species/3172527) |
+| **POWO** | [110996-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:110996-1) |
+| **IUCN** | 🟢 Least Concern [61986231] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 241.5° (SW) |
@@ -373,9 +373,9 @@
 | **Identification Confidence** | ❓ 34.2% |
 | **Other Candidates** | Plumeria rubra (24.9%), Plumeria alba (6.2%), Voacanga thouarsii (5.0%), Terminalia mantaly (2.1%) |
 |  |  |
-! **GBIF** | [3169677](https://www.gbif.org/species/3169677) |
-! **POWO** | [81256-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:81256-1) |
-! **IUCN** | 🟢 Least Concern [156770956] |
+| **GBIF** | [3169677](https://www.gbif.org/species/3169677) |
+| **POWO** | [81256-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:81256-1) |
+| **IUCN** | 🟢 Least Concern [156770956] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 264.4° (W) |
@@ -395,9 +395,9 @@
 | **Identification Confidence** | 🌳 91.8% |
 | **Other Candidates** | Cassia abbreviata (0.5%), Aegle marmelos (0.5%), Senna surattensis (0.3%), Tipuana tipu (0.2%) |
 |  |  |
-! **GBIF** | [5357108](https://www.gbif.org/species/5357108) |
-! **POWO** | [484507-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:484507-1) |
-! **IUCN** | 🟢 Least Concern [136142327] |
+| **GBIF** | [5357108](https://www.gbif.org/species/5357108) |
+| **POWO** | [484507-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:484507-1) |
+| **IUCN** | 🟢 Least Concern [136142327] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 11.5° (N) |
@@ -417,9 +417,9 @@
 | **Identification Confidence** | ❓ 20.8% |
 | **Other Candidates** | Ficus benjamina (18.5%), Osmanthus fragrans (11.6%), Quercus glauca (2.8%), Cinnamomum camphora (2.5%) |
 |  |  |
-! **GBIF** | [3765871](https://www.gbif.org/species/3765871) |
-! **POWO** | [853577-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:853577-1) |
-! **IUCN** | 🟢 Least Concern [72278682] |
+| **GBIF** | [3765871](https://www.gbif.org/species/3765871) |
+| **POWO** | [853577-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:853577-1) |
+| **IUCN** | 🟢 Least Concern [72278682] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 77.1° (E) |
@@ -439,9 +439,9 @@
 | **Identification Confidence** | ❓ 23.9% |
 | **Other Candidates** | Plumeria alba (17.1%), Plumeria rubra (9.8%), Pachypodium decaryi (3.2%), Ficus maxima (2.1%) |
 |  |  |
-! **GBIF** | [3169677](https://www.gbif.org/species/3169677) |
-! **POWO** | [81256-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:81256-1) |
-! **IUCN** | 🟢 Least Concern [156770956] |
+| **GBIF** | [3169677](https://www.gbif.org/species/3169677) |
+| **POWO** | [81256-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:81256-1) |
+| **IUCN** | 🟢 Least Concern [156770956] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 229.4° (SW) |
@@ -461,9 +461,9 @@
 | **Identification Confidence** | 🌳 52.8% |
 | **Other Candidates** | Allamanda schottii (34.4%), Hypericum lanceolatum (0.5%), Hypericum revolutum (0.3%), Polygala myrtifolia (0.2%) |
 |  |  |
-! **GBIF** | [3169836](https://www.gbif.org/species/3169836) |
-! **POWO** | [319065-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:319065-2) |
-! **IUCN** | Unknown |
+| **GBIF** | [3169836](https://www.gbif.org/species/3169836) |
+| **POWO** | [319065-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:319065-2) |
+| **IUCN** | Unknown |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 19.5° (N) |
@@ -483,9 +483,9 @@
 | **Identification Confidence** | ❓ 32.2% |
 | **Other Candidates** | Bambusa vulgaris (6.6%), Phyllostachys aurea (2.3%), Phyllostachys nigra (1.0%), Bambusa tuldoides (0.7%) |
 |  |  |
-! **GBIF** | [2705757](https://www.gbif.org/species/2705757) |
-! **POWO** | Unknown |
-! **IUCN** | Unknown |
+| **GBIF** | [2705757](https://www.gbif.org/species/2705757) |
+| **POWO** | Unknown |
+| **IUCN** | Unknown |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 180.2° (S) |
@@ -505,9 +505,9 @@
 | **Identification Confidence** | ❓ 10.0% |
 | **Other Candidates** | Trachelospermum asiaticum (8.4%), Ilex cornuta (4.9%), Atalantia buxifolia (3.8%), Psidium guajava (3.3%) |
 |  |  |
-! **GBIF** | [3169713](https://www.gbif.org/species/3169713) |
-! **POWO** | [82553-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:82553-1) |
-! **IUCN** | Unknown |
+| **GBIF** | [3169713](https://www.gbif.org/species/3169713) |
+| **POWO** | [82553-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:82553-1) |
+| **IUCN** | Unknown |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 262.0° (W) |
@@ -527,9 +527,9 @@
 | **Identification Confidence** | ❓ 16.9% |
 | **Other Candidates** | Hymenaea courbaril (11.3%), Tabebuia rosea (7.4%), Inga uraguensis (6.3%), Eugenia candolleana (3.1%) |
 |  |  |
-! **GBIF** | [5357677](https://www.gbif.org/species/5357677) |
-! **POWO** | [128478-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:128478-2) |
-! **IUCN** | 🟢 Least Concern [137640618] |
+| **GBIF** | [5357677](https://www.gbif.org/species/5357677) |
+| **POWO** | [128478-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:128478-2) |
+| **IUCN** | 🟢 Least Concern [137640618] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 250.0° (W) |
@@ -549,9 +549,9 @@
 | **Identification Confidence** | ❓ 7.8% |
 | **Other Candidates** | Carya illinoinensis (4.9%), Fraxinus excelsior (4.8%), Alnus japonica (2.0%), Pterodon emarginatus (1.5%) |
 |  |  |
-! **GBIF** | [3054368](https://www.gbif.org/species/3054368) |
-! **POWO** | [442427-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:442427-1) |
-! **IUCN** | 🟢 Least Concern [63495] |
+| **GBIF** | [3054368](https://www.gbif.org/species/3054368) |
+| **POWO** | [442427-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:442427-1) |
+| **IUCN** | 🟢 Least Concern [63495] |
 |  |  |
 | **Time** | 07:12 AM (Dec 31, 2023) |
 | **Camera Direction** | 271.5° (W) |
@@ -571,9 +571,9 @@
 | **Identification Confidence** | ❓ 19.2% |
 | **Other Candidates** | Tabebuia roseoalba (8.6%), Tabebuia rosea (6.2%), Clerodendrum quadriloculare (2.8%), Handroanthus ochraceus (2.1%) |
 |  |  |
-! **GBIF** | [3172325](https://www.gbif.org/species/3172325) |
-! **POWO** | [608968-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:608968-1) |
-! **IUCN** | 🟢 Least Concern [35953] |
+| **GBIF** | [3172325](https://www.gbif.org/species/3172325) |
+| **POWO** | [608968-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:608968-1) |
+| **IUCN** | 🟢 Least Concern [35953] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 267.0° (W) |
@@ -593,9 +593,9 @@
 | **Identification Confidence** | ❓ 33.3% |
 | **Other Candidates** | Banksia integrifolia (4.5%), Byrsonima crassifolia (4.5%), Melaleuca leucadendra (4.2%), Umbellularia californica (3.2%) |
 |  |  |
-! **GBIF** | [5415832](https://www.gbif.org/species/5415832) |
-! **POWO** | [598073-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:598073-1) |
-! **IUCN** | 🟢 Least Concern [49278407] |
+| **GBIF** | [5415832](https://www.gbif.org/species/5415832) |
+| **POWO** | [598073-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:598073-1) |
+| **IUCN** | 🟢 Least Concern [49278407] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 4.1° (N) |
@@ -615,9 +615,9 @@
 | **Identification Confidence** | ❓ 4.0% |
 | **Other Candidates** | Hymenaea courbaril (2.4%), Elaeocarpus serratus (2.4%), Ceiba pentandra (1.2%), Disocactus ackermannii (1.2%) |
 |  |  |
-! **GBIF** | [2956176](https://www.gbif.org/species/2956176) |
-! **POWO** | Unknown |
-! **IUCN** | 🟢 Least Concern [32947] |
+| **GBIF** | [2956176](https://www.gbif.org/species/2956176) |
+| **POWO** | Unknown |
+| **IUCN** | 🟢 Least Concern [32947] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 255.8° (W) |
@@ -637,9 +637,9 @@
 | **Identification Confidence** | ❓ 42.6% |
 | **Other Candidates** | Ficus altissima (14.5%), Ficus elastica (11.8%), Ficus aurea (5.0%), Ficus virens (2.9%) |
 |  |  |
-! **GBIF** | [5361919](https://www.gbif.org/species/5361919) |
-! **POWO** | [852482-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:852482-1) |
-! **IUCN** | Unknown |
+| **GBIF** | [5361919](https://www.gbif.org/species/5361919) |
+| **POWO** | [852482-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:852482-1) |
+| **IUCN** | Unknown |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 246.3° (SW) |
@@ -659,9 +659,9 @@
 | **Identification Confidence** | ❓ 7.5% |
 | **Other Candidates** | Ligustrum lucidum (5.9%), Syzygium cumini (5.6%), Plinia cauliflora (4.7%), Quercus glauca (3.5%) |
 |  |  |
-! **GBIF** | [2883768](https://www.gbif.org/species/2883768) |
-! **POWO** | [787918-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:787918-1) |
-! **IUCN** | 🟢 Least Concern [61964765] |
+| **GBIF** | [2883768](https://www.gbif.org/species/2883768) |
+| **POWO** | [787918-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:787918-1) |
+| **IUCN** | 🟢 Least Concern [61964765] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 299.7° (NW) |
@@ -681,9 +681,9 @@
 | **Identification Confidence** | ❓ 37.0% |
 | **Other Candidates** | Amaranthus tricolor (8.5%), Alternanthera brasiliana (4.0%), Amaranthus hybridus (2.3%), Amaranthus cruentus (2.2%) |
 |  |  |
-! **GBIF** | [3057221](https://www.gbif.org/species/3057221) |
-! **POWO** | [337939-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:337939-1) |
-! **IUCN** | Unknown |
+| **GBIF** | [3057221](https://www.gbif.org/species/3057221) |
+| **POWO** | [337939-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:337939-1) |
+| **IUCN** | Unknown |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 166.2° (S) |
@@ -703,9 +703,9 @@
 | **Identification Confidence** | ❓ 8.6% |
 | **Other Candidates** | Mimusops elengi (7.7%), Syzygium cumini (7.1%), Phytolacca dioica (6.3%), Ligustrum lucidum (3.4%) |
 |  |  |
-! **GBIF** | [3033991](https://www.gbif.org/species/3033991) |
-! **POWO** | [463336-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:463336-1) |
-! **IUCN** | 🟢 Least Concern [15441072] |
+| **GBIF** | [3033991](https://www.gbif.org/species/3033991) |
+| **POWO** | [463336-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:463336-1) |
+| **IUCN** | 🟢 Least Concern [15441072] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 311.0° (NW) |
@@ -725,9 +725,9 @@
 | **Identification Confidence** | ❓ 20.2% |
 | **Other Candidates** | Tipuana tipu (9.3%), Schinus terebinthifolia (5.6%), Albizia lebbeck (4.1%), Robinia hispida (3.8%) |
 |  |  |
-! **GBIF** | [3172537](https://www.gbif.org/species/3172537) |
-! **POWO** | [111027-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:111027-1) |
-! **IUCN** | 🟢 Least Concern [61986278] |
+| **GBIF** | [3172537](https://www.gbif.org/species/3172537) |
+| **POWO** | [111027-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:111027-1) |
+| **IUCN** | 🟢 Least Concern [61986278] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 267.9° (W) |
@@ -747,9 +747,9 @@
 | **Identification Confidence** | ❓ 16.6% |
 | **Other Candidates** | Ficus religiosa (12.7%), Tabebuia rosea (5.7%), Ipomoea arborescens (2.1%), Amburana cearensis (1.5%) |
 |  |  |
-! **GBIF** | [3054181](https://www.gbif.org/species/3054181) |
-! **POWO** | [584736-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:584736-1) |
-! **IUCN** | 🟢 Least Concern [61890232] |
+| **GBIF** | [3054181](https://www.gbif.org/species/3054181) |
+| **POWO** | [584736-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:584736-1) |
+| **IUCN** | 🟢 Least Concern [61890232] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 230.4° (SW) |
@@ -769,9 +769,9 @@
 | **Identification Confidence** | ❓ 6.4% |
 | **Other Candidates** | Celtis australis (5.6%), Eucalyptus robusta (4.3%), Mesua ferrea (2.3%), Eucalyptus globulus (2.3%) |
 |  |  |
-! **GBIF** | [5415976](https://www.gbif.org/species/5415976) |
-! **POWO** | [598002-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:598002-1) |
-! **IUCN** | ⚪ Data Deficient [61917032] |
+| **GBIF** | [5415976](https://www.gbif.org/species/5415976) |
+| **POWO** | [598002-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:598002-1) |
+| **IUCN** | ⚪ Data Deficient [61917032] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 337.3° (NW) |
@@ -791,9 +791,9 @@
 | **Identification Confidence** | ❓ 15.8% |
 | **Other Candidates** | Lagerstroemia speciosa (13.2%), Casimiroa edulis (4.3%), Bridelia micrantha (3.6%), Cassia fistula (3.4%) |
 |  |  |
-! **GBIF** | [3190472](https://www.gbif.org/species/3190472) |
-! **POWO** | [579299-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:579299-1) |
-! **IUCN** | 🟢 Least Concern [31332] |
+| **GBIF** | [3190472](https://www.gbif.org/species/3190472) |
+| **POWO** | [579299-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:579299-1) |
+| **IUCN** | 🟢 Least Concern [31332] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 162.9° (S) |
@@ -813,9 +813,9 @@
 | **Identification Confidence** | ❓ 9.0% |
 | **Other Candidates** | Holarrhena pubescens (6.0%), Pleiogynium timoriense (4.0%), Paubrasilia echinata (3.5%), Copaifera langsdorffii (2.4%) |
 |  |  |
-! **GBIF** | [5357108](https://www.gbif.org/species/5357108) |
-! **POWO** | [484507-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:484507-1) |
-! **IUCN** | 🟢 Least Concern [136142327] |
+| **GBIF** | [5357108](https://www.gbif.org/species/5357108) |
+| **POWO** | [484507-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:484507-1) |
+| **IUCN** | 🟢 Least Concern [136142327] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 230.0° (SW) |
@@ -835,9 +835,9 @@
 | **Identification Confidence** | ❓ 7.9% |
 | **Other Candidates** | Guarea guidonia (4.7%), Syzygium cumini (4.5%), Lagerstroemia speciosa (3.8%), Carpinus betulus (2.7%) |
 |  |  |
-! **GBIF** | [2985500](https://www.gbif.org/species/2985500) |
-! **POWO** | [726782-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:726782-1) |
-! **IUCN** | 🟢 Least Concern [189620212] |
+| **GBIF** | [2985500](https://www.gbif.org/species/2985500) |
+| **POWO** | [726782-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:726782-1) |
+| **IUCN** | 🟢 Least Concern [189620212] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 334.7° (NW) |
@@ -857,9 +857,9 @@
 | **Identification Confidence** | 🌳 98.5% |
 | **Other Candidates** | Melaleuca leucadendra (0.6%), Melaleuca styphelioides (0.2%) |
 |  |  |
-! **GBIF** | [5415832](https://www.gbif.org/species/5415832) |
-! **POWO** | [598073-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:598073-1) |
-! **IUCN** | 🟢 Least Concern [49278407] |
+| **GBIF** | [5415832](https://www.gbif.org/species/5415832) |
+| **POWO** | [598073-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:598073-1) |
+| **IUCN** | 🟢 Least Concern [49278407] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 327.3° (NW) |
@@ -879,9 +879,9 @@
 | **Identification Confidence** | ❓ 41.8% |
 | **Other Candidates** | Pterocarya stenoptera (6.8%), Samanea saman (1.3%), Pterocarya fraxinifolia (1.3%), Guaiacum sanctum (0.9%) |
 |  |  |
-! **GBIF** | [9119360](https://www.gbif.org/species/9119360) |
-! **POWO** | [77158012-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77158012-1) |
-! **IUCN** | 🟠 Endangered [33974] |
+| **GBIF** | [9119360](https://www.gbif.org/species/9119360) |
+| **POWO** | [77158012-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77158012-1) |
+| **IUCN** | 🟠 Endangered [33974] |
 |  |  |
 | **Time** | 07:12 AM (Dec 19, 2023) |
 | **Camera Direction** | 251.7° (W) |
@@ -901,9 +901,9 @@
 | **Identification Confidence** | ❓ 30.4% |
 | **Other Candidates** | Psidium guajava (23.7%), Lagerstroemia speciosa (9.9%), Syzygium jambos (3.6%), Licania ternatensis (1.5%) |
 |  |  |
-! **GBIF** | [3699548](https://www.gbif.org/species/3699548) |
-! **POWO** | [170962-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:170962-1) |
-! **IUCN** | Unknown |
+| **GBIF** | [3699548](https://www.gbif.org/species/3699548) |
+| **POWO** | [170962-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:170962-1) |
+| **IUCN** | Unknown |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 257.7° (W) |
@@ -923,9 +923,9 @@
 | **Identification Confidence** | ❓ 17.8% |
 | **Other Candidates** | Phoenix reclinata (15.3%), Roystonea oleracea (5.6%), Archontophoenix cunninghamiana (4.3%), Syagrus romanzoffiana (4.2%) |
 |  |  |
-! **GBIF** | [2733755](https://www.gbif.org/species/2733755) |
-! **POWO** | [222809-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:222809-2) |
-! **IUCN** | 🟢 Least Concern [62329] |
+| **GBIF** | [2733755](https://www.gbif.org/species/2733755) |
+| **POWO** | [222809-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:222809-2) |
+| **IUCN** | 🟢 Least Concern [62329] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 179.0° (S) |
@@ -945,9 +945,9 @@
 | **Identification Confidence** | ❓ 16.5% |
 | **Other Candidates** | Kigelia africana (12.0%), Schleichera oleosa (11.6%), Psidium guajava (9.8%), Trichilia dregeana (4.6%) |
 |  |  |
-! **GBIF** | [5421368](https://www.gbif.org/species/5421368) |
-! **POWO** | [319068-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:319068-2) |
-! **IUCN** | 🟢 Least Concern [60761600] |
+| **GBIF** | [5421368](https://www.gbif.org/species/5421368) |
+| **POWO** | [319068-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:319068-2) |
+| **IUCN** | 🟢 Least Concern [60761600] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 311.7° (NW) |
@@ -967,9 +967,9 @@
 | **Identification Confidence** | ❓ 7.3% |
 | **Other Candidates** | Monoon longifolium (4.1%), Ceiba pentandra (3.2%), Pandanus tectorius (3.0%), Phytolacca dioica (2.6%) |
 |  |  |
-! **GBIF** | [3190638](https://www.gbif.org/species/3190638) |
-! **POWO** | [69913-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:69913-1) |
-! **IUCN** | ⚪ Data Deficient [31389] |
+| **GBIF** | [3190638](https://www.gbif.org/species/3190638) |
+| **POWO** | [69913-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:69913-1) |
+| **IUCN** | ⚪ Data Deficient [31389] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 276.7° (W) |
@@ -989,9 +989,9 @@
 | **Identification Confidence** | ❓ 42.1% |
 | **Other Candidates** | Ficus altissima (12.9%), Ficus lutea (8.9%), Ficus benghalensis (7.6%), Ficus virens (1.7%) |
 |  |  |
-! **GBIF** | [5361903](https://www.gbif.org/species/5361903) |
-! **POWO** | [60458499-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60458499-2) |
-! **IUCN** | 🟢 Least Concern [116271522] |
+| **GBIF** | [5361903](https://www.gbif.org/species/5361903) |
+| **POWO** | [60458499-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60458499-2) |
+| **IUCN** | 🟢 Least Concern [116271522] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 277.9° (W) |
@@ -1011,9 +1011,9 @@
 | **Identification Confidence** | 🌳 84.2% |
 | **Other Candidates** | Hura crepitans (2.3%), Bischofia javanica (1.4%), Triadica sebifera (1.4%), Ficus virens (0.9%) |
 |  |  |
-! **GBIF** | [5361935](https://www.gbif.org/species/5361935) |
-! **POWO** | [853563-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:853563-1) |
-! **IUCN** | 🟢 Least Concern [150222331] |
+| **GBIF** | [5361935](https://www.gbif.org/species/5361935) |
+| **POWO** | [853563-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:853563-1) |
+| **IUCN** | 🟢 Least Concern [150222331] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 219.1° (SW) |
@@ -1033,9 +1033,9 @@
 | **Identification Confidence** | ❓ 35.0% |
 | **Other Candidates** | Pterocarpus indicus (4.6%), Spathodea campanulata (2.7%), Amburana cearensis (2.5%), Azadirachta indica (2.4%) |
 |  |  |
-! **GBIF** | [3190472](https://www.gbif.org/species/3190472) |
-! **POWO** | [579299-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:579299-1) |
-! **IUCN** | 🟢 Least Concern [31332] |
+| **GBIF** | [3190472](https://www.gbif.org/species/3190472) |
+| **POWO** | [579299-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:579299-1) |
+| **IUCN** | 🟢 Least Concern [31332] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 219.9° (SW) |
@@ -1055,9 +1055,9 @@
 | **Identification Confidence** | ❓ 24.1% |
 | **Other Candidates** | Juglans regia (6.8%), Syzygium malaccense (3.5%), Ficus altissima (2.9%), Ficus lacor (2.7%) |
 |  |  |
-! **GBIF** | [3183840](https://www.gbif.org/species/3183840) |
-! **POWO** | [601603-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:601603-1) |
-! **IUCN** | 🟢 Least Concern [49487196] |
+| **GBIF** | [3183840](https://www.gbif.org/species/3183840) |
+| **POWO** | [601603-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:601603-1) |
+| **IUCN** | 🟢 Least Concern [49487196] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 338.1° (N) |
@@ -1077,9 +1077,9 @@
 | **Identification Confidence** | ❓ 17.2% |
 | **Other Candidates** | Annona purpurea (7.8%), Juglans regia (4.9%), Diospyros blancoi (2.9%), Eugenia jambosoides (2.6%) |
 |  |  |
-! **GBIF** | [3183840](https://www.gbif.org/species/3183840) |
-! **POWO** | [601603-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:601603-1) |
-! **IUCN** | 🟢 Least Concern [49487196] |
+| **GBIF** | [3183840](https://www.gbif.org/species/3183840) |
+| **POWO** | [601603-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:601603-1) |
+| **IUCN** | 🟢 Least Concern [49487196] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 334.2° (NW) |
@@ -1099,9 +1099,9 @@
 | **Identification Confidence** | ❓ 7.8% |
 | **Other Candidates** | Lagerstroemia speciosa (7.2%), Magnolia kobus (5.4%), Magnolia acuminata (3.8%), Holarrhena pubescens (3.4%) |
 |  |  |
-! **GBIF** | [2925649](https://www.gbif.org/species/2925649) |
-! **POWO** | [864923-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:864923-1) |
-! **IUCN** | 🟠 Endangered [62019830] |
+| **GBIF** | [2925649](https://www.gbif.org/species/2925649) |
+| **POWO** | [864923-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:864923-1) |
+| **IUCN** | 🟠 Endangered [62019830] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 4.5° (N) |
@@ -1121,9 +1121,9 @@
 | **Identification Confidence** | 🌳 75.0% |
 | **Other Candidates** | Casuarina cunninghamiana (14.9%), Pinus pinea (1.1%), Pinus wallichiana (0.9%), Parkinsonia aculeata (0.3%) |
 |  |  |
-! **GBIF** | [2891930](https://www.gbif.org/species/2891930) |
-! **POWO** | [159856-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:159856-1) |
-! **IUCN** | 🟢 Least Concern [16728404] |
+| **GBIF** | [2891930](https://www.gbif.org/species/2891930) |
+| **POWO** | [159856-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:159856-1) |
+| **IUCN** | 🟢 Least Concern [16728404] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 71.2° (E) |
@@ -1139,13 +1139,13 @@
 | **Scientific Name** | *[Ficus insipida](https://en.wikipedia.org/wiki/Ficus_insipida)* Willd. |
 | **Genus** | Ficus |
 | **Family** | Moraceae |
-| **Common Names** |  |
+| **Common Names** | - |
 | **Identification Confidence** | 🌳 53.0% |
 | **Other Candidates** | Ficus virens (9.6%), Ficus lutea (5.1%), Syzygium cumini (2.7%), Inga uraguensis (2.0%) |
 |  |  |
-! **GBIF** | [6358534](https://www.gbif.org/species/6358534) |
-! **POWO** | [853024-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:853024-1) |
-! **IUCN** | 🟢 Least Concern [61886011] |
+| **GBIF** | [6358534](https://www.gbif.org/species/6358534) |
+| **POWO** | [853024-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:853024-1) |
+| **IUCN** | 🟢 Least Concern [61886011] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 137.3° (SE) |
@@ -1165,9 +1165,9 @@
 | **Identification Confidence** | ❓ 8.6% |
 | **Other Candidates** | Zanthoxylum rhoifolium (3.0%), Lagerstroemia speciosa (2.2%), Inga edulis (2.1%), Pterocarpus indicus (2.0%) |
 |  |  |
-! **GBIF** | [4070235](https://www.gbif.org/species/4070235) |
-! **POWO** | [322176-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:322176-1) |
-! **IUCN** | 🟢 Least Concern [173387] |
+| **GBIF** | [4070235](https://www.gbif.org/species/4070235) |
+| **POWO** | [322176-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:322176-1) |
+| **IUCN** | 🟢 Least Concern [173387] |
 |  |  |
 | **Time** | 07:01 AM (Jan 19, 2024) |
 | **Camera Direction** | 345.8° (N) |
@@ -1187,9 +1187,9 @@
 | **Identification Confidence** | ❓ 9.9% |
 | **Other Candidates** | Diospyros buxifolia (5.4%), Senna siamea (3.5%), Pterocarya stenoptera (1.8%), Tipuana tipu (1.6%) |
 |  |  |
-! **GBIF** | [9119360](https://www.gbif.org/species/9119360) |
-! **POWO** | [77158012-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77158012-1) |
-! **IUCN** | 🟠 Endangered [33974] |
+| **GBIF** | [9119360](https://www.gbif.org/species/9119360) |
+| **POWO** | [77158012-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77158012-1) |
+| **IUCN** | 🟠 Endangered [33974] |
 |  |  |
 | **Time** | 07:01 AM (Jan 19, 2024) |
 | **Camera Direction** | 358.2° (N) |
@@ -1209,9 +1209,9 @@
 | **Identification Confidence** | ❓ 12.6% |
 | **Other Candidates** | Olea europaea (9.1%), Melaleuca citrina (6.0%), Melaleuca viminalis (2.6%), Tristaniopsis laurina (2.5%) |
 |  |  |
-! **GBIF** | [5415832](https://www.gbif.org/species/5415832) |
-! **POWO** | [598073-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:598073-1) |
-! **IUCN** | 🟢 Least Concern [49278407] |
+| **GBIF** | [5415832](https://www.gbif.org/species/5415832) |
+| **POWO** | [598073-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:598073-1) |
+| **IUCN** | 🟢 Least Concern [49278407] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 302.5° (NW) |
@@ -1231,9 +1231,9 @@
 | **Identification Confidence** | ❓ 20.0% |
 | **Other Candidates** | Filicium decipiens (11.1%), Samanea saman (4.7%), Schinus terebinthifolia (4.2%), Kigelia africana (4.0%) |
 |  |  |
-! **GBIF** | [3190598](https://www.gbif.org/species/3190598) |
-! **POWO** | [71494-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:71494-1) |
-! **IUCN** | 🟢 Least Concern [144248337] |
+| **GBIF** | [3190598](https://www.gbif.org/species/3190598) |
+| **POWO** | [71494-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:71494-1) |
+| **IUCN** | 🟢 Least Concern [144248337] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 266.9° (W) |
@@ -1253,9 +1253,9 @@
 | **Identification Confidence** | 🌳 77.0% |
 | **Other Candidates** | Melaleuca leucadendra (5.8%), Melaleuca styphelioides (1.8%), Acacia spirorbis (0.8%), Acacia longifolia (0.4%) |
 |  |  |
-! **GBIF** | [5415832](https://www.gbif.org/species/5415832) |
-! **POWO** | [598073-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:598073-1) |
-! **IUCN** | 🟢 Least Concern [49278407] |
+| **GBIF** | [5415832](https://www.gbif.org/species/5415832) |
+| **POWO** | [598073-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:598073-1) |
+| **IUCN** | 🟢 Least Concern [49278407] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 308.4° (NW) |
@@ -1275,9 +1275,9 @@
 | **Identification Confidence** | ❓ 11.5% |
 | **Other Candidates** | Handroanthus heptaphyllus (9.2%), Celtis australis (8.2%), Ficus virens (4.3%), Quercus glauca (3.7%) |
 |  |  |
-! **GBIF** | [3172537](https://www.gbif.org/species/3172537) |
-! **POWO** | [111027-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:111027-1) |
-! **IUCN** | 🟢 Least Concern [61986278] |
+| **GBIF** | [3172537](https://www.gbif.org/species/3172537) |
+| **POWO** | [111027-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:111027-1) |
+| **IUCN** | 🟢 Least Concern [61986278] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 96.7° (E) |
@@ -1297,9 +1297,9 @@
 | **Identification Confidence** | 🌳 97.4% |
 | **Other Candidates** | Weigela florida (0.3%), Mussaenda erythrophylla (0.2%), Viburnum farreri (0.1%), Viburnum plicatum (0.1%) |
 |  |  |
-! **GBIF** | [2902066](https://www.gbif.org/species/2902066) |
-! **POWO** | [752194-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:752194-1) |
-! **IUCN** | 🟢 Least Concern [136789578] |
+| **GBIF** | [2902066](https://www.gbif.org/species/2902066) |
+| **POWO** | [752194-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:752194-1) |
+| **IUCN** | 🟢 Least Concern [136789578] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 240.4° (SW) |
@@ -1319,9 +1319,9 @@
 | **Identification Confidence** | ❓ 12.5% |
 | **Other Candidates** | Myrica faya (5.9%), Banksia integrifolia (4.4%), Acacia longifolia (3.0%), Licania ternatensis (2.7%) |
 |  |  |
-! **GBIF** | [3189977](https://www.gbif.org/species/3189977) |
-! **POWO** | [128045-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:128045-1) |
-! **IUCN** | 🟢 Least Concern [165432282] |
+| **GBIF** | [3189977](https://www.gbif.org/species/3189977) |
+| **POWO** | [128045-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:128045-1) |
+| **IUCN** | 🟢 Least Concern [165432282] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 266.5° (W) |
@@ -1341,9 +1341,9 @@
 | **Identification Confidence** | 🌳 57.3% |
 | **Other Candidates** | Tabebuia heterophylla (15.6%), Handroanthus impetiginosus (4.2%), Handroanthus heptaphyllus (2.1%), Tabebuia pallida (0.4%) |
 |  |  |
-! **GBIF** | [3172537](https://www.gbif.org/species/3172537) |
-! **POWO** | [111027-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:111027-1) |
-! **IUCN** | 🟢 Least Concern [61986278] |
+| **GBIF** | [3172537](https://www.gbif.org/species/3172537) |
+| **POWO** | [111027-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:111027-1) |
+| **IUCN** | 🟢 Least Concern [61986278] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 276.5° (W) |
@@ -1363,9 +1363,9 @@
 | **Identification Confidence** | ❓ 17.0% |
 | **Other Candidates** | Bauhinia × blakeana (9.1%), Cordia sebestena (5.5%), Celtis sinensis (4.8%), Bauhinia variegata (4.4%) |
 |  |  |
-! **GBIF** | [5341270](https://www.gbif.org/species/5341270) |
-! **POWO** | [114098-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:114098-1) |
-! **IUCN** | 🟢 Least Concern [61986401] |
+| **GBIF** | [5341270](https://www.gbif.org/species/5341270) |
+| **POWO** | [114098-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:114098-1) |
+| **IUCN** | 🟢 Least Concern [61986401] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 109.8° (E) |
@@ -1385,9 +1385,9 @@
 | **Identification Confidence** | ❓ 36.6% |
 | **Other Candidates** | Ulmus americana (7.1%), Juglans cinerea (5.5%), Ulmus thomasii (3.4%), Quercus macrocarpa (3.4%) |
 |  |  |
-! **GBIF** | [3054357](https://www.gbif.org/species/3054357) |
-! **POWO** | [279034-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:279034-2) |
-! **IUCN** | 🟢 Least Concern [62019712] |
+| **GBIF** | [3054357](https://www.gbif.org/species/3054357) |
+| **POWO** | [279034-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:279034-2) |
+| **IUCN** | 🟢 Least Concern [62019712] |
 |  |  |
 | **Time** | 07:02 AM (Feb 22, 2024) |
 | **Camera Direction** | 100.4° (E) |
@@ -1407,9 +1407,9 @@
 | **Identification Confidence** | ❓ 9.7% |
 | **Other Candidates** | Melicoccus bijugatus (2.6%), Inga edulis (2.5%), Licania ternatensis (2.3%), Inga laurina (2.1%) |
 |  |  |
-! **GBIF** | [3172537](https://www.gbif.org/species/3172537) |
-! **POWO** | [111027-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:111027-1) |
-! **IUCN** | 🟢 Least Concern [61986278] |
+| **GBIF** | [3172537](https://www.gbif.org/species/3172537) |
+| **POWO** | [111027-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:111027-1) |
+| **IUCN** | 🟢 Least Concern [61986278] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 292.3° (W) |
@@ -1429,9 +1429,9 @@
 | **Identification Confidence** | ❓ 20.8% |
 | **Other Candidates** | Magnolia virginiana (5.1%), Terminalia catappa (4.7%), Artocarpus integer (4.5%), Viburnum odoratissimum (2.1%) |
 |  |  |
-! **GBIF** | [2984565](https://www.gbif.org/species/2984565) |
-! **POWO** | [850389-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:850389-1) |
-! **IUCN** | Unknown |
+| **GBIF** | [2984565](https://www.gbif.org/species/2984565) |
+| **POWO** | [850389-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:850389-1) |
+| **IUCN** | Unknown |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 300.3° (NW) |
@@ -1451,9 +1451,9 @@
 | **Identification Confidence** | ❓ 20.4% |
 | **Other Candidates** | Fraxinus pennsylvanica (19.6%), Carya illinoinensis (11.2%), Swietenia macrophylla (3.5%), Tabebuia rosea (3.2%) |
 |  |  |
-! **GBIF** | [3190485](https://www.gbif.org/species/3190485) |
-! **POWO** | [1080203-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1080203-2) |
-! **IUCN** | 🟡 Near Threatened [32519] |
+| **GBIF** | [3190485](https://www.gbif.org/species/3190485) |
+| **POWO** | [1080203-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1080203-2) |
+| **IUCN** | 🟡 Near Threatened [32519] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 36.1° (NE) |
@@ -1473,9 +1473,9 @@
 | **Identification Confidence** | ❓ 20.1% |
 | **Other Candidates** | Bauhinia purpurea (15.3%), Hamamelis virginiana (5.3%), Cordia sebestena (2.9%), Cordia dichotoma (2.4%) |
 |  |  |
-! **GBIF** | [2953251](https://www.gbif.org/species/2953251) |
-! **POWO** | [481756-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:481756-1) |
-! **IUCN** | 🟢 Least Concern [19893142] |
+| **GBIF** | [2953251](https://www.gbif.org/species/2953251) |
+| **POWO** | [481756-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:481756-1) |
+| **IUCN** | 🟢 Least Concern [19893142] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 256.8° (W) |
@@ -1495,9 +1495,9 @@
 | **Identification Confidence** | ❓ 1.2% |
 | **Other Candidates** | Chamaedorea elegans (1.0%), Mangifera indica (0.9%), Vanda coerulea (0.9%), Cerbera manghas (0.9%) |
 |  |  |
-! **GBIF** | [3154093](https://www.gbif.org/species/3154093) |
-! **POWO** | [74147-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:74147-1) |
-! **IUCN** | 🟢 Least Concern [132683676] |
+| **GBIF** | [3154093](https://www.gbif.org/species/3154093) |
+| **POWO** | [74147-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:74147-1) |
+| **IUCN** | 🟢 Least Concern [132683676] |
 |  |  |
 | **Time** | 07:01 AM (Jan 10, 2024) |
 | **Camera Direction** | 230.7° (SW) |
@@ -1517,9 +1517,9 @@
 | **Identification Confidence** | ❓ 8.5% |
 | **Other Candidates** | Terminalia mantaly (3.5%), Quercus suber (2.9%), Sloanea terniflora (2.3%), Ulmus pumila (1.9%) |
 |  |  |
-! **GBIF** | [7325923](https://www.gbif.org/species/7325923) |
-! **POWO** | [610971-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:610971-1) |
-! **IUCN** | 🟢 Least Concern [79919776] |
+| **GBIF** | [7325923](https://www.gbif.org/species/7325923) |
+| **POWO** | [610971-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:610971-1) |
+| **IUCN** | 🟢 Least Concern [79919776] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 24.7° (NE) |
@@ -1539,9 +1539,9 @@
 | **Identification Confidence** | 🌳 62.2% |
 | **Other Candidates** | Casuarina cunninghamiana (30.5%), Tamarix gallica (1.4%), Tamarix ramosissima (0.5%), Casuarina glauca (0.3%) |
 |  |  |
-! **GBIF** | [2891930](https://www.gbif.org/species/2891930) |
-! **POWO** | [159856-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:159856-1) |
-! **IUCN** | 🟢 Least Concern [16728404] |
+| **GBIF** | [2891930](https://www.gbif.org/species/2891930) |
+| **POWO** | [159856-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:159856-1) |
+| **IUCN** | 🟢 Least Concern [16728404] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 260.6° (W) |
@@ -1561,9 +1561,9 @@
 | **Identification Confidence** | ❓ 35.4% |
 | **Other Candidates** | Mesua ferrea (11.2%), Celtis australis (3.2%), Eugenia jambosoides (3.0%), Eucalyptus obliqua (2.3%) |
 |  |  |
-! **GBIF** | [3177189](https://www.gbif.org/species/3177189) |
-! **POWO** | [593359-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:593359-1) |
-! **IUCN** | 🟢 Least Concern [133377043] |
+| **GBIF** | [3177189](https://www.gbif.org/species/3177189) |
+| **POWO** | [593359-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:593359-1) |
+| **IUCN** | 🟢 Least Concern [133377043] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 338.0° (N) |
@@ -1583,9 +1583,9 @@
 | **Identification Confidence** | ❓ 14.9% |
 | **Other Candidates** | Platanus occidentalis (5.3%), Ulmus americana (3.9%), Liriodendron tulipifera (3.2%), Morus nigra (3.0%) |
 |  |  |
-! **GBIF** | [5331532](https://www.gbif.org/species/5331532) |
-! **POWO** | [295155-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:295155-1) |
-! **IUCN** | 🟢 Least Concern [194551] |
+| **GBIF** | [5331532](https://www.gbif.org/species/5331532) |
+| **POWO** | [295155-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:295155-1) |
+| **IUCN** | 🟢 Least Concern [194551] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 284.9° (W) |
@@ -1605,9 +1605,9 @@
 | **Identification Confidence** | ❓ 7.3% |
 | **Other Candidates** | Aegle marmelos (6.6%), Qualea parviflora (4.1%), Phytolacca dioica (4.1%), Quercus humboldtii (3.2%) |
 |  |  |
-! **GBIF** | [3190638](https://www.gbif.org/species/3190638) |
-! **POWO** | [69913-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:69913-1) |
-! **IUCN** | ⚪ Data Deficient [31389] |
+| **GBIF** | [3190638](https://www.gbif.org/species/3190638) |
+| **POWO** | [69913-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:69913-1) |
+| **IUCN** | ⚪ Data Deficient [31389] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 207.1° (SW) |
@@ -1627,9 +1627,9 @@
 | **Identification Confidence** | ❓ 9.9% |
 | **Other Candidates** | Tabebuia pallida (5.2%), Phytolacca dioica (4.4%), Swietenia macrophylla (2.5%), Cinnamomum camphora (2.0%) |
 |  |  |
-! **GBIF** | [3172537](https://www.gbif.org/species/3172537) |
-! **POWO** | [111027-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:111027-1) |
-! **IUCN** | 🟢 Least Concern [61986278] |
+| **GBIF** | [3172537](https://www.gbif.org/species/3172537) |
+| **POWO** | [111027-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:111027-1) |
+| **IUCN** | 🟢 Least Concern [61986278] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 54.8° (NE) |
@@ -1649,9 +1649,9 @@
 | **Identification Confidence** | ❓ 48.5% |
 | **Other Candidates** | Ficus septica (9.2%), Ficus aurea (6.7%), Ficus callosa (5.0%), Ficus altissima (3.6%) |
 |  |  |
-! **GBIF** | [5361919](https://www.gbif.org/species/5361919) |
-! **POWO** | [852482-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:852482-1) |
-! **IUCN** | Unknown |
+| **GBIF** | [5361919](https://www.gbif.org/species/5361919) |
+| **POWO** | [852482-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:852482-1) |
+| **IUCN** | Unknown |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 226.4° (SW) |
@@ -1671,9 +1671,9 @@
 | **Identification Confidence** | ❓ 47.9% |
 | **Other Candidates** | Casuarina cunninghamiana (26.5%), Melaleuca armillaris (1.9%), Pinus pinea (1.3%), Casuarina glauca (1.2%) |
 |  |  |
-! **GBIF** | [2891930](https://www.gbif.org/species/2891930) |
-! **POWO** | [159856-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:159856-1) |
-! **IUCN** | 🟢 Least Concern [16728404] |
+| **GBIF** | [2891930](https://www.gbif.org/species/2891930) |
+| **POWO** | [159856-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:159856-1) |
+| **IUCN** | 🟢 Least Concern [16728404] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 256.3° (W) |
@@ -1693,9 +1693,9 @@
 | **Identification Confidence** | ❓ 20.5% |
 | **Other Candidates** | Camellia sinensis (3.9%), Myrtus communis (1.7%), Salix euxina (1.4%), Salix pentandra (1.1%) |
 |  |  |
-! **GBIF** | [2925403](https://www.gbif.org/species/2925403) |
-! **POWO** | [861130-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:861130-1) |
-! **IUCN** | 🟢 Least Concern [178828] |
+| **GBIF** | [2925403](https://www.gbif.org/species/2925403) |
+| **POWO** | [861130-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:861130-1) |
+| **IUCN** | 🟢 Least Concern [178828] |
 |  |  |
 | **Time** | 07:12 AM (Dec 31, 2023) |
 | **Camera Direction** | 180.4° (S) |
@@ -1715,9 +1715,9 @@
 | **Identification Confidence** | ❓ 21.4% |
 | **Other Candidates** | Ficus luschnathiana (11.9%), Ficus insipida (8.0%), Ficus septica (5.5%), Ficus virens (4.1%) |
 |  |  |
-! **GBIF** | [5361923](https://www.gbif.org/species/5361923) |
-! **POWO** | [852451-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:852451-1) |
-! **IUCN** | 🟢 Least Concern [181217702] |
+| **GBIF** | [5361923](https://www.gbif.org/species/5361923) |
+| **POWO** | [852451-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:852451-1) |
+| **IUCN** | 🟢 Least Concern [181217702] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 51.0° (NE) |
@@ -1737,9 +1737,9 @@
 | **Identification Confidence** | ❓ 16.2% |
 | **Other Candidates** | Quercus phellos (10.4%), Polyalthia suberosa (9.0%), Brownea grandiceps (4.6%), Syzygium jambos (2.6%) |
 |  |  |
-! **GBIF** | [3699548](https://www.gbif.org/species/3699548) |
-! **POWO** | [170962-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:170962-1) |
-! **IUCN** | Unknown |
+| **GBIF** | [3699548](https://www.gbif.org/species/3699548) |
+| **POWO** | [170962-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:170962-1) |
+| **IUCN** | Unknown |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 182.7° (S) |
@@ -1759,9 +1759,9 @@
 | **Identification Confidence** | ❓ 5.3% |
 | **Other Candidates** | Melaleuca alternifolia (3.4%), Camellia sinensis (3.2%), Pittosporum senacia (2.3%), Cornus florida (2.1%) |
 |  |  |
-! **GBIF** | [2986239](https://www.gbif.org/species/2986239) |
-! **POWO** | [684734-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:684734-1) |
-! **IUCN** | Unknown |
+| **GBIF** | [2986239](https://www.gbif.org/species/2986239) |
+| **POWO** | [684734-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:684734-1) |
+| **IUCN** | Unknown |
 |  |  |
 | **Time** | 08:02 AM (Feb 10, 2024) |
 | **Camera Direction** | 90.5° (E) |
@@ -1781,9 +1781,9 @@
 | **Identification Confidence** | ❓ 12.9% |
 | **Other Candidates** | Hibiscus fragilis (5.6%), Hibiscus schizopetalus (4.4%), Lantana camara (2.5%), Crataegus persimilis (0.8%) |
 |  |  |
-! **GBIF** | [3152559](https://www.gbif.org/species/3152559) |
-! **POWO** | [560756-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:560756-1) |
-! **IUCN** | Unknown |
+| **GBIF** | [3152559](https://www.gbif.org/species/3152559) |
+| **POWO** | [560756-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:560756-1) |
+| **IUCN** | Unknown |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 213.0° (SW) |
@@ -1803,9 +1803,9 @@
 | **Identification Confidence** | ❓ 29.1% |
 | **Other Candidates** | Ficus benghalensis (18.4%), Ficus religiosa (7.8%), Ficus nymphaeifolia (6.2%), Ficus altissima (5.7%) |
 |  |  |
-! **GBIF** | [5361903](https://www.gbif.org/species/5361903) |
-! **POWO** | [60458499-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60458499-2) |
-! **IUCN** | 🟢 Least Concern [116271522] |
+| **GBIF** | [5361903](https://www.gbif.org/species/5361903) |
+| **POWO** | [60458499-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60458499-2) |
+| **IUCN** | 🟢 Least Concern [116271522] |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 85.7° (E) |
@@ -1825,9 +1825,9 @@
 | **Identification Confidence** | 🌳 74.8% |
 | **Other Candidates** | Roystonea oleracea (5.5%), Dictyosperma album (3.2%), Archontophoenix cunninghamiana (2.5%), Pseudophoenix sargentii (1.4%) |
 |  |  |
-! **GBIF** | [2733755](https://www.gbif.org/species/2733755) |
-! **POWO** | [222809-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:222809-2) |
-! **IUCN** | 🟢 Least Concern [62329] |
+| **GBIF** | [2733755](https://www.gbif.org/species/2733755) |
+| **POWO** | [222809-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:222809-2) |
+| **IUCN** | 🟢 Least Concern [62329] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 81.0° (E) |
@@ -1847,9 +1847,9 @@
 | **Identification Confidence** | ❓ 26.9% |
 | **Other Candidates** | Euterpe oleracea (9.7%), Phoenix reclinata (8.4%), Dypsis lutescens (7.3%), Roystonea oleracea (5.7%) |
 |  |  |
-! **GBIF** | [2733755](https://www.gbif.org/species/2733755) |
-! **POWO** | [222809-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:222809-2) |
-! **IUCN** | 🟢 Least Concern [62329] |
+| **GBIF** | [2733755](https://www.gbif.org/species/2733755) |
+| **POWO** | [222809-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:222809-2) |
+| **IUCN** | 🟢 Least Concern [62329] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 73.5° (E) |
@@ -1869,9 +1869,9 @@
 | **Identification Confidence** | ❓ 25.4% |
 | **Other Candidates** | Albizia julibrissin (6.8%), Enterolobium contortisiliquum (5.1%), Albizia lebbeck (4.4%), Peltophorum pterocarpum (4.3%) |
 |  |  |
-! **GBIF** | [5357158](https://www.gbif.org/species/5357158) |
-! **POWO** | [484607-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:484607-1) |
-! **IUCN** | 🟢 Least Concern [144277575] |
+| **GBIF** | [5357158](https://www.gbif.org/species/5357158) |
+| **POWO** | [484607-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:484607-1) |
+| **IUCN** | 🟢 Least Concern [144277575] |
 |  |  |
 | **Time** | 07:01 AM (Jan 18, 2024) |
 | **Camera Direction** | 304.8° (NW) |
@@ -1891,9 +1891,9 @@
 | **Identification Confidence** | 🌳 71.9% |
 | **Other Candidates** | Tabernaemontana catharinensis (3.4%), Pittosporum undulatum (3.0%), Cestrum nocturnum (2.9%), Tabernaemontana elegans (1.2%) |
 |  |  |
-! **GBIF** | [3169625](https://www.gbif.org/species/3169625) |
-! **POWO** | [82097-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:82097-1) |
-! **IUCN** | 🟢 Least Concern [149853146] |
+| **GBIF** | [3169625](https://www.gbif.org/species/3169625) |
+| **POWO** | [82097-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:82097-1) |
+| **IUCN** | 🟢 Least Concern [149853146] |
 |  |  |
 | **Time** | 07:02 AM (Feb 24, 2024) |
 | **Camera Direction** | 142.0° (SE) |
@@ -1913,9 +1913,9 @@
 | **Identification Confidence** | 🌳 60.3% |
 | **Other Candidates** | Syagrus romanzoffiana (3.0%), Ptychosperma microcarpum (2.3%), Chamaedorea seifrizii (2.2%), Chamaedorea elegans (1.9%) |
 |  |  |
-! **GBIF** | [2736620](https://www.gbif.org/species/2736620) |
-! **POWO** | [903383-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:903383-1) |
-! **IUCN** | Unknown Category [38733] |
+| **GBIF** | [2736620](https://www.gbif.org/species/2736620) |
+| **POWO** | [903383-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:903383-1) |
+| **IUCN** | Unknown Category [38733] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 104.9° (E) |
@@ -1935,9 +1935,9 @@
 | **Identification Confidence** | ❓ 11.9% |
 | **Other Candidates** | Erythrina fusca (10.6%), Ficus benghalensis (4.6%), Erythrina speciosa (2.1%), Erythrina amazonica (2.0%) |
 |  |  |
-! **GBIF** | [5349755](https://www.gbif.org/species/5349755) |
-! **POWO** | [96637-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:96637-2) |
-! **IUCN** | 🟢 Least Concern [144314476] |
+| **GBIF** | [5349755](https://www.gbif.org/species/5349755) |
+| **POWO** | [96637-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:96637-2) |
+| **IUCN** | 🟢 Least Concern [144314476] |
 |  |  |
 | **Time** | 07:12 AM (Dec 30, 2023) |
 | **Camera Direction** | 46.4° (NE) |
@@ -1957,9 +1957,9 @@
 | **Identification Confidence** | 🌳 84.0% |
 | **Other Candidates** | Nephrolepis biserrata (6.5%), Nephrolepis abrupta (1.1%), Phymatosorus scolopendria (0.5%), Nephrolepis exaltata (0.3%) |
 |  |  |
-! **GBIF** | [2650928](https://www.gbif.org/species/2650928) |
-! **POWO** | [17408170-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17408170-1) |
-! **IUCN** | Unknown |
+| **GBIF** | [2650928](https://www.gbif.org/species/2650928) |
+| **POWO** | [17408170-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17408170-1) |
+| **IUCN** | Unknown |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 282.8° (W) |
@@ -1979,9 +1979,9 @@
 | **Identification Confidence** | ❓ 12.7% |
 | **Other Candidates** | Ficus religiosa (7.4%), Inga laurina (6.9%), Pistacia atlantica (4.8%), Swietenia mahagoni (4.0%) |
 |  |  |
-! **GBIF** | [2878092](https://www.gbif.org/species/2878092) |
-! **POWO** | [324846-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:324846-2) |
-! **IUCN** | 🟢 Least Concern [194245] |
+| **GBIF** | [2878092](https://www.gbif.org/species/2878092) |
+| **POWO** | [324846-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:324846-2) |
+| **IUCN** | 🟢 Least Concern [194245] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 159.1° (S) |
@@ -2001,9 +2001,9 @@
 | **Identification Confidence** | ❓ 33.8% |
 | **Other Candidates** | Roystonea oleracea (7.1%), Roystonea regia (6.3%), Euterpe oleracea (2.8%), Archontophoenix cunninghamiana (2.5%) |
 |  |  |
-! **GBIF** | [5293187](https://www.gbif.org/species/5293187) |
-! **POWO** | [666678-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:666678-1) |
-! **IUCN** | Unknown |
+| **GBIF** | [5293187](https://www.gbif.org/species/5293187) |
+| **POWO** | [666678-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:666678-1) |
+| **IUCN** | Unknown |
 |  |  |
 | **Time** | 06:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 6.0° (N) |
@@ -2023,9 +2023,9 @@
 | **Identification Confidence** | ❓ 49.5% |
 | **Other Candidates** | Myristica fragrans (1.7%), Diospyros buxifolia (1.7%), Elaeocarpus reticulatus (1.4%), Prunus caroliniana (1.3%) |
 |  |  |
-! **GBIF** | [2687779](https://www.gbif.org/species/2687779) |
-! **POWO** | [262544-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:262544-1) |
-! **IUCN** | 🟡 Near Threatened [46347417] |
+| **GBIF** | [2687779](https://www.gbif.org/species/2687779) |
+| **POWO** | [262544-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:262544-1) |
+| **IUCN** | 🟡 Near Threatened [46347417] |
 |  |  |
 | **Time** | 07:03 AM (Mar 08, 2024) |
 | **Camera Direction** | 272.0° (W) |
@@ -2045,9 +2045,9 @@
 | **Identification Confidence** | ❓ 12.7% |
 | **Other Candidates** | Eugenia brasiliensis (8.9%), Myrsine guianensis (7.1%), Quercus humboldtii (6.9%), Ixora chinensis (3.9%) |
 |  |  |
-! **GBIF** | [5414419](https://www.gbif.org/species/5414419) |
-! **POWO** | [77691-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77691-1) |
-! **IUCN** | Unknown |
+| **GBIF** | [5414419](https://www.gbif.org/species/5414419) |
+| **POWO** | [77691-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77691-1) |
+| **IUCN** | Unknown |
 |  |  |
 | **Time** | 08:01 AM (Jan 20, 2024) |
 | **Camera Direction** | 306.2° (NW) |
