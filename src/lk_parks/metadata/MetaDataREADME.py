@@ -86,7 +86,7 @@ class MetaDataREADME:
     @property
     def species_lines(self):
         return [
-            f'*{self.pretty_name_translations} `E` {self.common_names_pretty}*',
+            f'*{self.pretty_name_translations}`E`{self.common_names_pretty}*',
             '',
             '|  |  |',
 

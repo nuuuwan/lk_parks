@@ -4,9 +4,7 @@
 
 ### *[`Avicennia marina`](https://en.wikipedia.org/wiki/Avicennia_marina)* (Forssk.) Vierh.
 
-*`සි` *Manda* `த` *Kanna* `E` Grey mangrove, White mangrove, Gray mangrove*
-
-
+*`සි` *Manda* `த` *Kanna*`E`Grey mangrove, White mangrove, Gray mangrove*
 
 |  |  |
 | --- | --- |
@@ -28,9 +26,7 @@
 
 ### *[`Anacardium occidentale`](https://en.wikipedia.org/wiki/Anacardium_occidentale)* L.
 
-*`සි` *Kadju, kaju* `த` *muntiri, andimangottai* `E` Cashew, Cashewnut, Pomifera*
-
-
+*`සි` *Kadju, kaju* `த` *muntiri, andimangottai*`E`Cashew, Cashewnut, Pomifera*
 
 |  |  |
 | --- | --- |
@@ -50,9 +46,7 @@
 
 ### *[`Mangifera indica`](https://en.wikipedia.org/wiki/Mangifera_indica)* L.
 
-*`සි` *Mee Amba, amba* `த` *Ma, Mamaram, Amiram, Mangai* `E` Mango, Mango Tree, आम*
-
-
+*`සි` *Mee Amba, amba* `த` *Ma, Mamaram, Amiram, Mangai*`E`Mango, Mango Tree, आम*
 
 |  |  |
 | --- | --- |
@@ -84,9 +78,7 @@
 
 ### *[`Spondias purpurea`](https://en.wikipedia.org/wiki/Spondias_purpurea)* L.
 
-* `E` Purple mombin, Red mombin, Spanish-plum*
-
-
+*`E`Purple mombin, Red mombin, Spanish-plum*
 
 |  |  |
 | --- | --- |
@@ -108,9 +100,7 @@
 
 ### *[`Monodora tenuifolia`](https://en.wikipedia.org/wiki/Monodora_tenuifolia)* Benth.
 
-* `E` Orchidtree, African-nutmeg*
-
-
+*`E`Orchidtree, African-nutmeg*
 
 |  |  |
 | --- | --- |
@@ -132,9 +122,7 @@
 
 ### *[`Allamanda cathartica`](https://en.wikipedia.org/wiki/Allamanda_cathartica)* L.
 
-*`සි` *Val Ruk Attana* `E` Golden-trumpet, Allamanda, Yellow allamanda*
-
-
+*`සි` *Val Ruk Attana*`E`Golden-trumpet, Allamanda, Yellow allamanda*
 
 |  |  |
 | --- | --- |
@@ -154,9 +142,7 @@
 
 ### *[`Carissa carandas`](https://en.wikipedia.org/wiki/Carissa_carandas)* L.
 
-*`සි` *Karanda, Maha Karamba* `த` *kila, kala* `E` Bengal-currants, Carandas-plum, Karanda*
-
-
+*`සි` *Karanda, Maha Karamba* `த` *kila, kala*`E`Bengal-currants, Carandas-plum, Karanda*
 
 |  |  |
 | --- | --- |
@@ -176,9 +162,7 @@
 
 ### *[`Plumeria obtusa`](https://en.wikipedia.org/wiki/Plumeria_obtusa)* L.
 
-* `E` Frangipani, Singapore graveyard flower, దేవ గన్నేరు*
-
-
+*`E`Frangipani, Singapore graveyard flower, దేవ గన్నేరు*
 
 |  |  |
 | --- | --- |
@@ -204,9 +188,7 @@
 
 ### *[`Tabernaemontana divaricata`](https://en.wikipedia.org/wiki/Tabernaemontana_divaricata)* (L.) R.Br. ex Roem. & Schult.
 
-*`සි` *Wathu sudda, Watusudda, Watu sudda, Vathu sudda, Vathu sudda* `த` *adukkunandiyavattai, nandi battai, Nandiar vattai* `E` Crape-jasmine, Butterfly-gardenia, నందివర్ధనం*
-
-
+*`සි` *Wathu sudda, Watusudda, Watu sudda, Vathu sudda, Vathu sudda* `த` *adukkunandiyavattai, nandi battai, Nandiar vattai*`E`Crape-jasmine, Butterfly-gardenia, నందివర్ధనం*
 
 |  |  |
 | --- | --- |
@@ -226,9 +208,7 @@
 
 ### *[`Trachelospermum jasminoides`](https://en.wikipedia.org/wiki/Trachelospermum_jasminoides)* (Lindl.) Lem.
 
-* `E` Star jasmine, Confederate jasmine, Chinese star-jessamine*
-
-
+*`E`Star jasmine, Confederate jasmine, Chinese star-jessamine*
 
 |  |  |
 | --- | --- |
@@ -250,9 +230,7 @@
 
 ### *[`Dictyosperma album`](https://en.wikipedia.org/wiki/Dictyosperma_album)* (Bory) Scheff.
 
-* `E` Common princess palm, Hurricane palm*
-
-
+*`E`Common princess palm, Hurricane palm*
 
 |  |  |
 | --- | --- |
@@ -272,9 +250,7 @@
 
 ### *[`Roystonea regia`](https://en.wikipedia.org/wiki/Roystonea_regia)* (Kunth) O.F.Cook
 
-* `E` Cuban royal palm, Florida royal palm, Royal palm*
-
-
+*`E`Cuban royal palm, Florida royal palm, Royal palm*
 
 |  |  |
 | --- | --- |
@@ -306,9 +282,7 @@
 
 ### *[`Wodyetia bifurcata`](https://en.wikipedia.org/wiki/Wodyetia_bifurcata)* A.K.Irvine
 
-* `E` Foxtail palm*
-
-
+*`E`Foxtail palm*
 
 |  |  |
 | --- | --- |
@@ -330,9 +304,7 @@
 
 ### *[`Betula nigra`](https://en.wikipedia.org/wiki/Betula_nigra)* L.
 
-* `E` River birch, Red birch, Black Birch*
-
-
+*`E`River birch, Red birch, Black Birch*
 
 |  |  |
 | --- | --- |
@@ -354,9 +326,7 @@
 
 ### *[`Tabebuia pallida`](https://en.wikipedia.org/wiki/Tabebuia_pallida)* (Lindl.) Miers
 
-* `E` Cuban pink trumpet-tree, White-cedar, Whitewood*
-
-
+*`E`Cuban pink trumpet-tree, White-cedar, Whitewood*
 
 |  |  |
 | --- | --- |
@@ -380,9 +350,7 @@
 
 ### *[`Tabebuia rosea`](https://en.wikipedia.org/wiki/Tabebuia_rosea)* (Bertol.) Bertero ex A.DC.
 
-* `E` Pink poui, Pink trumpet-tree, Rosy trumpet-tree*
-
-
+*`E`Pink poui, Pink trumpet-tree, Rosy trumpet-tree*
 
 |  |  |
 | --- | --- |
@@ -434,9 +402,7 @@
 
 ### *[`Cordia dichotoma`](https://en.wikipedia.org/wiki/Cordia_dichotoma)* G.Forst.
 
-*`த` *naruvili* `E` Fragrant manjack, Indian-cherry, Clammy-cherry*
-
-
+*`த` *naruvili*`E`Fragrant manjack, Indian-cherry, Clammy-cherry*
 
 |  |  |
 | --- | --- |
@@ -458,9 +424,7 @@
 
 ### *[`Mesua ferrea`](https://en.wikipedia.org/wiki/Mesua_ferrea)* L.
 
-*`සි` *Na, Naa* `த` *nangu, cirunakappu* `E` Mesua, Iron Wood Tree, Ceylon Ironwood*
-
-
+*`සි` *Na, Naa* `த` *nangu, cirunakappu*`E`Mesua, Iron Wood Tree, Ceylon Ironwood*
 
 |  |  |
 | --- | --- |
@@ -482,9 +446,7 @@
 
 ### *[`Caryocar brasiliense`](https://en.wikipedia.org/wiki/Caryocar_brasiliense)* A.St.-Hil.
 
-* `E` Pequi, Piki, Pekea nut*
-
-
+*`E`Pequi, Piki, Pekea nut*
 
 |  |  |
 | --- | --- |
@@ -506,9 +468,7 @@
 
 ### *[`Casuarina equisetifolia`](https://en.wikipedia.org/wiki/Casuarina_equisetifolia)* L.
 
-* `E` Beach sheoak, Australian beefwood, Australian-pine*
-
-
+*`E`Beach sheoak, Australian beefwood, Australian-pine*
 
 |  |  |
 | --- | --- |
@@ -542,9 +502,7 @@
 
 ### *[`Moquilea tomentosa`](https://en.wikipedia.org/wiki/Moquilea_tomentosa)* Benth.
 
-* `E` Oiti (Portuguese GRIN )*
-
-
+*`E`Oiti (Portuguese GRIN )*
 
 |  |  |
 | --- | --- |
@@ -566,9 +524,7 @@
 
 ### *[`Terminalia arjuna`](https://en.wikipedia.org/wiki/Terminalia_arjuna)* (Roxb. ex DC.) Wight & Arn.
 
-*`සි` *Kumbuk* `த` *maruthu, marutu* `E` Arjun, White murdh, Kumbuk*
-
-
+*`සි` *Kumbuk* `த` *maruthu, marutu*`E`Arjun, White murdh, Kumbuk*
 
 |  |  |
 | --- | --- |
@@ -592,9 +548,7 @@
 
 ### *[`Terminalia catappa`](https://en.wikipedia.org/wiki/Terminalia_catappa)* L.
 
-*`සි` *Kottan, Kottamba* `த` *nattuvadumai, nattu vadam* `E` Tropical almond, Indian-almond, Country-almond*
-
-
+*`සි` *Kottan, Kottamba* `த` *nattuvadumai, nattu vadam*`E`Tropical almond, Indian-almond, Country-almond*
 
 |  |  |
 | --- | --- |
@@ -612,9 +566,7 @@
 
 ### *[`Terminalia mantaly`](https://en.wikipedia.org/wiki/Terminalia_mantaly)* H.Perrier
 
-* `E` Satellite Tree., Amandier de Madagascar, Ketapang Kencana*
-
-
+*`E`Satellite Tree., Amandier de Madagascar, Ketapang Kencana*
 
 |  |  |
 | --- | --- |
@@ -636,9 +588,7 @@
 
 ### *[`Diospyros buxifolia`](https://en.wikipedia.org/wiki/Diospyros_buxifolia)* (Blume) Hiern
 
-* `E` Black ebony*
-
-
+*`E`Black ebony*
 
 |  |  |
 | --- | --- |
@@ -660,9 +610,7 @@
 
 ### *[`Acalypha wilkesiana`](https://en.wikipedia.org/wiki/Acalypha_wilkesiana)* Müll.Arg.
 
-* `E` Copper leaf, Capa de obispo, Beefsteak plant*
-
-
+*`E`Copper leaf, Capa de obispo, Beefsteak plant*
 
 |  |  |
 | --- | --- |
@@ -684,9 +632,7 @@
 
 ### *[`Afzelia africana`](https://en.wikipedia.org/wiki/Afzelia_africana)* Sm. ex Pers.
 
-* `E` African-mahogany, Afzelia*
-
-
+*`E`African-mahogany, Afzelia*
 
 |  |  |
 | --- | --- |
@@ -706,9 +652,7 @@
 
 ### *[`Bauhinia variegata`](https://en.wikipedia.org/wiki/Bauhinia_variegata)* L.
 
-*`සි` *Sinhala Koboleela, a type of Udavaedia plant* `த` *Tamil segappumandrai, tiruvatti* `E` Mountain ebony, Orchidtree, Butterfly tree*
-
-
+*`සි` *Sinhala Koboleela, a type of Udavaedia plant* `த` *Tamil segappumandrai, tiruvatti*`E`Mountain ebony, Orchidtree, Butterfly tree*
 
 |  |  |
 | --- | --- |
@@ -728,9 +672,7 @@
 
 ### *[`Cassia fistula`](https://en.wikipedia.org/wiki/Cassia_fistula)* L.
 
-*`සි` *Aehaela, Ehela* `த` *konrai, konnai, Mullaimaram* `E` Golden Shower Tree, Indian-laburnum, Amaltas*
-
-
+*`සි` *Aehaela, Ehela* `த` *konrai, konnai, Mullaimaram*`E`Golden Shower Tree, Indian-laburnum, Amaltas*
 
 |  |  |
 | --- | --- |
@@ -754,9 +696,7 @@
 
 ### *[`Cassia grandis`](https://en.wikipedia.org/wiki/Cassia_grandis)* L.f.
 
-* `E` Appleblossom cassia, Coral shower, Horse cassia*
-
-
+*`E`Appleblossom cassia, Coral shower, Horse cassia*
 
 |  |  |
 | --- | --- |
@@ -776,9 +716,7 @@
 
 ### *[`Delonix regia`](https://en.wikipedia.org/wiki/Delonix_regia)* (Bojer) Raf.
 
-* `E` Flamboyant, Flame-of-the-forest, Flametree*
-
-
+*`E`Flamboyant, Flame-of-the-forest, Flametree*
 
 |  |  |
 | --- | --- |
@@ -798,9 +736,7 @@
 
 ### *[`Erythrina poeppigiana`](https://en.wikipedia.org/wiki/Erythrina_poeppigiana)* (Walp.) O.F.Cook
 
-* `E` Coral tree, Immortelle-tree, Mountain immortelle*
-
-
+*`E`Coral tree, Immortelle-tree, Mountain immortelle*
 
 |  |  |
 | --- | --- |
@@ -820,9 +756,7 @@
 
 ### *[`Inga edulis`](https://en.wikipedia.org/wiki/Inga_edulis)* Mart.
 
-* `E` Ice-cream-bean, Guaba, Pois Doux*
-
-
+*`E`Ice-cream-bean, Guaba, Pois Doux*
 
 |  |  |
 | --- | --- |
@@ -840,9 +774,7 @@
 
 ### *[`Inga uraguensis`](https://en.wikipedia.org/wiki/Inga_uraguensis)* Hook. & Arn.
 
-* `E` -*
-
-
+*`E`-*
 
 |  |  |
 | --- | --- |
@@ -862,9 +794,7 @@
 
 ### *[`Paubrasilia echinata`](https://en.wikipedia.org/wiki/Paubrasilia_echinata)* (Lam.) Gagnon, H.C.Lima & G.P.Lewis
 
-* `E` Orabutá (Portuguese), Pau-rosado (Portuguese)*
-
-
+*`E`Orabutá (Portuguese), Pau-rosado (Portuguese)*
 
 |  |  |
 | --- | --- |
@@ -890,9 +820,7 @@
 
 ### *[`Vachellia nilotica`](https://en.wikipedia.org/wiki/Vachellia_nilotica)* (L.) P.J.H.Hurter & Mabb.
 
-* `E` Gum arabic tree, Black Piquant, Cassie*
-
-
+*`E`Gum arabic tree, Black Piquant, Cassie*
 
 |  |  |
 | --- | --- |
@@ -914,9 +842,7 @@
 
 ### *[`Quercus virginiana`](https://en.wikipedia.org/wiki/Quercus_virginiana)* Mill.
 
-* `E` Southern live oak, Live oak, Virginia Live Oak*
-
-
+*`E`Southern live oak, Live oak, Virginia Live Oak*
 
 |  |  |
 | --- | --- |
@@ -938,9 +864,7 @@
 
 ### *[`Juglans nigra`](https://en.wikipedia.org/wiki/Juglans_nigra)* L.
 
-* `E` Black walnut, American Walnut, Otaesémenôtse*
-
-
+*`E`Black walnut, American Walnut, Otaesémenôtse*
 
 |  |  |
 | --- | --- |
@@ -958,9 +882,7 @@
 
 ### *[`Juglans regia`](https://en.wikipedia.org/wiki/Juglans_regia)* L.
 
-*`සි` *Aettakottam* `E` Black Walnut, English walnut, Carpathian walnut*
-
-
+*`සි` *Aettakottam*`E`Black Walnut, English walnut, Carpathian walnut*
 
 |  |  |
 | --- | --- |
@@ -982,9 +904,7 @@
 
 ### *[`Tectona grandis`](https://en.wikipedia.org/wiki/Tectona_grandis)* L.f.
 
-*`සි` *The kka signify long sound* `த` *thekku* `E` Teak, Bankok teak, Indian-oak*
-
-
+*`සි` *The kka signify long sound* `த` *thekku*`E`Teak, Bankok teak, Indian-oak*
 
 |  |  |
 | --- | --- |
@@ -1006,9 +926,7 @@
 
 ### *[`Cinnamomum camphora`](https://en.wikipedia.org/wiki/Cinnamomum_camphora)* (L.) J.Presl
 
-*`සි` *Kapuru* `த` *karppuram* `E` Camphor-laurel, Camphortree, Japanese camphor*
-
-
+*`සි` *Kapuru* `த` *karppuram*`E`Camphor-laurel, Camphortree, Japanese camphor*
 
 |  |  |
 | --- | --- |
@@ -1028,9 +946,7 @@
 
 ### *[`Laurus nobilis`](https://en.wikipedia.org/wiki/Laurus_nobilis)* L.
 
-*`සි` *This plant of Mediterranean origin is not known in Sinhala* `த` *click for a short note and images in Wikipedia* `E` (Sweet) Bay leaf, Bay Laurel, Sweet bay*
-
-
+*`සි` *This plant of Mediterranean origin is not known in Sinhala* `த` *click for a short note and images in Wikipedia*`E`(Sweet) Bay leaf, Bay Laurel, Sweet bay*
 
 |  |  |
 | --- | --- |
@@ -1052,9 +968,7 @@
 
 ### *[`Bunchosia armeniaca`](https://en.wikipedia.org/wiki/Bunchosia_armeniaca)* (Cav.) DC.
 
-* `E` Peanut butter fruit, Sunset fruit*
-
-
+*`E`Peanut butter fruit, Sunset fruit*
 
 |  |  |
 | --- | --- |
@@ -1076,9 +990,7 @@
 
 ### *[`Hibiscus rosa-sinensis`](https://en.wikipedia.org/wiki/Hibiscus_rosa-sinensis)* L.
 
-* `E` Hawaiian hibiscus, Hibiscus, गुड़हल*
-
-
+*`E`Hawaiian hibiscus, Hibiscus, गुड़हल*
 
 |  |  |
 | --- | --- |
@@ -1100,9 +1012,7 @@
 
 ### *[`Swietenia mahagoni`](https://en.wikipedia.org/wiki/Swietenia_mahagoni)* (L.) Jacq.
 
-* `E` Cuban mahogany, West Indian mahogany, Spanish mahogany*
-
-
+*`E`Cuban mahogany, West Indian mahogany, Spanish mahogany*
 
 |  |  |
 | --- | --- |
@@ -1122,9 +1032,7 @@
 
 ### *[`Toona ciliata`](https://en.wikipedia.org/wiki/Toona_ciliata)* M.Roem.
 
-* `E` Red Cedar, Australian redcedar, Australian red-cedar*
-
-
+*`E`Red Cedar, Australian redcedar, Australian red-cedar*
 
 |  |  |
 | --- | --- |
@@ -1158,9 +1066,7 @@
 
 ### *[`Artocarpus heterophyllus`](https://en.wikipedia.org/wiki/Artocarpus_heterophyllus)* Lam.
 
-*`සි` *Herali, Kos, Vaela, Waraka see Artocarpus Indica* `த` *pila, pala, Palavu Tamil* `E` Jackfruit, কাঠাল, పనస*
-
-
+*`සි` *Herali, Kos, Vaela, Waraka see Artocarpus Indica* `த` *pila, pala, Palavu Tamil*`E`Jackfruit, কাঠাল, పనస*
 
 |  |  |
 | --- | --- |
@@ -1186,9 +1092,7 @@
 
 ### *[`Ficus aurea`](https://en.wikipedia.org/wiki/Ficus_aurea)* Nutt.
 
-* `E` Florida strangler, Florida strangler fig*
-
-
+*`E`Florida strangler, Florida strangler fig*
 
 |  |  |
 | --- | --- |
@@ -1206,9 +1110,7 @@
 
 ### *[`Ficus benghalensis`](https://en.wikipedia.org/wiki/Ficus_benghalensis)* L.
 
-*`සි` *Nuga, Mahanuga* `த` *alamaram, kottam , Nakar, Nakaram, Niyaman* `E` Indian banyan, Ficus Audrey, Bengal banyan*
-
-
+*`සි` *Nuga, Mahanuga* `த` *alamaram, kottam , Nakar, Nakaram, Niyaman*`E`Indian banyan, Ficus Audrey, Bengal banyan*
 
 |  |  |
 | --- | --- |
@@ -1232,9 +1134,7 @@
 
 ### *[`Ficus elastica`](https://en.wikipedia.org/wiki/Ficus_elastica)* Roxb. ex Hornem.
 
-* `E` Rubberplant, فیکوس, فیکوس الاستیکا*
-
-
+*`E`Rubberplant, فیکوس, فیکوس الاستیکا*
 
 |  |  |
 | --- | --- |
@@ -1258,9 +1158,7 @@
 
 ### *[`Ficus insipida`](https://en.wikipedia.org/wiki/Ficus_insipida)* Willd.
 
-* `E` -*
-
-
+*`E`-*
 
 |  |  |
 | --- | --- |
@@ -1278,9 +1176,7 @@
 
 ### *[`Ficus religiosa`](https://en.wikipedia.org/wiki/Ficus_religiosa)* L.
 
-*`සි` *Bo, Bodhi* `த` *asvattam, arasu* `E` Peepal tree, Sacred fig, రావి*
-
-
+*`සි` *Bo, Bodhi* `த` *asvattam, arasu*`E`Peepal tree, Sacred fig, రావి*
 
 |  |  |
 | --- | --- |
@@ -1298,9 +1194,7 @@
 
 ### *[`Ficus retusa`](https://en.wikipedia.org/wiki/Ficus_retusa)* L.
 
-* `E` Indian laurel, Indian Laurel Fig, Ficus nitida*
-
-
+*`E`Indian laurel, Indian Laurel Fig, Ficus nitida*
 
 |  |  |
 | --- | --- |
@@ -1322,9 +1216,7 @@
 
 ### *[`Moringa oleifera`](https://en.wikipedia.org/wiki/Moringa_oleifera)* Lam.
 
-*`සි` *Murunga, Murunga karal is the Sinhala* `த` *Tamil murunkai, murungai* `E` Moringa, Drumstick Tree, Moringa Tree*
-
-
+*`සි` *Murunga, Murunga karal is the Sinhala* `த` *Tamil murunkai, murungai*`E`Moringa, Drumstick Tree, Moringa Tree*
 
 |  |  |
 | --- | --- |
@@ -1346,9 +1238,7 @@
 
 ### *[`Eucalyptus sideroxylon`](https://en.wikipedia.org/wiki/Eucalyptus_sideroxylon)* A.Cunn. ex Woolls
 
-* `E` Red ironbark, Black ironbark, Ironbark*
-
-
+*`E`Red ironbark, Black ironbark, Ironbark*
 
 |  |  |
 | --- | --- |
@@ -1368,9 +1258,7 @@
 
 ### *[`Melaleuca leucadendra`](https://en.wikipedia.org/wiki/Melaleuca_leucadendra)* (L.) L.
 
-* `E` Cajaput-tree, Longleaf paperbark, Paperbark*
-
-
+*`E`Cajaput-tree, Longleaf paperbark, Paperbark*
 
 |  |  |
 | --- | --- |
@@ -1388,9 +1276,7 @@
 
 ### *[`Melaleuca quinquenervia`](https://en.wikipedia.org/wiki/Melaleuca_quinquenervia)* (Cav.) S.T.Blake
 
-* `E` Punktree, Belbowrie, Bottle brush tree*
-
-
+*`E`Punktree, Belbowrie, Bottle brush tree*
 
 |  |  |
 | --- | --- |
@@ -1428,9 +1314,7 @@
 
 ### *[`Syzygium cumini`](https://en.wikipedia.org/wiki/Syzygium_cumini)* (L.) Skeels
 
-*`සි` *kalu dan, Kaadan, Madan* `த` *naavali, Naaval Pazham* `E` जामुन, Jaman, అల్లనేరేడు*
-
-
+*`සි` *kalu dan, Kaadan, Madan* `த` *naavali, Naaval Pazham*`E`जामुन, Jaman, అల్లనేరేడు*
 
 |  |  |
 | --- | --- |
@@ -1458,9 +1342,7 @@
 
 ### *[`Fraxinus chinensis`](https://en.wikipedia.org/wiki/Fraxinus_chinensis)* Roxb.
 
-* `E` Chinese ash*
-
-
+*`E`Chinese ash*
 
 |  |  |
 | --- | --- |
@@ -1480,9 +1362,7 @@
 
 ### *[`Phillyrea latifolia`](https://en.wikipedia.org/wiki/Phillyrea_latifolia)* L.
 
-* `E` Phillyrea, Green Olive Tree*
-
-
+*`E`Phillyrea, Green Olive Tree*
 
 |  |  |
 | --- | --- |
@@ -1504,9 +1384,7 @@
 
 ### *[`Averrhoa bilimbi`](https://en.wikipedia.org/wiki/Averrhoa_bilimbi)* L.
 
-* `E` Bilimbi, Tree-sorrel, Bilimbi-tree*
-
-
+*`E`Bilimbi, Tree-sorrel, Bilimbi-tree*
 
 |  |  |
 | --- | --- |
@@ -1528,9 +1406,7 @@
 
 ### *[`Pittosporum undulatum`](https://en.wikipedia.org/wiki/Pittosporum_undulatum)* Vent.
 
-* `E` Australian cheesewood, Cheesewood, Orange-berry pittosporum*
-
-
+*`E`Australian cheesewood, Cheesewood, Orange-berry pittosporum*
 
 |  |  |
 | --- | --- |
@@ -1552,9 +1428,7 @@
 
 ### *[`Bambusa multiplex`](https://en.wikipedia.org/wiki/Bambusa_multiplex)* (Lour.) Raeusch. ex Schult.
 
-* `E` Hedge bamboo, Chinese dwarf bamboo, Chinese-goddess bamboo*
-
-
+*`E`Hedge bamboo, Chinese dwarf bamboo, Chinese-goddess bamboo*
 
 |  |  |
 | --- | --- |
@@ -1576,9 +1450,7 @@
 
 ### *[`Nageia nagi`](https://en.wikipedia.org/wiki/Nageia_nagi)* (Thunb.) Kuntze
 
-* `E` Kaphal, Asian bayberry, Nagi*
-
-
+*`E`Kaphal, Asian bayberry, Nagi*
 
 |  |  |
 | --- | --- |
@@ -1600,9 +1472,7 @@
 
 ### *[`Nephrolepis falcata`](https://en.wikipedia.org/wiki/Nephrolepis_falcata)* (Cav.) C.Chr.
 
-* `E` Fishtail swordfern*
-
-
+*`E`Fishtail swordfern*
 
 |  |  |
 | --- | --- |
@@ -1624,9 +1494,7 @@
 
 ### *[`Hamelia patens`](https://en.wikipedia.org/wiki/Hamelia_patens)* Jacq.
 
-* `E` Fire bush, Redhead, Scarletbush*
-
-
+*`E`Fire bush, Redhead, Scarletbush*
 
 |  |  |
 | --- | --- |
@@ -1648,9 +1516,7 @@
 
 ### *[`Filicium decipiens`](https://en.wikipedia.org/wiki/Filicium_decipiens)* (Wight & Arn.) Thwaites
 
-* `E` Ferntree*
-
-
+*`E`Ferntree*
 
 |  |  |
 | --- | --- |
@@ -1672,9 +1538,7 @@
 
 ### *[`Mimusops elengi`](https://en.wikipedia.org/wiki/Mimusops_elengi)* L.
 
-*`සි` *Moonamal* `த` *magizha,magilam* `E` Medlar, Tanjongtree, Spanish-cherry*
-
-
+*`සි` *Moonamal* `த` *magizha,magilam*`E`Medlar, Tanjongtree, Spanish-cherry*
 
 |  |  |
 | --- | --- |
