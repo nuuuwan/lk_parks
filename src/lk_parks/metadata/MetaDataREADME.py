@@ -49,9 +49,9 @@ class MetaDataREADME:
         for md in cls.list_all():
             lines.append(f'## {md.title}')
             lines.append('')
-            lines.extend(md.description_lines)
-            lines.append('')
             lines.append(f'![{md.image_path_unix}]({md.image_path_unix})')
+            lines.append('')
+            lines.extend(md.description_lines)
             lines.append('')
         File(MetaDataREADME.README_PATH).write_lines(lines)
         log.debug(f'Wrote {MetaDataREADME.README_PATH}')
