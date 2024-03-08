@@ -81,12 +81,15 @@ class MetaDataREADME:
             parts.append(f'`සි` *{data["sinhala"]}*')
         if data['tamil']:
             parts.append(f'`த` *{data["tamil"]}*')
-        return ' '.join(parts)
+        s = ' '.join(parts)
+        if s:
+            s += " "
+        return s
 
     @property
     def species_lines(self):
         return [
-            f'*{self.pretty_name_translations}`E`{self.common_names_pretty}*',
+            f'*{self.pretty_name_translations}`E` {self.common_names_pretty}*',
             '',
             '|  |  |',
 
