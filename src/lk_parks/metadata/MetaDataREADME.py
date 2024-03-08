@@ -78,9 +78,9 @@ class MetaDataREADME:
             return ''
         parts = []
         if data['sinhala']:
-            parts.append(f'සි: {data["sinhala"]}')
+            parts.append(f'`සි`: *{data["sinhala"]}*')
         if data['tamil']:
-            parts.append(f'த: {data["tamil"]}')
+            parts.append(f'`த`: *{data["tamil"]}*')
         return MetaDataREADME.dot_join(*parts)
 
     @property

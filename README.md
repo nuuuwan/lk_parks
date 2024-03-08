@@ -6,7 +6,7 @@
 
 *Grey mangrove, White mangrove, Gray mangrove*
 
-සි: Manda · த: Kanna
+`සි`: *Manda* · `த`: *Kanna*
 
 |  |  |
 | --- | --- |
@@ -30,7 +30,7 @@
 
 *Cashew, Cashewnut, Pomifera*
 
-සි: Kadju, kaju · த: muntiri, andimangottai
+`සි`: *Kadju, kaju* · `த`: *muntiri, andimangottai*
 
 |  |  |
 | --- | --- |
@@ -52,7 +52,7 @@
 
 *Mango, Mango Tree, आम*
 
-සි: Mee Amba, amba · த: Ma, Mamaram, Amiram, Mangai
+`සි`: *Mee Amba, amba* · `த`: *Ma, Mamaram, Amiram, Mangai*
 
 |  |  |
 | --- | --- |
@@ -134,7 +134,7 @@
 
 *Golden-trumpet, Allamanda, Yellow allamanda*
 
-සි: Val Ruk Attana
+`සි`: *Val Ruk Attana*
 
 |  |  |
 | --- | --- |
@@ -156,7 +156,7 @@
 
 *Bengal-currants, Carandas-plum, Karanda*
 
-සි: Karanda, Maha Karamba · த: kila, kala
+`සි`: *Karanda, Maha Karamba* · `த`: *kila, kala*
 
 |  |  |
 | --- | --- |
@@ -206,7 +206,7 @@
 
 *Crape-jasmine, Butterfly-gardenia, నందివర్ధనం*
 
-සි: Wathu sudda, Watusudda, Watu sudda, Vathu sudda, Vathu sudda · த: adukkunandiyavattai, nandi battai, Nandiar vattai
+`සි`: *Wathu sudda, Watusudda, Watu sudda, Vathu sudda, Vathu sudda* · `த`: *adukkunandiyavattai, nandi battai, Nandiar vattai*
 
 |  |  |
 | --- | --- |
@@ -436,7 +436,7 @@
 
 *Fragrant manjack, Indian-cherry, Clammy-cherry*
 
-த: naruvili
+`த`: *naruvili*
 
 |  |  |
 | --- | --- |
@@ -460,7 +460,7 @@
 
 *Mesua, Iron Wood Tree, Ceylon Ironwood*
 
-සි: Na, Naa · த: nangu, cirunakappu
+`සි`: *Na, Naa* · `த`: *nangu, cirunakappu*
 
 |  |  |
 | --- | --- |
@@ -568,7 +568,7 @@
 
 *Arjun, White murdh, Kumbuk*
 
-සි: Kumbuk · த: maruthu, marutu
+`සි`: *Kumbuk* · `த`: *maruthu, marutu*
 
 |  |  |
 | --- | --- |
@@ -594,7 +594,7 @@
 
 *Tropical almond, Indian-almond, Country-almond*
 
-සි: Kottan, Kottamba · த: nattuvadumai, nattu vadam
+`සි`: *Kottan, Kottamba* · `த`: *nattuvadumai, nattu vadam*
 
 |  |  |
 | --- | --- |
@@ -708,7 +708,7 @@
 
 *Mountain ebony, Orchidtree, Butterfly tree*
 
-සි: Sinhala Koboleela, a type of Udavaedia plant · த: Tamil segappumandrai, tiruvatti
+`සි`: *Sinhala Koboleela, a type of Udavaedia plant* · `த`: *Tamil segappumandrai, tiruvatti*
 
 |  |  |
 | --- | --- |
@@ -730,7 +730,7 @@
 
 *Golden Shower Tree, Indian-laburnum, Amaltas*
 
-සි: Aehaela, Ehela · த: konrai, konnai, Mullaimaram
+`සි`: *Aehaela, Ehela* · `த`: *konrai, konnai, Mullaimaram*
 
 |  |  |
 | --- | --- |
@@ -960,7 +960,7 @@
 
 *Black Walnut, English walnut, Carpathian walnut*
 
-සි: Aettakottam
+`සි`: *Aettakottam*
 
 |  |  |
 | --- | --- |
@@ -984,7 +984,7 @@
 
 *Teak, Bankok teak, Indian-oak*
 
-සි: The kka signify long sound · த: thekku
+`සි`: *The kka signify long sound* · `த`: *thekku*
 
 |  |  |
 | --- | --- |
@@ -1008,7 +1008,7 @@
 
 *Camphor-laurel, Camphortree, Japanese camphor*
 
-සි: Kapuru · த: karppuram
+`සි`: *Kapuru* · `த`: *karppuram*
 
 |  |  |
 | --- | --- |
@@ -1030,7 +1030,7 @@
 
 *(Sweet) Bay leaf, Bay Laurel, Sweet bay*
 
-සි: This plant of Mediterranean origin is not known in Sinhala · த: click for a short note and images in Wikipedia
+`සි`: *This plant of Mediterranean origin is not known in Sinhala* · `த`: *click for a short note and images in Wikipedia*
 
 |  |  |
 | --- | --- |
@@ -1160,7 +1160,7 @@
 
 *Jackfruit, কাঠাল, పనస*
 
-සි: Herali, Kos, Vaela, Waraka see Artocarpus Indica · த: pila, pala, Palavu Tamil
+`සි`: *Herali, Kos, Vaela, Waraka see Artocarpus Indica* · `த`: *pila, pala, Palavu Tamil*
 
 |  |  |
 | --- | --- |
@@ -1208,7 +1208,7 @@
 
 *Indian banyan, Ficus Audrey, Bengal banyan*
 
-සි: Nuga, Mahanuga · த: alamaram, kottam , Nakar, Nakaram, Niyaman
+`සි`: *Nuga, Mahanuga* · `த`: *alamaram, kottam , Nakar, Nakaram, Niyaman*
 
 |  |  |
 | --- | --- |
@@ -1280,7 +1280,7 @@
 
 *Peepal tree, Sacred fig, రావి*
 
-සි: Bo, Bodhi · த: asvattam, arasu
+`සි`: *Bo, Bodhi* · `த`: *asvattam, arasu*
 
 |  |  |
 | --- | --- |
@@ -1324,7 +1324,7 @@
 
 *Moringa, Drumstick Tree, Moringa Tree*
 
-සි: Murunga, Murunga karal is the Sinhala · த: Tamil murunkai, murungai
+`සි`: *Murunga, Murunga karal is the Sinhala* · `த`: *Tamil murunkai, murungai*
 
 |  |  |
 | --- | --- |
@@ -1430,7 +1430,7 @@
 
 *जामुन, Jaman, అల్లనేరేడు*
 
-සි: kalu dan, Kaadan, Madan · த: naavali, Naaval Pazham
+`සි`: *kalu dan, Kaadan, Madan* · `த`: *naavali, Naaval Pazham*
 
 |  |  |
 | --- | --- |
@@ -1674,7 +1674,7 @@
 
 *Medlar, Tanjongtree, Spanish-cherry*
 
-සි: Moonamal · த: magizha,magilam
+`සි`: *Moonamal* · `த`: *magizha,magilam*
 
 |  |  |
 | --- | --- |
