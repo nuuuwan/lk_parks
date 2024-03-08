@@ -92,20 +92,6 @@
 | **Altitude** | 10.4m |
 
 
-#### ❓[Mangifera indica](https://en.wikipedia.org/wiki/Mangifera_indica) · [6.9142°N,79.8621°E](https://www.google.com/maps/place/6.914233N,79.862061E) · 07:15 AM (Mar 08, 2024)
-
-![data/images/Photo-2024-03-08-07-15-10.jpg](data/images/Photo-2024-03-08-07-15-10.jpg)
-
-|  |  |
-| --- | --- |
-| **Identification Confidence** | ❓ 7.3% |
-| **Other Guesses** | Monoon longifolium (4.1%), Ceiba pentandra (3.2%), Pandanus tectorius (3.0%), Phytolacca dioica (2.6%) |
-| **Time** | 07:15 AM (Mar 08, 2024) |
-| **Camera Direction** | 276.7° (W) |
-| **Location** | [6.9142°N,79.8621°E](https://www.google.com/maps/place/6.914233N,79.862061E) |
-| **Altitude** | 11.0m |
-
-
 #### ❓[Mangifera indica](https://en.wikipedia.org/wiki/Mangifera_indica) · [6.9153°N,79.8618°E](https://www.google.com/maps/place/6.915297N,79.8618E) · 07:06 AM (Mar 08, 2024)
 
 ![data/images/Photo-2024-03-08-07-06-50.jpg](data/images/Photo-2024-03-08-07-06-50.jpg)
@@ -118,6 +104,20 @@
 | **Camera Direction** | 331.8° (NNW) |
 | **Location** | [6.9153°N,79.8618°E](https://www.google.com/maps/place/6.915297N,79.8618E) |
 | **Altitude** | 9.5m |
+
+
+#### ❓[Mangifera indica](https://en.wikipedia.org/wiki/Mangifera_indica) · [6.9142°N,79.8621°E](https://www.google.com/maps/place/6.914233N,79.862061E) · 07:15 AM (Mar 08, 2024)
+
+![data/images/Photo-2024-03-08-07-15-10.jpg](data/images/Photo-2024-03-08-07-15-10.jpg)
+
+|  |  |
+| --- | --- |
+| **Identification Confidence** | ❓ 7.3% |
+| **Other Guesses** | Monoon longifolium (4.1%), Ceiba pentandra (3.2%), Pandanus tectorius (3.0%), Phytolacca dioica (2.6%) |
+| **Time** | 07:15 AM (Mar 08, 2024) |
+| **Camera Direction** | 276.7° (W) |
+| **Location** | [6.9142°N,79.8621°E](https://www.google.com/maps/place/6.914233N,79.862061E) |
+| **Altitude** | 11.0m |
 
 
 ## [Spondias](https://en.wikipedia.org/wiki/Spondias)
@@ -260,20 +260,6 @@
 
 (2 Examples)
 
-#### ❓[Plumeria obtusa](https://en.wikipedia.org/wiki/Plumeria_obtusa) · [6.9147°N,79.8624°E](https://www.google.com/maps/place/6.914736N,79.862428E) · 07:10 AM (Mar 08, 2024)
-
-![data/images/Photo-2024-03-08-07-10-36.jpg](data/images/Photo-2024-03-08-07-10-36.jpg)
-
-|  |  |
-| --- | --- |
-| **Identification Confidence** | ❓ 23.9% |
-| **Other Guesses** | Plumeria alba (17.1%), Plumeria rubra (9.8%), Pachypodium decaryi (3.2%), Ficus maxima (2.1%) |
-| **Time** | 07:10 AM (Mar 08, 2024) |
-| **Camera Direction** | 229.4° (SW) |
-| **Location** | [6.9147°N,79.8624°E](https://www.google.com/maps/place/6.914736N,79.862428E) |
-| **Altitude** | 10.5m |
-
-
 #### ❓[Plumeria obtusa](https://en.wikipedia.org/wiki/Plumeria_obtusa) · [6.9149°N,79.8623°E](https://www.google.com/maps/place/6.914878N,79.862328E) · 07:09 AM (Mar 08, 2024)
 
 ![data/images/Photo-2024-03-08-07-09-30.jpg](data/images/Photo-2024-03-08-07-09-30.jpg)
@@ -286,6 +272,20 @@
 | **Camera Direction** | 264.4° (W) |
 | **Location** | [6.9149°N,79.8623°E](https://www.google.com/maps/place/6.914878N,79.862328E) |
 | **Altitude** | 10.2m |
+
+
+#### ❓[Plumeria obtusa](https://en.wikipedia.org/wiki/Plumeria_obtusa) · [6.9147°N,79.8624°E](https://www.google.com/maps/place/6.914736N,79.862428E) · 07:10 AM (Mar 08, 2024)
+
+![data/images/Photo-2024-03-08-07-10-36.jpg](data/images/Photo-2024-03-08-07-10-36.jpg)
+
+|  |  |
+| --- | --- |
+| **Identification Confidence** | ❓ 23.9% |
+| **Other Guesses** | Plumeria alba (17.1%), Plumeria rubra (9.8%), Pachypodium decaryi (3.2%), Ficus maxima (2.1%) |
+| **Time** | 07:10 AM (Mar 08, 2024) |
+| **Camera Direction** | 229.4° (SW) |
+| **Location** | [6.9147°N,79.8624°E](https://www.google.com/maps/place/6.914736N,79.862428E) |
+| **Altitude** | 10.5m |
 
 
 ## [Tabernaemontana](https://en.wikipedia.org/wiki/Tabernaemontana)
@@ -396,18 +396,18 @@
 
 (3 Examples)
 
-#### ❓[Roystonea regia](https://en.wikipedia.org/wiki/Roystonea_regia) · [6.9133°N,79.8615°E](https://www.google.com/maps/place/6.913325N,79.86155E) · 07:18 AM (Mar 08, 2024)
+#### ❓[Roystonea regia](https://en.wikipedia.org/wiki/Roystonea_regia) · [6.9143°N,79.8604°E](https://www.google.com/maps/place/6.91425N,79.860375E) · 06:42 AM (Mar 08, 2024)
 
-![data/images/Photo-2024-03-08-07-18-39.jpg](data/images/Photo-2024-03-08-07-18-39.jpg)
+![data/images/Photo-2024-03-08-06-42-57.jpg](data/images/Photo-2024-03-08-06-42-57.jpg)
 
 |  |  |
 | --- | --- |
-| **Identification Confidence** | ❓ 26.9% |
-| **Other Guesses** | Euterpe oleracea (9.7%), Phoenix reclinata (8.4%), Dypsis lutescens (7.3%), Roystonea oleracea (5.7%) |
-| **Time** | 07:18 AM (Mar 08, 2024) |
-| **Camera Direction** | 73.5° (ENE) |
-| **Location** | [6.9133°N,79.8615°E](https://www.google.com/maps/place/6.913325N,79.86155E) |
-| **Altitude** | 11.2m |
+| **Identification Confidence** | ❓ 17.8% |
+| **Other Guesses** | Phoenix reclinata (15.3%), Roystonea oleracea (5.6%), Archontophoenix cunninghamiana (4.3%), Syagrus romanzoffiana (4.2%) |
+| **Time** | 06:42 AM (Mar 08, 2024) |
+| **Camera Direction** | 179.0° (S) |
+| **Location** | [6.9143°N,79.8604°E](https://www.google.com/maps/place/6.91425N,79.860375E) |
+| **Altitude** | 10.0m |
 
 
 #### 🌳[Roystonea regia](https://en.wikipedia.org/wiki/Roystonea_regia) · [6.9135°N,79.8617°E](https://www.google.com/maps/place/6.913517N,79.861708E) · 07:17 AM (Mar 08, 2024)
@@ -424,18 +424,18 @@
 | **Altitude** | 11.6m |
 
 
-#### ❓[Roystonea regia](https://en.wikipedia.org/wiki/Roystonea_regia) · [6.9143°N,79.8604°E](https://www.google.com/maps/place/6.91425N,79.860375E) · 06:42 AM (Mar 08, 2024)
+#### ❓[Roystonea regia](https://en.wikipedia.org/wiki/Roystonea_regia) · [6.9133°N,79.8615°E](https://www.google.com/maps/place/6.913325N,79.86155E) · 07:18 AM (Mar 08, 2024)
 
-![data/images/Photo-2024-03-08-06-42-57.jpg](data/images/Photo-2024-03-08-06-42-57.jpg)
+![data/images/Photo-2024-03-08-07-18-39.jpg](data/images/Photo-2024-03-08-07-18-39.jpg)
 
 |  |  |
 | --- | --- |
-| **Identification Confidence** | ❓ 17.8% |
-| **Other Guesses** | Phoenix reclinata (15.3%), Roystonea oleracea (5.6%), Archontophoenix cunninghamiana (4.3%), Syagrus romanzoffiana (4.2%) |
-| **Time** | 06:42 AM (Mar 08, 2024) |
-| **Camera Direction** | 179.0° (S) |
-| **Location** | [6.9143°N,79.8604°E](https://www.google.com/maps/place/6.91425N,79.860375E) |
-| **Altitude** | 10.0m |
+| **Identification Confidence** | ❓ 26.9% |
+| **Other Guesses** | Euterpe oleracea (9.7%), Phoenix reclinata (8.4%), Dypsis lutescens (7.3%), Roystonea oleracea (5.7%) |
+| **Time** | 07:18 AM (Mar 08, 2024) |
+| **Camera Direction** | 73.5° (ENE) |
+| **Location** | [6.9133°N,79.8615°E](https://www.google.com/maps/place/6.913325N,79.86155E) |
+| **Altitude** | 11.2m |
 
 
 ## [Wodyetia](https://en.wikipedia.org/wiki/Wodyetia)
@@ -560,32 +560,18 @@
 
 (6 Examples)
 
-#### ❓[Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea) · [6.9137°N,79.8637°E](https://www.google.com/maps/place/6.913733N,79.863708E) · 06:52 AM (Mar 08, 2024)
+#### ❓[Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea) · [6.9144°N,79.8629°E](https://www.google.com/maps/place/6.914369N,79.862922E) · 06:48 AM (Mar 08, 2024)
 
-![data/images/Photo-2024-03-08-06-52-20.jpg](data/images/Photo-2024-03-08-06-52-20.jpg)
-
-|  |  |
-| --- | --- |
-| **Identification Confidence** | ❓ 9.9% |
-| **Other Guesses** | Tabebuia pallida (5.2%), Phytolacca dioica (4.4%), Swietenia macrophylla (2.5%), Cinnamomum camphora (2.0%) |
-| **Time** | 06:52 AM (Mar 08, 2024) |
-| **Camera Direction** | 54.8° (NE) |
-| **Location** | [6.9137°N,79.8637°E](https://www.google.com/maps/place/6.913733N,79.863708E) |
-| **Altitude** | 7.3m |
-
-
-#### ❓[Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea) · [6.9139°N,79.8642°E](https://www.google.com/maps/place/6.913917N,79.864236E) · 06:57 AM (Mar 08, 2024)
-
-![data/images/Photo-2024-03-08-06-57-14.jpg](data/images/Photo-2024-03-08-06-57-14.jpg)
+![data/images/Photo-2024-03-08-06-48-53.jpg](data/images/Photo-2024-03-08-06-48-53.jpg)
 
 |  |  |
 | --- | --- |
-| **Identification Confidence** | ❓ 9.7% |
-| **Other Guesses** | Melicoccus bijugatus (2.6%), Inga edulis (2.5%), Licania ternatensis (2.3%), Inga laurina (2.1%) |
-| **Time** | 06:57 AM (Mar 08, 2024) |
-| **Camera Direction** | 292.3° (WNW) |
-| **Location** | [6.9139°N,79.8642°E](https://www.google.com/maps/place/6.913917N,79.864236E) |
-| **Altitude** | 10.7m |
+| **Identification Confidence** | ❓ 20.2% |
+| **Other Guesses** | Tipuana tipu (9.3%), Schinus terebinthifolia (5.6%), Albizia lebbeck (4.1%), Robinia hispida (3.8%) |
+| **Time** | 06:48 AM (Mar 08, 2024) |
+| **Camera Direction** | 267.9° (W) |
+| **Location** | [6.9144°N,79.8629°E](https://www.google.com/maps/place/6.914369N,79.862922E) |
+| **Altitude** | 9.9m |
 
 
 #### 🌳[Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea) · [6.9140°N,79.8634°E](https://www.google.com/maps/place/6.913964N,79.863358E) · 06:50 AM (Mar 08, 2024)
@@ -602,6 +588,20 @@
 | **Altitude** | 7.6m |
 
 
+#### ❓[Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea) · [6.9137°N,79.8637°E](https://www.google.com/maps/place/6.913733N,79.863708E) · 06:52 AM (Mar 08, 2024)
+
+![data/images/Photo-2024-03-08-06-52-20.jpg](data/images/Photo-2024-03-08-06-52-20.jpg)
+
+|  |  |
+| --- | --- |
+| **Identification Confidence** | ❓ 9.9% |
+| **Other Guesses** | Tabebuia pallida (5.2%), Phytolacca dioica (4.4%), Swietenia macrophylla (2.5%), Cinnamomum camphora (2.0%) |
+| **Time** | 06:52 AM (Mar 08, 2024) |
+| **Camera Direction** | 54.8° (NE) |
+| **Location** | [6.9137°N,79.8637°E](https://www.google.com/maps/place/6.913733N,79.863708E) |
+| **Altitude** | 7.3m |
+
+
 #### ❓[Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea) · [6.9140°N,79.8642°E](https://www.google.com/maps/place/6.913983N,79.864236E) · 06:57 AM (Mar 08, 2024)
 
 ![data/images/Photo-2024-03-08-06-57-03.jpg](data/images/Photo-2024-03-08-06-57-03.jpg)
@@ -616,18 +616,18 @@
 | **Altitude** | 10.3m |
 
 
-#### ❓[Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea) · [6.9144°N,79.8629°E](https://www.google.com/maps/place/6.914369N,79.862922E) · 06:48 AM (Mar 08, 2024)
+#### ❓[Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea) · [6.9139°N,79.8642°E](https://www.google.com/maps/place/6.913917N,79.864236E) · 06:57 AM (Mar 08, 2024)
 
-![data/images/Photo-2024-03-08-06-48-53.jpg](data/images/Photo-2024-03-08-06-48-53.jpg)
+![data/images/Photo-2024-03-08-06-57-14.jpg](data/images/Photo-2024-03-08-06-57-14.jpg)
 
 |  |  |
 | --- | --- |
-| **Identification Confidence** | ❓ 20.2% |
-| **Other Guesses** | Tipuana tipu (9.3%), Schinus terebinthifolia (5.6%), Albizia lebbeck (4.1%), Robinia hispida (3.8%) |
-| **Time** | 06:48 AM (Mar 08, 2024) |
-| **Camera Direction** | 267.9° (W) |
-| **Location** | [6.9144°N,79.8629°E](https://www.google.com/maps/place/6.914369N,79.862922E) |
-| **Altitude** | 9.9m |
+| **Identification Confidence** | ❓ 9.7% |
+| **Other Guesses** | Melicoccus bijugatus (2.6%), Inga edulis (2.5%), Licania ternatensis (2.3%), Inga laurina (2.1%) |
+| **Time** | 06:57 AM (Mar 08, 2024) |
+| **Camera Direction** | 292.3° (WNW) |
+| **Location** | [6.9139°N,79.8642°E](https://www.google.com/maps/place/6.913917N,79.864236E) |
+| **Altitude** | 10.7m |
 
 
 #### 🌳[Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea) · [6.9155°N,79.8621°E](https://www.google.com/maps/place/6.915522N,79.862061E) · 07:05 AM (Mar 08, 2024)
@@ -758,6 +758,20 @@
 
 (3 Examples)
 
+#### 🌳[Casuarina equisetifolia](https://en.wikipedia.org/wiki/Casuarina_equisetifolia) · [6.9141°N,79.8632°E](https://www.google.com/maps/place/6.914147N,79.863236E) · 06:50 AM (Mar 08, 2024)
+
+![data/images/Photo-2024-03-08-06-50-00.jpg](data/images/Photo-2024-03-08-06-50-00.jpg)
+
+|  |  |
+| --- | --- |
+| **Identification Confidence** | 🌳 75.0% |
+| **Other Guesses** | Casuarina cunninghamiana (14.9%), Pinus pinea (1.1%), Pinus wallichiana (0.9%), Parkinsonia aculeata (0.3%) |
+| **Time** | 06:50 AM (Mar 08, 2024) |
+| **Camera Direction** | 71.2° (ENE) |
+| **Location** | [6.9141°N,79.8632°E](https://www.google.com/maps/place/6.914147N,79.863236E) |
+| **Altitude** | 7.8m |
+
+
 #### ❓[Casuarina equisetifolia](https://en.wikipedia.org/wiki/Casuarina_equisetifolia) · [6.9137°N,79.8621°E](https://www.google.com/maps/place/6.913722N,79.862144E) · 07:16 AM (Mar 08, 2024)
 
 ![data/images/Photo-2024-03-08-07-16-32.jpg](data/images/Photo-2024-03-08-07-16-32.jpg)
@@ -784,20 +798,6 @@
 | **Camera Direction** | 260.6° (W) |
 | **Location** | [6.9138°N,79.8621°E](https://www.google.com/maps/place/6.913772N,79.862083E) |
 | **Altitude** | 9.5m |
-
-
-#### 🌳[Casuarina equisetifolia](https://en.wikipedia.org/wiki/Casuarina_equisetifolia) · [6.9141°N,79.8632°E](https://www.google.com/maps/place/6.914147N,79.863236E) · 06:50 AM (Mar 08, 2024)
-
-![data/images/Photo-2024-03-08-06-50-00.jpg](data/images/Photo-2024-03-08-06-50-00.jpg)
-
-|  |  |
-| --- | --- |
-| **Identification Confidence** | 🌳 75.0% |
-| **Other Guesses** | Casuarina cunninghamiana (14.9%), Pinus pinea (1.1%), Pinus wallichiana (0.9%), Parkinsonia aculeata (0.3%) |
-| **Time** | 06:50 AM (Mar 08, 2024) |
-| **Camera Direction** | 71.2° (ENE) |
-| **Location** | [6.9141°N,79.8632°E](https://www.google.com/maps/place/6.914147N,79.863236E) |
-| **Altitude** | 7.8m |
 
 
 # [Chrysobalanaceae](https://en.wikipedia.org/wiki/Chrysobalanaceae)
@@ -1076,20 +1076,6 @@
 
 (2 Examples)
 
-#### ❓[Cassia fistula](https://en.wikipedia.org/wiki/Cassia_fistula) · [6.9143°N,79.8623°E](https://www.google.com/maps/place/6.914278N,79.862275E) · 07:13 AM (Mar 08, 2024)
-
-![data/images/Photo-2024-03-08-07-13-30.jpg](data/images/Photo-2024-03-08-07-13-30.jpg)
-
-|  |  |
-| --- | --- |
-| **Identification Confidence** | ❓ 9.0% |
-| **Other Guesses** | Holarrhena pubescens (6.0%), Pleiogynium timoriense (4.0%), Paubrasilia echinata (3.5%), Copaifera langsdorffii (2.4%) |
-| **Time** | 07:13 AM (Mar 08, 2024) |
-| **Camera Direction** | 230.0° (SW) |
-| **Location** | [6.9143°N,79.8623°E](https://www.google.com/maps/place/6.914278N,79.862275E) |
-| **Altitude** | 8.2m |
-
-
 #### 🌳[Cassia fistula](https://en.wikipedia.org/wiki/Cassia_fistula) · [6.9148°N,79.8624°E](https://www.google.com/maps/place/6.914814N,79.862433E) · 07:09 AM (Mar 08, 2024)
 
 ![data/images/Photo-2024-03-08-07-09-59.jpg](data/images/Photo-2024-03-08-07-09-59.jpg)
@@ -1102,6 +1088,20 @@
 | **Camera Direction** | 11.5° (NNE) |
 | **Location** | [6.9148°N,79.8624°E](https://www.google.com/maps/place/6.914814N,79.862433E) |
 | **Altitude** | 6.8m |
+
+
+#### ❓[Cassia fistula](https://en.wikipedia.org/wiki/Cassia_fistula) · [6.9143°N,79.8623°E](https://www.google.com/maps/place/6.914278N,79.862275E) · 07:13 AM (Mar 08, 2024)
+
+![data/images/Photo-2024-03-08-07-13-30.jpg](data/images/Photo-2024-03-08-07-13-30.jpg)
+
+|  |  |
+| --- | --- |
+| **Identification Confidence** | ❓ 9.0% |
+| **Other Guesses** | Holarrhena pubescens (6.0%), Pleiogynium timoriense (4.0%), Paubrasilia echinata (3.5%), Copaifera langsdorffii (2.4%) |
+| **Time** | 07:13 AM (Mar 08, 2024) |
+| **Camera Direction** | 230.0° (SW) |
+| **Location** | [6.9143°N,79.8623°E](https://www.google.com/maps/place/6.914278N,79.862275E) |
+| **Altitude** | 8.2m |
 
 
 ### [Cassia grandis](https://en.wikipedia.org/wiki/Cassia_grandis)
@@ -1266,20 +1266,6 @@
 
 (2 Examples)
 
-#### ❓[Paubrasilia echinata](https://en.wikipedia.org/wiki/Paubrasilia_echinata) · [6.9141°N,79.8622°E](https://www.google.com/maps/place/6.914117N,79.862189E) · 07:23 AM (Jan 19, 2024)
-
-![data/images/Photo-2024-01-19-07-23-31.jpg](data/images/Photo-2024-01-19-07-23-31.jpg)
-
-|  |  |
-| --- | --- |
-| **Identification Confidence** | ❓ 9.9% |
-| **Other Guesses** | Diospyros buxifolia (5.4%), Senna siamea (3.5%), Pterocarya stenoptera (1.8%), Tipuana tipu (1.6%) |
-| **Time** | 07:23 AM (Jan 19, 2024) |
-| **Camera Direction** | 358.2° (N) |
-| **Location** | [6.9141°N,79.8622°E](https://www.google.com/maps/place/6.914117N,79.862189E) |
-| **Altitude** | 7.1m |
-
-
 #### ❓[Paubrasilia echinata](https://en.wikipedia.org/wiki/Paubrasilia_echinata) · [6.9143°N,79.8623°E](https://www.google.com/maps/place/6.914261N,79.862342E) · 07:37 AM (Dec 19, 2023)
 
 ![data/images/Photo-2023-12-19-07-37-48.jpg](data/images/Photo-2023-12-19-07-37-48.jpg)
@@ -1292,6 +1278,20 @@
 | **Camera Direction** | 251.7° (WSW) |
 | **Location** | [6.9143°N,79.8623°E](https://www.google.com/maps/place/6.914261N,79.862342E) |
 | **Altitude** | 11.8m |
+
+
+#### ❓[Paubrasilia echinata](https://en.wikipedia.org/wiki/Paubrasilia_echinata) · [6.9141°N,79.8622°E](https://www.google.com/maps/place/6.914117N,79.862189E) · 07:23 AM (Jan 19, 2024)
+
+![data/images/Photo-2024-01-19-07-23-31.jpg](data/images/Photo-2024-01-19-07-23-31.jpg)
+
+|  |  |
+| --- | --- |
+| **Identification Confidence** | ❓ 9.9% |
+| **Other Guesses** | Diospyros buxifolia (5.4%), Senna siamea (3.5%), Pterocarya stenoptera (1.8%), Tipuana tipu (1.6%) |
+| **Time** | 07:23 AM (Jan 19, 2024) |
+| **Camera Direction** | 358.2° (N) |
+| **Location** | [6.9141°N,79.8622°E](https://www.google.com/maps/place/6.914117N,79.862189E) |
+| **Altitude** | 7.1m |
 
 
 ## [Vachellia](https://en.wikipedia.org/wiki/Vachellia)
@@ -1622,20 +1622,6 @@
 
 (3 Examples)
 
-#### ❓[Toona ciliata](https://en.wikipedia.org/wiki/Toona_ciliata) · [6.9142°N,79.8622°E](https://www.google.com/maps/place/6.914192N,79.862214E) · 07:14 AM (Mar 08, 2024)
-
-![data/images/Photo-2024-03-08-07-14-23.jpg](data/images/Photo-2024-03-08-07-14-23.jpg)
-
-|  |  |
-| --- | --- |
-| **Identification Confidence** | ❓ 35.0% |
-| **Other Guesses** | Pterocarpus indicus (4.6%), Spathodea campanulata (2.7%), Amburana cearensis (2.5%), Azadirachta indica (2.4%) |
-| **Time** | 07:14 AM (Mar 08, 2024) |
-| **Camera Direction** | 219.9° (SW) |
-| **Location** | [6.9142°N,79.8622°E](https://www.google.com/maps/place/6.914192N,79.862214E) |
-| **Altitude** | 10.7m |
-
-
 #### ❓[Toona ciliata](https://en.wikipedia.org/wiki/Toona_ciliata) · [6.9143°N,79.8604°E](https://www.google.com/maps/place/6.914306N,79.860419E) · 06:42 AM (Mar 08, 2024)
 
 ![data/images/Photo-2024-03-08-06-42-44.jpg](data/images/Photo-2024-03-08-06-42-44.jpg)
@@ -1662,6 +1648,20 @@
 | **Camera Direction** | 342.5° (NNW) |
 | **Location** | [6.9153°N,79.8619°E](https://www.google.com/maps/place/6.915258N,79.861908E) |
 | **Altitude** | 11.1m |
+
+
+#### ❓[Toona ciliata](https://en.wikipedia.org/wiki/Toona_ciliata) · [6.9142°N,79.8622°E](https://www.google.com/maps/place/6.914192N,79.862214E) · 07:14 AM (Mar 08, 2024)
+
+![data/images/Photo-2024-03-08-07-14-23.jpg](data/images/Photo-2024-03-08-07-14-23.jpg)
+
+|  |  |
+| --- | --- |
+| **Identification Confidence** | ❓ 35.0% |
+| **Other Guesses** | Pterocarpus indicus (4.6%), Spathodea campanulata (2.7%), Amburana cearensis (2.5%), Azadirachta indica (2.4%) |
+| **Time** | 07:14 AM (Mar 08, 2024) |
+| **Camera Direction** | 219.9° (SW) |
+| **Location** | [6.9142°N,79.8622°E](https://www.google.com/maps/place/6.914192N,79.862214E) |
+| **Altitude** | 10.7m |
 
 
 # [Moraceae](https://en.wikipedia.org/wiki/Moraceae)
@@ -1796,20 +1796,6 @@
 
 (2 Examples)
 
-#### ❓[Ficus elastica](https://en.wikipedia.org/wiki/Ficus_elastica) · [6.9136°N,79.8641°E](https://www.google.com/maps/place/6.913567N,79.864144E) · 06:53 AM (Mar 08, 2024)
-
-![data/images/Photo-2024-03-08-06-53-49.jpg](data/images/Photo-2024-03-08-06-53-49.jpg)
-
-|  |  |
-| --- | --- |
-| **Identification Confidence** | ❓ 29.1% |
-| **Other Guesses** | Ficus benghalensis (18.4%), Ficus religiosa (7.8%), Ficus nymphaeifolia (6.2%), Ficus altissima (5.7%) |
-| **Time** | 06:53 AM (Mar 08, 2024) |
-| **Camera Direction** | 85.7° (E) |
-| **Location** | [6.9136°N,79.8641°E](https://www.google.com/maps/place/6.913567N,79.864144E) |
-| **Altitude** | 10.1m |
-
-
 #### ❓[Ficus elastica](https://en.wikipedia.org/wiki/Ficus_elastica) · [6.9142°N,79.8631°E](https://www.google.com/maps/place/6.914217N,79.863136E) · 06:49 AM (Mar 08, 2024)
 
 ![data/images/Photo-2024-03-08-06-49-41.jpg](data/images/Photo-2024-03-08-06-49-41.jpg)
@@ -1822,6 +1808,20 @@
 | **Camera Direction** | 277.9° (W) |
 | **Location** | [6.9142°N,79.8631°E](https://www.google.com/maps/place/6.914217N,79.863136E) |
 | **Altitude** | 8.7m |
+
+
+#### ❓[Ficus elastica](https://en.wikipedia.org/wiki/Ficus_elastica) · [6.9136°N,79.8641°E](https://www.google.com/maps/place/6.913567N,79.864144E) · 06:53 AM (Mar 08, 2024)
+
+![data/images/Photo-2024-03-08-06-53-49.jpg](data/images/Photo-2024-03-08-06-53-49.jpg)
+
+|  |  |
+| --- | --- |
+| **Identification Confidence** | ❓ 29.1% |
+| **Other Guesses** | Ficus benghalensis (18.4%), Ficus religiosa (7.8%), Ficus nymphaeifolia (6.2%), Ficus altissima (5.7%) |
+| **Time** | 06:53 AM (Mar 08, 2024) |
+| **Camera Direction** | 85.7° (E) |
+| **Location** | [6.9136°N,79.8641°E](https://www.google.com/maps/place/6.913567N,79.864144E) |
+| **Altitude** | 10.1m |
 
 
 ### [Ficus insipida](https://en.wikipedia.org/wiki/Ficus_insipida)
