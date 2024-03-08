@@ -59,9 +59,9 @@ class MetaDataREADME:
             f'| **Other Candidates** | {self.other_candidates_pretty} |',
             '|  |  |',
 
-            f'! **GBIF** | {self.gbif_pretty} |',
-            f'! **POWO** | {self.powo_pretty} |',
-            f'! **IUCN** | {self.iucn_pretty} |',
+            f'| **GBIF** | {self.gbif_pretty} |',
+            f'| **POWO** | {self.powo_pretty} |',
+            f'| **IUCN** | {self.iucn_pretty} |',
 
             '|  |  |',
             f'| **Time** | {self.time_str} |',
