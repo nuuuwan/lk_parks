@@ -62,7 +62,7 @@ class MetaDataBasePlantNet:
     @property
     def species_to_score(self) -> dict:
         idx = {}
-        for x in self.plantnet_results[1:]:
+        for x in self.plantnet_results:
             idx[x['species']['scientificNameWithoutAuthor']] = x['score']
         return idx
 

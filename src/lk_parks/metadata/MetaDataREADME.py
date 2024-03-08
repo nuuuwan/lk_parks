@@ -101,8 +101,7 @@ class MetaDataREADME:
     @property
     def confidence_combined(self) -> str:
         return f'*{self.confidence_emoji} ' + \
-            f'{self.confidence:.1%} Identification Confidence. ' + \
-            'Also could be ' + f'{self.other_candidates_pretty}*'
+            f'Identification Confidence: {self.other_candidates_pretty}*'
 
     @property
     def photo_lines(self):
