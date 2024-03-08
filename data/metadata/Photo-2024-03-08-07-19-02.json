@@ -1,0 +1,167 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 07 19 02.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-07-19-02.jpg",
+  "ut": 1709862542,
+  "latlng": [
+    6.913236,
+    79.861497
+  ],
+  "alt": 12.395604295595195,
+  "direction": 104.917724609375,
+  "plantnet_results": [
+    {
+      "score": 0.60262,
+      "species": {
+        "scientificNameWithoutAuthor": "Wodyetia bifurcata",
+        "scientificNameAuthorship": "A.K.Irvine",
+        "genus": {
+          "scientificNameWithoutAuthor": "Wodyetia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Wodyetia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Arecaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Arecaceae"
+        },
+        "commonNames": [
+          "Foxtail palm"
+        ],
+        "scientificName": "Wodyetia bifurcata A.K.Irvine"
+      },
+      "gbif": {
+        "id": "2736620"
+      },
+      "powo": {
+        "id": "903383-1"
+      },
+      "iucn": {
+        "id": "38733",
+        "category": "LR/cd"
+      }
+    },
+    {
+      "score": 0.02973,
+      "species": {
+        "scientificNameWithoutAuthor": "Syagrus romanzoffiana",
+        "scientificNameAuthorship": "(Cham.) Glassman",
+        "genus": {
+          "scientificNameWithoutAuthor": "Syagrus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Syagrus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Arecaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Arecaceae"
+        },
+        "commonNames": [
+          "Queen palm",
+          "Giriba palm"
+        ],
+        "scientificName": "Syagrus romanzoffiana (Cham.) Glassman"
+      },
+      "gbif": {
+        "id": "5293897"
+      },
+      "powo": {
+        "id": "246966-2"
+      },
+      "iucn": {
+        "id": "67557507",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02302,
+      "species": {
+        "scientificNameWithoutAuthor": "Ptychosperma microcarpum",
+        "scientificNameAuthorship": "(Burret) Burret",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ptychosperma",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ptychosperma"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Arecaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Arecaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Ptychosperma microcarpum (Burret) Burret"
+      },
+      "gbif": {
+        "id": "2733856"
+      },
+      "powo": {
+        "id": "669414-1"
+      },
+      "iucn": {
+        "id": "44393508",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02238,
+      "species": {
+        "scientificNameWithoutAuthor": "Chamaedorea seifrizii",
+        "scientificNameAuthorship": "Burret",
+        "genus": {
+          "scientificNameWithoutAuthor": "Chamaedorea",
+          "scientificNameAuthorship": "",
+          "scientificName": "Chamaedorea"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Arecaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Arecaceae"
+        },
+        "commonNames": [
+          "Bamboo palm",
+          "Parlor palm",
+          "Reed palm"
+        ],
+        "scientificName": "Chamaedorea seifrizii Burret"
+      },
+      "gbif": {
+        "id": "2734708"
+      },
+      "powo": {
+        "id": "54954-2"
+      },
+      "iucn": {
+        "id": "58410095",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.01863,
+      "species": {
+        "scientificNameWithoutAuthor": "Chamaedorea elegans",
+        "scientificNameAuthorship": "Mart.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Chamaedorea",
+          "scientificNameAuthorship": "",
+          "scientificName": "Chamaedorea"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Arecaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Arecaceae"
+        },
+        "commonNames": [
+          "Parlor palm",
+          "Parlour palm",
+          "Good-luck palm"
+        ],
+        "scientificName": "Chamaedorea elegans Mart."
+      },
+      "gbif": {
+        "id": "2734661"
+      },
+      "powo": {
+        "id": "54865-2"
+      }
+    }
+  ]
+}

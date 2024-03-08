@@ -1,0 +1,178 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 07 19 27.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-07-19-27.jpg",
+  "ut": 1709862567,
+  "latlng": [
+    6.913156,
+    79.861436
+  ],
+  "alt": 10.959970190567445,
+  "direction": 159.1294859359845,
+  "plantnet_results": [
+    {
+      "score": 0.12711,
+      "species": {
+        "scientificNameWithoutAuthor": "Quercus virginiana",
+        "scientificNameAuthorship": "Mill.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Quercus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Quercus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fagaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fagaceae"
+        },
+        "commonNames": [
+          "Southern live oak",
+          "Live oak",
+          "Virginia Live Oak"
+        ],
+        "scientificName": "Quercus virginiana Mill."
+      },
+      "gbif": {
+        "id": "2878092"
+      },
+      "powo": {
+        "id": "324846-2"
+      },
+      "iucn": {
+        "id": "194245",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.07355,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus religiosa",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Peepal tree",
+          "Sacred fig",
+          "\u0c30\u0c3e\u0c35\u0c3f"
+        ],
+        "scientificName": "Ficus religiosa L."
+      },
+      "gbif": {
+        "id": "5361935"
+      },
+      "powo": {
+        "id": "853563-1"
+      },
+      "iucn": {
+        "id": "150222331",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.06915,
+      "species": {
+        "scientificNameWithoutAuthor": "Inga laurina",
+        "scientificNameAuthorship": "(Sw.) Willd.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Inga",
+          "scientificNameAuthorship": "",
+          "scientificName": "Inga"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Guam\u00e1",
+          "Sacky sac bean",
+          "Red Wood"
+        ],
+        "scientificName": "Inga laurina (Sw.) Willd."
+      },
+      "gbif": {
+        "id": "5358039"
+      },
+      "powo": {
+        "id": "1199545-2"
+      },
+      "iucn": {
+        "id": "136789974",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.04836,
+      "species": {
+        "scientificNameWithoutAuthor": "Pistacia atlantica",
+        "scientificNameAuthorship": "Desf.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Pistacia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Pistacia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Anacardiaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Anacardiaceae"
+        },
+        "commonNames": [
+          "Atlantic mastic tree",
+          "Atlantic Pistachio",
+          "Cashew"
+        ],
+        "scientificName": "Pistacia atlantica Desf."
+      },
+      "gbif": {
+        "id": "3190581"
+      },
+      "powo": {
+        "id": "70236-1"
+      },
+      "iucn": {
+        "id": "19365844",
+        "category": "NT"
+      }
+    },
+    {
+      "score": 0.03978,
+      "species": {
+        "scientificNameWithoutAuthor": "Swietenia mahagoni",
+        "scientificNameAuthorship": "(L.) Jacq.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Swietenia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Swietenia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Meliaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Meliaceae"
+        },
+        "commonNames": [
+          "Cuban mahogany",
+          "West Indian mahogany",
+          "Spanish mahogany"
+        ],
+        "scientificName": "Swietenia mahagoni (L.) Jacq."
+      },
+      "gbif": {
+        "id": "3190485"
+      },
+      "powo": {
+        "id": "1080203-2"
+      },
+      "iucn": {
+        "id": "32519",
+        "category": "NT"
+      }
+    }
+  ]
+}
