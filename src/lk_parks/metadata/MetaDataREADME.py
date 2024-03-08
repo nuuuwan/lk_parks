@@ -40,10 +40,12 @@ class MetaDataREADME:
             f'{self.confidence_emoji} {self.confidence:.1%} |',
             f'| **Other Candidates** | {self.other_candidates_pretty} |',
             '|  |  |',
+
             f'| **Time** | {self.time_str} |',
+            f'| **Camera Direction** | {self.direction_pretty} |',
             f'| **Location** | {self.google_maps_link} |',
             f'| **Altitude** | {self.alt:.1f}m |',
-            f'| **Camera Direction** | {self.direction_pretty} |',
+
         ]
 
     # README

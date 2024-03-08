@@ -2,7 +2,7 @@ import os
 from dataclasses import dataclass
 from functools import cache
 
-from utils import TIME_FORMAT_TIME, JSONFile, Log, Time
+from utils import JSONFile, Log, Time, TimeFormat
 
 log = Log('MetaData')
 
@@ -18,6 +18,7 @@ class MetaDataBase:
     plantnet_results: list[dict]
 
     DIR_DATA_METADATA = os.path.join('data', 'metadata')
+    TIME_FORMAT = TimeFormat('%H:%m %p (%b %d, %Y)')
 
     def __dict__(self) -> dict:
         return dict(
@@ -32,7 +33,7 @@ class MetaDataBase:
 
     @property
     def time_str(self) -> str:
-        return TIME_FORMAT_TIME.stringify(Time(self.ut))
+        return MetaDataBase.TIME_FORMAT.stringify(Time(self.ut))
 
     @property
     def image_path_unix(self) -> str:
@@ -88,7 +89,7 @@ class MetaDataBase:
     def summary(cls) -> dict:
         md_list = cls.list_all()
 
-        def count(key_lambda):
+        def get_key_to_n(key_lambda):
             key_to_n = {}
             for md in cls.list_all():
                 key = key_lambda(md)
@@ -104,7 +105,7 @@ class MetaDataBase:
 
         return dict(
             n=len(md_list),
-            family_to_n=count(lambda md: md.family),
-            genus_to_n=count(lambda md: f'{md.genus} ({md.family})'),
-            species_to_n=count(lambda md: md.scientific_name),
+            family_to_n=get_key_to_n(lambda md: md.family),
+            genus_to_n=get_key_to_n(lambda md: f'{md.genus} ({md.family})'),
+            species_to_n=get_key_to_n(lambda md: md.scientific_name),
         )
