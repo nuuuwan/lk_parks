@@ -93,46 +93,9 @@ class MetaDataREADME:
 
         ]
 
-    # README
-    @classmethod
-    def lines_summary(cls):
-        summary = cls.summary()
-        n = summary['n']
-        n_families = len(summary['family_to_n'])
-        n_genera = len(summary['genus_to_n'])
-        n_species = len(summary['species_to_n'])
-
-        def common(key_to_n):
-            N_DISPLAY = 5
-            lines = [
-                f'{key} ({n})' for key,
-                n in list(
-                    key_to_n.items())[
-                    :N_DISPLAY]]
-            return ', '.join(
-                lines)
-
-        common_families = common(summary['family_to_n'])
-        common_genera = common(summary['genus_to_n'])
-        common_species = common(summary['species_to_n'])
-
-        lines = [
-            '## Summary Statistics',
-            '',
-            '|  |  |  |',
-            '| --- | ---: | --- |',
-            f'| **Unique Families** | {n_families} | {common_families} |',
-            f'| **Unique Genera** | {n_genera} | {common_genera} |',
-            f'| **Unique Species** | {n_species} | {common_species} |',
-            f'| **Total Plants** | {n} | |',
-
-        ]
-        return lines
-
     @classmethod
     def build_readme(cls):
         lines = ['# Viharamahadevi Park, Colombo, Sri Lanka', '']
-        lines.extend(cls.lines_summary())
         for md in cls.list_all():
             lines.append(f'## {md.title}')
             lines.append('')
