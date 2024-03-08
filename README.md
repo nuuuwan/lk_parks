@@ -1087,7 +1087,7 @@
 
 *(Sweet) Bay leaf, Bay Laurel, Sweet bay*
 
-
+*සි: This plant of Mediterranean origin is not known in Sinhala., த: click for a short note and images in Wikipedia*
 
 |  |  |
 | --- | --- |

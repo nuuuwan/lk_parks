@@ -1,5 +1,5 @@
 import os
-from functools import cached_property
+from functools import cache, cached_property
 
 import requests
 from bs4 import BeautifulSoup
@@ -11,6 +11,10 @@ log = Log('NameTranslator')
 class NameTranslator:
     URL_SOURCE = 'https://dh-web.org/place.names/bot2sinhala.html'
     JSON_PATH = os.path.join('data', 'name_translations.json')
+
+    def cleanup(self):
+        if self.json_file.exists:
+            os.remove(self.json_file.path)
 
     @staticmethod
     def extract_text(elem):
@@ -26,8 +30,11 @@ class NameTranslator:
                 columns = row.find_all('td')
                 if len(columns) != 5:
                     continue
-                scientific_name = columns[0].text.strip()
-                scientific_name = ' '.join(scientific_name.split(' ')[:2])
+                scientific_name_tokens = columns[0].text.strip().split(' ')
+                if len(scientific_name_tokens) < 2:
+                    continue
+                genus, species = scientific_name_tokens[:2]
+                scientific_name = ' '.join([genus.title(), species.lower()])
                 sinhala = NameTranslator.extract_text(columns[1])
                 pali_sanskrit = NameTranslator.extract_text(columns[2])
                 tamil = NameTranslator.extract_text(columns[3])
@@ -53,5 +60,6 @@ class NameTranslator:
             )
         return self.json_file.read()
 
+    @cache
     def get(self, scientific_name):
         return self.idx.get(scientific_name, None)

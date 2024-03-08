@@ -2,7 +2,9 @@ from lk_parks import NameTranslator
 
 
 def main():
-    print(NameTranslator().get('Terminalia arjuna'))
+    nt = NameTranslator()
+    nt.cleanup()
+    print(nt.get('Terminalia arjuna'))
 
 
 if __name__ == "__main__":
