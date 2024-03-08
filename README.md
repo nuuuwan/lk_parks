@@ -4,9 +4,9 @@
 
 ### *[`Avicennia marina`](https://en.wikipedia.org/wiki/Avicennia_marina)* (Forssk.) Vierh.
 
-*`සි` *Manda* `த` *Kanna* `E` Grey mangrove, White mangrove, Gray mangrove*
-
 [GBIF-2925403](https://www.gbif.org/species/2925403) · [POWO-861130-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:861130-1) · [IUCN-178828](https://www.iucnredlist.org/search?query=Avicennia+marina&searchType=species) · 🟢 Least Concern (LC)
+
+*`සි` *Manda* `த` *Kanna* `E` Grey mangrove, White mangrove, Gray mangrove*
 
 (1 Example)
 
@@ -22,9 +22,9 @@
 
 ### *[`Anacardium occidentale`](https://en.wikipedia.org/wiki/Anacardium_occidentale)* L.
 
-*`සි` *Kadju, kaju* `த` *muntiri, andimangottai* `E` Cashew, Cashewnut, Pomifera*
-
 [GBIF-5421368](https://www.gbif.org/species/5421368) · [POWO-319068-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:319068-2) · [IUCN-60761600](https://www.iucnredlist.org/search?query=Anacardium+occidentale&searchType=species) · 🟢 Least Concern (LC)
+
+*`සි` *Kadju, kaju* `த` *muntiri, andimangottai* `E` Cashew, Cashewnut, Pomifera*
 
 (1 Example)
 
@@ -38,9 +38,9 @@
 
 ### *[`Mangifera indica`](https://en.wikipedia.org/wiki/Mangifera_indica)* L.
 
-*`සි` *Mee Amba, amba* `த` *Ma, Mamaram, Amiram, Mangai* `E` Mango, Mango Tree, आम*
-
 [GBIF-3190638](https://www.gbif.org/species/3190638) · [POWO-69913-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:69913-1) · [IUCN-31389](https://www.iucnredlist.org/search?query=Mangifera+indica&searchType=species) · ⚪ Data Deficient (DD)
+
+*`සි` *Mee Amba, amba* `த` *Ma, Mamaram, Amiram, Mangai* `E` Mango, Mango Tree, आम*
 
 (3 Examples)
 
@@ -66,9 +66,9 @@
 
 ### *[`Spondias purpurea`](https://en.wikipedia.org/wiki/Spondias_purpurea)* L.
 
-*`E` Purple mombin, Red mombin, Spanish-plum*
-
 [GBIF-3190598](https://www.gbif.org/species/3190598) · [POWO-71494-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:71494-1) · [IUCN-144248337](https://www.iucnredlist.org/search?query=Spondias+purpurea&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Purple mombin, Red mombin, Spanish-plum*
 
 (1 Example)
 
@@ -84,9 +84,9 @@
 
 ### *[`Monodora tenuifolia`](https://en.wikipedia.org/wiki/Monodora_tenuifolia)* Benth.
 
-*`E` Orchidtree, African-nutmeg*
-
 [GBIF-3154093](https://www.gbif.org/species/3154093) · [POWO-74147-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:74147-1) · [IUCN-132683676](https://www.iucnredlist.org/search?query=Monodora+tenuifolia&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Orchidtree, African-nutmeg*
 
 (1 Example)
 
@@ -102,9 +102,9 @@
 
 ### *[`Allamanda cathartica`](https://en.wikipedia.org/wiki/Allamanda_cathartica)* L.
 
-*`සි` *Val Ruk Attana* `E` Golden-trumpet, Allamanda, Yellow allamanda*
-
 [GBIF-3169836](https://www.gbif.org/species/3169836) · [POWO-319065-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:319065-2) · (No Data)
+
+*`සි` *Val Ruk Attana* `E` Golden-trumpet, Allamanda, Yellow allamanda*
 
 (1 Example)
 
@@ -118,9 +118,9 @@
 
 ### *[`Carissa carandas`](https://en.wikipedia.org/wiki/Carissa_carandas)* L.
 
-*`සි` *Karanda, Maha Karamba* `த` *kila, kala* `E` Bengal-currants, Carandas-plum, Karanda*
-
 [GBIF-5414419](https://www.gbif.org/species/5414419) · [POWO-77691-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77691-1) · (No Data)
+
+*`සි` *Karanda, Maha Karamba* `த` *kila, kala* `E` Bengal-currants, Carandas-plum, Karanda*
 
 (1 Example)
 
@@ -134,9 +134,9 @@
 
 ### *[`Plumeria obtusa`](https://en.wikipedia.org/wiki/Plumeria_obtusa)* L.
 
-*`E` Frangipani, Singapore graveyard flower, దేవ గన్నేరు*
-
 [GBIF-3169677](https://www.gbif.org/species/3169677) · [POWO-81256-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:81256-1) · [IUCN-156770956](https://www.iucnredlist.org/search?query=Plumeria+obtusa&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Frangipani, Singapore graveyard flower, దేవ గన్నేరు*
 
 (2 Examples)
 
@@ -156,9 +156,9 @@
 
 ### *[`Tabernaemontana divaricata`](https://en.wikipedia.org/wiki/Tabernaemontana_divaricata)* (L.) R.Br. ex Roem. & Schult.
 
-*`සි` *Wathu sudda, Watusudda, Watu sudda, Vathu sudda, Vathu sudda* `த` *adukkunandiyavattai, nandi battai, Nandiar vattai* `E` Crape-jasmine, Butterfly-gardenia, నందివర్ధనం*
-
 [GBIF-3169625](https://www.gbif.org/species/3169625) · [POWO-82097-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:82097-1) · [IUCN-149853146](https://www.iucnredlist.org/search?query=Tabernaemontana+divaricata&searchType=species) · 🟢 Least Concern (LC)
+
+*`සි` *Wathu sudda, Watusudda, Watu sudda, Vathu sudda, Vathu sudda* `த` *adukkunandiyavattai, nandi battai, Nandiar vattai* `E` Crape-jasmine, Butterfly-gardenia, నందివర్ధనం*
 
 (1 Example)
 
@@ -172,9 +172,9 @@
 
 ### *[`Trachelospermum jasminoides`](https://en.wikipedia.org/wiki/Trachelospermum_jasminoides)* (Lindl.) Lem.
 
-*`E` Star jasmine, Confederate jasmine, Chinese star-jessamine*
-
 [GBIF-3169713](https://www.gbif.org/species/3169713) · [POWO-82553-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:82553-1) · (No Data)
+
+*`E` Star jasmine, Confederate jasmine, Chinese star-jessamine*
 
 (1 Example)
 
@@ -190,9 +190,9 @@
 
 ### *[`Dictyosperma album`](https://en.wikipedia.org/wiki/Dictyosperma_album)* (Bory) Scheff.
 
-*`E` Common princess palm, Hurricane palm*
-
 [GBIF-5293187](https://www.gbif.org/species/5293187) · [POWO-666678-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:666678-1) · (No Data)
+
+*`E` Common princess palm, Hurricane palm*
 
 (1 Example)
 
@@ -206,9 +206,9 @@
 
 ### *[`Roystonea regia`](https://en.wikipedia.org/wiki/Roystonea_regia)* (Kunth) O.F.Cook
 
-*`E` Cuban royal palm, Florida royal palm, Royal palm*
-
 [GBIF-2733755](https://www.gbif.org/species/2733755) · [POWO-222809-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:222809-2) · [IUCN-62329](https://www.iucnredlist.org/search?query=Roystonea+regia&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Cuban royal palm, Florida royal palm, Royal palm*
 
 (3 Examples)
 
@@ -234,9 +234,9 @@
 
 ### *[`Wodyetia bifurcata`](https://en.wikipedia.org/wiki/Wodyetia_bifurcata)* A.K.Irvine
 
-*`E` Foxtail palm*
-
 [GBIF-2736620](https://www.gbif.org/species/2736620) · [POWO-903383-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:903383-1) · [IUCN-38733](https://www.iucnredlist.org/search?query=Wodyetia+bifurcata&searchType=species) · Unknown Category (LR/cd)
+
+*`E` Foxtail palm*
 
 (1 Example)
 
@@ -252,9 +252,9 @@
 
 ### *[`Betula nigra`](https://en.wikipedia.org/wiki/Betula_nigra)* L.
 
-*`E` River birch, Red birch, Black Birch*
-
 [GBIF-5331532](https://www.gbif.org/species/5331532) · [POWO-295155-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:295155-1) · [IUCN-194551](https://www.iucnredlist.org/search?query=Betula+nigra&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` River birch, Red birch, Black Birch*
 
 (1 Example)
 
@@ -270,9 +270,9 @@
 
 ### *[`Tabebuia pallida`](https://en.wikipedia.org/wiki/Tabebuia_pallida)* (Lindl.) Miers
 
-*`E` Cuban pink trumpet-tree, White-cedar, Whitewood*
-
 [GBIF-3172527](https://www.gbif.org/species/3172527) · [POWO-110996-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:110996-1) · [IUCN-61986231](https://www.iucnredlist.org/search?query=Tabebuia+pallida&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Cuban pink trumpet-tree, White-cedar, Whitewood*
 
 (2 Examples)
 
@@ -290,9 +290,9 @@
 
 ### *[`Tabebuia rosea`](https://en.wikipedia.org/wiki/Tabebuia_rosea)* (Bertol.) Bertero ex A.DC.
 
-*`E` Pink poui, Pink trumpet-tree, Rosy trumpet-tree*
-
 [GBIF-3172537](https://www.gbif.org/species/3172537) · [POWO-111027-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:111027-1) · [IUCN-61986278](https://www.iucnredlist.org/search?query=Tabebuia+rosea&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Pink poui, Pink trumpet-tree, Rosy trumpet-tree*
 
 (6 Examples)
 
@@ -338,9 +338,9 @@
 
 ### *[`Cordia dichotoma`](https://en.wikipedia.org/wiki/Cordia_dichotoma)* G.Forst.
 
-*`த` *naruvili* `E` Fragrant manjack, Indian-cherry, Clammy-cherry*
-
 [GBIF-5341270](https://www.gbif.org/species/5341270) · [POWO-114098-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:114098-1) · [IUCN-61986401](https://www.iucnredlist.org/search?query=Cordia+dichotoma&searchType=species) · 🟢 Least Concern (LC)
+
+*`த` *naruvili* `E` Fragrant manjack, Indian-cherry, Clammy-cherry*
 
 (1 Example)
 
@@ -356,9 +356,9 @@
 
 ### *[`Mesua ferrea`](https://en.wikipedia.org/wiki/Mesua_ferrea)* L.
 
-*`සි` *Na, Naa* `த` *nangu, cirunakappu* `E` Mesua, Iron Wood Tree, Ceylon Ironwood*
-
 [GBIF-7330039](https://www.gbif.org/species/7330039) · [POWO-428832-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:428832-1) · (No Data)
+
+*`සි` *Na, Naa* `த` *nangu, cirunakappu* `E` Mesua, Iron Wood Tree, Ceylon Ironwood*
 
 (1 Example)
 
@@ -374,9 +374,9 @@
 
 ### *[`Caryocar brasiliense`](https://en.wikipedia.org/wiki/Caryocar_brasiliense)* A.St.-Hil.
 
-*`E` Pequi, Piki, Pekea nut*
-
 [GBIF-3189663](https://www.gbif.org/species/3189663) · [POWO-828593-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:828593-1) · [IUCN-144313008](https://www.iucnredlist.org/search?query=Caryocar+brasiliense&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Pequi, Piki, Pekea nut*
 
 (1 Example)
 
@@ -392,9 +392,9 @@
 
 ### *[`Casuarina equisetifolia`](https://en.wikipedia.org/wiki/Casuarina_equisetifolia)* L.
 
-*`E` Beach sheoak, Australian beefwood, Australian-pine*
-
 [GBIF-2891930](https://www.gbif.org/species/2891930) · [POWO-159856-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:159856-1) · [IUCN-16728404](https://www.iucnredlist.org/search?query=Casuarina+equisetifolia&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Beach sheoak, Australian beefwood, Australian-pine*
 
 (3 Examples)
 
@@ -422,9 +422,9 @@
 
 ### *[`Moquilea tomentosa`](https://en.wikipedia.org/wiki/Moquilea_tomentosa)* Benth.
 
-*`E` Oiti (Portuguese GRIN )*
-
 [GBIF-2985500](https://www.gbif.org/species/2985500) · [POWO-726782-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:726782-1) · [IUCN-189620212](https://www.iucnredlist.org/search?query=Moquilea+tomentosa&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Oiti (Portuguese GRIN )*
 
 (1 Example)
 
@@ -440,9 +440,9 @@
 
 ### *[`Terminalia arjuna`](https://en.wikipedia.org/wiki/Terminalia_arjuna)* (Roxb. ex DC.) Wight & Arn.
 
-*`සි` *Kumbuk* `த` *maruthu, marutu* `E` Arjun, White murdh, Kumbuk*
-
 [GBIF-3699548](https://www.gbif.org/species/3699548) · [POWO-170962-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:170962-1) · (No Data)
+
+*`සි` *Kumbuk* `த` *maruthu, marutu* `E` Arjun, White murdh, Kumbuk*
 
 (2 Examples)
 
@@ -460,9 +460,9 @@
 
 ### *[`Terminalia catappa`](https://en.wikipedia.org/wiki/Terminalia_catappa)* L.
 
-*`සි` *Kottan, Kottamba* `த` *nattuvadumai, nattu vadam* `E` Tropical almond, Indian-almond, Country-almond*
-
 [GBIF-3189394](https://www.gbif.org/species/3189394) · [POWO-171034-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:171034-1) · [IUCN-61989853](https://www.iucnredlist.org/search?query=Terminalia+catappa&searchType=species) · 🟢 Least Concern (LC)
+
+*`සි` *Kottan, Kottamba* `த` *nattuvadumai, nattu vadam* `E` Tropical almond, Indian-almond, Country-almond*
 
 (1 Example)
 
@@ -474,9 +474,9 @@
 
 ### *[`Terminalia mantaly`](https://en.wikipedia.org/wiki/Terminalia_mantaly)* H.Perrier
 
-*`E` Satellite Tree., Amandier de Madagascar, Ketapang Kencana*
-
 [GBIF-3699873](https://www.gbif.org/species/3699873) · [POWO-171229-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:171229-1) · [IUCN-128091369](https://www.iucnredlist.org/search?query=Terminalia+mantaly&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Satellite Tree., Amandier de Madagascar, Ketapang Kencana*
 
 (1 Example)
 
@@ -492,9 +492,9 @@
 
 ### *[`Diospyros buxifolia`](https://en.wikipedia.org/wiki/Diospyros_buxifolia)* (Blume) Hiern
 
-*`E` Black ebony*
-
 [GBIF-4070235](https://www.gbif.org/species/4070235) · [POWO-322176-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:322176-1) · [IUCN-173387](https://www.iucnredlist.org/search?query=Diospyros+buxifolia&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Black ebony*
 
 (1 Example)
 
@@ -510,9 +510,9 @@
 
 ### *[`Acalypha wilkesiana`](https://en.wikipedia.org/wiki/Acalypha_wilkesiana)* Müll.Arg.
 
-*`E` Copper leaf, Capa de obispo, Beefsteak plant*
-
 [GBIF-3057221](https://www.gbif.org/species/3057221) · [POWO-337939-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:337939-1) · (No Data)
+
+*`E` Copper leaf, Capa de obispo, Beefsteak plant*
 
 (1 Example)
 
@@ -528,9 +528,9 @@
 
 ### *[`Afzelia africana`](https://en.wikipedia.org/wiki/Afzelia_africana)* Sm. ex Pers.
 
-*`E` African-mahogany, Afzelia*
-
 [GBIF-5358300](https://www.gbif.org/species/5358300) · [POWO-473043-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:473043-1) · [IUCN-33032](https://www.iucnredlist.org/search?query=Afzelia+africana&searchType=species) · 🟡 Vulnerable (VU)
+
+*`E` African-mahogany, Afzelia*
 
 (1 Example)
 
@@ -544,9 +544,9 @@
 
 ### *[`Bauhinia variegata`](https://en.wikipedia.org/wiki/Bauhinia_variegata)* L.
 
-*`සි` *Sinhala Koboleela, a type of Udavaedia plant* `த` *Tamil segappumandrai, tiruvatti* `E` Mountain ebony, Orchidtree, Butterfly tree*
-
 [GBIF-2953251](https://www.gbif.org/species/2953251) · [POWO-481756-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:481756-1) · [IUCN-19893142](https://www.iucnredlist.org/search?query=Bauhinia+variegata&searchType=species) · 🟢 Least Concern (LC)
+
+*`සි` *Sinhala Koboleela, a type of Udavaedia plant* `த` *Tamil segappumandrai, tiruvatti* `E` Mountain ebony, Orchidtree, Butterfly tree*
 
 (1 Example)
 
@@ -560,9 +560,9 @@
 
 ### *[`Cassia fistula`](https://en.wikipedia.org/wiki/Cassia_fistula)* L.
 
-*`සි` *Aehaela, Ehela* `த` *konrai, konnai, Mullaimaram* `E` Golden Shower Tree, Indian-laburnum, Amaltas*
-
 [GBIF-5357108](https://www.gbif.org/species/5357108) · [POWO-484507-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:484507-1) · [IUCN-136142327](https://www.iucnredlist.org/search?query=Cassia+fistula&searchType=species) · 🟢 Least Concern (LC)
+
+*`සි` *Aehaela, Ehela* `த` *konrai, konnai, Mullaimaram* `E` Golden Shower Tree, Indian-laburnum, Amaltas*
 
 (2 Examples)
 
@@ -580,9 +580,9 @@
 
 ### *[`Cassia grandis`](https://en.wikipedia.org/wiki/Cassia_grandis)* L.f.
 
-*`E` Appleblossom cassia, Coral shower, Horse cassia*
-
 [GBIF-5357158](https://www.gbif.org/species/5357158) · [POWO-484607-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:484607-1) · [IUCN-144277575](https://www.iucnredlist.org/search?query=Cassia+grandis&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Appleblossom cassia, Coral shower, Horse cassia*
 
 (1 Example)
 
@@ -596,9 +596,9 @@
 
 ### *[`Delonix regia`](https://en.wikipedia.org/wiki/Delonix_regia)* (Bojer) Raf.
 
-*`E` Flamboyant, Flame-of-the-forest, Flametree*
-
 [GBIF-2956176](https://www.gbif.org/species/2956176) · (No Data) · [IUCN-32947](https://www.iucnredlist.org/search?query=Delonix+regia&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Flamboyant, Flame-of-the-forest, Flametree*
 
 (1 Example)
 
@@ -612,9 +612,9 @@
 
 ### *[`Erythrina poeppigiana`](https://en.wikipedia.org/wiki/Erythrina_poeppigiana)* (Walp.) O.F.Cook
 
-*`E` Coral tree, Immortelle-tree, Mountain immortelle*
-
 [GBIF-5349755](https://www.gbif.org/species/5349755) · [POWO-96637-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:96637-2) · [IUCN-144314476](https://www.iucnredlist.org/search?query=Erythrina+poeppigiana&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Coral tree, Immortelle-tree, Mountain immortelle*
 
 (1 Example)
 
@@ -628,9 +628,9 @@
 
 ### *[`Inga edulis`](https://en.wikipedia.org/wiki/Inga_edulis)* Mart.
 
-*`E` Ice-cream-bean, Guaba, Pois Doux*
-
 [GBIF-5357677](https://www.gbif.org/species/5357677) · [POWO-128478-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:128478-2) · [IUCN-137640618](https://www.iucnredlist.org/search?query=Inga+edulis&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Ice-cream-bean, Guaba, Pois Doux*
 
 (1 Example)
 
@@ -642,9 +642,9 @@
 
 ### *[`Inga uraguensis`](https://en.wikipedia.org/wiki/Inga_uraguensis)* Hook. & Arn.
 
-*`E` -*
-
 [GBIF-5357546](https://www.gbif.org/species/5357546) · [POWO-128804-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:128804-2) · [IUCN-62026250](https://www.iucnredlist.org/search?query=Inga+uraguensis&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` -*
 
 (1 Example)
 
@@ -658,9 +658,9 @@
 
 ### *[`Paubrasilia echinata`](https://en.wikipedia.org/wiki/Paubrasilia_echinata)* (Lam.) Gagnon, H.C.Lima & G.P.Lewis
 
-*`E` Orabutá (Portuguese), Pau-rosado (Portuguese)*
-
 [GBIF-9119360](https://www.gbif.org/species/9119360) · [POWO-77158012-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77158012-1) · [IUCN-33974](https://www.iucnredlist.org/search?query=Paubrasilia+echinata&searchType=species) · 🟠 Endangered (EN)
+
+*`E` Orabutá (Portuguese), Pau-rosado (Portuguese)*
 
 (2 Examples)
 
@@ -680,9 +680,9 @@
 
 ### *[`Vachellia nilotica`](https://en.wikipedia.org/wiki/Vachellia_nilotica)* (L.) P.J.H.Hurter & Mabb.
 
-*`E` Gum arabic tree, Black Piquant, Cassie*
-
 [GBIF-3974744](https://www.gbif.org/species/3974744) · [POWO-77089275-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77089275-1) · [IUCN-158379](https://www.iucnredlist.org/search?query=Vachellia+nilotica&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Gum arabic tree, Black Piquant, Cassie*
 
 (1 Example)
 
@@ -698,9 +698,9 @@
 
 ### *[`Quercus virginiana`](https://en.wikipedia.org/wiki/Quercus_virginiana)* Mill.
 
-*`E` Southern live oak, Live oak, Virginia Live Oak*
-
 [GBIF-2878092](https://www.gbif.org/species/2878092) · [POWO-324846-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:324846-2) · [IUCN-194245](https://www.iucnredlist.org/search?query=Quercus+virginiana&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Southern live oak, Live oak, Virginia Live Oak*
 
 (1 Example)
 
@@ -716,9 +716,9 @@
 
 ### *[`Juglans nigra`](https://en.wikipedia.org/wiki/Juglans_nigra)* L.
 
-*`E` Black walnut, American Walnut, Otaesémenôtse*
-
 [GBIF-3054357](https://www.gbif.org/species/3054357) · [POWO-279034-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:279034-2) · [IUCN-62019712](https://www.iucnredlist.org/search?query=Juglans+nigra&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Black walnut, American Walnut, Otaesémenôtse*
 
 (1 Example)
 
@@ -730,9 +730,9 @@
 
 ### *[`Juglans regia`](https://en.wikipedia.org/wiki/Juglans_regia)* L.
 
-*`සි` *Aettakottam* `E` Black Walnut, English walnut, Carpathian walnut*
-
 [GBIF-3054368](https://www.gbif.org/species/3054368) · [POWO-442427-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:442427-1) · [IUCN-63495](https://www.iucnredlist.org/search?query=Juglans+regia&searchType=species) · 🟢 Least Concern (LC)
+
+*`සි` *Aettakottam* `E` Black Walnut, English walnut, Carpathian walnut*
 
 (1 Example)
 
@@ -748,9 +748,9 @@
 
 ### *[`Tectona grandis`](https://en.wikipedia.org/wiki/Tectona_grandis)* L.f.
 
-*`සි` *The kka signify long sound* `த` *thekku* `E` Teak, Bankok teak, Indian-oak*
-
 [GBIF-2925649](https://www.gbif.org/species/2925649) · [POWO-864923-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:864923-1) · [IUCN-62019830](https://www.iucnredlist.org/search?query=Tectona+grandis&searchType=species) · 🟠 Endangered (EN)
+
+*`සි` *The kka signify long sound* `த` *thekku* `E` Teak, Bankok teak, Indian-oak*
 
 (1 Example)
 
@@ -766,9 +766,9 @@
 
 ### *[`Cinnamomum camphora`](https://en.wikipedia.org/wiki/Cinnamomum_camphora)* (L.) J.Presl
 
-*`සි` *Kapuru* `த` *karppuram* `E` Camphor-laurel, Camphortree, Japanese camphor*
-
 [GBIF-3033991](https://www.gbif.org/species/3033991) · [POWO-463336-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:463336-1) · [IUCN-15441072](https://www.iucnredlist.org/search?query=Cinnamomum+camphora&searchType=species) · 🟢 Least Concern (LC)
+
+*`සි` *Kapuru* `த` *karppuram* `E` Camphor-laurel, Camphortree, Japanese camphor*
 
 (1 Example)
 
@@ -782,9 +782,9 @@
 
 ### *[`Laurus nobilis`](https://en.wikipedia.org/wiki/Laurus_nobilis)* L.
 
-*`සි` *This plant of Mediterranean origin is not known in Sinhala* `த` *click for a short note and images in Wikipedia* `E` (Sweet) Bay leaf, Bay Laurel, Sweet bay*
-
 [GBIF-3034015](https://www.gbif.org/species/3034015) · [POWO-465049-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:465049-1) · [IUCN-203351](https://www.iucnredlist.org/search?query=Laurus+nobilis&searchType=species) · 🟢 Least Concern (LC)
+
+*`සි` *This plant of Mediterranean origin is not known in Sinhala* `த` *click for a short note and images in Wikipedia* `E` (Sweet) Bay leaf, Bay Laurel, Sweet bay*
 
 (1 Example)
 
@@ -800,9 +800,9 @@
 
 ### *[`Bunchosia armeniaca`](https://en.wikipedia.org/wiki/Bunchosia_armeniaca)* (Cav.) DC.
 
-*`E` Peanut butter fruit, Sunset fruit*
-
 [GBIF-7285310](https://www.gbif.org/species/7285310) · [POWO-555884-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:555884-1) · (No Data)
+
+*`E` Peanut butter fruit, Sunset fruit*
 
 (1 Example)
 
@@ -818,9 +818,9 @@
 
 ### *[`Hibiscus rosa-sinensis`](https://en.wikipedia.org/wiki/Hibiscus_rosa-sinensis)* L.
 
-*`E` Hawaiian hibiscus, Hibiscus, गुड़हल*
-
 [GBIF-3152559](https://www.gbif.org/species/3152559) · [POWO-560756-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:560756-1) · (No Data)
+
+*`E` Hawaiian hibiscus, Hibiscus, गुड़हल*
 
 (1 Example)
 
@@ -836,9 +836,9 @@
 
 ### *[`Swietenia mahagoni`](https://en.wikipedia.org/wiki/Swietenia_mahagoni)* (L.) Jacq.
 
-*`E` Cuban mahogany, West Indian mahogany, Spanish mahogany*
-
 [GBIF-3190485](https://www.gbif.org/species/3190485) · [POWO-1080203-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1080203-2) · [IUCN-32519](https://www.iucnredlist.org/search?query=Swietenia+mahagoni&searchType=species) · 🟡 Near Threatened (NT)
+
+*`E` Cuban mahogany, West Indian mahogany, Spanish mahogany*
 
 (1 Example)
 
@@ -852,9 +852,9 @@
 
 ### *[`Toona ciliata`](https://en.wikipedia.org/wiki/Toona_ciliata)* M.Roem.
 
-*`E` Red Cedar, Australian redcedar, Australian red-cedar*
-
 [GBIF-3190472](https://www.gbif.org/species/3190472) · [POWO-579299-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:579299-1) · [IUCN-31332](https://www.iucnredlist.org/search?query=Toona+ciliata&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Red Cedar, Australian redcedar, Australian red-cedar*
 
 (3 Examples)
 
@@ -882,9 +882,9 @@
 
 ### *[`Artocarpus heterophyllus`](https://en.wikipedia.org/wiki/Artocarpus_heterophyllus)* Lam.
 
-*`සි` *Herali, Kos, Vaela, Waraka see Artocarpus Indica* `த` *pila, pala, Palavu Tamil* `E` Jackfruit, কাঠাল, పనస*
-
 [GBIF-2984565](https://www.gbif.org/species/2984565) · [POWO-850389-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:850389-1) · (No Data)
+
+*`සි` *Herali, Kos, Vaela, Waraka see Artocarpus Indica* `த` *pila, pala, Palavu Tamil* `E` Jackfruit, কাঠাল, పనస*
 
 (2 Examples)
 
@@ -904,9 +904,9 @@
 
 ### *[`Ficus aurea`](https://en.wikipedia.org/wiki/Ficus_aurea)* Nutt.
 
-*`E` Florida strangler, Florida strangler fig*
-
 [GBIF-5361923](https://www.gbif.org/species/5361923) · [POWO-852451-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:852451-1) · [IUCN-181217702](https://www.iucnredlist.org/search?query=Ficus+aurea&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Florida strangler, Florida strangler fig*
 
 (1 Example)
 
@@ -918,9 +918,9 @@
 
 ### *[`Ficus benghalensis`](https://en.wikipedia.org/wiki/Ficus_benghalensis)* L.
 
-*`සි` *Nuga, Mahanuga* `த` *alamaram, kottam , Nakar, Nakaram, Niyaman* `E` Indian banyan, Ficus Audrey, Bengal banyan*
-
 [GBIF-5361919](https://www.gbif.org/species/5361919) · [POWO-852482-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:852482-1) · (No Data)
+
+*`සි` *Nuga, Mahanuga* `த` *alamaram, kottam , Nakar, Nakaram, Niyaman* `E` Indian banyan, Ficus Audrey, Bengal banyan*
 
 (2 Examples)
 
@@ -938,9 +938,9 @@
 
 ### *[`Ficus elastica`](https://en.wikipedia.org/wiki/Ficus_elastica)* Roxb. ex Hornem.
 
-*`E` Rubberplant, فیکوس, فیکوس الاستیکا*
-
 [GBIF-5361903](https://www.gbif.org/species/5361903) · [POWO-60458499-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60458499-2) · [IUCN-116271522](https://www.iucnredlist.org/search?query=Ficus+elastica&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Rubberplant, فیکوس, فیکوس الاستیکا*
 
 (2 Examples)
 
@@ -958,9 +958,9 @@
 
 ### *[`Ficus insipida`](https://en.wikipedia.org/wiki/Ficus_insipida)* Willd.
 
-*`E` -*
-
 [GBIF-6358534](https://www.gbif.org/species/6358534) · [POWO-853024-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:853024-1) · [IUCN-61886011](https://www.iucnredlist.org/search?query=Ficus+insipida&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` -*
 
 (1 Example)
 
@@ -972,9 +972,9 @@
 
 ### *[`Ficus religiosa`](https://en.wikipedia.org/wiki/Ficus_religiosa)* L.
 
-*`සි` *Bo, Bodhi* `த` *asvattam, arasu* `E` Peepal tree, Sacred fig, రావి*
-
 [GBIF-5361935](https://www.gbif.org/species/5361935) · [POWO-853563-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:853563-1) · [IUCN-150222331](https://www.iucnredlist.org/search?query=Ficus+religiosa&searchType=species) · 🟢 Least Concern (LC)
+
+*`සි` *Bo, Bodhi* `த` *asvattam, arasu* `E` Peepal tree, Sacred fig, రావి*
 
 (1 Example)
 
@@ -986,9 +986,9 @@
 
 ### *[`Ficus retusa`](https://en.wikipedia.org/wiki/Ficus_retusa)* L.
 
-*`E` Indian laurel, Indian Laurel Fig, Ficus nitida*
-
 [GBIF-3765871](https://www.gbif.org/species/3765871) · [POWO-853577-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:853577-1) · [IUCN-72278682](https://www.iucnredlist.org/search?query=Ficus+retusa&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Indian laurel, Indian Laurel Fig, Ficus nitida*
 
 (1 Example)
 
@@ -1004,9 +1004,9 @@
 
 ### *[`Moringa oleifera`](https://en.wikipedia.org/wiki/Moringa_oleifera)* Lam.
 
-*`සි` *Murunga, Murunga karal is the Sinhala* `த` *Tamil murunkai, murungai* `E` Moringa, Drumstick Tree, Moringa Tree*
-
 [GBIF-3054181](https://www.gbif.org/species/3054181) · [POWO-584736-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:584736-1) · [IUCN-61890232](https://www.iucnredlist.org/search?query=Moringa+oleifera&searchType=species) · 🟢 Least Concern (LC)
+
+*`සි` *Murunga, Murunga karal is the Sinhala* `த` *Tamil murunkai, murungai* `E` Moringa, Drumstick Tree, Moringa Tree*
 
 (1 Example)
 
@@ -1022,9 +1022,9 @@
 
 ### *[`Eucalyptus sideroxylon`](https://en.wikipedia.org/wiki/Eucalyptus_sideroxylon)* A.Cunn. ex Woolls
 
-*`E` Red ironbark, Black ironbark, Ironbark*
-
 [GBIF-3177189](https://www.gbif.org/species/3177189) · [POWO-593359-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:593359-1) · [IUCN-133377043](https://www.iucnredlist.org/search?query=Eucalyptus+sideroxylon&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Red ironbark, Black ironbark, Ironbark*
 
 (1 Example)
 
@@ -1038,9 +1038,9 @@
 
 ### *[`Melaleuca leucadendra`](https://en.wikipedia.org/wiki/Melaleuca_leucadendra)* (L.) L.
 
-*`E` Cajaput-tree, Longleaf paperbark, Paperbark*
-
 [GBIF-5415976](https://www.gbif.org/species/5415976) · [POWO-598002-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:598002-1) · [IUCN-61917032](https://www.iucnredlist.org/search?query=Melaleuca+leucadendra&searchType=species) · ⚪ Data Deficient (DD)
+
+*`E` Cajaput-tree, Longleaf paperbark, Paperbark*
 
 (1 Example)
 
@@ -1052,9 +1052,9 @@
 
 ### *[`Melaleuca quinquenervia`](https://en.wikipedia.org/wiki/Melaleuca_quinquenervia)* (Cav.) S.T.Blake
 
-*`E` Punktree, Belbowrie, Bottle brush tree*
-
 [GBIF-5415832](https://www.gbif.org/species/5415832) · [POWO-598073-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:598073-1) · [IUCN-49278407](https://www.iucnredlist.org/search?query=Melaleuca+quinquenervia&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Punktree, Belbowrie, Bottle brush tree*
 
 (4 Examples)
 
@@ -1086,9 +1086,9 @@
 
 ### *[`Syzygium cumini`](https://en.wikipedia.org/wiki/Syzygium_cumini)* (L.) Skeels
 
-*`සි` *kalu dan, Kaadan, Madan* `த` *naavali, Naaval Pazham* `E` जामुन, Jaman, అల్లనేరేడు*
-
 [GBIF-3183840](https://www.gbif.org/species/3183840) · [POWO-601603-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:601603-1) · [IUCN-49487196](https://www.iucnredlist.org/search?query=Syzygium+cumini&searchType=species) · 🟢 Least Concern (LC)
+
+*`සි` *kalu dan, Kaadan, Madan* `த` *naavali, Naaval Pazham* `E` जामुन, Jaman, అల్లనేరేడు*
 
 (2 Examples)
 
@@ -1110,9 +1110,9 @@
 
 ### *[`Fraxinus chinensis`](https://en.wikipedia.org/wiki/Fraxinus_chinensis)* Roxb.
 
-*`E` Chinese ash*
-
 [GBIF-3172325](https://www.gbif.org/species/3172325) · [POWO-608968-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:608968-1) · [IUCN-35953](https://www.iucnredlist.org/search?query=Fraxinus+chinensis&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Chinese ash*
 
 (1 Example)
 
@@ -1126,9 +1126,9 @@
 
 ### *[`Phillyrea latifolia`](https://en.wikipedia.org/wiki/Phillyrea_latifolia)* L.
 
-*`E` Phillyrea, Green Olive Tree*
-
 [GBIF-7325923](https://www.gbif.org/species/7325923) · [POWO-610971-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:610971-1) · [IUCN-79919776](https://www.iucnredlist.org/search?query=Phillyrea+latifolia&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Phillyrea, Green Olive Tree*
 
 (1 Example)
 
@@ -1144,9 +1144,9 @@
 
 ### *[`Averrhoa bilimbi`](https://en.wikipedia.org/wiki/Averrhoa_bilimbi)* L.
 
-*`E` Bilimbi, Tree-sorrel, Bilimbi-tree*
-
 [GBIF-2891640](https://www.gbif.org/species/2891640) · [POWO-371869-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:371869-1) · (No Data)
+
+*`E` Bilimbi, Tree-sorrel, Bilimbi-tree*
 
 (1 Example)
 
@@ -1162,9 +1162,9 @@
 
 ### *[`Pittosporum undulatum`](https://en.wikipedia.org/wiki/Pittosporum_undulatum)* Vent.
 
-*`E` Australian cheesewood, Cheesewood, Orange-berry pittosporum*
-
 [GBIF-2986239](https://www.gbif.org/species/2986239) · [POWO-684734-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:684734-1) · (No Data)
+
+*`E` Australian cheesewood, Cheesewood, Orange-berry pittosporum*
 
 (1 Example)
 
@@ -1180,9 +1180,9 @@
 
 ### *[`Bambusa multiplex`](https://en.wikipedia.org/wiki/Bambusa_multiplex)* (Lour.) Raeusch. ex Schult.
 
-*`E` Hedge bamboo, Chinese dwarf bamboo, Chinese-goddess bamboo*
-
 [GBIF-2705757](https://www.gbif.org/species/2705757) · (No Data) · (No Data)
+
+*`E` Hedge bamboo, Chinese dwarf bamboo, Chinese-goddess bamboo*
 
 (1 Example)
 
@@ -1198,9 +1198,9 @@
 
 ### *[`Nageia nagi`](https://en.wikipedia.org/wiki/Nageia_nagi)* (Thunb.) Kuntze
 
-*`E` Kaphal, Asian bayberry, Nagi*
-
 [GBIF-2687779](https://www.gbif.org/species/2687779) · [POWO-262544-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:262544-1) · [IUCN-46347417](https://www.iucnredlist.org/search?query=Nageia+nagi&searchType=species) · 🟡 Near Threatened (NT)
+
+*`E` Kaphal, Asian bayberry, Nagi*
 
 (1 Example)
 
@@ -1216,9 +1216,9 @@
 
 ### *[`Nephrolepis falcata`](https://en.wikipedia.org/wiki/Nephrolepis_falcata)* (Cav.) C.Chr.
 
-*`E` Fishtail swordfern*
-
 [GBIF-2650928](https://www.gbif.org/species/2650928) · [POWO-17408170-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17408170-1) · (No Data)
+
+*`E` Fishtail swordfern*
 
 (1 Example)
 
@@ -1234,9 +1234,9 @@
 
 ### *[`Hamelia patens`](https://en.wikipedia.org/wiki/Hamelia_patens)* Jacq.
 
-*`E` Fire bush, Redhead, Scarletbush*
-
 [GBIF-2902066](https://www.gbif.org/species/2902066) · [POWO-752194-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:752194-1) · [IUCN-136789578](https://www.iucnredlist.org/search?query=Hamelia+patens&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Fire bush, Redhead, Scarletbush*
 
 (1 Example)
 
@@ -1252,9 +1252,9 @@
 
 ### *[`Filicium decipiens`](https://en.wikipedia.org/wiki/Filicium_decipiens)* (Wight & Arn.) Thwaites
 
-*`E` Ferntree*
-
 [GBIF-3189977](https://www.gbif.org/species/3189977) · [POWO-128045-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:128045-1) · [IUCN-165432282](https://www.iucnredlist.org/search?query=Filicium+decipiens&searchType=species) · 🟢 Least Concern (LC)
+
+*`E` Ferntree*
 
 (1 Example)
 
@@ -1270,9 +1270,9 @@
 
 ### *[`Mimusops elengi`](https://en.wikipedia.org/wiki/Mimusops_elengi)* L.
 
-*`සි` *Moonamal* `த` *magizha,magilam* `E` Medlar, Tanjongtree, Spanish-cherry*
-
 [GBIF-2883768](https://www.gbif.org/species/2883768) · [POWO-787918-1](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:787918-1) · [IUCN-61964765](https://www.iucnredlist.org/search?query=Mimusops+elengi&searchType=species) · 🟢 Least Concern (LC)
+
+*`සි` *Moonamal* `த` *magizha,magilam* `E` Medlar, Tanjongtree, Spanish-cherry*
 
 (1 Example)
 

@@ -89,8 +89,6 @@ class MetaDataREADME:
     @property
     def species_lines(self):
         return [
-            f'*{self.pretty_name_translations}`E` {self.common_names_pretty}*',
-            '',
             # '|  |  |',
             # '| --- | --- |',
             # '| **Scientific Name** | ' + f'*{MetaDataREADME.get_wiki_link(self.scientific_name)}* ' +
@@ -106,6 +104,8 @@ class MetaDataREADME:
                 self.iucn_pretty,
             ),
             '',
+            f'*{self.pretty_name_translations}`E` {self.common_names_pretty}*',
+            ''
 
         ]
 
