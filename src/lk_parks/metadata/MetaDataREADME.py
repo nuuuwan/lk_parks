@@ -81,13 +81,15 @@ class MetaDataREADME:
     @property
     def photo_lines(self):
         return [
+            f'#### {self.title}',
+            '',
             f'{self.image_md}',
             '',
             '|  |  |',
             '| --- | --- |',
             '| **Identification Confidence** | ' +
             f'{self.confidence_emoji} {self.confidence:.1%} |',
-            f'| **Other Candidates** | {self.other_candidates_pretty} |',
+            f'| **Other Guesses** | {self.other_candidates_pretty} |',
             f'| **Time** | {self.time_str} |',
             f'| **Camera Direction** | {self.direction_pretty} |',
             f'| **Location** | {self.google_maps_link} |',
@@ -97,19 +99,18 @@ class MetaDataREADME:
 
     @classmethod
     def build_readme(cls):
-        lines = ['# Plants for Sri Lanka :sri_lanka:', '']
+        lines = []
 
         idx = cls.idx()
         for family, idx_family in idx.items():
-            lines.extend([f'## {MetaDataREADME.get_wiki_link(family)}', ''])
+            lines.extend([f'# {MetaDataREADME.get_wiki_link(family)}', ''])
             for genus, idx_genus in idx_family.items():
                 lines.extend(
-                    [f'### {MetaDataREADME.get_wiki_link(genus)}', ''])
+                    [f'## {MetaDataREADME.get_wiki_link(genus)}', ''])
                 for species, md_list in idx_genus.items():
                     lines.extend(
-                        [f'#### {MetaDataREADME.get_wiki_link(species)}', ''])
+                        [f'### {MetaDataREADME.get_wiki_link(species)}', ''])
                     lines.extend(md_list[0].species_lines)
-                    lines.extend(['##### Photos', ''])
                     for md in md_list:
                         lines.extend(md.photo_lines)
                         lines.append('')
