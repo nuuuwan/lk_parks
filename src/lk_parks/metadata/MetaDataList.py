@@ -12,9 +12,8 @@ class MetaDataList:
 
     @property
     def cmp(self) -> int:
-        lat = self.latlng[0]
         return '-'.join([self.family, self.genus,
-                        self.scientific_name, f'{lat:.4f}'])
+                        self.scientific_name, f'{self.ut:.0f}'])
 
     @classmethod
     @cache
