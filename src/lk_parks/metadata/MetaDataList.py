@@ -55,3 +55,37 @@ class MetaDataList:
             genus_to_n=get_key_to_n(lambda md: f'{md.genus} ({md.family})'),
             species_to_n=get_key_to_n(lambda md: md.scientific_name),
         )
+
+    @classmethod
+    @cache
+    def idx(cls):
+        md_list = cls.list_all()
+        idx = {}
+        for md in md_list:
+            family = md.family
+            genus = md.genus
+            species = md.scientific_name
+
+            if family not in idx:
+                idx[family] = {}
+            if genus not in idx[family]:
+                idx[family][genus] = {}
+            if species not in idx[family][genus]:
+                idx[family][genus][species] = []
+            idx[family][genus][species].append(md)
+
+        # sort each level
+        for family in idx:
+            for genus in idx[family]:
+                for species in idx[family][genus]:
+                    idx[family][genus][species] = sorted(
+                        idx[family][genus][species], key=lambda md: md.cmp)
+                idx[family][genus] = dict(
+                    sorted(
+                        idx[family][genus].items(),
+                        key=lambda item: item[0]))
+            idx[family] = dict(
+                sorted(
+                    idx[family].items(),
+                    key=lambda item: item[0]))
+        return idx
