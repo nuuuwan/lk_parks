@@ -1,0 +1,166 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 07 15 54.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-07-15-54.jpg",
+  "ut": 1709862354,
+  "latlng": [
+    6.913983,
+    79.862244
+  ],
+  "alt": 12.630140133241442,
+  "direction": 240.42916884474647,
+  "plantnet_results": [
+    {
+      "score": 0.97381,
+      "species": {
+        "scientificNameWithoutAuthor": "Hamelia patens",
+        "scientificNameAuthorship": "Jacq.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Hamelia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Hamelia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Rubiaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Rubiaceae"
+        },
+        "commonNames": [
+          "Fire bush",
+          "Redhead",
+          "Scarletbush"
+        ],
+        "scientificName": "Hamelia patens Jacq."
+      },
+      "gbif": {
+        "id": "2902066"
+      },
+      "powo": {
+        "id": "752194-1"
+      },
+      "iucn": {
+        "id": "136789578",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00263,
+      "species": {
+        "scientificNameWithoutAuthor": "Weigela florida",
+        "scientificNameAuthorship": "(Bunge) A.DC.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Weigela",
+          "scientificNameAuthorship": "",
+          "scientificName": "Weigela"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Caprifoliaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Caprifoliaceae"
+        },
+        "commonNames": [
+          "Weigelia",
+          "Oldfashioned weigela",
+          "Weigela"
+        ],
+        "scientificName": "Weigela florida (Bunge) A.DC."
+      },
+      "gbif": {
+        "id": "2888730"
+      },
+      "powo": {
+        "id": "150035-1"
+      }
+    },
+    {
+      "score": 0.00204,
+      "species": {
+        "scientificNameWithoutAuthor": "Mussaenda erythrophylla",
+        "scientificNameAuthorship": "Schumach. & Thonn.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Mussaenda",
+          "scientificNameAuthorship": "",
+          "scientificName": "Mussaenda"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Rubiaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Rubiaceae"
+        },
+        "commonNames": [
+          "Ashanti Blood",
+          "Nusa indah",
+          "\u09b2\u09be\u09b2 \u09ae\u09c1\u09b8\u09c7\u09a8\u09cd\u09a1\u09be"
+        ],
+        "scientificName": "Mussaenda erythrophylla Schumach. & Thonn."
+      },
+      "gbif": {
+        "id": "2892634"
+      },
+      "powo": {
+        "id": "756618-1"
+      },
+      "iucn": {
+        "id": "143713722",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.0014,
+      "species": {
+        "scientificNameWithoutAuthor": "Viburnum farreri",
+        "scientificNameAuthorship": "Stearn",
+        "genus": {
+          "scientificNameWithoutAuthor": "Viburnum",
+          "scientificNameAuthorship": "",
+          "scientificName": "Viburnum"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Viburnaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Viburnaceae"
+        },
+        "commonNames": [
+          "Fragrant viburnum",
+          "Farrer's Viburnum",
+          "Culver's root"
+        ],
+        "scientificName": "Viburnum farreri Stearn"
+      },
+      "gbif": {
+        "id": "6369599"
+      },
+      "powo": {
+        "id": "149676-1"
+      }
+    },
+    {
+      "score": 0.00106,
+      "species": {
+        "scientificNameWithoutAuthor": "Viburnum plicatum",
+        "scientificNameAuthorship": "Thunb.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Viburnum",
+          "scientificNameAuthorship": "",
+          "scientificName": "Viburnum"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Viburnaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Viburnaceae"
+        },
+        "commonNames": [
+          "Japanese snowball",
+          "Hydrangea",
+          "\u0628\u062f\u0627\u063a \u0698\u0627\u067e\u0646\u06cc"
+        ],
+        "scientificName": "Viburnum plicatum Thunb."
+      },
+      "gbif": {
+        "id": "2888622"
+      },
+      "powo": {
+        "id": "149876-1"
+      }
+    }
+  ]
+}

@@ -1,5 +1,22 @@
 # Viharamahadevi Park, Colombo, Sri Lanka
 
+## 🌳 [Hamelia patens](https://en.wikipedia.org/wiki/Hamelia_patens) ([6.9140°N,79.8622°E](https://www.google.com/maps/place/6.913983N,79.862244E))
+
+|  |  |
+| --- | --- |
+| **Scientific Name** | *[Hamelia patens](https://en.wikipedia.org/wiki/Hamelia_patens)* |
+| **Family** | Rubiaceae |
+| **Common Names** | Fire bush, Redhead, Scarletbush |
+| **Confidence** | 🌳 97.4% |
+| **Candidates** | Hamelia patens (97.4%), Weigela florida (0.3%), Mussaenda erythrophylla (0.2%), Viburnum farreri (0.1%), Viburnum plicatum (0.1%) |
+| --- | --- |
+| **Time** | 2024-03-08 07:15:54 |
+| **Location** | [6.9140°N,79.8622°E](https://www.google.com/maps/place/6.913983N,79.862244E) |
+| **Altitude** | 12.6m |
+| **Camera Direction** | 240.4° (SW) |
+
+![data/images/Photo-2024-03-08-07-15-54.jpg](data/images/Photo-2024-03-08-07-15-54.jpg)
+
 ## 🌳 [Tabernaemontana divaricata](https://en.wikipedia.org/wiki/Tabernaemontana_divaricata) ([6.9133°N,79.8585°E](https://www.google.com/maps/place/6.913258N,79.858528E))
 
 |  |  |
@@ -33,6 +50,40 @@
 | **Camera Direction** | 267.7° (W) |
 
 ![data/images/Photo-2024-02-22-07-16-55.jpg](data/images/Photo-2024-02-22-07-16-55.jpg)
+
+## ❓ [Nageia nagi](https://en.wikipedia.org/wiki/Nageia_nagi) ([6.9130°N,79.8614°E](https://www.google.com/maps/place/6.912992N,79.861442E))
+
+|  |  |
+| --- | --- |
+| **Scientific Name** | *[Nageia nagi](https://en.wikipedia.org/wiki/Nageia_nagi)* |
+| **Family** | Podocarpaceae |
+| **Common Names** | Kaphal, Asian bayberry, Nagi |
+| **Confidence** | ❓ 49.5% |
+| **Candidates** | Nageia nagi (49.5%), Myristica fragrans (1.7%), Diospyros buxifolia (1.7%), Elaeocarpus reticulatus (1.4%), Prunus caroliniana (1.3%) |
+| --- | --- |
+| **Time** | 2024-03-08 07:20:12 |
+| **Location** | [6.9130°N,79.8614°E](https://www.google.com/maps/place/6.912992N,79.861442E) |
+| **Altitude** | 11.7m |
+| **Camera Direction** | 272.0° (W) |
+
+![data/images/Photo-2024-03-08-07-20-12.jpg](data/images/Photo-2024-03-08-07-20-12.jpg)
+
+## ❓ [Casuarina equisetifolia](https://en.wikipedia.org/wiki/Casuarina_equisetifolia) ([6.9137°N,79.8621°E](https://www.google.com/maps/place/6.913722N,79.862144E))
+
+|  |  |
+| --- | --- |
+| **Scientific Name** | *[Casuarina equisetifolia](https://en.wikipedia.org/wiki/Casuarina_equisetifolia)* |
+| **Family** | Casuarinaceae |
+| **Common Names** | Beach sheoak, Australian beefwood, Australian-pine |
+| **Confidence** | ❓ 47.9% |
+| **Candidates** | Casuarina equisetifolia (47.9%), Casuarina cunninghamiana (26.5%), Melaleuca armillaris (1.9%), Pinus pinea (1.3%), Casuarina glauca (1.2%) |
+| --- | --- |
+| **Time** | 2024-03-08 07:16:32 |
+| **Location** | [6.9137°N,79.8621°E](https://www.google.com/maps/place/6.913722N,79.862144E) |
+| **Altitude** | 10.2m |
+| **Camera Direction** | 256.3° (W) |
+
+![data/images/Photo-2024-03-08-07-16-32.jpg](data/images/Photo-2024-03-08-07-16-32.jpg)
 
 ## ❓ [Paubrasilia echinata](https://en.wikipedia.org/wiki/Paubrasilia_echinata) ([6.9143°N,79.8623°E](https://www.google.com/maps/place/6.914261N,79.862342E))
 
@@ -102,6 +153,23 @@
 
 ![data/images/Photo-2023-12-31-07-53-22.jpg](data/images/Photo-2023-12-31-07-53-22.jpg)
 
+## ❓ [Moringa oleifera](https://en.wikipedia.org/wiki/Moringa_oleifera) ([6.9143°N,79.8623°E](https://www.google.com/maps/place/6.914325N,79.862328E))
+
+|  |  |
+| --- | --- |
+| **Scientific Name** | *[Moringa oleifera](https://en.wikipedia.org/wiki/Moringa_oleifera)* |
+| **Family** | Moringaceae |
+| **Common Names** | Moringa, Drumstick Tree, Moringa Tree |
+| **Confidence** | ❓ 16.6% |
+| **Candidates** | Moringa oleifera (16.6%), Ficus religiosa (12.7%), Tabebuia rosea (5.7%), Ipomoea arborescens (2.1%), Amburana cearensis (1.5%) |
+| --- | --- |
+| **Time** | 2024-03-08 07:13:16 |
+| **Location** | [6.9143°N,79.8623°E](https://www.google.com/maps/place/6.914325N,79.862328E) |
+| **Altitude** | 8.3m |
+| **Camera Direction** | 230.4° (SW) |
+
+![data/images/Photo-2024-03-08-07-13-16.jpg](data/images/Photo-2024-03-08-07-13-16.jpg)
+
 ## ❓ [Carissa carandas](https://en.wikipedia.org/wiki/Carissa_carandas) ([6.9121°N,79.8627°E](https://www.google.com/maps/place/6.912069N,79.862708E))
 
 |  |  |
@@ -170,6 +238,23 @@
 
 ![data/images/Photo-2024-01-19-07-23-31.jpg](data/images/Photo-2024-01-19-07-23-31.jpg)
 
+## ❓ [Cassia fistula](https://en.wikipedia.org/wiki/Cassia_fistula) ([6.9143°N,79.8623°E](https://www.google.com/maps/place/6.914278N,79.862275E))
+
+|  |  |
+| --- | --- |
+| **Scientific Name** | *[Cassia fistula](https://en.wikipedia.org/wiki/Cassia_fistula)* |
+| **Family** | Fabaceae |
+| **Common Names** | Golden Shower Tree, Indian-laburnum, Amaltas |
+| **Confidence** | ❓ 9.0% |
+| **Candidates** | Cassia fistula (9.0%), Holarrhena pubescens (6.0%), Pleiogynium timoriense (4.0%), Paubrasilia echinata (3.5%), Copaifera langsdorffii (2.4%) |
+| --- | --- |
+| **Time** | 2024-03-08 07:13:30 |
+| **Location** | [6.9143°N,79.8623°E](https://www.google.com/maps/place/6.914278N,79.862275E) |
+| **Altitude** | 8.2m |
+| **Camera Direction** | 230.0° (SW) |
+
+![data/images/Photo-2024-03-08-07-13-30.jpg](data/images/Photo-2024-03-08-07-13-30.jpg)
+
 ## ❓ [Diospyros buxifolia](https://en.wikipedia.org/wiki/Diospyros_buxifolia) ([6.9141°N,79.8622°E](https://www.google.com/maps/place/6.914128N,79.862206E))
 
 |  |  |
@@ -203,6 +288,23 @@
 | **Camera Direction** | 271.5° (W) |
 
 ![data/images/Photo-2023-12-31-07-51-13.jpg](data/images/Photo-2023-12-31-07-51-13.jpg)
+
+## ❓ [Mangifera indica](https://en.wikipedia.org/wiki/Mangifera_indica) ([6.9142°N,79.8621°E](https://www.google.com/maps/place/6.914233N,79.862061E))
+
+|  |  |
+| --- | --- |
+| **Scientific Name** | *[Mangifera indica](https://en.wikipedia.org/wiki/Mangifera_indica)* |
+| **Family** | Anacardiaceae |
+| **Common Names** | Mango, Mango Tree, आम |
+| **Confidence** | ❓ 7.3% |
+| **Candidates** | Mangifera indica (7.3%), Monoon longifolium (4.1%), Ceiba pentandra (3.2%), Pandanus tectorius (3.0%), Phytolacca dioica (2.6%) |
+| --- | --- |
+| **Time** | 2024-03-08 07:15:10 |
+| **Location** | [6.9142°N,79.8621°E](https://www.google.com/maps/place/6.914233N,79.862061E) |
+| **Altitude** | 11.0m |
+| **Camera Direction** | 276.7° (W) |
+
+![data/images/Photo-2024-03-08-07-15-10.jpg](data/images/Photo-2024-03-08-07-15-10.jpg)
 
 ## ❓ [Pittosporum undulatum](https://en.wikipedia.org/wiki/Pittosporum_undulatum) ([6.9136°N,79.8615°E](https://www.google.com/maps/place/6.913619N,79.86145E))
 

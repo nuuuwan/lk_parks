@@ -1,0 +1,176 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 07 20 12.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-07-20-12.jpg",
+  "ut": 1709862612,
+  "latlng": [
+    6.912992,
+    79.861442
+  ],
+  "alt": 11.727540294323756,
+  "direction": 272.03091455560326,
+  "plantnet_results": [
+    {
+      "score": 0.49543,
+      "species": {
+        "scientificNameWithoutAuthor": "Nageia nagi",
+        "scientificNameAuthorship": "(Thunb.) Kuntze",
+        "genus": {
+          "scientificNameWithoutAuthor": "Nageia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Nageia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Podocarpaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Podocarpaceae"
+        },
+        "commonNames": [
+          "Kaphal",
+          "Asian bayberry",
+          "Nagi"
+        ],
+        "scientificName": "Nageia nagi (Thunb.) Kuntze"
+      },
+      "gbif": {
+        "id": "2687779"
+      },
+      "powo": {
+        "id": "262544-1"
+      },
+      "iucn": {
+        "id": "46347417",
+        "category": "NT"
+      }
+    },
+    {
+      "score": 0.01698,
+      "species": {
+        "scientificNameWithoutAuthor": "Myristica fragrans",
+        "scientificNameAuthorship": "Houtt.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Myristica",
+          "scientificNameAuthorship": "",
+          "scientificName": "Myristica"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Myristicaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Myristicaceae"
+        },
+        "commonNames": [
+          "Mace",
+          "Nutmeg",
+          "Nutmeg and mace"
+        ],
+        "scientificName": "Myristica fragrans Houtt."
+      },
+      "gbif": {
+        "id": "5406817"
+      },
+      "powo": {
+        "id": "586076-1"
+      },
+      "iucn": {
+        "id": "33986",
+        "category": "DD"
+      }
+    },
+    {
+      "score": 0.01651,
+      "species": {
+        "scientificNameWithoutAuthor": "Diospyros buxifolia",
+        "scientificNameAuthorship": "(Blume) Hiern",
+        "genus": {
+          "scientificNameWithoutAuthor": "Diospyros",
+          "scientificNameAuthorship": "",
+          "scientificName": "Diospyros"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Ebenaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ebenaceae"
+        },
+        "commonNames": [
+          "Black ebony"
+        ],
+        "scientificName": "Diospyros buxifolia (Blume) Hiern"
+      },
+      "gbif": {
+        "id": "4070235"
+      },
+      "powo": {
+        "id": "322176-1"
+      },
+      "iucn": {
+        "id": "173387",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.01377,
+      "species": {
+        "scientificNameWithoutAuthor": "Elaeocarpus reticulatus",
+        "scientificNameAuthorship": "Sm.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Elaeocarpus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Elaeocarpus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Elaeocarpaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Elaeocarpaceae"
+        },
+        "commonNames": [
+          "Blueberry-ash",
+          "Blue oliveberry",
+          "Fringetree"
+        ],
+        "scientificName": "Elaeocarpus reticulatus Sm."
+      },
+      "gbif": {
+        "id": "7290944"
+      },
+      "powo": {
+        "id": "833934-1"
+      },
+      "iucn": {
+        "id": "200141911",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.01293,
+      "species": {
+        "scientificNameWithoutAuthor": "Prunus caroliniana",
+        "scientificNameAuthorship": "(Mill.) Aiton",
+        "genus": {
+          "scientificNameWithoutAuthor": "Prunus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Prunus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Rosaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Rosaceae"
+        },
+        "commonNames": [
+          "Carolina laurel cherry",
+          "Cherry-laurel",
+          "Laurel cherry"
+        ],
+        "scientificName": "Prunus caroliniana (Mill.) Aiton"
+      },
+      "gbif": {
+        "id": "3023558"
+      },
+      "powo": {
+        "id": "729552-1"
+      },
+      "iucn": {
+        "id": "64120952",
+        "category": "LC"
+      }
+    }
+  ]
+}
