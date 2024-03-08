@@ -31,6 +31,7 @@ class MetaDataREADME:
             '|  |  |',
             '| --- | --- |',
             f'| **Scientific Name** | *{self.scientific_name_link}* |',
+            f'| **Genus** | {self.genus} |',
             f'| **Family** | {self.family} |',
             f'| **Common Names** | {", ".join(self.common_names)} |',
             f'| **Confidence** | '+f'{self.confidence_emoji} {self.confidence:.1%} |',

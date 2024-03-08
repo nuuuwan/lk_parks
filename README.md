@@ -7,6 +7,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Melaleuca quinquenervia](https://en.wikipedia.org/wiki/Melaleuca_quinquenervia)* |
+| **Genus** | Melaleuca |
 | **Family** | Myrtaceae |
 | **Common Names** | Punktree, Belbowrie, Bottle brush tree |
 | **Confidence** | 🌳 98.5% |
@@ -24,6 +25,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Hamelia patens](https://en.wikipedia.org/wiki/Hamelia_patens)* |
+| **Genus** | Hamelia |
 | **Family** | Rubiaceae |
 | **Common Names** | Fire bush, Redhead, Scarletbush |
 | **Confidence** | 🌳 97.4% |
@@ -41,6 +43,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Artocarpus heterophyllus](https://en.wikipedia.org/wiki/Artocarpus_heterophyllus)* |
+| **Genus** | Artocarpus |
 | **Family** | Moraceae |
 | **Common Names** | Jackfruit, কাঠাল, పనస |
 | **Confidence** | 🌳 94.2% |
@@ -58,6 +61,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Terminalia catappa](https://en.wikipedia.org/wiki/Terminalia_catappa)* |
+| **Genus** | Terminalia |
 | **Family** | Combretaceae |
 | **Common Names** | Tropical almond, Indian-almond, Country-almond |
 | **Confidence** | 🌳 94.1% |
@@ -75,6 +79,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Cassia fistula](https://en.wikipedia.org/wiki/Cassia_fistula)* |
+| **Genus** | Cassia |
 | **Family** | Fabaceae |
 | **Common Names** | Golden Shower Tree, Indian-laburnum, Amaltas |
 | **Confidence** | 🌳 91.8% |
@@ -92,6 +97,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Ficus religiosa](https://en.wikipedia.org/wiki/Ficus_religiosa)* |
+| **Genus** | Ficus |
 | **Family** | Moraceae |
 | **Common Names** | Peepal tree, Sacred fig, రావి |
 | **Confidence** | 🌳 84.2% |
@@ -109,6 +115,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Nephrolepis falcata](https://en.wikipedia.org/wiki/Nephrolepis_falcata)* |
+| **Genus** | Nephrolepis |
 | **Family** | Polypodiaceae |
 | **Common Names** | Fishtail swordfern |
 | **Confidence** | 🌳 84.0% |
@@ -126,6 +133,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Melaleuca quinquenervia](https://en.wikipedia.org/wiki/Melaleuca_quinquenervia)* |
+| **Genus** | Melaleuca |
 | **Family** | Myrtaceae |
 | **Common Names** | Punktree, Belbowrie, Bottle brush tree |
 | **Confidence** | 🌳 77.0% |
@@ -143,6 +151,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Casuarina equisetifolia](https://en.wikipedia.org/wiki/Casuarina_equisetifolia)* |
+| **Genus** | Casuarina |
 | **Family** | Casuarinaceae |
 | **Common Names** | Beach sheoak, Australian beefwood, Australian-pine |
 | **Confidence** | 🌳 75.0% |
@@ -160,6 +169,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Roystonea regia](https://en.wikipedia.org/wiki/Roystonea_regia)* |
+| **Genus** | Roystonea |
 | **Family** | Arecaceae |
 | **Common Names** | Cuban royal palm, Florida royal palm, Royal palm |
 | **Confidence** | 🌳 74.8% |
@@ -177,6 +187,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Tabernaemontana divaricata](https://en.wikipedia.org/wiki/Tabernaemontana_divaricata)* |
+| **Genus** | Tabernaemontana |
 | **Family** | Apocynaceae |
 | **Common Names** | Crape-jasmine, Butterfly-gardenia, నందివర్ధనం |
 | **Confidence** | 🌳 71.9% |
@@ -194,6 +205,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea)* |
+| **Genus** | Tabebuia |
 | **Family** | Bignoniaceae |
 | **Common Names** | Pink poui, Pink trumpet-tree, Rosy trumpet-tree |
 | **Confidence** | 🌳 62.7% |
@@ -211,6 +223,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Casuarina equisetifolia](https://en.wikipedia.org/wiki/Casuarina_equisetifolia)* |
+| **Genus** | Casuarina |
 | **Family** | Casuarinaceae |
 | **Common Names** | Beach sheoak, Australian beefwood, Australian-pine |
 | **Confidence** | 🌳 62.2% |
@@ -228,6 +241,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Mesua ferrea](https://en.wikipedia.org/wiki/Mesua_ferrea)* |
+| **Genus** | Mesua |
 | **Family** | Calophyllaceae |
 | **Common Names** | Mesua, Iron Wood Tree, Ceylon Ironwood |
 | **Confidence** | 🌳 60.5% |
@@ -245,6 +259,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Wodyetia bifurcata](https://en.wikipedia.org/wiki/Wodyetia_bifurcata)* |
+| **Genus** | Wodyetia |
 | **Family** | Arecaceae |
 | **Common Names** | Foxtail palm |
 | **Confidence** | 🌳 60.3% |
@@ -262,6 +277,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea)* |
+| **Genus** | Tabebuia |
 | **Family** | Bignoniaceae |
 | **Common Names** | Pink poui, Pink trumpet-tree, Rosy trumpet-tree |
 | **Confidence** | 🌳 57.3% |
@@ -279,6 +295,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Ficus insipida](https://en.wikipedia.org/wiki/Ficus_insipida)* |
+| **Genus** | Ficus |
 | **Family** | Moraceae |
 | **Common Names** |  |
 | **Confidence** | 🌳 53.0% |
@@ -296,6 +313,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Allamanda cathartica](https://en.wikipedia.org/wiki/Allamanda_cathartica)* |
+| **Genus** | Allamanda |
 | **Family** | Apocynaceae |
 | **Common Names** | Golden-trumpet, Allamanda, Yellow allamanda |
 | **Confidence** | 🌳 52.8% |
@@ -313,6 +331,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Nageia nagi](https://en.wikipedia.org/wiki/Nageia_nagi)* |
+| **Genus** | Nageia |
 | **Family** | Podocarpaceae |
 | **Common Names** | Kaphal, Asian bayberry, Nagi |
 | **Confidence** | ❓ 49.5% |
@@ -330,6 +349,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Ficus benghalensis](https://en.wikipedia.org/wiki/Ficus_benghalensis)* |
+| **Genus** | Ficus |
 | **Family** | Moraceae |
 | **Common Names** | Indian banyan, Ficus Audrey, Bengal banyan |
 | **Confidence** | ❓ 48.5% |
@@ -347,6 +367,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Casuarina equisetifolia](https://en.wikipedia.org/wiki/Casuarina_equisetifolia)* |
+| **Genus** | Casuarina |
 | **Family** | Casuarinaceae |
 | **Common Names** | Beach sheoak, Australian beefwood, Australian-pine |
 | **Confidence** | ❓ 47.9% |
@@ -364,6 +385,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Ficus benghalensis](https://en.wikipedia.org/wiki/Ficus_benghalensis)* |
+| **Genus** | Ficus |
 | **Family** | Moraceae |
 | **Common Names** | Indian banyan, Ficus Audrey, Bengal banyan |
 | **Confidence** | ❓ 42.6% |
@@ -381,6 +403,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Ficus elastica](https://en.wikipedia.org/wiki/Ficus_elastica)* |
+| **Genus** | Ficus |
 | **Family** | Moraceae |
 | **Common Names** | Rubberplant, فیکوس, فیکوس الاستیکا |
 | **Confidence** | ❓ 42.1% |
@@ -398,6 +421,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Paubrasilia echinata](https://en.wikipedia.org/wiki/Paubrasilia_echinata)* |
+| **Genus** | Paubrasilia |
 | **Family** | Fabaceae |
 | **Common Names** | Orabutá (Portuguese), Pau-rosado (Portuguese) |
 | **Confidence** | ❓ 41.8% |
@@ -415,6 +439,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Acalypha wilkesiana](https://en.wikipedia.org/wiki/Acalypha_wilkesiana)* |
+| **Genus** | Acalypha |
 | **Family** | Euphorbiaceae |
 | **Common Names** | Copper leaf, Capa de obispo, Beefsteak plant |
 | **Confidence** | ❓ 37.0% |
@@ -432,6 +457,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Tabebuia pallida](https://en.wikipedia.org/wiki/Tabebuia_pallida)* |
+| **Genus** | Tabebuia |
 | **Family** | Bignoniaceae |
 | **Common Names** | Cuban pink trumpet-tree, White-cedar, Whitewood |
 | **Confidence** | ❓ 36.7% |
@@ -449,6 +475,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Juglans nigra](https://en.wikipedia.org/wiki/Juglans_nigra)* |
+| **Genus** | Juglans |
 | **Family** | Juglandaceae |
 | **Common Names** | Black walnut, American Walnut, Otaesémenôtse |
 | **Confidence** | ❓ 36.6% |
@@ -466,6 +493,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Eucalyptus sideroxylon](https://en.wikipedia.org/wiki/Eucalyptus_sideroxylon)* |
+| **Genus** | Eucalyptus |
 | **Family** | Myrtaceae |
 | **Common Names** | Red ironbark, Black ironbark, Ironbark |
 | **Confidence** | ❓ 35.4% |
@@ -483,6 +511,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Toona ciliata](https://en.wikipedia.org/wiki/Toona_ciliata)* |
+| **Genus** | Toona |
 | **Family** | Meliaceae |
 | **Common Names** | Red Cedar, Australian redcedar, Australian red-cedar |
 | **Confidence** | ❓ 35.0% |
@@ -500,6 +529,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Plumeria obtusa](https://en.wikipedia.org/wiki/Plumeria_obtusa)* |
+| **Genus** | Plumeria |
 | **Family** | Apocynaceae |
 | **Common Names** | Frangipani, Singapore graveyard flower, దేవ గన్నేరు |
 | **Confidence** | ❓ 34.2% |
@@ -517,6 +547,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Dictyosperma album](https://en.wikipedia.org/wiki/Dictyosperma_album)* |
+| **Genus** | Dictyosperma |
 | **Family** | Arecaceae |
 | **Common Names** | Common princess palm, Hurricane palm |
 | **Confidence** | ❓ 33.8% |
@@ -534,6 +565,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Melaleuca quinquenervia](https://en.wikipedia.org/wiki/Melaleuca_quinquenervia)* |
+| **Genus** | Melaleuca |
 | **Family** | Myrtaceae |
 | **Common Names** | Punktree, Belbowrie, Bottle brush tree |
 | **Confidence** | ❓ 33.3% |
@@ -551,6 +583,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Bambusa multiplex](https://en.wikipedia.org/wiki/Bambusa_multiplex)* |
+| **Genus** | Bambusa |
 | **Family** | Poaceae |
 | **Common Names** | Hedge bamboo, Chinese dwarf bamboo, Chinese-goddess bamboo |
 | **Confidence** | ❓ 32.2% |
@@ -568,6 +601,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Terminalia arjuna](https://en.wikipedia.org/wiki/Terminalia_arjuna)* |
+| **Genus** | Terminalia |
 | **Family** | Combretaceae |
 | **Common Names** | Arjun, White murdh, Kumbuk |
 | **Confidence** | ❓ 30.4% |
@@ -585,6 +619,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Afzelia africana](https://en.wikipedia.org/wiki/Afzelia_africana)* |
+| **Genus** | Afzelia |
 | **Family** | Fabaceae |
 | **Common Names** | African-mahogany, Afzelia |
 | **Confidence** | ❓ 29.3% |
@@ -602,6 +637,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Ficus elastica](https://en.wikipedia.org/wiki/Ficus_elastica)* |
+| **Genus** | Ficus |
 | **Family** | Moraceae |
 | **Common Names** | Rubberplant, فیکوس, فیکوس الاستیکا |
 | **Confidence** | ❓ 29.1% |
@@ -619,6 +655,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Tabebuia pallida](https://en.wikipedia.org/wiki/Tabebuia_pallida)* |
+| **Genus** | Tabebuia |
 | **Family** | Bignoniaceae |
 | **Common Names** | Cuban pink trumpet-tree, White-cedar, Whitewood |
 | **Confidence** | ❓ 28.3% |
@@ -636,6 +673,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Roystonea regia](https://en.wikipedia.org/wiki/Roystonea_regia)* |
+| **Genus** | Roystonea |
 | **Family** | Arecaceae |
 | **Common Names** | Cuban royal palm, Florida royal palm, Royal palm |
 | **Confidence** | ❓ 26.9% |
@@ -653,6 +691,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Toona ciliata](https://en.wikipedia.org/wiki/Toona_ciliata)* |
+| **Genus** | Toona |
 | **Family** | Meliaceae |
 | **Common Names** | Red Cedar, Australian redcedar, Australian red-cedar |
 | **Confidence** | ❓ 25.5% |
@@ -670,6 +709,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Cassia grandis](https://en.wikipedia.org/wiki/Cassia_grandis)* |
+| **Genus** | Cassia |
 | **Family** | Fabaceae |
 | **Common Names** | Appleblossom cassia, Coral shower, Horse cassia |
 | **Confidence** | ❓ 25.4% |
@@ -687,6 +727,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Syzygium cumini](https://en.wikipedia.org/wiki/Syzygium_cumini)* |
+| **Genus** | Syzygium |
 | **Family** | Myrtaceae |
 | **Common Names** | जामुन, Jaman, అల్లనేరేడు |
 | **Confidence** | ❓ 24.1% |
@@ -704,6 +745,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Plumeria obtusa](https://en.wikipedia.org/wiki/Plumeria_obtusa)* |
+| **Genus** | Plumeria |
 | **Family** | Apocynaceae |
 | **Common Names** | Frangipani, Singapore graveyard flower, దేవ గన్నేరు |
 | **Confidence** | ❓ 23.9% |
@@ -721,6 +763,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Ficus aurea](https://en.wikipedia.org/wiki/Ficus_aurea)* |
+| **Genus** | Ficus |
 | **Family** | Moraceae |
 | **Common Names** | Florida strangler, Florida strangler fig |
 | **Confidence** | ❓ 21.4% |
@@ -738,6 +781,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Ficus retusa](https://en.wikipedia.org/wiki/Ficus_retusa)* |
+| **Genus** | Ficus |
 | **Family** | Moraceae |
 | **Common Names** | Indian laurel, Indian Laurel Fig, Ficus nitida |
 | **Confidence** | ❓ 20.8% |
@@ -755,6 +799,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Artocarpus heterophyllus](https://en.wikipedia.org/wiki/Artocarpus_heterophyllus)* |
+| **Genus** | Artocarpus |
 | **Family** | Moraceae |
 | **Common Names** | Jackfruit, কাঠাল, పనస |
 | **Confidence** | ❓ 20.8% |
@@ -772,6 +817,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Avicennia marina](https://en.wikipedia.org/wiki/Avicennia_marina)* |
+| **Genus** | Avicennia |
 | **Family** | Acanthaceae |
 | **Common Names** | Grey mangrove, White mangrove, Gray mangrove |
 | **Confidence** | ❓ 20.5% |
@@ -789,6 +835,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Swietenia mahagoni](https://en.wikipedia.org/wiki/Swietenia_mahagoni)* |
+| **Genus** | Swietenia |
 | **Family** | Meliaceae |
 | **Common Names** | Cuban mahogany, West Indian mahogany, Spanish mahogany |
 | **Confidence** | ❓ 20.4% |
@@ -806,6 +853,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea)* |
+| **Genus** | Tabebuia |
 | **Family** | Bignoniaceae |
 | **Common Names** | Pink poui, Pink trumpet-tree, Rosy trumpet-tree |
 | **Confidence** | ❓ 20.2% |
@@ -823,6 +871,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Bauhinia variegata](https://en.wikipedia.org/wiki/Bauhinia_variegata)* |
+| **Genus** | Bauhinia |
 | **Family** | Fabaceae |
 | **Common Names** | Mountain ebony, Orchidtree, Butterfly tree |
 | **Confidence** | ❓ 20.1% |
@@ -840,6 +889,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Spondias purpurea](https://en.wikipedia.org/wiki/Spondias_purpurea)* |
+| **Genus** | Spondias |
 | **Family** | Anacardiaceae |
 | **Common Names** | Purple mombin, Red mombin, Spanish-plum |
 | **Confidence** | ❓ 20.0% |
@@ -857,6 +907,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Fraxinus chinensis](https://en.wikipedia.org/wiki/Fraxinus_chinensis)* |
+| **Genus** | Fraxinus |
 | **Family** | Oleaceae |
 | **Common Names** | Chinese ash |
 | **Confidence** | ❓ 19.2% |
@@ -874,6 +925,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Inga uraguensis](https://en.wikipedia.org/wiki/Inga_uraguensis)* |
+| **Genus** | Inga |
 | **Family** | Fabaceae |
 | **Common Names** |  |
 | **Confidence** | ❓ 18.1% |
@@ -891,6 +943,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Roystonea regia](https://en.wikipedia.org/wiki/Roystonea_regia)* |
+| **Genus** | Roystonea |
 | **Family** | Arecaceae |
 | **Common Names** | Cuban royal palm, Florida royal palm, Royal palm |
 | **Confidence** | ❓ 17.8% |
@@ -908,6 +961,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Mangifera indica](https://en.wikipedia.org/wiki/Mangifera_indica)* |
+| **Genus** | Mangifera |
 | **Family** | Anacardiaceae |
 | **Common Names** | Mango, Mango Tree, आम |
 | **Confidence** | ❓ 17.5% |
@@ -925,6 +979,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Syzygium cumini](https://en.wikipedia.org/wiki/Syzygium_cumini)* |
+| **Genus** | Syzygium |
 | **Family** | Myrtaceae |
 | **Common Names** | जामुन, Jaman, అల్లనేరేడు |
 | **Confidence** | ❓ 17.2% |
@@ -942,6 +997,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Cordia dichotoma](https://en.wikipedia.org/wiki/Cordia_dichotoma)* |
+| **Genus** | Cordia |
 | **Family** | Boraginaceae |
 | **Common Names** | Fragrant manjack, Indian-cherry, Clammy-cherry |
 | **Confidence** | ❓ 17.0% |
@@ -959,6 +1015,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Inga edulis](https://en.wikipedia.org/wiki/Inga_edulis)* |
+| **Genus** | Inga |
 | **Family** | Fabaceae |
 | **Common Names** | Ice-cream-bean, Guaba, Pois Doux |
 | **Confidence** | ❓ 16.9% |
@@ -976,6 +1033,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Moringa oleifera](https://en.wikipedia.org/wiki/Moringa_oleifera)* |
+| **Genus** | Moringa |
 | **Family** | Moringaceae |
 | **Common Names** | Moringa, Drumstick Tree, Moringa Tree |
 | **Confidence** | ❓ 16.6% |
@@ -993,6 +1051,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Anacardium occidentale](https://en.wikipedia.org/wiki/Anacardium_occidentale)* |
+| **Genus** | Anacardium |
 | **Family** | Anacardiaceae |
 | **Common Names** | Cashew, Cashewnut, Pomifera |
 | **Confidence** | ❓ 16.5% |
@@ -1010,6 +1069,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Vachellia nilotica](https://en.wikipedia.org/wiki/Vachellia_nilotica)* |
+| **Genus** | Vachellia |
 | **Family** | Fabaceae |
 | **Common Names** | Gum arabic tree, Black Piquant, Cassie |
 | **Confidence** | ❓ 16.5% |
@@ -1027,6 +1087,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Terminalia arjuna](https://en.wikipedia.org/wiki/Terminalia_arjuna)* |
+| **Genus** | Terminalia |
 | **Family** | Combretaceae |
 | **Common Names** | Arjun, White murdh, Kumbuk |
 | **Confidence** | ❓ 16.2% |
@@ -1044,6 +1105,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Toona ciliata](https://en.wikipedia.org/wiki/Toona_ciliata)* |
+| **Genus** | Toona |
 | **Family** | Meliaceae |
 | **Common Names** | Red Cedar, Australian redcedar, Australian red-cedar |
 | **Confidence** | ❓ 15.8% |
@@ -1061,6 +1123,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Betula nigra](https://en.wikipedia.org/wiki/Betula_nigra)* |
+| **Genus** | Betula |
 | **Family** | Betulaceae |
 | **Common Names** | River birch, Red birch, Black Birch |
 | **Confidence** | ❓ 14.9% |
@@ -1078,6 +1141,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Laurus nobilis](https://en.wikipedia.org/wiki/Laurus_nobilis)* |
+| **Genus** | Laurus |
 | **Family** | Lauraceae |
 | **Common Names** | (Sweet) Bay leaf, Bay Laurel, Sweet bay |
 | **Confidence** | ❓ 14.7% |
@@ -1095,6 +1159,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Hibiscus rosa-sinensis](https://en.wikipedia.org/wiki/Hibiscus_rosa-sinensis)* |
+| **Genus** | Hibiscus |
 | **Family** | Malvaceae |
 | **Common Names** | Hawaiian hibiscus, Hibiscus, गुड़हल |
 | **Confidence** | ❓ 12.9% |
@@ -1112,6 +1177,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Carissa carandas](https://en.wikipedia.org/wiki/Carissa_carandas)* |
+| **Genus** | Carissa |
 | **Family** | Apocynaceae |
 | **Common Names** | Bengal-currants, Carandas-plum, Karanda |
 | **Confidence** | ❓ 12.7% |
@@ -1129,6 +1195,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Quercus virginiana](https://en.wikipedia.org/wiki/Quercus_virginiana)* |
+| **Genus** | Quercus |
 | **Family** | Fagaceae |
 | **Common Names** | Southern live oak, Live oak, Virginia Live Oak |
 | **Confidence** | ❓ 12.7% |
@@ -1146,6 +1213,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Melaleuca quinquenervia](https://en.wikipedia.org/wiki/Melaleuca_quinquenervia)* |
+| **Genus** | Melaleuca |
 | **Family** | Myrtaceae |
 | **Common Names** | Punktree, Belbowrie, Bottle brush tree |
 | **Confidence** | ❓ 12.6% |
@@ -1163,6 +1231,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Filicium decipiens](https://en.wikipedia.org/wiki/Filicium_decipiens)* |
+| **Genus** | Filicium |
 | **Family** | Sapindaceae |
 | **Common Names** | Ferntree |
 | **Confidence** | ❓ 12.5% |
@@ -1180,6 +1249,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Erythrina poeppigiana](https://en.wikipedia.org/wiki/Erythrina_poeppigiana)* |
+| **Genus** | Erythrina |
 | **Family** | Fabaceae |
 | **Common Names** | Coral tree, Immortelle-tree, Mountain immortelle |
 | **Confidence** | ❓ 11.9% |
@@ -1197,6 +1267,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Terminalia mantaly](https://en.wikipedia.org/wiki/Terminalia_mantaly)* |
+| **Genus** | Terminalia |
 | **Family** | Combretaceae |
 | **Common Names** | Satellite Tree., Amandier de Madagascar, Ketapang Kencana |
 | **Confidence** | ❓ 11.8% |
@@ -1214,6 +1285,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea)* |
+| **Genus** | Tabebuia |
 | **Family** | Bignoniaceae |
 | **Common Names** | Pink poui, Pink trumpet-tree, Rosy trumpet-tree |
 | **Confidence** | ❓ 11.5% |
@@ -1231,6 +1303,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Bunchosia armeniaca](https://en.wikipedia.org/wiki/Bunchosia_armeniaca)* |
+| **Genus** | Bunchosia |
 | **Family** | Malpighiaceae |
 | **Common Names** | Peanut butter fruit, Sunset fruit |
 | **Confidence** | ❓ 11.3% |
@@ -1248,6 +1321,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Averrhoa bilimbi](https://en.wikipedia.org/wiki/Averrhoa_bilimbi)* |
+| **Genus** | Averrhoa |
 | **Family** | Oxalidaceae |
 | **Common Names** | Bilimbi, Tree-sorrel, Bilimbi-tree |
 | **Confidence** | ❓ 10.9% |
@@ -1265,6 +1339,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Trachelospermum jasminoides](https://en.wikipedia.org/wiki/Trachelospermum_jasminoides)* |
+| **Genus** | Trachelospermum |
 | **Family** | Apocynaceae |
 | **Common Names** | Star jasmine, Confederate jasmine, Chinese star-jessamine |
 | **Confidence** | ❓ 10.0% |
@@ -1282,6 +1357,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea)* |
+| **Genus** | Tabebuia |
 | **Family** | Bignoniaceae |
 | **Common Names** | Pink poui, Pink trumpet-tree, Rosy trumpet-tree |
 | **Confidence** | ❓ 9.9% |
@@ -1299,6 +1375,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Paubrasilia echinata](https://en.wikipedia.org/wiki/Paubrasilia_echinata)* |
+| **Genus** | Paubrasilia |
 | **Family** | Fabaceae |
 | **Common Names** | Orabutá (Portuguese), Pau-rosado (Portuguese) |
 | **Confidence** | ❓ 9.9% |
@@ -1316,6 +1393,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Tabebuia rosea](https://en.wikipedia.org/wiki/Tabebuia_rosea)* |
+| **Genus** | Tabebuia |
 | **Family** | Bignoniaceae |
 | **Common Names** | Pink poui, Pink trumpet-tree, Rosy trumpet-tree |
 | **Confidence** | ❓ 9.7% |
@@ -1333,6 +1411,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Cassia fistula](https://en.wikipedia.org/wiki/Cassia_fistula)* |
+| **Genus** | Cassia |
 | **Family** | Fabaceae |
 | **Common Names** | Golden Shower Tree, Indian-laburnum, Amaltas |
 | **Confidence** | ❓ 9.0% |
@@ -1350,6 +1429,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Cinnamomum camphora](https://en.wikipedia.org/wiki/Cinnamomum_camphora)* |
+| **Genus** | Cinnamomum |
 | **Family** | Lauraceae |
 | **Common Names** | Camphor-laurel, Camphortree, Japanese camphor |
 | **Confidence** | ❓ 8.6% |
@@ -1367,6 +1447,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Diospyros buxifolia](https://en.wikipedia.org/wiki/Diospyros_buxifolia)* |
+| **Genus** | Diospyros |
 | **Family** | Ebenaceae |
 | **Common Names** | Black ebony |
 | **Confidence** | ❓ 8.6% |
@@ -1384,6 +1465,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Phillyrea latifolia](https://en.wikipedia.org/wiki/Phillyrea_latifolia)* |
+| **Genus** | Phillyrea |
 | **Family** | Oleaceae |
 | **Common Names** | Phillyrea, Green Olive Tree |
 | **Confidence** | ❓ 8.5% |
@@ -1401,6 +1483,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Moquilea tomentosa](https://en.wikipedia.org/wiki/Moquilea_tomentosa)* |
+| **Genus** | Moquilea |
 | **Family** | Chrysobalanaceae |
 | **Common Names** | Oiti (Portuguese GRIN ) |
 | **Confidence** | ❓ 7.9% |
@@ -1418,6 +1501,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Juglans regia](https://en.wikipedia.org/wiki/Juglans_regia)* |
+| **Genus** | Juglans |
 | **Family** | Juglandaceae |
 | **Common Names** | Black Walnut, English walnut, Carpathian walnut |
 | **Confidence** | ❓ 7.8% |
@@ -1435,6 +1519,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Tectona grandis](https://en.wikipedia.org/wiki/Tectona_grandis)* |
+| **Genus** | Tectona |
 | **Family** | Lamiaceae |
 | **Common Names** | Teak, Bankok teak, Indian-oak |
 | **Confidence** | ❓ 7.8% |
@@ -1452,6 +1537,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Mimusops elengi](https://en.wikipedia.org/wiki/Mimusops_elengi)* |
+| **Genus** | Mimusops |
 | **Family** | Sapotaceae |
 | **Common Names** | Medlar, Tanjongtree, Spanish-cherry |
 | **Confidence** | ❓ 7.5% |
@@ -1469,6 +1555,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Mangifera indica](https://en.wikipedia.org/wiki/Mangifera_indica)* |
+| **Genus** | Mangifera |
 | **Family** | Anacardiaceae |
 | **Common Names** | Mango, Mango Tree, आम |
 | **Confidence** | ❓ 7.3% |
@@ -1486,6 +1573,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Mangifera indica](https://en.wikipedia.org/wiki/Mangifera_indica)* |
+| **Genus** | Mangifera |
 | **Family** | Anacardiaceae |
 | **Common Names** | Mango, Mango Tree, आम |
 | **Confidence** | ❓ 7.3% |
@@ -1503,6 +1591,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Caryocar brasiliense](https://en.wikipedia.org/wiki/Caryocar_brasiliense)* |
+| **Genus** | Caryocar |
 | **Family** | Caryocaraceae |
 | **Common Names** | Pequi, Piki, Pekea nut |
 | **Confidence** | ❓ 6.6% |
@@ -1520,6 +1609,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Melaleuca leucadendra](https://en.wikipedia.org/wiki/Melaleuca_leucadendra)* |
+| **Genus** | Melaleuca |
 | **Family** | Myrtaceae |
 | **Common Names** | Cajaput-tree, Longleaf paperbark, Paperbark |
 | **Confidence** | ❓ 6.4% |
@@ -1537,6 +1627,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Pittosporum undulatum](https://en.wikipedia.org/wiki/Pittosporum_undulatum)* |
+| **Genus** | Pittosporum |
 | **Family** | Pittosporaceae |
 | **Common Names** | Australian cheesewood, Cheesewood, Orange-berry pittosporum |
 | **Confidence** | ❓ 5.3% |
@@ -1554,6 +1645,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Delonix regia](https://en.wikipedia.org/wiki/Delonix_regia)* |
+| **Genus** | Delonix |
 | **Family** | Fabaceae |
 | **Common Names** | Flamboyant, Flame-of-the-forest, Flametree |
 | **Confidence** | ❓ 4.0% |
@@ -1571,6 +1663,7 @@
 |  |  |
 | --- | --- |
 | **Scientific Name** | *[Monodora tenuifolia](https://en.wikipedia.org/wiki/Monodora_tenuifolia)* |
+| **Genus** | Monodora |
 | **Family** | Annonaceae |
 | **Common Names** | Orchidtree, African-nutmeg |
 | **Confidence** | ❓ 1.2% |

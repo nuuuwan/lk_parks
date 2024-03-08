@@ -47,6 +47,10 @@ class MetaDataBase:
         return self.best_plantnet_result['species']['family']['scientificName']
 
     @property
+    def genus(self) -> str:
+        return self.best_plantnet_result['species']['genus']['scientificName']
+
+    @property
     def common_names(self) -> list[str]:
         return self.best_plantnet_result['species']['commonNames']
 
