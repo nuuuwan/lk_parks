@@ -98,12 +98,12 @@ class MetaDataREADME:
             # f'| **Global Biodiversity Information Facility (GBIF)** | {self.gbif_pretty} |',
             # f'| **Plants of the World Online (POWO)** | {self.powo_pretty} |',
             # f'| **International Union for Conservation of Nature (IUCN)** | {self.iucn_pretty} |',
-            '*' + MetaDataREADME.dot_join(
-                self.gbif_pretty,
-                self.powo_pretty,
-                self.iucn_pretty,
-            ) + '*',
-            '',
+            # '*' + MetaDataREADME.dot_join(
+            #     self.gbif_pretty,
+            #     self.powo_pretty,
+            #     self.iucn_pretty,
+            # ) + '*',
+            # '',
             f'*{self.pretty_name_translations}`E` {self.common_names_pretty}*',
             ''
 
