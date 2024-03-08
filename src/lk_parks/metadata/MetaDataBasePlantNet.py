@@ -37,10 +37,7 @@ class MetaDataBasePlantNet:
     def authorship(self) -> str:
         return self.species_data['scientificNameAuthorship']
 
-    @property
-    def wikipedia_url(self) -> str:
-        return 'https://en.wikipedia.org/wiki/' + \
-            self.scientific_name.replace(' ', '_')
+
 
     @property
     def family(self) -> str:

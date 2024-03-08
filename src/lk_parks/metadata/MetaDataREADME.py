@@ -10,6 +10,11 @@ log = Log('MetaData')
 class MetaDataREADME:
     README_PATH = os.path.join('README.md')
 
+    @staticmethod 
+    def get_wiki_url(x):
+        return 'https://en.wikipedia.org/wiki/' + \
+            x.replace(' ', '_')
+
     @property
     def common_names_pretty(self) -> str:
         if not self.common_names:
@@ -18,7 +23,19 @@ class MetaDataREADME:
 
     @property
     def scientific_name_link(self) -> str:
-        return f'[{self.scientific_name}]({self.wikipedia_url})'
+        wiki_url = self.get_wiki_url(self.scientific_name)
+        return f'[{self.scientific_name}]({wiki_url})'
+
+
+    @property
+    def family_link(self) -> str:
+        wiki_url = self.get_wiki_url(self.family)
+        return f'[{self.family}]({wiki_url})'
+    
+    @property
+    def genus_link(self) -> str:
+        wiki_url = self.get_wiki_url(self.genus)
+        return f'[{self.genus}]({wiki_url})'
 
     @property
     def title(self) -> str:
@@ -57,8 +74,8 @@ class MetaDataREADME:
             '| --- | --- |',
             '| **Scientific Name** | ' + f'*{self.scientific_name_link}* ' +
             f'{self.authorship} |',
-            f'| **Genus** | {self.genus} |',
-            f'| **Family** | {self.family} |',
+            f'| **Genus** | {self.genus_link} |',
+            f'| **Family** | {self.family_link} |',
             f'| **Common Names** | {self.common_names_pretty} |',
             '| **Identification Confidence** | ' +
             f'{self.confidence_emoji} {self.confidence:.1%} |',
