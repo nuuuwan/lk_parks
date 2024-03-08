@@ -29,6 +29,7 @@ class MetaDataREADME:
     def description_lines(self):
         return [
             '|  |  |',
+            '| --- | --- |',
             f'| **Scientific Name** | *{self.scientific_name_link}* |',
             f'| **Family** | {self.family} |',
             f'| **Common Names** | {", ".join(self.common_names)} |',
