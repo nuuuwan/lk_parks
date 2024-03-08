@@ -124,3 +124,23 @@ class MetaDataBase:
                 md_list.append(md)
         md_list = sorted(md_list, key=lambda md: md.cmp, reverse=True)
         return md_list
+
+    @classmethod
+    @cache 
+    def summary(cls) -> dict:
+        md_list = cls.list_all()
+        def count(key_lambda):
+            key_to_n = {}
+            for md in cls.list_all():
+                key = key_lambda(md)
+                if key not in key_to_n:
+                    key_to_n[key] = 0
+                key_to_n[key] += 1
+            return key_to_n
+        
+        return dict(
+            n=len(md_list),
+            family_to_n=count(lambda md: md.family),
+            genus_to_n=count(lambda md: md.genus),
+            species_to_n=count(lambda md: md.scientific_name),
+        )

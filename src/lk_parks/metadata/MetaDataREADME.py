@@ -42,11 +42,33 @@ class MetaDataREADME:
             f'| **Altitude** | {self.alt:.1f}m |',
             f'| **Camera Direction** | {self.direction_pretty} |',
         ]
+
     # README
+    @classmethod
+    def lines_summary(cls):
+        summary = cls.summary()
+        n = summary['n']
+        n_families = len(summary['family_to_n'])
+        n_genera = len(summary['genus_to_n'])
+        n_species = len(summary['species_to_n'])
+        lines = [
+            '## Summary Statistics',
+            '',
+            '|  |  |',
+            '| --- | ---: |',
+            f'| **Total Plants** | {n} |',
+            f'| **Unique Families** | {n_families} |',
+            f'| **Unique Genera** | {n_genera} |',
+            f'| **Unique Species** | {n_species} |',
+        ]
+        return lines
+
+        
 
     @classmethod
     def build_readme(cls):
         lines = ['# Viharamahadevi Park, Colombo, Sri Lanka', '']
+        lines.extend(cls.lines_summary()) 
         for md in cls.list_all():
             lines.append(f'## {md.title}')
             lines.append('')

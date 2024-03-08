@@ -1,5 +1,13 @@
 # Viharamahadevi Park, Colombo, Sri Lanka
 
+## Summary Statistics
+
+|  |  |
+| --- | ---: |
+| **Total Plants** | 93 |
+| **Unique Families** | 35 |
+| **Unique Genera** | 56 |
+| **Unique Species** | 68 |
 ## 🌳 [Melaleuca quinquenervia](https://en.wikipedia.org/wiki/Melaleuca_quinquenervia) ([6.9143°N,79.8639°E](https://www.google.com/maps/place/6.914267N,79.863883E))
 
 ![data/images/Photo-2024-03-08-06-58-25.jpg](data/images/Photo-2024-03-08-06-58-25.jpg)
