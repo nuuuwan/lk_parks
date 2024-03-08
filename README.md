@@ -31,7 +31,7 @@
 
 *Cashew, Cashewnut, Pomifera*
 
-
+*සි: Kadju, kaju, த: muntiri, andimangottai*
 
 |  |  |
 | --- | --- |
@@ -141,7 +141,7 @@
 
 *Golden-trumpet, Allamanda, Yellow allamanda*
 
-
+*සි: Val Ruk Attana -, த: -*
 
 |  |  |
 | --- | --- |
@@ -217,7 +217,7 @@
 
 *Crape-jasmine, Butterfly-gardenia, నందివర్ధనం*
 
-
+*සි: Wathu sudda, Watusudda, Watu sudda, Vathu sudda, Vathu-sudda, த: adukkunandiyavattai, nandi-battai, Nandiar-vattai*
 
 |  |  |
 | --- | --- |
@@ -630,7 +630,7 @@
 
 *Tropical almond, Indian-almond, Country-almond*
 
-
+*සි: Kottan, Kottamba, த: nattuvadumai, nattu-vadam<*
 
 |  |  |
 | --- | --- |
@@ -749,7 +749,7 @@
 
 *Mountain ebony, Orchidtree, Butterfly tree*
 
-
+*සි: Sinhala:  Koboleela,  a type of Udavaedia plant., த: Tamil: segappumandrai, tiruvatti*
 
 |  |  |
 | --- | --- |
@@ -772,7 +772,7 @@
 
 *Golden Shower Tree, Indian-laburnum, Amaltas*
 
-
+*සි: Aehaela, Ehela  ඇහැල, த: konrai, konnai, Mullaimaram*
 
 |  |  |
 | --- | --- |
@@ -1014,7 +1014,7 @@
 
 *Black Walnut, English walnut, Carpathian walnut*
 
-
+*සි: Aettakottam, த: -*
 
 |  |  |
 | --- | --- |
@@ -1039,7 +1039,7 @@
 
 *Teak, Bankok teak, Indian-oak*
 
-
+*සි: The~kka (~ signify long sound), த: thekku*
 
 |  |  |
 | --- | --- |
@@ -1224,7 +1224,7 @@
 
 *Jackfruit, কাঠাল, పనస*
 
-
+*සි: Herali, Kos, Vaela, (Waraka see Artocarpus Indica), த: pila, pala, Palavu (Tamil)*
 
 |  |  |
 | --- | --- |
@@ -1275,7 +1275,7 @@
 
 *Indian banyan, Ficus Audrey, Bengal banyan*
 
-
+*සි: Nuga, Mahanuga, த: alamaram,  kottam , Nakar, Nakaram,  Niyaman*
 
 |  |  |
 | --- | --- |

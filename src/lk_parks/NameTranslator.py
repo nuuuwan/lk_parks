@@ -27,6 +27,7 @@ class NameTranslator:
                 if len(columns) != 5:
                     continue
                 scientific_name = columns[0].text.strip()
+                scientific_name = ' '.join(scientific_name.split(' ')[:2])
                 sinhala = NameTranslator.extract_text(columns[1])
                 pali_sanskrit = NameTranslator.extract_text(columns[2])
                 tamil = NameTranslator.extract_text(columns[3])
