@@ -17,6 +17,7 @@ class MetaDataBase:
     plantnet_results: list[dict]
 
     DIR_DATA_METADATA = os.path.join('data', 'metadata')
+
     TIME_FORMAT = TimeFormat('%H:%M %p (%b %d, %Y)')
 
     def __dict__(self) -> dict:
@@ -57,6 +58,10 @@ class MetaDataBase:
         name_only = os.path.basename(self.image_path).split('.')[0]
         return os.path.join(MetaDataBase.DIR_DATA_METADATA,
                             name_only + '.json')
+
+    @property
+    def metadata_path_unix(self) -> str:
+        return self.metadata_path.replace('\\', '/')
 
     def write(self):
         if os.path.exists(self.metadata_path):
