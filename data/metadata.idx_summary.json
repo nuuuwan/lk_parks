@@ -4,6 +4,19 @@
       "Avicennia marina": [
         "data/metadata/Photo-2023-12-31-07-53-22.json"
       ]
+    },
+    "Thunbergia": {
+      "Thunbergia alata": [
+        "data/metadata/Photo-2024-01-27-10-35-54.json"
+      ]
+    }
+  },
+  "Amaryllidaceae": {
+    "Clivia": {
+      "Clivia nobilis": [
+        "data/metadata/Photo-2024-01-27-10-35-31.json",
+        "data/metadata/Photo-2024-01-27-10-36-31.json"
+      ]
     }
   },
   "Anacardiaceae": {
@@ -58,6 +71,18 @@
       "Trachelospermum jasminoides": [
         "data/metadata/Photo-2024-03-08-07-11-11.json"
       ]
+    },
+    "Vinca": {
+      "Vinca major": [
+        "data/metadata/Photo-2024-01-27-10-37-49.json"
+      ]
+    }
+  },
+  "Araceae": {
+    "Zantedeschia": {
+      "Zantedeschia aethiopica": [
+        "data/metadata/Photo-2024-01-27-10-39-36.json"
+      ]
     }
   },
   "Arecaceae": {
@@ -76,6 +101,28 @@
     "Wodyetia": {
       "Wodyetia bifurcata": [
         "data/metadata/Photo-2024-03-08-07-19-02.json"
+      ]
+    }
+  },
+  "Asteraceae": {
+    "Ageratina": {
+      "Ageratina riparia": [
+        "data/metadata/Photo-2024-01-27-10-30-15.json"
+      ]
+    },
+    "Bidens": {
+      "Bidens pilosa": [
+        "data/metadata/Photo-2024-01-27-10-59-48.json"
+      ]
+    }
+  },
+  "Balsaminaceae": {
+    "Impatiens": {
+      "Impatiens hawkeri": [
+        "data/metadata/Photo-2024-01-27-10-36-41.json",
+        "data/metadata/Photo-2024-01-27-10-32-26.json",
+        "data/metadata/Photo-2024-01-27-10-32-41.json",
+        "data/metadata/Photo-2024-01-27-10-32-02.json"
       ]
     }
   },
@@ -160,6 +207,14 @@
       ]
     }
   },
+  "Ericaceae": {
+    "Rhododendron": {
+      "Rhododendron simsii": [
+        "data/metadata/Photo-2024-01-27-10-36-08.json",
+        "data/metadata/Photo-2024-01-27-10-36-17.json"
+      ]
+    }
+  },
   "Euphorbiaceae": {
     "Acalypha": {
       "Acalypha wilkesiana": [
@@ -224,6 +279,16 @@
       ]
     }
   },
+  "Hydrangeaceae": {
+    "Hydrangea": {
+      "Hydrangea macrophylla": [
+        "data/metadata/Photo-2024-01-27-10-33-07.json"
+      ],
+      "Hydrangea spp.": [
+        "data/metadata/Photo-2024-01-27-10-33-20.json"
+      ]
+    }
+  },
   "Juglandaceae": {
     "Juglans": {
       "Juglans nigra": [
@@ -235,6 +300,11 @@
     }
   },
   "Lamiaceae": {
+    "Salvia": {
+      "Salvia splendens": [
+        "data/metadata/Photo-2024-01-27-10-39-34.json"
+      ]
+    },
     "Tectona": {
       "Tectona grandis": [
         "data/metadata/Photo-2024-03-08-06-58-01.json"
@@ -250,6 +320,13 @@
     "Laurus": {
       "Laurus nobilis": [
         "data/metadata/Photo-2024-03-08-07-04-39.json"
+      ]
+    }
+  },
+  "Lythraceae": {
+    "Cuphea": {
+      "Cuphea hyssopifolia": [
+        "data/metadata/Photo-2024-01-27-10-35-13.json"
       ]
     }
   },
@@ -389,6 +466,16 @@
       ]
     }
   },
+  "Rosaceae": {
+    "Rosa": {
+      "Rosa spp.": [
+        "data/metadata/Photo-2024-01-27-10-32-50.json"
+      ],
+      "Rosa \u00d7 damascena": [
+        "data/metadata/Photo-2024-01-27-10-32-23.json"
+      ]
+    }
+  },
   "Rubiaceae": {
     "Hamelia": {
       "Hamelia patens": [
@@ -407,6 +494,13 @@
     "Mimusops": {
       "Mimusops elengi": [
         "data/metadata/Photo-2024-03-08-07-01-24.json"
+      ]
+    }
+  },
+  "Theaceae": {
+    "Camellia": {
+      "Camellia sasanqua": [
+        "data/metadata/Photo-2024-01-27-10-36-59.json"
       ]
     }
   }

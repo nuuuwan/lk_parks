@@ -1,0 +1,161 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-01-27, 10 33 07.jpg",
+  "image_path": "data\\images\\Photo-2024-01-27-10-33-07.jpg",
+  "ut": 1706331787,
+  "latlng": [
+    6.969036,
+    80.764564
+  ],
+  "alt": 1889.8685258964144,
+  "direction": 53.9262313860252,
+  "plantnet_results": [
+    {
+      "score": 0.26197,
+      "species": {
+        "scientificNameWithoutAuthor": "Hydrangea macrophylla",
+        "scientificNameAuthorship": "(Thunb.) Ser.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Hydrangea",
+          "scientificNameAuthorship": "",
+          "scientificName": "Hydrangea"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Hydrangeaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Hydrangeaceae"
+        },
+        "commonNames": [
+          "Hydrangea",
+          "Hortensia",
+          "Bigleaf Hydrangea"
+        ],
+        "scientificName": "Hydrangea macrophylla (Thunb.) Ser."
+      },
+      "gbif": {
+        "id": "2985994"
+      },
+      "powo": {
+        "id": "791637-1"
+      }
+    },
+    {
+      "score": 0.07992,
+      "species": {
+        "scientificNameWithoutAuthor": "Hydrangea arborescens",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Hydrangea",
+          "scientificNameAuthorship": "",
+          "scientificName": "Hydrangea"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Hydrangeaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Hydrangeaceae"
+        },
+        "commonNames": [
+          "Smooth hydrangea",
+          "Sevenbark",
+          "Wild Hydrangea"
+        ],
+        "scientificName": "Hydrangea arborescens L."
+      },
+      "gbif": {
+        "id": "2985986"
+      },
+      "powo": {
+        "id": "30010549-2"
+      }
+    },
+    {
+      "score": 0.02465,
+      "species": {
+        "scientificNameWithoutAuthor": "Hydrangea paniculata",
+        "scientificNameAuthorship": "Siebold",
+        "genus": {
+          "scientificNameWithoutAuthor": "Hydrangea",
+          "scientificNameAuthorship": "",
+          "scientificName": "Hydrangea"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Hydrangeaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Hydrangeaceae"
+        },
+        "commonNames": [
+          "Panicled hydrangea",
+          "Peegee Hydrangea",
+          "Panicle Hydrangea"
+        ],
+        "scientificName": "Hydrangea paniculata Siebold"
+      },
+      "gbif": {
+        "id": "2985995"
+      },
+      "powo": {
+        "id": "791653-1"
+      },
+      "iucn": {
+        "id": "147376037",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00597,
+      "species": {
+        "scientificNameWithoutAuthor": "Viburnum carlesii",
+        "scientificNameAuthorship": "Hemsl.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Viburnum",
+          "scientificNameAuthorship": "",
+          "scientificName": "Viburnum"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Viburnaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Viburnaceae"
+        },
+        "commonNames": [
+          "Koreanspice viburnum",
+          "Korean spice viburnum"
+        ],
+        "scientificName": "Viburnum carlesii Hemsl."
+      },
+      "gbif": {
+        "id": "3857225"
+      },
+      "powo": {
+        "id": "149599-1"
+      }
+    },
+    {
+      "score": 0.00437,
+      "species": {
+        "scientificNameWithoutAuthor": "Caldcluvia paniculata",
+        "scientificNameAuthorship": "(Cav.) D.Don",
+        "genus": {
+          "scientificNameWithoutAuthor": "Caldcluvia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Caldcluvia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Cunoniaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cunoniaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Caldcluvia paniculata (Cav.) D.Don"
+      },
+      "gbif": {
+        "id": "3613200"
+      },
+      "powo": {
+        "id": "790442-1"
+      },
+      "iucn": {
+        "id": "175671010",
+        "category": "LC"
+      }
+    }
+  ]
+}

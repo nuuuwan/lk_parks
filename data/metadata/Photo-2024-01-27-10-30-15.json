@@ -1,0 +1,127 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-01-27, 10 30 15.jpg",
+  "image_path": "data\\images\\Photo-2024-01-27-10-30-15.jpg",
+  "ut": 1706331615,
+  "latlng": [
+    6.968231,
+    80.764253
+  ],
+  "alt": 1890.6897470039946,
+  "direction": 87.35291285507944,
+  "plantnet_results": [
+    {
+      "score": 0.91676,
+      "species": {
+        "scientificNameWithoutAuthor": "Ageratina riparia",
+        "scientificNameAuthorship": "(Regel) R.M.King & H.Rob.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ageratina",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ageratina"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Asteraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Asteraceae"
+        },
+        "commonNames": [
+          "Creeping croftonweed",
+          "Mist flower",
+          "River-eupatorium"
+        ],
+        "scientificName": "Ageratina riparia (Regel) R.M.King & H.Rob."
+      },
+      "gbif": {
+        "id": "5400790"
+      },
+      "powo": {
+        "id": "7013-2"
+      }
+    },
+    {
+      "score": 0.03202,
+      "species": {
+        "scientificNameWithoutAuthor": "Ageratina altissima",
+        "scientificNameAuthorship": "(L.) R.M.King & H.Rob.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ageratina",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ageratina"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Asteraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Asteraceae"
+        },
+        "commonNames": [
+          "White Snakeroot",
+          "Richweed",
+          "Snakeroot"
+        ],
+        "scientificName": "Ageratina altissima (L.) R.M.King & H.Rob."
+      },
+      "gbif": {
+        "id": "5400552"
+      },
+      "powo": {
+        "id": "6815-2"
+      }
+    },
+    {
+      "score": 0.02798,
+      "species": {
+        "scientificNameWithoutAuthor": "Ageratina adenophora",
+        "scientificNameAuthorship": "(Spreng.) R.M.King & H.Rob.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ageratina",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ageratina"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Asteraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Asteraceae"
+        },
+        "commonNames": [
+          "Maui pamakani",
+          "Mexican devil",
+          "Sticky snakeroot"
+        ],
+        "scientificName": "Ageratina adenophora (Spreng.) R.M.King & H.Rob."
+      },
+      "gbif": {
+        "id": "5400613"
+      },
+      "powo": {
+        "id": "6811-2"
+      }
+    },
+    {
+      "score": 0.0027,
+      "species": {
+        "scientificNameWithoutAuthor": "Ageratina aromatica",
+        "scientificNameAuthorship": "(L.) Spach",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ageratina",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ageratina"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Asteraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Asteraceae"
+        },
+        "commonNames": [
+          "Lesser snakeroot"
+        ],
+        "scientificName": "Ageratina aromatica (L.) Spach"
+      },
+      "gbif": {
+        "id": "5400300"
+      },
+      "powo": {
+        "id": "1183567-2"
+      }
+    }
+  ]
+}

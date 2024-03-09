@@ -1,0 +1,157 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-01-27, 10 33 20.jpg",
+  "image_path": "data\\images\\Photo-2024-01-27-10-33-20.jpg",
+  "ut": 1706331800,
+  "latlng": [
+    6.969086,
+    80.764572
+  ],
+  "alt": 1885.8471001757468,
+  "direction": 37.19146728515625,
+  "plantnet_results": [
+    {
+      "score": 0.58642,
+      "species": {
+        "scientificNameWithoutAuthor": "Hydrangea spp.",
+        "scientificNameAuthorship": "",
+        "genus": {
+          "scientificNameWithoutAuthor": "Hydrangea",
+          "scientificNameAuthorship": "",
+          "scientificName": "Hydrangea"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Hydrangeaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Hydrangeaceae"
+        },
+        "commonNames": [
+          "Hydrangea",
+          "Hortensia",
+          "Garden Hydrangea"
+        ],
+        "scientificName": "Hydrangea spp."
+      },
+      "gbif": null
+    },
+    {
+      "score": 0.12212,
+      "species": {
+        "scientificNameWithoutAuthor": "Hydrangea macrophylla",
+        "scientificNameAuthorship": "(Thunb.) Ser.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Hydrangea",
+          "scientificNameAuthorship": "",
+          "scientificName": "Hydrangea"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Hydrangeaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Hydrangeaceae"
+        },
+        "commonNames": [
+          "Hydrangea",
+          "Hortensia",
+          "Bigleaf Hydrangea"
+        ],
+        "scientificName": "Hydrangea macrophylla (Thunb.) Ser."
+      },
+      "gbif": {
+        "id": "2985994"
+      },
+      "powo": {
+        "id": "791637-1"
+      }
+    },
+    {
+      "score": 0.06935,
+      "species": {
+        "scientificNameWithoutAuthor": "Hydrangea arborescens",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Hydrangea",
+          "scientificNameAuthorship": "",
+          "scientificName": "Hydrangea"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Hydrangeaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Hydrangeaceae"
+        },
+        "commonNames": [
+          "Smooth hydrangea",
+          "Sevenbark",
+          "Wild Hydrangea"
+        ],
+        "scientificName": "Hydrangea arborescens L."
+      },
+      "gbif": {
+        "id": "2985986"
+      },
+      "powo": {
+        "id": "30010549-2"
+      }
+    },
+    {
+      "score": 0.00554,
+      "species": {
+        "scientificNameWithoutAuthor": "Hydrangea paniculata",
+        "scientificNameAuthorship": "Siebold",
+        "genus": {
+          "scientificNameWithoutAuthor": "Hydrangea",
+          "scientificNameAuthorship": "",
+          "scientificName": "Hydrangea"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Hydrangeaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Hydrangeaceae"
+        },
+        "commonNames": [
+          "Panicled hydrangea",
+          "Peegee Hydrangea",
+          "Panicle Hydrangea"
+        ],
+        "scientificName": "Hydrangea paniculata Siebold"
+      },
+      "gbif": {
+        "id": "2985995"
+      },
+      "powo": {
+        "id": "791653-1"
+      },
+      "iucn": {
+        "id": "147376037",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00357,
+      "species": {
+        "scientificNameWithoutAuthor": "Viburnum plicatum",
+        "scientificNameAuthorship": "Thunb.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Viburnum",
+          "scientificNameAuthorship": "",
+          "scientificName": "Viburnum"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Adoxaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Adoxaceae"
+        },
+        "commonNames": [
+          "Japanese snowball",
+          "Hydrangea",
+          "\u0628\u062f\u0627\u063a \u0698\u0627\u067e\u0646\u06cc"
+        ],
+        "scientificName": "Viburnum plicatum Thunb."
+      },
+      "gbif": {
+        "id": "2888622"
+      },
+      "powo": {
+        "id": "149876-1"
+      }
+    }
+  ]
+}

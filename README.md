@@ -14,6 +14,42 @@
 
 ![data/images/Photo-2023-12-31-07-53-22.jpg](data/images/Photo-2023-12-31-07-53-22.jpg)
 
+## [`Thunbergia`](https://en.wikipedia.org/wiki/Thunbergia)
+
+### *[`Thunbergia alata`](https://en.wikipedia.org/wiki/Thunbergia_alata)* Bojer ex Sims
+
+*`E` Blackeyed Susan vine, Black Eyed Susan, Black-eyed-Susan-vine*
+
+(1 Example)
+
+#### 10:35 AM (Jan 27, 2024) · [6.9685°N,80.7653°E](https://www.google.com/maps/place/6.968511N,80.765311E)
+
+*🟩 Confidence [`Thunbergia alata`](https://en.wikipedia.org/wiki/Thunbergia_alata) (93.7%), [`Thunbergia gregorii`](https://en.wikipedia.org/wiki/Thunbergia_gregorii) (1.2%), [`Uncarina grandidieri`](https://en.wikipedia.org/wiki/Uncarina_grandidieri) (0.7%), [`Thunbergia battiscombei`](https://en.wikipedia.org/wiki/Thunbergia_battiscombei) (0.2%)*
+
+![data/images/Photo-2024-01-27-10-35-54.jpg](data/images/Photo-2024-01-27-10-35-54.jpg)
+
+# [`Amaryllidaceae`](https://en.wikipedia.org/wiki/Amaryllidaceae)
+
+## [`Clivia`](https://en.wikipedia.org/wiki/Clivia)
+
+### *[`Clivia nobilis`](https://en.wikipedia.org/wiki/Clivia_nobilis)* Lindl.
+
+*`E` Green-tip forest lily, Bush lily*
+
+(2 Examples)
+
+#### 10:35 AM (Jan 27, 2024) · [6.9686°N,80.7652°E](https://www.google.com/maps/place/6.968647N,80.765175E)
+
+*🟨 Confidence [`Clivia nobilis`](https://en.wikipedia.org/wiki/Clivia_nobilis) (55.1%), [`Clivia × cyrtanthiflora`](https://en.wikipedia.org/wiki/Clivia_×_cyrtanthiflora) (29.7%), [`Clivia miniata`](https://en.wikipedia.org/wiki/Clivia_miniata) (2.9%), [`Cyrtanthus elatus`](https://en.wikipedia.org/wiki/Cyrtanthus_elatus) (0.2%), [`Agapanthus africanus`](https://en.wikipedia.org/wiki/Agapanthus_africanus) (0.1%)*
+
+![data/images/Photo-2024-01-27-10-35-31.jpg](data/images/Photo-2024-01-27-10-35-31.jpg)
+
+#### 10:36 AM (Jan 27, 2024) · [6.9683°N,80.7654°E](https://www.google.com/maps/place/6.968294N,80.765367E)
+
+*🟨 Confidence [`Clivia nobilis`](https://en.wikipedia.org/wiki/Clivia_nobilis) (48.6%), [`Clivia × cyrtanthiflora`](https://en.wikipedia.org/wiki/Clivia_×_cyrtanthiflora) (15.6%), [`Clivia miniata`](https://en.wikipedia.org/wiki/Clivia_miniata) (12.1%), [`Cyrtanthus elatus`](https://en.wikipedia.org/wiki/Cyrtanthus_elatus) (1.0%), [`Clivia caulescens`](https://en.wikipedia.org/wiki/Clivia_caulescens) (0.5%)*
+
+![data/images/Photo-2024-01-27-10-36-31.jpg](data/images/Photo-2024-01-27-10-36-31.jpg)
+
 # [`Anacardiaceae`](https://en.wikipedia.org/wiki/Anacardiaceae)
 
 ## [`Anacardium`](https://en.wikipedia.org/wiki/Anacardium)
@@ -164,6 +200,36 @@
 
 ![data/images/Photo-2024-03-08-07-11-11.jpg](data/images/Photo-2024-03-08-07-11-11.jpg)
 
+## [`Vinca`](https://en.wikipedia.org/wiki/Vinca)
+
+### *[`Vinca major`](https://en.wikipedia.org/wiki/Vinca_major)* L.
+
+*`E` Bigleaf periwinkle, Greater Periwinkle, Blue periwinkle*
+
+(1 Example)
+
+#### 10:37 AM (Jan 27, 2024) · [6.9680°N,80.7655°E](https://www.google.com/maps/place/6.968042N,80.76545E)
+
+*🟩 Confidence [`Vinca major`](https://en.wikipedia.org/wiki/Vinca_major) (86.4%), [`Vinca difformis`](https://en.wikipedia.org/wiki/Vinca_difformis) (3.4%), [`Vinca herbacea`](https://en.wikipedia.org/wiki/Vinca_herbacea) (2.3%), [`Vinca minor`](https://en.wikipedia.org/wiki/Vinca_minor) (1.8%), [`Vinca erecta`](https://en.wikipedia.org/wiki/Vinca_erecta) (0.4%)*
+
+![data/images/Photo-2024-01-27-10-37-49.jpg](data/images/Photo-2024-01-27-10-37-49.jpg)
+
+# [`Araceae`](https://en.wikipedia.org/wiki/Araceae)
+
+## [`Zantedeschia`](https://en.wikipedia.org/wiki/Zantedeschia)
+
+### *[`Zantedeschia aethiopica`](https://en.wikipedia.org/wiki/Zantedeschia_aethiopica)* (L.) Spreng.
+
+*`E` Calla lily, Arum Lily, Altar-lily*
+
+(1 Example)
+
+#### 10:39 AM (Jan 27, 2024) · [6.9679°N,80.7656°E](https://www.google.com/maps/place/6.967878N,80.765586E)
+
+*🟨 Confidence [`Zantedeschia aethiopica`](https://en.wikipedia.org/wiki/Zantedeschia_aethiopica) (33.6%), [`Calla palustris`](https://en.wikipedia.org/wiki/Calla_palustris) (25.6%), [`Spathiphyllum cannifolium`](https://en.wikipedia.org/wiki/Spathiphyllum_cannifolium) (3.4%), [`Spathiphyllum friedrichsthalii`](https://en.wikipedia.org/wiki/Spathiphyllum_friedrichsthalii) (1.0%), [`Zantedeschia rehmannii`](https://en.wikipedia.org/wiki/Zantedeschia_rehmannii) (0.9%)*
+
+![data/images/Photo-2024-01-27-10-39-36.jpg](data/images/Photo-2024-01-27-10-39-36.jpg)
+
 # [`Arecaceae`](https://en.wikipedia.org/wiki/Arecaceae)
 
 ## [`Dictyosperma`](https://en.wikipedia.org/wiki/Dictyosperma)
@@ -219,6 +285,70 @@
 *🟨 Confidence [`Wodyetia bifurcata`](https://en.wikipedia.org/wiki/Wodyetia_bifurcata) (60.3%), [`Syagrus romanzoffiana`](https://en.wikipedia.org/wiki/Syagrus_romanzoffiana) (3.0%), [`Ptychosperma microcarpum`](https://en.wikipedia.org/wiki/Ptychosperma_microcarpum) (2.3%), [`Chamaedorea seifrizii`](https://en.wikipedia.org/wiki/Chamaedorea_seifrizii) (2.2%), [`Chamaedorea elegans`](https://en.wikipedia.org/wiki/Chamaedorea_elegans) (1.9%)*
 
 ![data/images/Photo-2024-03-08-07-19-02.jpg](data/images/Photo-2024-03-08-07-19-02.jpg)
+
+# [`Asteraceae`](https://en.wikipedia.org/wiki/Asteraceae)
+
+## [`Ageratina`](https://en.wikipedia.org/wiki/Ageratina)
+
+### *[`Ageratina riparia`](https://en.wikipedia.org/wiki/Ageratina_riparia)* (Regel) R.M.King & H.Rob.
+
+*`E` Creeping croftonweed, Mist flower, River-eupatorium*
+
+(1 Example)
+
+#### 10:30 AM (Jan 27, 2024) · [6.9682°N,80.7643°E](https://www.google.com/maps/place/6.968231N,80.764253E)
+
+*🟩 Confidence [`Ageratina riparia`](https://en.wikipedia.org/wiki/Ageratina_riparia) (91.7%), [`Ageratina altissima`](https://en.wikipedia.org/wiki/Ageratina_altissima) (3.2%), [`Ageratina adenophora`](https://en.wikipedia.org/wiki/Ageratina_adenophora) (2.8%), [`Ageratina aromatica`](https://en.wikipedia.org/wiki/Ageratina_aromatica) (0.3%)*
+
+![data/images/Photo-2024-01-27-10-30-15.jpg](data/images/Photo-2024-01-27-10-30-15.jpg)
+
+## [`Bidens`](https://en.wikipedia.org/wiki/Bidens)
+
+### *[`Bidens pilosa`](https://en.wikipedia.org/wiki/Bidens_pilosa)* L.
+
+*`E` Spanish-needles, Beggar-ticks, Black-jack*
+
+(1 Example)
+
+#### 10:59 AM (Jan 27, 2024) · [6.9711°N,80.7649°E](https://www.google.com/maps/place/6.97115N,80.764931E)
+
+*🟩 Confidence [`Bidens pilosa`](https://en.wikipedia.org/wiki/Bidens_pilosa) (70.3%), [`Bidens alba`](https://en.wikipedia.org/wiki/Bidens_alba) (21.8%), [`Bidens bipinnata`](https://en.wikipedia.org/wiki/Bidens_bipinnata) (1.7%), [`Bidens aurea`](https://en.wikipedia.org/wiki/Bidens_aurea) (0.9%), [`Bidens biternata`](https://en.wikipedia.org/wiki/Bidens_biternata) (0.1%)*
+
+![data/images/Photo-2024-01-27-10-59-48.jpg](data/images/Photo-2024-01-27-10-59-48.jpg)
+
+# [`Balsaminaceae`](https://en.wikipedia.org/wiki/Balsaminaceae)
+
+## [`Impatiens`](https://en.wikipedia.org/wiki/Impatiens)
+
+### *[`Impatiens hawkeri`](https://en.wikipedia.org/wiki/Impatiens_hawkeri)* W.Bull
+
+*`E` New Guinea Impatiens, Impatiens, گل حنا*
+
+(4 Examples)
+
+#### 10:36 AM (Jan 27, 2024) · [6.9682°N,80.7654°E](https://www.google.com/maps/place/6.968239N,80.765358E)
+
+*🟩 Confidence [`Impatiens hawkeri`](https://en.wikipedia.org/wiki/Impatiens_hawkeri) (69.0%), [`Impatiens walleriana`](https://en.wikipedia.org/wiki/Impatiens_walleriana) (12.8%), [`Impatiens balsamina`](https://en.wikipedia.org/wiki/Impatiens_balsamina) (2.0%), [`Impatiens flaccida`](https://en.wikipedia.org/wiki/Impatiens_flaccida) (0.7%), [`Lobelia cardinalis`](https://en.wikipedia.org/wiki/Lobelia_cardinalis) (0.3%)*
+
+![data/images/Photo-2024-01-27-10-36-41.jpg](data/images/Photo-2024-01-27-10-36-41.jpg)
+
+#### 10:32 AM (Jan 27, 2024) · [6.9689°N,80.7646°E](https://www.google.com/maps/place/6.968867N,80.764556E)
+
+*🟩 Confidence [`Impatiens hawkeri`](https://en.wikipedia.org/wiki/Impatiens_hawkeri) (67.5%), [`Impatiens walleriana`](https://en.wikipedia.org/wiki/Impatiens_walleriana) (28.1%), [`Impatiens flaccida`](https://en.wikipedia.org/wiki/Impatiens_flaccida) (0.5%), [`Impatiens balsamina`](https://en.wikipedia.org/wiki/Impatiens_balsamina) (0.3%)*
+
+![data/images/Photo-2024-01-27-10-32-26.jpg](data/images/Photo-2024-01-27-10-32-26.jpg)
+
+#### 10:32 AM (Jan 27, 2024) · [6.9689°N,80.7646°E](https://www.google.com/maps/place/6.968883N,80.764564E)
+
+*🟩 Confidence [`Impatiens hawkeri`](https://en.wikipedia.org/wiki/Impatiens_hawkeri) (67.8%), [`Impatiens walleriana`](https://en.wikipedia.org/wiki/Impatiens_walleriana) (21.3%), [`Impatiens balsamina`](https://en.wikipedia.org/wiki/Impatiens_balsamina) (2.8%), [`Impatiens sodenii`](https://en.wikipedia.org/wiki/Impatiens_sodenii) (0.3%), [`Impatiens flaccida`](https://en.wikipedia.org/wiki/Impatiens_flaccida) (0.2%)*
+
+![data/images/Photo-2024-01-27-10-32-41.jpg](data/images/Photo-2024-01-27-10-32-41.jpg)
+
+#### 10:32 AM (Jan 27, 2024) · [6.9688°N,80.7646°E](https://www.google.com/maps/place/6.968819N,80.764564E)
+
+*🟨 Confidence [`Impatiens hawkeri`](https://en.wikipedia.org/wiki/Impatiens_hawkeri) (38.2%), [`Impatiens walleriana`](https://en.wikipedia.org/wiki/Impatiens_walleriana) (13.4%), [`Impatiens balsamina`](https://en.wikipedia.org/wiki/Impatiens_balsamina) (10.6%), [`Impatiens sodenii`](https://en.wikipedia.org/wiki/Impatiens_sodenii) (6.6%), [`Impatiens flaccida`](https://en.wikipedia.org/wiki/Impatiens_flaccida) (3.4%)*
+
+![data/images/Photo-2024-01-27-10-32-02.jpg](data/images/Photo-2024-01-27-10-32-02.jpg)
 
 # [`Betulaceae`](https://en.wikipedia.org/wiki/Betulaceae)
 
@@ -454,6 +584,28 @@
 
 ![data/images/Photo-2024-01-19-07-23-37.jpg](data/images/Photo-2024-01-19-07-23-37.jpg)
 
+# [`Ericaceae`](https://en.wikipedia.org/wiki/Ericaceae)
+
+## [`Rhododendron`](https://en.wikipedia.org/wiki/Rhododendron)
+
+### *[`Rhododendron simsii`](https://en.wikipedia.org/wiki/Rhododendron_simsii)* Planch.
+
+*`E` Azalea, Rhododendron, Pot Azalea*
+
+(2 Examples)
+
+#### 10:36 AM (Jan 27, 2024) · [6.9684°N,80.7653°E](https://www.google.com/maps/place/6.968447N,80.765328E)
+
+*🟨 Confidence [`Rhododendron simsii`](https://en.wikipedia.org/wiki/Rhododendron_simsii) (48.3%), [`Rhododendron indicum`](https://en.wikipedia.org/wiki/Rhododendron_indicum) (8.1%), [`Rhododendron augustinii`](https://en.wikipedia.org/wiki/Rhododendron_augustinii) (2.3%), [`Rhododendron kiusianum`](https://en.wikipedia.org/wiki/Rhododendron_kiusianum) (1.9%), [`Rhododendron occidentale`](https://en.wikipedia.org/wiki/Rhododendron_occidentale) (1.7%)*
+
+![data/images/Photo-2024-01-27-10-36-08.jpg](data/images/Photo-2024-01-27-10-36-08.jpg)
+
+#### 10:36 AM (Jan 27, 2024) · [6.9684°N,80.7653°E](https://www.google.com/maps/place/6.968397N,80.765328E)
+
+*🟨 Confidence [`Rhododendron simsii`](https://en.wikipedia.org/wiki/Rhododendron_simsii) (33.4%), [`Rhododendron indicum`](https://en.wikipedia.org/wiki/Rhododendron_indicum) (29.2%), [`Rhododendron ferrugineum`](https://en.wikipedia.org/wiki/Rhododendron_ferrugineum) (3.7%), [`Rhododendron roseum`](https://en.wikipedia.org/wiki/Rhododendron_roseum) (2.3%), [`Rhododendron nakaharae`](https://en.wikipedia.org/wiki/Rhododendron_nakaharae) (1.7%)*
+
+![data/images/Photo-2024-01-27-10-36-17.jpg](data/images/Photo-2024-01-27-10-36-17.jpg)
+
 # [`Euphorbiaceae`](https://en.wikipedia.org/wiki/Euphorbiaceae)
 
 ## [`Acalypha`](https://en.wikipedia.org/wiki/Acalypha)
@@ -636,6 +788,34 @@
 
 ![data/images/Photo-2024-03-08-07-19-27.jpg](data/images/Photo-2024-03-08-07-19-27.jpg)
 
+# [`Hydrangeaceae`](https://en.wikipedia.org/wiki/Hydrangeaceae)
+
+## [`Hydrangea`](https://en.wikipedia.org/wiki/Hydrangea)
+
+### *[`Hydrangea macrophylla`](https://en.wikipedia.org/wiki/Hydrangea_macrophylla)* (Thunb.) Ser.
+
+*`E` Hydrangea, Hortensia, Bigleaf Hydrangea*
+
+(1 Example)
+
+#### 10:33 AM (Jan 27, 2024) · [6.9690°N,80.7646°E](https://www.google.com/maps/place/6.969036N,80.764564E)
+
+*🟥 Confidence [`Hydrangea macrophylla`](https://en.wikipedia.org/wiki/Hydrangea_macrophylla) (26.2%), [`Hydrangea arborescens`](https://en.wikipedia.org/wiki/Hydrangea_arborescens) (8.0%), [`Hydrangea paniculata`](https://en.wikipedia.org/wiki/Hydrangea_paniculata) (2.5%), [`Viburnum carlesii`](https://en.wikipedia.org/wiki/Viburnum_carlesii) (0.6%), [`Caldcluvia paniculata`](https://en.wikipedia.org/wiki/Caldcluvia_paniculata) (0.4%)*
+
+![data/images/Photo-2024-01-27-10-33-07.jpg](data/images/Photo-2024-01-27-10-33-07.jpg)
+
+### *[`Hydrangea spp.`](https://en.wikipedia.org/wiki/Hydrangea_spp.)* 
+
+*`E` Hydrangea, Hortensia, Garden Hydrangea*
+
+(1 Example)
+
+#### 10:33 AM (Jan 27, 2024) · [6.9691°N,80.7646°E](https://www.google.com/maps/place/6.969086N,80.764572E)
+
+*🟨 Confidence [`Hydrangea spp.`](https://en.wikipedia.org/wiki/Hydrangea_spp.) (58.6%), [`Hydrangea macrophylla`](https://en.wikipedia.org/wiki/Hydrangea_macrophylla) (12.2%), [`Hydrangea arborescens`](https://en.wikipedia.org/wiki/Hydrangea_arborescens) (6.9%), [`Hydrangea paniculata`](https://en.wikipedia.org/wiki/Hydrangea_paniculata) (0.6%), [`Viburnum plicatum`](https://en.wikipedia.org/wiki/Viburnum_plicatum) (0.4%)*
+
+![data/images/Photo-2024-01-27-10-33-20.jpg](data/images/Photo-2024-01-27-10-33-20.jpg)
+
 # [`Juglandaceae`](https://en.wikipedia.org/wiki/Juglandaceae)
 
 ## [`Juglans`](https://en.wikipedia.org/wiki/Juglans)
@@ -665,6 +845,20 @@
 ![data/images/Photo-2023-12-31-07-51-13.jpg](data/images/Photo-2023-12-31-07-51-13.jpg)
 
 # [`Lamiaceae`](https://en.wikipedia.org/wiki/Lamiaceae)
+
+## [`Salvia`](https://en.wikipedia.org/wiki/Salvia)
+
+### *[`Salvia splendens`](https://en.wikipedia.org/wiki/Salvia_splendens)* Sellow ex Nees
+
+*`E` Bonfire salvia, Scarlet sage, Tropical sage*
+
+(1 Example)
+
+#### 10:39 AM (Jan 27, 2024) · [6.9680°N,80.7653°E](https://www.google.com/maps/place/6.967972N,80.765306E)
+
+*🟨 Confidence [`Salvia splendens`](https://en.wikipedia.org/wiki/Salvia_splendens) (47.1%), [`Salvia coccinea`](https://en.wikipedia.org/wiki/Salvia_coccinea) (0.5%), [`Salvia regla`](https://en.wikipedia.org/wiki/Salvia_regla) (0.3%), [`Salvia elegans`](https://en.wikipedia.org/wiki/Salvia_elegans) (0.2%), [`Lobelia cardinalis`](https://en.wikipedia.org/wiki/Lobelia_cardinalis) (0.1%)*
+
+![data/images/Photo-2024-01-27-10-39-34.jpg](data/images/Photo-2024-01-27-10-39-34.jpg)
 
 ## [`Tectona`](https://en.wikipedia.org/wiki/Tectona)
 
@@ -709,6 +903,22 @@
 *🟥 Confidence [`Laurus nobilis`](https://en.wikipedia.org/wiki/Laurus_nobilis) (14.7%), [`Laurus azorica`](https://en.wikipedia.org/wiki/Laurus_azorica) (3.4%), [`Ruprechtia laxiflora`](https://en.wikipedia.org/wiki/Ruprechtia_laxiflora) (3.3%), [`Gymnanthemum amygdalinum`](https://en.wikipedia.org/wiki/Gymnanthemum_amygdalinum) (2.7%), [`Combretum kraussii`](https://en.wikipedia.org/wiki/Combretum_kraussii) (2.2%)*
 
 ![data/images/Photo-2024-03-08-07-04-39.jpg](data/images/Photo-2024-03-08-07-04-39.jpg)
+
+# [`Lythraceae`](https://en.wikipedia.org/wiki/Lythraceae)
+
+## [`Cuphea`](https://en.wikipedia.org/wiki/Cuphea)
+
+### *[`Cuphea hyssopifolia`](https://en.wikipedia.org/wiki/Cuphea_hyssopifolia)* Kunth
+
+*`E` Elfin Herb, Mexican Heather, False heather*
+
+(1 Example)
+
+#### 10:35 AM (Jan 27, 2024) · [6.9687°N,80.7651°E](https://www.google.com/maps/place/6.96865N,80.765144E)
+
+*🟨 Confidence [`Cuphea hyssopifolia`](https://en.wikipedia.org/wiki/Cuphea_hyssopifolia) (50.9%), [`Cuphea hookeriana`](https://en.wikipedia.org/wiki/Cuphea_hookeriana) (14.8%), [`Lythrum junceum`](https://en.wikipedia.org/wiki/Lythrum_junceum) (5.7%), [`Cuphea aspera`](https://en.wikipedia.org/wiki/Cuphea_aspera) (0.7%), [`Cuphea fruticosa`](https://en.wikipedia.org/wiki/Cuphea_fruticosa) (0.4%)*
+
+![data/images/Photo-2024-01-27-10-35-13.jpg](data/images/Photo-2024-01-27-10-35-13.jpg)
 
 # [`Malpighiaceae`](https://en.wikipedia.org/wiki/Malpighiaceae)
 
@@ -1098,6 +1308,34 @@
 
 ![data/images/Photo-2024-03-08-07-19-20.jpg](data/images/Photo-2024-03-08-07-19-20.jpg)
 
+# [`Rosaceae`](https://en.wikipedia.org/wiki/Rosaceae)
+
+## [`Rosa`](https://en.wikipedia.org/wiki/Rosa)
+
+### *[`Rosa spp.`](https://en.wikipedia.org/wiki/Rosa_spp.)* 
+
+*`E` Rose, Double Delight, Common Rose*
+
+(1 Example)
+
+#### 10:32 AM (Jan 27, 2024) · [6.9689°N,80.7646°E](https://www.google.com/maps/place/6.968922N,80.764594E)
+
+*🟥 Confidence [`Rosa spp.`](https://en.wikipedia.org/wiki/Rosa_spp.) (26.4%), [`Rosa gallica`](https://en.wikipedia.org/wiki/Rosa_gallica) (24.6%), [`Rosa pendulina`](https://en.wikipedia.org/wiki/Rosa_pendulina) (9.2%), [`Rosa lucieae`](https://en.wikipedia.org/wiki/Rosa_lucieae) (9.1%), [`Rosa rubiginosa`](https://en.wikipedia.org/wiki/Rosa_rubiginosa) (2.6%)*
+
+![data/images/Photo-2024-01-27-10-32-50.jpg](data/images/Photo-2024-01-27-10-32-50.jpg)
+
+### *[`Rosa × damascena`](https://en.wikipedia.org/wiki/Rosa_×_damascena)* Herrm.
+
+*`E` Damask rose, Portland rose, York-and-Lancaster rose*
+
+(1 Example)
+
+#### 10:32 AM (Jan 27, 2024) · [6.9689°N,80.7646°E](https://www.google.com/maps/place/6.968872N,80.764564E)
+
+*🟨 Confidence [`Rosa × damascena`](https://en.wikipedia.org/wiki/Rosa_×_damascena) (41.8%), [`Rosa abietina`](https://en.wikipedia.org/wiki/Rosa_abietina) (21.8%), [`Rosa lucieae`](https://en.wikipedia.org/wiki/Rosa_lucieae) (20.5%), [`Rosa gallica`](https://en.wikipedia.org/wiki/Rosa_gallica) (3.4%), [`Rosa chinensis`](https://en.wikipedia.org/wiki/Rosa_chinensis) (0.7%)*
+
+![data/images/Photo-2024-01-27-10-32-23.jpg](data/images/Photo-2024-01-27-10-32-23.jpg)
+
 # [`Rubiaceae`](https://en.wikipedia.org/wiki/Rubiaceae)
 
 ## [`Hamelia`](https://en.wikipedia.org/wiki/Hamelia)
@@ -1145,3 +1383,19 @@
 *🟥 Confidence [`Mimusops elengi`](https://en.wikipedia.org/wiki/Mimusops_elengi) (7.5%), [`Ligustrum lucidum`](https://en.wikipedia.org/wiki/Ligustrum_lucidum) (5.9%), [`Syzygium cumini`](https://en.wikipedia.org/wiki/Syzygium_cumini) (5.6%), [`Plinia cauliflora`](https://en.wikipedia.org/wiki/Plinia_cauliflora) (4.7%), [`Quercus glauca`](https://en.wikipedia.org/wiki/Quercus_glauca) (3.5%)*
 
 ![data/images/Photo-2024-03-08-07-01-24.jpg](data/images/Photo-2024-03-08-07-01-24.jpg)
+
+# [`Theaceae`](https://en.wikipedia.org/wiki/Theaceae)
+
+## [`Camellia`](https://en.wikipedia.org/wiki/Camellia)
+
+### *[`Camellia sasanqua`](https://en.wikipedia.org/wiki/Camellia_sasanqua)* Thunb.
+
+*`E` Camellia, Sasanqua camellia, کاملیا*
+
+(1 Example)
+
+#### 10:36 AM (Jan 27, 2024) · [6.9681°N,80.7655°E](https://www.google.com/maps/place/6.968125N,80.76545E)
+
+*🟨 Confidence [`Camellia sasanqua`](https://en.wikipedia.org/wiki/Camellia_sasanqua) (66.5%), [`Camellia japonica`](https://en.wikipedia.org/wiki/Camellia_japonica) (9.1%), [`Camellia saluenensis`](https://en.wikipedia.org/wiki/Camellia_saluenensis) (2.5%), [`Camellia caudata`](https://en.wikipedia.org/wiki/Camellia_caudata) (0.2%), [`Camellia cuspidata`](https://en.wikipedia.org/wiki/Camellia_cuspidata) (0.2%)*
+
+![data/images/Photo-2024-01-27-10-36-59.jpg](data/images/Photo-2024-01-27-10-36-59.jpg)

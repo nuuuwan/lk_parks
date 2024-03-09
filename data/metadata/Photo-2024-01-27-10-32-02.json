@@ -1,0 +1,157 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-01-27, 10 32 02.jpg",
+  "image_path": "data\\images\\Photo-2024-01-27-10-32-02.jpg",
+  "ut": 1706331722,
+  "latlng": [
+    6.968819,
+    80.764564
+  ],
+  "alt": 1892.3341968911918,
+  "direction": 94.53815461346633,
+  "plantnet_results": [
+    {
+      "score": 0.38163,
+      "species": {
+        "scientificNameWithoutAuthor": "Impatiens hawkeri",
+        "scientificNameAuthorship": "W.Bull",
+        "genus": {
+          "scientificNameWithoutAuthor": "Impatiens",
+          "scientificNameAuthorship": "",
+          "scientificName": "Impatiens"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Balsaminaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Balsaminaceae"
+        },
+        "commonNames": [
+          "New Guinea Impatiens",
+          "Impatiens",
+          "\u06af\u0644 \u062d\u0646\u0627"
+        ],
+        "scientificName": "Impatiens hawkeri W.Bull"
+      },
+      "gbif": {
+        "id": "4193702"
+      },
+      "powo": {
+        "id": "374127-1"
+      }
+    },
+    {
+      "score": 0.1343,
+      "species": {
+        "scientificNameWithoutAuthor": "Impatiens walleriana",
+        "scientificNameAuthorship": "Hook.f.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Impatiens",
+          "scientificNameAuthorship": "",
+          "scientificName": "Impatiens"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Balsaminaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Balsaminaceae"
+        },
+        "commonNames": [
+          "Busy lizzy",
+          "\u06af\u0644 \u062d\u0646\u0627",
+          "Buzzy lizzy"
+        ],
+        "scientificName": "Impatiens walleriana Hook.f."
+      },
+      "gbif": {
+        "id": "2891772"
+      },
+      "powo": {
+        "id": "374419-1"
+      }
+    },
+    {
+      "score": 0.10625,
+      "species": {
+        "scientificNameWithoutAuthor": "Impatiens balsamina",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Impatiens",
+          "scientificNameAuthorship": "",
+          "scientificName": "Impatiens"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Balsaminaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Balsaminaceae"
+        },
+        "commonNames": [
+          "Balsam",
+          "Garden balsam",
+          "Touch-me-not"
+        ],
+        "scientificName": "Impatiens balsamina L."
+      },
+      "gbif": {
+        "id": "2891773"
+      },
+      "powo": {
+        "id": "373978-1"
+      }
+    },
+    {
+      "score": 0.06648,
+      "species": {
+        "scientificNameWithoutAuthor": "Impatiens sodenii",
+        "scientificNameAuthorship": "Engl. & Warb.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Impatiens",
+          "scientificNameAuthorship": "",
+          "scientificName": "Impatiens"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Balsaminaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Balsaminaceae"
+        },
+        "commonNames": [
+          "Shrub balsam",
+          "Oliver's touch-me-not",
+          "Poor Man's Rhododendron"
+        ],
+        "scientificName": "Impatiens sodenii Engl. & Warb."
+      },
+      "gbif": {
+        "id": "4193715"
+      },
+      "powo": {
+        "id": "374351-1"
+      }
+    },
+    {
+      "score": 0.03397,
+      "species": {
+        "scientificNameWithoutAuthor": "Impatiens flaccida",
+        "scientificNameAuthorship": "Arn.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Impatiens",
+          "scientificNameAuthorship": "",
+          "scientificName": "Impatiens"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Balsaminaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Balsaminaceae"
+        },
+        "commonNames": [
+          "\u0c30\u0c3f\u0c15\u0c4d\u0c15 \u0c17\u0c4b\u0c30\u0c3f\u0c02\u0c1f",
+          "Busy lizzy"
+        ],
+        "scientificName": "Impatiens flaccida Arn."
+      },
+      "gbif": {
+        "id": "4193555"
+      },
+      "powo": {
+        "id": "374090-1"
+      }
+    }
+  ]
+}

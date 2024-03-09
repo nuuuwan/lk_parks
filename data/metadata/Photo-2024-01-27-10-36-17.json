@@ -1,0 +1,155 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-01-27, 10 36 17.jpg",
+  "image_path": "data\\images\\Photo-2024-01-27-10-36-17.jpg",
+  "ut": 1706331977,
+  "latlng": [
+    6.968397,
+    80.765328
+  ],
+  "alt": 1885.6768092105262,
+  "direction": 256.5345458984375,
+  "plantnet_results": [
+    {
+      "score": 0.33418,
+      "species": {
+        "scientificNameWithoutAuthor": "Rhododendron simsii",
+        "scientificNameAuthorship": "Planch.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Rhododendron",
+          "scientificNameAuthorship": "",
+          "scientificName": "Rhododendron"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Ericaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ericaceae"
+        },
+        "commonNames": [
+          "Azalea",
+          "Rhododendron",
+          "Pot Azalea"
+        ],
+        "scientificName": "Rhododendron simsii Planch."
+      },
+      "gbif": {
+        "id": "7327627"
+      },
+      "powo": {
+        "id": "333359-1"
+      }
+    },
+    {
+      "score": 0.29223,
+      "species": {
+        "scientificNameWithoutAuthor": "Rhododendron indicum",
+        "scientificNameAuthorship": "(L.) Sweet",
+        "genus": {
+          "scientificNameWithoutAuthor": "Rhododendron",
+          "scientificNameAuthorship": "",
+          "scientificName": "Rhododendron"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Ericaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ericaceae"
+        },
+        "commonNames": [
+          "Satsuki azalea",
+          "\u768b\u6708\u675c\u9e43 (ZH)"
+        ],
+        "scientificName": "Rhododendron indicum (L.) Sweet"
+      },
+      "gbif": {
+        "id": "4173541"
+      },
+      "powo": {
+        "id": "1137397-2"
+      }
+    },
+    {
+      "score": 0.03706,
+      "species": {
+        "scientificNameWithoutAuthor": "Rhododendron ferrugineum",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Rhododendron",
+          "scientificNameAuthorship": "",
+          "scientificName": "Rhododendron"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Ericaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ericaceae"
+        },
+        "commonNames": [
+          "Rhododendron",
+          "Alpine-rose",
+          "Alpenrose"
+        ],
+        "scientificName": "Rhododendron ferrugineum L."
+      },
+      "gbif": {
+        "id": "2883073"
+      },
+      "powo": {
+        "id": "332420-1"
+      },
+      "iucn": {
+        "id": "203007",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02316,
+      "species": {
+        "scientificNameWithoutAuthor": "Rhododendron roseum",
+        "scientificNameAuthorship": "(Loisel.) Rehder",
+        "genus": {
+          "scientificNameWithoutAuthor": "Rhododendron",
+          "scientificNameAuthorship": "",
+          "scientificName": "Rhododendron"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Ericaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ericaceae"
+        },
+        "commonNames": [
+          "Early azalea"
+        ],
+        "scientificName": "Rhododendron roseum (Loisel.) Rehder"
+      },
+      "gbif": {
+        "id": "2883082"
+      },
+      "powo": {
+        "id": "219525-2"
+      }
+    },
+    {
+      "score": 0.0174,
+      "species": {
+        "scientificNameWithoutAuthor": "Rhododendron nakaharae",
+        "scientificNameAuthorship": "Hayata",
+        "genus": {
+          "scientificNameWithoutAuthor": "Rhododendron",
+          "scientificNameAuthorship": "",
+          "scientificName": "Rhododendron"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Ericaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ericaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Rhododendron nakaharae Hayata"
+      },
+      "gbif": {
+        "id": "4936872"
+      },
+      "powo": {
+        "id": "332934-1"
+      }
+    }
+  ]
+}

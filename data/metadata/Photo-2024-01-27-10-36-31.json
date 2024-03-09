@@ -1,0 +1,148 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-01-27, 10 36 31.jpg",
+  "image_path": "data\\images\\Photo-2024-01-27-10-36-31.jpg",
+  "ut": 1706331991,
+  "latlng": [
+    6.968294,
+    80.765367
+  ],
+  "alt": 1887.6404199475066,
+  "direction": 259.1263119797322,
+  "plantnet_results": [
+    {
+      "score": 0.48566,
+      "species": {
+        "scientificNameWithoutAuthor": "Clivia nobilis",
+        "scientificNameAuthorship": "Lindl.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Clivia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Clivia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Amaryllidaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Amaryllidaceae"
+        },
+        "commonNames": [
+          "Green-tip forest lily",
+          "Bush lily"
+        ],
+        "scientificName": "Clivia nobilis Lindl."
+      },
+      "gbif": {
+        "id": "5326276"
+      },
+      "powo": {
+        "id": "63634-1"
+      }
+    },
+    {
+      "score": 0.1556,
+      "species": {
+        "scientificNameWithoutAuthor": "Clivia \u00d7 cyrtanthiflora",
+        "scientificNameAuthorship": "(Lindl. ex K.Koch & Fintelm) T.Moore",
+        "genus": {
+          "scientificNameWithoutAuthor": "Clivia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Clivia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Amaryllidaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Amaryllidaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Clivia \u00d7 cyrtanthiflora (Lindl. ex K.Koch & Fintelm) T.Moore"
+      },
+      "gbif": {
+        "id": "8129686"
+      },
+      "powo": {
+        "id": "77238913-1"
+      }
+    },
+    {
+      "score": 0.12121,
+      "species": {
+        "scientificNameWithoutAuthor": "Clivia miniata",
+        "scientificNameAuthorship": "(Lindl.) Verschaff.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Clivia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Clivia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Amaryllidaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Amaryllidaceae"
+        },
+        "commonNames": [
+          "Bush lily"
+        ],
+        "scientificName": "Clivia miniata (Lindl.) Verschaff."
+      },
+      "gbif": {
+        "id": "9482657"
+      },
+      "powo": {
+        "id": "994513-1"
+      }
+    },
+    {
+      "score": 0.00954,
+      "species": {
+        "scientificNameWithoutAuthor": "Cyrtanthus elatus",
+        "scientificNameAuthorship": "(Jacq.) Traub",
+        "genus": {
+          "scientificNameWithoutAuthor": "Cyrtanthus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cyrtanthus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Amaryllidaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Amaryllidaceae"
+        },
+        "commonNames": [
+          "Scarborough-lily",
+          "George lily"
+        ],
+        "scientificName": "Cyrtanthus elatus (Jacq.) Traub"
+      },
+      "gbif": {
+        "id": "5325993"
+      },
+      "powo": {
+        "id": "64208-1"
+      }
+    },
+    {
+      "score": 0.00515,
+      "species": {
+        "scientificNameWithoutAuthor": "Clivia caulescens",
+        "scientificNameAuthorship": "R.A.Dyer",
+        "genus": {
+          "scientificNameWithoutAuthor": "Clivia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Clivia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Amaryllidaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Amaryllidaceae"
+        },
+        "commonNames": [
+          "Transvaal clivia"
+        ],
+        "scientificName": "Clivia caulescens R.A.Dyer"
+      },
+      "gbif": {
+        "id": "5326274"
+      },
+      "powo": {
+        "id": "63629-1"
+      }
+    }
+  ]
+}

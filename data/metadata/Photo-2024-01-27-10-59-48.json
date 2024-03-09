@@ -1,0 +1,156 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-01-27, 10 59 48.jpg",
+  "image_path": "data\\images\\Photo-2024-01-27-10-59-48.jpg",
+  "ut": 1706333388,
+  "latlng": [
+    6.97115,
+    80.764931
+  ],
+  "alt": 1892.342368045649,
+  "direction": 254.91796875,
+  "plantnet_results": [
+    {
+      "score": 0.70293,
+      "species": {
+        "scientificNameWithoutAuthor": "Bidens pilosa",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Bidens",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bidens"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Asteraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Asteraceae"
+        },
+        "commonNames": [
+          "Spanish-needles",
+          "Beggar-ticks",
+          "Black-jack"
+        ],
+        "scientificName": "Bidens pilosa L."
+      },
+      "gbif": {
+        "id": "5391845"
+      },
+      "powo": {
+        "id": "32564-2"
+      }
+    },
+    {
+      "score": 0.21835,
+      "species": {
+        "scientificNameWithoutAuthor": "Bidens alba",
+        "scientificNameAuthorship": "(L.) DC.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Bidens",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bidens"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Asteraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Asteraceae"
+        },
+        "commonNames": [
+          "Romerillo",
+          "Ragup mayta"
+        ],
+        "scientificName": "Bidens alba (L.) DC."
+      },
+      "gbif": {
+        "id": "5391861"
+      },
+      "powo": {
+        "id": "184711-1"
+      }
+    },
+    {
+      "score": 0.01729,
+      "species": {
+        "scientificNameWithoutAuthor": "Bidens bipinnata",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Bidens",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bidens"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Asteraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Asteraceae"
+        },
+        "commonNames": [
+          "Spanish-needles",
+          "Hemlock beggar-ticks",
+          "Bipinnate beggar-ticks"
+        ],
+        "scientificName": "Bidens bipinnata L."
+      },
+      "gbif": {
+        "id": "5389402"
+      },
+      "powo": {
+        "id": "184769-1"
+      }
+    },
+    {
+      "score": 0.00896,
+      "species": {
+        "scientificNameWithoutAuthor": "Bidens aurea",
+        "scientificNameAuthorship": "(Aiton) Sherff",
+        "genus": {
+          "scientificNameWithoutAuthor": "Bidens",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bidens"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Asteraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Asteraceae"
+        },
+        "commonNames": [
+          "Arizona beggar-ticks",
+          "Arizona Beggarticks",
+          "Apache beggarticks"
+        ],
+        "scientificName": "Bidens aurea (Aiton) Sherff"
+      },
+      "gbif": {
+        "id": "5391802"
+      },
+      "powo": {
+        "id": "32316-2"
+      }
+    },
+    {
+      "score": 0.00144,
+      "species": {
+        "scientificNameWithoutAuthor": "Bidens biternata",
+        "scientificNameAuthorship": "(Lour.) Merr. & Sherff",
+        "genus": {
+          "scientificNameWithoutAuthor": "Bidens",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bidens"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Asteraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Asteraceae"
+        },
+        "commonNames": [
+          "Yellow-flowered blackjack",
+          "Spanish needles"
+        ],
+        "scientificName": "Bidens biternata (Lour.) Merr. & Sherff"
+      },
+      "gbif": {
+        "id": "5392065"
+      },
+      "powo": {
+        "id": "184771-1"
+      }
+    }
+  ]
+}

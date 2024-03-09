@@ -1,0 +1,157 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-01-27, 10 32 50.jpg",
+  "image_path": "data\\images\\Photo-2024-01-27-10-32-50.jpg",
+  "ut": 1706331770,
+  "latlng": [
+    6.968922,
+    80.764594
+  ],
+  "alt": 1890.993804213135,
+  "direction": 135.46736149204608,
+  "plantnet_results": [
+    {
+      "score": 0.26434,
+      "species": {
+        "scientificNameWithoutAuthor": "Rosa spp.",
+        "scientificNameAuthorship": "",
+        "genus": {
+          "scientificNameWithoutAuthor": "Rosa",
+          "scientificNameAuthorship": "",
+          "scientificName": "Rosa"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Rosaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Rosaceae"
+        },
+        "commonNames": [
+          "Rose",
+          "Double Delight",
+          "Common Rose"
+        ],
+        "scientificName": "Rosa spp."
+      },
+      "gbif": null
+    },
+    {
+      "score": 0.24603,
+      "species": {
+        "scientificNameWithoutAuthor": "Rosa gallica",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Rosa",
+          "scientificNameAuthorship": "",
+          "scientificName": "Rosa"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Rosaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Rosaceae"
+        },
+        "commonNames": [
+          "French rose",
+          "Hungarian rose",
+          "Red Provins Rose"
+        ],
+        "scientificName": "Rosa gallica L."
+      },
+      "gbif": {
+        "id": "3002530"
+      },
+      "powo": {
+        "id": "732569-1"
+      }
+    },
+    {
+      "score": 0.09227,
+      "species": {
+        "scientificNameWithoutAuthor": "Rosa pendulina",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Rosa",
+          "scientificNameAuthorship": "",
+          "scientificName": "Rosa"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Rosaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Rosaceae"
+        },
+        "commonNames": [
+          "Mountain rose",
+          "Alpine Rose",
+          "\u05d5\u05e8\u05d3 \u05e0\u05d8\u05d5\u05d9"
+        ],
+        "scientificName": "Rosa pendulina L."
+      },
+      "gbif": {
+        "id": "3006974"
+      },
+      "powo": {
+        "id": "733641-1"
+      },
+      "iucn": {
+        "id": "203449",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.09126,
+      "species": {
+        "scientificNameWithoutAuthor": "Rosa lucieae",
+        "scientificNameAuthorship": "Franch. & Rochebr. ex Cr\u00e9p.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Rosa",
+          "scientificNameAuthorship": "",
+          "scientificName": "Rosa"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Rosaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Rosaceae"
+        },
+        "commonNames": [
+          "Wichura's rose",
+          "Memorial rose",
+          "\u30c6\u30ea\u30cf\u30ce\u30a4\u30d0\u30e9 (JA)"
+        ],
+        "scientificName": "Rosa lucieae Franch. & Rochebr. ex Cr\u00e9p."
+      },
+      "gbif": {
+        "id": "7445557"
+      },
+      "powo": {
+        "id": "60464116-2"
+      }
+    },
+    {
+      "score": 0.02645,
+      "species": {
+        "scientificNameWithoutAuthor": "Rosa rubiginosa",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Rosa",
+          "scientificNameAuthorship": "",
+          "scientificName": "Rosa"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Rosaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Rosaceae"
+        },
+        "commonNames": [
+          "Sweet-briar",
+          "Briar Rose",
+          "Sweetbriar Rose"
+        ],
+        "scientificName": "Rosa rubiginosa L."
+      },
+      "gbif": {
+        "id": "8174785"
+      },
+      "powo": {
+        "id": "734069-1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-01-27, 10 35 54.jpg",
+  "image_path": "data\\images\\Photo-2024-01-27-10-35-54.jpg",
+  "ut": 1706331954,
+  "latlng": [
+    6.968511,
+    80.765311
+  ],
+  "alt": 1885.32912723449,
+  "direction": 66.6460571129159,
+  "plantnet_results": [
+    {
+      "score": 0.93748,
+      "species": {
+        "scientificNameWithoutAuthor": "Thunbergia alata",
+        "scientificNameAuthorship": "Bojer ex Sims",
+        "genus": {
+          "scientificNameWithoutAuthor": "Thunbergia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Thunbergia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Acanthaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Acanthaceae"
+        },
+        "commonNames": [
+          "Blackeyed Susan vine",
+          "Black Eyed Susan",
+          "Black-eyed-Susan-vine"
+        ],
+        "scientificName": "Thunbergia alata Bojer ex Sims"
+      },
+      "gbif": {
+        "id": "5415463"
+      },
+      "powo": {
+        "id": "56177-1"
+      }
+    },
+    {
+      "score": 0.01156,
+      "species": {
+        "scientificNameWithoutAuthor": "Thunbergia gregorii",
+        "scientificNameAuthorship": "S.Moore",
+        "genus": {
+          "scientificNameWithoutAuthor": "Thunbergia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Thunbergia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Acanthaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Acanthaceae"
+        },
+        "commonNames": [
+          "Orange clock vine"
+        ],
+        "scientificName": "Thunbergia gregorii S.Moore"
+      },
+      "gbif": {
+        "id": "5574124"
+      },
+      "powo": {
+        "id": "56291-1"
+      }
+    },
+    {
+      "score": 0.00684,
+      "species": {
+        "scientificNameWithoutAuthor": "Uncarina grandidieri",
+        "scientificNameAuthorship": "(Baill.) Stapf",
+        "genus": {
+          "scientificNameWithoutAuthor": "Uncarina",
+          "scientificNameAuthorship": "",
+          "scientificName": "Uncarina"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Pedaliaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Pedaliaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Uncarina grandidieri (Baill.) Stapf"
+      },
+      "gbif": {
+        "id": "7658604"
+      },
+      "powo": {
+        "id": "676020-1"
+      }
+    },
+    {
+      "score": 0.0017,
+      "species": {
+        "scientificNameWithoutAuthor": "Thunbergia battiscombei",
+        "scientificNameAuthorship": "Turrill",
+        "genus": {
+          "scientificNameWithoutAuthor": "Thunbergia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Thunbergia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Acanthaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Acanthaceae"
+        },
+        "commonNames": [
+          "Blue Glory Vine"
+        ],
+        "scientificName": "Thunbergia battiscombei Turrill"
+      },
+      "gbif": {
+        "id": "5574336"
+      },
+      "powo": {
+        "id": "56202-1"
+      }
+    }
+  ]
+}
