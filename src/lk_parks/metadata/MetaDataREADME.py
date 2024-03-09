@@ -46,27 +46,6 @@ class MetaDataREADME:
         return f'[{label}]({url})'
 
     @property
-    def gbif_pretty(self) -> str:
-        if not self.gbif_id:
-            return '(No Data)'
-        return f'[`GBIF-{self.gbif_id}`]({self.gbif_url})'
-
-    @property
-    def powo_pretty(self) -> str:
-        if not self.powo_id:
-            return '(No Data)'
-        return f'[`POWO-{self.powo_id}`]({self.powo_url})'
-
-    @property
-    def iucn_pretty(self) -> str:
-        if not self.iucn_id:
-            return '(No Data)'
-        return MetaDataREADME.dot_join(
-            f'[`IUCN-{self.iucn_id}`]({self.iucn_url})',
-            self.iucn_category_humanized,
-        )
-
-    @property
     def image_md(self) -> str:
         return f'![{self.image_path_unix}]({self.image_path_unix})'
 
@@ -89,21 +68,7 @@ class MetaDataREADME:
     @property
     def species_lines(self):
         return [
-            # '|  |  |',
-            # '| --- | --- |',
-            # '| **Scientific Name** | ' + f'*{MetaDataREADME.get_wiki_link(self.scientific_name)}* ' +
-            # f'{self.authorship} |',
-            # f'| **Genus** | {MetaDataREADME.get_wiki_link(self.genus)} |',
-            # f'| **Family** | {MetaDataREADME.get_wiki_link(self.family)} |',
-            # f'| **Global Biodiversity Information Facility (GBIF)** | {self.gbif_pretty} |',
-            # f'| **Plants of the World Online (POWO)** | {self.powo_pretty} |',
-            # f'| **International Union for Conservation of Nature (IUCN)** | {self.iucn_pretty} |',
-            # '*' + MetaDataREADME.dot_join(
-            #     self.gbif_pretty,
-            #     self.powo_pretty,
-            #     self.iucn_pretty,
-            # ) + '*',
-            # '',
+
             f'*{self.pretty_name_translations}`E` {self.common_names_pretty}*',
             ''
 
@@ -132,15 +97,6 @@ class MetaDataREADME:
             '',
             self.image_md,
 
-            # '|  |  |',
-            # '| --- | --- |',
-            # '| **Identification Confidence** | ' +
-            # f'{self.confidence_emoji} {self.confidence:.1%} |',
-            # f'| **Other Guesses** | {self.other_candidates_pretty} |',
-            # f'| **Time** | {self.time_str} |',
-            # f'| **Camera Direction** | {self.direction_pretty} |',
-            # f'| **Location** | {self.google_maps_link} |',
-            # f'| **Altitude** | {self.alt:.1f}m |',
 
         ]
 
@@ -158,8 +114,10 @@ class MetaDataREADME:
                     n = len(md_list)
                     n_str = f'({n} Examples)' if n > 1 else '(1 Example)'
                     md0 = md_list[0]
-                    lines.extend(
-                        [f'### ' + f'*{MetaDataREADME.get_wiki_link(md0.scientific_name)}* ' + f'{md0.authorship}', ''])
+                    wiki_link = MetaDataREADME.get_wiki_link(
+                        md0.scientific_name)
+                    lines.extend([
+                        '### ' + f'*{wiki_link}* ' + md0.authorship, ''])
                     lines.extend(md0.species_lines)
                     lines.extend([n_str, ''])
                     for md in md_list:

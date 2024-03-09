@@ -54,17 +54,18 @@ class MetaDataList:
     @classmethod
     def idx_summary(cls):
         idx = cls.idx()
-        idx_summary = {}
+        idx2 = {}
         for family, family_data in idx.items():
-            idx_summary[family] = {}
+            idx2[family] = {}
             for genus, genus_data in family_data.items():
-                idx_summary[family][genus] = {}
+                idx2[family][genus] = {}
                 for species, md_list in genus_data.items():
-                    idx_summary[family][genus][species] = {}
+                    idx2[family][genus][species] = []
                     for md in md_list:
-                        idx_summary[family][genus][species][md.cmp] = md.metadata_path_unix
+                        idx2[family][genus][species].append(
+                            md.metadata_path_unix)
 
-        return idx_summary
+        return idx2
 
     @classmethod
     def write_idx_summary(cls):

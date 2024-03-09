@@ -40,20 +40,6 @@ class MetaDataBase:
         return self.image_path.replace('\\', '/')
 
     @property
-    def direction_humanized(self) -> str:
-        directions = ['N', 'NNE', 'NE', 'ENE',
-                      'E', 'ESE', 'SE', 'SSE',
-                      'S', 'SSW', 'SW', 'WSW',
-                      'W', 'WNW', 'NW', 'NNW']
-        return directions[round(self.direction / 22.5) % 16]
-
-    @property
-    def direction_pretty(self) -> str:
-        if not self.direction:
-            return '(No Data)'
-        return f'{self.direction:.1f}° ({self.direction_humanized})'
-
-    @property
     def metadata_path(self) -> str:
         name_only = os.path.basename(self.image_path).split('.')[0]
         return os.path.join(MetaDataBase.DIR_DATA_METADATA,

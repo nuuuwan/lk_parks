@@ -81,7 +81,8 @@ class NameTranslator:
             idx = self.idx_no_cache()
             self.json_file.write(idx)
             log.info(
-                f'Wrote {len(idx)} name translations to {NameTranslator.JSON_PATH}'
+                f'Wrote {len(idx)} name translations to'
+                + f' {NameTranslator.JSON_PATH}'
             )
         return self.json_file.read()
 
