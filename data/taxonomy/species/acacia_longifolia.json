@@ -6,5 +6,10 @@
   "gbif_id": "2978730",
   "powo_id": "470782-1",
   "iucn_id": "18435806",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Golden-rods",
+    "Longleaf wattle",
+    "Sallow wattle"
+  ]
 }

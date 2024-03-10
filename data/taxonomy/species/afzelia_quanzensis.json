@@ -6,5 +6,10 @@
   "gbif_id": "5358281",
   "powo_id": "473077-1",
   "iucn_id": "60757666",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Pod-mahogany",
+    "Lucky Bean Tree",
+    "Ihlene"
+  ]
 }

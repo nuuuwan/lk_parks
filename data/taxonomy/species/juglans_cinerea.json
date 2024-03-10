@@ -6,5 +6,10 @@
   "gbif_id": "3054352",
   "powo_id": "442334-1",
   "iucn_id": "62019689",
-  "iucn_category": "EN"
+  "iucn_category": "EN",
+  "common_names": [
+    "White walnut",
+    "Butternut",
+    "Butternut Tree"
+  ]
 }

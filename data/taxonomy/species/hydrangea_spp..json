@@ -6,5 +6,10 @@
   "gbif_id": null,
   "powo_id": null,
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Hydrangea",
+    "Hortensia",
+    "Garden Hydrangea"
+  ]
 }

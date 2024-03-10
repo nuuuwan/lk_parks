@@ -6,5 +6,10 @@
   "gbif_id": "2984492",
   "powo_id": "850999-1",
   "iucn_id": "19218728",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "European hackberry",
+    "Lotetree",
+    "Mediterranean hackberry"
+  ]
 }

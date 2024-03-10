@@ -6,5 +6,10 @@
   "gbif_id": "3172526",
   "powo_id": "248689-2",
   "iucn_id": "157815878",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "White-cedar",
+    "Pink manjack",
+    "Pink trumpet-tree"
+  ]
 }

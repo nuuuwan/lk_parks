@@ -6,5 +6,10 @@
   "gbif_id": "3152195",
   "powo_id": "823393-1",
   "iucn_id": "61785778",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Bastard-cedar",
+    "West Indian-elm",
+    "Mutamba"
+  ]
 }

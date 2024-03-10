@@ -6,5 +6,8 @@
   "gbif_id": "2876196",
   "powo_id": "294936-1",
   "iucn_id": "194581",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Japanese alder"
+  ]
 }

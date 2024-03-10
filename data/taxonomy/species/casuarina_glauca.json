@@ -6,5 +6,10 @@
   "gbif_id": "2891926",
   "powo_id": "52191-3",
   "iucn_id": "177363793",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Brazilian-oak",
+    "Longleaf ironwood",
+    "Marsh she-oak"
+  ]
 }

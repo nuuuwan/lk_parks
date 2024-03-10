@@ -6,5 +6,8 @@
   "gbif_id": "3169838",
   "powo_id": "76487-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Bush allamanda"
+  ]
 }

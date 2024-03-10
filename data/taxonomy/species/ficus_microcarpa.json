@@ -6,5 +6,10 @@
   "gbif_id": "7467639",
   "powo_id": "853217-1",
   "iucn_id": "73088912",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Chinese banyan",
+    "Ficus ginseng",
+    "Indian-laurel"
+  ]
 }

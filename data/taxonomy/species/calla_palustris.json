@@ -6,5 +6,10 @@
   "gbif_id": "2869101",
   "powo_id": "86508-1",
   "iucn_id": "167822",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Peace lilly",
+    "Wild calla",
+    "Wild calla-lily"
+  ]
 }

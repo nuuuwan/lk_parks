@@ -6,5 +6,10 @@
   "gbif_id": "3191361",
   "powo_id": "556033-1",
   "iucn_id": "61780518",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Golden-spoon",
+    "Craboo",
+    "Nance"
+  ]
 }

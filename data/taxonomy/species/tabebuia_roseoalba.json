@@ -6,5 +6,8 @@
   "gbif_id": "4091431",
   "powo_id": "248789-2",
   "iucn_id": "145693608",
-  "iucn_category": "NT"
+  "iucn_category": "NT",
+  "common_names": [
+    "White ip\u00ea"
+  ]
 }

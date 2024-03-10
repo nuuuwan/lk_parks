@@ -6,5 +6,9 @@
   "gbif_id": "2766271",
   "powo_id": "533649-1",
   "iucn_id": "192205009",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Narrow-leaf palm-lily",
+    "Narrow-leaved Palm Lily"
+  ]
 }

@@ -6,5 +6,8 @@
   "gbif_id": "5326274",
   "powo_id": "63629-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Transvaal clivia"
+  ]
 }

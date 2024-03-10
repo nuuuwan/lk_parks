@@ -6,5 +6,10 @@
   "gbif_id": "3172297",
   "powo_id": "610017-1",
   "iucn_id": "49838597",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Broad-leaf-privet",
+    "Chinese privet",
+    "Chinese wax-leaf privet"
+  ]
 }

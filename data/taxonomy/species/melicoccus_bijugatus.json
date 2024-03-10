@@ -6,5 +6,10 @@
   "gbif_id": "3189990",
   "powo_id": "783682-1",
   "iucn_id": "179306554",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Genip",
+    "Spanish-lime",
+    "Honeyberry"
+  ]
 }

@@ -6,5 +6,10 @@
   "gbif_id": "4159594",
   "powo_id": "851171-1",
   "iucn_id": "147509048",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Chinese hackberry",
+    "Japanese hackberry",
+    "Chinese nettletree"
+  ]
 }

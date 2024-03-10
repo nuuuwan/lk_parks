@@ -6,5 +6,10 @@
   "gbif_id": "3190638",
   "powo_id": "69913-1",
   "iucn_id": "31389",
-  "iucn_category": "DD"
+  "iucn_category": "DD",
+  "common_names": [
+    "Mango",
+    "Mango Tree",
+    "\u0906\u092e"
+  ]
 }

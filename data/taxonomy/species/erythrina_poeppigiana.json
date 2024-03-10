@@ -6,5 +6,10 @@
   "gbif_id": "5349755",
   "powo_id": "96637-2",
   "iucn_id": "144314476",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Coral tree",
+    "Immortelle-tree",
+    "Mountain immortelle"
+  ]
 }

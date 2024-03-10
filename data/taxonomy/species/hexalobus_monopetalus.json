@@ -6,5 +6,8 @@
   "gbif_id": "3155101",
   "powo_id": "73714-1",
   "iucn_id": "132520315",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Shakamaplum"
+  ]
 }

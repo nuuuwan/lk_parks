@@ -6,5 +6,10 @@
   "gbif_id": "5331164",
   "powo_id": "365350-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Indian-plum",
+    "Greater krekup",
+    "Runeala-plum"
+  ]
 }

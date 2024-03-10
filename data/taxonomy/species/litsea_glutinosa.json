@@ -6,5 +6,10 @@
   "gbif_id": "7304140",
   "powo_id": "465709-1",
   "iucn_id": "145824211",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Indian-laurel",
+    "Bolly-beech",
+    "Brown bolly-gum"
+  ]
 }

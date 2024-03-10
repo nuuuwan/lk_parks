@@ -6,5 +6,8 @@
   "gbif_id": "2736620",
   "powo_id": "903383-1",
   "iucn_id": "38733",
-  "iucn_category": "LR/cd"
+  "iucn_category": "LR/cd",
+  "common_names": [
+    "Foxtail palm"
+  ]
 }

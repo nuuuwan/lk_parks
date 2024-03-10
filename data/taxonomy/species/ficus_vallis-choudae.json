@@ -6,5 +6,9 @@
   "gbif_id": "5571789",
   "powo_id": "853925-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Haroni fig",
+    "False cape fig"
+  ]
 }

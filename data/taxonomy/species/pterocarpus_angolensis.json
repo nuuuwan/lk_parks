@@ -6,5 +6,10 @@
   "gbif_id": "5349240",
   "powo_id": "516403-1",
   "iucn_id": "33190",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Transvaal-teak",
+    "Muninga",
+    "Bleedwoodtree"
+  ]
 }

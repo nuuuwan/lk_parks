@@ -6,5 +6,8 @@
   "gbif_id": "5571838",
   "powo_id": "853154-1",
   "iucn_id": "163027365",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Figueira Mata-Pau"
+  ]
 }

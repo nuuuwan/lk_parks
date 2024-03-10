@@ -6,5 +6,10 @@
   "gbif_id": "3188429",
   "powo_id": "910845-1",
   "iucn_id": "178030014",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Brisbane box",
+    "Brisbane boxtree",
+    "Queensland-box"
+  ]
 }

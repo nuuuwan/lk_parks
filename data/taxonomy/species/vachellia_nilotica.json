@@ -6,5 +6,10 @@
   "gbif_id": "3974744",
   "powo_id": "77089275-1",
   "iucn_id": "158379",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Gum arabic tree",
+    "Black Piquant",
+    "Cassie"
+  ]
 }

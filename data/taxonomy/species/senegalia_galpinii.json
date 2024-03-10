@@ -6,5 +6,8 @@
   "gbif_id": "6710011",
   "powo_id": "60453639-2",
   "iucn_id": "153939741",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Monkeythorn"
+  ]
 }

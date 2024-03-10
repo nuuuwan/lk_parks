@@ -6,5 +6,10 @@
   "gbif_id": "3169707",
   "powo_id": "82701-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Common periwinkle",
+    "Myrtle",
+    "Lesser Periwinkle [plant]"
+  ]
 }

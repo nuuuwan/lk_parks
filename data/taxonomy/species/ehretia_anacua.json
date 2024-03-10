@@ -6,5 +6,10 @@
   "gbif_id": "2926379",
   "powo_id": "88877-2",
   "iucn_id": "144117987",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Anacua",
+    "Knock-away",
+    "Sandpaper-tree"
+  ]
 }

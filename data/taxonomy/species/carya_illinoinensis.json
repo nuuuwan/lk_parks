@@ -6,5 +6,10 @@
   "gbif_id": "3054289",
   "powo_id": "442167-1",
   "iucn_id": "62019622",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Pecan",
+    "Nogal morado",
+    "Nuez encarcelada"
+  ]
 }

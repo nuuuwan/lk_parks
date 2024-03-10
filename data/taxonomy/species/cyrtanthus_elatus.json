@@ -6,5 +6,9 @@
   "gbif_id": "5325993",
   "powo_id": "64208-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Scarborough-lily",
+    "George lily"
+  ]
 }

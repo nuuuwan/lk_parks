@@ -6,5 +6,9 @@
   "gbif_id": "2945453",
   "powo_id": "517988-1",
   "iucn_id": "62027898",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Brazilian firetree",
+    "Brazilian fern tree"
+  ]
 }

@@ -6,5 +6,8 @@
   "gbif_id": "3054377",
   "powo_id": "442489-1",
   "iucn_id": "66816454",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Chinese wingnut"
+  ]
 }

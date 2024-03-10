@@ -6,5 +6,8 @@
   "gbif_id": "5349510",
   "powo_id": "96551-2",
   "iucn_id": "145709859",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Amazon coral tree"
+  ]
 }

@@ -6,5 +6,10 @@
   "gbif_id": "2868821",
   "powo_id": "89425-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Red calla lily",
+    "Red calla",
+    "Pink calla"
+  ]
 }

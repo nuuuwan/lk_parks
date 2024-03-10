@@ -6,5 +6,10 @@
   "gbif_id": "7290944",
   "powo_id": "833934-1",
   "iucn_id": "200141911",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Blueberry-ash",
+    "Blue oliveberry",
+    "Fringetree"
+  ]
 }

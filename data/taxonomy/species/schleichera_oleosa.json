@@ -6,5 +6,10 @@
   "gbif_id": "3189945",
   "powo_id": "784721-1",
   "iucn_id": "145823995",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Malay lactree",
+    "Lactree",
+    "Macassar oiltree"
+  ]
 }

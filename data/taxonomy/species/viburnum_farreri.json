@@ -6,5 +6,10 @@
   "gbif_id": "6369599",
   "powo_id": "149676-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Fragrant viburnum",
+    "Farrer's Viburnum",
+    "Culver's root"
+  ]
 }

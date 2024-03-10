@@ -6,5 +6,10 @@
   "gbif_id": "3188698",
   "powo_id": "553043-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Elfin Herb",
+    "Mexican Heather",
+    "False heather"
+  ]
 }

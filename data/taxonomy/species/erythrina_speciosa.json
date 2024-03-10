@@ -6,5 +6,9 @@
   "gbif_id": "5349528",
   "powo_id": "494588-1",
   "iucn_id": "177827429",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Coral tree",
+    "\u00c1rbol de coral"
+  ]
 }

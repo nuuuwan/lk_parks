@@ -6,5 +6,10 @@
   "gbif_id": "5349620",
   "powo_id": "494431-1",
   "iucn_id": "165431910",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Coral-bean",
+    "Purple coraltree",
+    "Swamp immortelle"
+  ]
 }

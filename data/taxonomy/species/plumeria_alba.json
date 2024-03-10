@@ -6,5 +6,10 @@
   "gbif_id": "3169673",
   "powo_id": "81171-1",
   "iucn_id": "208165050",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "White Frangipani",
+    "Wild frangipani",
+    "Champa"
+  ]
 }

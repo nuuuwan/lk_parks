@@ -6,5 +6,10 @@
   "gbif_id": "2732621",
   "powo_id": "134734-3",
   "iucn_id": "13506860",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Picabeen palm",
+    "Bangalow palm",
+    "Piccabeen bangalow palm"
+  ]
 }

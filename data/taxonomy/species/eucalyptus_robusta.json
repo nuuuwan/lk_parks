@@ -6,5 +6,10 @@
   "gbif_id": "3176743",
   "powo_id": "593318-1",
   "iucn_id": "61915765",
-  "iucn_category": "NT"
+  "iucn_category": "NT",
+  "common_names": [
+    "Swamp messmate",
+    "Swamp stringybark",
+    "Swamp-mahogany"
+  ]
 }

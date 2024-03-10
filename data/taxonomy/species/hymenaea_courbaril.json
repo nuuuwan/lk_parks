@@ -6,5 +6,10 @@
   "gbif_id": "2950750",
   "powo_id": "125420-2",
   "iucn_id": "19891869",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Brazilian copal",
+    "South American-locust",
+    "Amami-gum"
+  ]
 }

@@ -6,5 +6,10 @@
   "gbif_id": "3153783",
   "powo_id": "30417720-2",
   "iucn_id": "62595",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Big-leaf magnolia",
+    "Large-leaf cucumber-tree",
+    "Umbrella-tree"
+  ]
 }

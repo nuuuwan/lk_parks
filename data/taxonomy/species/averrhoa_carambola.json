@@ -6,5 +6,10 @@
   "gbif_id": "2891641",
   "powo_id": "371870-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Starfruit",
+    "Carambola",
+    "Five-corner"
+  ]
 }

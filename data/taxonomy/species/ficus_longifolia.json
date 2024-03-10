@@ -6,5 +6,8 @@
   "gbif_id": "5571956",
   "powo_id": "853140-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Long-leaf Fig"
+  ]
 }

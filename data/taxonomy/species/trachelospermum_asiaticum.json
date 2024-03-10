@@ -6,5 +6,9 @@
   "gbif_id": "7317060",
   "powo_id": "82528-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Asiatic jasmine",
+    "Asian-jasmine"
+  ]
 }

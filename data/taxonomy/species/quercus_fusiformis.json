@@ -6,5 +6,10 @@
   "gbif_id": "2880509",
   "powo_id": "215854-2",
   "iucn_id": "194130",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Texas live oak",
+    "Escarpment live oak",
+    "Live oak"
+  ]
 }

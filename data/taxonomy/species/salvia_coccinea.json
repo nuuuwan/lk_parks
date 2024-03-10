@@ -6,5 +6,10 @@
   "gbif_id": "9278365",
   "powo_id": "455978-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Red salvia",
+    "Texas sage",
+    "Tropical sage"
+  ]
 }

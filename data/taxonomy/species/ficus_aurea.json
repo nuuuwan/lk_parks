@@ -6,5 +6,9 @@
   "gbif_id": "5361923",
   "powo_id": "852451-1",
   "iucn_id": "181217702",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Florida strangler",
+    "Florida strangler fig"
+  ]
 }

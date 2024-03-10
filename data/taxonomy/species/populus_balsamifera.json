@@ -6,5 +6,10 @@
   "gbif_id": "3040184",
   "powo_id": "776600-1",
   "iucn_id": "61959749",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Cottonwood",
+    "Balsam poplar",
+    "Bamtree"
+  ]
 }

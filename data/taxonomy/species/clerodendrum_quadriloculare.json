@@ -6,5 +6,9 @@
   "gbif_id": "3890217",
   "powo_id": "862346-1",
   "iucn_id": "127525329",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Philippine glorybower",
+    "Bronze-leaved clerodendrum"
+  ]
 }

@@ -6,5 +6,10 @@
   "gbif_id": "5415476",
   "powo_id": "914221-1",
   "iucn_id": "177374672",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Red bottlebrush",
+    "Drooping bottlebrush",
+    "Creek bottlebrush"
+  ]
 }

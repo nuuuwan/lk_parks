@@ -6,5 +6,9 @@
   "gbif_id": "3005999",
   "powo_id": "731429-1",
   "iucn_id": "83772876",
-  "iucn_category": "DD"
+  "iucn_category": "DD",
+  "common_names": [
+    "Pine Rose",
+    "Rose"
+  ]
 }

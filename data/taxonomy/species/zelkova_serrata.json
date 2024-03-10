@@ -6,5 +6,10 @@
   "gbif_id": "2984532",
   "powo_id": "858079-1",
   "iucn_id": "61967528",
-  "iucn_category": "NT"
+  "iucn_category": "NT",
+  "common_names": [
+    "Japanese zelkova",
+    "Saw-leaf zelkova",
+    "Water-elm"
+  ]
 }

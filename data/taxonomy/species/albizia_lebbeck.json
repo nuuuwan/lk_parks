@@ -6,5 +6,10 @@
   "gbif_id": "2973215",
   "powo_id": "99109-3",
   "iucn_id": "18435916",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Siris tree",
+    "Broome raintree",
+    "East Indian-walnut"
+  ]
 }

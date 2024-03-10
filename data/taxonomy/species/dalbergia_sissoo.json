@@ -6,5 +6,10 @@
   "gbif_id": "2968532",
   "powo_id": null,
   "iucn_id": "62022617",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Sheesham",
+    "Indian rosewood",
+    "Sisso"
+  ]
 }

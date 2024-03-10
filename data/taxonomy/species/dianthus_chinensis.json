@@ -6,5 +6,10 @@
   "gbif_id": "3085418",
   "powo_id": "153215-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Japanese pink",
+    "Dianthus",
+    "Indian pink"
+  ]
 }

@@ -6,5 +6,10 @@
   "gbif_id": "3054357",
   "powo_id": "279034-2",
   "iucn_id": "62019712",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Black walnut",
+    "American Walnut",
+    "Otaes\u00e9men\u00f4tse"
+  ]
 }

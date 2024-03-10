@@ -6,5 +6,10 @@
   "gbif_id": "7330049",
   "powo_id": "433800-1",
   "iucn_id": "146455427",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Currybush",
+    "Forest-primrose",
+    "Common curry bush"
+  ]
 }

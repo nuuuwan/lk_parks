@@ -6,5 +6,10 @@
   "gbif_id": "3184509",
   "powo_id": "601907-1",
   "iucn_id": "136055196",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Malay apple",
+    "Pomarosa",
+    "Malaysian apple"
+  ]
 }

@@ -6,5 +6,10 @@
   "gbif_id": "2734708",
   "powo_id": "54954-2",
   "iucn_id": "58410095",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Bamboo palm",
+    "Parlor palm",
+    "Reed palm"
+  ]
 }

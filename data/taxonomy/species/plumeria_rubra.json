@@ -6,5 +6,10 @@
   "gbif_id": "3169674",
   "powo_id": "81275-1",
   "iucn_id": "144270910",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Frangipani",
+    "Plumeria",
+    "Pagoda-tree"
+  ]
 }

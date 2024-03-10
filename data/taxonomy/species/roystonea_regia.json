@@ -6,5 +6,10 @@
   "gbif_id": "2733755",
   "powo_id": "222809-2",
   "iucn_id": "62329",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Cuban royal palm",
+    "Florida royal palm",
+    "Royal palm"
+  ]
 }

@@ -6,5 +6,10 @@
   "gbif_id": "5384390",
   "powo_id": "10631-2",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Red amaranth",
+    "Purple amaranth",
+    "Indian-spinach"
+  ]
 }

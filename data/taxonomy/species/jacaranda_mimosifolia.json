@@ -6,5 +6,10 @@
   "gbif_id": "3172499",
   "powo_id": "130936-2",
   "iucn_id": "32027",
-  "iucn_category": "VU"
+  "iucn_category": "VU",
+  "common_names": [
+    "Jacaranda",
+    "Black poui",
+    "Fern-tree"
+  ]
 }

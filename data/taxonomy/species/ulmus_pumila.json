@@ -6,5 +6,10 @@
   "gbif_id": "5361877",
   "powo_id": "303333-2",
   "iucn_id": "61967372",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Siberian elm",
+    "Dwarf elm",
+    "Littleleaf elm"
+  ]
 }

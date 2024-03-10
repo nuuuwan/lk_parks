@@ -6,5 +6,9 @@
   "gbif_id": "5361875",
   "powo_id": "300247-2",
   "iucn_id": "61967392",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Cork elm",
+    "Rock elm"
+  ]
 }

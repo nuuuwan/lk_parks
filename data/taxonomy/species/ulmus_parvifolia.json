@@ -6,5 +6,10 @@
   "gbif_id": "5361869",
   "powo_id": "302296-2",
   "iucn_id": "147481874",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Chinese elm",
+    "Lacebark",
+    "Lacebark elm"
+  ]
 }

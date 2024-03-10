@@ -6,5 +6,10 @@
   "gbif_id": "5421429",
   "powo_id": "557048-1",
   "iucn_id": "131036549",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Barbados cherry",
+    "Wild crapemyrtle",
+    "Acerola"
+  ]
 }

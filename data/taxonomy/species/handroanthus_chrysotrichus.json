@@ -6,5 +6,8 @@
   "gbif_id": "4092405",
   "powo_id": "109691-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Golden trumpet tree"
+  ]
 }

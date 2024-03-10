@@ -6,5 +6,10 @@
   "gbif_id": "5406817",
   "powo_id": "586076-1",
   "iucn_id": "33986",
-  "iucn_category": "DD"
+  "iucn_category": "DD",
+  "common_names": [
+    "Mace",
+    "Nutmeg",
+    "Nutmeg and mace"
+  ]
 }

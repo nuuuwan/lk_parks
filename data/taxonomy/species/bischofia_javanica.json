@@ -6,5 +6,10 @@
   "gbif_id": "5383085",
   "powo_id": "339921-1",
   "iucn_id": "61956399",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Bishopwood",
+    "Needlebark",
+    "Java-cedar"
+  ]
 }

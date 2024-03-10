@@ -6,5 +6,10 @@
   "gbif_id": "3190485",
   "powo_id": "1080203-2",
   "iucn_id": "32519",
-  "iucn_category": "NT"
+  "iucn_category": "NT",
+  "common_names": [
+    "Cuban mahogany",
+    "West Indian mahogany",
+    "Spanish mahogany"
+  ]
 }

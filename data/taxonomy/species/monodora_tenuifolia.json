@@ -6,5 +6,9 @@
   "gbif_id": "3154093",
   "powo_id": "74147-1",
   "iucn_id": "132683676",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Orchidtree",
+    "African-nutmeg"
+  ]
 }

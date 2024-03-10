@@ -6,5 +6,10 @@
   "gbif_id": "7327627",
   "powo_id": "333359-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Azalea",
+    "Rhododendron",
+    "Pot Azalea"
+  ]
 }

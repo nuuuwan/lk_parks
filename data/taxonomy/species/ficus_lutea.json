@@ -6,5 +6,10 @@
   "gbif_id": "5571832",
   "powo_id": "853155-1",
   "iucn_id": "146435575",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Dahomey rubbertree",
+    "West African rubbertree",
+    "Lagos rubbertree"
+  ]
 }

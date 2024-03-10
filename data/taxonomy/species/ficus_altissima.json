@@ -6,5 +6,10 @@
   "gbif_id": "5361907",
   "powo_id": "852369-1",
   "iucn_id": "147483545",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Counciltree",
+    "Lofty fig",
+    "False banyan"
+  ]
 }

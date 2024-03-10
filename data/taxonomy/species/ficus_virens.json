@@ -6,5 +6,10 @@
   "gbif_id": "9512597",
   "powo_id": "853954-1",
   "iucn_id": "147495192",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Spotted fig",
+    "Mountain fig",
+    "Caroline banyan"
+  ]
 }

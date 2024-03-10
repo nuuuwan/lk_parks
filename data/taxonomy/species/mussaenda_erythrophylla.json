@@ -6,5 +6,10 @@
   "gbif_id": "2892634",
   "powo_id": "756618-1",
   "iucn_id": "143713722",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Ashanti Blood",
+    "Nusa indah",
+    "\u09b2\u09be\u09b2 \u09ae\u09c1\u09b8\u09c7\u09a8\u09cd\u09a1\u09be"
+  ]
 }

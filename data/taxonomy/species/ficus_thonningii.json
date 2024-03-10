@@ -6,5 +6,10 @@
   "gbif_id": "5361900",
   "powo_id": "853830-1",
   "iucn_id": "146188444",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Small figtree",
+    "Chinese banyan",
+    "Fig"
+  ]
 }

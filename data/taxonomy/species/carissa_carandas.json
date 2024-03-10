@@ -6,5 +6,10 @@
   "gbif_id": "5414419",
   "powo_id": "77691-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Bengal-currants",
+    "Carandas-plum",
+    "Karanda"
+  ]
 }

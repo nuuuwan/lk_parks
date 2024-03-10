@@ -6,5 +6,9 @@
   "gbif_id": "2738434",
   "powo_id": "663990-1",
   "iucn_id": "38747",
-  "iucn_category": "VU"
+  "iucn_category": "VU",
+  "common_names": [
+    "Christmas palm",
+    "Manila palm"
+  ]
 }

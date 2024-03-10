@@ -6,5 +6,10 @@
   "gbif_id": "3183840",
   "powo_id": "601603-1",
   "iucn_id": "49487196",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "\u091c\u093e\u092e\u0941\u0928",
+    "Jaman",
+    "\u0c05\u0c32\u0c4d\u0c32\u0c28\u0c47\u0c30\u0c47\u0c21\u0c41"
+  ]
 }

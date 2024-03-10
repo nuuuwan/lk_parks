@@ -6,5 +6,10 @@
   "gbif_id": "2891779",
   "powo_id": "30208246-2",
   "iucn_id": "64314907",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Jewelweed",
+    "Balsam",
+    "Quick-in-the-hand"
+  ]
 }

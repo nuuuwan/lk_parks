@@ -6,5 +6,10 @@
   "gbif_id": "5361903",
   "powo_id": "60458499-2",
   "iucn_id": "116271522",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Rubberplant",
+    "\u0641\u06cc\u06a9\u0648\u0633",
+    "\u0641\u06cc\u06a9\u0648\u0633 \u0627\u0644\u0627\u0633\u062a\u06cc\u06a9\u0627"
+  ]
 }

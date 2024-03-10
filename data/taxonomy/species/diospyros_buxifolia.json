@@ -6,5 +6,8 @@
   "gbif_id": "4070235",
   "powo_id": "322176-1",
   "iucn_id": "173387",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Black ebony"
+  ]
 }

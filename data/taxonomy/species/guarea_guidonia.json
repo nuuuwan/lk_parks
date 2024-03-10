@@ -6,5 +6,10 @@
   "gbif_id": "3190500",
   "powo_id": "114060-2",
   "iucn_id": "61798180",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Muskwood",
+    "Guaraguao",
+    "American muskwood"
+  ]
 }

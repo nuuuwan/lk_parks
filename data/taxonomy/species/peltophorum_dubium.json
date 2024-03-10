@@ -6,5 +6,10 @@
   "gbif_id": "2952798",
   "powo_id": "187026-2",
   "iucn_id": "62027184",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Ca\u00f1a-F\u00edstula",
+    "Ibir\u00e1-Pit\u00e1",
+    "Horsebush"
+  ]
 }

@@ -6,5 +6,10 @@
   "gbif_id": "5416005",
   "powo_id": "598110-1",
   "iucn_id": "177370998",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Prickly paperbark",
+    "Prickly-leaf paperbark",
+    "Prickly-leaf teatree"
+  ]
 }

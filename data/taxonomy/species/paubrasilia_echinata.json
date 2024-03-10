@@ -6,5 +6,9 @@
   "gbif_id": "9119360",
   "powo_id": "77158012-1",
   "iucn_id": "33974",
-  "iucn_category": "EN"
+  "iucn_category": "EN",
+  "common_names": [
+    "Orabut\u00e1 (Portuguese)",
+    "Pau-rosado (Portuguese)"
+  ]
 }

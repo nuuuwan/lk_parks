@@ -6,5 +6,10 @@
   "gbif_id": "3169748",
   "powo_id": "79318-1",
   "iucn_id": "33988",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Tellicherry bark",
+    "Bitter oleander",
+    "Conessi bark"
+  ]
 }

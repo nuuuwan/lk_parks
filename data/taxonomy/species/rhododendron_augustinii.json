@@ -6,5 +6,10 @@
   "gbif_id": "7328064",
   "powo_id": "331981-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Rhododendron",
+    "Augustine's Rhododendron",
+    "Blue Rhododendron"
+  ]
 }

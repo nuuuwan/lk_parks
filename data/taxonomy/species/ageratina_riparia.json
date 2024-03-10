@@ -6,5 +6,10 @@
   "gbif_id": "5400790",
   "powo_id": "7013-2",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Creeping croftonweed",
+    "Mist flower",
+    "River-eupatorium"
+  ]
 }

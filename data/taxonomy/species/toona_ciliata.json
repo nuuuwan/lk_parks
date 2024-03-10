@@ -6,5 +6,10 @@
   "gbif_id": "3190472",
   "powo_id": "579299-1",
   "iucn_id": "31332",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Red Cedar",
+    "Australian redcedar",
+    "Australian red-cedar"
+  ]
 }

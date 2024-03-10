@@ -6,5 +6,8 @@
   "gbif_id": "3661589",
   "powo_id": "70288-1",
   "iucn_id": "146095426",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Burdekin Pumb"
+  ]
 }

@@ -6,5 +6,10 @@
   "gbif_id": "2932919",
   "powo_id": "319114-2",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Lady-of-the-night",
+    "Franciscan raintree",
+    "Rain shrub"
+  ]
 }

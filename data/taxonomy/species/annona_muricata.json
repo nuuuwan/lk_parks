@@ -6,5 +6,10 @@
   "gbif_id": "5407273",
   "powo_id": "14308-2",
   "iucn_id": "143323191",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Soursop",
+    "Guanabana",
+    "Sirsak"
+  ]
 }

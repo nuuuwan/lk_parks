@@ -6,5 +6,10 @@
   "gbif_id": "5331532",
   "powo_id": "295155-1",
   "iucn_id": "194551",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "River birch",
+    "Red birch",
+    "Black Birch"
+  ]
 }

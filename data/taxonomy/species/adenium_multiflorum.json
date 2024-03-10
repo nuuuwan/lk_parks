@@ -6,5 +6,10 @@
   "gbif_id": "3619335",
   "powo_id": "76366-1",
   "iucn_id": "141550059",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Impala-lily",
+    "Sabi-star",
+    "\u0622\u062f\u0646\u06cc\u0648\u0645"
+  ]
 }

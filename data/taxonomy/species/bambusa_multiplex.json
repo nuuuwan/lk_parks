@@ -6,5 +6,10 @@
   "gbif_id": "2705757",
   "powo_id": null,
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Hedge bamboo",
+    "Chinese dwarf bamboo",
+    "Chinese-goddess bamboo"
+  ]
 }

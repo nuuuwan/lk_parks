@@ -6,5 +6,9 @@
   "gbif_id": "4092242",
   "powo_id": "117330-2",
   "iucn_id": "144297143",
-  "iucn_category": "NT"
+  "iucn_category": "NT",
+  "common_names": [
+    "Pink trumpet-tree",
+    "Taheebo"
+  ]
 }

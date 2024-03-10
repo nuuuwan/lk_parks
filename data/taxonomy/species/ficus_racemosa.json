@@ -6,5 +6,10 @@
   "gbif_id": "5361904",
   "powo_id": "853540-1",
   "iucn_id": "145362959",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Cluster fig",
+    "Country fig",
+    "Redwood fig"
+  ]
 }

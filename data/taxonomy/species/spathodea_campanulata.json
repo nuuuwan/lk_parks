@@ -6,5 +6,10 @@
   "gbif_id": "3172574",
   "powo_id": "110661-1",
   "iucn_id": "49196213",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "African Tuliptree",
+    "African Flame Tree",
+    "African Tulip Tree"
+  ]
 }

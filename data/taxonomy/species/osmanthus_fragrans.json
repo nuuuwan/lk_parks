@@ -6,5 +6,10 @@
   "gbif_id": "3172278",
   "powo_id": "610878-1",
   "iucn_id": "147642268",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Sweet osmanthus",
+    "Fragrant Olive",
+    "Tea Olive"
+  ]
 }

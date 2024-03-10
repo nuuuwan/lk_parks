@@ -6,5 +6,10 @@
   "gbif_id": "3034015",
   "powo_id": "465049-1",
   "iucn_id": "203351",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "(Sweet) Bay leaf",
+    "Bay Laurel",
+    "Sweet bay"
+  ]
 }

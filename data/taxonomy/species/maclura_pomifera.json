@@ -6,5 +6,10 @@
   "gbif_id": "2984580",
   "powo_id": "148738-2",
   "iucn_id": "61886714",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Osage-orange",
+    "Hedge-apple",
+    "Bow-wood"
+  ]
 }

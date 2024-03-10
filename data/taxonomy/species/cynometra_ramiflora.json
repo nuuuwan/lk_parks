@@ -6,5 +6,9 @@
   "gbif_id": "2966890",
   "powo_id": "489480-1",
   "iucn_id": "62021950",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Cynometra",
+    "Wrinkle Pod Mangrove"
+  ]
 }

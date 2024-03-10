@@ -6,5 +6,10 @@
   "gbif_id": "3190134",
   "powo_id": "771774-1",
   "iucn_id": "150120517",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Mexican apple",
+    "White sapote",
+    "Casimiroa"
+  ]
 }

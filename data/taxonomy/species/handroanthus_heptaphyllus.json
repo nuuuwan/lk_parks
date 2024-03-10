@@ -6,5 +6,9 @@
   "gbif_id": "4092253",
   "powo_id": "117329-2",
   "iucn_id": "61985488",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Pink tab",
+    "Pink trumpet tree"
+  ]
 }

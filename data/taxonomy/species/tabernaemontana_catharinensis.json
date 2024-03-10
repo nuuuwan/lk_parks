@@ -6,5 +6,9 @@
   "gbif_id": "3618496",
   "powo_id": "82043-1",
   "iucn_id": "58920120",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Pinwheel-flower",
+    "Pinwheel-jessamine"
+  ]
 }

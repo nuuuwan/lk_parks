@@ -6,5 +6,10 @@
   "gbif_id": "5420380",
   "powo_id": "600841-1",
   "iucn_id": "49485755",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Guave",
+    "Guava",
+    "Common guava"
+  ]
 }

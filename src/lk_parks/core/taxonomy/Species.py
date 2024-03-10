@@ -3,7 +3,7 @@ from dataclasses import dataclass
 
 from lk_parks.core.taxonomy.Genus import Genus
 from lk_parks.core.taxonomy.Taxon import Taxon
-
+from lk_parks.NameTranslator import NameTranslator
 
 @dataclass
 class Species(Taxon):
@@ -12,6 +12,7 @@ class Species(Taxon):
     powo_id: str
     iucn_id: str
     iucn_category: str
+    common_names: list[str]
 
     def __hash__(self):
         return hash(self.name)
@@ -32,6 +33,7 @@ class Species(Taxon):
             powo_id=self.powo_id,
             iucn_id=self.iucn_id,
             iucn_category=self.iucn_category,
+            common_names=self.common_names,
         )
 
     @staticmethod
@@ -44,7 +46,10 @@ class Species(Taxon):
             powo_id=d['powo_id'],
             iucn_id=d['iucn_id'],
             iucn_category=d['iucn_category'],
+            common_names=d['common_names'],
         )
+
+    
 
     @staticmethod
     def from_plant_net_raw_result(d: dict) -> 'Species':
@@ -57,11 +62,17 @@ class Species(Taxon):
 
         genus = Genus.from_plant_net_raw_result(d)
 
+        common_names = d_species.get('commonNames', [])
+
         def get_attr(d, k1, k2):
             v1 = d.get(k1, {})
             if not v1:
                 return None
             return v1.get(k2, None)
+        
+        common_names2 = NameTranslator().get_common_names(name)
+        combined_common_names = sorted(list(set(common_names + common_names2)))
+        
 
         species = Species(
             name=name,
@@ -71,6 +82,7 @@ class Species(Taxon):
             powo_id=get_attr(d, 'powo', 'id'),
             iucn_id=get_attr(d, 'iucn', 'id'),
             iucn_category=get_attr(d, 'iucn', 'category'),
+            common_names=combined_common_names,
         )
         species.write()
         return species

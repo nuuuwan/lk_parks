@@ -6,5 +6,8 @@
   "gbif_id": "5382401",
   "powo_id": "354080-1",
   "iucn_id": "208174866",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Gamo de costa"
+  ]
 }

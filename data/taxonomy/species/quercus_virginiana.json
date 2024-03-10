@@ -6,5 +6,10 @@
   "gbif_id": "2878092",
   "powo_id": "324846-2",
   "iucn_id": "194245",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Southern live oak",
+    "Live oak",
+    "Virginia Live Oak"
+  ]
 }

@@ -6,5 +6,8 @@
   "gbif_id": "2888626",
   "powo_id": "149848-1",
   "iucn_id": "147389414",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Sweet arrowwood"
+  ]
 }

@@ -6,5 +6,10 @@
   "gbif_id": "2962831",
   "powo_id": "1003508-2",
   "iucn_id": "130519803",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Manila-tamarind",
+    "Camachile",
+    "Guayamochil"
+  ]
 }

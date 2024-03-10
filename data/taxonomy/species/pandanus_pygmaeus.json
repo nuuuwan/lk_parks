@@ -6,5 +6,8 @@
   "gbif_id": "5327947",
   "powo_id": "671395-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Pygmy Screwpine"
+  ]
 }

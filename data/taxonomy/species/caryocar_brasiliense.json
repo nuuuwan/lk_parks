@@ -6,5 +6,10 @@
   "gbif_id": "3189663",
   "powo_id": "828593-1",
   "iucn_id": "144313008",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Pequi",
+    "Piki",
+    "Pekea nut"
+  ]
 }

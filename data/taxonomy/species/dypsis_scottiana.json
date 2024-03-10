@@ -6,5 +6,8 @@
   "gbif_id": "2735959",
   "powo_id": "985376-1",
   "iucn_id": "38563",
-  "iucn_category": "VU"
+  "iucn_category": "VU",
+  "common_names": [
+    "Raosy"
+  ]
 }

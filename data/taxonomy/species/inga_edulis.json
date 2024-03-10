@@ -6,5 +6,10 @@
   "gbif_id": "5357677",
   "powo_id": "128478-2",
   "iucn_id": "137640618",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Ice-cream-bean",
+    "Guaba",
+    "Pois Doux"
+  ]
 }

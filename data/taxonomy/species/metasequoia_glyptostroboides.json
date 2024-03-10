@@ -6,5 +6,10 @@
   "gbif_id": "5284231",
   "powo_id": "828387-1",
   "iucn_id": "32317",
-  "iucn_category": "EN"
+  "iucn_category": "EN",
+  "common_names": [
+    "Dawn Redwood",
+    "Dawn cypress",
+    "Water fir"
+  ]
 }

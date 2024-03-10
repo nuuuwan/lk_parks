@@ -6,5 +6,10 @@
   "gbif_id": "3054399",
   "powo_id": "256588-2",
   "iucn_id": "18435729",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Popcorntree",
+    "Chinese tallowtree",
+    "Candleberry-tree"
+  ]
 }

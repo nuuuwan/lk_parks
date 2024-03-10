@@ -6,5 +6,8 @@
   "gbif_id": "8141207",
   "powo_id": "852662-1",
   "iucn_id": "138393349",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Namaqua Rock Fig"
+  ]
 }

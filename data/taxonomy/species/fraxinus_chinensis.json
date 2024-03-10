@@ -6,5 +6,8 @@
   "gbif_id": "3172325",
   "powo_id": "608968-1",
   "iucn_id": "35953",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Chinese ash"
+  ]
 }

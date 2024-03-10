@@ -6,5 +6,10 @@
   "gbif_id": "5384397",
   "powo_id": "327386-2",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Chinese amaranth",
+    "Chinese-spinach",
+    "Joseph's-coat"
+  ]
 }

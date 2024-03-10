@@ -6,5 +6,10 @@
   "gbif_id": "3054368",
   "powo_id": "442427-1",
   "iucn_id": "63495",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Black Walnut",
+    "English walnut",
+    "Carpathian walnut"
+  ]
 }

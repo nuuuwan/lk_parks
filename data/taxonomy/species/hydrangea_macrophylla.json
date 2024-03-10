@@ -6,5 +6,10 @@
   "gbif_id": "2985994",
   "powo_id": "791637-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Hydrangea",
+    "Hortensia",
+    "Bigleaf Hydrangea"
+  ]
 }

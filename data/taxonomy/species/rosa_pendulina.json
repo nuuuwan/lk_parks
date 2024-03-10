@@ -6,5 +6,10 @@
   "gbif_id": "3006974",
   "powo_id": "733641-1",
   "iucn_id": "203449",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Mountain rose",
+    "Alpine Rose",
+    "\u05d5\u05e8\u05d3 \u05e0\u05d8\u05d5\u05d9"
+  ]
 }

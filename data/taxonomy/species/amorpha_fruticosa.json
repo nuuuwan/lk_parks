@@ -6,5 +6,10 @@
   "gbif_id": "5357407",
   "powo_id": "11421-2",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "False indigo",
+    "Bastard indigo-bush",
+    "Bastard-indigo"
+  ]
 }

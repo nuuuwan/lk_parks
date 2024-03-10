@@ -6,5 +6,10 @@
   "gbif_id": "2891785",
   "powo_id": "705192-1",
   "iucn_id": "113180064",
-  "iucn_category": "VU"
+  "iucn_category": "VU",
+  "common_names": [
+    "Queenslandnut",
+    "Smooth-shell Queenslandnut",
+    "Macadamia-nut"
+  ]
 }

@@ -6,5 +6,10 @@
   "gbif_id": "2965911",
   "powo_id": "515679-1",
   "iucn_id": "168724",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Karanj",
+    "Indian Beech",
+    "Pongam"
+  ]
 }

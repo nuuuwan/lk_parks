@@ -6,5 +6,10 @@
   "gbif_id": "3615270",
   "powo_id": "82269-1",
   "iucn_id": "147622277",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Windmillbush",
+    "Banana-bush",
+    "Dogbane"
+  ]
 }

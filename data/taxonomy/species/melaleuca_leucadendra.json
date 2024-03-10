@@ -6,5 +6,10 @@
   "gbif_id": "5415976",
   "powo_id": "598002-1",
   "iucn_id": "61917032",
-  "iucn_category": "DD"
+  "iucn_category": "DD",
+  "common_names": [
+    "Cajaput-tree",
+    "Longleaf paperbark",
+    "Paperbark"
+  ]
 }

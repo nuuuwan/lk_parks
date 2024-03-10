@@ -6,5 +6,10 @@
   "gbif_id": "2884788",
   "powo_id": "788845-1",
   "iucn_id": "149891727",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Caimito",
+    "Abiu",
+    "Blueberry Pie fruit"
+  ]
 }

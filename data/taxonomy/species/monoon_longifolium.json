@@ -6,5 +6,10 @@
   "gbif_id": "11001249",
   "powo_id": "77123022-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Ashok",
+    "Ashoka",
+    "Debdaru (HI)"
+  ]
 }

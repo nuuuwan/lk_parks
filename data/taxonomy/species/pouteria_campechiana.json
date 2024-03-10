@@ -6,5 +6,10 @@
   "gbif_id": "2884309",
   "powo_id": "209714-2",
   "iucn_id": "146704277",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Canistel",
+    "Eggfruit-tree",
+    "Yellow sapote"
+  ]
 }

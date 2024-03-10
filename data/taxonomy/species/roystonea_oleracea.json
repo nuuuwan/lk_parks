@@ -6,5 +6,10 @@
   "gbif_id": "2733738",
   "powo_id": "222805-2",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Caribbean royal palm",
+    "South American royal palm",
+    "Royal palm"
+  ]
 }

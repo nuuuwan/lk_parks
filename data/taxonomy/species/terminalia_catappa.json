@@ -6,5 +6,10 @@
   "gbif_id": "3189394",
   "powo_id": "171034-1",
   "iucn_id": "61989853",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Tropical almond",
+    "Indian-almond",
+    "Country-almond"
+  ]
 }

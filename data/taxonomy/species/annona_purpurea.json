@@ -6,5 +6,9 @@
   "gbif_id": "5407091",
   "powo_id": "72289-1",
   "iucn_id": "143319997",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Negrohead",
+    "Soncoya"
+  ]
 }

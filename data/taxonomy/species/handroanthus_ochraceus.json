@@ -6,5 +6,9 @@
   "gbif_id": "4092146",
   "powo_id": "117333-2",
   "iucn_id": "145674139",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Yellow Trumpet",
+    "Yellow Tabebuia"
+  ]
 }

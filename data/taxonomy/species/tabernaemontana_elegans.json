@@ -6,5 +6,9 @@
   "gbif_id": "3617608",
   "powo_id": "82109-1",
   "iucn_id": "149502995",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Toadtree",
+    "Low-veld toadtree"
+  ]
 }

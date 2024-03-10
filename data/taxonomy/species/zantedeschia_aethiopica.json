@@ -6,5 +6,10 @@
   "gbif_id": "2868827",
   "powo_id": "89403-1",
   "iucn_id": "164507",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Calla lily",
+    "Arum Lily",
+    "Altar-lily"
+  ]
 }

@@ -6,5 +6,10 @@
   "gbif_id": "5371727",
   "powo_id": "30189264-2",
   "iucn_id": "62572",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "California-laurel",
+    "California-nutmeg",
+    "California-olive"
+  ]
 }

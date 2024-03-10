@@ -6,5 +6,10 @@
   "gbif_id": "2879737",
   "powo_id": "295763-1",
   "iucn_id": "194051",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "White oak",
+    "Stave oak",
+    "Northern White Oak"
+  ]
 }

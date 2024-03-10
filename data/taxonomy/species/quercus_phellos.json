@@ -6,5 +6,9 @@
   "gbif_id": "2880652",
   "powo_id": "284113-2",
   "iucn_id": "194220",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Willow oak",
+    "Dean"
+  ]
 }

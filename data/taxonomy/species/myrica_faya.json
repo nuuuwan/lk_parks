@@ -6,5 +6,10 @@
   "gbif_id": "5414211",
   "powo_id": "306495-2",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Firetree",
+    "Faya",
+    "Candleberry myrtle"
+  ]
 }

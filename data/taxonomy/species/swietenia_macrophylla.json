@@ -6,5 +6,10 @@
   "gbif_id": "3190484",
   "powo_id": "246905-2",
   "iucn_id": "32293",
-  "iucn_category": "EN"
+  "iucn_category": "EN",
+  "common_names": [
+    "Honduran mahogany",
+    "Mahogany",
+    "Honduras mahogany"
+  ]
 }

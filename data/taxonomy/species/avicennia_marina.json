@@ -6,5 +6,10 @@
   "gbif_id": "2925403",
   "powo_id": "861130-1",
   "iucn_id": "178828",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Grey mangrove",
+    "White mangrove",
+    "Gray mangrove"
+  ]
 }

@@ -6,5 +6,10 @@
   "gbif_id": "5383895",
   "powo_id": "316735-1",
   "iucn_id": "33202",
-  "iucn_category": "NT"
+  "iucn_category": "NT",
+  "common_names": [
+    "Philippine dillenia",
+    "Katmon",
+    "Elephant apple"
+  ]
 }

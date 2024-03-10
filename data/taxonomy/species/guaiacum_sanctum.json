@@ -6,5 +6,10 @@
   "gbif_id": "3189908",
   "powo_id": "873256-1",
   "iucn_id": "32955",
-  "iucn_category": "NT"
+  "iucn_category": "NT",
+  "common_names": [
+    "Guaiacum",
+    "Lignum-vitae",
+    "Holywood"
+  ]
 }

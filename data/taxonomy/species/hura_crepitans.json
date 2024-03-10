@@ -6,5 +6,10 @@
   "gbif_id": "5380015",
   "powo_id": "350060-1",
   "iucn_id": "62003544",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Sandboxtree",
+    "Dynamite Tree",
+    "Monkey Dinner Bell"
+  ]
 }

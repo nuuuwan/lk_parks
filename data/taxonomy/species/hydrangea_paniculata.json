@@ -6,5 +6,10 @@
   "gbif_id": "2985995",
   "powo_id": "791653-1",
   "iucn_id": "147376037",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Panicled hydrangea",
+    "Peegee Hydrangea",
+    "Panicle Hydrangea"
+  ]
 }

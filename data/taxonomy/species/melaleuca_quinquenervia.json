@@ -6,5 +6,10 @@
   "gbif_id": "5415832",
   "powo_id": "598073-1",
   "iucn_id": "49278407",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Punktree",
+    "Belbowrie",
+    "Bottle brush tree"
+  ]
 }

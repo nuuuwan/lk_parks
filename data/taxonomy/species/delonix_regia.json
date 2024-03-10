@@ -6,5 +6,10 @@
   "gbif_id": "2956176",
   "powo_id": null,
   "iucn_id": "32947",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Flamboyant",
+    "Flame-of-the-forest",
+    "Flametree"
+  ]
 }

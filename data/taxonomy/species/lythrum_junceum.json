@@ -6,5 +6,10 @@
   "gbif_id": "3988701",
   "powo_id": "553740-1",
   "iucn_id": "164063",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Rose loosestrife",
+    "False Grass-poly",
+    "Creeping loosestrife"
+  ]
 }

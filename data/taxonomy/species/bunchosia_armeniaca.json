@@ -6,5 +6,9 @@
   "gbif_id": "7285310",
   "powo_id": "555884-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Peanut butter fruit",
+    "Sunset fruit"
+  ]
 }

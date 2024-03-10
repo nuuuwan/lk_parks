@@ -6,5 +6,10 @@
   "gbif_id": "3008478",
   "powo_id": "2968261-4",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Damask rose",
+    "Portland rose",
+    "York-and-Lancaster rose"
+  ]
 }

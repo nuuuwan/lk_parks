@@ -6,5 +6,10 @@
   "gbif_id": "3152820",
   "powo_id": "685871-1",
   "iucn_id": "61956705",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "American sycamore",
+    "Sycamore",
+    "Tulip poplar"
+  ]
 }

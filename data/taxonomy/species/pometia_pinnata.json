@@ -6,5 +6,10 @@
   "gbif_id": "5577338",
   "powo_id": "784485-1",
   "iucn_id": "136055184",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Fijian longan",
+    "Kasai",
+    "Megan"
+  ]
 }

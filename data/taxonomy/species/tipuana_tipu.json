@@ -6,5 +6,10 @@
   "gbif_id": "5352512",
   "powo_id": "254607-2",
   "iucn_id": "62028299",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Tiputree",
+    "Rosewood",
+    "Tipu"
+  ]
 }

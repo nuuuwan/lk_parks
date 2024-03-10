@@ -6,5 +6,8 @@
   "gbif_id": "3699271",
   "powo_id": "170191-1",
   "iucn_id": "146456269",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Forest bushwillow"
+  ]
 }

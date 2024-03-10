@@ -6,5 +6,10 @@
   "gbif_id": "2956905",
   "powo_id": "911410-1",
   "iucn_id": "62027907",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Ironwood Cassia",
+    "Kassod Tree",
+    "Mjohoro"
+  ]
 }

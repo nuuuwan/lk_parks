@@ -89,3 +89,20 @@ class NameTranslator:
     @cache
     def get(self, scientific_name):
         return self.idx.get(scientific_name, None)
+    
+    @staticmethod
+    def clean(x):
+        x = x.lower()
+        for k in ['sinhala', 'tamil', 'sanskrit']:
+            x = x.replace(k, ' ')
+        x = re.sub(r'\s+', ' ', x).strip().title()
+        return x
+
+    def get_common_names(self, scientific_name):
+        d = self.get(scientific_name)
+        common_names = []
+        for v in d.values():
+            common_names += v.split(',')
+        common_names = [NameTranslator.clean(x) for x in common_names]
+        return common_names
+    

@@ -6,5 +6,10 @@
   "gbif_id": "5333230",
   "powo_id": "295320-1",
   "iucn_id": "62004455",
-  "iucn_category": "CR"
+  "iucn_category": "CR",
+  "common_names": [
+    "American chestnut",
+    "\u01f7\u012bnlendisc cystel",
+    "\u13a4\u13be\u13a9\u13be"
+  ]
 }

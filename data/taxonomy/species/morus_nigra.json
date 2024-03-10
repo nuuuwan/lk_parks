@@ -6,5 +6,10 @@
   "gbif_id": "5361888",
   "powo_id": "854688-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Black mulberry",
+    "Common Mulberry",
+    "Mulberry"
+  ]
 }

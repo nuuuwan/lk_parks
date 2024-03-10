@@ -6,5 +6,10 @@
   "gbif_id": "5293164",
   "powo_id": "668943-1",
   "iucn_id": "67540526",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Senegal date palm",
+    "Wild date palm",
+    "Isundu"
+  ]
 }

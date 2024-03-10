@@ -6,5 +6,8 @@
   "gbif_id": "5570086",
   "powo_id": "853021-1",
   "iucn_id": "146188374",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Red-leaved rock fig"
+  ]
 }

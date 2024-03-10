@@ -6,5 +6,10 @@
   "gbif_id": "5392174",
   "powo_id": "315743-2",
   "iucn_id": "64264333",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Devil's Beggarticks",
+    "Beggar-ticks",
+    "Stick-tights"
+  ]
 }

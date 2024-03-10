@@ -13,7 +13,7 @@ def main():
     nt = NameTranslator()
     nt.cleanup()
     for scientific_name in TEST_SCIENTIFIC_NAMES:
-        print(scientific_name, nt.idx[scientific_name])
+        print(scientific_name, nt.get_common_names(scientific_name))
 
 
 if __name__ == "__main__":

@@ -6,5 +6,10 @@
   "gbif_id": "5361938",
   "powo_id": "316340-2",
   "iucn_id": "143276774",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Shortleaf fig",
+    "Wild banyantree",
+    "Strangler Fig"
+  ]
 }

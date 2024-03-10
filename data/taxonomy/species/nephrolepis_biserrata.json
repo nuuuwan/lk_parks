@@ -6,5 +6,10 @@
   "gbif_id": "2650936",
   "powo_id": "17160710-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Giant sword fern",
+    "Giant swordfern",
+    "Samambaia Rabo de Peixe"
+  ]
 }

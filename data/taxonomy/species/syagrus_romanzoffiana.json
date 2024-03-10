@@ -6,5 +6,9 @@
   "gbif_id": "5293897",
   "powo_id": "246966-2",
   "iucn_id": "67557507",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Queen palm",
+    "Giriba palm"
+  ]
 }

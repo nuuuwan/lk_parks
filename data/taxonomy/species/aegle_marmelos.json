@@ -6,5 +6,10 @@
   "gbif_id": "5421195",
   "powo_id": "770819-1",
   "iucn_id": "156233789",
-  "iucn_category": "NT"
+  "iucn_category": "NT",
+  "common_names": [
+    "Indian bael",
+    "\u0c2e\u0c3e\u0c30\u0c47\u0c21\u0c41",
+    "Bila"
+  ]
 }

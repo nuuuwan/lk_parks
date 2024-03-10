@@ -6,5 +6,10 @@
   "gbif_id": "5565488",
   "powo_id": "72995-1",
   "iucn_id": "144297071",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Bolwarra",
+    "Copper-laurel",
+    "Grey-beech"
+  ]
 }

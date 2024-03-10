@@ -6,5 +6,10 @@
   "gbif_id": "2962854",
   "powo_id": "515137-1",
   "iucn_id": "130519979",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Catclaw blackbead",
+    "Cat's-claw",
+    "Blackbead"
+  ]
 }

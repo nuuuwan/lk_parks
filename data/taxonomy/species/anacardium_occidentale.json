@@ -6,5 +6,10 @@
   "gbif_id": "5421368",
   "powo_id": "319068-2",
   "iucn_id": "60761600",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Cashew",
+    "Cashewnut",
+    "Pomifera"
+  ]
 }

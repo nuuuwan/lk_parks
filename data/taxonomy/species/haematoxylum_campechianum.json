@@ -6,5 +6,10 @@
   "gbif_id": "2950903",
   "powo_id": "316401-2",
   "iucn_id": "62026169",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Logwood",
+    "Campseche",
+    "Longwood"
+  ]
 }

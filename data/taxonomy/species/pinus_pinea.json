@@ -6,5 +6,10 @@
   "gbif_id": "5285165",
   "powo_id": "263221-1",
   "iucn_id": "42391",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Umbrella pine",
+    "Pignolia-nut pine",
+    "Stone pine"
+  ]
 }

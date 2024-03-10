@@ -6,5 +6,9 @@
   "gbif_id": "4193555",
   "powo_id": "374090-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "\u0c30\u0c3f\u0c15\u0c4d\u0c15 \u0c17\u0c4b\u0c30\u0c3f\u0c02\u0c1f",
+    "Busy lizzy"
+  ]
 }

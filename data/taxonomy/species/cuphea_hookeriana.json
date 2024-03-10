@@ -6,5 +6,8 @@
   "gbif_id": "7286316",
   "powo_id": "72407-2",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Cigar Plant"
+  ]
 }

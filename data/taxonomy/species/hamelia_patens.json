@@ -6,5 +6,10 @@
   "gbif_id": "2902066",
   "powo_id": "752194-1",
   "iucn_id": "136789578",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Fire bush",
+    "Redhead",
+    "Scarletbush"
+  ]
 }

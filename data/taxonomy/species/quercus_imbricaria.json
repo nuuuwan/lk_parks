@@ -6,5 +6,10 @@
   "gbif_id": "2881106",
   "powo_id": "296296-1",
   "iucn_id": "194174",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Shingle oak",
+    "Jack oak",
+    "Northern Laurel Oak"
+  ]
 }

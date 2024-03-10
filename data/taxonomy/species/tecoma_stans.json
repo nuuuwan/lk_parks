@@ -6,5 +6,10 @@
   "gbif_id": "3172492",
   "powo_id": "111284-1",
   "iucn_id": "82858855",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Yellow-bells",
+    "Yellow trumpet flower",
+    "Trumpet-flower"
+  ]
 }

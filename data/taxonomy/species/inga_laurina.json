@@ -6,5 +6,10 @@
   "gbif_id": "5358039",
   "powo_id": "1199545-2",
   "iucn_id": "136789974",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Guam\u00e1",
+    "Sacky sac bean",
+    "Red Wood"
+  ]
 }

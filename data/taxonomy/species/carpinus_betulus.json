@@ -6,5 +6,10 @@
   "gbif_id": "2875818",
   "powo_id": "295248-1",
   "iucn_id": "194274",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "European hornbeam",
+    "Hornbeam",
+    "Common Hornbeam"
+  ]
 }

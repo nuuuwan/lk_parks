@@ -6,5 +6,8 @@
   "gbif_id": "5570630",
   "powo_id": "853301-1",
   "iucn_id": "61886071",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Fig"
+  ]
 }

@@ -6,5 +6,10 @@
   "gbif_id": "3183534",
   "powo_id": "601802-1",
   "iucn_id": "49487025",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Jambos",
+    "Rose-apple",
+    "Malabar-plum"
+  ]
 }

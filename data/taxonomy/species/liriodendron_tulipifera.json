@@ -6,5 +6,10 @@
   "gbif_id": "3152861",
   "powo_id": "30197364-2",
   "iucn_id": "194015",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Tulip Poplar",
+    "Tuliptree",
+    "Yellow Poplar"
+  ]
 }

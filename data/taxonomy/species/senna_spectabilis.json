@@ -6,5 +6,10 @@
   "gbif_id": "2957438",
   "powo_id": "234663-2",
   "iucn_id": "19892105",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Casia amarilla",
+    "Whitebark senna",
+    "Gasia"
+  ]
 }

@@ -6,5 +6,10 @@
   "gbif_id": "3172262",
   "powo_id": "328130-2",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Catalonian jasmine",
+    "Royal jasmine",
+    "Spanish jasmine"
+  ]
 }

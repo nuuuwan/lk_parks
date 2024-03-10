@@ -6,5 +6,10 @@
   "gbif_id": "3153837",
   "powo_id": "554627-1",
   "iucn_id": "193896",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Cucumber-tree",
+    "Cucumber Magnolia",
+    "Mountain Magnolia"
+  ]
 }

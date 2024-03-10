@@ -6,5 +6,10 @@
   "gbif_id": "3152827",
   "powo_id": "430697-1",
   "iucn_id": "62018973",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Witch Hazel",
+    "American witchhazel",
+    "American Witch-Hazel"
+  ]
 }

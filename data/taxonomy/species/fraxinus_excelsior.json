@@ -6,5 +6,10 @@
   "gbif_id": "3172358",
   "powo_id": "609009-1",
   "iucn_id": "203367",
-  "iucn_category": "NT"
+  "iucn_category": "NT",
+  "common_names": [
+    "Ash",
+    "European ash",
+    "Common Ash"
+  ]
 }

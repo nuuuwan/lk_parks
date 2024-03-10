@@ -6,5 +6,10 @@
   "gbif_id": "2737019",
   "powo_id": "311149-2",
   "iucn_id": "201636",
-  "iucn_category": "VU"
+  "iucn_category": "VU",
+  "common_names": [
+    "Florida cherry palm",
+    "Sargent's cherry palm",
+    "Buccaneer palm"
+  ]
 }

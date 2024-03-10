@@ -6,5 +6,10 @@
   "gbif_id": "2952775",
   "powo_id": "513021-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Yellow flame",
+    "Copperpod",
+    "Yellow flametree"
+  ]
 }

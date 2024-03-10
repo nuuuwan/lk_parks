@@ -6,5 +6,10 @@
   "gbif_id": "5416091",
   "powo_id": "597833-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Narrow-leaf paperbark",
+    "Teatree",
+    "Narrow-leaf teatree"
+  ]
 }

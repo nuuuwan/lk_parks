@@ -6,5 +6,10 @@
   "gbif_id": "5341289",
   "powo_id": "65551-2",
   "iucn_id": "62558",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Geranium-tree",
+    "Geigertree",
+    "Large-leaf geigertree"
+  ]
 }

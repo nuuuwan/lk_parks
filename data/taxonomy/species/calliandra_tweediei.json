@@ -6,5 +6,10 @@
   "gbif_id": "2982058",
   "powo_id": "42335-2",
   "iucn_id": "163032727",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Mexican flamebush",
+    "Brazilian flame bush",
+    "Flame Bush"
+  ]
 }

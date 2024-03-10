@@ -6,5 +6,10 @@
   "gbif_id": "2979347",
   "powo_id": "471528-1",
   "iucn_id": "177375470",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Australia Tumma",
+    "Australia Tumma (\u0c06\u0c38\u0c4d\u0c1f\u0c4d\u0c30\u0c47\u0c32\u0c3f\u0c2f\u0c3e \u0c24\u0c41\u0c2e\u0c4d\u0c2e)",
+    "Platypus Gold"
+  ]
 }

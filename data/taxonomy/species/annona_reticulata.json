@@ -6,5 +6,10 @@
   "gbif_id": "5407123",
   "powo_id": "72295-1",
   "iucn_id": "136996530",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Bullock's-heart",
+    "Custard-apple",
+    "Ox-heart"
+  ]
 }

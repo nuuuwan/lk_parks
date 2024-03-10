@@ -6,5 +6,8 @@
   "gbif_id": "4097162",
   "powo_id": "321430-1",
   "iucn_id": "33028",
-  "iucn_category": "VU"
+  "iucn_category": "VU",
+  "common_names": [
+    "White Meranti"
+  ]
 }

@@ -6,5 +6,8 @@
   "gbif_id": "4196964",
   "powo_id": "17160600-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Ladder Fern"
+  ]
 }

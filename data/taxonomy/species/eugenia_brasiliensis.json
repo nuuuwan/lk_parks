@@ -6,5 +6,10 @@
   "gbif_id": "5416882",
   "powo_id": "593822-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Brazil-cherry",
+    "Grumichama",
+    "Brazil eugenia"
+  ]
 }

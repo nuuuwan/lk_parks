@@ -6,5 +6,10 @@
   "gbif_id": "5414258",
   "powo_id": "83182-1",
   "iucn_id": "18776178",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Chinese holly",
+    "Horned holly",
+    "Burford's holly"
+  ]
 }

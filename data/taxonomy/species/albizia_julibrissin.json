@@ -6,5 +6,10 @@
   "gbif_id": "2972983",
   "powo_id": "473275-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Mimosa",
+    "Persian Silk Tree",
+    "Silktree"
+  ]
 }

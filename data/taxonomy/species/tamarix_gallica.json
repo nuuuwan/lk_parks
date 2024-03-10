@@ -6,5 +6,10 @@
   "gbif_id": "8380575",
   "powo_id": "828110-1",
   "iucn_id": "79928337",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Tamarisk",
+    "French tamarisk",
+    "Saltcedar"
+  ]
 }

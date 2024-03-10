@@ -6,5 +6,9 @@
   "gbif_id": "5927965",
   "powo_id": "77102927-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Crack Willow",
+    "Brittle Willow"
+  ]
 }

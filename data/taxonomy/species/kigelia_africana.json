@@ -6,5 +6,10 @@
   "gbif_id": "3172561",
   "powo_id": "109874-1",
   "iucn_id": "61986013",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Sausagetree",
+    "Pohon Sosis",
+    "Saucissonnier (FR)"
+  ]
 }

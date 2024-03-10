@@ -6,5 +6,10 @@
   "gbif_id": "3189636",
   "powo_id": "828524-1",
   "iucn_id": "62054114",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Camellia",
+    "Rose of Winter",
+    "Camellia Albino Botti"
+  ]
 }

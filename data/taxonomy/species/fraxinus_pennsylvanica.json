@@ -6,5 +6,10 @@
   "gbif_id": "3172348",
   "powo_id": "105864-2",
   "iucn_id": "61918934",
-  "iucn_category": "CR"
+  "iucn_category": "CR",
+  "common_names": [
+    "Green ash",
+    "Red ash",
+    "Downy ash"
+  ]
 }

@@ -6,5 +6,10 @@
   "gbif_id": "5361921",
   "powo_id": "853797-1",
   "iucn_id": "146188430",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Sycomore",
+    "Pharoah fig",
+    "Mulberry fig"
+  ]
 }

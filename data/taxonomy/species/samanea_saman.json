@@ -6,5 +6,10 @@
   "gbif_id": "2972960",
   "powo_id": "227126-2",
   "iucn_id": "144255307",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Cow-tamarind",
+    "Raintree",
+    "Monkeypod"
+  ]
 }

@@ -6,5 +6,10 @@
   "gbif_id": "3176787",
   "powo_id": "592965-1",
   "iucn_id": "61912929",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Tasmanian bluegum",
+    "Blue gum",
+    "Victorian blue gum"
+  ]
 }

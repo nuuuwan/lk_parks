@@ -6,5 +6,10 @@
   "gbif_id": "3177189",
   "powo_id": "593359-1",
   "iucn_id": "133377043",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Red ironbark",
+    "Black ironbark",
+    "Ironbark"
+  ]
 }

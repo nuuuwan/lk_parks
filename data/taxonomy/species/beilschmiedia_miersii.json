@@ -6,5 +6,8 @@
   "gbif_id": "4176205",
   "powo_id": "31054-2",
   "iucn_id": "201732",
-  "iucn_category": "VU"
+  "iucn_category": "VU",
+  "common_names": [
+    "Bellota"
+  ]
 }

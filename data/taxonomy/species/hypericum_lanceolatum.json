@@ -6,5 +6,9 @@
   "gbif_id": "7744867",
   "powo_id": "433544-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "St. John's Wort",
+    "Hypercium lanceolatum is related with H.  perforatum which is called st john\u2019s wort, so im gonna call it a sometype of wort"
+  ]
 }

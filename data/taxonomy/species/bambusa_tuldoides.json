@@ -6,5 +6,9 @@
   "gbif_id": "2705762",
   "powo_id": "392553-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Verdant bamboo",
+    "Puntingpole bamboo"
+  ]
 }

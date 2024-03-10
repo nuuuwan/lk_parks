@@ -6,5 +6,10 @@
   "gbif_id": "3189390",
   "powo_id": "170982-1",
   "iucn_id": "61989645",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Beleric myrobalan",
+    "Belleric",
+    "Belleric myrobalan"
+  ]
 }

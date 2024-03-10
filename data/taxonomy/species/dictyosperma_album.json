@@ -6,5 +6,9 @@
   "gbif_id": "5293187",
   "powo_id": "666678-1",
   "iucn_id": null,
-  "iucn_category": null
+  "iucn_category": null,
+  "common_names": [
+    "Common princess palm",
+    "Hurricane palm"
+  ]
 }

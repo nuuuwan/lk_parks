@@ -6,5 +6,10 @@
   "gbif_id": "2970463",
   "powo_id": "482418-1",
   "iucn_id": "144259964",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Rose-of-Venezuela",
+    "Rose of Venezuela",
+    "Scarlet Flame Bean"
+  ]
 }

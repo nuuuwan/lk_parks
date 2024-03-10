@@ -6,5 +6,10 @@
   "gbif_id": "2735935",
   "powo_id": "985360-1",
   "iucn_id": "195960",
-  "iucn_category": "NT"
+  "iucn_category": "NT",
+  "common_names": [
+    "Areca palm",
+    "Yellow butterfly palm",
+    "Butterfly palm"
+  ]
 }

@@ -6,5 +6,10 @@
   "gbif_id": "3023558",
   "powo_id": "729552-1",
   "iucn_id": "64120952",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Carolina laurel cherry",
+    "Cherry-laurel",
+    "Laurel cherry"
+  ]
 }

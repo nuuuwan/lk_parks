@@ -6,5 +6,10 @@
   "gbif_id": "3699873",
   "powo_id": "171229-1",
   "iucn_id": "128091369",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Satellite Tree.",
+    "Amandier de Madagascar",
+    "Ketapang Kencana"
+  ]
 }

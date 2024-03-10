@@ -6,5 +6,10 @@
   "gbif_id": "5372647",
   "powo_id": "312506-2",
   "iucn_id": "79927560",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "Bay willow",
+    "Laurel willow",
+    "Bay-leaf Willow"
+  ]
 }

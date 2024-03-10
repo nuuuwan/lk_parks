@@ -6,5 +6,10 @@
   "gbif_id": "3189635",
   "powo_id": "828548-1",
   "iucn_id": "62037625",
-  "iucn_category": "DD"
+  "iucn_category": "DD",
+  "common_names": [
+    "Black tea",
+    "Tea",
+    "Teabush"
+  ]
 }

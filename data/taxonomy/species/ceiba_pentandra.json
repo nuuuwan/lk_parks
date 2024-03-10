@@ -6,5 +6,10 @@
   "gbif_id": "5406697",
   "powo_id": "1166232-2",
   "iucn_id": "61782438",
-  "iucn_category": "LC"
+  "iucn_category": "LC",
+  "common_names": [
+    "White silk cottontree",
+    "Kapok",
+    "Kapoktree"
+  ]
 }
