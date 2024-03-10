@@ -1,6 +1,6 @@
 import os
 from dataclasses import dataclass
-
+import re
 from utils import JSONFile, Log
 
 log = Log('Taxon')
@@ -19,10 +19,19 @@ class Taxon:
             cls.__name__.lower(),
         )
 
+    @staticmethod
+    def clean_name(name: str) -> str:
+        name = re.sub(r'[^a-zA-Z] ', ' ', name)
+        name = re.sub(r' +', ' ', name)
+        return name.strip()
+    
     @classmethod
     def get_data_path(cls, name: str) -> str:
         name_snake = name.replace(' ', '_').lower()
-        return os.path.join(cls.get_dir_data(), f'{name_snake}.json')
+        dir_data = cls.get_dir_data()
+        if not os.path.exists(dir_data):
+            os.makedirs(dir_data)
+        return os.path.join(dir_data, f'{name_snake}.json')
 
     @property
     def data_path(self) -> str:

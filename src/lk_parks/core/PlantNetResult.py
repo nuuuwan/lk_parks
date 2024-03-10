@@ -24,6 +24,8 @@ class PlantNetResult:
     T_DELAY = 1
     DEFAULT_PROJECT = 'all'
     DEFAULT_ORGANS = ['auto']
+    DIR_DATA_PLANT_NET_RESULTS = os.path.join( 'data',
+            'plant_net_results',)
 
     def to_dict(self) -> dict:
         return self.__dict__
@@ -43,9 +45,10 @@ class PlantNetResult:
 
     @classmethod
     def get_data_path(cls, plant_photo_id: str) -> str:
+        if not os.path.exists(PlantNetResult.DIR_DATA_PLANT_NET_RESULTS):
+            os.makedirs(PlantNetResult.DIR_DATA_PLANT_NET_RESULTS)
         return os.path.join(
-            'data',
-            'plant_net_results',
+           PlantNetResult.DIR_DATA_PLANT_NET_RESULTS,
             f'{plant_photo_id}.json',
         )
 
@@ -127,7 +130,7 @@ class PlantNetResult:
         if os.path.exists(PlantNetResult.get_data_path(plant_photo.id)):
             return PlantNetResult.from_plant_photo_id(plant_photo.id)
 
-        ut_api_call = int(time.time())
+        ut_api_call = 0
         results = PlantNetResult.identify(plant_photo.image_path)
         species_name_to_score = PlantNetResult.get_species_name_to_score(
             results

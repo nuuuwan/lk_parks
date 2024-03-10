@@ -88,7 +88,7 @@ class NameTranslator:
 
     @cache
     def get(self, scientific_name):
-        return self.idx.get(scientific_name, None)
+        return self.idx.get(scientific_name, {})
     
     @staticmethod
     def clean(x):
@@ -104,5 +104,6 @@ class NameTranslator:
         for v in d.values():
             common_names += v.split(',')
         common_names = [NameTranslator.clean(x) for x in common_names]
+        common_names= [x for x in common_names if len(x)> 0]
         return common_names
     

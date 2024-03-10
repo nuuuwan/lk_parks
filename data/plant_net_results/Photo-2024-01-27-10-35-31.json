@@ -1,9 +1,9 @@
 {
-  "ut_api_call": 1710082114,
+  "ut_api_call": 0,
   "plant_photo_id": "Photo-2024-01-27-10-35-31",
   "species_name_to_score": {
     "Clivia nobilis": 0.55071,
-    "Clivia \u00d7 cyrtanthiflora": 0.29652,
+    "Clivia cyrtanthiflora": 0.29652,
     "Clivia miniata": 0.02893,
     "Cyrtanthus elatus": 0.00175,
     "Agapanthus africanus": 0.00125

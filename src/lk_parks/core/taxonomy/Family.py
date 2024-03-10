@@ -17,7 +17,7 @@ class Family(Taxon):
     @staticmethod
     def from_plant_net_raw_result(d: dict) -> 'Family':
         d_family = d['species']['family']
-        name = d_family['scientificNameWithoutAuthor']
+        name = Taxon.clean_name(d_family['scientificNameWithoutAuthor'])
         data_path = Family.get_data_path(name)
 
         if os.path.exists(data_path):

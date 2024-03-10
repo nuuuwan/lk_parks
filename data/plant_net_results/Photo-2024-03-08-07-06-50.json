@@ -1,9 +1,9 @@
 {
-  "ut_api_call": 1710082115,
+  "ut_api_call": 0,
   "plant_photo_id": "Photo-2024-03-08-07-06-50",
   "species_name_to_score": {
     "Mangifera indica": 0.17523,
-    "\u00d7 Chitalpa tashkentensis": 0.04978,
+    "Chitalpa tashkentensis": 0.04978,
     "Mimusops elengi": 0.0492,
     "Quercus acutissima": 0.03474,
     "Acacia auriculiformis": 0.03445

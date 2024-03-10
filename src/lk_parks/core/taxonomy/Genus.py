@@ -27,7 +27,7 @@ class Genus(Taxon):
     @staticmethod
     def from_plant_net_raw_result(d: dict) -> 'Genus':
         d_genus = d['species']['genus']
-        name = d_genus['scientificNameWithoutAuthor']
+        name = Taxon.clean_name(d_genus['scientificNameWithoutAuthor'])
         data_path = Genus.get_data_path(name)
 
         if os.path.exists(data_path):

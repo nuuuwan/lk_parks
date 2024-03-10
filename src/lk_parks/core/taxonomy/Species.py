@@ -54,7 +54,7 @@ class Species(Taxon):
     @staticmethod
     def from_plant_net_raw_result(d: dict) -> 'Species':
         d_species = d['species']
-        name = d_species['scientificNameWithoutAuthor']
+        name = Taxon.clean_name(d_species['scientificNameWithoutAuthor'])
         data_path = Species.get_data_path(name)
 
         if os.path.exists(data_path):
