@@ -5,6 +5,7 @@ from lk_parks.core.taxonomy.Genus import Genus
 from lk_parks.core.taxonomy.Taxon import Taxon
 from lk_parks.NameTranslator import NameTranslator
 
+
 @dataclass
 class Species(Taxon):
     genus: Genus
@@ -49,8 +50,6 @@ class Species(Taxon):
             common_names=d['common_names'],
         )
 
-    
-
     @staticmethod
     def from_plant_net_raw_result(d: dict) -> 'Species':
         d_species = d['species']
@@ -69,10 +68,11 @@ class Species(Taxon):
             if not v1:
                 return None
             return v1.get(k2, None)
-        
+
         common_names2 = NameTranslator().get_common_names(name)
-        combined_common_names = sorted(list(set(common_names + common_names2)))
-        
+        combined_common_names = sorted(
+            list(set(common_names + common_names2))
+        )
 
         species = Species(
             name=name,

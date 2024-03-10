@@ -1,6 +1,7 @@
 import os
-from dataclasses import dataclass
 import re
+from dataclasses import dataclass
+
 from utils import JSONFile, Log
 
 log = Log('Taxon')
@@ -24,7 +25,7 @@ class Taxon:
         name = re.sub(r'[^a-zA-Z] ', ' ', name)
         name = re.sub(r' +', ' ', name)
         return name.strip()
-    
+
     @classmethod
     def get_data_path(cls, name: str) -> str:
         name_snake = name.replace(' ', '_').lower()

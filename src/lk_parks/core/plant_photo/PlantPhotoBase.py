@@ -80,7 +80,6 @@ class PlantPhotoBase:
             plant_photo_list.append(plant_photo)
         return plant_photo_list
 
-
     @staticmethod
     def build_contents():
         plant_photo_list = PlantPhotoBase.list_all()

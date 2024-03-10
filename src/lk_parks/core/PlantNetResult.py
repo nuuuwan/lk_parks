@@ -24,8 +24,10 @@ class PlantNetResult:
     T_DELAY = 1
     DEFAULT_PROJECT = 'all'
     DEFAULT_ORGANS = ['auto']
-    DIR_DATA_PLANT_NET_RESULTS = os.path.join( 'data',
-            'plant_net_results',)
+    DIR_DATA_PLANT_NET_RESULTS = os.path.join(
+        'data',
+        'plant_net_results',
+    )
 
     def to_dict(self) -> dict:
         return self.__dict__
@@ -48,7 +50,7 @@ class PlantNetResult:
         if not os.path.exists(PlantNetResult.DIR_DATA_PLANT_NET_RESULTS):
             os.makedirs(PlantNetResult.DIR_DATA_PLANT_NET_RESULTS)
         return os.path.join(
-           PlantNetResult.DIR_DATA_PLANT_NET_RESULTS,
+            PlantNetResult.DIR_DATA_PLANT_NET_RESULTS,
             f'{plant_photo_id}.json',
         )
 
