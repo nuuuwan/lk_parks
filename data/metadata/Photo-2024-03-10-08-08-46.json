@@ -1,0 +1,158 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-10, 08 08 46.jpg",
+  "image_path": "data\\images\\Photo-2024-03-10-08-08-46.jpg",
+  "ut": 1710038326,
+  "latlng": [
+    6.914633,
+    79.863319
+  ],
+  "alt": 8.651338582677166,
+  "direction": 268.5277098614507,
+  "plantnet_results": [
+    {
+      "score": 0.53833,
+      "species": {
+        "scientificNameWithoutAuthor": "Mesua ferrea",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Mesua",
+          "scientificNameAuthorship": "",
+          "scientificName": "Mesua"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Calophyllaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Calophyllaceae"
+        },
+        "commonNames": [
+          "Mesua",
+          "Iron Wood Tree",
+          "Ceylon Ironwood"
+        ],
+        "scientificName": "Mesua ferrea L."
+      },
+      "gbif": {
+        "id": "7330039"
+      },
+      "powo": {
+        "id": "428832-1"
+      }
+    },
+    {
+      "score": 0.09754,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus maclellandii",
+        "scientificNameAuthorship": "King",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Banana Leaf Ficus",
+          "Amstel King",
+          "Banana-leaf Fig"
+        ],
+        "scientificName": "Ficus maclellandii King"
+      },
+      "gbif": {
+        "id": "7262766"
+      },
+      "powo": {
+        "id": "853160-1"
+      }
+    },
+    {
+      "score": 0.05077,
+      "species": {
+        "scientificNameWithoutAuthor": "Monoon longifolium",
+        "scientificNameAuthorship": "(Sonn.) B.Xue & R.M.K.Saunders",
+        "genus": {
+          "scientificNameWithoutAuthor": "Monoon",
+          "scientificNameAuthorship": "",
+          "scientificName": "Monoon"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Annonaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Annonaceae"
+        },
+        "commonNames": [
+          "Ashok",
+          "Ashoka",
+          "Debdaru (HI)"
+        ],
+        "scientificName": "Monoon longifolium (Sonn.) B.Xue & R.M.K.Saunders"
+      },
+      "gbif": {
+        "id": "11001249"
+      },
+      "powo": {
+        "id": "77123022-1"
+      }
+    },
+    {
+      "score": 0.01314,
+      "species": {
+        "scientificNameWithoutAuthor": "Quercus myrsinifolia",
+        "scientificNameAuthorship": "Blume",
+        "genus": {
+          "scientificNameWithoutAuthor": "Quercus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Quercus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fagaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fagaceae"
+        },
+        "commonNames": [
+          "Bamboo-leaf Oak"
+        ],
+        "scientificName": "Quercus myrsinifolia Blume"
+      },
+      "gbif": {
+        "id": "2878564"
+      },
+      "powo": {
+        "id": "296481-1"
+      },
+      "iucn": {
+        "id": "61983030",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.01054,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus longifolia",
+        "scientificNameAuthorship": "Schott",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Long-leaf Fig"
+        ],
+        "scientificName": "Ficus longifolia Schott"
+      },
+      "gbif": {
+        "id": "5571956"
+      },
+      "powo": {
+        "id": "853140-1"
+      }
+    }
+  ]
+}

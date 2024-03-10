@@ -1,0 +1,164 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-10, 07 57 12.jpg",
+  "image_path": "data\\images\\Photo-2024-03-10-07-57-12.jpg",
+  "ut": 1710037632,
+  "latlng": [
+    6.913536,
+    79.86325
+  ],
+  "alt": 6.8418408592216196,
+  "direction": 316.561279296875,
+  "plantnet_results": [
+    {
+      "score": 0.35235,
+      "species": {
+        "scientificNameWithoutAuthor": "Jacaranda mimosifolia",
+        "scientificNameAuthorship": "D.Don",
+        "genus": {
+          "scientificNameWithoutAuthor": "Jacaranda",
+          "scientificNameAuthorship": "",
+          "scientificName": "Jacaranda"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Bignoniaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bignoniaceae"
+        },
+        "commonNames": [
+          "Jacaranda",
+          "Black poui",
+          "Fern-tree"
+        ],
+        "scientificName": "Jacaranda mimosifolia D.Don"
+      },
+      "gbif": {
+        "id": "3172499"
+      },
+      "powo": {
+        "id": "130936-2"
+      },
+      "iucn": {
+        "id": "32027",
+        "category": "VU"
+      }
+    },
+    {
+      "score": 0.08675,
+      "species": {
+        "scientificNameWithoutAuthor": "Peltophorum pterocarpum",
+        "scientificNameAuthorship": "(DC.) Backer ex K.Heyne",
+        "genus": {
+          "scientificNameWithoutAuthor": "Peltophorum",
+          "scientificNameAuthorship": "",
+          "scientificName": "Peltophorum"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Yellow flame",
+          "Copperpod",
+          "Yellow flametree"
+        ],
+        "scientificName": "Peltophorum pterocarpum (DC.) Backer ex K.Heyne"
+      },
+      "gbif": {
+        "id": "2952775"
+      },
+      "powo": {
+        "id": "513021-1"
+      }
+    },
+    {
+      "score": 0.04153,
+      "species": {
+        "scientificNameWithoutAuthor": "Peltophorum dubium",
+        "scientificNameAuthorship": "(Spreng.) Taub.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Peltophorum",
+          "scientificNameAuthorship": "",
+          "scientificName": "Peltophorum"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Ca\u00f1a-F\u00edstula",
+          "Ibir\u00e1-Pit\u00e1",
+          "Horsebush"
+        ],
+        "scientificName": "Peltophorum dubium (Spreng.) Taub."
+      },
+      "gbif": {
+        "id": "2952798"
+      },
+      "powo": {
+        "id": "187026-2"
+      },
+      "iucn": {
+        "id": "62027184",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.03078,
+      "species": {
+        "scientificNameWithoutAuthor": "Jacaranda caucana",
+        "scientificNameAuthorship": "Pittier",
+        "genus": {
+          "scientificNameWithoutAuthor": "Jacaranda",
+          "scientificNameAuthorship": "",
+          "scientificName": "Jacaranda"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Bignoniaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bignoniaceae"
+        },
+        "commonNames": [
+          "Bruneian Jacaranda"
+        ],
+        "scientificName": "Jacaranda caucana Pittier"
+      },
+      "gbif": {
+        "id": "7298785"
+      },
+      "powo": {
+        "id": "130903-2"
+      },
+      "iucn": {
+        "id": "151977741",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02775,
+      "species": {
+        "scientificNameWithoutAuthor": "Cenostigma pluviosum",
+        "scientificNameAuthorship": "(DC.) Gagnon & G.P.Lewis",
+        "genus": {
+          "scientificNameWithoutAuthor": "Cenostigma",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cenostigma"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Cenostigma pluviosum (DC.) Gagnon & G.P.Lewis"
+      },
+      "gbif": {
+        "id": "9416767"
+      },
+      "powo": {
+        "id": "77158081-1"
+      }
+    }
+  ]
+}

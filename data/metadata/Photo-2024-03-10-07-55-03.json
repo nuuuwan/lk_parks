@@ -1,0 +1,172 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-10, 07 55 03.jpg",
+  "image_path": "data\\images\\Photo-2024-03-10-07-55-03.jpg",
+  "ut": 1710037503,
+  "latlng": [
+    6.9129,
+    79.863236
+  ],
+  "alt": 8.761878065872459,
+  "direction": 19.011165623413973,
+  "plantnet_results": [
+    {
+      "score": 0.31104,
+      "species": {
+        "scientificNameWithoutAuthor": "Terminalia catappa",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Terminalia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Terminalia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Combretaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Combretaceae"
+        },
+        "commonNames": [
+          "Tropical almond",
+          "Indian-almond",
+          "Country-almond"
+        ],
+        "scientificName": "Terminalia catappa L."
+      },
+      "gbif": {
+        "id": "3189394"
+      },
+      "powo": {
+        "id": "171034-1"
+      },
+      "iucn": {
+        "id": "61989853",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.09882,
+      "species": {
+        "scientificNameWithoutAuthor": "Anacardium occidentale",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Anacardium",
+          "scientificNameAuthorship": "",
+          "scientificName": "Anacardium"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Anacardiaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Anacardiaceae"
+        },
+        "commonNames": [
+          "Cashew",
+          "Cashewnut",
+          "Pomifera"
+        ],
+        "scientificName": "Anacardium occidentale L."
+      },
+      "gbif": {
+        "id": "5421368"
+      },
+      "powo": {
+        "id": "319068-2"
+      },
+      "iucn": {
+        "id": "60761600",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.06609,
+      "species": {
+        "scientificNameWithoutAuthor": "Beilschmiedia miersii",
+        "scientificNameAuthorship": "(Gay) Kosterm.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Beilschmiedia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Beilschmiedia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Lauraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Lauraceae"
+        },
+        "commonNames": [
+          "Bellota"
+        ],
+        "scientificName": "Beilschmiedia miersii (Gay) Kosterm."
+      },
+      "gbif": {
+        "id": "4176205"
+      },
+      "powo": {
+        "id": "31054-2"
+      },
+      "iucn": {
+        "id": "201732",
+        "category": "VU"
+      }
+    },
+    {
+      "score": 0.04291,
+      "species": {
+        "scientificNameWithoutAuthor": "Artocarpus heterophyllus",
+        "scientificNameAuthorship": "Lam.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Artocarpus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Artocarpus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Jackfruit",
+          "\u0995\u09be\u09a0\u09be\u09b2",
+          "\u0c2a\u0c28\u0c38"
+        ],
+        "scientificName": "Artocarpus heterophyllus Lam."
+      },
+      "gbif": {
+        "id": "2984565"
+      },
+      "powo": {
+        "id": "850389-1"
+      }
+    },
+    {
+      "score": 0.02727,
+      "species": {
+        "scientificNameWithoutAuthor": "Phytolacca dioica",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Phytolacca",
+          "scientificNameAuthorship": "",
+          "scientificName": "Phytolacca"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Phytolaccaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Phytolaccaceae"
+        },
+        "commonNames": [
+          "Omb\u00fa",
+          "Umbratree",
+          "Belhambra"
+        ],
+        "scientificName": "Phytolacca dioica L."
+      },
+      "gbif": {
+        "id": "7309625"
+      },
+      "powo": {
+        "id": "676348-1"
+      },
+      "iucn": {
+        "id": "224621498",
+        "category": "LC"
+      }
+    }
+  ]
+}

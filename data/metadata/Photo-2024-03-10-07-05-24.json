@@ -1,0 +1,163 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-10, 07 05 24.jpg",
+  "image_path": "data\\images\\Photo-2024-03-10-07-05-24.jpg",
+  "ut": 1710034524,
+  "latlng": [
+    6.902558,
+    79.858908
+  ],
+  "alt": 6.380147717099374,
+  "direction": 146.13198847262248,
+  "plantnet_results": [
+    {
+      "score": 0.71028,
+      "species": {
+        "scientificNameWithoutAuthor": "Tecoma stans",
+        "scientificNameAuthorship": "(L.) Juss. ex Kunth",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tecoma",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tecoma"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Bignoniaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bignoniaceae"
+        },
+        "commonNames": [
+          "Yellow-bells",
+          "Yellow trumpet flower",
+          "Trumpet-flower"
+        ],
+        "scientificName": "Tecoma stans (L.) Juss. ex Kunth"
+      },
+      "gbif": {
+        "id": "3172492"
+      },
+      "powo": {
+        "id": "111284-1"
+      },
+      "iucn": {
+        "id": "82858855",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.11366,
+      "species": {
+        "scientificNameWithoutAuthor": "Dolichandra unguis-cati",
+        "scientificNameAuthorship": "(L.) L.G.Lohmann",
+        "genus": {
+          "scientificNameWithoutAuthor": "Dolichandra",
+          "scientificNameAuthorship": "",
+          "scientificName": "Dolichandra"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Bignoniaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bignoniaceae"
+        },
+        "commonNames": [
+          "Golden-shower",
+          "Cat's Claw",
+          "Cat-claw"
+        ],
+        "scientificName": "Dolichandra unguis-cati (L.) L.G.Lohmann"
+      },
+      "gbif": {
+        "id": "5830619"
+      },
+      "powo": {
+        "id": "77100466-1"
+      }
+    },
+    {
+      "score": 0.02699,
+      "species": {
+        "scientificNameWithoutAuthor": "Tabernaemontana grandiflora",
+        "scientificNameAuthorship": "Jacq.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tabernaemontana",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tabernaemontana"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Apocynaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Apocynaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Tabernaemontana grandiflora Jacq."
+      },
+      "gbif": {
+        "id": "3617234"
+      },
+      "powo": {
+        "id": "82139-1"
+      },
+      "iucn": {
+        "id": "151967717",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00498,
+      "species": {
+        "scientificNameWithoutAuthor": "Handroanthus chrysotrichus",
+        "scientificNameAuthorship": "(Mart. ex DC.) Mattos",
+        "genus": {
+          "scientificNameWithoutAuthor": "Handroanthus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Handroanthus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Bignoniaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bignoniaceae"
+        },
+        "commonNames": [
+          "Golden trumpet tree"
+        ],
+        "scientificName": "Handroanthus chrysotrichus (Mart. ex DC.) Mattos"
+      },
+      "gbif": {
+        "id": "4092405"
+      },
+      "powo": {
+        "id": "109691-1"
+      }
+    },
+    {
+      "score": 0.0029,
+      "species": {
+        "scientificNameWithoutAuthor": "Pavonia spinifex",
+        "scientificNameAuthorship": "(L.) Cav.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Pavonia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Pavonia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Malvaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Malvaceae"
+        },
+        "commonNames": [
+          "Gingerbush",
+          "Pavonia"
+        ],
+        "scientificName": "Pavonia spinifex (L.) Cav."
+      },
+      "gbif": {
+        "id": "5406784"
+      },
+      "powo": {
+        "id": "186083-2"
+      },
+      "iucn": {
+        "id": "144310628",
+        "category": "LC"
+      }
+    }
+  ]
+}

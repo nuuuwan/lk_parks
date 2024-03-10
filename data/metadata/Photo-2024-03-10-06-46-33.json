@@ -1,0 +1,171 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-10, 06 46 33.jpg",
+  "image_path": "data\\images\\Photo-2024-03-10-06-46-33.jpg",
+  "ut": 1710033393,
+  "latlng": [
+    6.913928,
+    79.858672
+  ],
+  "alt": 7.972352704334988,
+  "direction": 310.0969546302051,
+  "plantnet_results": [
+    {
+      "score": 0.89185,
+      "species": {
+        "scientificNameWithoutAuthor": "Cassia fistula",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Cassia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cassia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Golden Shower Tree",
+          "Amaltas",
+          "Indian-laburnum"
+        ],
+        "scientificName": "Cassia fistula L."
+      },
+      "gbif": {
+        "id": "5357108"
+      },
+      "powo": {
+        "id": "484507-1"
+      },
+      "iucn": {
+        "id": "136142327",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00224,
+      "species": {
+        "scientificNameWithoutAuthor": "Cassia leptophylla",
+        "scientificNameAuthorship": "Vogel",
+        "genus": {
+          "scientificNameWithoutAuthor": "Cassia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cassia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Gold medallion tree"
+        ],
+        "scientificName": "Cassia leptophylla Vogel"
+      },
+      "gbif": {
+        "id": "5357169"
+      },
+      "powo": {
+        "id": "484754-1"
+      },
+      "iucn": {
+        "id": "149205559",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.0015,
+      "species": {
+        "scientificNameWithoutAuthor": "Tipuana tipu",
+        "scientificNameAuthorship": "(Benth.) Kuntze",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tipuana",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tipuana"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Tiputree",
+          "Rosewood",
+          "Tipu"
+        ],
+        "scientificName": "Tipuana tipu (Benth.) Kuntze"
+      },
+      "gbif": {
+        "id": "5352512"
+      },
+      "powo": {
+        "id": "254607-2"
+      },
+      "iucn": {
+        "id": "62028299",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00142,
+      "species": {
+        "scientificNameWithoutAuthor": "Styphnolobium japonicum",
+        "scientificNameAuthorship": "(L.) Schott",
+        "genus": {
+          "scientificNameWithoutAuthor": "Styphnolobium",
+          "scientificNameAuthorship": "",
+          "scientificName": "Styphnolobium"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Japanese pagoda-tree",
+          "Pagoda-tree",
+          "Chinese scholartree"
+        ],
+        "scientificName": "Styphnolobium japonicum (L.) Schott"
+      },
+      "gbif": {
+        "id": "2963569"
+      },
+      "powo": {
+        "id": "1119529-2"
+      }
+    },
+    {
+      "score": 0.00135,
+      "species": {
+        "scientificNameWithoutAuthor": "Cassia abbreviata",
+        "scientificNameAuthorship": "Oliv.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Cassia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cassia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Long-pod-cassia",
+          "Sjambokpod"
+        ],
+        "scientificName": "Cassia abbreviata Oliv."
+      },
+      "gbif": {
+        "id": "5357073"
+      },
+      "powo": {
+        "id": "484036-1"
+      },
+      "iucn": {
+        "id": "158023",
+        "category": "LC"
+      }
+    }
+  ]
+}

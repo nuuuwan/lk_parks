@@ -1,0 +1,178 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-10, 06 47 53.jpg",
+  "image_path": "data\\images\\Photo-2024-03-10-06-47-53.jpg",
+  "ut": 1710033473,
+  "latlng": [
+    6.913561,
+    79.858192
+  ],
+  "alt": 5.7848613506700275,
+  "direction": 186.58053587927319,
+  "plantnet_results": [
+    {
+      "score": 0.82923,
+      "species": {
+        "scientificNameWithoutAuthor": "Plumeria rubra",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Plumeria",
+          "scientificNameAuthorship": "",
+          "scientificName": "Plumeria"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Apocynaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Apocynaceae"
+        },
+        "commonNames": [
+          "Frangipani",
+          "Plumeria",
+          "Pagoda-tree"
+        ],
+        "scientificName": "Plumeria rubra L."
+      },
+      "gbif": {
+        "id": "3169674"
+      },
+      "powo": {
+        "id": "81275-1"
+      },
+      "iucn": {
+        "id": "144270910",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.04288,
+      "species": {
+        "scientificNameWithoutAuthor": "Pseudobombax ellipticum",
+        "scientificNameAuthorship": "(Kunth) Dugand",
+        "genus": {
+          "scientificNameWithoutAuthor": "Pseudobombax",
+          "scientificNameAuthorship": "",
+          "scientificName": "Pseudobombax"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Malvaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Malvaceae"
+        },
+        "commonNames": [
+          "Shaving-brush-tree",
+          "Bombax",
+          "Pink Shaving Brush Tree"
+        ],
+        "scientificName": "Pseudobombax ellipticum (Kunth) Dugand"
+      },
+      "gbif": {
+        "id": "3152212"
+      },
+      "powo": {
+        "id": "112509-1"
+      },
+      "iucn": {
+        "id": "61786786",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02932,
+      "species": {
+        "scientificNameWithoutAuthor": "Plumeria obtusa",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Plumeria",
+          "scientificNameAuthorship": "",
+          "scientificName": "Plumeria"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Apocynaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Apocynaceae"
+        },
+        "commonNames": [
+          "Frangipani",
+          "Singapore graveyard flower",
+          "\u0c26\u0c47\u0c35 \u0c17\u0c28\u0c4d\u0c28\u0c47\u0c30\u0c41"
+        ],
+        "scientificName": "Plumeria obtusa L."
+      },
+      "gbif": {
+        "id": "3169677"
+      },
+      "powo": {
+        "id": "81256-1"
+      },
+      "iucn": {
+        "id": "156770956",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02765,
+      "species": {
+        "scientificNameWithoutAuthor": "Plumeria alba",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Plumeria",
+          "scientificNameAuthorship": "",
+          "scientificName": "Plumeria"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Apocynaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Apocynaceae"
+        },
+        "commonNames": [
+          "White Frangipani",
+          "Wild frangipani",
+          "Champa"
+        ],
+        "scientificName": "Plumeria alba L."
+      },
+      "gbif": {
+        "id": "3169673"
+      },
+      "powo": {
+        "id": "81171-1"
+      },
+      "iucn": {
+        "id": "208165050",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.0111,
+      "species": {
+        "scientificNameWithoutAuthor": "Adenium obesum",
+        "scientificNameAuthorship": "(Forssk.) Roem. & Schult.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Adenium",
+          "scientificNameAuthorship": "",
+          "scientificName": "Adenium"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Apocynaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Apocynaceae"
+        },
+        "commonNames": [
+          "Desert-rose",
+          "\u0622\u062f\u0646\u06cc\u0648\u0645",
+          "Impala-lily"
+        ],
+        "scientificName": "Adenium obesum (Forssk.) Roem. & Schult."
+      },
+      "gbif": {
+        "id": "7155887"
+      },
+      "powo": {
+        "id": "76369-1"
+      },
+      "iucn": {
+        "id": "62541",
+        "category": "LC"
+      }
+    }
+  ]
+}

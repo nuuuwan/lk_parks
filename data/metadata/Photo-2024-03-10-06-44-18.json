@@ -1,0 +1,178 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-10, 06 44 18.jpg",
+  "image_path": "data\\images\\Photo-2024-03-10-06-44-18.jpg",
+  "ut": 1710033258,
+  "latlng": [
+    6.914453,
+    79.859689
+  ],
+  "alt": 4.375093075204766,
+  "direction": 189.00999444752915,
+  "plantnet_results": [
+    {
+      "score": 0.14589,
+      "species": {
+        "scientificNameWithoutAuthor": "Peltophorum dubium",
+        "scientificNameAuthorship": "(Spreng.) Taub.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Peltophorum",
+          "scientificNameAuthorship": "",
+          "scientificName": "Peltophorum"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Ca\u00f1a-F\u00edstula",
+          "Ibir\u00e1-Pit\u00e1",
+          "Horsebush"
+        ],
+        "scientificName": "Peltophorum dubium (Spreng.) Taub."
+      },
+      "gbif": {
+        "id": "2952798"
+      },
+      "powo": {
+        "id": "187026-2"
+      },
+      "iucn": {
+        "id": "62027184",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.09262,
+      "species": {
+        "scientificNameWithoutAuthor": "Jacaranda mimosifolia",
+        "scientificNameAuthorship": "D.Don",
+        "genus": {
+          "scientificNameWithoutAuthor": "Jacaranda",
+          "scientificNameAuthorship": "",
+          "scientificName": "Jacaranda"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Bignoniaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bignoniaceae"
+        },
+        "commonNames": [
+          "Jacaranda",
+          "Black poui",
+          "Fern-tree"
+        ],
+        "scientificName": "Jacaranda mimosifolia D.Don"
+      },
+      "gbif": {
+        "id": "3172499"
+      },
+      "powo": {
+        "id": "130936-2"
+      },
+      "iucn": {
+        "id": "32027",
+        "category": "VU"
+      }
+    },
+    {
+      "score": 0.0823,
+      "species": {
+        "scientificNameWithoutAuthor": "Delonix regia",
+        "scientificNameAuthorship": "(Bojer ex Hook.) Raf.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Delonix",
+          "scientificNameAuthorship": "",
+          "scientificName": "Delonix"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Flamboyant",
+          "Royal poinciana",
+          "Flame-of-the-forest"
+        ],
+        "scientificName": "Delonix regia (Bojer ex Hook.) Raf."
+      },
+      "gbif": {
+        "id": "2956176"
+      },
+      "powo": {
+        "id": "491231-1"
+      },
+      "iucn": {
+        "id": "32947",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.07497,
+      "species": {
+        "scientificNameWithoutAuthor": "Peltophorum africanum",
+        "scientificNameAuthorship": "Sond.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Peltophorum",
+          "scientificNameAuthorship": "",
+          "scientificName": "Peltophorum"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "African-wattle",
+          "Umkahla",
+          "Umsehla"
+        ],
+        "scientificName": "Peltophorum africanum Sond."
+      },
+      "gbif": {
+        "id": "2952780"
+      },
+      "powo": {
+        "id": "513010-1"
+      },
+      "iucn": {
+        "id": "47608213",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.03407,
+      "species": {
+        "scientificNameWithoutAuthor": "Cassia javanica",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Cassia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cassia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Appleblossom shower",
+          "Rainbow shower",
+          "Pink cassia"
+        ],
+        "scientificName": "Cassia javanica L."
+      },
+      "gbif": {
+        "id": "5357125"
+      },
+      "powo": {
+        "id": "484704-1"
+      },
+      "iucn": {
+        "id": "22483945",
+        "category": "LC"
+      }
+    }
+  ]
+}

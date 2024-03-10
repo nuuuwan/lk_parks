@@ -1,0 +1,168 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-10, 08 05 45.jpg",
+  "image_path": "data\\images\\Photo-2024-03-10-08-05-45.jpg",
+  "ut": 1710038145,
+  "latlng": [
+    6.913694,
+    79.864189
+  ],
+  "alt": 6.71245771436976,
+  "direction": 305.07635467980293,
+  "plantnet_results": [
+    {
+      "score": 0.84897,
+      "species": {
+        "scientificNameWithoutAuthor": "Mesua ferrea",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Mesua",
+          "scientificNameAuthorship": "",
+          "scientificName": "Mesua"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Calophyllaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Calophyllaceae"
+        },
+        "commonNames": [
+          "Mesua",
+          "Iron Wood Tree",
+          "Ceylon Ironwood"
+        ],
+        "scientificName": "Mesua ferrea L."
+      },
+      "gbif": {
+        "id": "7330039"
+      },
+      "powo": {
+        "id": "428832-1"
+      }
+    },
+    {
+      "score": 0.02194,
+      "species": {
+        "scientificNameWithoutAuthor": "Eucalyptus robusta",
+        "scientificNameAuthorship": "Sm.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Eucalyptus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Eucalyptus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Myrtaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Myrtaceae"
+        },
+        "commonNames": [
+          "Swamp messmate",
+          "Swamp stringybark",
+          "Swamp-mahogany"
+        ],
+        "scientificName": "Eucalyptus robusta Sm."
+      },
+      "gbif": {
+        "id": "3176743"
+      },
+      "powo": {
+        "id": "593318-1"
+      },
+      "iucn": {
+        "id": "61915765",
+        "category": "NT"
+      }
+    },
+    {
+      "score": 0.00981,
+      "species": {
+        "scientificNameWithoutAuthor": "Simarouba amara",
+        "scientificNameAuthorship": "Aubl.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Simarouba",
+          "scientificNameAuthorship": "",
+          "scientificName": "Simarouba"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Simaroubaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Simaroubaceae"
+        },
+        "commonNames": [
+          "Bitterwood"
+        ],
+        "scientificName": "Simarouba amara Aubl."
+      },
+      "gbif": {
+        "id": "7720664"
+      },
+      "powo": {
+        "id": "814124-1"
+      },
+      "iucn": {
+        "id": "61966243",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00531,
+      "species": {
+        "scientificNameWithoutAuthor": "Cinnamomum verum",
+        "scientificNameAuthorship": "J.Presl",
+        "genus": {
+          "scientificNameWithoutAuthor": "Cinnamomum",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cinnamomum"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Lauraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Lauraceae"
+        },
+        "commonNames": [
+          "Cinnamon",
+          "\u0c26\u0c3e\u0c32\u0c4d\u0c1a\u0c3f\u0c28",
+          "\u0926\u093e\u0932\u091a\u0940\u0928\u0940 (Daalchini)"
+        ],
+        "scientificName": "Cinnamomum verum J.Presl"
+      },
+      "gbif": {
+        "id": "3033987"
+      },
+      "powo": {
+        "id": "463752-1"
+      }
+    },
+    {
+      "score": 0.00492,
+      "species": {
+        "scientificNameWithoutAuthor": "Syzygium cumini",
+        "scientificNameAuthorship": "(L.) Skeels",
+        "genus": {
+          "scientificNameWithoutAuthor": "Syzygium",
+          "scientificNameAuthorship": "",
+          "scientificName": "Syzygium"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Myrtaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Myrtaceae"
+        },
+        "commonNames": [
+          "\u091c\u093e\u092e\u0941\u0928",
+          "Jaman",
+          "\u0c05\u0c32\u0c4d\u0c32\u0c28\u0c47\u0c30\u0c47\u0c21\u0c41"
+        ],
+        "scientificName": "Syzygium cumini (L.) Skeels"
+      },
+      "gbif": {
+        "id": "3183840"
+      },
+      "powo": {
+        "id": "601603-1"
+      },
+      "iucn": {
+        "id": "49487196",
+        "category": "LC"
+      }
+    }
+  ]
+}

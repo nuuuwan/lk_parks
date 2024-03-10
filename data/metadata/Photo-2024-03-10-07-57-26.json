@@ -1,0 +1,177 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-10, 07 57 26.jpg",
+  "image_path": "data\\images\\Photo-2024-03-10-07-57-26.jpg",
+  "ut": 1710037646,
+  "latlng": [
+    6.913558,
+    79.863219
+  ],
+  "alt": 8.246567894522224,
+  "direction": 291.4962765957447,
+  "plantnet_results": [
+    {
+      "score": 0.08139,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus hispida",
+        "scientificNameAuthorship": "L.f.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Hairy fig",
+          "River fig",
+          "Rough-leaf fig"
+        ],
+        "scientificName": "Ficus hispida L.f."
+      },
+      "gbif": {
+        "id": "7879404"
+      },
+      "powo": {
+        "id": "852981-1"
+      },
+      "iucn": {
+        "id": "147494318",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.06469,
+      "species": {
+        "scientificNameWithoutAuthor": "Bridelia micrantha",
+        "scientificNameAuthorship": "(Hochst.) Baill.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Bridelia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bridelia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Phyllanthaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Phyllanthaceae"
+        },
+        "commonNames": [
+          "Bridelia",
+          "Mitzeerie",
+          "Mitzeeri"
+        ],
+        "scientificName": "Bridelia micrantha (Hochst.) Baill."
+      },
+      "gbif": {
+        "id": "3076142"
+      },
+      "powo": {
+        "id": "340183-1"
+      },
+      "iucn": {
+        "id": "61956569",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.06368,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus racemosa",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Cluster fig",
+          "Country fig",
+          "Redwood fig"
+        ],
+        "scientificName": "Ficus racemosa L."
+      },
+      "gbif": {
+        "id": "5361904"
+      },
+      "powo": {
+        "id": "853540-1"
+      },
+      "iucn": {
+        "id": "145362959",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.05608,
+      "species": {
+        "scientificNameWithoutAuthor": "Philenoptera violacea",
+        "scientificNameAuthorship": "(Klotzsch) Schrire",
+        "genus": {
+          "scientificNameWithoutAuthor": "Philenoptera",
+          "scientificNameAuthorship": "",
+          "scientificName": "Philenoptera"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Apple-leaf",
+          "Rain-tree"
+        ],
+        "scientificName": "Philenoptera violacea (Klotzsch) Schrire"
+      },
+      "gbif": {
+        "id": "3976037"
+      },
+      "powo": {
+        "id": "1013771-1"
+      },
+      "iucn": {
+        "id": "146201349",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.03721,
+      "species": {
+        "scientificNameWithoutAuthor": "Holarrhena pubescens",
+        "scientificNameAuthorship": "Wall. ex G.Don",
+        "genus": {
+          "scientificNameWithoutAuthor": "Holarrhena",
+          "scientificNameAuthorship": "",
+          "scientificName": "Holarrhena"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Apocynaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Apocynaceae"
+        },
+        "commonNames": [
+          "Tellicherry bark",
+          "Bitter oleander",
+          "Conessi bark"
+        ],
+        "scientificName": "Holarrhena pubescens Wall. ex G.Don"
+      },
+      "gbif": {
+        "id": "3169748"
+      },
+      "powo": {
+        "id": "79318-1"
+      },
+      "iucn": {
+        "id": "33988",
+        "category": "LC"
+      }
+    }
+  ]
+}

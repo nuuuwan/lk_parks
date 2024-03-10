@@ -1,0 +1,174 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-10, 07 56 22.jpg",
+  "image_path": "data\\images\\Photo-2024-03-10-07-56-22.jpg",
+  "ut": 1710037582,
+  "latlng": [
+    6.913106,
+    79.863158
+  ],
+  "alt": 10.545313560143452,
+  "direction": 115.2510909701242,
+  "plantnet_results": [
+    {
+      "score": 0.93029,
+      "species": {
+        "scientificNameWithoutAuthor": "Terminalia catappa",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Terminalia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Terminalia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Combretaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Combretaceae"
+        },
+        "commonNames": [
+          "Tropical almond",
+          "Indian-almond",
+          "Country-almond"
+        ],
+        "scientificName": "Terminalia catappa L."
+      },
+      "gbif": {
+        "id": "3189394"
+      },
+      "powo": {
+        "id": "171034-1"
+      },
+      "iucn": {
+        "id": "61989853",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.01023,
+      "species": {
+        "scientificNameWithoutAuthor": "Anacardium occidentale",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Anacardium",
+          "scientificNameAuthorship": "",
+          "scientificName": "Anacardium"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Anacardiaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Anacardiaceae"
+        },
+        "commonNames": [
+          "Cashew",
+          "Cashewnut",
+          "Pomifera"
+        ],
+        "scientificName": "Anacardium occidentale L."
+      },
+      "gbif": {
+        "id": "5421368"
+      },
+      "powo": {
+        "id": "319068-2"
+      },
+      "iucn": {
+        "id": "60761600",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00444,
+      "species": {
+        "scientificNameWithoutAuthor": "Magnolia macrophylla",
+        "scientificNameAuthorship": "Michx.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Magnolia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Magnolia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Magnoliaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Magnoliaceae"
+        },
+        "commonNames": [
+          "Big-leaf magnolia",
+          "Large-leaf cucumber-tree",
+          "Umbrella-tree"
+        ],
+        "scientificName": "Magnolia macrophylla Michx."
+      },
+      "gbif": {
+        "id": "3153783"
+      },
+      "powo": {
+        "id": "30417720-2"
+      },
+      "iucn": {
+        "id": "62595",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00415,
+      "species": {
+        "scientificNameWithoutAuthor": "Anthocleista grandiflora",
+        "scientificNameAuthorship": "Gilg",
+        "genus": {
+          "scientificNameWithoutAuthor": "Anthocleista",
+          "scientificNameAuthorship": "",
+          "scientificName": "Anthocleista"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Gentianaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Gentianaceae"
+        },
+        "commonNames": [
+          "Forest big-leaf",
+          "Forest fever-tree",
+          "Big-leaf"
+        ],
+        "scientificName": "Anthocleista grandiflora Gilg"
+      },
+      "gbif": {
+        "id": "4019317"
+      },
+      "powo": {
+        "id": "545611-1"
+      }
+    },
+    {
+      "score": 0.00305,
+      "species": {
+        "scientificNameWithoutAuthor": "Tectona grandis",
+        "scientificNameAuthorship": "L.f.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tectona",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tectona"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Lamiaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Lamiaceae"
+        },
+        "commonNames": [
+          "Teak",
+          "Bankok teak",
+          "Indian-oak"
+        ],
+        "scientificName": "Tectona grandis L.f."
+      },
+      "gbif": {
+        "id": "2925649"
+      },
+      "powo": {
+        "id": "864923-1"
+      },
+      "iucn": {
+        "id": "62019830",
+        "category": "EN"
+      }
+    }
+  ]
+}

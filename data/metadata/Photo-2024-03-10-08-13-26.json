@@ -1,0 +1,175 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-10, 08 13 26.jpg",
+  "image_path": "data\\images\\Photo-2024-03-10-08-13-26.jpg",
+  "ut": 1710038606,
+  "latlng": [
+    6.914453,
+    79.86245
+  ],
+  "alt": 9.369448602794412,
+  "direction": 240.11138923654568,
+  "plantnet_results": [
+    {
+      "score": 0.90441,
+      "species": {
+        "scientificNameWithoutAuthor": "Cassia fistula",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Cassia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cassia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Golden Shower Tree",
+          "Amaltas",
+          "Indian-laburnum"
+        ],
+        "scientificName": "Cassia fistula L."
+      },
+      "gbif": {
+        "id": "5357108"
+      },
+      "powo": {
+        "id": "484507-1"
+      },
+      "iucn": {
+        "id": "136142327",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.0227,
+      "species": {
+        "scientificNameWithoutAuthor": "Cassia sieberiana",
+        "scientificNameAuthorship": "DC.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Cassia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cassia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Drumstick Tree",
+          "African Laburnum"
+        ],
+        "scientificName": "Cassia sieberiana DC."
+      },
+      "gbif": {
+        "id": "5357182"
+      },
+      "powo": {
+        "id": "485224-1"
+      },
+      "iucn": {
+        "id": "144280984",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00476,
+      "species": {
+        "scientificNameWithoutAuthor": "Senna multijuga",
+        "scientificNameAuthorship": "(Rich.) H.S.Irwin & Barneby",
+        "genus": {
+          "scientificNameWithoutAuthor": "Senna",
+          "scientificNameAuthorship": "",
+          "scientificName": "Senna"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "False sicklepod",
+          "November shower"
+        ],
+        "scientificName": "Senna multijuga (Rich.) H.S.Irwin & Barneby"
+      },
+      "gbif": {
+        "id": "2957158"
+      },
+      "powo": {
+        "id": "234544-2"
+      },
+      "iucn": {
+        "id": "62527",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00188,
+      "species": {
+        "scientificNameWithoutAuthor": "Cassia abbreviata",
+        "scientificNameAuthorship": "Oliv.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Cassia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cassia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Long-pod-cassia",
+          "Sjambokpod"
+        ],
+        "scientificName": "Cassia abbreviata Oliv."
+      },
+      "gbif": {
+        "id": "5357073"
+      },
+      "powo": {
+        "id": "484036-1"
+      },
+      "iucn": {
+        "id": "158023",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00177,
+      "species": {
+        "scientificNameWithoutAuthor": "Pterocarpus indicus",
+        "scientificNameAuthorship": "Willd.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Pterocarpus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Pterocarpus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Amboyna-wood",
+          "Malay padauk",
+          "Papua New Guinea rosewood"
+        ],
+        "scientificName": "Pterocarpus indicus Willd."
+      },
+      "gbif": {
+        "id": "5349242"
+      },
+      "powo": {
+        "id": "516487-1"
+      },
+      "iucn": {
+        "id": "33241",
+        "category": "EN"
+      }
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-10, 08 15 29.jpg",
+  "image_path": "data\\images\\Photo-2024-03-10-08-15-29.jpg",
+  "ut": 1710038729,
+  "latlng": [
+    6.914086,
+    79.861856
+  ],
+  "alt": 7.827943473126881,
+  "direction": 270.4890745501285,
+  "plantnet_results": [
+    {
+      "score": 0.12803,
+      "species": {
+        "scientificNameWithoutAuthor": "Wrightia religiosa",
+        "scientificNameAuthorship": "(Teijsm. & Binn.) Benth. ex Kurz",
+        "genus": {
+          "scientificNameWithoutAuthor": "Wrightia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Wrightia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Apocynaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Apocynaceae"
+        },
+        "commonNames": [
+          "Water Jasmine"
+        ],
+        "scientificName": "Wrightia religiosa (Teijsm. & Binn.) Benth. ex Kurz"
+      },
+      "gbif": {
+        "id": "8213190"
+      },
+      "powo": {
+        "id": "82877-1"
+      }
+    },
+    {
+      "score": 0.1078,
+      "species": {
+        "scientificNameWithoutAuthor": "Wrightia antidysenterica",
+        "scientificNameAuthorship": "(L.) R.Br.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Wrightia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Wrightia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Apocynaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Apocynaceae"
+        },
+        "commonNames": [
+          "Coral Swirl",
+          "Arctic snow bush",
+          "Jasmine"
+        ],
+        "scientificName": "Wrightia antidysenterica (L.) R.Br."
+      },
+      "gbif": {
+        "id": "5535420"
+      },
+      "powo": {
+        "id": "82830-1"
+      }
+    },
+    {
+      "score": 0.07234,
+      "species": {
+        "scientificNameWithoutAuthor": "Brunfelsia americana",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Brunfelsia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Brunfelsia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Solanaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Solanaceae"
+        },
+        "commonNames": [
+          "Lady-of-the-night",
+          "Franciscan raintree",
+          "Rain shrub"
+        ],
+        "scientificName": "Brunfelsia americana L."
+      },
+      "gbif": {
+        "id": "2932919"
+      },
+      "powo": {
+        "id": "319114-2"
+      }
+    },
+    {
+      "score": 0.05408,
+      "species": {
+        "scientificNameWithoutAuthor": "Holarrhena pubescens",
+        "scientificNameAuthorship": "Wall. ex G.Don",
+        "genus": {
+          "scientificNameWithoutAuthor": "Holarrhena",
+          "scientificNameAuthorship": "",
+          "scientificName": "Holarrhena"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Apocynaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Apocynaceae"
+        },
+        "commonNames": [
+          "Tellicherry bark",
+          "Bitter oleander",
+          "Conessi bark"
+        ],
+        "scientificName": "Holarrhena pubescens Wall. ex G.Don"
+      },
+      "gbif": {
+        "id": "3169748"
+      },
+      "powo": {
+        "id": "79318-1"
+      },
+      "iucn": {
+        "id": "33988",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.05267,
+      "species": {
+        "scientificNameWithoutAuthor": "Jasminum sambac",
+        "scientificNameAuthorship": "(L.) Aiton",
+        "genus": {
+          "scientificNameWithoutAuthor": "Jasminum",
+          "scientificNameAuthorship": "",
+          "scientificName": "Jasminum"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Oleaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Oleaceae"
+        },
+        "commonNames": [
+          "Arabian jasmine",
+          "\u09ac\u09c7\u09b2\u09c0",
+          "\u092e\u094b\u0917\u0930\u093e"
+        ],
+        "scientificName": "Jasminum sambac (L.) Aiton"
+      },
+      "gbif": {
+        "id": "7587215"
+      },
+      "powo": {
+        "id": "609755-1"
+      }
+    }
+  ]
+}

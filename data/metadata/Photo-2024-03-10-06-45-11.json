@@ -1,0 +1,171 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-10, 06 45 11.jpg",
+  "image_path": "data\\images\\Photo-2024-03-10-06-45-11.jpg",
+  "ut": 1710033311,
+  "latlng": [
+    6.914206,
+    79.859231
+  ],
+  "alt": 5.070480194733348,
+  "direction": 189.25073227885179,
+  "plantnet_results": [
+    {
+      "score": 0.1639,
+      "species": {
+        "scientificNameWithoutAuthor": "Quercus phellos",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Quercus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Quercus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fagaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fagaceae"
+        },
+        "commonNames": [
+          "Willow oak",
+          "Dean"
+        ],
+        "scientificName": "Quercus phellos L."
+      },
+      "gbif": {
+        "id": "2880652"
+      },
+      "powo": {
+        "id": "284113-2"
+      },
+      "iucn": {
+        "id": "194220",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.06841,
+      "species": {
+        "scientificNameWithoutAuthor": "Madhuca longifolia",
+        "scientificNameAuthorship": "(J.Koenig ex L.) J.F.Macbr.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Madhuca",
+          "scientificNameAuthorship": "",
+          "scientificName": "Madhuca"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Sapotaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Sapotaceae"
+        },
+        "commonNames": [
+          "Mahua",
+          "Moatree",
+          "Mowra-buttertree"
+        ],
+        "scientificName": "Madhuca longifolia (J.Koenig ex L.) J.F.Macbr."
+      },
+      "gbif": {
+        "id": "2883346"
+      },
+      "powo": {
+        "id": "787505-1"
+      }
+    },
+    {
+      "score": 0.03198,
+      "species": {
+        "scientificNameWithoutAuthor": "Syzygium jambos",
+        "scientificNameAuthorship": "(L.) Alston",
+        "genus": {
+          "scientificNameWithoutAuthor": "Syzygium",
+          "scientificNameAuthorship": "",
+          "scientificName": "Syzygium"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Myrtaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Myrtaceae"
+        },
+        "commonNames": [
+          "Jambos",
+          "Rose-apple",
+          "Malabar-plum"
+        ],
+        "scientificName": "Syzygium jambos (L.) Alston"
+      },
+      "gbif": {
+        "id": "3183534"
+      },
+      "powo": {
+        "id": "601802-1"
+      },
+      "iucn": {
+        "id": "49487025",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02689,
+      "species": {
+        "scientificNameWithoutAuthor": "Quercus humboldtii",
+        "scientificNameAuthorship": "Bonpl.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Quercus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Quercus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fagaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fagaceae"
+        },
+        "commonNames": [
+          "Andean oak"
+        ],
+        "scientificName": "Quercus humboldtii Bonpl."
+      },
+      "gbif": {
+        "id": "2880642"
+      },
+      "powo": {
+        "id": "296268-1"
+      },
+      "iucn": {
+        "id": "194139",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02109,
+      "species": {
+        "scientificNameWithoutAuthor": "Quercus castaneifolia",
+        "scientificNameAuthorship": "C.A.Mey.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Quercus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Quercus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fagaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fagaceae"
+        },
+        "commonNames": [
+          "Chestnut-leaf oak",
+          "Chestnut-leaved Oak",
+          "Chinquampin Oak"
+        ],
+        "scientificName": "Quercus castaneifolia C.A.Mey."
+      },
+      "gbif": {
+        "id": "7930013"
+      },
+      "powo": {
+        "id": "295924-1"
+      },
+      "iucn": {
+        "id": "78809372",
+        "category": "NT"
+      }
+    }
+  ]
+}

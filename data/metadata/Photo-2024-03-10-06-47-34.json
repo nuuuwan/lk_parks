@@ -1,0 +1,177 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-10, 06 47 34.jpg",
+  "image_path": "data\\images\\Photo-2024-03-10-06-47-34.jpg",
+  "ut": 1710033454,
+  "latlng": [
+    6.913681,
+    79.8583
+  ],
+  "alt": 7.816489970253985,
+  "direction": 296.15362526920313,
+  "plantnet_results": [
+    {
+      "score": 0.95174,
+      "species": {
+        "scientificNameWithoutAuthor": "Terminalia catappa",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Terminalia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Terminalia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Combretaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Combretaceae"
+        },
+        "commonNames": [
+          "Tropical almond",
+          "Indian-almond",
+          "Country-almond"
+        ],
+        "scientificName": "Terminalia catappa L."
+      },
+      "gbif": {
+        "id": "3189394"
+      },
+      "powo": {
+        "id": "171034-1"
+      },
+      "iucn": {
+        "id": "61989853",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00919,
+      "species": {
+        "scientificNameWithoutAuthor": "Tectona grandis",
+        "scientificNameAuthorship": "L.f.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tectona",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tectona"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Lamiaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Lamiaceae"
+        },
+        "commonNames": [
+          "Teak",
+          "Bankok teak",
+          "Indian-oak"
+        ],
+        "scientificName": "Tectona grandis L.f."
+      },
+      "gbif": {
+        "id": "2925649"
+      },
+      "powo": {
+        "id": "864923-1"
+      },
+      "iucn": {
+        "id": "62019830",
+        "category": "EN"
+      }
+    },
+    {
+      "score": 0.00281,
+      "species": {
+        "scientificNameWithoutAuthor": "Cordia dichotoma",
+        "scientificNameAuthorship": "G.Forst.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Cordia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cordia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Boraginaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Boraginaceae"
+        },
+        "commonNames": [
+          "Fragrant manjack",
+          "Indian-cherry",
+          "Clammy-cherry"
+        ],
+        "scientificName": "Cordia dichotoma G.Forst."
+      },
+      "gbif": {
+        "id": "5341270"
+      },
+      "powo": {
+        "id": "114098-1"
+      },
+      "iucn": {
+        "id": "61986401",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00238,
+      "species": {
+        "scientificNameWithoutAuthor": "Handroanthus ochraceus",
+        "scientificNameAuthorship": "(Cham.) Mattos",
+        "genus": {
+          "scientificNameWithoutAuthor": "Handroanthus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Handroanthus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Bignoniaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bignoniaceae"
+        },
+        "commonNames": [
+          "Yellow Trumpet",
+          "Yellow Tabebuia"
+        ],
+        "scientificName": "Handroanthus ochraceus (Cham.) Mattos"
+      },
+      "gbif": {
+        "id": "4092146"
+      },
+      "powo": {
+        "id": "117333-2"
+      },
+      "iucn": {
+        "id": "145674139",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00158,
+      "species": {
+        "scientificNameWithoutAuthor": "Dillenia philippinensis",
+        "scientificNameAuthorship": "Rolfe",
+        "genus": {
+          "scientificNameWithoutAuthor": "Dillenia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Dillenia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Dilleniaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Dilleniaceae"
+        },
+        "commonNames": [
+          "Philippine dillenia",
+          "Katmon",
+          "Elephant apple"
+        ],
+        "scientificName": "Dillenia philippinensis Rolfe"
+      },
+      "gbif": {
+        "id": "5383895"
+      },
+      "powo": {
+        "id": "316735-1"
+      },
+      "iucn": {
+        "id": "33202",
+        "category": "NT"
+      }
+    }
+  ]
+}

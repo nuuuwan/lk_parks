@@ -1,0 +1,170 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-10, 08 04 13.jpg",
+  "image_path": "data\\images\\Photo-2024-03-10-08-04-13.jpg",
+  "ut": 1710038053,
+  "latlng": [
+    6.913536,
+    79.864053
+  ],
+  "alt": 11.520808535026232,
+  "direction": 124.35533894550288,
+  "plantnet_results": [
+    {
+      "score": 0.25016,
+      "species": {
+        "scientificNameWithoutAuthor": "Mesua ferrea",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Mesua",
+          "scientificNameAuthorship": "",
+          "scientificName": "Mesua"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Calophyllaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Calophyllaceae"
+        },
+        "commonNames": [
+          "Mesua",
+          "Iron Wood Tree",
+          "Ceylon Ironwood"
+        ],
+        "scientificName": "Mesua ferrea L."
+      },
+      "gbif": {
+        "id": "7330039"
+      },
+      "powo": {
+        "id": "428832-1"
+      }
+    },
+    {
+      "score": 0.03221,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus maclellandii",
+        "scientificNameAuthorship": "King",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Banana Leaf Ficus",
+          "Amstel King",
+          "Banana-leaf Fig"
+        ],
+        "scientificName": "Ficus maclellandii King"
+      },
+      "gbif": {
+        "id": "7262766"
+      },
+      "powo": {
+        "id": "853160-1"
+      }
+    },
+    {
+      "score": 0.0293,
+      "species": {
+        "scientificNameWithoutAuthor": "Senna siamea",
+        "scientificNameAuthorship": "(Lam.) H.S.Irwin & Barneby",
+        "genus": {
+          "scientificNameWithoutAuthor": "Senna",
+          "scientificNameAuthorship": "",
+          "scientificName": "Senna"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Ironwood Cassia",
+          "Kassod Tree",
+          "Mjohoro"
+        ],
+        "scientificName": "Senna siamea (Lam.) H.S.Irwin & Barneby"
+      },
+      "gbif": {
+        "id": "2956905"
+      },
+      "powo": {
+        "id": "911410-1"
+      },
+      "iucn": {
+        "id": "62027907",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02252,
+      "species": {
+        "scientificNameWithoutAuthor": "Umbellularia californica",
+        "scientificNameAuthorship": "(Hook. & Arn.) Nutt.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Umbellularia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Umbellularia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Lauraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Lauraceae"
+        },
+        "commonNames": [
+          "California-laurel",
+          "California-nutmeg",
+          "California-olive"
+        ],
+        "scientificName": "Umbellularia californica (Hook. & Arn.) Nutt."
+      },
+      "gbif": {
+        "id": "5371727"
+      },
+      "powo": {
+        "id": "30189264-2"
+      },
+      "iucn": {
+        "id": "62572",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02138,
+      "species": {
+        "scientificNameWithoutAuthor": "Syzygium jambos",
+        "scientificNameAuthorship": "(L.) Alston",
+        "genus": {
+          "scientificNameWithoutAuthor": "Syzygium",
+          "scientificNameAuthorship": "",
+          "scientificName": "Syzygium"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Myrtaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Myrtaceae"
+        },
+        "commonNames": [
+          "Jambos",
+          "Rose-apple",
+          "Malabar-plum"
+        ],
+        "scientificName": "Syzygium jambos (L.) Alston"
+      },
+      "gbif": {
+        "id": "3183534"
+      },
+      "powo": {
+        "id": "601802-1"
+      },
+      "iucn": {
+        "id": "49487025",
+        "category": "LC"
+      }
+    }
+  ]
+}

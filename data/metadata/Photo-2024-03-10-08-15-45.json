@@ -1,0 +1,166 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-10, 08 15 45.jpg",
+  "image_path": "data\\images\\Photo-2024-03-10-08-15-45.jpg",
+  "ut": 1710038745,
+  "latlng": [
+    6.913933,
+    79.861778
+  ],
+  "alt": 5.528914094458907,
+  "direction": 182.12333674513818,
+  "plantnet_results": [
+    {
+      "score": 0.8205,
+      "species": {
+        "scientificNameWithoutAuthor": "Tabernaemontana divaricata",
+        "scientificNameAuthorship": "(L.) R.Br. ex Roem. & Schult.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tabernaemontana",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tabernaemontana"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Apocynaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Apocynaceae"
+        },
+        "commonNames": [
+          "Crape-jasmine",
+          "Butterfly-gardenia",
+          "\u0c28\u0c02\u0c26\u0c3f\u0c35\u0c30\u0c4d\u0c27\u0c28\u0c02"
+        ],
+        "scientificName": "Tabernaemontana divaricata (L.) R.Br. ex Roem. & Schult."
+      },
+      "gbif": {
+        "id": "3169625"
+      },
+      "powo": {
+        "id": "82097-1"
+      },
+      "iucn": {
+        "id": "149853146",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00851,
+      "species": {
+        "scientificNameWithoutAuthor": "Tabernaemontana laeta",
+        "scientificNameAuthorship": "Mart.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tabernaemontana",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tabernaemontana"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Apocynaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Apocynaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Tabernaemontana laeta Mart."
+      },
+      "gbif": {
+        "id": "7316790"
+      },
+      "powo": {
+        "id": "82175-1"
+      },
+      "iucn": {
+        "id": "148752044",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00848,
+      "species": {
+        "scientificNameWithoutAuthor": "Tabernaemontana corymbosa",
+        "scientificNameAuthorship": "Roxb. ex Wall.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tabernaemontana",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tabernaemontana"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Apocynaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Apocynaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Tabernaemontana corymbosa Roxb. ex Wall."
+      },
+      "gbif": {
+        "id": "8172343"
+      },
+      "powo": {
+        "id": "60466167-2"
+      },
+      "iucn": {
+        "id": "34504",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00624,
+      "species": {
+        "scientificNameWithoutAuthor": "Jasminum grandiflorum",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Jasminum",
+          "scientificNameAuthorship": "",
+          "scientificName": "Jasminum"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Oleaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Oleaceae"
+        },
+        "commonNames": [
+          "Catalonian jasmine",
+          "Royal jasmine",
+          "Spanish jasmine"
+        ],
+        "scientificName": "Jasminum grandiflorum L."
+      },
+      "gbif": {
+        "id": "3172262"
+      },
+      "powo": {
+        "id": "328130-2"
+      }
+    },
+    {
+      "score": 0.00325,
+      "species": {
+        "scientificNameWithoutAuthor": "Tabernaemontana pandacaqui",
+        "scientificNameAuthorship": "Poir.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Tabernaemontana",
+          "scientificNameAuthorship": "",
+          "scientificName": "Tabernaemontana"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Apocynaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Apocynaceae"
+        },
+        "commonNames": [
+          "Windmillbush",
+          "Banana-bush",
+          "Dogbane"
+        ],
+        "scientificName": "Tabernaemontana pandacaqui Poir."
+      },
+      "gbif": {
+        "id": "3615270"
+      },
+      "powo": {
+        "id": "82269-1"
+      },
+      "iucn": {
+        "id": "147622277",
+        "category": "LC"
+      }
+    }
+  ]
+}

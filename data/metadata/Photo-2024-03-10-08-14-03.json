@@ -1,0 +1,177 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-10, 08 14 03.jpg",
+  "image_path": "data\\images\\Photo-2024-03-10-08-14-03.jpg",
+  "ut": 1710038643,
+  "latlng": [
+    6.914222,
+    79.862297
+  ],
+  "alt": 10.607557329867236,
+  "direction": 265.6363525390625,
+  "plantnet_results": [
+    {
+      "score": 0.07851,
+      "species": {
+        "scientificNameWithoutAuthor": "Pongamia pinnata",
+        "scientificNameAuthorship": "(L.) Pierre",
+        "genus": {
+          "scientificNameWithoutAuthor": "Pongamia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Pongamia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Karanj",
+          "Indian Beech",
+          "Pongam"
+        ],
+        "scientificName": "Pongamia pinnata (L.) Pierre"
+      },
+      "gbif": {
+        "id": "2965911"
+      },
+      "powo": {
+        "id": "515679-1"
+      },
+      "iucn": {
+        "id": "168724",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.04653,
+      "species": {
+        "scientificNameWithoutAuthor": "Copaifera langsdorffii",
+        "scientificNameAuthorship": "Desf.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Copaifera",
+          "scientificNameAuthorship": "",
+          "scientificName": "Copaifera"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Copaiba",
+          "Langsdorf's copaifera",
+          "Brazilian diesel tree"
+        ],
+        "scientificName": "Copaifera langsdorffii Desf."
+      },
+      "gbif": {
+        "id": "2978171"
+      },
+      "powo": {
+        "id": "64920-2"
+      },
+      "iucn": {
+        "id": "19892010",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.0445,
+      "species": {
+        "scientificNameWithoutAuthor": "Guazuma ulmifolia",
+        "scientificNameAuthorship": "Lam.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Guazuma",
+          "scientificNameAuthorship": "",
+          "scientificName": "Guazuma"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Malvaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Malvaceae"
+        },
+        "commonNames": [
+          "Bastard-cedar",
+          "West Indian-elm",
+          "Mutamba"
+        ],
+        "scientificName": "Guazuma ulmifolia Lam."
+      },
+      "gbif": {
+        "id": "3152195"
+      },
+      "powo": {
+        "id": "823393-1"
+      },
+      "iucn": {
+        "id": "61785778",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02839,
+      "species": {
+        "scientificNameWithoutAuthor": "Pterocarpus indicus",
+        "scientificNameAuthorship": "Willd.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Pterocarpus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Pterocarpus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Amboyna-wood",
+          "Malay padauk",
+          "Papua New Guinea rosewood"
+        ],
+        "scientificName": "Pterocarpus indicus Willd."
+      },
+      "gbif": {
+        "id": "5349242"
+      },
+      "powo": {
+        "id": "516487-1"
+      },
+      "iucn": {
+        "id": "33241",
+        "category": "EN"
+      }
+    },
+    {
+      "score": 0.0188,
+      "species": {
+        "scientificNameWithoutAuthor": "Paubrasilia echinata",
+        "scientificNameAuthorship": "(Lam.) Gagnon, H.C.Lima & G.P.Lewis",
+        "genus": {
+          "scientificNameWithoutAuthor": "Paubrasilia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Paubrasilia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Orabut\u00e1 (Portuguese)",
+          "Pau-rosado (Portuguese)"
+        ],
+        "scientificName": "Paubrasilia echinata (Lam.) Gagnon, H.C.Lima & G.P.Lewis"
+      },
+      "gbif": {
+        "id": "9119360"
+      },
+      "powo": {
+        "id": "77158012-1"
+      },
+      "iucn": {
+        "id": "33974",
+        "category": "EN"
+      }
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-10, 08 20 21.jpg",
+  "image_path": "data\\images\\Photo-2024-03-10-08-20-21.jpg",
+  "ut": 1710039021,
+  "latlng": [
+    6.913922,
+    79.860436
+  ],
+  "alt": 6.439237960004733,
+  "direction": 294.88195777351245,
+  "plantnet_results": [
+    {
+      "score": 0.45493,
+      "species": {
+        "scientificNameWithoutAuthor": "Bauhinia tomentosa",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Bauhinia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bauhinia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Bell bauhinia",
+          "Yellow bauhinia",
+          "St. Thomas-tree"
+        ],
+        "scientificName": "Bauhinia tomentosa L."
+      },
+      "gbif": {
+        "id": "2953031"
+      },
+      "powo": {
+        "id": "30193-2"
+      },
+      "iucn": {
+        "id": "146217213",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.15851,
+      "species": {
+        "scientificNameWithoutAuthor": "Bauhinia purpurea",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Bauhinia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bauhinia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Orchid Tree",
+          "\u0997\u09c1\u09b2\u09aa\u09c0\u09af\u09bc\u09be \u0995\u09be\u099e\u09cd\u099a\u09a8",
+          "Camel's-foot"
+        ],
+        "scientificName": "Bauhinia purpurea L."
+      },
+      "gbif": {
+        "id": "2953871"
+      },
+      "powo": {
+        "id": "481605-1"
+      },
+      "iucn": {
+        "id": "19891953",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.1309,
+      "species": {
+        "scientificNameWithoutAuthor": "Bauhinia forficata",
+        "scientificNameAuthorship": "Link",
+        "genus": {
+          "scientificNameWithoutAuthor": "Bauhinia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bauhinia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Cow's-foot",
+          "Orchid Tree",
+          "Pata de vaca"
+        ],
+        "scientificName": "Bauhinia forficata Link"
+      },
+      "gbif": {
+        "id": "2953861"
+      },
+      "powo": {
+        "id": "481315-1"
+      },
+      "iucn": {
+        "id": "19891692",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.05566,
+      "species": {
+        "scientificNameWithoutAuthor": "Bauhinia variegata",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Bauhinia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bauhinia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Mountain ebony",
+          "Orchidtree",
+          "Butterfly tree"
+        ],
+        "scientificName": "Bauhinia variegata L."
+      },
+      "gbif": {
+        "id": "2953251"
+      },
+      "powo": {
+        "id": "481756-1"
+      },
+      "iucn": {
+        "id": "19893142",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.04832,
+      "species": {
+        "scientificNameWithoutAuthor": "Bauhinia monandra",
+        "scientificNameAuthorship": "Kurz",
+        "genus": {
+          "scientificNameWithoutAuthor": "Bauhinia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bauhinia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Orchid Tree",
+          "Jerusalem-date",
+          "Butterfly-flower"
+        ],
+        "scientificName": "Bauhinia monandra Kurz"
+      },
+      "gbif": {
+        "id": "2953715"
+      },
+      "powo": {
+        "id": "30129-2"
+      },
+      "iucn": {
+        "id": "137548034",
+        "category": "DD"
+      }
+    }
+  ]
+}

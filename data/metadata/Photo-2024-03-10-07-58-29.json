@@ -1,0 +1,169 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-10, 07 58 29.jpg",
+  "image_path": "data\\images\\Photo-2024-03-10-07-58-29.jpg",
+  "ut": 1710037709,
+  "latlng": [
+    6.913964,
+    79.863097
+  ],
+  "alt": 5.341615318359504,
+  "direction": 277.86373873873873,
+  "plantnet_results": [
+    {
+      "score": 0.1236,
+      "species": {
+        "scientificNameWithoutAuthor": "Peltophorum pterocarpum",
+        "scientificNameAuthorship": "(DC.) Backer ex K.Heyne",
+        "genus": {
+          "scientificNameWithoutAuthor": "Peltophorum",
+          "scientificNameAuthorship": "",
+          "scientificName": "Peltophorum"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Yellow flame",
+          "Copperpod",
+          "Yellow flametree"
+        ],
+        "scientificName": "Peltophorum pterocarpum (DC.) Backer ex K.Heyne"
+      },
+      "gbif": {
+        "id": "2952775"
+      },
+      "powo": {
+        "id": "513021-1"
+      }
+    },
+    {
+      "score": 0.0667,
+      "species": {
+        "scientificNameWithoutAuthor": "Jacaranda mimosifolia",
+        "scientificNameAuthorship": "D.Don",
+        "genus": {
+          "scientificNameWithoutAuthor": "Jacaranda",
+          "scientificNameAuthorship": "",
+          "scientificName": "Jacaranda"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Bignoniaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Bignoniaceae"
+        },
+        "commonNames": [
+          "Jacaranda",
+          "Black poui",
+          "Fern-tree"
+        ],
+        "scientificName": "Jacaranda mimosifolia D.Don"
+      },
+      "gbif": {
+        "id": "3172499"
+      },
+      "powo": {
+        "id": "130936-2"
+      },
+      "iucn": {
+        "id": "32027",
+        "category": "VU"
+      }
+    },
+    {
+      "score": 0.03764,
+      "species": {
+        "scientificNameWithoutAuthor": "Pterocarya stenoptera",
+        "scientificNameAuthorship": "C.DC.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Pterocarya",
+          "scientificNameAuthorship": "",
+          "scientificName": "Pterocarya"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Juglandaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Juglandaceae"
+        },
+        "commonNames": [
+          "Chinese wingnut"
+        ],
+        "scientificName": "Pterocarya stenoptera C.DC."
+      },
+      "gbif": {
+        "id": "3054377"
+      },
+      "powo": {
+        "id": "442489-1"
+      },
+      "iucn": {
+        "id": "66816454",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.03603,
+      "species": {
+        "scientificNameWithoutAuthor": "Senegalia galpinii",
+        "scientificNameAuthorship": "(Burtt Davy) Seigler & Ebinger",
+        "genus": {
+          "scientificNameWithoutAuthor": "Senegalia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Senegalia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Monkeythorn"
+        ],
+        "scientificName": "Senegalia galpinii (Burtt Davy) Seigler & Ebinger"
+      },
+      "gbif": {
+        "id": "6710011"
+      },
+      "powo": {
+        "id": "60453639-2"
+      },
+      "iucn": {
+        "id": "153939741",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02397,
+      "species": {
+        "scientificNameWithoutAuthor": "Pterocarya fraxinifolia",
+        "scientificNameAuthorship": "(Poir.) Spach",
+        "genus": {
+          "scientificNameWithoutAuthor": "Pterocarya",
+          "scientificNameAuthorship": "",
+          "scientificName": "Pterocarya"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Juglandaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Juglandaceae"
+        },
+        "commonNames": [
+          "Caucasian Walnut",
+          "Caucasian Wingnut"
+        ],
+        "scientificName": "Pterocarya fraxinifolia (Poir.) Spach"
+      },
+      "gbif": {
+        "id": "8288647"
+      },
+      "powo": {
+        "id": "442471-1"
+      },
+      "iucn": {
+        "id": "66815986",
+        "category": "VU"
+      }
+    }
+  ]
+}

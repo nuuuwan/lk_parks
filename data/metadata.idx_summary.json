@@ -27,6 +27,11 @@
     },
     "Mangifera": {
       "Mangifera indica": [
+        "data/metadata/Photo-2024-03-10-06-47-15.json",
+        "data/metadata/Photo-2024-03-10-06-47-25.json",
+        "data/metadata/Photo-2024-03-10-06-47-17.json",
+        "data/metadata/Photo-2024-03-10-07-56-41.json",
+        "data/metadata/Photo-2024-03-10-06-44-50.json",
         "data/metadata/Photo-2024-03-08-07-06-50.json",
         "data/metadata/Photo-2024-03-08-06-55-31.json",
         "data/metadata/Photo-2024-03-08-07-15-10.json"
@@ -39,6 +44,11 @@
     }
   },
   "Annonaceae": {
+    "Annona": {
+      "Annona reticulata": [
+        "data/metadata/Photo-2024-03-10-07-58-42.json"
+      ]
+    },
     "Monodora": {
       "Monodora tenuifolia": [
         "data/metadata/Photo-2024-01-10-07-49-18.json"
@@ -60,11 +70,18 @@
       "Plumeria obtusa": [
         "data/metadata/Photo-2024-03-08-07-09-30.json",
         "data/metadata/Photo-2024-03-08-07-10-36.json"
+      ],
+      "Plumeria rubra": [
+        "data/metadata/Photo-2024-03-10-06-47-53.json",
+        "data/metadata/Photo-2024-03-10-06-47-44.json",
+        "data/metadata/Photo-2024-03-10-06-45-19.json"
       ]
     },
     "Tabernaemontana": {
       "Tabernaemontana divaricata": [
-        "data/metadata/Photo-2024-02-24-07-57-14.json"
+        "data/metadata/Photo-2024-03-10-08-15-45.json",
+        "data/metadata/Photo-2024-02-24-07-57-14.json",
+        "data/metadata/Photo-2024-03-10-08-16-14.json"
       ]
     },
     "Trachelospermum": {
@@ -75,6 +92,11 @@
     "Vinca": {
       "Vinca major": [
         "data/metadata/Photo-2024-01-27-10-37-49.json"
+      ]
+    },
+    "Wrightia": {
+      "Wrightia religiosa": [
+        "data/metadata/Photo-2024-03-10-08-15-29.json"
       ]
     }
   },
@@ -91,6 +113,12 @@
         "data/metadata/Photo-2024-03-08-06-46-14.json"
       ]
     },
+    "Dypsis": {
+      "Dypsis lutescens": [
+        "data/metadata/Photo-2024-03-10-08-15-03.json",
+        "data/metadata/Photo-2024-03-10-08-14-58.json"
+      ]
+    },
     "Roystonea": {
       "Roystonea regia": [
         "data/metadata/Photo-2024-03-08-07-17-50.json",
@@ -101,6 +129,13 @@
     "Wodyetia": {
       "Wodyetia bifurcata": [
         "data/metadata/Photo-2024-03-08-07-19-02.json"
+      ]
+    }
+  },
+  "Asparagaceae": {
+    "Chlorophytum": {
+      "Chlorophytum capense": [
+        "data/metadata/Photo-2024-03-10-06-45-50.json"
       ]
     }
   },
@@ -134,6 +169,11 @@
     }
   },
   "Bignoniaceae": {
+    "Jacaranda": {
+      "Jacaranda mimosifolia": [
+        "data/metadata/Photo-2024-03-10-07-57-12.json"
+      ]
+    },
     "Tabebuia": {
       "Tabebuia pallida": [
         "data/metadata/Photo-2024-03-08-07-09-04.json",
@@ -147,6 +187,12 @@
         "data/metadata/Photo-2024-03-08-06-52-20.json",
         "data/metadata/Photo-2024-03-08-06-57-14.json"
       ]
+    },
+    "Tecoma": {
+      "Tecoma stans": [
+        "data/metadata/Photo-2024-03-10-07-05-24.json",
+        "data/metadata/Photo-2024-03-10-07-05-27.json"
+      ]
     }
   },
   "Boraginaceae": {
@@ -159,7 +205,11 @@
   "Calophyllaceae": {
     "Mesua": {
       "Mesua ferrea": [
-        "data/metadata/Photo-2024-02-22-07-16-55.json"
+        "data/metadata/Photo-2024-03-10-08-05-45.json",
+        "data/metadata/Photo-2024-02-22-07-16-55.json",
+        "data/metadata/Photo-2024-03-10-06-43-34.json",
+        "data/metadata/Photo-2024-03-10-08-08-46.json",
+        "data/metadata/Photo-2024-03-10-08-04-13.json"
       ]
     }
   },
@@ -189,14 +239,27 @@
   "Combretaceae": {
     "Terminalia": {
       "Terminalia arjuna": [
+        "data/metadata/Photo-2024-03-10-06-44-36.json",
+        "data/metadata/Photo-2024-03-10-07-56-08.json",
         "data/metadata/Photo-2024-03-08-06-58-33.json",
-        "data/metadata/Photo-2024-03-08-06-44-01.json"
+        "data/metadata/Photo-2024-03-08-06-44-01.json",
+        "data/metadata/Photo-2024-03-10-07-55-56.json"
       ],
       "Terminalia catappa": [
-        "data/metadata/Photo-2024-03-08-07-07-01.json"
+        "data/metadata/Photo-2024-03-10-06-47-34.json",
+        "data/metadata/Photo-2024-03-08-07-07-01.json",
+        "data/metadata/Photo-2024-03-10-07-56-22.json",
+        "data/metadata/Photo-2024-03-10-07-55-03.json"
       ],
       "Terminalia mantaly": [
         "data/metadata/Photo-2024-03-08-07-04-14.json"
+      ]
+    }
+  },
+  "Commelinaceae": {
+    "Tradescantia": {
+      "Tradescantia spathacea": [
+        "data/metadata/Photo-2024-03-10-08-17-24.json"
       ]
     }
   },
@@ -228,7 +291,18 @@
         "data/metadata/Photo-2024-03-08-07-08-02.json"
       ]
     },
+    "Amorpha": {
+      "Amorpha fruticosa": [
+        "data/metadata/Photo-2024-03-10-06-47-08.json"
+      ]
+    },
     "Bauhinia": {
+      "Bauhinia purpurea": [
+        "data/metadata/Photo-2024-03-10-07-41-54.json"
+      ],
+      "Bauhinia tomentosa": [
+        "data/metadata/Photo-2024-03-10-08-20-21.json"
+      ],
       "Bauhinia variegata": [
         "data/metadata/Photo-2024-03-08-06-54-59.json"
       ]
@@ -236,6 +310,8 @@
     "Cassia": {
       "Cassia fistula": [
         "data/metadata/Photo-2024-03-08-07-09-59.json",
+        "data/metadata/Photo-2024-03-10-08-13-26.json",
+        "data/metadata/Photo-2024-03-10-06-46-33.json",
         "data/metadata/Photo-2024-03-08-07-13-30.json"
       ],
       "Cassia grandis": [
@@ -244,12 +320,18 @@
     },
     "Delonix": {
       "Delonix regia": [
+        "data/metadata/Photo-2024-03-10-06-43-59.json",
         "data/metadata/Photo-2024-03-08-07-12-19.json"
       ]
     },
     "Erythrina": {
       "Erythrina poeppigiana": [
         "data/metadata/Photo-2023-12-30-07-59-02.json"
+      ]
+    },
+    "Gliricidia": {
+      "Gliricidia sepium": [
+        "data/metadata/Photo-2024-03-10-08-17-29.json"
       ]
     },
     "Inga": {
@@ -266,6 +348,36 @@
         "data/metadata/Photo-2024-01-19-07-23-31.json"
       ]
     },
+    "Peltophorum": {
+      "Peltophorum dubium": [
+        "data/metadata/Photo-2024-03-10-06-44-18.json"
+      ],
+      "Peltophorum pterocarpum": [
+        "data/metadata/Photo-2024-03-10-07-57-51.json",
+        "data/metadata/Photo-2024-03-10-07-58-29.json"
+      ]
+    },
+    "Pithecellobium": {
+      "Pithecellobium dulce": [
+        "data/metadata/Photo-2024-03-10-08-04-29.json"
+      ]
+    },
+    "Pongamia": {
+      "Pongamia pinnata": [
+        "data/metadata/Photo-2024-03-10-06-45-27.json",
+        "data/metadata/Photo-2024-03-10-08-14-03.json"
+      ]
+    },
+    "Pterocarpus": {
+      "Pterocarpus indicus": [
+        "data/metadata/Photo-2024-03-10-07-55-30.json"
+      ]
+    },
+    "Tamarindus": {
+      "Tamarindus indica": [
+        "data/metadata/Photo-2024-03-10-06-46-44.json"
+      ]
+    },
     "Vachellia": {
       "Vachellia nilotica": [
         "data/metadata/Photo-2024-03-08-07-05-52.json"
@@ -274,6 +386,10 @@
   },
   "Fagaceae": {
     "Quercus": {
+      "Quercus phellos": [
+        "data/metadata/Photo-2024-03-10-07-56-03.json",
+        "data/metadata/Photo-2024-03-10-06-45-11.json"
+      ],
       "Quercus virginiana": [
         "data/metadata/Photo-2024-03-08-07-19-27.json"
       ]
@@ -323,6 +439,13 @@
       ]
     }
   },
+  "Lecythidaceae": {
+    "Couroupita": {
+      "Couroupita guianensis": [
+        "data/metadata/Photo-2024-03-10-07-42-08.json"
+      ]
+    }
+  },
   "Lythraceae": {
     "Cuphea": {
       "Cuphea hyssopifolia": [
@@ -367,7 +490,9 @@
     },
     "Ficus": {
       "Ficus aurea": [
-        "data/metadata/Photo-2024-03-08-06-52-52.json"
+        "data/metadata/Photo-2024-03-10-08-03-19.json",
+        "data/metadata/Photo-2024-03-08-06-52-52.json",
+        "data/metadata/Photo-2024-03-10-06-46-13.json"
       ],
       "Ficus benghalensis": [
         "data/metadata/Photo-2024-03-08-06-56-14.json",
@@ -377,14 +502,25 @@
         "data/metadata/Photo-2024-03-08-06-49-41.json",
         "data/metadata/Photo-2024-03-08-06-53-49.json"
       ],
+      "Ficus hispida": [
+        "data/metadata/Photo-2024-03-10-07-57-26.json"
+      ],
+      "Ficus ingens": [
+        "data/metadata/Photo-2024-03-10-08-04-54.json"
+      ],
       "Ficus insipida": [
         "data/metadata/Photo-2024-03-08-06-43-16.json"
       ],
       "Ficus religiosa": [
+        "data/metadata/Photo-2024-03-10-07-58-17.json",
+        "data/metadata/Photo-2024-03-10-08-02-57.json",
         "data/metadata/Photo-2024-03-08-07-14-47.json"
       ],
       "Ficus retusa": [
         "data/metadata/Photo-2024-03-08-06-41-54.json"
+      ],
+      "Ficus tinctoria": [
+        "data/metadata/Photo-2024-03-10-08-05-20.json"
       ]
     }
   },
@@ -397,6 +533,9 @@
   },
   "Myrtaceae": {
     "Eucalyptus": {
+      "Eucalyptus robusta": [
+        "data/metadata/Photo-2024-03-10-07-55-46.json"
+      ],
       "Eucalyptus sideroxylon": [
         "data/metadata/Photo-2024-03-08-06-52-11.json"
       ]
@@ -434,6 +573,7 @@
   "Oxalidaceae": {
     "Averrhoa": {
       "Averrhoa bilimbi": [
+        "data/metadata/Photo-2024-03-10-06-47-03.json",
         "data/metadata/Photo-2024-02-22-07-17-16.json"
       ]
     }
@@ -441,6 +581,7 @@
   "Pittosporaceae": {
     "Pittosporum": {
       "Pittosporum undulatum": [
+        "data/metadata/Photo-2024-03-10-06-45-45.json",
         "data/metadata/Photo-2024-02-10-08-03-25.json"
       ]
     }
@@ -463,6 +604,13 @@
     "Nephrolepis": {
       "Nephrolepis falcata": [
         "data/metadata/Photo-2024-03-08-07-19-20.json"
+      ]
+    }
+  },
+  "Proteaceae": {
+    "Macadamia": {
+      "Macadamia integrifolia": [
+        "data/metadata/Photo-2024-03-10-06-45-39.json"
       ]
     }
   },
@@ -501,6 +649,13 @@
     "Camellia": {
       "Camellia sasanqua": [
         "data/metadata/Photo-2024-01-27-10-36-59.json"
+      ]
+    }
+  },
+  "Ulmaceae": {
+    "Ulmus": {
+      "Ulmus parvifolia": [
+        "data/metadata/Photo-2024-03-10-06-46-00.json"
       ]
     }
   }

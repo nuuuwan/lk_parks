@@ -1,0 +1,161 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-10, 07 55 30.jpg",
+  "image_path": "data\\images\\Photo-2024-03-10-07-55-30.jpg",
+  "ut": 1710037530,
+  "latlng": [
+    6.913158,
+    79.863219
+  ],
+  "alt": 10.843878148799062,
+  "direction": 302.6838987614432,
+  "plantnet_results": [
+    {
+      "score": 0.41314,
+      "species": {
+        "scientificNameWithoutAuthor": "Pterocarpus indicus",
+        "scientificNameAuthorship": "Willd.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Pterocarpus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Pterocarpus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Amboyna-wood",
+          "Malay padauk",
+          "Papua New Guinea rosewood"
+        ],
+        "scientificName": "Pterocarpus indicus Willd."
+      },
+      "gbif": {
+        "id": "5349242"
+      },
+      "powo": {
+        "id": "516487-1"
+      },
+      "iucn": {
+        "id": "33241",
+        "category": "EN"
+      }
+    },
+    {
+      "score": 0.06667,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus vallis-choudae",
+        "scientificNameAuthorship": "Delile",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Haroni fig",
+          "False cape fig"
+        ],
+        "scientificName": "Ficus vallis-choudae Delile"
+      },
+      "gbif": {
+        "id": "5571789"
+      },
+      "powo": {
+        "id": "853925-1"
+      }
+    },
+    {
+      "score": 0.05894,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus sycomorus",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Sycomore",
+          "Pharoah fig",
+          "Mulberry fig"
+        ],
+        "scientificName": "Ficus sycomorus L."
+      },
+      "gbif": {
+        "id": "5361921"
+      },
+      "powo": {
+        "id": "853797-1"
+      },
+      "iucn": {
+        "id": "146188430",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.03386,
+      "species": {
+        "scientificNameWithoutAuthor": "Pterocarpus michelianus",
+        "scientificNameAuthorship": "N.Zamora",
+        "genus": {
+          "scientificNameWithoutAuthor": "Pterocarpus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Pterocarpus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Pterocarpus michelianus N.Zamora"
+      },
+      "gbif": {
+        "id": "5612412"
+      },
+      "powo": {
+        "id": "320096-2"
+      },
+      "iucn": {
+        "id": "161347227",
+        "category": "NT"
+      }
+    },
+    {
+      "score": 0.02624,
+      "species": {
+        "scientificNameWithoutAuthor": "Campomanesia xanthocarpa",
+        "scientificNameAuthorship": "(Mart.) O.Berg",
+        "genus": {
+          "scientificNameWithoutAuthor": "Campomanesia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Campomanesia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Myrtaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Myrtaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Campomanesia xanthocarpa (Mart.) O.Berg"
+      },
+      "gbif": {
+        "id": "3181064"
+      },
+      "powo": {
+        "id": "273998-2"
+      }
+    }
+  ]
+}

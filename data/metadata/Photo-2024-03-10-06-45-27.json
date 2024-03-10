@@ -1,0 +1,173 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-10, 06 45 27.jpg",
+  "image_path": "data\\images\\Photo-2024-03-10-06-45-27.jpg",
+  "ut": 1710033327,
+  "latlng": [
+    6.914167,
+    79.859147
+  ],
+  "alt": 5.058053206846773,
+  "direction": 191.12298603651988,
+  "plantnet_results": [
+    {
+      "score": 0.82838,
+      "species": {
+        "scientificNameWithoutAuthor": "Pongamia pinnata",
+        "scientificNameAuthorship": "(L.) Pierre",
+        "genus": {
+          "scientificNameWithoutAuthor": "Pongamia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Pongamia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Karanj",
+          "Indian Beech",
+          "Pongam"
+        ],
+        "scientificName": "Pongamia pinnata (L.) Pierre"
+      },
+      "gbif": {
+        "id": "2965911"
+      },
+      "powo": {
+        "id": "515679-1"
+      },
+      "iucn": {
+        "id": "168724",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.06982,
+      "species": {
+        "scientificNameWithoutAuthor": "Inga laurina",
+        "scientificNameAuthorship": "(Sw.) Willd.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Inga",
+          "scientificNameAuthorship": "",
+          "scientificName": "Inga"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Guam\u00e1",
+          "Sacky sac bean",
+          "Red Wood"
+        ],
+        "scientificName": "Inga laurina (Sw.) Willd."
+      },
+      "gbif": {
+        "id": "5358039"
+      },
+      "powo": {
+        "id": "1199545-2"
+      },
+      "iucn": {
+        "id": "136789974",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.01128,
+      "species": {
+        "scientificNameWithoutAuthor": "Inga edulis",
+        "scientificNameAuthorship": "Mart.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Inga",
+          "scientificNameAuthorship": "",
+          "scientificName": "Inga"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Ice-cream-bean",
+          "Guaba",
+          "Pois Doux"
+        ],
+        "scientificName": "Inga edulis Mart."
+      },
+      "gbif": {
+        "id": "5357677"
+      },
+      "powo": {
+        "id": "128478-2"
+      },
+      "iucn": {
+        "id": "137640618",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00493,
+      "species": {
+        "scientificNameWithoutAuthor": "Cynometra ramiflora",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Cynometra",
+          "scientificNameAuthorship": "",
+          "scientificName": "Cynometra"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [
+          "Cynometra",
+          "Wrinkle Pod Mangrove"
+        ],
+        "scientificName": "Cynometra ramiflora L."
+      },
+      "gbif": {
+        "id": "2966890"
+      },
+      "powo": {
+        "id": "489480-1"
+      },
+      "iucn": {
+        "id": "62021950",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.00396,
+      "species": {
+        "scientificNameWithoutAuthor": "Senna papillosa",
+        "scientificNameAuthorship": "(Britton & Rose) H.S.Irwin & Barneby",
+        "genus": {
+          "scientificNameWithoutAuthor": "Senna",
+          "scientificNameAuthorship": "",
+          "scientificName": "Senna"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fabaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fabaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Senna papillosa (Britton & Rose) H.S.Irwin & Barneby"
+      },
+      "gbif": {
+        "id": "2957797"
+      },
+      "powo": {
+        "id": "234589-2"
+      },
+      "iucn": {
+        "id": "144278002",
+        "category": "LC"
+      }
+    }
+  ]
+}

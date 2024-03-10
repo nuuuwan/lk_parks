@@ -1,0 +1,164 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-10, 06 43 34.jpg",
+  "image_path": "data\\images\\Photo-2024-03-10-06-43-34.jpg",
+  "ut": 1710033214,
+  "latlng": [
+    6.914642,
+    79.859992
+  ],
+  "alt": 8.51614184960763,
+  "direction": 295.00936914428485,
+  "plantnet_results": [
+    {
+      "score": 0.56845,
+      "species": {
+        "scientificNameWithoutAuthor": "Mesua ferrea",
+        "scientificNameAuthorship": "L.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Mesua",
+          "scientificNameAuthorship": "",
+          "scientificName": "Mesua"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Calophyllaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Calophyllaceae"
+        },
+        "commonNames": [
+          "Mesua",
+          "Iron Wood Tree",
+          "Ceylon Ironwood"
+        ],
+        "scientificName": "Mesua ferrea L."
+      },
+      "gbif": {
+        "id": "7330039"
+      },
+      "powo": {
+        "id": "428832-1"
+      }
+    },
+    {
+      "score": 0.10162,
+      "species": {
+        "scientificNameWithoutAuthor": "Ficus maclellandii",
+        "scientificNameAuthorship": "King",
+        "genus": {
+          "scientificNameWithoutAuthor": "Ficus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ficus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Moraceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Moraceae"
+        },
+        "commonNames": [
+          "Banana Leaf Ficus",
+          "Amstel King",
+          "Banana-leaf Fig"
+        ],
+        "scientificName": "Ficus maclellandii King"
+      },
+      "gbif": {
+        "id": "7262766"
+      },
+      "powo": {
+        "id": "853160-1"
+      }
+    },
+    {
+      "score": 0.03009,
+      "species": {
+        "scientificNameWithoutAuthor": "Monoon longifolium",
+        "scientificNameAuthorship": "(Sonn.) B.Xue & R.M.K.Saunders",
+        "genus": {
+          "scientificNameWithoutAuthor": "Monoon",
+          "scientificNameAuthorship": "",
+          "scientificName": "Monoon"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Annonaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Annonaceae"
+        },
+        "commonNames": [
+          "Ashok",
+          "Ashoka",
+          "Debdaru (HI)"
+        ],
+        "scientificName": "Monoon longifolium (Sonn.) B.Xue & R.M.K.Saunders"
+      },
+      "gbif": {
+        "id": "11001249"
+      },
+      "powo": {
+        "id": "77123022-1"
+      }
+    },
+    {
+      "score": 0.02178,
+      "species": {
+        "scientificNameWithoutAuthor": "Quercus myrsinifolia",
+        "scientificNameAuthorship": "Blume",
+        "genus": {
+          "scientificNameWithoutAuthor": "Quercus",
+          "scientificNameAuthorship": "",
+          "scientificName": "Quercus"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Fagaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Fagaceae"
+        },
+        "commonNames": [
+          "Bamboo-leaf Oak"
+        ],
+        "scientificName": "Quercus myrsinifolia Blume"
+      },
+      "gbif": {
+        "id": "2878564"
+      },
+      "powo": {
+        "id": "296481-1"
+      },
+      "iucn": {
+        "id": "61983030",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.01503,
+      "species": {
+        "scientificNameWithoutAuthor": "Zelkova serrata",
+        "scientificNameAuthorship": "(Thunb.) Makino",
+        "genus": {
+          "scientificNameWithoutAuthor": "Zelkova",
+          "scientificNameAuthorship": "",
+          "scientificName": "Zelkova"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Ulmaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Ulmaceae"
+        },
+        "commonNames": [
+          "Japanese zelkova",
+          "Saw-leaf zelkova",
+          "Water-elm"
+        ],
+        "scientificName": "Zelkova serrata (Thunb.) Makino"
+      },
+      "gbif": {
+        "id": "2984532"
+      },
+      "powo": {
+        "id": "858079-1"
+      },
+      "iucn": {
+        "id": "61967528",
+        "category": "NT"
+      }
+    }
+  ]
+}
