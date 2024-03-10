@@ -39,11 +39,15 @@ class MetaDataBase:
     def image_path_unix(self) -> str:
         return self.image_path.replace('\\', '/')
 
-    @property
-    def metadata_path(self) -> str:
-        name_only = os.path.basename(self.image_path).split('.')[0]
+    @staticmethod
+    def get_metadata_path(image_path: str) -> str:
+        name_only = os.path.basename(image_path).split('.')[0]
         return os.path.join(MetaDataBase.DIR_DATA_METADATA,
                             name_only + '.json')
+
+    @property
+    def metadata_path(self) -> str:
+        return MetaDataBase.get_metadata_path(self.image_path)
 
     @property
     def metadata_path_unix(self) -> str:
@@ -51,7 +55,6 @@ class MetaDataBase:
 
     def write(self):
         if os.path.exists(self.metadata_path):
-            log.debug(f'Skipping {self.metadata_path}')
             return
         data = self.__dict__()
         JSONFile(self.metadata_path).write(data)

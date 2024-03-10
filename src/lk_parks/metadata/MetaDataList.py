@@ -52,6 +52,7 @@ class MetaDataList:
         return idx
 
     @classmethod
+    @cache
     def idx_summary(cls):
         idx = cls.idx()
         idx2 = {}
@@ -68,7 +69,9 @@ class MetaDataList:
         return idx2
 
     @classmethod
+    @cache
     def write_idx_summary(cls):
         idx_summary = cls.idx_summary()
         JSONFile(cls.SUMMARY_PATH).write(idx_summary)
-        log.info(f'Wrote {cls.SUMMARY_PATH}')
+        n = len(cls.list_all())
+        log.info(f'Wrote {n} items to {cls.SUMMARY_PATH}')

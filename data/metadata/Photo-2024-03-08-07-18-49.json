@@ -1,0 +1,162 @@
+{
+  "original_image_path": "data\\images_original\\Photo 2024-03-08, 07 18 49.jpg",
+  "image_path": "data\\images\\Photo-2024-03-08-07-18-49.jpg",
+  "ut": 1709862529,
+  "latlng": [
+    6.913306,
+    79.861519
+  ],
+  "alt": 12.09868539528183,
+  "direction": 355.83856209150326,
+  "plantnet_results": [
+    {
+      "score": 0.10132,
+      "species": {
+        "scientificNameWithoutAuthor": "Camellia sinensis",
+        "scientificNameAuthorship": "(L.) Kuntze",
+        "genus": {
+          "scientificNameWithoutAuthor": "Camellia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Camellia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Theaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Theaceae"
+        },
+        "commonNames": [
+          "Black tea",
+          "Tea",
+          "Teabush"
+        ],
+        "scientificName": "Camellia sinensis (L.) Kuntze"
+      },
+      "gbif": {
+        "id": "3189635"
+      },
+      "powo": {
+        "id": "828548-1"
+      },
+      "iucn": {
+        "id": "62037625",
+        "category": "DD"
+      }
+    },
+    {
+      "score": 0.09239,
+      "species": {
+        "scientificNameWithoutAuthor": "Eugenia brasiliensis",
+        "scientificNameAuthorship": "Lam.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Eugenia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Eugenia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Myrtaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Myrtaceae"
+        },
+        "commonNames": [
+          "Brazil-cherry",
+          "Grumichama",
+          "Brazil eugenia"
+        ],
+        "scientificName": "Eugenia brasiliensis Lam."
+      },
+      "gbif": {
+        "id": "5416882"
+      },
+      "powo": {
+        "id": "593822-1"
+      }
+    },
+    {
+      "score": 0.03847,
+      "species": {
+        "scientificNameWithoutAuthor": "Eupomatia laurina",
+        "scientificNameAuthorship": "R.Br.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Eupomatia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Eupomatia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Eupomatiaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Eupomatiaceae"
+        },
+        "commonNames": [
+          "Bolwarra",
+          "Copper-laurel",
+          "Grey-beech"
+        ],
+        "scientificName": "Eupomatia laurina R.Br."
+      },
+      "gbif": {
+        "id": "5565488"
+      },
+      "powo": {
+        "id": "72995-1"
+      },
+      "iucn": {
+        "id": "144297071",
+        "category": "LC"
+      }
+    },
+    {
+      "score": 0.02526,
+      "species": {
+        "scientificNameWithoutAuthor": "Flacourtia jangomas",
+        "scientificNameAuthorship": "(Lour.) Raeusch.",
+        "genus": {
+          "scientificNameWithoutAuthor": "Flacourtia",
+          "scientificNameAuthorship": "",
+          "scientificName": "Flacourtia"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Salicaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Salicaceae"
+        },
+        "commonNames": [
+          "Indian-plum",
+          "Greater krekup",
+          "Runeala-plum"
+        ],
+        "scientificName": "Flacourtia jangomas (Lour.) Raeusch."
+      },
+      "gbif": {
+        "id": "5331164"
+      },
+      "powo": {
+        "id": "365350-1"
+      }
+    },
+    {
+      "score": 0.02267,
+      "species": {
+        "scientificNameWithoutAuthor": "Myxopyrum smilacifolium",
+        "scientificNameAuthorship": "(Wall.) Blume",
+        "genus": {
+          "scientificNameWithoutAuthor": "Myxopyrum",
+          "scientificNameAuthorship": "",
+          "scientificName": "Myxopyrum"
+        },
+        "family": {
+          "scientificNameWithoutAuthor": "Oleaceae",
+          "scientificNameAuthorship": "",
+          "scientificName": "Oleaceae"
+        },
+        "commonNames": [],
+        "scientificName": "Myxopyrum smilacifolium (Wall.) Blume"
+      },
+      "gbif": {
+        "id": "7326127"
+      },
+      "powo": {
+        "id": "610489-1"
+      }
+    }
+  ]
+}

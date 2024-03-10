@@ -41,26 +41,29 @@ class MetaDataOriginalImage:
         return image_path
 
     @staticmethod
-    def resize_image(original_image_path: str, image_path: str) -> str:
-        if not os.path.exists(image_path):
-            im = PILImage.open(original_image_path)
-            w, h = im.size
-            new_w = MetaDataOriginalImage.IMAGE_WIDTH
-            new_h = int(h * new_w / w)
-            im = im.resize((new_w, new_h))
-            im.save(image_path)
-            log.debug(
-                f'Resized {original_image_path} ({w}x{h})'
-                + f' to {image_path} ({new_w}x{new_h})'
-            )
-        return image_path
+    def resize_image(original_image_path: str) -> str:
+        image_path = MetaDataOriginalImage.get_image_path(
+            original_image_path)
+        if os.path.exists(image_path):
+            return
+
+        im = PILImage.open(original_image_path)
+        w, h = im.size
+        new_w = MetaDataOriginalImage.IMAGE_WIDTH
+        new_h = int(h * new_w / w)
+        im = im.resize((new_w, new_h))
+        im.save(image_path)
+        log.debug(
+            f'Resized {original_image_path} ({w}x{h})'
+            + f' to {image_path} ({new_w}x{new_h})'
+        )
 
     @staticmethod
-    def parse_direction(img):
+    def parse_direction(img, original_image_path):
         try:
             return img.gps_img_direction
-        except AttributeError as e:
-            log.debug(f'No direction in {img.filename}: ' + str(e))
+        except Exception as e:
+            log.error(f'No direction in {original_image_path}: ' + str(e))
             return None
 
     @staticmethod
@@ -72,21 +75,22 @@ class MetaDataOriginalImage:
 
     @classmethod
     def from_original_image(cls, original_image_path: str):
-        with open(original_image_path, 'rb') as src:
-            image_path = MetaDataOriginalImage.get_image_path(
-                original_image_path)
-            if os.path.exists(image_path):
-                return None
-            MetaDataOriginalImage.resize_image(original_image_path, image_path)
+        MetaDataOriginalImage.resize_image(original_image_path)
+        image_path = MetaDataOriginalImage.get_image_path(original_image_path)
+        assert os.path.exists(image_path)
 
+        metadata_path = cls.get_metadata_path(image_path)
+        assert not os.path.exists(metadata_path)
+
+        with open(original_image_path, 'rb') as src:
             img = ExifImage(src)
             ut = MetaDataOriginalImage.parse_ut(img)
             latlng = MetaDataOriginalImage.parse_latlng(img)
             alt = img.gps_altitude
-            direction = MetaDataOriginalImage.parse_direction(img)
+            direction = MetaDataOriginalImage.parse_direction(
+                img, original_image_path)
             plantnet_results = PlantNet.from_env().identify(image_path)
-
-            return cls(
+            md = cls(
                 original_image_path,
                 image_path,
                 ut,
@@ -95,6 +99,10 @@ class MetaDataOriginalImage:
                 direction,
                 plantnet_results,
             )
+
+            md.write()
+
+            return md
 
     @staticmethod
     def original_image_path_list() -> list[str]:
@@ -114,7 +122,25 @@ class MetaDataOriginalImage:
 
     @classmethod
     def build_from_dir_data_image_original(cls):
-        for img_path in MetaDataOriginalImage.original_image_path_list():
-            md = cls.from_original_image(img_path)
-            if md is not None:
-                md.write()
+        n = 0
+        n_new = 0
+        n_has_metadata = 0
+        n_error = 0
+
+        for original_image_path in MetaDataOriginalImage.original_image_path_list():
+            n += 1
+
+            image_path = MetaDataOriginalImage.get_image_path(
+                original_image_path)
+
+            metadata_path = cls.get_metadata_path(image_path)
+            if os.path.exists(metadata_path):
+                n_has_metadata += 1
+                continue
+
+            cls.from_original_image(original_image_path)
+            n_new += 1
+
+        log.debug(f'{n_has_metadata=}')
+        log.warn(f'{n_error=}')
+        log.info(f'Processed {n_new}/{n} images.')

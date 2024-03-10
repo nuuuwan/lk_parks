@@ -190,6 +190,7 @@
     },
     "Tecoma": {
       "Tecoma stans": [
+        "data/metadata/Photo-2023-12-08-07-12-17.json",
         "data/metadata/Photo-2024-03-10-07-05-24.json",
         "data/metadata/Photo-2024-03-10-07-05-27.json"
       ]
@@ -649,6 +650,9 @@
     "Camellia": {
       "Camellia sasanqua": [
         "data/metadata/Photo-2024-01-27-10-36-59.json"
+      ],
+      "Camellia sinensis": [
+        "data/metadata/Photo-2024-03-08-07-18-49.json"
       ]
     }
   },

@@ -580,7 +580,13 @@
 
 *`සි` *rankaerali, Kelantissa , Kaelanitissa* `த` *tankarali, swarnaptti* `E` Yellow-bells, Yellow trumpet flower, Trumpet-flower*
 
-(2 Examples)
+(3 Examples)
+
+#### 07:12 AM (Dec 08, 2023) · [6.9136°N,79.8583°E](https://www.google.com/maps/place/6.913594N,79.858258E)
+
+*🟩 Confidence [`Tecoma stans`](https://en.wikipedia.org/wiki/Tecoma_stans) (75.2%), [`Bidens frondosa`](https://en.wikipedia.org/wiki/Bidens_frondosa) (4.0%), [`Castanea dentata`](https://en.wikipedia.org/wiki/Castanea_dentata) (1.5%), [`Callicoma serratifolia`](https://en.wikipedia.org/wiki/Callicoma_serratifolia) (0.5%), [`Handroanthus heptaphyllus`](https://en.wikipedia.org/wiki/Handroanthus_heptaphyllus) (0.5%)*
+
+![data/images/Photo-2023-12-08-07-12-17.jpg](data/images/Photo-2023-12-08-07-12-17.jpg)
 
 #### 07:05 AM (Mar 10, 2024) · [6.9026°N,79.8589°E](https://www.google.com/maps/place/6.902558N,79.858908E)
 
@@ -1937,6 +1943,18 @@
 *🟨 Confidence [`Camellia sasanqua`](https://en.wikipedia.org/wiki/Camellia_sasanqua) (66.5%), [`Camellia japonica`](https://en.wikipedia.org/wiki/Camellia_japonica) (9.1%), [`Camellia saluenensis`](https://en.wikipedia.org/wiki/Camellia_saluenensis) (2.5%), [`Camellia caudata`](https://en.wikipedia.org/wiki/Camellia_caudata) (0.2%), [`Camellia cuspidata`](https://en.wikipedia.org/wiki/Camellia_cuspidata) (0.2%)*
 
 ![data/images/Photo-2024-01-27-10-36-59.jpg](data/images/Photo-2024-01-27-10-36-59.jpg)
+
+### *[`Camellia sinensis`](https://en.wikipedia.org/wiki/Camellia_sinensis)* (L.) Kuntze
+
+*`සි` *The as in Th bes , The gaha, The Kola* `த` *thayilai, Tey* `E` Black tea, Tea, Teabush*
+
+(1 Example)
+
+#### 07:18 AM (Mar 08, 2024) · [6.9133°N,79.8615°E](https://www.google.com/maps/place/6.913306N,79.861519E)
+
+*🟥 Confidence [`Camellia sinensis`](https://en.wikipedia.org/wiki/Camellia_sinensis) (10.1%), [`Eugenia brasiliensis`](https://en.wikipedia.org/wiki/Eugenia_brasiliensis) (9.2%), [`Eupomatia laurina`](https://en.wikipedia.org/wiki/Eupomatia_laurina) (3.8%), [`Flacourtia jangomas`](https://en.wikipedia.org/wiki/Flacourtia_jangomas) (2.5%), [`Myxopyrum smilacifolium`](https://en.wikipedia.org/wiki/Myxopyrum_smilacifolium) (2.3%)*
+
+![data/images/Photo-2024-03-08-07-18-49.jpg](data/images/Photo-2024-03-08-07-18-49.jpg)
 
 # [`Ulmaceae`](https://en.wikipedia.org/wiki/Ulmaceae)
 
