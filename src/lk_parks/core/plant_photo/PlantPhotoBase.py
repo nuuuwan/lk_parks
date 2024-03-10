@@ -79,3 +79,17 @@ class PlantPhotoBase:
             plant_photo = cls.from_dict(d)
             plant_photo_list.append(plant_photo)
         return plant_photo_list
+
+
+    @staticmethod
+    def build_contents():
+        plant_photo_list = PlantPhotoBase.list_all()
+        id_list = [plant_photo.id for plant_photo in plant_photo_list]
+        sorted_id_list = sorted(id_list)
+        contents_path = os.path.join(
+            'data',
+            'plant_photos.contents.json',
+        )
+        JSONFile(contents_path).write(sorted_id_list)
+        n = len(sorted_id_list)
+        log.info(f'Wrote {n} plant_photo ids to {contents_path}')
