@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-03-08-06-50-57",
+  "species_name_to_score": {
+    "Tabebuia rosea": 0.57274,
+    "Tabebuia heterophylla": 0.15639,
+    "Handroanthus impetiginosus": 0.04169,
+    "Handroanthus heptaphyllus": 0.02128,
+    "Tabebuia pallida": 0.00406
+  }
+}

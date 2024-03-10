@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-10-06-46-13",
+  "species_name_to_score": {
+    "Ficus aurea": 0.17544,
+    "Ficus luschnathiana": 0.15283,
+    "Mangifera indica": 0.06767,
+    "Ficus thonningii": 0.06112,
+    "Ficus virens": 0.05733
+  }
+}

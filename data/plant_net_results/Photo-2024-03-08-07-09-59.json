@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-08-07-09-59",
+  "species_name_to_score": {
+    "Cassia fistula": 0.91759,
+    "Cassia abbreviata": 0.005,
+    "Aegle marmelos": 0.00482,
+    "Senna surattensis": 0.00304,
+    "Tipuana tipu": 0.00216
+  }
+}

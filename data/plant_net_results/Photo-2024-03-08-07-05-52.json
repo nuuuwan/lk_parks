@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-03-08-07-05-52",
+  "species_name_to_score": {
+    "Vachellia nilotica": 0.165,
+    "Vachellia farnesiana": 0.05149,
+    "Nothofagus antarctica": 0.04352,
+    "Tamarindus indica": 0.03871,
+    "Ulmus pumila": 0.02388
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-03-08-07-05-25",
+  "species_name_to_score": {
+    "Tabebuia rosea": 0.62748,
+    "Citharexylum myrianthum": 0.13581,
+    "Handroanthus ochraceus": 0.0329,
+    "Melia azedarach": 0.03216,
+    "Bischofia javanica": 0.0144
+  }
+}

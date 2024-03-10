@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-10-06-44-50",
+  "species_name_to_score": {
+    "Mangifera indica": 0.20734,
+    "Pouteria campechiana": 0.07265,
+    "Tabernaemontana elegans": 0.05352,
+    "Pometia pinnata": 0.05315,
+    "Melicoccus bijugatus": 0.04777
+  }
+}

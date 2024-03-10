@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-08-07-09-30",
+  "species_name_to_score": {
+    "Plumeria obtusa": 0.34156,
+    "Plumeria rubra": 0.24863,
+    "Plumeria alba": 0.06156,
+    "Voacanga thouarsii": 0.05025,
+    "Terminalia mantaly": 0.02133
+  }
+}

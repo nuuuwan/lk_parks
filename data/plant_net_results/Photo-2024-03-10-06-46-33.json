@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-10-06-46-33",
+  "species_name_to_score": {
+    "Cassia fistula": 0.89185,
+    "Cassia leptophylla": 0.00224,
+    "Tipuana tipu": 0.0015,
+    "Styphnolobium japonicum": 0.00142,
+    "Cassia abbreviata": 0.00135
+  }
+}

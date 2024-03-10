@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-03-08-06-55-31",
+  "species_name_to_score": {
+    "Mangifera indica": 0.0731,
+    "Aegle marmelos": 0.06567,
+    "Qualea parviflora": 0.04141,
+    "Phytolacca dioica": 0.0413,
+    "Quercus humboldtii": 0.03188
+  }
+}

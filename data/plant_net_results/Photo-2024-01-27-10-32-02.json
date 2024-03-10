@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710063854,
+  "plant_photo_id": "Photo-2024-01-27-10-32-02",
+  "species_name_to_score": {
+    "Impatiens hawkeri": 0.38163,
+    "Impatiens walleriana": 0.1343,
+    "Impatiens balsamina": 0.10625,
+    "Impatiens sodenii": 0.06648,
+    "Impatiens flaccida": 0.03397
+  }
+}

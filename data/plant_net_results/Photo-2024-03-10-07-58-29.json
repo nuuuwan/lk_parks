@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-10-07-58-29",
+  "species_name_to_score": {
+    "Peltophorum pterocarpum": 0.1236,
+    "Jacaranda mimosifolia": 0.0667,
+    "Pterocarya stenoptera": 0.03764,
+    "Senegalia galpinii": 0.03603,
+    "Pterocarya fraxinifolia": 0.02397
+  }
+}

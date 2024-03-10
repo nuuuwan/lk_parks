@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-08-07-20-12",
+  "species_name_to_score": {
+    "Nageia nagi": 0.49543,
+    "Myristica fragrans": 0.01698,
+    "Diospyros buxifolia": 0.01651,
+    "Elaeocarpus reticulatus": 0.01377,
+    "Prunus caroliniana": 0.01293
+  }
+}

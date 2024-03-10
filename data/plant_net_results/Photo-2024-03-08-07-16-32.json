@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-08-07-16-32",
+  "species_name_to_score": {
+    "Casuarina equisetifolia": 0.47945,
+    "Casuarina cunninghamiana": 0.26482,
+    "Melaleuca armillaris": 0.01884,
+    "Pinus pinea": 0.01259,
+    "Casuarina glauca": 0.01185
+  }
+}

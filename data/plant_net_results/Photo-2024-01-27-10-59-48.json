@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064195,
+  "plant_photo_id": "Photo-2024-01-27-10-59-48",
+  "species_name_to_score": {
+    "Bidens pilosa": 0.70293,
+    "Bidens alba": 0.21835,
+    "Bidens bipinnata": 0.01729,
+    "Bidens aurea": 0.00896,
+    "Bidens biternata": 0.00144
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-02-24-07-57-14",
+  "species_name_to_score": {
+    "Tabernaemontana divaricata": 0.71923,
+    "Tabernaemontana catharinensis": 0.03367,
+    "Pittosporum undulatum": 0.03034,
+    "Cestrum nocturnum": 0.02914,
+    "Tabernaemontana elegans": 0.01243
+  }
+}

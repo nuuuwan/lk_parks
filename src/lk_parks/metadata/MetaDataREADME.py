@@ -81,7 +81,7 @@ class MetaDataREADME:
             species_link = MetaDataREADME.get_wiki_link(species)
             return f'{species_link} ({score:.1%})'
         return ', '.join([format_item(x)
-                         for x in self.species_to_score.items()])
+                         for x in self.species_name_to_score.items()])
 
     @property
     def confidence_combined(self) -> str:

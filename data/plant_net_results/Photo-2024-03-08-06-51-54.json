@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-03-08-06-51-54",
+  "species_name_to_score": {
+    "Swietenia mahagoni": 0.20435,
+    "Fraxinus pennsylvanica": 0.19614,
+    "Carya illinoinensis": 0.11184,
+    "Swietenia macrophylla": 0.03468,
+    "Tabebuia rosea": 0.03162
+  }
+}

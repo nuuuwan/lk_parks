@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-10-07-56-08",
+  "species_name_to_score": {
+    "Terminalia arjuna": 0.48623,
+    "Hexalobus monopetalus": 0.05326,
+    "Calliandra tweediei": 0.04845,
+    "Diospyros blancoi": 0.04659,
+    "Syzygium samarangense": 0.01151
+  }
+}

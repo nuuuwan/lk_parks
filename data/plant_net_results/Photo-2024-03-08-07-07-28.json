@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-08-07-07-28",
+  "species_name_to_score": {
+    "Toona ciliata": 0.25548,
+    "Handroanthus serratifolius": 0.20273,
+    "Pleiogynium timoriense": 0.09635,
+    "Pterocarpus indicus": 0.08737,
+    "Cassia fistula": 0.04315
+  }
+}

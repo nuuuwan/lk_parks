@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-03-08-06-44-01",
+  "species_name_to_score": {
+    "Terminalia arjuna": 0.16221,
+    "Quercus phellos": 0.10398,
+    "Polyalthia suberosa": 0.09021,
+    "Brownea grandiceps": 0.04564,
+    "Syzygium jambos": 0.02597
+  }
+}

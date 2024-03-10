@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064198,
+  "plant_photo_id": "Photo-2024-03-10-08-04-13",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.25016,
+    "Ficus maclellandii": 0.03221,
+    "Senna siamea": 0.0293,
+    "Umbellularia californica": 0.02252,
+    "Syzygium jambos": 0.02138
+  }
+}

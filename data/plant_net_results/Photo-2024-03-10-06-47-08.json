@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-10-06-47-08",
+  "species_name_to_score": {
+    "Amorpha fruticosa": 0.17159,
+    "Cassia javanica": 0.14402,
+    "Senna spectabilis": 0.03841,
+    "Cassia leptophylla": 0.03555,
+    "Cassia abbreviata": 0.02937
+  }
+}

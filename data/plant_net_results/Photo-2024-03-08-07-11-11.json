@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-08-07-11-11",
+  "species_name_to_score": {
+    "Trachelospermum jasminoides": 0.10024,
+    "Trachelospermum asiaticum": 0.08369,
+    "Ilex cornuta": 0.04901,
+    "Atalantia buxifolia": 0.03846,
+    "Psidium guajava": 0.03303
+  }
+}

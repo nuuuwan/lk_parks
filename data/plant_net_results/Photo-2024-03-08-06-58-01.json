@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-03-08-06-58-01",
+  "species_name_to_score": {
+    "Tectona grandis": 0.0779,
+    "Lagerstroemia speciosa": 0.07244,
+    "Magnolia kobus": 0.05372,
+    "Magnolia acuminata": 0.03766,
+    "Holarrhena pubescens": 0.03375
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-08-07-11-46",
+  "species_name_to_score": {
+    "Inga edulis": 0.16861,
+    "Hymenaea courbaril": 0.11323,
+    "Tabebuia rosea": 0.0737,
+    "Inga uraguensis": 0.06283,
+    "Eugenia candolleana": 0.0311
+  }
+}

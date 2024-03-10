@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064195,
+  "plant_photo_id": "Photo-2024-02-22-07-17-16",
+  "species_name_to_score": {
+    "Averrhoa bilimbi": 0.10931,
+    "Lagerstroemia speciosa": 0.07684,
+    "Brownea grandiceps": 0.05711,
+    "Phyllanthus acidus": 0.04942,
+    "Koelreuteria bipinnata": 0.04445
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-03-08-06-57-14",
+  "species_name_to_score": {
+    "Tabebuia rosea": 0.09665,
+    "Melicoccus bijugatus": 0.02632,
+    "Inga edulis": 0.0252,
+    "Licania ternatensis": 0.02322,
+    "Inga laurina": 0.02094
+  }
+}

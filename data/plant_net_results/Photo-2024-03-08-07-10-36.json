@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-08-07-10-36",
+  "species_name_to_score": {
+    "Plumeria obtusa": 0.23899,
+    "Plumeria alba": 0.17055,
+    "Plumeria rubra": 0.09815,
+    "Pachypodium decaryi": 0.03181,
+    "Ficus maxima": 0.02054
+  }
+}

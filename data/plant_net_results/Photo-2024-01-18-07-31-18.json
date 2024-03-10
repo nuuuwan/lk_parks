@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710063810,
+  "plant_photo_id": "Photo-2024-01-18-07-31-18",
+  "species_name_to_score": {
+    "Cassia grandis": 0.25362,
+    "Albizia julibrissin": 0.06757,
+    "Enterolobium contortisiliquum": 0.0507,
+    "Albizia lebbeck": 0.04376,
+    "Peltophorum pterocarpum": 0.04279
+  }
+}

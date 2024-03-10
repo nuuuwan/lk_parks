@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-03-08-06-55-11",
+  "species_name_to_score": {
+    "Artocarpus heterophyllus": 0.20787,
+    "Magnolia virginiana": 0.05066,
+    "Terminalia catappa": 0.04732,
+    "Artocarpus integer": 0.04522,
+    "Viburnum odoratissimum": 0.02066
+  }
+}

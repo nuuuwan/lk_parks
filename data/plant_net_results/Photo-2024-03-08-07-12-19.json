@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-08-07-12-19",
+  "species_name_to_score": {
+    "Delonix regia": 0.04045,
+    "Hymenaea courbaril": 0.02425,
+    "Elaeocarpus serratus": 0.02412,
+    "Ceiba pentandra": 0.01227,
+    "Disocactus ackermannii": 0.01178
+  }
+}

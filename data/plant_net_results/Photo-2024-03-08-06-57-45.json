@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-03-08-06-57-45",
+  "species_name_to_score": {
+    "Melaleuca quinquenervia": 0.12604,
+    "Olea europaea": 0.09133,
+    "Melaleuca citrina": 0.06006,
+    "Melaleuca viminalis": 0.02605,
+    "Tristaniopsis laurina": 0.02486
+  }
+}

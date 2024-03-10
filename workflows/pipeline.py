@@ -1,10 +1,9 @@
-from lk_parks import MetaData
+from lk_parks import PlantNetResult, PlantPhoto
 
 
 def main():
-    MetaData.build_from_dir_data_image_original()
-    MetaData.build_readme()
-    MetaData.write_idx_summary()
+    PlantPhoto.build_from_dir_data_original_image()
+    PlantNetResult.build_from_plant_photos()
 
 
 if __name__ == "__main__":

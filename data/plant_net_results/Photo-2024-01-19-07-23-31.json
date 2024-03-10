@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710063810,
+  "plant_photo_id": "Photo-2024-01-19-07-23-31",
+  "species_name_to_score": {
+    "Paubrasilia echinata": 0.09851,
+    "Diospyros buxifolia": 0.05447,
+    "Senna siamea": 0.03487,
+    "Pterocarya stenoptera": 0.01784,
+    "Tipuana tipu": 0.01596
+  }
+}

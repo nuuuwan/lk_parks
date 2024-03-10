@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064198,
+  "plant_photo_id": "Photo-2024-03-10-08-05-20",
+  "species_name_to_score": {
+    "Ficus tinctoria": 0.14264,
+    "Oplismenus undulatifolius": 0.0268,
+    "Oplismenus compositus": 0.02637,
+    "Parsonsia straminea": 0.01899,
+    "Ficus heterophylla": 0.01879
+  }
+}

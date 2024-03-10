@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-10-06-43-34",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.56845,
+    "Ficus maclellandii": 0.10162,
+    "Monoon longifolium": 0.03009,
+    "Quercus myrsinifolia": 0.02178,
+    "Zelkova serrata": 0.01503
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-10-07-57-26",
+  "species_name_to_score": {
+    "Ficus hispida": 0.08139,
+    "Bridelia micrantha": 0.06469,
+    "Ficus racemosa": 0.06368,
+    "Philenoptera violacea": 0.05608,
+    "Holarrhena pubescens": 0.03721
+  }
+}

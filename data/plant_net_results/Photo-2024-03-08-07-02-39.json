@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-03-08-07-02-39",
+  "species_name_to_score": {
+    "Allamanda cathartica": 0.528,
+    "Allamanda schottii": 0.34426,
+    "Hypericum lanceolatum": 0.00495,
+    "Hypericum revolutum": 0.00273,
+    "Polygala myrtifolia": 0.00178
+  }
+}

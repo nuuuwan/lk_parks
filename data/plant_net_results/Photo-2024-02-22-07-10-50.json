@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064195,
+  "plant_photo_id": "Photo-2024-02-22-07-10-50",
+  "species_name_to_score": {
+    "Juglans nigra": 0.36621,
+    "Ulmus americana": 0.07063,
+    "Juglans cinerea": 0.05528,
+    "Ulmus thomasii": 0.03433,
+    "Quercus macrocarpa": 0.03407
+  }
+}

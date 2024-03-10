@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064198,
+  "plant_photo_id": "Photo-2024-03-10-08-02-57",
+  "species_name_to_score": {
+    "Ficus religiosa": 0.92326,
+    "Croton urucurana": 0.00504,
+    "Triadica sebifera": 0.00375,
+    "Populus balsamifera": 0.00329,
+    "Ficus ingens": 0.00166
+  }
+}

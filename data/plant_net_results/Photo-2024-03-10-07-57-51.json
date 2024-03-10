@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-10-07-57-51",
+  "species_name_to_score": {
+    "Peltophorum pterocarpum": 0.31575,
+    "Delonix regia": 0.13625,
+    "Peltophorum dubium": 0.09189,
+    "Enterolobium cyclocarpum": 0.06275,
+    "Jacaranda mimosifolia": 0.01967
+  }
+}

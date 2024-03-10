@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-03-08-06-48-53",
+  "species_name_to_score": {
+    "Tabebuia rosea": 0.20228,
+    "Tipuana tipu": 0.09261,
+    "Schinus terebinthifolia": 0.05584,
+    "Albizia lebbeck": 0.04067,
+    "Robinia hispida": 0.03832
+  }
+}

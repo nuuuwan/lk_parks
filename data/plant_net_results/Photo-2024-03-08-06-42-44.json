@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-03-08-06-42-44",
+  "species_name_to_score": {
+    "Toona ciliata": 0.15763,
+    "Lagerstroemia speciosa": 0.13176,
+    "Casimiroa edulis": 0.04304,
+    "Bridelia micrantha": 0.03564,
+    "Cassia fistula": 0.03433
+  }
+}

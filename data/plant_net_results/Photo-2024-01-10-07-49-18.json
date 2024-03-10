@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710063810,
+  "plant_photo_id": "Photo-2024-01-10-07-49-18",
+  "species_name_to_score": {
+    "Monodora tenuifolia": 0.01185,
+    "Chamaedorea elegans": 0.01023,
+    "Mangifera indica": 0.00942,
+    "Vanda coerulea": 0.00906,
+    "Cerbera manghas": 0.00872
+  }
+}

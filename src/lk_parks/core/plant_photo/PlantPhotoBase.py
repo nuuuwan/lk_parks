@@ -10,26 +10,36 @@ log = Log('PlantPhotoBase')
 
 @dataclass
 class PlantPhotoBase:
+    id: str
     ut: int
     latlng: LatLng
-    image_original_path: str
+    original_image_path: str
     image_path: str
     alt: float
     direction: float
 
     @classmethod
-    def get_data_path(cls, image_path: str) -> str:
-        image_path_base = os.basename(image_path).split('.')[0]
-
+    def get_dir_data(cls):
         return os.path.join(
             'data',
             'plant_photos',
-            f'{image_path_base}.json',
+        )
+
+    @classmethod
+    def get_data_path(cls, id: str) -> str:
+        return os.path.join(
+            cls.get_dir_data(),
+            f'{id}.json',
         )
 
     @property
     def data_path(self) -> str:
-        return self.get_data_path(self.image_path)
+        return self.get_data_path(self.id)
+
+    def to_dict(self) -> dict:
+        d = self.__dict__.copy()
+        d['latlng'] = self.latlng.to_dict()
+        return d
 
     def write(self):
         JSONFile(self.data_path).write(self.to_dict())
@@ -39,9 +49,10 @@ class PlantPhotoBase:
     @classmethod
     def from_dict(cls, d: dict):
         return cls(
+            id=d['id'],
             ut=d['ut'],
             latlng=LatLng.from_dict(d['latlng']),
-            image_original_path=d['image_original_path'],
+            original_image_path=d['original_image_path'],
             image_path=d['image_path'],
             alt=d['alt'],
             direction=d['direction'],

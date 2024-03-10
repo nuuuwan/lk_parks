@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-08-07-12-45",
+  "species_name_to_score": {
+    "Ficus benghalensis": 0.42605,
+    "Ficus altissima": 0.14455,
+    "Ficus elastica": 0.11832,
+    "Ficus aurea": 0.05045,
+    "Ficus virens": 0.02913
+  }
+}

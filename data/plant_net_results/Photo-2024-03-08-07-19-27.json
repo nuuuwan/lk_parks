@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-08-07-19-27",
+  "species_name_to_score": {
+    "Quercus virginiana": 0.12711,
+    "Ficus religiosa": 0.07355,
+    "Inga laurina": 0.06915,
+    "Pistacia atlantica": 0.04836,
+    "Swietenia mahagoni": 0.03978
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-08-07-18-49",
+  "species_name_to_score": {
+    "Camellia sinensis": 0.10132,
+    "Eugenia brasiliensis": 0.09239,
+    "Eupomatia laurina": 0.03847,
+    "Flacourtia jangomas": 0.02526,
+    "Myxopyrum smilacifolium": 0.02267
+  }
+}

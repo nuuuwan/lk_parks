@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-10-06-47-44",
+  "species_name_to_score": {
+    "Plumeria rubra": 0.65488,
+    "Plumeria alba": 0.10677,
+    "Plumeria obtusa": 0.0544,
+    "Pseudobombax ellipticum": 0.04033,
+    "Adenium multiflorum": 0.01114
+  }
+}

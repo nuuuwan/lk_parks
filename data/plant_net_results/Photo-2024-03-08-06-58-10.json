@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-03-08-06-58-10",
+  "species_name_to_score": {
+    "Anacardium occidentale": 0.16534,
+    "Kigelia africana": 0.12037,
+    "Schleichera oleosa": 0.11621,
+    "Psidium guajava": 0.09825,
+    "Trichilia dregeana": 0.04607
+  }
+}

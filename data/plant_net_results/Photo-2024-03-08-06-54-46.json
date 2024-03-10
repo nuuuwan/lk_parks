@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-03-08-06-54-46",
+  "species_name_to_score": {
+    "Betula nigra": 0.14911,
+    "Platanus occidentalis": 0.05295,
+    "Ulmus americana": 0.03889,
+    "Liriodendron tulipifera": 0.03198,
+    "Morus nigra": 0.02977
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710063810,
+  "plant_photo_id": "Photo-2024-01-19-07-23-37",
+  "species_name_to_score": {
+    "Diospyros buxifolia": 0.08592,
+    "Zanthoxylum rhoifolium": 0.03022,
+    "Lagerstroemia speciosa": 0.02181,
+    "Inga edulis": 0.02137,
+    "Pterocarpus indicus": 0.01993
+  }
+}

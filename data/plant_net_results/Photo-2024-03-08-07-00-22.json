@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-03-08-07-00-22",
+  "species_name_to_score": {
+    "Moquilea tomentosa": 0.07868,
+    "Guarea guidonia": 0.04727,
+    "Syzygium cumini": 0.04514,
+    "Lagerstroemia speciosa": 0.0382,
+    "Carpinus betulus": 0.02748
+  }
+}

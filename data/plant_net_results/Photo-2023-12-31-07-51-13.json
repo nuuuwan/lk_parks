@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710063810,
+  "plant_photo_id": "Photo-2023-12-31-07-51-13",
+  "species_name_to_score": {
+    "Juglans regia": 0.07832,
+    "Carya illinoinensis": 0.04867,
+    "Fraxinus excelsior": 0.04844,
+    "Alnus japonica": 0.01951,
+    "Pterodon emarginatus": 0.01533
+  }
+}

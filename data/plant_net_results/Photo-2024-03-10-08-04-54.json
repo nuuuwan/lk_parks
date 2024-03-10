@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064198,
+  "plant_photo_id": "Photo-2024-03-10-08-04-54",
+  "species_name_to_score": {
+    "Ficus ingens": 0.21279,
+    "Ficus insipida": 0.10109,
+    "Persicaria amphibia": 0.04853,
+    "Mangifera indica": 0.04082,
+    "Ficus cordata": 0.01783
+  }
+}

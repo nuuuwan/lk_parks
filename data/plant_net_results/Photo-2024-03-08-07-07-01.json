@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-08-07-07-01",
+  "species_name_to_score": {
+    "Terminalia catappa": 0.9412,
+    "Tectona grandis": 0.00663,
+    "Careya arborea": 0.00451,
+    "Anacardium occidentale": 0.00326,
+    "Anthocleista grandiflora": 0.00174
+  }
+}

@@ -17,7 +17,7 @@ class MetaDataOriginalImage:
     VALID_IMAGE_EXT_LIST = ['jpg', 'jpeg', 'png', 'gif', 'bmp', 'tiff']
 
     DIR_DATA_IMAGES = os.path.join('data', 'images')
-    DIR_DATA_IMAGES_ORIGINAL = os.path.join('data', 'images_original')
+    DIR_DATA_original_images = os.path.join('data', 'original_images')
 
     IMAGE_WIDTH = 960
 
@@ -108,20 +108,20 @@ class MetaDataOriginalImage:
     def original_image_path_list() -> list[str]:
         original_image_path_list = []
         for file_name in os.listdir(
-                MetaDataOriginalImage.DIR_DATA_IMAGES_ORIGINAL):
+                MetaDataOriginalImage.DIR_DATA_original_images):
             ext = file_name.split('.')[-1]
             if ext not in MetaDataOriginalImage.VALID_IMAGE_EXT_LIST:
                 continue
             if '(' in file_name:
                 continue
             original_image_path = os.path.join(
-                MetaDataOriginalImage.DIR_DATA_IMAGES_ORIGINAL, file_name
+                MetaDataOriginalImage.DIR_DATA_original_images, file_name
             )
             original_image_path_list.append(original_image_path)
         return original_image_path_list
 
     @classmethod
-    def build_from_dir_data_image_original(cls):
+    def build_from_dir_data_original_image(cls):
         n = 0
         n_new = 0
         n_has_metadata = 0

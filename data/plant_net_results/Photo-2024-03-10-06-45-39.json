@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-10-06-45-39",
+  "species_name_to_score": {
+    "Macadamia integrifolia": 0.44357,
+    "Pouteria caimito": 0.09377,
+    "Pittosporum coccineum": 0.03256,
+    "Oxera sulfurea": 0.02864,
+    "Pittosporum undulatum": 0.02625
+  }
+}

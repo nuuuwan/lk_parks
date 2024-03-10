@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710063810,
+  "plant_photo_id": "Photo-2023-12-19-07-37-48",
+  "species_name_to_score": {
+    "Paubrasilia echinata": 0.41807,
+    "Pterocarya stenoptera": 0.06792,
+    "Samanea saman": 0.01278,
+    "Pterocarya fraxinifolia": 0.01257,
+    "Guaiacum sanctum": 0.00863
+  }
+}

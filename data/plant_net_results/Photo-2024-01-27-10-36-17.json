@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064195,
+  "plant_photo_id": "Photo-2024-01-27-10-36-17",
+  "species_name_to_score": {
+    "Rhododendron simsii": 0.33418,
+    "Rhododendron indicum": 0.29223,
+    "Rhododendron ferrugineum": 0.03706,
+    "Rhododendron roseum": 0.02316,
+    "Rhododendron nakaharae": 0.0174
+  }
+}

@@ -13,18 +13,33 @@ class Species(Taxon):
     iucn_id: str
     iucn_category: str
 
+    def __hash__(self):
+        return hash(self.name)
+
     @property
     def family(self):
         return self.genus.family
 
     # static methods
 
+    def to_dict(self) -> dict:
+        return dict(
+            name=self.name,
+            authorship=self.authorship,
+            genus_name=self.genus.name,
+            family_name=self.family.name,
+            gbif_id=self.gbif_id,
+            powo_id=self.powo_id,
+            iucn_id=self.iucn_id,
+            iucn_category=self.iucn_category,
+        )
+
     @staticmethod
     def from_dict(d):
         return Species(
             name=d['name'],
             authorship=d['authorship'],
-            genus=Genus.from_dict(d['genus']),
+            genus=Genus.from_name(d['genus_name']),
             gbif_id=d['gbif_id'],
             powo_id=d['powo_id'],
             iucn_id=d['iucn_id'],
@@ -32,7 +47,7 @@ class Species(Taxon):
         )
 
     @staticmethod
-    def from_plantnet_result(d: dict) -> 'Species':
+    def from_plant_net_raw_result(d: dict) -> 'Species':
         d_species = d['species']
         name = d_species['scientificNameWithoutAuthor']
         data_path = Species.get_data_path(name)
@@ -40,13 +55,22 @@ class Species(Taxon):
         if os.path.exists(data_path):
             return Species.from_name(name)
 
-        genus = Genus.from_plantnet_result(d)
-        return Species(
+        genus = Genus.from_plant_net_raw_result(d)
+
+        def get_attr(d, k1, k2):
+            v1 = d.get(k1, {})
+            if not v1:
+                return None
+            return v1.get(k2, None)
+
+        species = Species(
             name=name,
             authorship=d_species['scientificNameAuthorship'],
             genus=genus,
-            gbif_id=d_species['gbif']['id'],
-            powo_id=d_species['powo']['id'],
-            iucn_id=d_species['iucn']['id'],
-            iucn_category=d_species['iucn']['category'],
+            gbif_id=get_attr(d, 'gbif', 'id'),
+            powo_id=get_attr(d, 'powo', 'id'),
+            iucn_id=get_attr(d, 'iucn', 'id'),
+            iucn_category=get_attr(d, 'iucn', 'category'),
         )
+        species.write()
+        return species

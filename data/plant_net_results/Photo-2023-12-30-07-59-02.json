@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710063810,
+  "plant_photo_id": "Photo-2023-12-30-07-59-02",
+  "species_name_to_score": {
+    "Erythrina poeppigiana": 0.11861,
+    "Erythrina fusca": 0.10644,
+    "Ficus benghalensis": 0.04565,
+    "Erythrina speciosa": 0.0207,
+    "Erythrina amazonica": 0.02011
+  }
+}

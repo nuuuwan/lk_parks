@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-10-06-47-15",
+  "species_name_to_score": {
+    "Mangifera indica": 0.72383,
+    "Pouteria caimito": 0.0954,
+    "Tabernaemontana elegans": 0.01229,
+    "Ficus insipida": 0.0081,
+    "Pouteria campechiana": 0.00558
+  }
+}

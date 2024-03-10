@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-10-06-45-27",
+  "species_name_to_score": {
+    "Pongamia pinnata": 0.82838,
+    "Inga laurina": 0.06982,
+    "Inga edulis": 0.01128,
+    "Cynometra ramiflora": 0.00493,
+    "Senna papillosa": 0.00396
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-03-08-06-53-49",
+  "species_name_to_score": {
+    "Ficus elastica": 0.29119,
+    "Ficus benghalensis": 0.18381,
+    "Ficus religiosa": 0.0781,
+    "Ficus nymphaeifolia": 0.06197,
+    "Ficus altissima": 0.05669
+  }
+}

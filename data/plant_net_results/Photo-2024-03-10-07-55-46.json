@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-10-07-55-46",
+  "species_name_to_score": {
+    "Eucalyptus robusta": 0.04737,
+    "Dipterocarpus costulatus": 0.04199,
+    "Planchonella cinerea": 0.03987,
+    "Quercus alba": 0.03821,
+    "Terminalia bellirica": 0.02326
+  }
+}

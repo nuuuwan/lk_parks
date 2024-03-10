@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-10-07-58-17",
+  "species_name_to_score": {
+    "Ficus religiosa": 0.9207,
+    "Ficus citrifolia": 0.00587,
+    "Maclura pomifera": 0.00295,
+    "Ficus nymphaeifolia": 0.00293,
+    "Ficus ingens": 0.00282
+  }
+}

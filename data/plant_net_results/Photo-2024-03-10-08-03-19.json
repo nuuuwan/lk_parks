@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064198,
+  "plant_photo_id": "Photo-2024-03-10-08-03-19",
+  "species_name_to_score": {
+    "Ficus aurea": 0.25821,
+    "Ficus cordata": 0.09385,
+    "Ficus maclellandii": 0.03322,
+    "Ficus citrifolia": 0.02787,
+    "Ficus salicifolia": 0.02448
+  }
+}

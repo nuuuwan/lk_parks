@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-03-08-06-54-25",
+  "species_name_to_score": {
+    "Phillyrea latifolia": 0.08539,
+    "Terminalia mantaly": 0.03526,
+    "Quercus suber": 0.02935,
+    "Sloanea terniflora": 0.0228,
+    "Ulmus pumila": 0.01857
+  }
+}

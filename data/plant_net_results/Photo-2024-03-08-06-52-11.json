@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-03-08-06-52-11",
+  "species_name_to_score": {
+    "Eucalyptus sideroxylon": 0.354,
+    "Mesua ferrea": 0.11223,
+    "Celtis australis": 0.03184,
+    "Eugenia jambosoides": 0.02996,
+    "Eucalyptus obliqua": 0.02308
+  }
+}

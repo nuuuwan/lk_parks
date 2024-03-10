@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-08-07-15-54",
+  "species_name_to_score": {
+    "Hamelia patens": 0.97381,
+    "Weigela florida": 0.00263,
+    "Mussaenda erythrophylla": 0.00204,
+    "Viburnum farreri": 0.0014,
+    "Viburnum plicatum": 0.00106
+  }
+}

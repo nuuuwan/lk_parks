@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-10-06-45-50",
+  "species_name_to_score": {
+    "Chlorophytum capense": 0.27164,
+    "Pandanus tectorius": 0.23914,
+    "Pandanus pygmaeus": 0.13276,
+    "Chlorophytum comosum": 0.06758,
+    "Phalaris arundinacea": 0.04023
+  }
+}

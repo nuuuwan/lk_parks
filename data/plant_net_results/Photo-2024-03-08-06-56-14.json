@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-03-08-06-56-14",
+  "species_name_to_score": {
+    "Ficus benghalensis": 0.48539,
+    "Ficus septica": 0.09159,
+    "Ficus aurea": 0.0667,
+    "Ficus callosa": 0.04974,
+    "Ficus altissima": 0.03561
+  }
+}

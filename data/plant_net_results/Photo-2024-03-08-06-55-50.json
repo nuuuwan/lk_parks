@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-03-08-06-55-50",
+  "species_name_to_score": {
+    "Hibiscus rosa-sinensis": 0.12885,
+    "Hibiscus fragilis": 0.05566,
+    "Hibiscus schizopetalus": 0.04377,
+    "Lantana camara": 0.02462,
+    "Crataegus persimilis": 0.00837
+  }
+}

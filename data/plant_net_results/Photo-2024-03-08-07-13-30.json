@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-08-07-13-30",
+  "species_name_to_score": {
+    "Cassia fistula": 0.08987,
+    "Holarrhena pubescens": 0.05996,
+    "Pleiogynium timoriense": 0.03999,
+    "Paubrasilia echinata": 0.03532,
+    "Copaifera langsdorffii": 0.02368
+  }
+}

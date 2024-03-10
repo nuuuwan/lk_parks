@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-08-07-14-23",
+  "species_name_to_score": {
+    "Toona ciliata": 0.35011,
+    "Pterocarpus indicus": 0.0462,
+    "Spathodea campanulata": 0.02654,
+    "Amburana cearensis": 0.02471,
+    "Azadirachta indica": 0.02364
+  }
+}

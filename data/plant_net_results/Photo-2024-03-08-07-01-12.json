@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-03-08-07-01-12",
+  "species_name_to_score": {
+    "Melaleuca quinquenervia": 0.33261,
+    "Banksia integrifolia": 0.04511,
+    "Byrsonima crassifolia": 0.04509,
+    "Melaleuca leucadendra": 0.04201,
+    "Umbellularia californica": 0.03182
+  }
+}

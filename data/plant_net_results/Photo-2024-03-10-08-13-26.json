@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064198,
+  "plant_photo_id": "Photo-2024-03-10-08-13-26",
+  "species_name_to_score": {
+    "Cassia fistula": 0.90441,
+    "Cassia sieberiana": 0.0227,
+    "Senna multijuga": 0.00476,
+    "Cassia abbreviata": 0.00188,
+    "Pterocarpus indicus": 0.00177
+  }
+}

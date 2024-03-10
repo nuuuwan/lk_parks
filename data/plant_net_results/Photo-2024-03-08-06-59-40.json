@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-03-08-06-59-40",
+  "species_name_to_score": {
+    "Syzygium cumini": 0.24077,
+    "Juglans regia": 0.06849,
+    "Syzygium malaccense": 0.03481,
+    "Ficus altissima": 0.02877,
+    "Ficus lacor": 0.02726
+  }
+}

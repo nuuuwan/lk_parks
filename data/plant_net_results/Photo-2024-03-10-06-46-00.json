@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-10-06-46-00",
+  "species_name_to_score": {
+    "Ulmus parvifolia": 0.16222,
+    "Tipuana tipu": 0.05499,
+    "Styphnolobium japonicum": 0.05134,
+    "Pithecellobium dulce": 0.03604,
+    "Ginkgo biloba": 0.02617
+  }
+}

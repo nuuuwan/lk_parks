@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-03-08-06-48-34",
+  "species_name_to_score": {
+    "Acalypha wilkesiana": 0.36964,
+    "Amaranthus tricolor": 0.08497,
+    "Alternanthera brasiliana": 0.03988,
+    "Amaranthus hybridus": 0.02283,
+    "Amaranthus cruentus": 0.02243
+  }
+}

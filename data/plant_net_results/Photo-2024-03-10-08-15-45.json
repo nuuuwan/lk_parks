@@ -1,0 +1,22 @@
+{
+  "ut_api_call": 1710062846,
+  "plant_photo_id": "Photo-2024-03-10-08-15-45",
+  "species_name_to_score": {
+    "Tabernaemontana divaricata": 0.8205,
+    "Tabernaemontana laeta": 0.00851,
+    "Tabernaemontana corymbosa": 0.00848,
+    "Jasminum grandiflorum": 0.00624,
+    "Tabernaemontana pandacaqui": 0.00325,
+    "Mussaenda pubescens": 0.00309,
+    "Wrightia antidysenterica": 0.00273,
+    "Tabernaemontana catharinensis": 0.00262,
+    "Jasminum multiflorum": 0.00179,
+    "Jasminum sambac": 0.0015,
+    "Wrightia religiosa": 0.00149,
+    "Tabernaemontana citrifolia": 0.00145,
+    "Jasminum officinale": 0.00137,
+    "Pseudomussaenda flava": 0.00121,
+    "Tabernaemontana pachysiphon": 0.00108,
+    "Trachelospermum jasminoides": 0.00106
+  }
+}

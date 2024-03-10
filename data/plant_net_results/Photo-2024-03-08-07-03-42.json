@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-03-08-07-03-42",
+  "species_name_to_score": {
+    "Caryocar brasiliense": 0.06608,
+    "Averrhoa carambola": 0.05585,
+    "Bauhinia variegata": 0.0509,
+    "Bauhinia purpurea": 0.04789,
+    "Tipuana tipu": 0.03751
+  }
+}

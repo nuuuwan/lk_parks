@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-03-08-06-42-10",
+  "species_name_to_score": {
+    "Bambusa multiplex": 0.32159,
+    "Bambusa vulgaris": 0.06586,
+    "Phyllostachys aurea": 0.02262,
+    "Phyllostachys nigra": 0.01029,
+    "Bambusa tuldoides": 0.00682
+  }
+}

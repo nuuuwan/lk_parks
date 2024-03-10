@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710063810,
+  "plant_photo_id": "Photo-2023-12-31-07-53-22",
+  "species_name_to_score": {
+    "Avicennia marina": 0.20467,
+    "Camellia sinensis": 0.03862,
+    "Myrtus communis": 0.01702,
+    "Salix euxina": 0.01365,
+    "Salix pentandra": 0.01147
+  }
+}

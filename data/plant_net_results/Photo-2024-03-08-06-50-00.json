@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1710064196,
+  "plant_photo_id": "Photo-2024-03-08-06-50-00",
+  "species_name_to_score": {
+    "Casuarina equisetifolia": 0.75018,
+    "Casuarina cunninghamiana": 0.14875,
+    "Pinus pinea": 0.01089,
+    "Pinus wallichiana": 0.00891,
+    "Parkinsonia aculeata": 0.00337
+  }
+}

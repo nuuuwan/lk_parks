@@ -1,0 +1,10 @@
+{
+  "ut_api_call": 1710064197,
+  "plant_photo_id": "Photo-2024-03-10-06-45-19",
+  "species_name_to_score": {
+    "Plumeria rubra": 0.60784,
+    "Plumeria alba": 0.35332,
+    "Plumeria obtusa": 0.02009,
+    "Cerbera manghas": 0.00211
+  }
+}
