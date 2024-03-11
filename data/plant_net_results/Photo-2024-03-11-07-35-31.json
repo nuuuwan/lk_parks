@@ -1,0 +1,23 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-07-35-31",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.68707,
+    "Chimonanthus nitens": 0.00725,
+    "Eucalyptus globulus": 0.00682,
+    "Zelkova serrata": 0.0053,
+    "Camellia yunnanensis": 0.00401,
+    "Oncoba spinosa": 0.00372,
+    "Muntingia calabura": 0.00371,
+    "Bauhinia forficata": 0.0029,
+    "Camellia fraterna": 0.00205,
+    "Campanula alliariifolia": 0.00154,
+    "Eucalyptus dalrympleana": 0.0015,
+    "Calycolpus moritzianus": 0.00147,
+    "Senna occidentalis": 0.00144,
+    "Rhododendron sutchuenense": 0.00141,
+    "Camellia cuspidata": 0.00139,
+    "Gymnocladus dioicus": 0.00121,
+    "Lepechinia meyenii": 0.00108
+  }
+}

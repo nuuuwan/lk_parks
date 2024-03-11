@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-07-33-45",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.77572,
+    "Umbellularia californica": 0.02723,
+    "Calophyllum caledonicum": 0.01028,
+    "Nectandra angustifolia": 0.0089,
+    "Syzygium jambos": 0.00859,
+    "Corymbia citriodora": 0.00739,
+    "Salix bonplandiana": 0.00691,
+    "Ficus maclellandii": 0.0024,
+    "Calophyllum brasiliense": 0.00206,
+    "Calophyllum tacamahaca": 0.00125,
+    "Eucalyptus cladocalyx": 0.00121,
+    "Syzygium zeylanicum": 0.00111,
+    "Brachychiton rupestris": 0.001
+  }
+}

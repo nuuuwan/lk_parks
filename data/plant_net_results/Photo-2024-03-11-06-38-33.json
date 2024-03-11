@@ -1,0 +1,21 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-06-38-33",
+  "species_name_to_score": {
+    "Cassia grandis": 0.68164,
+    "Schizolobium parahyba": 0.03753,
+    "Parasenegalia muricata": 0.03499,
+    "Cassia javanica": 0.0342,
+    "Albizia julibrissin": 0.03404,
+    "Brownea grandiceps": 0.01035,
+    "Delonix regia": 0.01035,
+    "Cassia roxburghii": 0.01035,
+    "Amherstia nobilis": 0.00886,
+    "Toona ciliata": 0.0054,
+    "Cassia moschata": 0.00507,
+    "Phyllanthus emblica": 0.00444,
+    "Averrhoa bilimbi": 0.00396,
+    "Senna spectabilis": 0.00264,
+    "Pometia pinnata": 0.00143
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-07-34-58",
+  "species_name_to_score": {
+    "Filicium decipiens": 0.83635,
+    "Simarouba amara": 0.03581,
+    "Peltophorum africanum": 0.00682,
+    "Acacia longifolia": 0.00609,
+    "Crossopteryx febrifuga": 0.00528,
+    "Acacia mearnsii": 0.00395,
+    "Schinus terebinthifolia": 0.00332,
+    "Harpephyllum caffrum": 0.00325,
+    "Peltophorum dubium": 0.00286,
+    "Grevillea robusta": 0.00216,
+    "Cojoba arborea": 0.00207,
+    "Pistacia mexicana": 0.00155,
+    "Zamia pumila": 0.00124
+  }
+}

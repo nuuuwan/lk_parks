@@ -1,0 +1,32 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-06-40-51",
+  "species_name_to_score": {
+    "Tecoma stans": 0.70464,
+    "Roseodendron chryseum": 0.02121,
+    "Handroanthus chrysotrichus": 0.01746,
+    "Dolichandra unguis-cati": 0.00467,
+    "Handroanthus chrysanthus": 0.0041,
+    "Laburnum alpinum": 0.00377,
+    "Markhamia lutea": 0.00374,
+    "Cassia fistula": 0.00369,
+    "Handroanthus ochraceus": 0.00355,
+    "Senna multijuga": 0.00317,
+    "Senna surattensis": 0.00267,
+    "Crotalaria micans": 0.00254,
+    "Handroanthus pulcherrimus": 0.00252,
+    "Stigmaphyllon diversifolium": 0.00235,
+    "Impatiens noli-tangere": 0.0023,
+    "Tabernaemontana grandiflora": 0.0023,
+    "Handroanthus heptaphyllus": 0.00212,
+    "Crotalaria laburnifolia": 0.00188,
+    "Camonea umbellata": 0.00154,
+    "Cordia lutea": 0.00151,
+    "Mandevilla subsagittata": 0.00141,
+    "Allamanda cathartica": 0.00135,
+    "Schinus latifolia": 0.0011,
+    "Ochna gamostigmata": 0.00103,
+    "Handroanthus albus": 0.00102,
+    "Karomia speciosa": 0.001
+  }
+}

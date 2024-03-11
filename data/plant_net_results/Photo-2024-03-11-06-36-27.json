@@ -1,0 +1,21 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-06-36-27",
+  "species_name_to_score": {
+    "Plumeria alba": 0.68096,
+    "Plumeria rubra": 0.10685,
+    "Plumeria obtusa": 0.07902,
+    "Cascabela ovata": 0.00785,
+    "Cerbera manghas": 0.00587,
+    "Ficus retusa": 0.00532,
+    "Plumeria pudica": 0.00487,
+    "Eugenia brasiliensis": 0.0031,
+    "Manilkara zapota": 0.00236,
+    "Crescentia cujete": 0.00224,
+    "Vitex megapotamica": 0.00199,
+    "Pachypodium decaryi": 0.00138,
+    "Ficus insipida": 0.00126,
+    "Euphorbia leuconeura": 0.00108,
+    "Prosthechea boothiana": 0.00105
+  }
+}

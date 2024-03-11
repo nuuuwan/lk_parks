@@ -1,0 +1,12 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-06-31-46",
+  "species_name_to_score": {
+    "Bougainvillea glabra": 0.45541,
+    "Bougainvillea spectabilis": 0.17869,
+    "Bougainvillea buttiana": 0.16482,
+    "Bougainvillea peruviana": 0.00359,
+    "Bougainvillea spinosa": 0.00217,
+    "Holmskioldia sanguinea": 0.00216
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-06-39-48",
+  "species_name_to_score": {
+    "Plumeria rubra": 0.64728,
+    "Plumeria alba": 0.20569,
+    "Plumeria obtusa": 0.05909,
+    "Cerbera manghas": 0.00905,
+    "Pachypodium rutenbergianum": 0.00336,
+    "Genipa americana": 0.00293,
+    "Pachypodium lamerei": 0.00253,
+    "Rauvolfia caffra": 0.00202,
+    "Manilkara zapota": 0.0019,
+    "Pouteria sapota": 0.00166,
+    "Adenium obesum": 0.0013,
+    "Adenium multiflorum": 0.00114,
+    "Cussonia arborea": 0.00105,
+    "Dillenia indica": 0.00105
+  }
+}

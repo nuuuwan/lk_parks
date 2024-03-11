@@ -1,0 +1,20 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-06-27-14",
+  "species_name_to_score": {
+    "Tabernaemontana divaricata": 0.90124,
+    "Tabernaemontana stapfiana": 0.02326,
+    "Tabernaemontana corymbosa": 0.01194,
+    "Jasminum sambac": 0.00425,
+    "Tabernaemontana grandiflora": 0.00236,
+    "Coffea arabica": 0.00232,
+    "Mackaya bella": 0.00229,
+    "Ecbolium ligustrinum": 0.00173,
+    "Tabernaemontana ventricosa": 0.00138,
+    "Rauvolfia serpentina": 0.00119,
+    "Psychotria carthagenensis": 0.00111,
+    "Solanum bahamense": 0.00109,
+    "Tabernaemontana catharinensis": 0.00105,
+    "Tabernaemontana alternifolia": 0.00104
+  }
+}

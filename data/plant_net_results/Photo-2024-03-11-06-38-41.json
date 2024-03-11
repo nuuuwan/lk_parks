@@ -1,0 +1,18 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-06-38-41",
+  "species_name_to_score": {
+    "Cassia grandis": 0.84337,
+    "Cassia javanica": 0.04297,
+    "Schizolobium parahyba": 0.01467,
+    "Albizia julibrissin": 0.00617,
+    "Cassia roxburghii": 0.00419,
+    "Phyllanthus acidus": 0.00349,
+    "Delonix regia": 0.00344,
+    "Averrhoa bilimbi": 0.00278,
+    "Caesalpinia pulcherrima": 0.0027,
+    "Parasenegalia muricata": 0.00154,
+    "Sesbania punicea": 0.00113,
+    "Adenanthera pavonina": 0.00102
+  }
+}

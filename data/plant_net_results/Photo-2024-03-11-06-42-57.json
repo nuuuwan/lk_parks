@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-06-42-57",
+  "species_name_to_score": {
+    "Filicium decipiens": 0.91954,
+    "Simarouba amara": 0.05567,
+    "Trichilia emetica": 0.00306,
+    "Zanthoxylum rhoifolium": 0.00268,
+    "Pilocarpus pennatifolius": 0.00172
+  }
+}

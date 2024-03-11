@@ -1,0 +1,25 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-06-27-01",
+  "species_name_to_score": {
+    "Zamioculcas zamiifolia": 0.50878,
+    "Epidendrum ibaguense": 0.02545,
+    "Hedychium coronarium": 0.01228,
+    "Carissa spinarum": 0.00803,
+    "Zamia furfuracea": 0.00602,
+    "Epidendrum fulgens": 0.00406,
+    "Epidendrum radicans": 0.00345,
+    "Pereskia aculeata": 0.00207,
+    "Hoya cumingiana": 0.00205,
+    "Senna spectabilis": 0.00199,
+    "Guaiacum sanctum": 0.00195,
+    "Myrtus communis": 0.00164,
+    "Dovyalis abyssinica": 0.00148,
+    "Zingiber zerumbet": 0.00142,
+    "Jasminum sambac": 0.00132,
+    "Celtis iguanaea": 0.00123,
+    "Hoya carnosa": 0.00121,
+    "Zingiber spectabile": 0.00108,
+    "Agathis australis": 0.00104
+  }
+}

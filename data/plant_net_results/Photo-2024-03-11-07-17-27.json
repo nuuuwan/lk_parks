@@ -1,0 +1,13 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-07-17-27",
+  "species_name_to_score": {
+    "Cassia fistula": 0.81849,
+    "Cassia sieberiana": 0.06391,
+    "Senna papillosa": 0.00597,
+    "Cassia abbreviata": 0.00377,
+    "Aegle marmelos": 0.00296,
+    "Laburnum alpinum": 0.00118,
+    "Clerodendrum wallii": 0.00107
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-06-28-01",
+  "species_name_to_score": {
+    "Tabernaemontana divaricata": 0.85902,
+    "Tabernaemontana pandacaqui": 0.01719,
+    "Tabernaemontana corymbosa": 0.0158,
+    "Tabernaemontana citrifolia": 0.00661,
+    "Tabernaemontana laeta": 0.00535,
+    "Jasminum sambac": 0.00285,
+    "Tabernaemontana cerifera": 0.0013,
+    "Jasminum grandiflorum": 0.00113,
+    "Tabernaemontana catharinensis": 0.00109,
+    "Tabernaemontana stapfiana": 0.00106
+  }
+}

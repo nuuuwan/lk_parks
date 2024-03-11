@@ -1,0 +1,18 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-07-32-29",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.87884,
+    "Eucalyptus robusta": 0.00862,
+    "Luehea divaricata": 0.00814,
+    "Eucalyptus globulus": 0.00452,
+    "Eucalyptus camaldulensis": 0.00303,
+    "Ficus insipida": 0.00176,
+    "Amburana cearensis": 0.00175,
+    "Swietenia mahagoni": 0.00158,
+    "Cedrela odorata": 0.00125,
+    "Eucalyptus tereticornis": 0.00122,
+    "Grewia bicolor": 0.00118,
+    "Tabernaemontana catharinensis": 0.001
+  }
+}

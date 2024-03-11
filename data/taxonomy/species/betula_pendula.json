@@ -1,0 +1,15 @@
+{
+  "name": "Betula pendula",
+  "authorship": "Roth",
+  "genus_name": "Betula",
+  "family_name": "Betulaceae",
+  "gbif_id": "5331916",
+  "powo_id": "295174-1",
+  "iucn_id": "62535",
+  "iucn_category": "LC",
+  "common_names": [
+    "Common Birch",
+    "European white birch",
+    "Silver Birch"
+  ]
+}

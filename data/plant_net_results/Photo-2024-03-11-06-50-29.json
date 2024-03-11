@@ -1,0 +1,20 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-06-50-29",
+  "species_name_to_score": {
+    "Roystonea oleracea": 0.39574,
+    "Roystonea regia": 0.2969,
+    "Roystonea borinquena": 0.18781,
+    "Syagrus romanzoffiana": 0.01094,
+    "Raphia australis": 0.00576,
+    "Wodyetia bifurcata": 0.00435,
+    "Schizolobium parahyba": 0.00408,
+    "Acrocomia crispa": 0.0029,
+    "Basselinia tomentosa": 0.00281,
+    "Roystonea princeps": 0.0025,
+    "Cocos nucifera": 0.00235,
+    "Dypsis madagascariensis": 0.0018,
+    "Satakentia liukiuensis": 0.00177,
+    "Pseudophoenix vinifera": 0.00149
+  }
+}

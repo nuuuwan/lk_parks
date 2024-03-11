@@ -1,0 +1,24 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-06-54-04",
+  "species_name_to_score": {
+    "Calophyllum inophyllum": 0.86762,
+    "Mimusops coriacea": 0.04816,
+    "Garcinia anjouanensis": 0.00831,
+    "Noronhia emarginata": 0.00734,
+    "Sideroxylon borbonicum": 0.00607,
+    "Calophyllum calaba": 0.00537,
+    "Mammea americana": 0.00466,
+    "Clusia major": 0.00461,
+    "Ficus elastica": 0.00248,
+    "Pimenta racemosa": 0.00242,
+    "Labourdonnaisia calophylloides": 0.00173,
+    "Syzygium cumini": 0.00146,
+    "Syzygium cordatum": 0.00137,
+    "Kielmeyera coriacea": 0.00133,
+    "Calophyllum brasiliense": 0.00125,
+    "Polyscias cutispongia": 0.00123,
+    "Garcinia livingstonei": 0.00114,
+    "Manilkara concolor": 0.00108
+  }
+}

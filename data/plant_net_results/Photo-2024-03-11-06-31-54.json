@@ -1,0 +1,10 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-06-31-54",
+  "species_name_to_score": {
+    "Bougainvillea buttiana": 0.77799,
+    "Bougainvillea glabra": 0.04058,
+    "Bougainvillea spectabilis": 0.01311,
+    "Bougainvillea peruviana": 0.00376
+  }
+}

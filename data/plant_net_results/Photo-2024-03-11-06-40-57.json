@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-06-40-57",
+  "species_name_to_score": {
+    "Tecoma stans": 0.80349,
+    "Tabernaemontana grandiflora": 0.0123,
+    "Cotinus obovatus": 0.00235,
+    "Fraxinus pennsylvanica": 0.00233,
+    "Senna surattensis": 0.0022,
+    "Vitex negundo": 0.00186,
+    "Oemleria cerasiformis": 0.00165,
+    "Allamanda cathartica": 0.00154,
+    "Prunus virginiana": 0.00152,
+    "Handroanthus heptaphyllus": 0.00148,
+    "Brugmansia versicolor": 0.00142,
+    "Phytolacca bogotensis": 0.00131,
+    "Annona squamosa": 0.00126,
+    "Cordia superba": 0.00123,
+    "Aegle marmelos": 0.00121,
+    "Quercus rysophylla": 0.00116,
+    "Theobroma cacao": 0.00115,
+    "Magnolia tripetala": 0.00114,
+    "Brugmansia candida": 0.0011,
+    "Varronia curassavica": 0.00109,
+    "Impatiens noli-tangere": 0.00101
+  }
+}

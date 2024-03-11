@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-06-43-08",
+  "species_name_to_score": {
+    "Filicium decipiens": 0.77855,
+    "Peronema canescens": 0.00819,
+    "Prosopis glandulosa": 0.00497,
+    "Schinus molle": 0.00492,
+    "Fernandoa madagascariensis": 0.00379,
+    "Simarouba amara": 0.00357,
+    "Leucaena pulverulenta": 0.00299,
+    "Monoon longifolium": 0.00293,
+    "Schinus areira": 0.00279,
+    "Cassia fistula": 0.00247,
+    "Kirkia wilmsii": 0.00241,
+    "Senna multijuga": 0.00239,
+    "Pterocarya stenoptera": 0.00173,
+    "Cassia ferruginea": 0.00165,
+    "Anadenanthera colubrina": 0.00158,
+    "Harpephyllum caffrum": 0.00148,
+    "Saraca asoca": 0.00144,
+    "Ailanthus triphysa": 0.00116,
+    "Tagetes minuta": 0.00109,
+    "Macadamia integrifolia": 0.00105,
+    "Spondias dulcis": 0.00102
+  }
+}

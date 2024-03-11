@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-06-51-29",
+  "species_name_to_score": {
+    "Pongamia pinnata": 0.97037,
+    "Lonchocarpus sericeus": 0.00182,
+    "Clausena lansium": 0.00178,
+    "Platymiscium pinnatum": 0.00163,
+    "Inga laurina": 0.00105
+  }
+}

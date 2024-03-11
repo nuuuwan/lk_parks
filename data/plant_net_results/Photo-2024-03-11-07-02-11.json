@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-07-02-11",
+  "species_name_to_score": {
+    "Pithecellobium dulce": 0.59669,
+    "Lawsonia inermis": 0.00677,
+    "Pithecellobium unguis-cati": 0.00535,
+    "Aegle marmelos": 0.00512,
+    "Combretum aculeatum": 0.00422,
+    "Capparis tomentosa": 0.00393,
+    "Ehretia amoena": 0.00217,
+    "Prunus mahaleb": 0.00123
+  }
+}

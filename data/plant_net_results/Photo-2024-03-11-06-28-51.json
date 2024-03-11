@@ -1,0 +1,23 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-06-28-51",
+  "species_name_to_score": {
+    "Tabernaemontana divaricata": 0.80831,
+    "Tabernaemontana corymbosa": 0.03148,
+    "Jasminum sambac": 0.01611,
+    "Tabernaemontana citrifolia": 0.0088,
+    "Gardenia jasminoides": 0.00616,
+    "Tabernaemontana laeta": 0.00544,
+    "Tabernaemontana grandiflora": 0.00334,
+    "Gardenia thunbergia": 0.00292,
+    "Gardenia tubifera": 0.00287,
+    "Mackaya bella": 0.00261,
+    "Alibertia edulis": 0.0024,
+    "Coffea arabica": 0.00181,
+    "Gardenia aubryi": 0.00149,
+    "Gardenia taitensis": 0.00127,
+    "Tabernaemontana pandacaqui": 0.0011,
+    "Tabernaemontana catharinensis": 0.00104,
+    "Excoecaria cochinchinensis": 0.00101
+  }
+}

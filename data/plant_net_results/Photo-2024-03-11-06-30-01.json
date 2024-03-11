@@ -1,0 +1,13 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-06-30-01",
+  "species_name_to_score": {
+    "Monoon longifolium": 0.92197,
+    "Polyalthia suberosa": 0.00326,
+    "Saraca asoca": 0.00235,
+    "Lepidocupania gracilipes": 0.00177,
+    "Magnolia champaca": 0.00146,
+    "Sapindus saponaria": 0.0012,
+    "Garcinia xishuanbannaensis": 0.00107
+  }
+}

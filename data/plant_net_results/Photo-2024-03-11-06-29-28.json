@@ -1,0 +1,20 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-06-29-28",
+  "species_name_to_score": {
+    "Tecoma stans": 0.73384,
+    "Dolichandra unguis-cati": 0.0112,
+    "Handroanthus albus": 0.0105,
+    "Allamanda schottii": 0.00608,
+    "Tecoma fulva": 0.00401,
+    "Handroanthus chrysanthus": 0.0032,
+    "Handroanthus serratifolius": 0.00291,
+    "Allamanda cathartica": 0.00246,
+    "Camonea umbellata": 0.00168,
+    "Tabernaemontana donnell-smithii": 0.00156,
+    "Handroanthus chrysotrichus": 0.00145,
+    "Pentalinon luteum": 0.00122,
+    "Reinwardtia indica": 0.00114,
+    "Roseodendron donnell-smithii": 0.00113
+  }
+}

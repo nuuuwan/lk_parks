@@ -1,0 +1,21 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-06-42-32",
+  "species_name_to_score": {
+    "Monoon longifolium": 0.85391,
+    "Quercus xalapensis": 0.03897,
+    "Quercus lancifolia": 0.01067,
+    "Quercus imbricaria": 0.00555,
+    "Mangifera indica": 0.00472,
+    "Quercus phellos": 0.00381,
+    "Saraca asoca": 0.00377,
+    "Ocotea puberula": 0.00355,
+    "Quercus variabilis": 0.0027,
+    "Macadamia ternifolia": 0.00239,
+    "Quercus castaneifolia": 0.00176,
+    "Castanea crenata": 0.00147,
+    "Elaeocarpus angustifolius": 0.00115,
+    "Sideroxylon foetidissimum": 0.0011,
+    "Casimiroa edulis": 0.00104
+  }
+}

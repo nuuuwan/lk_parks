@@ -1,0 +1,25 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-06-40-46",
+  "species_name_to_score": {
+    "Tecoma stans": 0.80159,
+    "Markhamia lutea": 0.00763,
+    "Roseodendron chryseum": 0.00473,
+    "Handroanthus chrysotrichus": 0.00399,
+    "Crotalaria micans": 0.00392,
+    "Allamanda cathartica": 0.00344,
+    "Cassia fistula": 0.00312,
+    "Dolichandra unguis-cati": 0.00224,
+    "Senna surattensis": 0.00216,
+    "Handroanthus chrysanthus": 0.00211,
+    "Lagerstroemia speciosa": 0.00203,
+    "Camonea umbellata": 0.00176,
+    "Kerria japonica": 0.00146,
+    "Cassia leptophylla": 0.00134,
+    "Cordia lutea": 0.00133,
+    "Stigmaphyllon diversifolium": 0.0012,
+    "Handroanthus heptaphyllus": 0.00111,
+    "Senna multijuga": 0.00111,
+    "Cenostigma tocantinum": 0.00101
+  }
+}

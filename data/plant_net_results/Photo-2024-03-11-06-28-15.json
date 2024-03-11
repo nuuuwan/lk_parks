@@ -1,0 +1,30 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-06-28-15",
+  "species_name_to_score": {
+    "Anacardium occidentale": 0.66929,
+    "Barringtonia asiatica": 0.08869,
+    "Terminalia catappa": 0.06975,
+    "Mammea americana": 0.01296,
+    "Calophyllum inophyllum": 0.01073,
+    "Syzygium cordatum": 0.00896,
+    "Magnolia macrophylla": 0.00504,
+    "Pappea capensis": 0.00481,
+    "Wigandia urens": 0.00459,
+    "Pavetta schumanniana": 0.00458,
+    "Cotinus obovatus": 0.00356,
+    "Guettarda speciosa": 0.00275,
+    "Careya arborea": 0.00221,
+    "Pimenta racemosa": 0.00189,
+    "Magnolia delavayi": 0.00151,
+    "Triplaris weigeltiana": 0.0015,
+    "Acokanthera oblongifolia": 0.0014,
+    "Arbutus andrachne": 0.00128,
+    "Anacardium excelsum": 0.00127,
+    "Laurus azorica": 0.00126,
+    "Himatanthus drasticus": 0.00126,
+    "Angophora hispida": 0.00123,
+    "Himatanthus obovatus": 0.00118,
+    "Kigelia africana": 0.00111
+  }
+}

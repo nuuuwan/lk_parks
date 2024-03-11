@@ -1,0 +1,22 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-06-40-54",
+  "species_name_to_score": {
+    "Tecoma stans": 0.76654,
+    "Handroanthus chrysotrichus": 0.02209,
+    "Roseodendron chryseum": 0.01863,
+    "Handroanthus chrysanthus": 0.01247,
+    "Markhamia lutea": 0.00798,
+    "Dolichandra unguis-cati": 0.00437,
+    "Handroanthus heptaphyllus": 0.00364,
+    "Cordia lutea": 0.00337,
+    "Camonea umbellata": 0.00314,
+    "Crotalaria micans": 0.00298,
+    "Allamanda cathartica": 0.00148,
+    "Markhamia zanzibarica": 0.00139,
+    "Impatiens noli-tangere": 0.00126,
+    "Tabebuia aurea": 0.00107,
+    "Handroanthus ochraceus": 0.00106,
+    "Tabebuia rosea": 0.00106
+  }
+}

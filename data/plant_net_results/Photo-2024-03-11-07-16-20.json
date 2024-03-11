@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-07-16-20",
+  "species_name_to_score": {
+    "Tabebuia pallida": 0.63341,
+    "Tabebuia heterophylla": 0.25479,
+    "Tabebuia rosea": 0.03279,
+    "Tabebuia roseoalba": 0.00532,
+    "Tabebuia aurea": 0.0032,
+    "Handroanthus impetiginosus": 0.00233,
+    "Rhododendron vernicosum": 0.0021,
+    "Ficus virens": 0.00139
+  }
+}

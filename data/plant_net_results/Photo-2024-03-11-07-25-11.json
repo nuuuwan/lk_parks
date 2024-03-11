@@ -1,0 +1,30 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-07-25-11",
+  "species_name_to_score": {
+    "Gmelina arborea": 0.16415,
+    "Tectona grandis": 0.10689,
+    "Paulownia tomentosa": 0.06855,
+    "Catalpa ovata": 0.04602,
+    "Ficus auriculata": 0.03989,
+    "Catalpa bignonioides": 0.03676,
+    "Catalpa speciosa": 0.03096,
+    "Cordia subcordata": 0.02686,
+    "Cordia sebestena": 0.02529,
+    "Cordia africana": 0.01861,
+    "Kleinhovia hospita": 0.00767,
+    "Catalpa bungei": 0.00594,
+    "Tabebuia rosea": 0.00328,
+    "Dombeya wallichii": 0.00296,
+    "Ehretia dicksonii": 0.00278,
+    "Pterygota alata": 0.00256,
+    "Quararibea cordata": 0.00253,
+    "Actinidia chinensis": 0.00199,
+    "Pangium edule": 0.0017,
+    "Coccoloba pubescens": 0.00168,
+    "Broussonetia papyrifera": 0.00153,
+    "Paulownia fortunei": 0.00143,
+    "Morus rubra": 0.00141,
+    "Clerodendrum chinense": 0.00114
+  }
+}

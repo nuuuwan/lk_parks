@@ -106,7 +106,7 @@ class PlantNetResult:
             s = requests.Session()
             response = s.send(prepared)
             data = json.loads(response.text)
-            results = data['results']
+            results = data.get('results', [])
             n = len(results)
             log.debug(f'🪴Found {n} results with for {image_path}')
             return results

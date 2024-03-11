@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-06-28-23",
+  "species_name_to_score": {
+    "Anacardium occidentale": 0.9491,
+    "Barringtonia asiatica": 0.00854,
+    "Terminalia catappa": 0.00123,
+    "Himatanthus obovatus": 0.00121,
+    "Genipa americana": 0.00119
+  }
+}

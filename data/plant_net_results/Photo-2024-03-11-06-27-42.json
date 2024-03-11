@@ -1,0 +1,9 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-11-06-27-42",
+  "species_name_to_score": {
+    "Tabernaemontana divaricata": 0.98233,
+    "Tabernaemontana corymbosa": 0.00413,
+    "Tabernaemontana catharinensis": 0.003
+  }
+}
