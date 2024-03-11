@@ -8,7 +8,7 @@ from utils import JSONFile, Log
 
 from lk_parks.core.plant_photo.PlantPhoto import PlantPhoto
 from lk_parks.core.taxonomy.Species import Species
-from lk_parks.metadata.MetaData import MetaData
+
 
 log = Log('PlantNetResult')
 
@@ -78,18 +78,9 @@ class PlantNetResult:
             + f'?api-key={PlantNetResult.get_api_key()}'
         )
 
-    @staticmethod
-    def identify_from_legacy_metadata(image_path: str) -> list:
-        metadata_path = MetaData.get_metadata_path(image_path)
-        if not os.path.exists(metadata_path):
-            return None
-
-        metadata = JSONFile(metadata_path).read()
-        results = metadata.get('plantnet_results', None)
-        return results
 
     @staticmethod
-    def identify_from_api(image_path: str):
+    def identify(image_path: str):
         time.sleep(PlantNetResult.T_DELAY)
 
         with open(image_path, "rb") as fin:
@@ -111,12 +102,6 @@ class PlantNetResult:
             log.debug(f'🪴Found {n} results with for {image_path}')
             return results
 
-    @staticmethod
-    def identify(image_path: str) -> list:
-        results = PlantNetResult.identify_from_legacy_metadata(image_path)
-        if results:
-            return results
-        return PlantNetResult.identify_from_api(image_path)
 
     @staticmethod
     def get_species_name_to_score(results: list) -> dict[Species, float]:
