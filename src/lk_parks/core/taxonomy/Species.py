@@ -3,7 +3,7 @@ from dataclasses import dataclass
 
 from lk_parks.core.taxonomy.Genus import Genus
 from lk_parks.core.taxonomy.Taxon import Taxon
-from lk_parks.NameTranslator import NameTranslator
+from lk_parks.core.misc.NameTranslator import NameTranslator
 
 
 @dataclass
