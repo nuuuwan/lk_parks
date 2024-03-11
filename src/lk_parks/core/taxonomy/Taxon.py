@@ -47,3 +47,23 @@ class Taxon:
         data_path = cls.get_data_path(name)
         d = JSONFile(data_path).read()
         return cls.from_dict(d)
+
+    @classmethod
+    def list_all(cls):
+        dir_data = cls.get_dir_data()
+        taxon_list = []
+        for file_name in os.listdir(dir_data):
+            if file_name.endswith('.json'):
+                data_path = os.path.join(dir_data, file_name)
+                d = JSONFile(data_path).read()
+                taxon = cls.from_dict(d)
+                taxon_list.append(taxon)
+        return taxon_list
+
+    @classmethod
+    def idx(cls):
+        taxon_list = cls.list_all()
+        idx = {}
+        for taxon in taxon_list:
+            idx[taxon.name] = taxon
+        return idx

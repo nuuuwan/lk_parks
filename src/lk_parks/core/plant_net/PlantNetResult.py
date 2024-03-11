@@ -9,7 +9,6 @@ from utils import JSONFile, Log
 from lk_parks.core.plant_photo.PlantPhoto import PlantPhoto
 from lk_parks.core.taxonomy.Species import Species
 
-
 log = Log('PlantNetResult')
 
 
@@ -78,7 +77,6 @@ class PlantNetResult:
             + f'?api-key={PlantNetResult.get_api_key()}'
         )
 
-
     @staticmethod
     def identify(image_path: str):
         time.sleep(PlantNetResult.T_DELAY)
@@ -101,7 +99,6 @@ class PlantNetResult:
             n = len(results)
             log.debug(f'🪴Found {n} results with for {image_path}')
             return results
-
 
     @staticmethod
     def get_species_name_to_score(results: list) -> dict[Species, float]:
