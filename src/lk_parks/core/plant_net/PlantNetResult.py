@@ -21,7 +21,7 @@ class PlantNetResult:
     URL_BASE = 'https://my-api.plantnet.org'
     MAX_RESULTS = 5
     T_DELAY = 1
-    DEFAULT_PROJECT = 'all'
+    DEFAULT_PROJECT = 'k-indian-subcontinent'
     DEFAULT_ORGANS = ['auto']
     DIR_DATA_PLANT_NET_RESULTS = os.path.join(
         'data',
