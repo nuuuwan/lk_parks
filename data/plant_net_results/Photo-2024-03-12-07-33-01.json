@@ -1,0 +1,13 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-12-07-33-01",
+  "species_name_to_score": {
+    "Artocarpus heterophyllus": 0.78281,
+    "Artocarpus integer": 0.14697,
+    "Artocarpus odoratissimus": 0.00624,
+    "Artocarpus rigidus": 0.00578,
+    "Neolamarckia cadamba": 0.0044,
+    "Treculia africana": 0.00178,
+    "Nauclea orientalis": 0.00176
+  }
+}

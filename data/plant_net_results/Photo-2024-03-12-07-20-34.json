@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-12-07-20-34",
+  "species_name_to_score": {
+    "Syzygium samarangense": 0.66004,
+    "Syzygium aqueum": 0.26885,
+    "Syzygium jambos": 0.01714,
+    "Barringtonia racemosa": 0.00262,
+    "Guarea guidonia": 0.00161
+  }
+}

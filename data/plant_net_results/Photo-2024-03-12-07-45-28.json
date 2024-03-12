@@ -1,0 +1,21 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-12-07-45-28",
+  "species_name_to_score": {
+    "Barringtonia asiatica": 0.86291,
+    "Anacardium occidentale": 0.00464,
+    "Voacanga thouarsii": 0.00459,
+    "Himatanthus bracteatus": 0.00399,
+    "Barringtonia neocaledonica": 0.0035,
+    "Barringtonia acutangula": 0.00324,
+    "Cascabela ovata": 0.00298,
+    "Cerbera manghas": 0.00222,
+    "Kielmeyera coriacea": 0.00203,
+    "Ficus pedunculosa": 0.0019,
+    "Cerbera odollam": 0.00186,
+    "Barringtonia edulis": 0.00164,
+    "Ochrosia oppositifolia": 0.0016,
+    "Careya arborea": 0.0016,
+    "Crescentia cujete": 0.00147
+  }
+}

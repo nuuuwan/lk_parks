@@ -1,0 +1,9 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-12-07-01-52",
+  "species_name_to_score": {
+    "Monoon longifolium": 0.96649,
+    "Quercus xalapensis": 0.00145,
+    "Saraca asoca": 0.00101
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-12-07-20-10",
+  "species_name_to_score": {
+    "Casuarina cunninghamiana": 0.54393,
+    "Casuarina equisetifolia": 0.34977,
+    "Casuarina glauca": 0.01022,
+    "Pinus canariensis": 0.00576,
+    "Tamarix aphylla": 0.0045,
+    "Allocasuarina torulosa": 0.00348,
+    "Pinus pinea": 0.00323,
+    "Pinus brutia": 0.0031,
+    "Allocasuarina verticillata": 0.00305,
+    "Gymnostoma nodiflorum": 0.00161,
+    "Pinus roxburghii": 0.00105
+  }
+}

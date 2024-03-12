@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-12-07-01-24",
+  "species_name_to_score": {
+    "Terminalia arjuna": 0.87531,
+    "Elaeocarpus grandiflorus": 0.00359,
+    "Terminalia catappa": 0.0022,
+    "Terminalia macroptera": 0.00198,
+    "Sterculia monosperma": 0.00166,
+    "Triplaris americana": 0.00161,
+    "Ficus insipida": 0.00159,
+    "Madhuca longifolia": 0.00103
+  }
+}

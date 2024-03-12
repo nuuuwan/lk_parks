@@ -1,0 +1,26 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-12-07-33-20",
+  "species_name_to_score": {
+    "Artocarpus heterophyllus": 0.80369,
+    "Persea americana": 0.01944,
+    "Heritiera littoralis": 0.01154,
+    "Artocarpus integer": 0.01041,
+    "Corynocarpus laevigatus": 0.00746,
+    "Morinda citrifolia": 0.00579,
+    "Viburnum odoratissimum": 0.00499,
+    "Ficus callosa": 0.00475,
+    "Sideroxylon foetidissimum": 0.00327,
+    "Madhuca longifolia": 0.00278,
+    "Ficus racemosa": 0.00266,
+    "Prunus laurocerasus": 0.0025,
+    "Laurus azorica": 0.00234,
+    "Ficus lutea": 0.00192,
+    "Ficus hispida": 0.00144,
+    "Terminalia catappa": 0.00133,
+    "Treculia africana": 0.00131,
+    "Ficus septica": 0.00124,
+    "Ficus fistulosa": 0.00119,
+    "Alibertia edulis": 0.00101
+  }
+}

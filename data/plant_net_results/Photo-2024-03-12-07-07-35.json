@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-12-07-07-35",
+  "species_name_to_score": {
+    "Costus spiralis": 0.51506,
+    "Costus woodsonii": 0.3384,
+    "Costus spicatus": 0.04426,
+    "Costus barbatus": 0.01644,
+    "Costus comosus": 0.00536,
+    "Costus scaber": 0.0038,
+    "Costus pulverulentus": 0.00341,
+    "Zingiber zerumbet": 0.00224,
+    "Hellenia speciosa": 0.00159,
+    "Costus wilsonii": 0.00128
+  }
+}

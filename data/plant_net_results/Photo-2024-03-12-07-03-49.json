@@ -1,0 +1,18 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-12-07-03-49",
+  "species_name_to_score": {
+    "Mangifera indica": 0.82456,
+    "Pouteria campechiana": 0.03619,
+    "Pouteria caimito": 0.02783,
+    "Manilkara zapota": 0.00823,
+    "Quercus acutissima": 0.00366,
+    "Monoon longifolium": 0.00326,
+    "Cerbera manghas": 0.00291,
+    "Madhuca longifolia": 0.00205,
+    "Rauvolfia caffra": 0.00165,
+    "Carya illinoinensis": 0.0016,
+    "Quercus imbricaria": 0.00146,
+    "Cerbera odollam": 0.00146
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-12-07-07-12",
+  "species_name_to_score": {
+    "Polyscias fruticosa": 0.81088,
+    "Alternanthera ficoidea": 0.04563,
+    "Alternanthera paronychioides": 0.01127,
+    "Eugenia sprengelii": 0.0049,
+    "Bassia scoparia": 0.00424,
+    "Cryptogramma crispa": 0.00232,
+    "Santolina rosmarinifolia": 0.00204,
+    "Chamaecyparis pisifera": 0.00197,
+    "Codiaeum variegatum": 0.0019,
+    "Alternanthera bettzickiana": 0.00181,
+    "Acacia cognata": 0.001
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-12-07-19-09",
+  "species_name_to_score": {
+    "Pongamia pinnata": 0.82621,
+    "Poecilanthe parviflora": 0.11221,
+    "Pterocarpus rohrii": 0.02452,
+    "Pterocarpus indicus": 0.01128,
+    "Pterocarpus officinalis": 0.00595,
+    "Platymiscium pinnatum": 0.0023,
+    "Wisteria floribunda": 0.00123
+  }
+}

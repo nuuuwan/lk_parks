@@ -1,0 +1,24 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-12-07-32-01",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.89087,
+    "Cedrela odorata": 0.00575,
+    "Senna siamea": 0.00457,
+    "Eucalyptus robusta": 0.00332,
+    "Eucalyptus globulus": 0.00282,
+    "Syzygium cumini": 0.00208,
+    "Swietenia mahagoni": 0.0017,
+    "Ulmus parvifolia": 0.00156,
+    "Diospyros blancoi": 0.00145,
+    "Syzygium jambos": 0.00142,
+    "Cocculus laurifolius": 0.00135,
+    "Corymbia ptychocarpa": 0.00132,
+    "Styphnolobium japonicum": 0.0013,
+    "Eucalyptus cinerea": 0.00123,
+    "Lepechinia meyenii": 0.00118,
+    "Cedrela fissilis": 0.00116,
+    "Carya illinoinensis": 0.00113,
+    "Brownea grandiceps": 0.00111
+  }
+}

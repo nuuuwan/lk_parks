@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-12-07-07-20",
+  "species_name_to_score": {
+    "Photinia glabra": 0.6026,
+    "Syzygium jambos": 0.13256,
+    "Umbellularia californica": 0.01523,
+    "Syzygium samarangense": 0.01228,
+    "Plinia cauliflora": 0.00506,
+    "Myrtus communis": 0.00467,
+    "Combretum erythrophyllum": 0.00333,
+    "Eugenia uniflora": 0.00298,
+    "Backhousia citriodora": 0.00242,
+    "Prunus laurocerasus": 0.00169,
+    "Syzygium paniculatum": 0.00137,
+    "Acokanthera oppositifolia": 0.00128,
+    "Eugenia brasiliensis": 0.00108
+  }
+}

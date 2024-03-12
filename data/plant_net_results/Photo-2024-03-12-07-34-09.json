@@ -1,0 +1,10 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-12-07-34-09",
+  "species_name_to_score": {
+    "Phyllanthus emblica": 0.93792,
+    "Terminalia arjuna": 0.00266,
+    "Thelypteris unita": 0.00207,
+    "Senegalia berlandieri": 0.00195
+  }
+}

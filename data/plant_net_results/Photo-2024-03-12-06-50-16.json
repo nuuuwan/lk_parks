@@ -1,0 +1,33 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-12-06-50-16",
+  "species_name_to_score": {
+    "Hymenaea courbaril": 0.7063,
+    "Pterocarpus santalinus": 0.05034,
+    "Hymenaea verrucosa": 0.01608,
+    "Pterocarpus rotundifolius": 0.007,
+    "Afzelia quanzensis": 0.00573,
+    "Ceratonia siliqua": 0.00519,
+    "Pterocarpus michelianus": 0.00425,
+    "Copaifera langsdorffii": 0.00401,
+    "Dialium guineense": 0.0034,
+    "Cyclolobium brasiliense": 0.00331,
+    "Intsia bijuga": 0.00295,
+    "Cryptocarya alba": 0.00288,
+    "Psidium cattleyanum": 0.00284,
+    "Tabebuia roseoalba": 0.00274,
+    "Poecilanthe parviflora": 0.00268,
+    "Eschweilera ovata": 0.00266,
+    "Eugenia uniflora": 0.00242,
+    "Pterocarpus indicus": 0.00237,
+    "Platymiscium pinnatum": 0.00213,
+    "Psidium myrtoides": 0.00198,
+    "Annona crassiflora": 0.00188,
+    "Prioria copaifera": 0.00174,
+    "Libidibia punctata": 0.00174,
+    "Goniorrhachis marginata": 0.00143,
+    "Quillaja saponaria": 0.00138,
+    "Pimenta racemosa": 0.0012,
+    "Cyrtopodium parviflorum": 0.00103
+  }
+}
