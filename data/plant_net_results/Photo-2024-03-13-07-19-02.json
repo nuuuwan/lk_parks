@@ -1,0 +1,10 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-07-19-02",
+  "species_name_to_score": {
+    "Mangifera indica": 0.85929,
+    "Annona reticulata": 0.00521,
+    "Schleichera oleosa": 0.00111,
+    "Madhuca longifolia": 0.00102
+  }
+}

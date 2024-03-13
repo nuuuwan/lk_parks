@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-08-04-08",
+  "species_name_to_score": {
+    "Phyllanthus emblica": 0.81345,
+    "Taxodium distichum": 0.01107,
+    "Schizolobium parahyba": 0.00483,
+    "Colvillea racemosa": 0.00412,
+    "Peltophorum africanum": 0.00335,
+    "Senna multijuga": 0.00315,
+    "Vachellia macracantha": 0.00269,
+    "Acacia mearnsii": 0.00224,
+    "Leucaena leucocephala": 0.00209,
+    "Acacia dealbata": 0.00201,
+    "Vachellia farnesiana": 0.00174,
+    "Mimosa pigra": 0.00157,
+    "Acaciella angustissima": 0.00132
+  }
+}

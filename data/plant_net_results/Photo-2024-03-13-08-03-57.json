@@ -1,0 +1,20 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-08-03-57",
+  "species_name_to_score": {
+    "Averrhoa carambola": 0.59367,
+    "Muntingia calabura": 0.00493,
+    "Eugenia uniflora": 0.00387,
+    "Decaisnea insignis": 0.00357,
+    "Guazuma ulmifolia": 0.00269,
+    "Flacourtia jangomas": 0.0021,
+    "Styrax japonicus": 0.00183,
+    "Cornus kousa": 0.00182,
+    "Campsis radicans": 0.00172,
+    "Leycesteria formosa": 0.00152,
+    "Philadelphus coronarius": 0.00139,
+    "Dendrolobium umbellatum": 0.00129,
+    "Lagerstroemia speciosa": 0.00115,
+    "Prunus tomentosa": 0.0011
+  }
+}

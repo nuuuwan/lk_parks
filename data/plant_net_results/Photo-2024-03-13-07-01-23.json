@@ -1,0 +1,29 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-07-01-23",
+  "species_name_to_score": {
+    "Artocarpus heterophyllus": 0.14036,
+    "Ficus benghalensis": 0.01377,
+    "Alnus nepalensis": 0.01319,
+    "Populus deltoides": 0.00973,
+    "Ficus virens": 0.00804,
+    "Annona glabra": 0.00647,
+    "Careya arborea": 0.00451,
+    "Ficus religiosa": 0.00407,
+    "Litsea monopetala": 0.00307,
+    "Ehretia dicksonii": 0.00302,
+    "Terminalia catappa": 0.00261,
+    "Nauclea orientalis": 0.00235,
+    "Holarrhena pubescens": 0.00217,
+    "Ficus hispida": 0.00197,
+    "Terminalia chebula": 0.00193,
+    "Neolamarckia cadamba": 0.0019,
+    "Datura metel": 0.00187,
+    "Pyrus calleryana": 0.00179,
+    "Anacardium occidentale": 0.00175,
+    "Ficus callosa": 0.00161,
+    "Artocarpus integer": 0.00158,
+    "Vangueria madagascariensis": 0.00133,
+    "Elaeagnus umbellata": 0.00121
+  }
+}

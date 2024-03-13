@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-07-01-28",
+  "species_name_to_score": {
+    "Artocarpus heterophyllus": 0.83478,
+    "Artocarpus integer": 0.04714,
+    "Ficus callosa": 0.02997,
+    "Ficus benghalensis": 0.00443,
+    "Persea americana": 0.0042,
+    "Terminalia catappa": 0.00356,
+    "Ficus hispida": 0.00346,
+    "Heritiera littoralis": 0.0021
+  }
+}

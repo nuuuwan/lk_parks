@@ -1,0 +1,23 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-08-04-25",
+  "species_name_to_score": {
+    "Psidium cattleyanum": 0.51581,
+    "Flacourtia indica": 0.01338,
+    "Ficus microcarpa": 0.01147,
+    "Carissa carandas": 0.00997,
+    "Cordia dichotoma": 0.00659,
+    "Psidium guineense": 0.00615,
+    "Syzygium caryophyllatum": 0.00405,
+    "Euonymus japonicus": 0.0038,
+    "Carissa spinarum": 0.00371,
+    "Ficus retusa": 0.0037,
+    "Lagerstroemia indica": 0.00267,
+    "Erythroxylum coca": 0.00264,
+    "Ficus exasperata": 0.00175,
+    "Calophyllum inophyllum": 0.00167,
+    "Diospyros buxifolia": 0.00144,
+    "Citrus limon": 0.00136,
+    "Xylocarpus granatum": 0.00118
+  }
+}

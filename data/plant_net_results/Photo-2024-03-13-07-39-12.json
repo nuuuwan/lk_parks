@@ -1,0 +1,25 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-07-39-12",
+  "species_name_to_score": {
+    "Ficus benghalensis": 0.21473,
+    "Ficus virens": 0.10763,
+    "Ceiba pentandra": 0.0361,
+    "Ficus altissima": 0.03284,
+    "Ficus religiosa": 0.02579,
+    "Ficus concinna": 0.02378,
+    "Ficus microcarpa": 0.02348,
+    "Ficus elastica": 0.01597,
+    "Ficus benjamina": 0.00517,
+    "Ficus retusa": 0.00333,
+    "Ceratonia siliqua": 0.00289,
+    "Milicia excelsa": 0.00198,
+    "Eucalyptus globulus": 0.00162,
+    "Albizia lebbeck": 0.00152,
+    "Ficus caulocarpa": 0.00135,
+    "Planchonella obovata": 0.00133,
+    "Hymenaea courbaril": 0.00125,
+    "Ficus tinctoria": 0.00122,
+    "Samanea saman": 0.00118
+  }
+}

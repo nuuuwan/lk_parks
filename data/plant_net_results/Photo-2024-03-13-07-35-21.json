@@ -1,0 +1,10 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-07-35-21",
+  "species_name_to_score": {
+    "Zea mays": 0.00429,
+    "Coix lacryma-jobi": 0.00181,
+    "Zingiber officinale": 0.00173,
+    "Dendrobium nobile": 0.00154
+  }
+}

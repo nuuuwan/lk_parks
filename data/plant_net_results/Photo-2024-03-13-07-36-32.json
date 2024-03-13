@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-07-36-32",
+  "species_name_to_score": {
+    "Mangifera indica": 0.5567,
+    "Crescentia cujete": 0.00996,
+    "Manilkara zapota": 0.00656,
+    "Cerbera manghas": 0.00529,
+    "Rhaphiolepis bibas": 0.00471,
+    "Dillenia indica": 0.00238,
+    "Persea americana": 0.00235,
+    "Quercus acutissima": 0.00137,
+    "Magnolia champaca": 0.00137,
+    "Planchonella grandifolia": 0.00122,
+    "Ficus hispida": 0.00113,
+    "Morinda citrifolia": 0.00107,
+    "Madhuca longifolia": 0.00104
+  }
+}

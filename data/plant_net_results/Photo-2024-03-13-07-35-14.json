@@ -1,0 +1,15 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-07-35-14",
+  "species_name_to_score": {
+    "Plumeria rubra": 0.26076,
+    "Bombax ceiba": 0.0979,
+    "Sterculia foetida": 0.04223,
+    "Plumeria alba": 0.03179,
+    "Manilkara zapota": 0.00199,
+    "Rhododendron arboreum": 0.00158,
+    "Jatropha integerrima": 0.00146,
+    "Cerbera manghas": 0.00121,
+    "Wrightia arborea": 0.00104
+  }
+}

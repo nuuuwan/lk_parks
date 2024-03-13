@@ -1,0 +1,25 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-08-03-36",
+  "species_name_to_score": {
+    "Tectona grandis": 0.26164,
+    "Nauclea orientalis": 0.23655,
+    "Morus nigra": 0.01181,
+    "Cordia dichotoma": 0.01053,
+    "Cordia myxa": 0.00507,
+    "Morus alba": 0.0042,
+    "Prunus armeniaca": 0.0039,
+    "Ehretia dicksonii": 0.00347,
+    "Cordia subcordata": 0.00318,
+    "Pyrus calleryana": 0.00232,
+    "Terminalia catappa": 0.00197,
+    "Neolamarckia cadamba": 0.00184,
+    "Cercis siliquastrum": 0.00133,
+    "Erythrina velutina": 0.00129,
+    "Ficus hispida": 0.00128,
+    "Premna serratifolia": 0.00122,
+    "Ficus auriculata": 0.00119,
+    "Thespesia populnea": 0.00115,
+    "Hibiscus tiliaceus": 0.00108
+  }
+}

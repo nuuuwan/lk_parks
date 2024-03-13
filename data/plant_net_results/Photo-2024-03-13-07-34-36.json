@@ -1,0 +1,32 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-07-34-36",
+  "species_name_to_score": {
+    "Dendrobium crumenatum": 0.09605,
+    "Ficus tinctoria": 0.05156,
+    "Spondias mombin": 0.03091,
+    "Flacourtia jangomas": 0.018,
+    "Guazuma ulmifolia": 0.01277,
+    "Chukrasia tabularis": 0.01006,
+    "Ficus virens": 0.00811,
+    "Ficus benjamina": 0.00742,
+    "Ficus benghalensis": 0.00594,
+    "Eucalyptus robusta": 0.00582,
+    "Cordia myxa": 0.00522,
+    "Ficus religiosa": 0.00511,
+    "Ficus elastica": 0.00322,
+    "Syzygium cumini": 0.00282,
+    "Campsis radicans": 0.00276,
+    "Ziziphus mauritiana": 0.00271,
+    "Ficus altissima": 0.00238,
+    "Pterocarpus indicus": 0.00209,
+    "Lonicera japonica": 0.00207,
+    "Ceratonia siliqua": 0.00191,
+    "Podocarpus neriifolius": 0.00178,
+    "Epipremnum aureum": 0.00177,
+    "Ficus microcarpa": 0.00146,
+    "Lawsonia inermis": 0.00134,
+    "Tipuana tipu": 0.00133,
+    "Salvadora persica": 0.00105
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-07-18-43",
+  "species_name_to_score": {
+    "Artocarpus heterophyllus": 0.79643,
+    "Artocarpus integer": 0.06372,
+    "Artocarpus hirsutus": 0.00648,
+    "Neolamarckia cadamba": 0.00373,
+    "Artocarpus altilis": 0.00144
+  }
+}

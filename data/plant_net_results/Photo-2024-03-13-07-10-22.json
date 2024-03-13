@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-07-10-22",
+  "species_name_to_score": {
+    "Terminalia arjuna": 0.5138,
+    "Mesua ferrea": 0.02018,
+    "Ficus virens": 0.01559,
+    "Psidium guajava": 0.01025,
+    "Syzygium aqueum": 0.00759,
+    "Staphylea cochinchinensis": 0.00698,
+    "Cerbera odollam": 0.00667,
+    "Syzygium jambos": 0.00453,
+    "Madhuca longifolia": 0.00362,
+    "Syzygium cumini": 0.00361,
+    "Syzygium zeylanicum": 0.0027,
+    "Albizia procera": 0.00233,
+    "Elaeocarpus serratus": 0.00226,
+    "Dialium guineense": 0.00209,
+    "Elaeocarpus angustifolius": 0.00209,
+    "Barleria lupulina": 0.00209,
+    "Artocarpus lacucha": 0.00176,
+    "Cerbera manghas": 0.00137,
+    "Dipterocarpus alatus": 0.0012,
+    "Hemidesmus indicus": 0.00114,
+    "Khaya senegalensis": 0.00102
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-07-49-14",
+  "species_name_to_score": {
+    "Peltophorum pterocarpum": 0.1272,
+    "Peltophorum dubium": 0.09769,
+    "Peltophorum africanum": 0.04615,
+    "Jacaranda mimosifolia": 0.03192,
+    "Albizia lebbeck": 0.01017,
+    "Delonix regia": 0.00918,
+    "Biancaea sappan": 0.00783,
+    "Erythrostemon gilliesii": 0.00673,
+    "Falcataria falcata": 0.00616,
+    "Libidibia coriaria": 0.00363,
+    "Leucaena leucocephala": 0.00343,
+    "Caesalpinia pulcherrima": 0.00332,
+    "Tamarindus indica": 0.00282,
+    "Adenanthera pavonina": 0.00216,
+    "Albizia julibrissin": 0.00202,
+    "Libidibia ferrea": 0.00182,
+    "Tipuana tipu": 0.00166,
+    "Schizolobium parahyba": 0.00154,
+    "Vachellia farnesiana": 0.00152,
+    "Vachellia robusta": 0.00152,
+    "Hypodematium crenatum": 0.00137,
+    "Senegalia asak": 0.00105
+  }
+}

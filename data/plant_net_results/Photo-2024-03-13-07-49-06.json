@@ -1,0 +1,24 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-07-49-06",
+  "species_name_to_score": {
+    "Tectona grandis": 0.13178,
+    "Hibiscus tiliaceus": 0.10936,
+    "Thespesia populneoides": 0.07714,
+    "Cordia myxa": 0.054,
+    "Phanera vahlii": 0.00855,
+    "Nauclea orientalis": 0.00608,
+    "Ficus auriculata": 0.00521,
+    "Macaranga peltata": 0.00364,
+    "Kleinhovia hospita": 0.00321,
+    "Cordia dichotoma": 0.00305,
+    "Erythrina velutina": 0.00261,
+    "Dombeya burgessiae": 0.00217,
+    "Ehretia dicksonii": 0.00187,
+    "Cordia sebestena": 0.00184,
+    "Cercis siliquastrum": 0.00176,
+    "Cordia monoica": 0.00172,
+    "Terminalia catappa": 0.00118,
+    "Ficus religiosa": 0.00108
+  }
+}

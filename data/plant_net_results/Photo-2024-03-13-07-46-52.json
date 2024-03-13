@@ -1,0 +1,31 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-07-46-52",
+  "species_name_to_score": {
+    "Mangifera indica": 0.2727,
+    "Sterculia foetida": 0.12632,
+    "Quercus acutissima": 0.05068,
+    "Madhuca longifolia": 0.03474,
+    "Dillenia indica": 0.02246,
+    "Khaya senegalensis": 0.01141,
+    "Vitex altissima": 0.00939,
+    "Phytolacca dioica": 0.00774,
+    "Ceiba pentandra": 0.00763,
+    "Tabernaemontana alternifolia": 0.00595,
+    "Plumeria alba": 0.00479,
+    "Dipterocarpus alatus": 0.00345,
+    "Entada rheedei": 0.00269,
+    "Toona ciliata": 0.00225,
+    "Cerbera manghas": 0.00194,
+    "Heptapleurum calyptratum": 0.0019,
+    "Terminalia arjuna": 0.00182,
+    "Dimocarpus longan": 0.00157,
+    "Pometia pinnata": 0.00144,
+    "Plumeria rubra": 0.00138,
+    "Annona reticulata": 0.00135,
+    "Mesua ferrea": 0.00121,
+    "Rhaphiolepis bibas": 0.00117,
+    "Acacia auriculiformis": 0.00112,
+    "Swietenia macrophylla": 0.00109
+  }
+}

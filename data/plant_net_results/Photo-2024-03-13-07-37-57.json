@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-07-37-57",
+  "species_name_to_score": {
+    "Brownea grandiceps": 0.24394,
+    "Averrhoa bilimbi": 0.1285,
+    "Cassia javanica": 0.04907,
+    "Amherstia nobilis": 0.02985,
+    "Juglans nigra": 0.01775,
+    "Cedrela odorata": 0.01435,
+    "Theobroma cacao": 0.00517,
+    "Phyllanthus acidus": 0.00451,
+    "Muntingia calabura": 0.00372,
+    "Cassia grandis": 0.00345,
+    "Tipuana tipu": 0.0032,
+    "Pometia pinnata": 0.00295,
+    "Garuga floribunda": 0.0025,
+    "Spondias mombin": 0.00245,
+    "Cananga odorata": 0.00245,
+    "Toona ciliata": 0.00239,
+    "Saraca indica": 0.00206,
+    "Cassia moschata": 0.00193,
+    "Cassia roxburghii": 0.00181,
+    "Saraca asoca": 0.00138,
+    "Cassia fistula": 0.00104
+  }
+}

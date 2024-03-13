@@ -1,0 +1,28 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-07-36-49",
+  "species_name_to_score": {
+    "Pyrrosia lanceolata": 0.09908,
+    "Ophioglossum pendulum": 0.00958,
+    "Pleopeltis macrocarpa": 0.00886,
+    "Epiphyllum phyllanthus": 0.00785,
+    "Acacia auriculiformis": 0.00684,
+    "Mangifera indica": 0.00513,
+    "Acacia melanoxylon": 0.00479,
+    "Shorea roxburghii": 0.00464,
+    "Tectona grandis": 0.00278,
+    "Garcinia gummi-gutta": 0.00259,
+    "Khaya senegalensis": 0.00255,
+    "Dillenia indica": 0.00248,
+    "Furcraea foetida": 0.00248,
+    "Ceiba pentandra": 0.00225,
+    "Terminalia arjuna": 0.00189,
+    "Cymbidium aloifolium": 0.00165,
+    "Swietenia mahagoni": 0.00154,
+    "Elettaria cardamomum": 0.00153,
+    "Syzygium cumini": 0.00135,
+    "Santalum album": 0.00132,
+    "Eucalyptus robusta": 0.0012,
+    "Vitex altissima": 0.00101
+  }
+}

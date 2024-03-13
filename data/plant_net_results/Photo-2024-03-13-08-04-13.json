@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-08-04-13",
+  "species_name_to_score": {
+    "Annona muricata": 0.83548,
+    "Garcinia atroviridis": 0.00195,
+    "Castilla elastica": 0.00174,
+    "Artabotrys hexapetalus": 0.00173,
+    "Annona reticulata": 0.00114
+  }
+}

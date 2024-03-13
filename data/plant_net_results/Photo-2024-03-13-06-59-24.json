@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-06-59-24",
+  "species_name_to_score": {
+    "Pongamia pinnata": 0.34162,
+    "Wisteria sinensis": 0.01112,
+    "Mucuna pruriens": 0.01064,
+    "Petiveria alliacea": 0.00609,
+    "Spathodea campanulata": 0.00593,
+    "Jasminum sambac": 0.0056,
+    "Ficus hispida": 0.00524,
+    "Murraya paniculata": 0.00406,
+    "Ficus erecta": 0.00274,
+    "Cordia sebestena": 0.0024,
+    "Canavalia ensiformis": 0.00214,
+    "Nephelium lappaceum": 0.00203,
+    "Annona squamosa": 0.00179,
+    "Cajanus cajan": 0.00155,
+    "Senna occidentalis": 0.0015,
+    "Oroxylum indicum": 0.00148,
+    "Theobroma cacao": 0.00137,
+    "Aegle marmelos": 0.00129,
+    "Nyctanthes arbor-tristis": 0.00112,
+    "Citrus aurantiifolia": 0.00111,
+    "Bituminaria bituminosa": 0.00102
+  }
+}

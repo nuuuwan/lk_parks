@@ -1,0 +1,23 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-07-37-14",
+  "species_name_to_score": {
+    "Cassia fistula": 0.68746,
+    "Pterocarpus indicus": 0.01713,
+    "Senna spectabilis": 0.01674,
+    "Bolusanthus speciosus": 0.00907,
+    "Erythrophleum suaveolens": 0.00633,
+    "Cassia javanica": 0.00344,
+    "Sapindus saponaria": 0.0028,
+    "Dalbergia sissoo": 0.00234,
+    "Gliricidia sepium": 0.00218,
+    "Dalbergia latifolia": 0.00205,
+    "Tipuana tipu": 0.00203,
+    "Myroxylon balsamum": 0.00168,
+    "Pterocarpus macrocarpus": 0.00161,
+    "Lysidice rhodostegia": 0.00133,
+    "Schotia brachypetala": 0.00132,
+    "Bergera koenigii": 0.00104,
+    "Pararchidendron pruinosum": 0.00103
+  }
+}

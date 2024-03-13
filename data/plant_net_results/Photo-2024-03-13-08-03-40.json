@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-08-03-40",
+  "species_name_to_score": {
+    "Nauclea orientalis": 0.62754,
+    "Tectona grandis": 0.15073,
+    "Cordia dichotoma": 0.00751,
+    "Cordia myxa": 0.00511,
+    "Terminalia catappa": 0.00469,
+    "Cordia subcordata": 0.00329,
+    "Neolamarckia cadamba": 0.00185,
+    "Morus nigra": 0.00127,
+    "Ficus lacor": 0.00107,
+    "Morinda citrifolia": 0.00105
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-08-04-55",
+  "species_name_to_score": {
+    "Mimusops elengi": 0.28557,
+    "Mangifera indica": 0.03302,
+    "Annona muricata": 0.03143,
+    "Prunus persica": 0.02858,
+    "Ficus elastica": 0.01335,
+    "Annona reticulata": 0.01114,
+    "Rhaphiolepis bibas": 0.01039,
+    "Dillenia indica": 0.00841,
+    "Quercus acutissima": 0.0081,
+    "Osmanthus fragrans": 0.00701,
+    "Phytolacca dioica": 0.00661,
+    "Syzygium cumini": 0.00615,
+    "Acacia auriculiformis": 0.00595,
+    "Manilkara zapota": 0.00587,
+    "Syzygium malaccense": 0.00375,
+    "Magnolia champaca": 0.00326,
+    "Garcinia atroviridis": 0.00244,
+    "Acacia melanoxylon": 0.00203,
+    "Magnolia doltsopa": 0.00202,
+    "Tabernaemontana divaricata": 0.00155,
+    "Dipterocarpus alatus": 0.00154,
+    "Erythrina crista-galli": 0.00151,
+    "Prunus domestica": 0.00146,
+    "Tabernaemontana alternifolia": 0.00144,
+    "Cornus capitata": 0.00143,
+    "Ximenia americana": 0.00124,
+    "Barringtonia acutangula": 0.00113
+  }
+}

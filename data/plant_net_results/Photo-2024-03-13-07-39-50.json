@@ -1,0 +1,24 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-07-39-50",
+  "species_name_to_score": {
+    "Monoon longifolium": 0.71041,
+    "Mangifera indica": 0.03509,
+    "Quercus acutissima": 0.01286,
+    "Mesua ferrea": 0.00774,
+    "Ficus maclellandii": 0.00604,
+    "Azadirachta indica": 0.0038,
+    "Saraca asoca": 0.00267,
+    "Quercus glauca": 0.00205,
+    "Sapindus mukorossi": 0.00201,
+    "Acacia auriculiformis": 0.00179,
+    "Fraxinus angustifolia": 0.00179,
+    "Magnolia champaca": 0.00162,
+    "Hopea odorata": 0.00158,
+    "Dipterocarpus alatus": 0.00134,
+    "Cananga odorata": 0.00118,
+    "Toona ciliata": 0.00117,
+    "Syzygium jambos": 0.00115,
+    "Eucalyptus globulus": 0.00113
+  }
+}

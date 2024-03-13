@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-07-19-49",
+  "species_name_to_score": {
+    "Terminalia catappa": 0.78089,
+    "Tectona grandis": 0.06961,
+    "Anacardium occidentale": 0.00955,
+    "Barringtonia asiatica": 0.00643,
+    "Neolamarckia cadamba": 0.00197,
+    "Dipterocarpus alatus": 0.00152,
+    "Artocarpus heterophyllus": 0.00115,
+    "Ceodes grandis": 0.00106
+  }
+}

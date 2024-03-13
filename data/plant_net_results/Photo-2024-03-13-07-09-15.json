@@ -1,0 +1,20 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-07-09-15",
+  "species_name_to_score": {
+    "Calophyllum inophyllum": 0.27345,
+    "Syzygium cumini": 0.0156,
+    "Calophyllum calaba": 0.01433,
+    "Copaifera langsdorffii": 0.00535,
+    "Xylocarpus granatum": 0.00316,
+    "Pterocarpus santalinus": 0.00291,
+    "Ficus elastica": 0.00282,
+    "Manilkara hexandra": 0.00254,
+    "Sonneratia alba": 0.00213,
+    "Psidium cattleyanum": 0.00203,
+    "Syzygium caryophyllatum": 0.00193,
+    "Xylocarpus moluccensis": 0.00122,
+    "Barringtonia asiatica": 0.0012,
+    "Carallia brachiata": 0.00103
+  }
+}

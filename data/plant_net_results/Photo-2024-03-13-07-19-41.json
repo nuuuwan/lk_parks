@@ -1,0 +1,28 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-07-19-41",
+  "species_name_to_score": {
+    "Delonix regia": 0.14551,
+    "Peltophorum pterocarpum": 0.14276,
+    "Jacaranda mimosifolia": 0.02928,
+    "Biancaea sappan": 0.02362,
+    "Schizolobium parahyba": 0.01404,
+    "Peltophorum dubium": 0.01265,
+    "Peltophorum africanum": 0.01134,
+    "Albizia julibrissin": 0.00986,
+    "Cassia javanica": 0.00841,
+    "Caesalpinia pulcherrima": 0.00483,
+    "Albizia lebbeck": 0.00349,
+    "Cassia grandis": 0.00242,
+    "Leucaena leucocephala": 0.00229,
+    "Libidibia coriaria": 0.00221,
+    "Averrhoa bilimbi": 0.00204,
+    "Tipuana tipu": 0.00183,
+    "Senna multijuga": 0.00152,
+    "Paraserianthes lophantha": 0.00148,
+    "Brownea grandiceps": 0.0013,
+    "Senna siamea": 0.00118,
+    "Phyllanthus emblica": 0.0011,
+    "Falcataria falcata": 0.00106
+  }
+}

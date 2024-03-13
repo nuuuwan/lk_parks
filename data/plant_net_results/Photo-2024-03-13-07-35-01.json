@@ -1,0 +1,8 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-07-35-01",
+  "species_name_to_score": {
+    "Tectona grandis": 0.93052,
+    "Terminalia catappa": 0.00743
+  }
+}

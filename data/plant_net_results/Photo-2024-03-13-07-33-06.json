@@ -1,0 +1,13 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-07-33-06",
+  "species_name_to_score": {
+    "Ravenala madagascariensis": 0.76382,
+    "Musa paradisiaca": 0.04111,
+    "Musa balbisiana": 0.00265,
+    "Livistona speciosa": 0.00199,
+    "Musa acuminata": 0.00146,
+    "Pandanus urophyllus": 0.00121,
+    "Heliconia rostrata": 0.00117
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-06-59-36",
+  "species_name_to_score": {
+    "Anacardium occidentale": 0.84381,
+    "Barringtonia asiatica": 0.01123,
+    "Terminalia catappa": 0.00511,
+    "Crescentia cujete": 0.00228,
+    "Calophyllum inophyllum": 0.0014,
+    "Cotinus coggygria": 0.00128,
+    "Alstonia macrophylla": 0.00113,
+    "Madhuca longifolia": 0.00103
+  }
+}

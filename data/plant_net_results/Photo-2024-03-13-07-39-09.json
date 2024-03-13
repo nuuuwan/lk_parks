@@ -1,0 +1,24 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-07-39-09",
+  "species_name_to_score": {
+    "Ficus benghalensis": 0.10414,
+    "Ficus elastica": 0.07521,
+    "Rhaphidophora decursiva": 0.03587,
+    "Ficus altissima": 0.02723,
+    "Ficus religiosa": 0.01269,
+    "Ficus virens": 0.01224,
+    "Ficus benjamina": 0.0106,
+    "Ficus concinna": 0.00904,
+    "Ficus microcarpa": 0.00773,
+    "Ficus maclellandii": 0.00461,
+    "Epipremnum pinnatum": 0.00307,
+    "Ceratonia siliqua": 0.00302,
+    "Planchonella obovata": 0.00237,
+    "Cocculus laurifolius": 0.00219,
+    "Ficus retusa": 0.00188,
+    "Hiptage benghalensis": 0.00125,
+    "Milicia excelsa": 0.00119,
+    "Ficus tinctoria": 0.00115
+  }
+}

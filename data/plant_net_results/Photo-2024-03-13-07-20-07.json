@@ -1,0 +1,23 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-07-20-07",
+  "species_name_to_score": {
+    "Pongamia pinnata": 0.42017,
+    "Morus nigra": 0.07044,
+    "Strychnos nux-vomica": 0.03621,
+    "Morus alba": 0.01169,
+    "Flacourtia jangomas": 0.01004,
+    "Strychnos potatorum": 0.00849,
+    "Pterocarpus indicus": 0.00433,
+    "Morus indica": 0.00383,
+    "Hymenaea courbaril": 0.00267,
+    "Ficus tinctoria": 0.00245,
+    "Cordia subcordata": 0.00235,
+    "Lagerstroemia speciosa": 0.00233,
+    "Guazuma ulmifolia": 0.00206,
+    "Cynometra ramiflora": 0.00152,
+    "Aegle marmelos": 0.00151,
+    "Ficus virens": 0.00137,
+    "Morus macroura": 0.00137
+  }
+}

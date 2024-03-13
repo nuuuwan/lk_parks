@@ -1,0 +1,18 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-07-35-53",
+  "species_name_to_score": {
+    "Mangifera indica": 0.54615,
+    "Madhuca longifolia": 0.00814,
+    "Calophyllum calaba": 0.00277,
+    "Azadirachta indica": 0.00276,
+    "Khaya senegalensis": 0.00246,
+    "Terminalia chebula": 0.00186,
+    "Andira inermis": 0.00166,
+    "Syzygium jambos": 0.00164,
+    "Chionanthus ramiflorus": 0.00152,
+    "Dimocarpus longan": 0.00148,
+    "Entada rheedei": 0.00138,
+    "Litchi chinensis": 0.00135
+  }
+}

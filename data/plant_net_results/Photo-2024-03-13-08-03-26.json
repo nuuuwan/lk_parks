@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-08-03-26",
+  "species_name_to_score": {
+    "Nauclea orientalis": 0.64781,
+    "Tectona grandis": 0.11385,
+    "Terminalia catappa": 0.01692,
+    "Terminalia chebula": 0.00467,
+    "Ficus benghalensis": 0.00429,
+    "Ficus hispida": 0.00221,
+    "Artocarpus heterophyllus": 0.00217,
+    "Erythrina fusca": 0.00211,
+    "Ficus racemosa": 0.00173,
+    "Morinda citrifolia": 0.00147,
+    "Cordia dichotoma": 0.00142,
+    "Cordia myxa": 0.00122,
+    "Neolamarckia cadamba": 0.001
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-13-07-47-26",
+  "species_name_to_score": {
+    "Mangifera indica": 0.09055,
+    "Persea americana": 0.06691,
+    "Quercus acutissima": 0.03136,
+    "Cedrela odorata": 0.02645,
+    "Couroupita guianensis": 0.01118,
+    "Ceiba pentandra": 0.00764,
+    "Acacia mangium": 0.00528,
+    "Dimocarpus longan": 0.00522,
+    "Shorea roxburghii": 0.00367,
+    "Barringtonia acutangula": 0.00361,
+    "Eucalyptus robusta": 0.0035,
+    "Bombax ceiba": 0.00266,
+    "Swietenia macrophylla": 0.00235,
+    "Spondias mombin": 0.00214,
+    "Mimusops elengi": 0.00214,
+    "Manilkara zapota": 0.00196,
+    "Heliotropium arboreum": 0.00186,
+    "Cerbera manghas": 0.00181,
+    "Madhuca longifolia": 0.00177,
+    "Cymbidium tracyanum": 0.0017,
+    "Terminalia bellirica": 0.0016,
+    "Ehretia acuminata": 0.00147,
+    "Phytolacca dioica": 0.0014,
+    "Ehretia dicksonii": 0.00109,
+    "Juglans regia": 0.00109
+  }
+}
