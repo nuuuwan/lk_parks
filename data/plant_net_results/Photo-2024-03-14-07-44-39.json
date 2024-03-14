@@ -1,0 +1,20 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-14-07-44-39",
+  "species_name_to_score": {
+    "Euonymus japonicus": 0.17222,
+    "Euonymus fortunei": 0.03852,
+    "Cleyera japonica": 0.0187,
+    "Osmanthus fragrans": 0.01217,
+    "Ficus elastica": 0.00516,
+    "Ficus microcarpa": 0.00482,
+    "Ficus retusa": 0.0039,
+    "Phytolacca dioica": 0.00358,
+    "Heptapleurum actinophyllum": 0.003,
+    "Ceodes umbellifera": 0.00273,
+    "Ficus benjamina": 0.00204,
+    "Buchozia japonica": 0.00136,
+    "Graptophyllum pictum": 0.0012,
+    "Pseuderanthemum maculatum": 0.00108
+  }
+}

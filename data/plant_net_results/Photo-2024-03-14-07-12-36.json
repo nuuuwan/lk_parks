@@ -1,0 +1,20 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-14-07-12-36",
+  "species_name_to_score": {
+    "Erythrina poeppigiana": 0.75873,
+    "Schizolobium parahyba": 0.04568,
+    "Delonix regia": 0.0246,
+    "Bombax ceiba": 0.01587,
+    "Spathodea campanulata": 0.00594,
+    "Adansonia digitata": 0.00564,
+    "Erythrina lysistemon": 0.00467,
+    "Firmiana colorata": 0.00453,
+    "Sterculia foetida": 0.00376,
+    "Erythrina fusca": 0.00315,
+    "Erythrina rubrinervia": 0.00309,
+    "Spondias dulcis": 0.00211,
+    "Ceiba pentandra": 0.00175,
+    "Cassia fistula": 0.00161
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-14-07-56-52",
+  "species_name_to_score": {
+    "Olea europaea": 0.00714,
+    "Ficus microcarpa": 0.0028,
+    "Terminalia arjuna": 0.00246,
+    "Erythrina fusca": 0.00225,
+    "Ficus religiosa": 0.00218,
+    "Ficus retusa": 0.00208,
+    "Acacia auriculiformis": 0.00162,
+    "Ficus virens": 0.00132,
+    "Ficus concinna": 0.0012,
+    "Erythrina crista-galli": 0.00115,
+    "Ficus benghalensis": 0.00113,
+    "Acacia confusa": 0.00108
+  }
+}

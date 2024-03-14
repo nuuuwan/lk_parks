@@ -1,0 +1,24 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-14-07-47-25",
+  "species_name_to_score": {
+    "Peltophorum pterocarpum": 0.19913,
+    "Senna multijuga": 0.13872,
+    "Peltophorum dubium": 0.03285,
+    "Senna siamea": 0.03183,
+    "Peltophorum africanum": 0.02221,
+    "Cassia fistula": 0.01809,
+    "Biancaea sappan": 0.01449,
+    "Senna spectabilis": 0.01338,
+    "Tipuana tipu": 0.00715,
+    "Libidibia ferrea": 0.00375,
+    "Senna surattensis": 0.00319,
+    "Senna alata": 0.00243,
+    "Jacaranda mimosifolia": 0.00175,
+    "Senna bicapsularis": 0.00146,
+    "Schizolobium parahyba": 0.00145,
+    "Calpurnia aurea": 0.00127,
+    "Albizia lebbeck": 0.00125,
+    "Cassia javanica": 0.00119
+  }
+}

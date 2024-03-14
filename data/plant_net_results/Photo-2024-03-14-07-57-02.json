@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-14-07-57-02",
+  "species_name_to_score": {
+    "Acacia longifolia": 0.00846,
+    "Olea europaea": 0.0045,
+    "Melaleuca citrina": 0.00319,
+    "Melaleuca viminalis": 0.00197,
+    "Acacia melanoxylon": 0.00196
+  }
+}

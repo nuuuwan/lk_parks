@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-14-08-00-09",
+  "species_name_to_score": {
+    "Areca triandra": 0.18893,
+    "Dendrocalamus giganteus": 0.00275,
+    "Dypsis lutescens": 0.00275,
+    "Calamus erectus": 0.0014,
+    "Heliconia rostrata": 0.00117
+  }
+}

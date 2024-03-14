@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-14-07-44-06",
+  "species_name_to_score": {
+    "Erythroxylum coca": 0.29658,
+    "Ficus microcarpa": 0.06953,
+    "Osmanthus fragrans": 0.01244,
+    "Ficus retusa": 0.00676,
+    "Ficus tinctoria": 0.00654,
+    "Citharexylum spinosum": 0.00543,
+    "Ficus virens": 0.00484,
+    "Eurya japonica": 0.00447,
+    "Annona glabra": 0.00426,
+    "Ficus concinna": 0.00357,
+    "Ficus exasperata": 0.00349,
+    "Psidium cattleyanum": 0.003,
+    "Ficus elastica": 0.00256,
+    "Syzygium cumini": 0.00246,
+    "Syzygium jambos": 0.00242,
+    "Morus serrata": 0.00184,
+    "Ficus benghalensis": 0.00144,
+    "Camellia sinensis": 0.00121,
+    "Citrus aurantiifolia": 0.0011,
+    "Quercus glauca": 0.00106,
+    "Duranta erecta": 0.00105
+  }
+}

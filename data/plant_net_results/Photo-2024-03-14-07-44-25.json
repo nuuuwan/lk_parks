@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-14-07-44-25",
+  "species_name_to_score": {
+    "Elaeis guineensis": 0.36585,
+    "Lactuca indica": 0.00323,
+    "Cycas circinalis": 0.00151,
+    "Arenga pinnata": 0.00138,
+    "Cocos nucifera": 0.00104
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-14-07-59-58",
+  "species_name_to_score": {
+    "Tabernaemontana divaricata": 0.46412,
+    "Coffea arabica": 0.0493,
+    "Osmanthus fragrans": 0.0137,
+    "Strobilanthes auriculata": 0.00665,
+    "Diospyros lotus": 0.00601,
+    "Justicia adhatoda": 0.0054,
+    "Quercus glauca": 0.00304,
+    "Gardenia jasminoides": 0.00231,
+    "Hydrangea viburnoides": 0.00218,
+    "Morinda citrifolia": 0.00211,
+    "Adansonia digitata": 0.00163,
+    "Turnera ulmifolia": 0.00156,
+    "Tabernaemontana corymbosa": 0.00151,
+    "Elaeocarpus serratus": 0.00135,
+    "Rhaphiolepis bibas": 0.00131,
+    "Antidesma montanum": 0.00127,
+    "Cola nitida": 0.00116,
+    "Brunfelsia pauciflora": 0.00108,
+    "Ehretia acuminata": 0.00103,
+    "Ficus racemosa": 0.00103
+  }
+}

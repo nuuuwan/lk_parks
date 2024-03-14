@@ -1,0 +1,12 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-14-07-50-42",
+  "species_name_to_score": {
+    "Ficus religiosa": 0.89139,
+    "Brachychiton populneus": 0.01134,
+    "Ficus rumphii": 0.00838,
+    "Triadica sebifera": 0.00517,
+    "Populus deltoides": 0.00507,
+    "Ficus virens": 0.00433
+  }
+}

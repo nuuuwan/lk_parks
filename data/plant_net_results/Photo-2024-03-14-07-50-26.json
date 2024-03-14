@@ -1,0 +1,12 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-14-07-50-26",
+  "species_name_to_score": {
+    "Aegle marmelos": 0.02283,
+    "Nephelium lappaceum": 0.00636,
+    "Pisonia aculeata": 0.00408,
+    "Achyranthes aspera": 0.00232,
+    "Pongamia pinnata": 0.00225,
+    "Sandoricum koetjape": 0.00208
+  }
+}

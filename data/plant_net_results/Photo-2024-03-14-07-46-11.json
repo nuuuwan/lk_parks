@@ -1,0 +1,12 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-14-07-46-11",
+  "species_name_to_score": {
+    "Pterocarpus indicus": 0.60194,
+    "Pongamia pinnata": 0.13607,
+    "Aegle marmelos": 0.00293,
+    "Pterocarpus macrocarpus": 0.00195,
+    "Platymiscium pinnatum": 0.00182,
+    "Averrhoa carambola": 0.00104
+  }
+}

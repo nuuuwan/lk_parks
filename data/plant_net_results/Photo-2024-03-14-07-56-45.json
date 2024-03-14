@@ -1,0 +1,22 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-14-07-56-45",
+  "species_name_to_score": {
+    "Ficus virens": 0.29698,
+    "Ficus religiosa": 0.26141,
+    "Ficus benghalensis": 0.04331,
+    "Ficus microcarpa": 0.03478,
+    "Ficus altissima": 0.01726,
+    "Ficus elastica": 0.01579,
+    "Ceiba pentandra": 0.01371,
+    "Ficus benjamina": 0.00571,
+    "Ficus retusa": 0.00272,
+    "Bombax ceiba": 0.00184,
+    "Adansonia digitata": 0.00166,
+    "Ficus racemosa": 0.00161,
+    "Taxodium distichum": 0.00135,
+    "Ficus caulocarpa": 0.00119,
+    "Hymenaea courbaril": 0.00112,
+    "Populus deltoides": 0.0011
+  }
+}

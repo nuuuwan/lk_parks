@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-14-07-46-40",
+  "species_name_to_score": {
+    "Spondias dulcis": 0.2837,
+    "Azadirachta indica": 0.19126,
+    "Spondias mombin": 0.07056,
+    "Melia azedarach": 0.02694,
+    "Swietenia mahagoni": 0.02606,
+    "Cedrela odorata": 0.01625,
+    "Toxicodendron succedaneum": 0.01547,
+    "Pistacia chinensis": 0.01405,
+    "Toona ciliata": 0.00805,
+    "Swietenia macrophylla": 0.00727,
+    "Bergera koenigii": 0.0053,
+    "Clausena anisata": 0.00477,
+    "Sapindus saponaria": 0.00413,
+    "Spondias purpurea": 0.00407,
+    "Pararchidendron pruinosum": 0.00299,
+    "Rhus chinensis": 0.00286,
+    "Gliricidia sepium": 0.00216,
+    "Pistacia atlantica": 0.00192,
+    "Garuga floribunda": 0.00124,
+    "Styphnolobium japonicum": 0.00119,
+    "Cryptostegia grandiflora": 0.0011
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-14-07-47-57",
+  "species_name_to_score": {
+    "Premna serratifolia": 0.66278,
+    "Cordia dichotoma": 0.21583,
+    "Cordia myxa": 0.0153,
+    "Ficus exasperata": 0.00478,
+    "Cinnamomum camphora": 0.00457,
+    "Pongamia pinnata": 0.0037,
+    "Cordia subcordata": 0.00192
+  }
+}

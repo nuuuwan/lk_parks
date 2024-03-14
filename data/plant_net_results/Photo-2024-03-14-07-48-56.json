@@ -1,0 +1,23 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-14-07-48-56",
+  "species_name_to_score": {
+    "Pongamia pinnata": 0.06312,
+    "Catalpa bignonioides": 0.01073,
+    "Holarrhena pubescens": 0.00861,
+    "Bischofia javanica": 0.00794,
+    "Hovenia dulcis": 0.00681,
+    "Erythrina poeppigiana": 0.00637,
+    "Broussonetia papyrifera": 0.00548,
+    "Vernicia fordii": 0.00533,
+    "Oroxylum indicum": 0.00485,
+    "Pterocarpus indicus": 0.00347,
+    "Alangium chinense": 0.00259,
+    "Thespesia populnea": 0.00195,
+    "Paulownia tomentosa": 0.0019,
+    "Dendrolobium umbellatum": 0.00188,
+    "Cordia dichotoma": 0.0015,
+    "Cordia subcordata": 0.00149,
+    "Lonchocarpus sericeus": 0.00135
+  }
+}

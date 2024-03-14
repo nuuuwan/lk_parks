@@ -1,0 +1,26 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-14-08-02-59",
+  "species_name_to_score": {
+    "Ficus altissima": 0.0324,
+    "Ficus racemosa": 0.0073,
+    "Ficus retusa": 0.0064,
+    "Ficus tinctoria": 0.00353,
+    "Mimusops elengi": 0.00317,
+    "Ficus callosa": 0.00285,
+    "Ficus benghalensis": 0.00285,
+    "Osmanthus fragrans": 0.00277,
+    "Cryptostegia madagascariensis": 0.00253,
+    "Madhuca longifolia": 0.0022,
+    "Annona glabra": 0.00217,
+    "Maclura cochinchinensis": 0.00201,
+    "Ficus microcarpa": 0.00193,
+    "Psidium cattleyanum": 0.00173,
+    "Ficus virens": 0.0015,
+    "Camellia sasanqua": 0.00136,
+    "Ficus maclellandii": 0.00117,
+    "Ficus pumila": 0.00107,
+    "Manilkara zapota": 0.00104,
+    "Manilkara hexandra": 0.00103
+  }
+}
