@@ -1,0 +1,31 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-05-26",
+  "species_name_to_score": {
+    "Artocarpus heterophyllus": 0.50708,
+    "Ficus auriculata": 0.02445,
+    "Holarrhena pubescens": 0.01945,
+    "Tectona grandis": 0.01434,
+    "Ficus racemosa": 0.01283,
+    "Terminalia chebula": 0.00976,
+    "Artocarpus lacucha": 0.00968,
+    "Ficus callosa": 0.00702,
+    "Pterocarpus santalinus": 0.00429,
+    "Neolamarckia cadamba": 0.00391,
+    "Artocarpus hirsutus": 0.00358,
+    "Artocarpus integer": 0.00282,
+    "Nauclea orientalis": 0.0028,
+    "Ficus fistulosa": 0.0027,
+    "Ficus hispida": 0.00245,
+    "Ficus variegata": 0.00211,
+    "Litsea monopetala": 0.00183,
+    "Ficus benghalensis": 0.00178,
+    "Ficus tinctoria": 0.00166,
+    "Hopea odorata": 0.00165,
+    "Hydrangea aspera": 0.00146,
+    "Morus macroura": 0.00128,
+    "Bhesa indica": 0.00118,
+    "Ficus altissima": 0.00108,
+    "Bischofia javanica": 0.00101
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-07-38",
+  "species_name_to_score": {
+    "Syzygium jambos": 0.03062,
+    "Acacia auriculiformis": 0.01822,
+    "Mangifera indica": 0.01544,
+    "Madhuca longifolia": 0.0087,
+    "Acacia melanoxylon": 0.00614,
+    "Terminalia arjuna": 0.00613,
+    "Dipterocarpus alatus": 0.00564,
+    "Acacia confusa": 0.00331,
+    "Acacia mangium": 0.00252,
+    "Elaeocarpus angustifolius": 0.00217,
+    "Antiaris toxicaria": 0.0014,
+    "Acacia longifolia": 0.00112,
+    "Annona reticulata": 0.00102
+  }
+}

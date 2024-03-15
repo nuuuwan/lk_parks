@@ -1,0 +1,20 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-06-16",
+  "species_name_to_score": {
+    "Ficus virens": 0.03732,
+    "Ficus religiosa": 0.02643,
+    "Ficus benghalensis": 0.01616,
+    "Terminalia arjuna": 0.01366,
+    "Ficus racemosa": 0.00813,
+    "Neolamarckia cadamba": 0.00741,
+    "Ficus altissima": 0.00679,
+    "Erythrina fusca": 0.00292,
+    "Salix acmophylla": 0.00285,
+    "Ficus geniculata": 0.0026,
+    "Strychnos nux-vomica": 0.00174,
+    "Pterygota alata": 0.0014,
+    "Ficus concinna": 0.00129,
+    "Guazuma ulmifolia": 0.00114
+  }
+}

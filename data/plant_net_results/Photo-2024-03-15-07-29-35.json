@@ -1,0 +1,23 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-29-35",
+  "species_name_to_score": {
+    "Juglans regia": 0.04403,
+    "Lagerstroemia speciosa": 0.04107,
+    "Hovenia dulcis": 0.01667,
+    "Quercus serrata": 0.00873,
+    "Melia azedarach": 0.0035,
+    "Citharexylum spinosum": 0.0034,
+    "Neolamarckia cadamba": 0.00316,
+    "Caldesia parnassifolia": 0.00285,
+    "Castanospermum australe": 0.00209,
+    "Annona glabra": 0.00173,
+    "Muntingia calabura": 0.00165,
+    "Diospyros lotus": 0.00148,
+    "Pterocarpus indicus": 0.00145,
+    "Vitex pinnata": 0.00132,
+    "Morus indica": 0.00129,
+    "Ceiba pentandra": 0.00115,
+    "Broussonetia papyrifera": 0.00111
+  }
+}

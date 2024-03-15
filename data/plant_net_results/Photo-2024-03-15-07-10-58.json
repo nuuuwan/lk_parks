@@ -1,0 +1,21 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-10-58",
+  "species_name_to_score": {
+    "Peltophorum pterocarpum": 0.13662,
+    "Libidibia ferrea": 0.06128,
+    "Biancaea sappan": 0.01936,
+    "Peltophorum dubium": 0.01476,
+    "Tipuana tipu": 0.01449,
+    "Tamarindus indica": 0.01207,
+    "Senna multijuga": 0.00725,
+    "Vachellia robusta": 0.00422,
+    "Peltophorum africanum": 0.00397,
+    "Phyllanthus emblica": 0.00365,
+    "Samanea saman": 0.003,
+    "Albizia lebbeck": 0.00265,
+    "Cassia grandis": 0.00173,
+    "Delonix regia": 0.00165,
+    "Adenanthera pavonina": 0.00122
+  }
+}

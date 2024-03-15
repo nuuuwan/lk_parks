@@ -1,0 +1,10 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-20-03",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.8985,
+    "Cinnamomum verum": 0.00954,
+    "Ficus maclellandii": 0.00874,
+    "Brownea grandiceps": 0.00261
+  }
+}

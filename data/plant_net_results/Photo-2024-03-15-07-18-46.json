@@ -1,0 +1,23 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-18-46",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.59882,
+    "Ficus maclellandii": 0.05496,
+    "Syzygium cumini": 0.02208,
+    "Brownea grandiceps": 0.01501,
+    "Garcinia xanthochymus": 0.01062,
+    "Eucalyptus globulus": 0.00988,
+    "Monoon longifolium": 0.00838,
+    "Tipuana tipu": 0.00362,
+    "Saraca indica": 0.00356,
+    "Samadera indica": 0.00286,
+    "Durio zibethinus": 0.00238,
+    "Melaleuca viminalis": 0.00195,
+    "Dendrocalamus giganteus": 0.00138,
+    "Cedrela odorata": 0.00136,
+    "Eucalyptus camaldulensis": 0.00126,
+    "Eucalyptus sideroxylon": 0.00116,
+    "Amherstia nobilis": 0.00108
+  }
+}

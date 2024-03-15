@@ -1,0 +1,21 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-14-47",
+  "species_name_to_score": {
+    "Stachytarpheta jamaicensis": 0.02623,
+    "Petrea volubilis": 0.00849,
+    "Clerodendrum indicum": 0.00547,
+    "Pseuderanthemum maculatum": 0.00352,
+    "Clerodendrum umbellatum": 0.00344,
+    "Stachytarpheta indica": 0.00291,
+    "Ecbolium ligustrinum": 0.00232,
+    "Eranthemum wattii": 0.00218,
+    "Rotheca serrata": 0.00213,
+    "Brunfelsia pauciflora": 0.00201,
+    "Ecbolium viride": 0.0018,
+    "Eranthemum purpurascens": 0.00128,
+    "Stachytarpheta urticifolia": 0.00114,
+    "Plumbago indica": 0.00107,
+    "Eranthemum pulchellum": 0.00103
+  }
+}

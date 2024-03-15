@@ -1,0 +1,12 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-20-25",
+  "species_name_to_score": {
+    "Artocarpus heterophyllus": 0.75109,
+    "Artocarpus integer": 0.1567,
+    "Adansonia digitata": 0.00478,
+    "Artocarpus hirsutus": 0.00377,
+    "Pyrus communis": 0.00128,
+    "Ficus hookeriana": 0.00123
+  }
+}

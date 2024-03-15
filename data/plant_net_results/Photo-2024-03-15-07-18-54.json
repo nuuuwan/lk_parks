@@ -1,0 +1,26 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-18-54",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.29557,
+    "Eucalyptus robusta": 0.2175,
+    "Eucalyptus globulus": 0.07814,
+    "Brachychiton populneus": 0.02829,
+    "Syzygium cumini": 0.01363,
+    "Eucalyptus camaldulensis": 0.00975,
+    "Eucalyptus sideroxylon": 0.00423,
+    "Swietenia mahagoni": 0.00346,
+    "Ficus religiosa": 0.00338,
+    "Tipuana tipu": 0.00335,
+    "Toona ciliata": 0.00264,
+    "Melia azedarach": 0.00257,
+    "Quercus glauca": 0.00228,
+    "Pterocarpus indicus": 0.00204,
+    "Ficus maclellandii": 0.00192,
+    "Durio zibethinus": 0.00174,
+    "Ficus virens": 0.00139,
+    "Cedrela odorata": 0.00129,
+    "Swietenia macrophylla": 0.00126,
+    "Magnolia lanuginosa": 0.00109
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-11-22",
+  "species_name_to_score": {
+    "Polyscias fruticosa": 0.54852,
+    "Alternanthera ficoidea": 0.14582,
+    "Alternanthera paronychioides": 0.01871,
+    "Alternanthera bettzickiana": 0.00358,
+    "Argyranthemum frutescens": 0.00262,
+    "Tabernaemontana divaricata": 0.00238,
+    "Codiaeum variegatum": 0.00181,
+    "Cestrum nocturnum": 0.00174,
+    "Bassia scoparia": 0.00165,
+    "Lobularia maritima": 0.00162,
+    "Sagina procumbens": 0.00111
+  }
+}

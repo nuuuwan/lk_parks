@@ -1,0 +1,18 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-19-59",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.57135,
+    "Ficus maclellandii": 0.01919,
+    "Eucalyptus camaldulensis": 0.0172,
+    "Syzygium jambos": 0.00529,
+    "Eucalyptus sideroxylon": 0.00182,
+    "Corymbia citriodora": 0.00162,
+    "Syzygium cumini": 0.00151,
+    "Melaleuca viminalis": 0.00146,
+    "Eucalyptus globulus": 0.00145,
+    "Eucalyptus tereticornis": 0.00139,
+    "Eucalyptus robusta": 0.00128,
+    "Phyllostachys aurea": 0.00126
+  }
+}

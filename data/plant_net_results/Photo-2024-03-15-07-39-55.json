@@ -1,0 +1,24 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-39-55",
+  "species_name_to_score": {
+    "Carissa carandas": 0.00766,
+    "Crescentia cujete": 0.0058,
+    "Ficus tinctoria": 0.00555,
+    "Aglaia elaeagnoidea": 0.00455,
+    "Osmanthus fragrans": 0.00437,
+    "Mimusops elengi": 0.00392,
+    "Cupaniopsis anacardioides": 0.00383,
+    "Apodytes dimidiata": 0.0036,
+    "Planchonella obovata": 0.00318,
+    "Viburnum odoratissimum": 0.00308,
+    "Psidium cattleyanum": 0.00302,
+    "Madhuca longifolia": 0.00298,
+    "Dodonaea viscosa": 0.00188,
+    "Myristica fragrans": 0.00184,
+    "Terminalia arjuna": 0.00168,
+    "Annona muricata": 0.0016,
+    "Polyalthia suberosa": 0.00143,
+    "Syzygium jambos": 0.0012
+  }
+}

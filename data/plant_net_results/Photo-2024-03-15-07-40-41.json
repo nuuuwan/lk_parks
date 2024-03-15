@@ -1,0 +1,30 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-40-41",
+  "species_name_to_score": {
+    "Samanea saman": 0.26769,
+    "Cassia javanica": 0.0256,
+    "Albizia lebbeck": 0.02212,
+    "Pararchidendron pruinosum": 0.01488,
+    "Dermatophyllum secundiflorum": 0.01267,
+    "Gleditsia sinensis": 0.01163,
+    "Gleditsia triacanthos": 0.01062,
+    "Spondias purpurea": 0.00901,
+    "Murraya paniculata": 0.00645,
+    "Bergera koenigii": 0.00408,
+    "Ziziphus jujuba": 0.00344,
+    "Styphnolobium japonicum": 0.00344,
+    "Gleditsia japonica": 0.00314,
+    "Afzelia africana": 0.00231,
+    "Erythrophleum suaveolens": 0.00205,
+    "Spondias mombin": 0.00202,
+    "Senna multiglandulosa": 0.00201,
+    "Cassia roxburghii": 0.00198,
+    "Sophora tomentosa": 0.00192,
+    "Khaya senegalensis": 0.00179,
+    "Schotia brachypetala": 0.0017,
+    "Tipuana tipu": 0.00145,
+    "Clausena excavata": 0.00133,
+    "Guilandina bonduc": 0.00101
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-25-22",
+  "species_name_to_score": {
+    "Ficus virens": 0.22668,
+    "Ficus religiosa": 0.18469,
+    "Ficus benghalensis": 0.17504,
+    "Ficus altissima": 0.02822,
+    "Ficus microcarpa": 0.01208,
+    "Ficus elastica": 0.01092,
+    "Ceiba pentandra": 0.00868,
+    "Ficus concinna": 0.00621,
+    "Ficus benjamina": 0.00502,
+    "Hymenaea courbaril": 0.00214,
+    "Populus nigra": 0.0015,
+    "Phytolacca dioica": 0.00138,
+    "Ceratonia siliqua": 0.00113,
+    "Ficus retusa": 0.00102
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-19-10",
+  "species_name_to_score": {
+    "Eucalyptus robusta": 0.54628,
+    "Mesua ferrea": 0.08004,
+    "Eucalyptus camaldulensis": 0.03983,
+    "Syzygium cumini": 0.01437,
+    "Eucalyptus globulus": 0.00828,
+    "Acacia auriculiformis": 0.00684,
+    "Diospyros lotus": 0.00526,
+    "Quercus glauca": 0.0051,
+    "Eucalyptus sideroxylon": 0.00507,
+    "Acacia mangium": 0.00349,
+    "Swietenia mahagoni": 0.00279,
+    "Trema orientale": 0.00221,
+    "Cocculus laurifolius": 0.00189,
+    "Toona ciliata": 0.00175,
+    "Swietenia macrophylla": 0.00135,
+    "Shorea roxburghii": 0.00123,
+    "Quercus acutissima": 0.00114,
+    "Ficus geniculata": 0.00114,
+    "Saraca indica": 0.00113,
+    "Annona reticulata": 0.00106,
+    "Brachychiton populneus": 0.001
+  }
+}

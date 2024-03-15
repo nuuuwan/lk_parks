@@ -1,0 +1,30 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-21-11",
+  "species_name_to_score": {
+    "Mangifera indica": 0.35101,
+    "Phytolacca dioica": 0.02653,
+    "Dimocarpus longan": 0.00934,
+    "Persea americana": 0.00827,
+    "Cerbera manghas": 0.0075,
+    "Citharexylum spinosum": 0.00653,
+    "Monoon longifolium": 0.00517,
+    "Acacia auriculiformis": 0.00495,
+    "Mimusops elengi": 0.00438,
+    "Planchonella grandifolia": 0.00428,
+    "Baccaurea ramiflora": 0.00279,
+    "Elaeocarpus serratus": 0.00268,
+    "Acacia mangium": 0.00255,
+    "Quercus acutissima": 0.00234,
+    "Cola nitida": 0.00227,
+    "Annona reticulata": 0.00216,
+    "Manilkara zapota": 0.00208,
+    "Syzygium jambos": 0.002,
+    "Ficus maclellandii": 0.00182,
+    "Cocculus laurifolius": 0.0018,
+    "Syzygium malaccense": 0.0016,
+    "Swietenia macrophylla": 0.0013,
+    "Lagerstroemia speciosa": 0.00111,
+    "Diospyros blancoi": 0.0011
+  }
+}

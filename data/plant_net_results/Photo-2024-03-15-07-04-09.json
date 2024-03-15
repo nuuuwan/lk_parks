@@ -1,0 +1,22 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-04-09",
+  "species_name_to_score": {
+    "Saraca indica": 0.48393,
+    "Saraca asoca": 0.15273,
+    "Brownea grandiceps": 0.06905,
+    "Toona ciliata": 0.01413,
+    "Pistacia chinensis": 0.00528,
+    "Sapindus mukorossi": 0.00514,
+    "Pararchidendron pruinosum": 0.00502,
+    "Amherstia nobilis": 0.00451,
+    "Azadirachta indica": 0.00375,
+    "Sapindus saponaria": 0.00252,
+    "Mesua ferrea": 0.00162,
+    "Spondias mombin": 0.00136,
+    "Cedrela odorata": 0.00126,
+    "Harpullia cupanioides": 0.0012,
+    "Mayodendron igneum": 0.00108,
+    "Brownea rosa-de-monte": 0.00105
+  }
+}

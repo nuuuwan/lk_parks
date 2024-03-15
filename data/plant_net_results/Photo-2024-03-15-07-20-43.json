@@ -1,0 +1,28 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-20-43",
+  "species_name_to_score": {
+    "Ficus altissima": 0.18488,
+    "Neolamarckia cadamba": 0.07818,
+    "Juglans regia": 0.02041,
+    "Ficus benghalensis": 0.01363,
+    "Terminalia arjuna": 0.01217,
+    "Santalum album": 0.00862,
+    "Ficus racemosa": 0.00846,
+    "Ficus religiosa": 0.00823,
+    "Ficus virens": 0.00754,
+    "Phytolacca dioica": 0.00491,
+    "Syzygium cumini": 0.0033,
+    "Dipterocarpus alatus": 0.00297,
+    "Ficus elastica": 0.00258,
+    "Ficus geniculata": 0.00253,
+    "Cordia subcordata": 0.0022,
+    "Holarrhena pubescens": 0.00215,
+    "Cordia dichotoma": 0.00202,
+    "Terminalia chebula": 0.00201,
+    "Mimusops elengi": 0.00186,
+    "Strychnos nux-vomica": 0.00171,
+    "Ficus lacor": 0.00129,
+    "Cananga odorata": 0.00122
+  }
+}

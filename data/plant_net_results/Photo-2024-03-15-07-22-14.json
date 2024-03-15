@@ -1,0 +1,12 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-22-14",
+  "species_name_to_score": {
+    "Eucalyptus botryoides": 0.00562,
+    "Dalbergia melanoxylon": 0.00245,
+    "Eucalyptus robusta": 0.00235,
+    "Eucalyptus globulus": 0.00177,
+    "Melaleuca viminalis": 0.0017,
+    "Acer oblongum": 0.00128
+  }
+}

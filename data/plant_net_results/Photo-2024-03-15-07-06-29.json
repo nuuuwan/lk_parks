@@ -1,0 +1,32 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-06-29",
+  "species_name_to_score": {
+    "Strychnos nux-vomica": 0.15623,
+    "Dipterocarpus alatus": 0.09205,
+    "Ficus religiosa": 0.00965,
+    "Ficus racemosa": 0.00873,
+    "Copaifera langsdorffii": 0.00793,
+    "Neolamarckia cadamba": 0.00705,
+    "Dipterocarpus retusus": 0.00621,
+    "Bhesa indica": 0.00361,
+    "Artocarpus lacucha": 0.00343,
+    "Intsia palembanica": 0.00316,
+    "Artocarpus integer": 0.00313,
+    "Ficus benghalensis": 0.0024,
+    "Dalbergia latifolia": 0.00221,
+    "Pterocarpus santalinus": 0.00215,
+    "Shorea robusta": 0.00183,
+    "Terminalia catappa": 0.00183,
+    "Cordia dichotoma": 0.00183,
+    "Ficus microcarpa": 0.0017,
+    "Bischofia javanica": 0.00162,
+    "Cassia fistula": 0.00151,
+    "Ficus virens": 0.00138,
+    "Alnus nepalensis": 0.00131,
+    "Heynea trijuga": 0.00128,
+    "Holarrhena pubescens": 0.00127,
+    "Swietenia mahagoni": 0.00105,
+    "Ficus altissima": 0.00104
+  }
+}

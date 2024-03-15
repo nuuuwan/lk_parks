@@ -1,0 +1,22 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-18-09",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.66833,
+    "Eucalyptus globulus": 0.02374,
+    "Syzygium cumini": 0.00962,
+    "Monoon longifolium": 0.00961,
+    "Eucalyptus camaldulensis": 0.0054,
+    "Ficus maclellandii": 0.00414,
+    "Hopea odorata": 0.00365,
+    "Eucalyptus robusta": 0.00363,
+    "Brachychiton populneus": 0.00327,
+    "Muntingia calabura": 0.00247,
+    "Amherstia nobilis": 0.00222,
+    "Eucalyptus sideroxylon": 0.00169,
+    "Guazuma ulmifolia": 0.00146,
+    "Shorea assamica": 0.00125,
+    "Azadirachta indica": 0.00109,
+    "Shorea roxburghii": 0.00108
+  }
+}

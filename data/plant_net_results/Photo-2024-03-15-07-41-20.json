@@ -1,0 +1,30 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-41-20",
+  "species_name_to_score": {
+    "Ficus virens": 0.05567,
+    "Ficus altissima": 0.03435,
+    "Castilla elastica": 0.03217,
+    "Anacardium occidentale": 0.01991,
+    "Sterculia foetida": 0.01574,
+    "Neolamarckia cadamba": 0.01132,
+    "Juglans regia": 0.01116,
+    "Ficus lacor": 0.01079,
+    "Ficus callosa": 0.00604,
+    "Artocarpus lacucha": 0.00548,
+    "Holarrhena pubescens": 0.00513,
+    "Ficus benghalensis": 0.00376,
+    "Madhuca longifolia": 0.00325,
+    "Ficus religiosa": 0.00298,
+    "Mangifera indica": 0.00264,
+    "Milicia excelsa": 0.00254,
+    "Terminalia catappa": 0.00239,
+    "Hevea brasiliensis": 0.00181,
+    "Alstonia macrophylla": 0.00158,
+    "Couroupita guianensis": 0.00156,
+    "Vangueria madagascariensis": 0.00141,
+    "Plumeria alba": 0.00109,
+    "Hymenaea courbaril": 0.00105,
+    "Cedrela odorata": 0.00104
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-09-14",
+  "species_name_to_score": {
+    "Terminalia arjuna": 0.14298,
+    "Syzygium cumini": 0.0608,
+    "Syzygium jambos": 0.03321,
+    "Malpighia glabra": 0.02349,
+    "Cynometra cauliflora": 0.00729,
+    "Cryptostegia madagascariensis": 0.00506,
+    "Erythroxylum coca": 0.00504,
+    "Maytenus acuminata": 0.00486,
+    "Flueggea virosa": 0.00445,
+    "Mimusops elengi": 0.00313,
+    "Eugenia uniflora": 0.00302,
+    "Psidium cattleyanum": 0.00282,
+    "Cryptostegia grandiflora": 0.0026,
+    "Erythrina crista-galli": 0.00256,
+    "Syzygium samarangense": 0.00193,
+    "Eucalyptus robusta": 0.00182,
+    "Lagerstroemia speciosa": 0.00175,
+    "Ficus tinctoria": 0.00173,
+    "Rauvolfia tetraphylla": 0.00156,
+    "Copaifera langsdorffii": 0.00152,
+    "Ficus racemosa": 0.00146,
+    "Lagerstroemia parviflora": 0.00124,
+    "Manilkara zapota": 0.00117,
+    "Stokesia laevis": 0.00105
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-01-43",
+  "species_name_to_score": {
+    "Podocarpus neriifolius": 0.13521,
+    "Melaleuca viminalis": 0.04693,
+    "Cascabela thevetia": 0.01175,
+    "Bambusa vulgaris": 0.00584,
+    "Bambusa tuldoides": 0.00498,
+    "Acacia longifolia": 0.00475,
+    "Pandanus tectorius": 0.00359,
+    "Acacia retinodes": 0.00197,
+    "Acacia auriculiformis": 0.00186,
+    "Salix viminalis": 0.00133,
+    "Acacia confusa": 0.00123,
+    "Acacia melanoxylon": 0.00114,
+    "Dendrocalamus giganteus": 0.00106,
+    "Melaleuca citrina": 0.00105,
+    "Hippophae salicifolia": 0.00102
+  }
+}

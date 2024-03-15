@@ -1,0 +1,9 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-42-12",
+  "species_name_to_score": {
+    "Rhaphidophora decursiva": 0.59804,
+    "Epipremnum pinnatum": 0.22793,
+    "Monstera deliciosa": 0.00151
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-01-10",
+  "species_name_to_score": {
+    "Melaleuca viminalis": 0.03514,
+    "Bambusa vulgaris": 0.03393,
+    "Dendrocalamus giganteus": 0.01966,
+    "Salix viminalis": 0.00838,
+    "Salix alba": 0.00618,
+    "Chamaecytisus prolifer": 0.00421,
+    "Eucalyptus robusta": 0.00397,
+    "Leucaena leucocephala": 0.00391,
+    "Taxodium distichum": 0.00344,
+    "Acacia mearnsii": 0.00338,
+    "Taxus contorta": 0.00313,
+    "Bambusa bambos": 0.00261,
+    "Hesperocyparis lusitanica": 0.00251,
+    "Melaleuca citrina": 0.00248,
+    "Cascabela thevetia": 0.00239,
+    "Acacia longifolia": 0.00225,
+    "Codariocalyx motorius": 0.00215,
+    "Prosopis juliflora": 0.00148,
+    "Acacia confusa": 0.00143,
+    "Casuarina equisetifolia": 0.00142,
+    "Phyllanthus emblica": 0.0014,
+    "Acacia linifolia": 0.00107,
+    "Taxus mairei": 0.00103,
+    "Dendrocalamus strictus": 0.00102
+  }
+}

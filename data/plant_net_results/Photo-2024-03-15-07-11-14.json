@@ -1,0 +1,9 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-11-14",
+  "species_name_to_score": {
+    "Polyscias fruticosa": 0.9486,
+    "Alternanthera ficoidea": 0.00867,
+    "Alternanthera paronychioides": 0.00112
+  }
+}

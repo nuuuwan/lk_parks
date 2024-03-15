@@ -1,0 +1,31 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-19-52",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.46695,
+    "Ficus maclellandii": 0.05607,
+    "Muntingia calabura": 0.03153,
+    "Monoon longifolium": 0.02883,
+    "Lagerstroemia speciosa": 0.00586,
+    "Trema tomentosum": 0.00542,
+    "Eucalyptus globulus": 0.00418,
+    "Aquilaria malaccensis": 0.00371,
+    "Trema orientale": 0.00362,
+    "Eucalyptus robusta": 0.00351,
+    "Breynia androgyna": 0.00269,
+    "Syzygium jambos": 0.00234,
+    "Eucalyptus camaldulensis": 0.00176,
+    "Syzygium cumini": 0.00173,
+    "Globba marantina": 0.00167,
+    "Justicia adhatoda": 0.00155,
+    "Bauhinia variegata": 0.00154,
+    "Bauhinia purpurea": 0.00144,
+    "Saraca indica": 0.0014,
+    "Theobroma cacao": 0.00136,
+    "Guazuma ulmifolia": 0.00134,
+    "Brownea grandiceps": 0.00128,
+    "Grewia bicolor": 0.00109,
+    "Ficus retusa": 0.00108,
+    "Magnolia lanuginosa": 0.00104
+  }
+}

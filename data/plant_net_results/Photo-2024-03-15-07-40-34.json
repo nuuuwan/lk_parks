@@ -1,0 +1,22 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-40-34",
+  "species_name_to_score": {
+    "Samanea saman": 0.38518,
+    "Tipuana tipu": 0.1037,
+    "Albizia lebbeck": 0.05167,
+    "Robinia pseudoacacia": 0.01639,
+    "Pterocarpus indicus": 0.01469,
+    "Tamarindus indica": 0.00987,
+    "Cassia javanica": 0.00904,
+    "Adenanthera pavonina": 0.00589,
+    "Styphnolobium japonicum": 0.00395,
+    "Libidibia ferrea": 0.00274,
+    "Moringa oleifera": 0.002,
+    "Cassia grandis": 0.00197,
+    "Melia azedarach": 0.00173,
+    "Gleditsia triacanthos": 0.00151,
+    "Peltophorum pterocarpum": 0.00136,
+    "Juglans nigra": 0.001
+  }
+}

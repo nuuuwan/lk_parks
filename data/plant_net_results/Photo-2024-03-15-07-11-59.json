@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-11-59",
+  "species_name_to_score": {
+    "Casuarina equisetifolia": 0.42261,
+    "Tamarix gallica": 0.02008,
+    "Tamarix parviflora": 0.01419,
+    "Parkinsonia aculeata": 0.01308,
+    "Tamarix aphylla": 0.00503,
+    "Tamarix ramosissima": 0.00294,
+    "Casuarina glauca": 0.00267,
+    "Acacia retinodes": 0.00134
+  }
+}

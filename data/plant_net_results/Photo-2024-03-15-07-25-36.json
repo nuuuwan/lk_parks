@@ -1,0 +1,9 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-25-36",
+  "species_name_to_score": {
+    "Combretum indicum": 0.87335,
+    "Clerodendrum indicum": 0.00822,
+    "Holarrhena pubescens": 0.00132
+  }
+}

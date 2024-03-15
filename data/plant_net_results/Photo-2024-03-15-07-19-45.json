@@ -1,0 +1,21 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-19-45",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.37554,
+    "Syzygium cumini": 0.05079,
+    "Eucalyptus robusta": 0.02592,
+    "Mimusops elengi": 0.01418,
+    "Maytenus acuminata": 0.01201,
+    "Copaifera langsdorffii": 0.00685,
+    "Cinnamomum verum": 0.00587,
+    "Manilkara zapota": 0.00344,
+    "Erythroxylum coca": 0.00334,
+    "Syzygium jambos": 0.00239,
+    "Ficus retusa": 0.002,
+    "Senna corymbosa": 0.00149,
+    "Ficus maclellandii": 0.00139,
+    "Eugenia uniflora": 0.00113,
+    "Litchi chinensis": 0.00109
+  }
+}

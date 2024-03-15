@@ -1,0 +1,25 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-20-07",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.62127,
+    "Ficus maclellandii": 0.03025,
+    "Thysanolaena latifolia": 0.0213,
+    "Eucalyptus globulus": 0.00564,
+    "Muntingia calabura": 0.00478,
+    "Breynia androgyna": 0.00429,
+    "Monoon longifolium": 0.00427,
+    "Guazuma ulmifolia": 0.00362,
+    "Theobroma cacao": 0.00319,
+    "Amherstia nobilis": 0.00296,
+    "Diospyros blancoi": 0.00279,
+    "Averrhoa bilimbi": 0.00185,
+    "Averrhoa carambola": 0.00183,
+    "Eucalyptus camaldulensis": 0.00173,
+    "Dendrocalamus giganteus": 0.00164,
+    "Eucalyptus robusta": 0.00141,
+    "Azadirachta indica": 0.00134,
+    "Saraca indica": 0.00128,
+    "Syzygium jambos": 0.00119
+  }
+}

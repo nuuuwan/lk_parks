@@ -1,0 +1,21 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-15-07-06-42",
+  "species_name_to_score": {
+    "Madhuca longifolia": 0.0565,
+    "Alstonia macrophylla": 0.04915,
+    "Mangifera indica": 0.02072,
+    "Cerbera manghas": 0.01933,
+    "Cerbera odollam": 0.01457,
+    "Plumeria alba": 0.00921,
+    "Barringtonia acutangula": 0.00572,
+    "Plumeria rubra": 0.00555,
+    "Euphorbia leucocephala": 0.0051,
+    "Manilkara zapota": 0.0036,
+    "Crescentia cujete": 0.00217,
+    "Hevea brasiliensis": 0.00207,
+    "Aesculus indica": 0.00198,
+    "Croton persimilis": 0.00179,
+    "Ceiba speciosa": 0.00106
+  }
+}
