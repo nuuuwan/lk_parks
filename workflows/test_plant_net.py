@@ -1,9 +1,11 @@
-from lk_parks import PlantNetResult
-from utils import Log
 import os
+
 import cv2
 import numpy as np
 from PIL import Image, ImageEnhance
+from utils import Log
+
+from lk_parks import PlantNetResult
 
 log = Log('test_plant_net')
 
@@ -11,13 +13,14 @@ log = Log('test_plant_net')
 def increase_saturation(image_path):
     image = cv2.imread(image_path)
     image = cv2.cvtColor(image, cv2.COLOR_BGR2HSV)
-    image[:,:,1] = image[:,:,1]*2
-    image[:,:,1] = np.clip(image[:,:,1], 0, 255)
+    image[:, :, 1] = image[:, :, 1] * 2
+    image[:, :, 1] = np.clip(image[:, :, 1], 0, 255)
 
     image = cv2.cvtColor(image, cv2.COLOR_HSV2BGR)
     image_path = image_path.replace('.jpg', '.saturated.jpg')
     cv2.imwrite(image_path, image)
     log.info(f'Wrote {image_path}')
+
 
 def enhance(image_path, factor):
     im = Image.open(image_path)
@@ -26,6 +29,7 @@ def enhance(image_path, factor):
     image_path = image_path.replace('.jpg', f'.enhanced.{factor}.jpg')
     im2.save(image_path)
     log.info(f'Wrote {image_path}')
+
 
 def edge_detect(image_path):
     # Load the image from the file
@@ -49,8 +53,8 @@ def increase_contrast(image_path):
     img_yuv = cv2.cvtColor(image, cv2.COLOR_BGR2YUV)
 
     # Apply histogram equalization on the Y channel
-    clahe = cv2.createCLAHE(clipLimit=2.0, tileGridSize=(8,8))
-    img_yuv[:,:,0] = clahe.apply(img_yuv[:,:,0])
+    clahe = cv2.createCLAHE(clipLimit=2.0, tileGridSize=(8, 8))
+    img_yuv[:, :, 0] = clahe.apply(img_yuv[:, :, 0])
 
     # Convert the image back to RGB color space
     image = cv2.cvtColor(img_yuv, cv2.COLOR_YUV2BGR)
@@ -64,9 +68,7 @@ def increase_contrast(image_path):
 
 def sharpen(image_path):
     image = cv2.imread(image_path)
-    kernel = np.array([[0, -1, 0],
-                       [-1, 5,-1],
-                       [0, -1, 0]])
+    kernel = np.array([[0, -1, 0], [-1, 5, -1], [0, -1, 0]])
 
     sharpened = cv2.filter2D(image, -1, kernel)
 
@@ -74,13 +76,15 @@ def sharpen(image_path):
     cv2.imwrite(image_path, sharpened)
     log.info(f'Wrote {image_path}')
 
+
 def build_test_images():
     for image_id in ['resized']:
         image_path = os.path.join('data_test', f'{image_id}.jpg')
         log.debug(f'Building from {image_path}...')
         # enhance(image_path, 2)
         increase_saturation(image_path)
-        
+
+
 def main():
     for file_name in os.listdir('data_test'):
         if not file_name.endswith('.jpg'):
@@ -93,6 +97,7 @@ def main():
             species = result['species']['scientificNameWithoutAuthor']
             score = result['score']
             log.info(f'{species} ({score:.0%})')
+
 
 if __name__ == "__main__":
     build_test_images()

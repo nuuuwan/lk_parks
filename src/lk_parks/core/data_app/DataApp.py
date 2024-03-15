@@ -13,7 +13,7 @@ class DataApp:
     DIR_DATA_APP = 'data_app'
     EXT_PLANT_PHOTO_IDX_PATH = os.path.join(
         DIR_DATA_APP, 'ext_plant_photo_idx.json')
-   
+
     def ext_plant_photo_idx(self):
         plant_photo_list = PlantPhoto.list_all()
         idx = {}
