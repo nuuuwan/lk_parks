@@ -1,0 +1,24 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-16-07-18-13",
+  "species_name_to_score": {
+    "Schleichera oleosa": 0.06935,
+    "Terminalia catappa": 0.02564,
+    "Anacardium occidentale": 0.01985,
+    "Barringtonia asiatica": 0.00562,
+    "Couroupita guianensis": 0.00487,
+    "Crescentia cujete": 0.0048,
+    "Careya arborea": 0.00339,
+    "Petrea volubilis": 0.00241,
+    "Cupaniopsis anacardioides": 0.00234,
+    "Barringtonia acutangula": 0.00201,
+    "Samanea saman": 0.0017,
+    "Ceratonia siliqua": 0.0013,
+    "Calliandra tweediei": 0.0013,
+    "Theobroma cacao": 0.00118,
+    "Afzelia africana": 0.00115,
+    "Spathodea campanulata": 0.00104,
+    "Strychnos nux-vomica": 0.00102,
+    "Tamarindus indica": 0.00101
+  }
+}

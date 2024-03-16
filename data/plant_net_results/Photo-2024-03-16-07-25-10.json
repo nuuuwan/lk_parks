@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-16-07-25-10",
+  "species_name_to_score": {
+    "Casuarina equisetifolia": 0.3183,
+    "Pinus roxburghii": 0.01087,
+    "Pinus wallichiana": 0.00602,
+    "Tamarix aphylla": 0.0049,
+    "Casuarina glauca": 0.0042,
+    "Genista aetnensis": 0.00201,
+    "Parkinsonia aculeata": 0.00127,
+    "Pinus bhutanica": 0.00105
+  }
+}

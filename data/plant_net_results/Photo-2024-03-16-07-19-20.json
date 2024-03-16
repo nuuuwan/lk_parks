@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-16-07-19-20",
+  "species_name_to_score": {
+    "Lagerstroemia speciosa": 0.01401,
+    "Citharexylum spinosum": 0.01306,
+    "Tectona grandis": 0.00658,
+    "Juglans regia": 0.00632,
+    "Neolamarckia cadamba": 0.00458,
+    "Pterygota alata": 0.00419,
+    "Cordia dichotoma": 0.00262,
+    "Persea americana": 0.00262,
+    "Cordia sebestena": 0.00244,
+    "Diospyros kaki": 0.0022,
+    "Nephelium lappaceum": 0.00176,
+    "Tecoma stans": 0.0017,
+    "Baccaurea ramiflora": 0.00169,
+    "Broussonetia papyrifera": 0.00157,
+    "Morus alba": 0.00155,
+    "Cinnamomum parthenoxylon": 0.00151,
+    "Morus indica": 0.0015,
+    "Hevea brasiliensis": 0.00142,
+    "Vitex pinnata": 0.00141,
+    "Pongamia pinnata": 0.00122,
+    "Hovenia dulcis": 0.00101
+  }
+}

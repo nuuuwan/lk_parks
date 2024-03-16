@@ -1,0 +1,31 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-16-07-31-33",
+  "species_name_to_score": {
+    "Tipuana tipu": 0.39196,
+    "Pterocarpus indicus": 0.11826,
+    "Styphnolobium japonicum": 0.04873,
+    "Robinia pseudoacacia": 0.0149,
+    "Terminalia arjuna": 0.01111,
+    "Samanea saman": 0.00839,
+    "Cedrela odorata": 0.00793,
+    "Tamarindus indica": 0.00478,
+    "Azadirachta indica": 0.00462,
+    "Senna siamea": 0.00419,
+    "Albizia lebbeck": 0.00417,
+    "Eucalyptus globulus": 0.00402,
+    "Libidibia ferrea": 0.00346,
+    "Pithecellobium dulce": 0.00228,
+    "Khaya senegalensis": 0.00215,
+    "Eucalyptus robusta": 0.00215,
+    "Prosopis cineraria": 0.00208,
+    "Toona ciliata": 0.00187,
+    "Ceiba pentandra": 0.00171,
+    "Ficus religiosa": 0.00166,
+    "Swietenia macrophylla": 0.00155,
+    "Melia azedarach": 0.00138,
+    "Swietenia mahagoni": 0.00117,
+    "Erythrina crista-galli": 0.00105,
+    "Senna occidentalis": 0.00101
+  }
+}

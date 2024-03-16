@@ -1,0 +1,10 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-16-07-24-46",
+  "species_name_to_score": {
+    "Plumeria rubra": 0.55494,
+    "Plumeria alba": 0.34334,
+    "Dillenia indica": 0.00529,
+    "Cerbera manghas": 0.00321
+  }
+}

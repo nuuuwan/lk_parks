@@ -1,0 +1,8 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-16-07-19-27",
+  "species_name_to_score": {
+    "Swietenia mahagoni": 0.00591,
+    "Swietenia macrophylla": 0.00108
+  }
+}
