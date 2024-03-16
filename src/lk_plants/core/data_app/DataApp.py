@@ -2,9 +2,9 @@ import os
 
 from utils import JSONFile, Log
 
-from lk_parks.core.plant_net.PlantNetResult import PlantNetResult
-from lk_parks.core.plant_photo.PlantPhoto import PlantPhoto
-from lk_parks.core.taxonomy.Species import Species
+from lk_plants.core.plant_net.PlantNetResult import PlantNetResult
+from lk_plants.core.plant_photo.PlantPhoto import PlantPhoto
+from lk_plants.core.taxonomy.Species import Species
 
 log = Log('DataApp')
 

@@ -1,6 +1,6 @@
 import os
 
-from lk_parks.core.taxonomy.Taxon import Taxon
+from lk_plants.core.taxonomy.Taxon import Taxon
 
 
 class Family(Taxon):

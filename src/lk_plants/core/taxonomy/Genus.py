@@ -1,8 +1,8 @@
 import os
 from dataclasses import dataclass
 
-from lk_parks.core.taxonomy.Family import Family
-from lk_parks.core.taxonomy.Taxon import Taxon
+from lk_plants.core.taxonomy.Family import Family
+from lk_plants.core.taxonomy.Taxon import Taxon
 
 
 @dataclass
