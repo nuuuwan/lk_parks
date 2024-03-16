@@ -1,4 +1,4 @@
-from lk_parks import DataApp, PlantNetResult, PlantPhoto
+from lk_plants import DataApp, PlantNetResult, PlantPhoto
 
 
 def main():

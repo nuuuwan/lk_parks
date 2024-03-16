@@ -1,4 +1,4 @@
-from lk_parks import NameTranslator
+from lk_plants import NameTranslator
 
 TEST_SCIENTIFIC_NAMES = [
     'Terminalia arjuna',
