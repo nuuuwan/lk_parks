@@ -1,0 +1,33 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-17-34",
+  "species_name_to_score": {
+    "Cedrela odorata": 0.24966,
+    "Swietenia macrophylla": 0.01553,
+    "Eucalyptus robusta": 0.01311,
+    "Cinnamomum camphora": 0.01007,
+    "Populus deltoides": 0.00951,
+    "Spondias mombin": 0.00523,
+    "Robinia pseudoacacia": 0.00505,
+    "Tipuana tipu": 0.00466,
+    "Swietenia mahagoni": 0.00429,
+    "Shorea roxburghii": 0.00397,
+    "Eucalyptus botryoides": 0.00384,
+    "Hopea odorata": 0.00384,
+    "Melia azedarach": 0.00335,
+    "Mimusops elengi": 0.00269,
+    "Bombax ceiba": 0.00207,
+    "Styphnolobium japonicum": 0.00202,
+    "Grevillea robusta": 0.002,
+    "Triadica sebifera": 0.00195,
+    "Diospyros melanoxylon": 0.00178,
+    "Samanea saman": 0.00159,
+    "Hovenia dulcis": 0.00154,
+    "Persea americana": 0.00152,
+    "Ceiba pentandra": 0.00133,
+    "Moringa oleifera": 0.0013,
+    "Acacia melanoxylon": 0.00115,
+    "Choerospondias axillaris": 0.00102,
+    "Acacia auriculiformis": 0.001
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-11-55",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.77679,
+    "Muntingia calabura": 0.01536,
+    "Monoon longifolium": 0.01105,
+    "Cedrela odorata": 0.00527,
+    "Ficus maclellandii": 0.00471,
+    "Trema tomentosum": 0.00459,
+    "Brownea grandiceps": 0.00378,
+    "Saraca indica": 0.00326,
+    "Cinnamomum verum": 0.00239,
+    "Averrhoa bilimbi": 0.00198,
+    "Eucalyptus robusta": 0.00188,
+    "Garcinia xanthochymus": 0.00176,
+    "Toxicodendron succedaneum": 0.0014,
+    "Hopea odorata": 0.00139,
+    "Amherstia nobilis": 0.00135,
+    "Samadera indica": 0.00105,
+    "Flacourtia jangomas": 0.00103
+  }
+}

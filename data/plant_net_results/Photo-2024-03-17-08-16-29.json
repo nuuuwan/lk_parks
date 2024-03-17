@@ -1,0 +1,25 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-16-29",
+  "species_name_to_score": {
+    "Cinnamomum verum": 0.37356,
+    "Strychnos nux-vomica": 0.29426,
+    "Ziziphus mauritiana": 0.03587,
+    "Ficus benghalensis": 0.03242,
+    "Cocculus laurifolius": 0.00784,
+    "Ficus religiosa": 0.00758,
+    "Ficus altissima": 0.00634,
+    "Syzygium cumini": 0.0037,
+    "Psidium cattleyanum": 0.00291,
+    "Hymenaea courbaril": 0.00286,
+    "Eugenia uniflora": 0.00239,
+    "Ficus racemosa": 0.00178,
+    "Cordia dichotoma": 0.00174,
+    "Lagerstroemia speciosa": 0.00154,
+    "Camellia japonica": 0.00142,
+    "Copaifera langsdorffii": 0.00131,
+    "Cinnamomum camphora": 0.00127,
+    "Ficus elastica": 0.00111,
+    "Flacourtia jangomas": 0.00106
+  }
+}

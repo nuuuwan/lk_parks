@@ -1,0 +1,30 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-00-51",
+  "species_name_to_score": {
+    "Annona muricata": 0.04761,
+    "Artabotrys hexapetalus": 0.02312,
+    "Diospyros malabarica": 0.01296,
+    "Bolusanthus speciosus": 0.01277,
+    "Cocculus orbiculatus": 0.01162,
+    "Pterocarpus indicus": 0.01051,
+    "Galactia striata": 0.01026,
+    "Platymiscium pinnatum": 0.00764,
+    "Strongylodon macrobotrys": 0.00677,
+    "Osmanthus fragrans": 0.00662,
+    "Bignonia magnifica": 0.00292,
+    "Annona glabra": 0.00289,
+    "Litchi chinensis": 0.00256,
+    "Cocculus laurifolius": 0.00241,
+    "Antidesma bunius": 0.00219,
+    "Mucuna sempervirens": 0.00191,
+    "Ficus maclellandii": 0.00191,
+    "Maclura cochinchinensis": 0.00149,
+    "Afzelia africana": 0.00146,
+    "Citharexylum spinosum": 0.00127,
+    "Hymenaea courbaril": 0.00126,
+    "Ligustrum compactum": 0.00123,
+    "Canavalia rosea": 0.00117,
+    "Eugenia uniflora": 0.00113
+  }
+}

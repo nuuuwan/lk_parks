@@ -1,0 +1,31 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-01-03",
+  "species_name_to_score": {
+    "Khaya senegalensis": 0.10538,
+    "Syzygium cumini": 0.05747,
+    "Santalum album": 0.02078,
+    "Swietenia mahagoni": 0.01569,
+    "Spondias mombin": 0.01041,
+    "Carallia brachiata": 0.00757,
+    "Strychnos nux-vomica": 0.00696,
+    "Terminalia arjuna": 0.00669,
+    "Cinnamomum verum": 0.0047,
+    "Swietenia macrophylla": 0.00413,
+    "Calophyllum inophyllum": 0.00353,
+    "Dimocarpus longan": 0.00346,
+    "Cupaniopsis anacardioides": 0.00333,
+    "Psidium cattleyanum": 0.00323,
+    "Phytolacca dioica": 0.00247,
+    "Ficus altissima": 0.0024,
+    "Lysidice rhodostegia": 0.00239,
+    "Bischofia javanica": 0.00212,
+    "Copaifera langsdorffii": 0.00208,
+    "Cocculus laurifolius": 0.00201,
+    "Viburnum odoratissimum": 0.00197,
+    "Staphylea cochinchinensis": 0.00174,
+    "Artocarpus heterophyllus": 0.00145,
+    "Ceratonia siliqua": 0.0011,
+    "Spathodea campanulata": 0.00107
+  }
+}

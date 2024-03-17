@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-12-14",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.78742,
+    "Guazuma ulmifolia": 0.0197,
+    "Ficus maclellandii": 0.01059,
+    "Monoon longifolium": 0.00219,
+    "Syzygium cumini": 0.00217,
+    "Muntingia calabura": 0.00146,
+    "Eucalyptus robusta": 0.00141,
+    "Azadirachta indica": 0.00106
+  }
+}

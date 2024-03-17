@@ -1,0 +1,30 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-15-52",
+  "species_name_to_score": {
+    "Phytolacca dioica": 0.10665,
+    "Mimusops elengi": 0.08385,
+    "Annona reticulata": 0.04461,
+    "Syzygium cumini": 0.02169,
+    "Annona glabra": 0.01405,
+    "Elaeocarpus serratus": 0.01054,
+    "Maclura cochinchinensis": 0.00626,
+    "Juglans regia": 0.00534,
+    "Annona muricata": 0.00477,
+    "Quercus acutissima": 0.00472,
+    "Toona ciliata": 0.00393,
+    "Santalum album": 0.00377,
+    "Khaya senegalensis": 0.00288,
+    "Ficus virens": 0.002,
+    "Cinnamomum camphora": 0.00194,
+    "Erythrina crista-galli": 0.00181,
+    "Shorea roxburghii": 0.00167,
+    "Myristica fragrans": 0.00164,
+    "Psidium guajava": 0.00149,
+    "Elaeagnus umbellata": 0.00125,
+    "Dipterocarpus alatus": 0.00123,
+    "Litsea monopetala": 0.00109,
+    "Lagerstroemia speciosa": 0.00106,
+    "Flacourtia montana": 0.00104
+  }
+}

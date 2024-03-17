@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-13-06",
+  "species_name_to_score": {
+    "Heritiera littoralis": 0.38425,
+    "Ficus benghalensis": 0.06737,
+    "Ficus racemosa": 0.06063,
+    "Terminalia catappa": 0.00751,
+    "Ficus altissima": 0.00597,
+    "Ficus callosa": 0.00373,
+    "Diospyros melanoxylon": 0.00352,
+    "Erythrina fusca": 0.00175,
+    "Ficus virens": 0.00158,
+    "Madhuca longifolia": 0.0014,
+    "Terminalia chebula": 0.00138,
+    "Calotropis gigantea": 0.00124,
+    "Ficus elastica": 0.00104
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-31-45",
+  "species_name_to_score": {
+    "Tithonia diversifolia": 0.38274,
+    "Tithonia rotundifolia": 0.02269,
+    "Broussonetia papyrifera": 0.007,
+    "Bocconia frutescens": 0.00345,
+    "Montanoa bipinnatifida": 0.00237,
+    "Brassaiopsis mitis": 0.00211,
+    "Carica papaya": 0.00162,
+    "Morus indica": 0.00161,
+    "Gyrocarpus americanus": 0.00128,
+    "Urena lobata": 0.00115,
+    "Rudbeckia laciniata": 0.00114
+  }
+}

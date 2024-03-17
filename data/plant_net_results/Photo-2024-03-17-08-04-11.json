@@ -1,0 +1,13 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-04-11",
+  "species_name_to_score": {
+    "Melaleuca viminalis": 0.01113,
+    "Chamaecytisus prolifer": 0.00919,
+    "Podocarpus neriifolius": 0.00917,
+    "Acacia confusa": 0.00537,
+    "Olea europaea": 0.00251,
+    "Hippophae salicifolia": 0.00207,
+    "Asparagus falcatus": 0.00117
+  }
+}

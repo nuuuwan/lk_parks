@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-11-18",
+  "species_name_to_score": {
+    "Peltophorum pterocarpum": 0.08016,
+    "Jacaranda mimosifolia": 0.05237,
+    "Peltophorum dubium": 0.03436,
+    "Cassia grandis": 0.01479,
+    "Libidibia coriaria": 0.01319,
+    "Peltophorum africanum": 0.01145,
+    "Delonix regia": 0.00911,
+    "Albizia julibrissin": 0.00647,
+    "Schizolobium parahyba": 0.00636,
+    "Canarium bengalense": 0.0032,
+    "Juglans nigra": 0.00286,
+    "Toona ciliata": 0.00229,
+    "Libidibia ferrea": 0.00229,
+    "Ailanthus altissima": 0.00213,
+    "Phyllanthus emblica": 0.00203,
+    "Falcataria falcata": 0.00183,
+    "Tamarindus indica": 0.00164,
+    "Albizia niopoides": 0.00152,
+    "Filicium decipiens": 0.00124,
+    "Acacia dealbata": 0.00114,
+    "Cedrela odorata": 0.00104
+  }
+}

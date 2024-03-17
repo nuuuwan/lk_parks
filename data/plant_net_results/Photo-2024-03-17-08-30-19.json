@@ -1,0 +1,22 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-30-19",
+  "species_name_to_score": {
+    "Nephrolepis biserrata": 0.28055,
+    "Nephrolepis cordifolia": 0.04731,
+    "Nephrolepis exaltata": 0.00754,
+    "Adiantum pedatum": 0.00683,
+    "Averrhoa bilimbi": 0.00574,
+    "Nephrolepis brownii": 0.00428,
+    "Blechnum spinulosum": 0.00366,
+    "Polystichum lonchitis": 0.00303,
+    "Rhynchoglossum obliquum": 0.00243,
+    "Dryopteris wallichiana": 0.00234,
+    "Schizolobium parahyba": 0.0019,
+    "Nymphaea nouchali": 0.00147,
+    "Adiantum edgeworthii": 0.00139,
+    "Annona reticulata": 0.00131,
+    "Pteris tripartita": 0.00117,
+    "Asplenium formosum": 0.00114
+  }
+}

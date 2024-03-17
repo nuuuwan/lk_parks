@@ -1,0 +1,23 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-30-15",
+  "species_name_to_score": {
+    "Terminalia arjuna": 0.2552,
+    "Syzygium caryophyllatum": 0.01194,
+    "Calophyllum inophyllum": 0.00677,
+    "Panicum repens": 0.0052,
+    "Avicennia marina": 0.00459,
+    "Carissa carandas": 0.00335,
+    "Aegiceras corniculatum": 0.00329,
+    "Syzygium cumini": 0.00313,
+    "Ficus callosa": 0.00281,
+    "Syzygium jambos": 0.0028,
+    "Cupaniopsis anacardioides": 0.00182,
+    "Sonneratia caseolaris": 0.00165,
+    "Xylocarpus granatum": 0.00141,
+    "Syzygium samarangense": 0.00139,
+    "Calophyllum calaba": 0.00124,
+    "Mimosa pigra": 0.00114,
+    "Psidium guajava": 0.00109
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-04-45",
+  "species_name_to_score": {
+    "Podocarpus neriifolius": 0.01705,
+    "Cascabela thevetia": 0.01578,
+    "Melaleuca viminalis": 0.01126,
+    "Acacia retinodes": 0.00119,
+    "Salix rosmarinifolia": 0.00113
+  }
+}

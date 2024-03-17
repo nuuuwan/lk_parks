@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-32-22",
+  "species_name_to_score": {
+    "Acacia acinacea": 0.0296,
+    "Lonicera ligustrina": 0.00912,
+    "Ehretia microphylla": 0.00715,
+    "Crescentia cujete": 0.00189,
+    "Pyracantha crenulata": 0.00174,
+    "Ipomoea obscura": 0.00169,
+    "Phyllanthus emblica": 0.00168,
+    "Myrsine africana": 0.00166,
+    "Buxus sempervirens": 0.00164,
+    "Nephrolepis cordifolia": 0.00151,
+    "Parkinsonia aculeata": 0.00121,
+    "Dalbergia melanoxylon": 0.00104,
+    "Malpighia coccigera": 0.001
+  }
+}

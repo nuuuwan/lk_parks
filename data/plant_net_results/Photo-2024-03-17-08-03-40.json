@@ -1,0 +1,13 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-03-40",
+  "species_name_to_score": {
+    "Podocarpus neriifolius": 0.15253,
+    "Acacia confusa": 0.00454,
+    "Melaleuca viminalis": 0.00435,
+    "Cascabela thevetia": 0.00271,
+    "Salix viminalis": 0.00231,
+    "Acacia retinodes": 0.00118,
+    "Acacia melanoxylon": 0.00112
+  }
+}

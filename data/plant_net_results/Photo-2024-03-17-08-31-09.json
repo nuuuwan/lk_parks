@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-31-09",
+  "species_name_to_score": {
+    "Terminalia arjuna": 0.68189,
+    "Syzygium cumini": 0.00227,
+    "Syzygium jambos": 0.0021,
+    "Lagerstroemia speciosa": 0.0021,
+    "Annona reticulata": 0.00191,
+    "Acacia auriculiformis": 0.00184,
+    "Crescentia cujete": 0.00182,
+    "Salix viminalis": 0.00166,
+    "Putranjiva roxburghii": 0.00149,
+    "Cedrela odorata": 0.00148,
+    "Woodfordia fruticosa": 0.00141,
+    "Sapindus saponaria": 0.00109,
+    "Salix babylonica": 0.00106
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-15-56",
+  "species_name_to_score": {
+    "Santalum album": 0.04238,
+    "Ximenia americana": 0.02376,
+    "Myristica fragrans": 0.02277,
+    "Passiflora laurifolia": 0.02075,
+    "Osmanthus fragrans": 0.01024,
+    "Viburnum odoratissimum": 0.00878,
+    "Cinnamomum camphora": 0.00685,
+    "Acer oblongum": 0.00584,
+    "Suregada multiflora": 0.00472,
+    "Syzygium laetum": 0.00442,
+    "Cinnamomum verum": 0.00438,
+    "Khaya senegalensis": 0.00363,
+    "Citrus aurantiifolia": 0.00293,
+    "Memecylon umbellatum": 0.00289,
+    "Phytolacca dioica": 0.00272,
+    "Annona glabra": 0.00267,
+    "Urceola rosea": 0.00246,
+    "Maclura cochinchinensis": 0.00224,
+    "Annona reticulata": 0.00222,
+    "Loeseneriella africana": 0.00188,
+    "Acronychia pedunculata": 0.00176,
+    "Erythrina crista-galli": 0.00175,
+    "Annona muricata": 0.00163,
+    "Vanda tessellata": 0.00144,
+    "Shorea roxburghii": 0.00136,
+    "Camellia sinensis": 0.00112
+  }
+}

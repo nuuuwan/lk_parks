@@ -1,0 +1,18 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-13-27",
+  "species_name_to_score": {
+    "Cocos nucifera": 0.03902,
+    "Schizolobium parahyba": 0.01987,
+    "Elaeocarpus angustifolius": 0.01402,
+    "Ceiba pentandra": 0.00636,
+    "Zapoteca portoricensis": 0.00219,
+    "Couroupita guianensis": 0.00197,
+    "Caryota obtusa": 0.00191,
+    "Limnophila rugosa": 0.00144,
+    "Grevillea robusta": 0.00129,
+    "Cassia grandis": 0.00128,
+    "Peltophorum dubium": 0.00121,
+    "Myriophyllum spicatum": 0.00117
+  }
+}

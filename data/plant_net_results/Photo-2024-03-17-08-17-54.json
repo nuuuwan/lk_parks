@@ -1,0 +1,17 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-17-54",
+  "species_name_to_score": {
+    "Peltophorum pterocarpum": 0.43036,
+    "Peltophorum dubium": 0.08572,
+    "Peltophorum africanum": 0.07892,
+    "Jacaranda mimosifolia": 0.05184,
+    "Libidibia coriaria": 0.04173,
+    "Biancaea sappan": 0.01434,
+    "Cassia grandis": 0.00408,
+    "Schizolobium parahyba": 0.0034,
+    "Cassia javanica": 0.00271,
+    "Delonix regia": 0.00266,
+    "Falcataria falcata": 0.00145
+  }
+}

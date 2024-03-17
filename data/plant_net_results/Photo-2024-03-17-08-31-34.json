@@ -1,0 +1,25 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-31-34",
+  "species_name_to_score": {
+    "Lagerstroemia speciosa": 0.03278,
+    "Terminalia arjuna": 0.02499,
+    "Juglans regia": 0.00811,
+    "Platanus orientalis": 0.00561,
+    "Neolamarckia cadamba": 0.00518,
+    "Magnolia champaca": 0.00504,
+    "Acer negundo": 0.00476,
+    "Ceiba pentandra": 0.00324,
+    "Psidium guajava": 0.00256,
+    "Lagerstroemia indica": 0.00184,
+    "Styrax japonicus": 0.00158,
+    "Gleditsia sinensis": 0.00145,
+    "Microcos paniculata": 0.00138,
+    "Ficus racemosa": 0.00132,
+    "Quercus serrata": 0.00112,
+    "Annona squamosa": 0.00106,
+    "Citharexylum spinosum": 0.00104,
+    "Euphorbia cristata": 0.00101,
+    "Ceiba speciosa": 0.00101
+  }
+}

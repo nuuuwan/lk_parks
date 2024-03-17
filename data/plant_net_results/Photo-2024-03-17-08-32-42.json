@@ -1,0 +1,20 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-32-42",
+  "species_name_to_score": {
+    "Lonicera ligustrina": 0.05038,
+    "Acacia acinacea": 0.01059,
+    "Myrsine africana": 0.00905,
+    "Flueggea leucopyrus": 0.00623,
+    "Cotoneaster microphyllus": 0.00482,
+    "Cotoneaster integrifolius": 0.0045,
+    "Ehretia microphylla": 0.00437,
+    "Malpighia coccigera": 0.00412,
+    "Lawsonia inermis": 0.00197,
+    "Buxus sempervirens": 0.00144,
+    "Catunaregam spinosa": 0.00136,
+    "Ilex crenata": 0.00132,
+    "Artemisia scoparia": 0.0013,
+    "Cotoneaster affinis": 0.0012
+  }
+}

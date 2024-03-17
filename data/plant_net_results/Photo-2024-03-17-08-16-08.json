@@ -1,0 +1,24 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-16-08",
+  "species_name_to_score": {
+    "Filicium decipiens": 0.46182,
+    "Peltophorum africanum": 0.0172,
+    "Peltophorum dubium": 0.01552,
+    "Acacia mearnsii": 0.00794,
+    "Senna siamea": 0.00564,
+    "Grevillea robusta": 0.00547,
+    "Colvillea racemosa": 0.00379,
+    "Peltophorum pterocarpum": 0.00248,
+    "Brownea grandiceps": 0.00182,
+    "Senna multijuga": 0.00167,
+    "Acacia elata": 0.00153,
+    "Dendrocalamus giganteus": 0.00132,
+    "Leucaena leucocephala": 0.00131,
+    "Prosopis glandulosa": 0.0012,
+    "Ailanthus triphysa": 0.00119,
+    "Cassia grandis": 0.00115,
+    "Swietenia macrophylla": 0.00104,
+    "Azadirachta indica": 0.00102
+  }
+}

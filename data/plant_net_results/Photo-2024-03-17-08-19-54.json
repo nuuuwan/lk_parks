@@ -1,0 +1,15 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-19-54",
+  "species_name_to_score": {
+    "Syzygium cumini": 0.82766,
+    "Ficus tinctoria": 0.0099,
+    "Ficus racemosa": 0.00398,
+    "Strychnos nux-vomica": 0.00253,
+    "Psidium cattleyanum": 0.00223,
+    "Ficus virens": 0.00163,
+    "Annona glabra": 0.00162,
+    "Syzygium cymosum": 0.00149,
+    "Flacourtia jangomas": 0.00136
+  }
+}

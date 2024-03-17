@@ -1,0 +1,24 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-19-05",
+  "species_name_to_score": {
+    "Viburnum odoratissimum": 0.00956,
+    "Malpighia glabra": 0.0087,
+    "Elaeagnus umbellata": 0.00609,
+    "Eugenia uniflora": 0.00469,
+    "Ardisia crenata": 0.00411,
+    "Psidium cattleyanum": 0.0039,
+    "Harpullia arborea": 0.00358,
+    "Syzygium malaccense": 0.00295,
+    "Flacourtia jangomas": 0.00272,
+    "Antidesma bunius": 0.0021,
+    "Flacourtia montana": 0.002,
+    "Aglaia elaeagnoidea": 0.00188,
+    "Ochna integerrima": 0.00159,
+    "Carissa carandas": 0.00156,
+    "Chaenomeles speciosa": 0.00154,
+    "Myristica fragrans": 0.00145,
+    "Antidesma montanum": 0.00138,
+    "Ixora chinensis": 0.00116
+  }
+}

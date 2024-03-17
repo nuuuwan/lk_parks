@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-02-15",
+  "species_name_to_score": {
+    "Podocarpus neriifolius": 0.03526,
+    "Dodonaea viscosa": 0.0026,
+    "Searsia lancea": 0.00235,
+    "Syzygium jambos": 0.00202,
+    "Pyrrosia lanceolata": 0.00155,
+    "Haplopteris ensiformis": 0.00148,
+    "Melaleuca viminalis": 0.00129,
+    "Acacia retinodes": 0.00111,
+    "Olea europaea": 0.00105,
+    "Cascabela thevetia": 0.00101
+  }
+}

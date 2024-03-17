@@ -1,0 +1,13 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-32-05",
+  "species_name_to_score": {
+    "Nerium oleander": 0.66366,
+    "Salix viminalis": 0.07695,
+    "Cascabela thevetia": 0.03047,
+    "Gomphocarpus physocarpus": 0.01251,
+    "Gomphocarpus fruticosus": 0.011,
+    "Cestrum parqui": 0.00196,
+    "Salix alba": 0.00113
+  }
+}

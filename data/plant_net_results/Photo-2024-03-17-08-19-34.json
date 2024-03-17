@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-19-34",
+  "species_name_to_score": {
+    "Ochna integerrima": 0.0422,
+    "Citrus aurantiifolia": 0.0258,
+    "Camellia sinensis": 0.01817,
+    "Ixora chinensis": 0.01229,
+    "Citrus medica": 0.01172,
+    "Camellia sasanqua": 0.01104,
+    "Osmanthus fragrans": 0.00617,
+    "Citrus japonica": 0.00483,
+    "Citrus limon": 0.0042,
+    "Citrus hystrix": 0.00416,
+    "Ixora coccinea": 0.0034,
+    "Citrus aurantium": 0.00294,
+    "Chaenomeles speciosa": 0.00259,
+    "Streblus asper": 0.00224,
+    "Citrus maxima": 0.00192,
+    "Solanum diphyllum": 0.00152,
+    "Myristica fragrans": 0.00134,
+    "Acmella uliginosa": 0.00115,
+    "Malpighia glabra": 0.00108,
+    "Annona muricata": 0.00108,
+    "Ilex crenata": 0.00107
+  }
+}

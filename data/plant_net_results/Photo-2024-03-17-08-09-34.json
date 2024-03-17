@@ -1,0 +1,30 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-09-34",
+  "species_name_to_score": {
+    "Khaya senegalensis": 0.11774,
+    "Myristica fragrans": 0.02225,
+    "Santalum album": 0.02163,
+    "Syzygium cumini": 0.01188,
+    "Annona glabra": 0.00782,
+    "Citrus aurantiifolia": 0.00404,
+    "Diospyros melanoxylon": 0.00287,
+    "Terminalia chebula": 0.00254,
+    "Juglans regia": 0.00247,
+    "Diospyros sylvatica": 0.00241,
+    "Diospyros nigra": 0.00197,
+    "Diospyros lotus": 0.00178,
+    "Lagerstroemia speciosa": 0.00168,
+    "Annona muricata": 0.00168,
+    "Terminalia arjuna": 0.0015,
+    "Psidium cattleyanum": 0.00139,
+    "Ximenia americana": 0.00129,
+    "Chionanthus mala-elengi": 0.00124,
+    "Combretum latifolium": 0.00118,
+    "Annona reticulata": 0.00117,
+    "Diospyros chloroxylon": 0.00116,
+    "Bridelia tomentosa": 0.00114,
+    "Toona ciliata": 0.00113,
+    "Ziziphus jujuba": 0.00107
+  }
+}

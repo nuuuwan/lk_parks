@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-18-22",
+  "species_name_to_score": {
+    "Jacaranda mimosifolia": 0.19515,
+    "Peltophorum pterocarpum": 0.15081,
+    "Delonix regia": 0.05615,
+    "Peltophorum dubium": 0.03187,
+    "Peltophorum africanum": 0.01253,
+    "Schizolobium parahyba": 0.01163,
+    "Senna spectabilis": 0.00636,
+    "Libidibia coriaria": 0.00633,
+    "Albizia procera": 0.00424,
+    "Senna multijuga": 0.00399,
+    "Biancaea sappan": 0.00343,
+    "Tipuana tipu": 0.00294,
+    "Leucaena leucocephala": 0.00265,
+    "Ailanthus altissima": 0.00257,
+    "Albizia niopoides": 0.00231,
+    "Falcataria falcata": 0.00229,
+    "Toona ciliata": 0.00205,
+    "Libidibia ferrea": 0.00199,
+    "Albizia julibrissin": 0.0014,
+    "Radermachera sinica": 0.0014,
+    "Azadirachta indica": 0.00119
+  }
+}

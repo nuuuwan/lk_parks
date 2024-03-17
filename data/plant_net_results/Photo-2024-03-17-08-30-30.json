@@ -1,0 +1,26 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-30-30",
+  "species_name_to_score": {
+    "Terminalia arjuna": 0.05816,
+    "Eclipta prostrata": 0.00695,
+    "Alternanthera philoxeroides": 0.00694,
+    "Syzygium jambos": 0.00599,
+    "Alternanthera sessilis": 0.00414,
+    "Punica granatum": 0.00312,
+    "Asclepias curassavica": 0.00272,
+    "Madhuca longifolia": 0.00233,
+    "Persicaria amphibia": 0.00225,
+    "Dodonaea viscosa": 0.00199,
+    "Vigna vexillata": 0.00191,
+    "Abelmoschus esculentus": 0.00182,
+    "Nerium oleander": 0.00182,
+    "Ruellia simplex": 0.00178,
+    "Olea europaea": 0.00153,
+    "Calliandra surinamensis": 0.00146,
+    "Corchorus tridens": 0.00133,
+    "Calliandra tweediei": 0.00112,
+    "Curcuma zanthorrhiza": 0.00103,
+    "Sigesbeckia orientalis": 0.00101
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-29-36",
+  "species_name_to_score": {
+    "Acacia auriculiformis": 0.52051,
+    "Salix babylonica": 0.05138,
+    "Salix alba": 0.01938,
+    "Erythrina crista-galli": 0.00472,
+    "Salix viminalis": 0.00306,
+    "Cedrela odorata": 0.00255,
+    "Acacia melanoxylon": 0.00168,
+    "Mangifera indica": 0.00161,
+    "Azadirachta indica": 0.0014,
+    "Elaeagnus angustifolia": 0.00134,
+    "Acacia confusa": 0.00116,
+    "Ceiba pentandra": 0.00114,
+    "Styphnolobium japonicum": 0.00114,
+    "Eucalyptus robusta": 0.00114,
+    "Eucalyptus globulus": 0.00111
+  }
+}

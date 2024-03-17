@@ -1,0 +1,12 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-08-12",
+  "species_name_to_score": {
+    "Corypha umbraculifera": 0.0055,
+    "Livistona speciosa": 0.00475,
+    "Livistona jenkinsiana": 0.00465,
+    "Livistona chinensis": 0.00405,
+    "Borassus flabellifer": 0.00317,
+    "Trachycarpus martianus": 0.00245
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-20-15",
+  "species_name_to_score": {
+    "Brownea grandiceps": 0.39644,
+    "Saraca indica": 0.32091,
+    "Saraca asoca": 0.06084,
+    "Mesua ferrea": 0.0309,
+    "Brownea rosa-de-monte": 0.01691,
+    "Amherstia nobilis": 0.00442,
+    "Calliandra haematocephala": 0.00322,
+    "Harpullia arborea": 0.00319,
+    "Diospyros blancoi": 0.00267,
+    "Toona ciliata": 0.0025,
+    "Harpullia cupanioides": 0.00197,
+    "Spathodea campanulata": 0.00182,
+    "Garcinia lanceifolia": 0.00163,
+    "Calliandra surinamensis": 0.00162,
+    "Muntingia calabura": 0.00139,
+    "Flacourtia rukam": 0.00112,
+    "Sapindus saponaria": 0.00109,
+    "Theobroma cacao": 0.00106
+  }
+}

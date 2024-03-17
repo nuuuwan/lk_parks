@@ -1,0 +1,18 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-02-25",
+  "species_name_to_score": {
+    "Melaleuca viminalis": 0.03254,
+    "Podocarpus neriifolius": 0.01331,
+    "Acacia melanoxylon": 0.00598,
+    "Syzygium jambos": 0.00308,
+    "Acacia confusa": 0.00302,
+    "Rhododendron arboreum": 0.00218,
+    "Salix viminalis": 0.00138,
+    "Olea europaea": 0.00111,
+    "Melaleuca citrina": 0.00109,
+    "Cascabela thevetia": 0.00107,
+    "Ammannia baccifera": 0.00104,
+    "Pyrrosia adnascens": 0.00101
+  }
+}

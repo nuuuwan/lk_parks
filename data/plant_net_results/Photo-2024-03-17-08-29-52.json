@@ -1,0 +1,23 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-29-52",
+  "species_name_to_score": {
+    "Terminalia arjuna": 0.68525,
+    "Senna multiglandulosa": 0.00492,
+    "Syzygium jambos": 0.00413,
+    "Senna siamea": 0.00328,
+    "Lagerstroemia speciosa": 0.00305,
+    "Polyalthia suberosa": 0.00242,
+    "Dimocarpus longan": 0.00223,
+    "Psidium guajava": 0.00216,
+    "Mimosa pigra": 0.00186,
+    "Cedrela odorata": 0.00139,
+    "Calliandra surinamensis": 0.00132,
+    "Nephelium lappaceum": 0.00126,
+    "Holarrhena pubescens": 0.0012,
+    "Juglans nigra": 0.00116,
+    "Senna occidentalis": 0.00108,
+    "Senna alata": 0.00104,
+    "Calliandra tweediei": 0.00101
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-10-56",
+  "species_name_to_score": {
+    "Cocos nucifera": 0.08107,
+    "Phoenix dactylifera": 0.00557,
+    "Schizolobium parahyba": 0.00288,
+    "Phoenix sylvestris": 0.00162,
+    "Elaeis guineensis": 0.00145
+  }
+}

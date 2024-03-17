@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-11-14",
+  "species_name_to_score": {
+    "Schizolobium parahyba": 0.37978,
+    "Delonix regia": 0.0112,
+    "Peltophorum dubium": 0.00749,
+    "Caryota obtusa": 0.00724,
+    "Cassia grandis": 0.00488,
+    "Albizia procera": 0.0044,
+    "Peltophorum pterocarpum": 0.00371,
+    "Elaeocarpus angustifolius": 0.00139,
+    "Jacaranda mimosifolia": 0.00107,
+    "Cassia javanica": 0.00101
+  }
+}

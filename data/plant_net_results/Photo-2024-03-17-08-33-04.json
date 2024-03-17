@@ -1,0 +1,17 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-33-04",
+  "species_name_to_score": {
+    "Bougainvillea glabra": 0.13504,
+    "Antigonon leptopus": 0.08311,
+    "Bougainvillea spectabilis": 0.08023,
+    "Lagerstroemia speciosa": 0.04766,
+    "Lagerstroemia indica": 0.00561,
+    "Hibiscus mutabilis": 0.00329,
+    "Ipomoea heptaphylla": 0.00181,
+    "Justicia brandegeeana": 0.00163,
+    "Cassia javanica": 0.00156,
+    "Cestrum elegans": 0.00132,
+    "Mussaenda philippica": 0.00119
+  }
+}

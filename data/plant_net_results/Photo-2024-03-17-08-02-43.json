@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-02-43",
+  "species_name_to_score": {
+    "Cascabela thevetia": 0.01046,
+    "Melaleuca viminalis": 0.00854,
+    "Taxus wallichiana": 0.0075,
+    "Acacia confusa": 0.00632,
+    "Podocarpus neriifolius": 0.00298,
+    "Hippophae salicifolia": 0.00238,
+    "Hippophae rhamnoides": 0.00225,
+    "Taxus contorta": 0.00209,
+    "Salix rosmarinifolia": 0.00174,
+    "Salix viminalis": 0.00127
+  }
+}

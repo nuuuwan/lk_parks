@@ -1,0 +1,29 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-13-45",
+  "species_name_to_score": {
+    "Ficus benghalensis": 0.08766,
+    "Heritiera littoralis": 0.07426,
+    "Terminalia arjuna": 0.06654,
+    "Ficus altissima": 0.05356,
+    "Ficus virens": 0.04121,
+    "Ficus racemosa": 0.01369,
+    "Ficus callosa": 0.00667,
+    "Terminalia chebula": 0.00662,
+    "Ficus tinctoria": 0.00577,
+    "Ficus elastica": 0.00509,
+    "Ficus auriculata": 0.00502,
+    "Diospyros melanoxylon": 0.0033,
+    "Ficus religiosa": 0.00245,
+    "Terminalia catappa": 0.0024,
+    "Calophyllum inophyllum": 0.00214,
+    "Ficus hispida": 0.00201,
+    "Phytolacca dioica": 0.00197,
+    "Artocarpus heterophyllus": 0.00185,
+    "Anacardium occidentale": 0.00182,
+    "Guazuma ulmifolia": 0.00135,
+    "Carissa carandas": 0.00128,
+    "Holarrhena pubescens": 0.00124,
+    "Nauclea orientalis": 0.00102
+  }
+}

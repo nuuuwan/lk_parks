@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-32-32",
+  "species_name_to_score": {
+    "Adenanthera pavonina": 0.6609,
+    "Cassia javanica": 0.04149,
+    "Tipuana tipu": 0.02783,
+    "Cassia roxburghii": 0.02057,
+    "Moringa oleifera": 0.01295,
+    "Libidibia ferrea": 0.01189,
+    "Libidibia punctata": 0.01011,
+    "Gleditsia triacanthos": 0.00753,
+    "Caesalpinia pulcherrima": 0.00679,
+    "Albizia lebbeck": 0.00458,
+    "Amorpha fruticosa": 0.00439,
+    "Robinia pseudoacacia": 0.00407,
+    "Senna surattensis": 0.00337,
+    "Tamarindus indica": 0.00302,
+    "Schizolobium parahyba": 0.00276,
+    "Biancaea sappan": 0.00249,
+    "Gleditsia sinensis": 0.00242,
+    "Albizia procera": 0.002,
+    "Samanea saman": 0.00181,
+    "Senna siamea": 0.0013,
+    "Leucaena leucocephala": 0.00104
+  }
+}

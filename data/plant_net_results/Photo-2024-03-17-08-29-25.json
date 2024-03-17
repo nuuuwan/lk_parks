@@ -1,0 +1,30 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-29-25",
+  "species_name_to_score": {
+    "Neolamarckia cadamba": 0.05864,
+    "Terminalia catappa": 0.03312,
+    "Sonneratia caseolaris": 0.02913,
+    "Rhizophora apiculata": 0.02192,
+    "Avicennia officinalis": 0.02142,
+    "Terminalia arjuna": 0.01475,
+    "Ficus benghalensis": 0.00852,
+    "Anacardium occidentale": 0.00832,
+    "Dipterocarpus alatus": 0.00805,
+    "Ficus microcarpa": 0.00689,
+    "Ficus elastica": 0.00433,
+    "Calophyllum inophyllum": 0.00407,
+    "Ficus altissima": 0.00398,
+    "Ficus racemosa": 0.00372,
+    "Populus deltoides": 0.00241,
+    "Hopea odorata": 0.00219,
+    "Artocarpus integer": 0.00212,
+    "Artocarpus heterophyllus": 0.00171,
+    "Artocarpus lacucha": 0.0015,
+    "Excoecaria agallocha": 0.00147,
+    "Xylocarpus granatum": 0.00123,
+    "Sonneratia alba": 0.0012,
+    "Dipterocarpus grandiflorus": 0.00116,
+    "Erythrina fusca": 0.00102
+  }
+}

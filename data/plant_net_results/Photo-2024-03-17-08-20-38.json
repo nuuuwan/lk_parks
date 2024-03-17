@@ -1,0 +1,31 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-20-38",
+  "species_name_to_score": {
+    "Schleichera oleosa": 0.2416,
+    "Swietenia macrophylla": 0.02362,
+    "Khaya senegalensis": 0.01216,
+    "Harpullia arborea": 0.01093,
+    "Terminalia catappa": 0.01004,
+    "Swietenia mahagoni": 0.0092,
+    "Spathodea campanulata": 0.00897,
+    "Sapindus saponaria": 0.00712,
+    "Afzelia africana": 0.0067,
+    "Artocarpus lacucha": 0.00607,
+    "Elaeocarpus serratus": 0.00511,
+    "Biancaea sappan": 0.00454,
+    "Artocarpus integer": 0.00332,
+    "Pararchidendron pruinosum": 0.00208,
+    "Harpullia cupanioides": 0.00197,
+    "Lysidice rhodostegia": 0.00182,
+    "Aegle marmelos": 0.00177,
+    "Syzygium cumini": 0.00173,
+    "Pterocarpus indicus": 0.00153,
+    "Cupaniopsis anacardioides": 0.00152,
+    "Careya arborea": 0.00148,
+    "Toona ciliata": 0.00141,
+    "Tectona grandis": 0.0012,
+    "Lophopetalum wightianum": 0.00116,
+    "Heynea trijuga": 0.00115
+  }
+}

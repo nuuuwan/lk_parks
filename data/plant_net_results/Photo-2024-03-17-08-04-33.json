@@ -1,0 +1,21 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-04-33",
+  "species_name_to_score": {
+    "Melaleuca viminalis": 0.02933,
+    "Acacia confusa": 0.02545,
+    "Cascabela thevetia": 0.01402,
+    "Bambusa vulgaris": 0.0105,
+    "Searsia lancea": 0.01045,
+    "Podocarpus neriifolius": 0.0097,
+    "Olea europaea": 0.00923,
+    "Acacia longifolia": 0.00655,
+    "Hippophae salicifolia": 0.00376,
+    "Chamaecytisus prolifer": 0.00364,
+    "Salix viminalis": 0.00287,
+    "Asparagus falcatus": 0.00228,
+    "Nerium oleander": 0.00223,
+    "Vitex agnus-castus": 0.00215,
+    "Acacia melanoxylon": 0.00115
+  }
+}

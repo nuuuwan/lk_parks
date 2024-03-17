@@ -1,0 +1,25 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-17-08-14-49",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.64741,
+    "Azadirachta indica": 0.04916,
+    "Syzygium jambos": 0.01255,
+    "Fraxinus angustifolia": 0.00821,
+    "Toona ciliata": 0.00746,
+    "Eucalyptus globulus": 0.00389,
+    "Monoon longifolium": 0.00362,
+    "Sapindus saponaria": 0.00348,
+    "Ficus maclellandii": 0.00344,
+    "Saraca asoca": 0.00323,
+    "Muntingia calabura": 0.00297,
+    "Syzygium cumini": 0.00254,
+    "Cedrela odorata": 0.00232,
+    "Saraca indica": 0.00201,
+    "Guazuma ulmifolia": 0.00157,
+    "Senna siamea": 0.00147,
+    "Pistacia chinensis": 0.00124,
+    "Cassia fistula": 0.00124,
+    "Flacourtia jangomas": 0.00113
+  }
+}
