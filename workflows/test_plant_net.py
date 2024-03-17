@@ -10,13 +10,13 @@ from lk_plants import PlantNetResult
 log = Log('test_plant_net')
 
 
-
+DIR_TEST = os.path.join('data_test','plantnet')
 
 def main():
-    for file_name in os.listdir('data_test'):
+    for file_name in os.listdir(DIR_TEST):
         if not file_name.endswith('.jpg'):
             continue
-        image_path = os.path.join('data_test', file_name)
+        image_path = os.path.join(DIR_TEST, file_name)
         log.info('-' * 32)
         log.info(f'Testing {image_path}...')
         results = PlantNetResult.identify(image_path)
