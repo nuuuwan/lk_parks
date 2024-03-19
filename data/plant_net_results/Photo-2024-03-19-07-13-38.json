@@ -1,0 +1,33 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-19-07-13-38",
+  "species_name_to_score": {
+    "Bauhinia purpurea": 0.02716,
+    "Bauhinia monandra": 0.02241,
+    "Cercis siliquastrum": 0.02174,
+    "Hibiscus tiliaceus": 0.02133,
+    "Aristolochia ringens": 0.01418,
+    "Bauhinia variegata": 0.00705,
+    "Vernicia fordii": 0.00684,
+    "Cissampelos pareira": 0.0068,
+    "Bauhinia galpinii": 0.00651,
+    "Bauhinia tomentosa": 0.00508,
+    "Catalpa bignonioides": 0.00452,
+    "Lindera obtusiloba": 0.00418,
+    "Aristolochia littoralis": 0.00329,
+    "Thespesia populnea": 0.00307,
+    "Gyrocarpus americanus": 0.00303,
+    "Aristolochia grandiflora": 0.00238,
+    "Thespesia populneoides": 0.00238,
+    "Erythrina lysistemon": 0.00205,
+    "Pyrus pyrifolia": 0.002,
+    "Jatropha curcas": 0.00179,
+    "Ficus religiosa": 0.00149,
+    "Bauhinia racemosa": 0.00147,
+    "Triadica sebifera": 0.00124,
+    "Dichondra micrantha": 0.00121,
+    "Aristolochia griffithii": 0.0011,
+    "Bauhinia acuminata": 0.00104,
+    "Cocculus orbiculatus": 0.00103
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-19-07-18-58",
+  "species_name_to_score": {
+    "Terminalia bellirica": 0.23515,
+    "Litsea glutinosa": 0.02194,
+    "Madhuca longifolia": 0.00879,
+    "Barringtonia acutangula": 0.00365,
+    "Persea americana": 0.0026,
+    "Crescentia cujete": 0.00206,
+    "Planchonella obovata": 0.00151,
+    "Artocarpus heterophyllus": 0.00114,
+    "Solanum diphyllum": 0.0011,
+    "Ficus racemosa": 0.00105,
+    "Careya arborea": 0.00104,
+    "Gymnosporia senegalensis": 0.001
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-19-07-18-50",
+  "species_name_to_score": {
+    "Terminalia bellirica": 0.51123,
+    "Quercus serrata": 0.01451,
+    "Khaya senegalensis": 0.00658,
+    "Canarium strictum": 0.00583,
+    "Ficus virens": 0.00187,
+    "Toona ciliata": 0.00141,
+    "Dipterocarpus alatus": 0.0014,
+    "Cotinus coggygria": 0.00138,
+    "Terminalia catappa": 0.0013,
+    "Schleichera oleosa": 0.00113
+  }
+}

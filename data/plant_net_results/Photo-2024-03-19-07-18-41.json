@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-19-07-18-41",
+  "species_name_to_score": {
+    "Tectona grandis": 0.69833,
+    "Careya arborea": 0.06294,
+    "Barringtonia acutangula": 0.02084,
+    "Terminalia catappa": 0.01535,
+    "Terminalia bellirica": 0.00811,
+    "Dillenia pentagyna": 0.00262,
+    "Anacardium occidentale": 0.00242,
+    "Adansonia digitata": 0.00178,
+    "Vitex pinnata": 0.00173,
+    "Crescentia cujete": 0.00164
+  }
+}

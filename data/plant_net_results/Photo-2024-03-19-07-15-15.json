@@ -1,0 +1,17 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-19-07-15-15",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.62349,
+    "Syzygium zeylanicum": 0.01633,
+    "Ficus maclellandii": 0.00838,
+    "Cinnamomum iners": 0.00489,
+    "Syzygium jambos": 0.00402,
+    "Amherstia nobilis": 0.00372,
+    "Durio zibethinus": 0.00346,
+    "Cinnamomum verum": 0.00299,
+    "Eucalyptus camaldulensis": 0.00144,
+    "Eucalyptus globulus": 0.00112,
+    "Hymenaea courbaril": 0.00105
+  }
+}

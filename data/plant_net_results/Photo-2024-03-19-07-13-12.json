@@ -1,0 +1,24 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-19-07-13-12",
+  "species_name_to_score": {
+    "Pterocarpus indicus": 0.2296,
+    "Styphnolobium japonicum": 0.01588,
+    "Aegle marmelos": 0.01477,
+    "Melia azedarach": 0.00561,
+    "Tipuana tipu": 0.00403,
+    "Swietenia mahagoni": 0.00397,
+    "Dalbergia sissoo": 0.00348,
+    "Cassia fistula": 0.0034,
+    "Chukrasia tabularis": 0.00322,
+    "Dalbergia latifolia": 0.00316,
+    "Azadirachta indica": 0.00308,
+    "Ziziphus jujuba": 0.00286,
+    "Juglans nigra": 0.00264,
+    "Pongamia pinnata": 0.00234,
+    "Dalbergia melanoxylon": 0.00201,
+    "Gleditsia sinensis": 0.00169,
+    "Robinia pseudoacacia": 0.00123,
+    "Citrus aurantiifolia": 0.00106
+  }
+}

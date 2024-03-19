@@ -1,0 +1,26 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-19-07-19-00",
+  "species_name_to_score": {
+    "Cucurbita moschata": 0.17446,
+    "Cucurbita maxima": 0.10229,
+    "Cucurbita ficifolia": 0.0311,
+    "Benincasa hispida": 0.02159,
+    "Cucurbita pepo": 0.01822,
+    "Tussilago farfara": 0.01719,
+    "Pergularia daemia": 0.0091,
+    "Lagenaria siceraria": 0.00452,
+    "Dorstenia contrajerva": 0.0038,
+    "Potamogeton angustifolius": 0.00357,
+    "Cucumis melo": 0.00288,
+    "Sicyos edulis": 0.00273,
+    "Xanthium orientale": 0.0021,
+    "Petasites albus": 0.00203,
+    "Farfugium japonicum": 0.00203,
+    "Pericallis cruenta": 0.00172,
+    "Erythrina suberosa": 0.00115,
+    "Xanthium strumarium": 0.00113,
+    "Trichosanthes cucumerina": 0.00109,
+    "Cucumis sativus": 0.00104
+  }
+}

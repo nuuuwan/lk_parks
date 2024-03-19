@@ -1,0 +1,23 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-19-07-12-14",
+  "species_name_to_score": {
+    "Cassia fistula": 0.17137,
+    "Pterocarpus indicus": 0.03724,
+    "Myroxylon balsamum": 0.01131,
+    "Dalbergia latifolia": 0.00618,
+    "Dialium guineense": 0.00483,
+    "Putranjiva roxburghii": 0.00461,
+    "Platymiscium pinnatum": 0.00404,
+    "Erythrophleum suaveolens": 0.00375,
+    "Sapindus saponaria": 0.00279,
+    "Hopea odorata": 0.00261,
+    "Afzelia africana": 0.00221,
+    "Santalum album": 0.00185,
+    "Aquilaria malaccensis": 0.00168,
+    "Adenanthera pavonina": 0.00158,
+    "Andira inermis": 0.00151,
+    "Pararchidendron pruinosum": 0.00119,
+    "Pterocarpus santalinus": 0.00117
+  }
+}

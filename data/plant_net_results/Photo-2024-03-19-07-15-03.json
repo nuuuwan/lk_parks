@@ -1,0 +1,33 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-19-07-15-03",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.24343,
+    "Ficus maclellandii": 0.04298,
+    "Cedrela odorata": 0.01748,
+    "Cinnamomum verum": 0.01494,
+    "Durio zibethinus": 0.00956,
+    "Spondias dulcis": 0.00537,
+    "Hymenaea courbaril": 0.00415,
+    "Diospyros ebenum": 0.00333,
+    "Cocculus laurifolius": 0.00304,
+    "Averrhoa bilimbi": 0.00298,
+    "Cinnamomum iners": 0.00296,
+    "Brownea grandiceps": 0.00262,
+    "Swietenia mahagoni": 0.00222,
+    "Annona reticulata": 0.00221,
+    "Monoon longifolium": 0.00177,
+    "Aquilaria malaccensis": 0.0017,
+    "Garcinia atroviridis": 0.00167,
+    "Syzygium jambos": 0.0016,
+    "Eucalyptus robusta": 0.00154,
+    "Garcinia xanthochymus": 0.00148,
+    "Toona ciliata": 0.00143,
+    "Dendrocalamus giganteus": 0.00136,
+    "Amherstia nobilis": 0.00129,
+    "Sapindus mukorossi": 0.00113,
+    "Annona glabra": 0.0011,
+    "Averrhoa carambola": 0.00107,
+    "Saraca indica": 0.00101
+  }
+}

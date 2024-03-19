@@ -1,0 +1,25 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-19-07-15-53",
+  "species_name_to_score": {
+    "Pterocarpus santalinus": 0.08282,
+    "Dermatophyllum secundiflorum": 0.02648,
+    "Diospyros chloroxylon": 0.01561,
+    "Lonchocarpus sericeus": 0.01407,
+    "Dalbergia latifolia": 0.01151,
+    "Dendrolobium umbellatum": 0.00867,
+    "Cordia dichotoma": 0.00794,
+    "Pterocarpus indicus": 0.00571,
+    "Cassia fistula": 0.00461,
+    "Bischofia javanica": 0.00308,
+    "Pongamia pinnata": 0.0026,
+    "Vitex trifolia": 0.00158,
+    "Psidium cattleyanum": 0.00156,
+    "Murraya paniculata": 0.00149,
+    "Albizia lebbeck": 0.0014,
+    "Samanea saman": 0.0013,
+    "Erythrina fusca": 0.00129,
+    "Litsea monopetala": 0.00111,
+    "Broussonetia papyrifera": 0.00108
+  }
+}

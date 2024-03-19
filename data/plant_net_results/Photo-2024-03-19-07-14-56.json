@@ -1,0 +1,22 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-19-07-14-56",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.50396,
+    "Syzygium zeylanicum": 0.01954,
+    "Cinnamomum verum": 0.00542,
+    "Swietenia mahagoni": 0.00481,
+    "Ficus maclellandii": 0.0031,
+    "Cocculus laurifolius": 0.0027,
+    "Spondias dulcis": 0.00242,
+    "Bolusanthus speciosus": 0.00204,
+    "Erythrophleum suaveolens": 0.00203,
+    "Ficus retusa": 0.00189,
+    "Cinnamomum iners": 0.00189,
+    "Cedrela odorata": 0.0017,
+    "Santalum album": 0.00166,
+    "Gnetum gnemon": 0.00144,
+    "Eucalyptus robusta": 0.00142,
+    "Bergera koenigii": 0.0012
+  }
+}

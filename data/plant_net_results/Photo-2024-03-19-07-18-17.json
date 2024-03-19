@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-19-07-18-17",
+  "species_name_to_score": {
+    "Tectona grandis": 0.80446,
+    "Populus deltoides": 0.00956,
+    "Terminalia bellirica": 0.005,
+    "Neolamarckia cadamba": 0.00206,
+    "Eucalyptus robusta": 0.00196,
+    "Eucalyptus botryoides": 0.00188,
+    "Ehretia acuminata": 0.00186,
+    "Nauclea orientalis": 0.00178,
+    "Ehretia dicksonii": 0.00174,
+    "Diospyros melanoxylon": 0.00131
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-19-07-19-10",
+  "species_name_to_score": {
+    "Tectona grandis": 0.92783,
+    "Ehretia acuminata": 0.00932,
+    "Terminalia bellirica": 0.00651,
+    "Terminalia catappa": 0.00198
+  }
+}

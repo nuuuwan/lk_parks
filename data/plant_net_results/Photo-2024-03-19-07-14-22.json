@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-19-07-14-22",
+  "species_name_to_score": {
+    "Ficus virens": 0.1032,
+    "Ficus callosa": 0.07177,
+    "Ficus altissima": 0.01561,
+    "Ficus caulocarpa": 0.01453,
+    "Ficus racemosa": 0.01132,
+    "Annona glabra": 0.00422,
+    "Mangifera indica": 0.00343,
+    "Madhuca longifolia": 0.0023,
+    "Ficus tinctoria": 0.00229,
+    "Ficus lacor": 0.00102
+  }
+}

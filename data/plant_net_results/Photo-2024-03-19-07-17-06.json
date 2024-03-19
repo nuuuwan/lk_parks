@@ -1,0 +1,18 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-19-07-17-06",
+  "species_name_to_score": {
+    "Madhuca longifolia": 0.28316,
+    "Couroupita guianensis": 0.00875,
+    "Mangifera indica": 0.00843,
+    "Barringtonia acutangula": 0.00751,
+    "Ceiba pentandra": 0.00323,
+    "Manihot esculenta": 0.00262,
+    "Ficus racemosa": 0.00255,
+    "Holigarna arnottiana": 0.00217,
+    "Elaeocarpus angustifolius": 0.00183,
+    "Crescentia cujete": 0.0015,
+    "Cerbera manghas": 0.00113,
+    "Litsea glutinosa": 0.00106
+  }
+}

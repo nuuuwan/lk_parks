@@ -1,0 +1,20 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-19-07-14-49",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.60981,
+    "Syzygium jambos": 0.01387,
+    "Eucalyptus robusta": 0.00705,
+    "Corymbia citriodora": 0.00387,
+    "Syzygium zeylanicum": 0.00357,
+    "Ficus maclellandii": 0.00276,
+    "Cocculus laurifolius": 0.00272,
+    "Sapindus saponaria": 0.00228,
+    "Swietenia mahagoni": 0.00189,
+    "Brownea grandiceps": 0.00183,
+    "Eucalyptus botryoides": 0.00165,
+    "Lysidice rhodostegia": 0.00144,
+    "Eucalyptus camaldulensis": 0.00112,
+    "Copaifera langsdorffii": 0.00101
+  }
+}

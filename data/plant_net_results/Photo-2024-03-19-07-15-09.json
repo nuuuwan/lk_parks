@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-19-07-15-09",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.48616,
+    "Ficus maclellandii": 0.02178,
+    "Hymenaea courbaril": 0.01604,
+    "Aquilaria malaccensis": 0.01336,
+    "Cinnamomum verum": 0.00462,
+    "Gnetum gnemon": 0.00368,
+    "Durio zibethinus": 0.00265,
+    "Ficus tinctoria": 0.00256,
+    "Garcinia atroviridis": 0.00214,
+    "Brownea grandiceps": 0.00188,
+    "Litchi chinensis": 0.00151,
+    "Phaleria capitata": 0.0014,
+    "Spondias dulcis": 0.00139,
+    "Derris trifoliata": 0.00139,
+    "Cinnamomum iners": 0.00137,
+    "Syzygium jambos": 0.00136,
+    "Dialium guineense": 0.00133,
+    "Artabotrys hexapetalus": 0.00112,
+    "Garcinia xanthochymus": 0.0011,
+    "Lophopetalum wightianum": 0.00105,
+    "Syzygium zeylanicum": 0.00104
+  }
+}

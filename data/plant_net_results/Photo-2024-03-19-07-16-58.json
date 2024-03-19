@@ -1,0 +1,21 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-19-07-16-58",
+  "species_name_to_score": {
+    "Delonix regia": 0.39924,
+    "Schizolobium parahyba": 0.02257,
+    "Peltophorum pterocarpum": 0.00862,
+    "Peltophorum dubium": 0.00548,
+    "Albizia chinensis": 0.00389,
+    "Albizia julibrissin": 0.00377,
+    "Albizia niopoides": 0.00323,
+    "Peltophorum africanum": 0.00305,
+    "Albizia procera": 0.00282,
+    "Acacia mearnsii": 0.00261,
+    "Jacaranda mimosifolia": 0.00241,
+    "Falcataria falcata": 0.0023,
+    "Cassia javanica": 0.00159,
+    "Leucaena leucocephala": 0.0013,
+    "Delonix elata": 0.00103
+  }
+}

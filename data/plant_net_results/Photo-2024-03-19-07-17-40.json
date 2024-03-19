@@ -1,0 +1,17 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-19-07-17-40",
+  "species_name_to_score": {
+    "Delonix regia": 0.42738,
+    "Schizolobium parahyba": 0.09163,
+    "Senna spectabilis": 0.01876,
+    "Peltophorum pterocarpum": 0.00936,
+    "Albizia procera": 0.00909,
+    "Acacia mearnsii": 0.00897,
+    "Cassia javanica": 0.00537,
+    "Albizia chinensis": 0.00462,
+    "Falcataria falcata": 0.00336,
+    "Hymenaea courbaril": 0.00245,
+    "Cassia grandis": 0.00155
+  }
+}

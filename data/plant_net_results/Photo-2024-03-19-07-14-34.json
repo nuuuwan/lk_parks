@@ -1,0 +1,20 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-19-07-14-34",
+  "species_name_to_score": {
+    "Pterocarpus indicus": 0.68495,
+    "Pterocarpus macrocarpus": 0.02206,
+    "Phyllanthus acidus": 0.00758,
+    "Radermachera sinica": 0.00529,
+    "Platymiscium pinnatum": 0.00417,
+    "Swietenia mahagoni": 0.0038,
+    "Pongamia pinnata": 0.00275,
+    "Mayodendron igneum": 0.00243,
+    "Hymenaea courbaril": 0.00184,
+    "Swietenia macrophylla": 0.00172,
+    "Ficus maclellandii": 0.00155,
+    "Afzelia africana": 0.00154,
+    "Averrhoa carambola": 0.00121,
+    "Annona muricata": 0.00111
+  }
+}

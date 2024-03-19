@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-19-07-17-20",
+  "species_name_to_score": {
+    "Delonix regia": 0.31869,
+    "Peltophorum pterocarpum": 0.01813,
+    "Cassia javanica": 0.01455,
+    "Senna spectabilis": 0.01344,
+    "Schizolobium parahyba": 0.01092,
+    "Albizia procera": 0.00609,
+    "Spondias purpurea": 0.00443,
+    "Ceiba pentandra": 0.00419,
+    "Spondias dulcis": 0.00348,
+    "Leucaena leucocephala": 0.00336,
+    "Parkia biglobosa": 0.00317,
+    "Peltophorum dubium": 0.00299,
+    "Hymenaea courbaril": 0.00276,
+    "Jacaranda mimosifolia": 0.00274,
+    "Albizia lebbeck": 0.00224,
+    "Adansonia digitata": 0.00211,
+    "Cassia fistula": 0.0016,
+    "Cassia moschata": 0.00139,
+    "Adenanthera pavonina": 0.00123,
+    "Albizia niopoides": 0.00121,
+    "Cassia grandis": 0.00103
+  }
+}
