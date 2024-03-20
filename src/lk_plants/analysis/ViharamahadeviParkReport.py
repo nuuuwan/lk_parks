@@ -44,6 +44,13 @@ class ViharamahadeviParkReport:
         return [
             '# Plants of Vihaaramahadevi Park :sri_lanka:',
             '',
+                        f'*This analysis was automatically generated on  **{self.time_str}**, '
+            + f'and is based on  **{self.n_plant_photos}** plant photos.*',
+            '',
+            'Results can be directly inspected using [this app](https://nuuuwan.github.io/plants).',
+            '',
+            '![App](image.app.png)',
+            '',
         ]
 
     @cached_property
@@ -55,13 +62,7 @@ class ViharamahadeviParkReport:
             '',
             'Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wikipedia.org/wiki/Vegetation) of 14.39ha (59% from the total area). The estimated crown cover 12.25ha (50%). [[Madurapperum et al](https://www.researchgate.net/publication/282250239_CrownTree_cover_of_Viharamahadevi_Park_Colombo)]',
             '',
-            f'*This analysis was automatically generated on  **{self.time_str}**, '
-            + f'and is based on  **{self.n_plant_photos}** plant photos.*',
-            '',
-            'Results can be directly inspected using [this app](https://nuuuwan.github.io/plants).',
-            '',
-            '![App](image.app.png)',
-            '',
+
         ]
 
     @cached_property
