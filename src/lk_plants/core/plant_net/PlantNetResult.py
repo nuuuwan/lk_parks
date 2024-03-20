@@ -97,7 +97,7 @@ class PlantNetResult:
             data = json.loads(response.text)
             results = data.get('results', [])
             n = len(results)
-            log.debug(f'🪴Found {n} results with for {image_path}')
+            log.debug(f'🪴 Found {n} results with for {image_path}')
             return results
 
     @staticmethod
@@ -110,8 +110,16 @@ class PlantNetResult:
         return species_name_to_score
 
     @staticmethod
+    def filter_with_no_results(plant_photo: PlantPhoto):
+        return not os.path.exists(
+            PlantNetResult.get_data_path(plant_photo.id)
+        )
+
+    @staticmethod
     def from_plant_photo(plant_photo: PlantPhoto) -> 'PlantNetResult':
-        if os.path.exists(PlantNetResult.get_data_path(plant_photo.id)):
+        if os.path.exists(
+            PlantNetResult.get_data_path(plant_photo.id)
+        ):
             return PlantNetResult.from_plant_photo_id(plant_photo.id)
 
         ut_api_call = 0
@@ -129,6 +137,15 @@ class PlantNetResult:
     @staticmethod
     def build_from_plant_photos():
         plant_photo_list = PlantPhoto.list_all()
-        for plant_photo in plant_photo_list:
+        plant_photo_list_filtered = [
+            plant_photo
+            for plant_photo in plant_photo_list
+            if PlantNetResult.filter_with_no_results(plant_photo)
+        ]
+        n_filtered = len(plant_photo_list_filtered)
+        log.debug(f'{n_filtered=}')
+
+        for i, plant_photo in enumerate(plant_photo_list_filtered):
+            log.debug(f'{i + 1}/{n_filtered}')
             PlantNetResult.from_plant_photo(plant_photo)
         log.info('build_from_plant_photos: done')

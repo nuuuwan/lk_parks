@@ -1,0 +1,13 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-48-06",
+  "species_name_to_score": {
+    "Areca triandra": 0.32158,
+    "Areca catechu": 0.0043,
+    "Dypsis lutescens": 0.00417,
+    "Caryota mitis": 0.00212,
+    "Licuala peltata": 0.0014,
+    "Pinanga dicksonii": 0.00113,
+    "Dendrocalamus giganteus": 0.00109
+  }
+}

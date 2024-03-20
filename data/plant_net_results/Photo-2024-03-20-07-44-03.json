@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-44-03",
+  "species_name_to_score": {
+    "Bauhinia purpurea": 0.43119,
+    "Bauhinia variegata": 0.03955,
+    "Bauhinia monandra": 0.02129,
+    "Bauhinia galpinii": 0.00978,
+    "Bauhinia tomentosa": 0.00311,
+    "Bauhinia acuminata": 0.00297,
+    "Calliandra tergemina": 0.00112,
+    "Hibiscus tiliaceus": 0.00103
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-45-20",
+  "species_name_to_score": {
+    "Cocos nucifera": 0.46012,
+    "Elaeis guineensis": 0.0064,
+    "Phoenix rupicola": 0.00418,
+    "Phoenix dactylifera": 0.0038,
+    "Phoenix paludosa": 0.00301,
+    "Cycas pectinata": 0.00209,
+    "Phoenix sylvestris": 0.00122,
+    "Cycas revoluta": 0.00119,
+    "Sterculia foetida": 0.00113
+  }
+}

@@ -1,8 +1,5 @@
 import os
 
-import cv2
-import numpy as np
-from PIL import Image, ImageEnhance
 from utils import Log
 
 from lk_plants import PlantNetResult
@@ -10,7 +7,8 @@ from lk_plants import PlantNetResult
 log = Log('test_plant_net')
 
 
-DIR_TEST = os.path.join('data_test','plantnet')
+DIR_TEST = os.path.join('data_test', 'plantnet')
+
 
 def main():
     for file_name in os.listdir(DIR_TEST):
@@ -27,5 +25,4 @@ def main():
 
 
 if __name__ == "__main__":
-   
     main()

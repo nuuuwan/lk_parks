@@ -1,0 +1,29 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-08-04-35",
+  "species_name_to_score": {
+    "Ficus religiosa": 0.00897,
+    "Hymenaea courbaril": 0.00818,
+    "Dipterocarpus alatus": 0.00648,
+    "Bischofia javanica": 0.00501,
+    "Cinnamomum camphora": 0.00462,
+    "Hopea odorata": 0.00453,
+    "Ficus microcarpa": 0.00395,
+    "Adansonia digitata": 0.0031,
+    "Khaya senegalensis": 0.00267,
+    "Sterculia foetida": 0.00248,
+    "Ceiba pentandra": 0.00224,
+    "Elaeocarpus angustifolius": 0.00211,
+    "Camellia kissii": 0.00202,
+    "Populus nigra": 0.00188,
+    "Aquilaria malaccensis": 0.00171,
+    "Crataegus songarica": 0.00142,
+    "Sporobolus alterniflorus": 0.00139,
+    "Erythrina fusca": 0.00125,
+    "Diospyros buxifolia": 0.00121,
+    "Populus tremula": 0.00112,
+    "Elsholtzia pilosa": 0.00112,
+    "Cleyera japonica": 0.00111,
+    "Terminalia bellirica": 0.00105
+  }
+}

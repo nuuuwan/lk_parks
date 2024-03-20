@@ -1,0 +1,8 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-45-11",
+  "species_name_to_score": {
+    "Cocos nucifera": 0.78702,
+    "Cycas pectinata": 0.00191
+  }
+}
