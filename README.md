@@ -6,7 +6,7 @@ Viharamahadevi Park (Sinhala: විහාරමහාදේවී උද්‍�
 
 The extent of the park is 24.27 ha and the estimated green cover using a Google Earth image is 14.39 ha (59% from the total). The estimated crown cover from the ground survey for the park is 12.25 ha (50%). [[Madurapperum et al](https://www.researchgate.net/publication/282250239_CrownTree_cover_of_Viharamahadevi_Park_Colombo)]
 
-*This analysis was automatically generated on  **Mar 20, 2024 (07:28 PM)**, and is based on  **766** plant photos.*
+*This analysis was automatically generated on  **Mar 20, 2024 (07:31 PM)**, and is based on  **766** plant photos.*
 
 Results can be directly inspected using [this app](https://nuuuwan.github.io/plants).
 
@@ -101,7 +101,7 @@ Results can be directly inspected using [this app](https://nuuuwan.github.io/pla
 ## Identification Confidence (by Species with at least 5 Photos)
 
 | Species | n(Photos) | Confidence (25th pctl.) | Confidence (75th pctl.) |
-|:---|---:|---:|
+|:---|---:|---:|---:|
 | Tabernaemontana divaricata | 11 | 71.9% | 97.7% |
 | Anacardium occidentale | 7 | 66.9% | 94.9% |
 | Monoon longifolium | 6 | 71.0% | 92.2% |
