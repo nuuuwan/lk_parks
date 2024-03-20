@@ -6,7 +6,7 @@ Viharamahadevi Park (Sinhala: විහාරමහාදේවී උද්‍�
 
 Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wikipedia.org/wiki/Vegetation) of 14.39ha (59% from the total area). The estimated crown cover 12.25ha (50%). [[Madurapperum et al](https://www.researchgate.net/publication/282250239_CrownTree_cover_of_Viharamahadevi_Park_Colombo)]
 
-*This analysis was automatically generated on  **Mar 20, 2024 (07:50 PM)**, and is based on  **766** plant photos.*
+*This analysis was automatically generated on  **Mar 20, 2024 (07:52 PM)**, and is based on  **766** plant photos.*
 
 Results can be directly inspected using [this app](https://nuuuwan.github.io/plants).
 
@@ -18,84 +18,84 @@ Results can be directly inspected using [this app](https://nuuuwan.github.io/pla
 
 **73** unique Families.
 
-| Families | n(Photos) | % |
-|:---|---:|---:|
-| *Fabaceae* | 154 | 20.1% |
-| *Moraceae* | 66 | 8.6% |
-| *Calophyllaceae* | 50 | 6.5% |
-| *Combretaceae* | 46 | 6.0% |
-| *Bignoniaceae* | 41 | 5.4% |
-| *Myrtaceae* | 41 | 5.4% |
-| *Apocynaceae* | 39 | 5.1% |
-| *Meliaceae* | 36 | 4.7% |
-| *Anacardiaceae* | 28 | 3.7% |
-| *Arecaceae* | 24 | 3.1% |
-| *Lamiaceae* | 21 | 2.7% |
-| *Sapotaceae* | 20 | 2.6% |
-| *Annonaceae* | 15 | 2.0% |
-| *Sapindaceae* | 14 | 1.8% |
-| *Fagaceae* | 10 | 1.3% |
-| *Malvaceae* | 9 | 1.2% |
-| *Phyllanthaceae* | 9 | 1.2% |
-| *Lauraceae* | 8 | 1.0% |
-| *Lythraceae* | 8 | 1.0% |
-| *Casuarinaceae* | 7 | 0.9% |
+| # | Families | n(Photos) | % |
+|---:|:---|---:|---:|
+| 0 | *Fabaceae* | 154 | 20.1% |
+| 1 | *Moraceae* | 66 | 8.6% |
+| 2 | *Calophyllaceae* | 50 | 6.5% |
+| 3 | *Combretaceae* | 46 | 6.0% |
+| 4 | *Bignoniaceae* | 41 | 5.4% |
+| 5 | *Myrtaceae* | 41 | 5.4% |
+| 6 | *Apocynaceae* | 39 | 5.1% |
+| 7 | *Meliaceae* | 36 | 4.7% |
+| 8 | *Anacardiaceae* | 28 | 3.7% |
+| 9 | *Arecaceae* | 24 | 3.1% |
+| 10 | *Lamiaceae* | 21 | 2.7% |
+| 11 | *Sapotaceae* | 20 | 2.6% |
+| 12 | *Annonaceae* | 15 | 2.0% |
+| 13 | *Sapindaceae* | 14 | 1.8% |
+| 14 | *Fagaceae* | 10 | 1.3% |
+| 15 | *Malvaceae* | 9 | 1.2% |
+| 16 | *Phyllanthaceae* | 9 | 1.2% |
+| 17 | *Lauraceae* | 8 | 1.0% |
+| 18 | *Lythraceae* | 8 | 1.0% |
+| 19 | *Casuarinaceae* | 7 | 0.9% |
 | (All Others) | 120 | 15.7% |
 
 ### Genera
 
 **181** unique Genera.
 
-| Genera | n(Photos) | % |
-|:---|---:|---:|
-| *Ficus* | 51 | 6.7% |
-| *Mesua* | 44 | 5.7% |
-| *Terminalia* | 44 | 5.7% |
-| *Cassia* | 25 | 3.3% |
-| *Peltophorum* | 23 | 3.0% |
-| *Mangifera* | 18 | 2.3% |
-| *Tectona* | 17 | 2.2% |
-| *Tecoma* | 16 | 2.1% |
-| *Tabebuia* | 16 | 2.1% |
-| *Pterocarpus* | 15 | 2.0% |
-| *Artocarpus* | 14 | 1.8% |
-| *Syzygium* | 14 | 1.8% |
-| *Melaleuca* | 13 | 1.7% |
-| *Tabernaemontana* | 12 | 1.6% |
-| *Plumeria* | 12 | 1.6% |
-| *Azadirachta* | 12 | 1.6% |
-| *Delonix* | 10 | 1.3% |
-| *Quercus* | 10 | 1.3% |
-| *Pongamia* | 10 | 1.3% |
-| *Eucalyptus* | 9 | 1.2% |
+| # | Genera | n(Photos) | % |
+|---:|:---|---:|---:|
+| 0 | *Ficus* | 51 | 6.7% |
+| 1 | *Mesua* | 44 | 5.7% |
+| 2 | *Terminalia* | 44 | 5.7% |
+| 3 | *Cassia* | 25 | 3.3% |
+| 4 | *Peltophorum* | 23 | 3.0% |
+| 5 | *Mangifera* | 18 | 2.3% |
+| 6 | *Tectona* | 17 | 2.2% |
+| 7 | *Tecoma* | 16 | 2.1% |
+| 8 | *Tabebuia* | 16 | 2.1% |
+| 9 | *Pterocarpus* | 15 | 2.0% |
+| 10 | *Artocarpus* | 14 | 1.8% |
+| 11 | *Syzygium* | 14 | 1.8% |
+| 12 | *Melaleuca* | 13 | 1.7% |
+| 13 | *Tabernaemontana* | 12 | 1.6% |
+| 14 | *Plumeria* | 12 | 1.6% |
+| 15 | *Azadirachta* | 12 | 1.6% |
+| 16 | *Delonix* | 10 | 1.3% |
+| 17 | *Quercus* | 10 | 1.3% |
+| 18 | *Pongamia* | 10 | 1.3% |
+| 19 | *Eucalyptus* | 9 | 1.2% |
 | (All Others) | 381 | 49.7% |
 
 ### Species
 
 **251** unique Species.
 
-| Species | n(Photos) | % |
-|:---|---:|---:|
-| *Mesua ferrea* | 44 | 5.7% |
-| *Terminalia arjuna* | 32 | 4.2% |
-| *Cassia fistula* | 20 | 2.6% |
-| *Mangifera indica* | 18 | 2.3% |
-| *Peltophorum pterocarpum* | 18 | 2.3% |
-| *Tectona grandis* | 17 | 2.2% |
-| *Tecoma stans* | 16 | 2.1% |
-| *Ficus religiosa* | 16 | 2.1% |
-| *Artocarpus heterophyllus* | 14 | 1.8% |
-| *Pterocarpus indicus* | 13 | 1.7% |
-| *Azadirachta indica* | 12 | 1.6% |
-| *Tabernaemontana divaricata* | 11 | 1.4% |
-| *Tabebuia rosea* | 11 | 1.4% |
-| *Ficus benghalensis* | 11 | 1.4% |
-| *Delonix regia* | 10 | 1.3% |
-| *Pongamia pinnata* | 10 | 1.3% |
-| *Syzygium cumini* | 9 | 1.2% |
-| *Terminalia catappa* | 9 | 1.2% |
-| *Plumeria rubra* | 9 | 1.2% |
-| *Mimusops elengi* | 8 | 1.0% |
+| # | Species | n(Photos) | % |
+|---:|:---|---:|---:|
+| 0 | *Mesua ferrea* | 44 | 5.7% |
+| 1 | *Terminalia arjuna* | 32 | 4.2% |
+| 2 | *Cassia fistula* | 20 | 2.6% |
+| 3 | *Mangifera indica* | 18 | 2.3% |
+| 4 | *Peltophorum pterocarpum* | 18 | 2.3% |
+| 5 | *Tectona grandis* | 17 | 2.2% |
+| 6 | *Tecoma stans* | 16 | 2.1% |
+| 7 | *Ficus religiosa* | 16 | 2.1% |
+| 8 | *Artocarpus heterophyllus* | 14 | 1.8% |
+| 9 | *Pterocarpus indicus* | 13 | 1.7% |
+| 10 | *Azadirachta indica* | 12 | 1.6% |
+| 11 | *Tabernaemontana divaricata* | 11 | 1.4% |
+| 12 | *Tabebuia rosea* | 11 | 1.4% |
+| 13 | *Ficus benghalensis* | 11 | 1.4% |
+| 14 | *Delonix regia* | 10 | 1.3% |
+| 15 | *Pongamia pinnata* | 10 | 1.3% |
+| 16 | *Syzygium cumini* | 9 | 1.2% |
+| 17 | *Terminalia catappa* | 9 | 1.2% |
+| 18 | *Plumeria rubra* | 9 | 1.2% |
+| 19 | *Mimusops elengi* | 8 | 1.0% |
 | (All Others) | 458 | 59.8% |
 
 ## Identification Confidence (by Species with at least 5 Photos)
