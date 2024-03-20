@@ -82,7 +82,7 @@ class ViharamahadeviParkReport:
             key_to_data_list.items(), key=lambda x: -len(x[1])
         )[:N_DISPLAY]:
             n = len(data_list)
-            p  = n / self.n_plant_photos
+            p = n / self.n_plant_photos
             lines_table.append(f'| *{key}* | {n:,} | {p:.1%} |')
             n_displayed += n
         n_others = self.n_plant_photos - n_displayed
