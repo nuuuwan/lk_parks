@@ -1,4 +1,5 @@
-from lk_plants import DataApp, PlantNetResult, PlantPhoto
+from lk_plants import (DataApp, PlantNetResult, PlantPhoto,
+                       ViharamahadeviParkReport)
 
 
 def main():
@@ -6,6 +7,8 @@ def main():
     PlantNetResult.build_from_plant_photos()
     PlantPhoto.build_contents()
     DataApp().write_all()
+
+    ViharamahadeviParkReport().write()
 
 
 if __name__ == "__main__":

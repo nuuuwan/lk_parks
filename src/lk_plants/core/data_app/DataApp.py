@@ -43,3 +43,6 @@ class DataApp:
 
     def write_all(self):
         self.write_ext_plant_photo_idx()
+
+    def read_all(self):
+        return JSONFile(DataApp.EXT_PLANT_PHOTO_IDX_PATH).read()

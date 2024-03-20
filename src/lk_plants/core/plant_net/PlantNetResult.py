@@ -117,9 +117,7 @@ class PlantNetResult:
 
     @staticmethod
     def from_plant_photo(plant_photo: PlantPhoto) -> 'PlantNetResult':
-        if os.path.exists(
-            PlantNetResult.get_data_path(plant_photo.id)
-        ):
+        if os.path.exists(PlantNetResult.get_data_path(plant_photo.id)):
             return PlantNetResult.from_plant_photo_id(plant_photo.id)
 
         ut_api_call = 0
