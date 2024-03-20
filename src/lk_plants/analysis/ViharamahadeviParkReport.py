@@ -83,7 +83,7 @@ class ViharamahadeviParkReport:
             f'## Identification Confidence (by Species with at least {MIN_PHOTOS} Photos)',
             '',
             '| Species | n(Photos) | Confidence (25th pctl.) | Confidence (75th pctl.) |',
-            '|:---|---:|---:|',
+            '|:---|---:|---:|---:|',
         ]
         sorted_items = sorted(
             species_name_to_score_list.items(),
