@@ -60,6 +60,8 @@ class ViharamahadeviParkReport:
             '',
             'Results can be directly inspected using [this app](https://nuuuwan.github.io/plants).',
             '',
+            '![App](image.app.png)',
+            '',
         ]
 
     @cache
