@@ -64,6 +64,43 @@ class ViharamahadeviParkReport:
             '',
         ]
 
+    @cached_property 
+    def lines_confusion(self):
+        MIN_PHOTOS = 2
+        lines = [
+            f'## Pairs of Plant Species, likely confused during identification (at least {MIN_PHOTOS} times)',
+            '',
+        ]
+        key_to_n = {}
+        for data in self.data_list:
+            plant_net_result = PlantNetResult.from_plant_photo(data)
+            species_name_to_score = plant_net_result.species_name_to_score
+            species_names = list(species_name_to_score.keys())
+            if len(species_names) < 2:
+                continue
+            species_name_1, species_name_2 = species_names[:2]
+            score_1 = species_name_to_score[species_name_1]
+            score_2 = species_name_to_score[species_name_2]
+            if score_1 > 2 * score_2:
+                continue
+            if species_name_1 > species_name_2:
+                species_name_1, species_name_2 = species_name_2, species_name_1
+            key  = f'*{species_name_1}* & *{species_name_2}*'
+            if key not in key_to_n:
+                key_to_n[key] = 0
+            key_to_n[key] += 1
+
+        lines_table = [f'| Species 1 | Species 2 | n(Photos) |', '|:---|:---|---:|']
+        for key, n in sorted(key_to_n.items(), key=lambda x: -x[1]):
+            if n < MIN_PHOTOS:
+                continue
+            species_name_1, species_name_2 = key.split(' & ')
+            lines_table.append(f'| *{species_name_1}* | *{species_name_2}* | {n:,} |')
+
+        lines += lines_table
+        lines.append('')
+        return lines
+
     @cached_property
     def lines_identification_score(self):
         species_name_to_score_list = {}
@@ -82,8 +119,8 @@ class ViharamahadeviParkReport:
         lines = [
             f'## Identification Confidence (by Species with at least {MIN_PHOTOS} Photos)',
             '',
-            '| Species | n(Photos) | Confidence (25th pctl.) | Confidence (75th pctl.) |',
-            '|:---|---:|---:|---:|',
+            '| Species | n(Photos) | Confidence (25th pctl.) | Confidence (Median) | Confidence (75th pctl.) |',
+            '|:---|---:|---:|---:|---:|',
         ]
         sorted_items = sorted(
             species_name_to_score_list.items(),
@@ -96,13 +133,16 @@ class ViharamahadeviParkReport:
                 continue
 
             i_low = int(n * 0.25)
+            i_mid = int(n * 0.5)
             i_high = int(n * 0.75)
             sorted_scores = sorted(scores)
             low = sorted_scores[i_low]
+            mid = sorted_scores[i_mid]
             high = sorted_scores[i_high]
+            
 
             lines.append(
-                f'| {species_name} | {n:,} | {low:.1%} | {high:.1%} |'
+                f'| {species_name} | {n:,} | {low:.1%} | {mid:.1%} | {high:.1%} |'
             )
         lines.append('')
         return lines
@@ -200,7 +240,7 @@ class ViharamahadeviParkReport:
 
     @cached_property
     def lines(self):
-        return self.lines_header + self.lines_background + self.lines_analysis
+        return self.lines_header + self.lines_background + self.lines_analysis + self.lines_confusion
 
     def write(self):
         path = 'README.md'
