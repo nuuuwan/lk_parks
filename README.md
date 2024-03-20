@@ -20,27 +20,27 @@ Results can be directly inspected using [this app](https://nuuuwan.github.io/pla
 
 | # | Families | n(Photos) | % |
 |---:|:---|---:|---:|
-| 0 | *Fabaceae* | 154 | 20.1% |
-| 1 | *Moraceae* | 66 | 8.6% |
-| 2 | *Calophyllaceae* | 50 | 6.5% |
-| 3 | *Combretaceae* | 46 | 6.0% |
-| 4 | *Bignoniaceae* | 41 | 5.4% |
-| 5 | *Myrtaceae* | 41 | 5.4% |
-| 6 | *Apocynaceae* | 39 | 5.1% |
-| 7 | *Meliaceae* | 36 | 4.7% |
-| 8 | *Anacardiaceae* | 28 | 3.7% |
-| 9 | *Arecaceae* | 24 | 3.1% |
-| 10 | *Lamiaceae* | 21 | 2.7% |
-| 11 | *Sapotaceae* | 20 | 2.6% |
-| 12 | *Annonaceae* | 15 | 2.0% |
-| 13 | *Sapindaceae* | 14 | 1.8% |
-| 14 | *Fagaceae* | 10 | 1.3% |
-| 15 | *Malvaceae* | 9 | 1.2% |
-| 16 | *Phyllanthaceae* | 9 | 1.2% |
-| 17 | *Lauraceae* | 8 | 1.0% |
-| 18 | *Lythraceae* | 8 | 1.0% |
-| 19 | *Casuarinaceae* | 7 | 0.9% |
-| (All Others) | 120 | 15.7% |
+| 1 | *Fabaceae* | 154 | 20.1% |
+| 2 | *Moraceae* | 66 | 8.6% |
+| 3 | *Calophyllaceae* | 50 | 6.5% |
+| 4 | *Combretaceae* | 46 | 6.0% |
+| 5 | *Bignoniaceae* | 41 | 5.4% |
+| 6 | *Myrtaceae* | 41 | 5.4% |
+| 7 | *Apocynaceae* | 39 | 5.1% |
+| 8 | *Meliaceae* | 36 | 4.7% |
+| 9 | *Anacardiaceae* | 28 | 3.7% |
+| 10 | *Arecaceae* | 24 | 3.1% |
+| 11 | *Lamiaceae* | 21 | 2.7% |
+| 12 | *Sapotaceae* | 20 | 2.6% |
+| 13 | *Annonaceae* | 15 | 2.0% |
+| 14 | *Sapindaceae* | 14 | 1.8% |
+| 15 | *Fagaceae* | 10 | 1.3% |
+| 16 | *Malvaceae* | 9 | 1.2% |
+| 17 | *Phyllanthaceae* | 9 | 1.2% |
+| 18 | *Lauraceae* | 8 | 1.0% |
+| 19 | *Lythraceae* | 8 | 1.0% |
+| 20 | *Casuarinaceae* | 7 | 0.9% |
+| | (All Others) | 120 | 15.7% |
 
 ### Genera
 
@@ -48,27 +48,27 @@ Results can be directly inspected using [this app](https://nuuuwan.github.io/pla
 
 | # | Genera | n(Photos) | % |
 |---:|:---|---:|---:|
-| 0 | *Ficus* | 51 | 6.7% |
-| 1 | *Mesua* | 44 | 5.7% |
-| 2 | *Terminalia* | 44 | 5.7% |
-| 3 | *Cassia* | 25 | 3.3% |
-| 4 | *Peltophorum* | 23 | 3.0% |
-| 5 | *Mangifera* | 18 | 2.3% |
-| 6 | *Tectona* | 17 | 2.2% |
-| 7 | *Tecoma* | 16 | 2.1% |
-| 8 | *Tabebuia* | 16 | 2.1% |
-| 9 | *Pterocarpus* | 15 | 2.0% |
-| 10 | *Artocarpus* | 14 | 1.8% |
-| 11 | *Syzygium* | 14 | 1.8% |
-| 12 | *Melaleuca* | 13 | 1.7% |
-| 13 | *Tabernaemontana* | 12 | 1.6% |
-| 14 | *Plumeria* | 12 | 1.6% |
-| 15 | *Azadirachta* | 12 | 1.6% |
-| 16 | *Delonix* | 10 | 1.3% |
-| 17 | *Quercus* | 10 | 1.3% |
-| 18 | *Pongamia* | 10 | 1.3% |
-| 19 | *Eucalyptus* | 9 | 1.2% |
-| (All Others) | 381 | 49.7% |
+| 1 | *Ficus* | 51 | 6.7% |
+| 2 | *Mesua* | 44 | 5.7% |
+| 3 | *Terminalia* | 44 | 5.7% |
+| 4 | *Cassia* | 25 | 3.3% |
+| 5 | *Peltophorum* | 23 | 3.0% |
+| 6 | *Mangifera* | 18 | 2.3% |
+| 7 | *Tectona* | 17 | 2.2% |
+| 8 | *Tecoma* | 16 | 2.1% |
+| 9 | *Tabebuia* | 16 | 2.1% |
+| 10 | *Pterocarpus* | 15 | 2.0% |
+| 11 | *Artocarpus* | 14 | 1.8% |
+| 12 | *Syzygium* | 14 | 1.8% |
+| 13 | *Melaleuca* | 13 | 1.7% |
+| 14 | *Tabernaemontana* | 12 | 1.6% |
+| 15 | *Plumeria* | 12 | 1.6% |
+| 16 | *Azadirachta* | 12 | 1.6% |
+| 17 | *Delonix* | 10 | 1.3% |
+| 18 | *Quercus* | 10 | 1.3% |
+| 19 | *Pongamia* | 10 | 1.3% |
+| 20 | *Eucalyptus* | 9 | 1.2% |
+| | (All Others) | 381 | 49.7% |
 
 ### Species
 
@@ -76,27 +76,27 @@ Results can be directly inspected using [this app](https://nuuuwan.github.io/pla
 
 | # | Species | n(Photos) | % |
 |---:|:---|---:|---:|
-| 0 | *Mesua ferrea* | 44 | 5.7% |
-| 1 | *Terminalia arjuna* | 32 | 4.2% |
-| 2 | *Cassia fistula* | 20 | 2.6% |
-| 3 | *Mangifera indica* | 18 | 2.3% |
-| 4 | *Peltophorum pterocarpum* | 18 | 2.3% |
-| 5 | *Tectona grandis* | 17 | 2.2% |
-| 6 | *Tecoma stans* | 16 | 2.1% |
-| 7 | *Ficus religiosa* | 16 | 2.1% |
-| 8 | *Artocarpus heterophyllus* | 14 | 1.8% |
-| 9 | *Pterocarpus indicus* | 13 | 1.7% |
-| 10 | *Azadirachta indica* | 12 | 1.6% |
-| 11 | *Tabernaemontana divaricata* | 11 | 1.4% |
-| 12 | *Tabebuia rosea* | 11 | 1.4% |
-| 13 | *Ficus benghalensis* | 11 | 1.4% |
-| 14 | *Delonix regia* | 10 | 1.3% |
-| 15 | *Pongamia pinnata* | 10 | 1.3% |
-| 16 | *Syzygium cumini* | 9 | 1.2% |
-| 17 | *Terminalia catappa* | 9 | 1.2% |
-| 18 | *Plumeria rubra* | 9 | 1.2% |
-| 19 | *Mimusops elengi* | 8 | 1.0% |
-| (All Others) | 458 | 59.8% |
+| 1 | *Mesua ferrea* | 44 | 5.7% |
+| 2 | *Terminalia arjuna* | 32 | 4.2% |
+| 3 | *Cassia fistula* | 20 | 2.6% |
+| 4 | *Mangifera indica* | 18 | 2.3% |
+| 5 | *Peltophorum pterocarpum* | 18 | 2.3% |
+| 6 | *Tectona grandis* | 17 | 2.2% |
+| 7 | *Tecoma stans* | 16 | 2.1% |
+| 8 | *Ficus religiosa* | 16 | 2.1% |
+| 9 | *Artocarpus heterophyllus* | 14 | 1.8% |
+| 10 | *Pterocarpus indicus* | 13 | 1.7% |
+| 11 | *Azadirachta indica* | 12 | 1.6% |
+| 12 | *Tabernaemontana divaricata* | 11 | 1.4% |
+| 13 | *Tabebuia rosea* | 11 | 1.4% |
+| 14 | *Ficus benghalensis* | 11 | 1.4% |
+| 15 | *Delonix regia* | 10 | 1.3% |
+| 16 | *Pongamia pinnata* | 10 | 1.3% |
+| 17 | *Syzygium cumini* | 9 | 1.2% |
+| 18 | *Terminalia catappa* | 9 | 1.2% |
+| 19 | *Plumeria rubra* | 9 | 1.2% |
+| 20 | *Mimusops elengi* | 8 | 1.0% |
+| | (All Others) | 458 | 59.8% |
 
 ## Identification Confidence (by Species with at least 5 Photos)
 

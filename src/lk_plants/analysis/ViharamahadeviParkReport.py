@@ -180,12 +180,12 @@ class ViharamahadeviParkReport:
         ):
             n = len(data_list)
             p = n / self.n_plant_photos
-            lines_table.append(f'| {} | *{key}* | {n:,} | {p:.1%} |')
+            lines_table.append(f'| {i+1} | *{key}* | {n:,} | {p:.1%} |')
             n_displayed += n
         n_others = self.n_plant_photos - n_displayed
         p_others = n_others / self.n_plant_photos
         lines_table.append(
-            f'| (All Others) | {n_others:,} | {p_others:.1%} |'
+            f'| | (All Others) | {n_others:,} | {p_others:.1%} |'
         )
 
         return (
