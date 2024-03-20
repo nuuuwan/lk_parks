@@ -51,9 +51,9 @@ class ViharamahadeviParkReport:
         return [
             '## Background',
             '',
-            'Viharamahadevi Park (Sinhala: විහාරමහාදේවී උද්‍යානය; formerly Victoria Park, Sinhala: වික්ටෝරියා පාක්) is a public park located in Cinnamon Gardens, in Colombo, situated in front of the colonial-era Town Hall in Sri Lanka. It was built by the British colonial administration and is the oldest and largest park of Colombo. The park was originally named "Victoria Park" after Queen Victoria but was renamed after Queen Viharamahadevi, the mother of King Dutugamunu on July 18, 1958. [[Wikipedia](https://en.wikipedia.org/wiki/Viharamahadevi_Park)]',
+            'Viharamahadevi Park (Sinhala: විහාරමහාදේවී උද්‍යානය; formerly Victoria Park, Sinhala: වික්ටෝරියා පාක්) is a public park located in Cinnamon Gardens, in [Colombo](https://en.wikipedia.org/wiki/Colombo), situated in front of the colonial-era Town Hall in Sri Lanka. It was built by the British colonial administration and is the oldest and largest park of Colombo. The park was originally named "Victoria Park" after Queen Victoria but was renamed after Queen Viharamahadevi, the mother of King Dutugamunu on July 18, 1958. [[Wikipedia](https://en.wikipedia.org/wiki/Viharamahadevi_Park)]',
             '',
-            'The extent of the park is 24.27 ha and the estimated green cover using a Google Earth image is 14.39 ha (59% from the total). The estimated crown cover from the ground survey for the park is 12.25 ha (50%). [[Madurapperum et al](https://www.researchgate.net/publication/282250239_CrownTree_cover_of_Viharamahadevi_Park_Colombo)]',
+            'Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wikipedia.org/wiki/Vegetation) of 14.39ha (59% from the total area). The estimated crown cover 12.25ha (50%). [[Madurapperum et al](https://www.researchgate.net/publication/282250239_CrownTree_cover_of_Viharamahadevi_Park_Colombo)]',
             '',
             f'*This analysis was automatically generated on  **{self.time_str}**, '
             + f'and is based on  **{self.n_plant_photos}** plant photos.*',
@@ -88,7 +88,7 @@ class ViharamahadeviParkReport:
                     species_name_2,
                     species_name_1,
                 )
-            key = f'*{species_name_1}* & *{species_name_2}*'
+            key = f'{species_name_1} & {species_name_2}'
             if key not in key_to_n:
                 key_to_n[key] = 0
             key_to_n[key] += 1
@@ -149,7 +149,7 @@ class ViharamahadeviParkReport:
             high = sorted_scores[i_high]
 
             lines.append(
-                f'| {species_name} | {n:,} | {low:.1%} | {mid:.1%} | {high:.1%} |'
+                f'| *{species_name}* | {n:,} | {low:.1%} | {mid:.1%} | {high:.1%} |'
             )
         lines.append('')
         return lines
