@@ -64,6 +64,49 @@ class ViharamahadeviParkReport:
             '',
         ]
 
+    @cached_property
+    def lines_identification_score(self):
+        species_name_to_score_list = {}
+        for data in self.data_list:
+            plant_net_result = PlantNetResult.from_plant_photo(data)
+            species_name_to_score = plant_net_result.species_name_to_score
+            if not species_name_to_score:
+                continue
+            species_name = list(species_name_to_score.keys())[0]
+            score = species_name_to_score[species_name]
+            if species_name not in species_name_to_score_list:
+                species_name_to_score_list[species_name] = []
+            species_name_to_score_list[species_name].append(score)
+
+        MIN_PHOTOS = 5
+        lines = [
+            f'## Identification Confidence (by Species with at least {MIN_PHOTOS} Photos)',
+            '',
+            '| Species | n(Photos) | Confidence (25th pctl.) | Confidence (75th pctl.) |',
+            '|:---|---:|---:|',
+        ]
+        sorted_items = sorted(
+            species_name_to_score_list.items(),
+            key=lambda x: sum(x[1]) / len(x[1]),
+            reverse=True,
+        )
+        for species_name, scores in sorted_items:
+            n = len(scores)
+            if n < MIN_PHOTOS:
+                continue
+
+            i_low = int(n * 0.25)
+            i_high = int(n * 0.75)
+            sorted_scores = sorted(scores)
+            low = sorted_scores[i_low]
+            high = sorted_scores[i_high]
+
+            lines.append(
+                f'| {species_name} | {n:,} | {low:.1%} | {high:.1%} |'
+            )
+        lines.append('')
+        return lines
+
     @cache
     def get_lines_analysis_by_key(self, label, get_key):
         key_to_data_list = {}
@@ -89,7 +132,9 @@ class ViharamahadeviParkReport:
             n_displayed += n
         n_others = self.n_plant_photos - n_displayed
         p_others = n_others / self.n_plant_photos
-        lines_table.append(f'| All Others | {n_others:,} | {p_others:.1%} |')
+        lines_table.append(
+            f'| (All Others) | {n_others:,} | {p_others:.1%} |'
+        )
 
         return (
             [
@@ -150,6 +195,7 @@ class ViharamahadeviParkReport:
             + self.lines_analysis_families
             + self.lines_analysis_genera
             + self.lines_analysis_species
+            + self.lines_identification_score
         )
 
     @cached_property
