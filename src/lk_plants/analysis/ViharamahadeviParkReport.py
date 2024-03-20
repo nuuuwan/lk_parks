@@ -75,7 +75,7 @@ class ViharamahadeviParkReport:
 
         n_unique = len(key_to_data_list)
 
-        lines_table = [f'| {label} | n(Photos) |', '|---|---|']
+        lines_table = [f'| {label} | n(Photos) |', '|:---|---:|']
         N_DISPLAY = 20
         n_displayed = 0
         for key, n in sorted(
@@ -139,7 +139,7 @@ class ViharamahadeviParkReport:
     def lines_analysis(self):
         return (
             [
-                '## Analysis',
+                '## Summary Statistics',
                 '',
             ]
             + self.lines_analysis_families
