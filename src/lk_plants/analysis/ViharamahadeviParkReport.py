@@ -75,16 +75,19 @@ class ViharamahadeviParkReport:
 
         n_unique = len(key_to_data_list)
 
-        lines_table = [f'| {label} | n(Photos) |', '|:---|---:|']
+        lines_table = [f'| {label} | n(Photos) | % |', '|:---|---:|---:|']
         N_DISPLAY = 20
         n_displayed = 0
-        for key, n in sorted(
+        for key, data_list in sorted(
             key_to_data_list.items(), key=lambda x: -len(x[1])
         )[:N_DISPLAY]:
-            lines_table.append(f'| {key} | {len(n)} |')
-            n_displayed += len(n)
+            n = len(data_list)
+            p  = n / self.n_plant_photos
+            lines_table.append(f'| *{key}* | {n:,} | {p:.1%} |')
+            n_displayed += n
         n_others = self.n_plant_photos - n_displayed
-        lines_table.append(f'| All Others | {n_others} |')
+        p_others = n_others / self.n_plant_photos
+        lines_table.append(f'| All Others | {n_others:,} | {p_others:.1%} |')
 
         return (
             [
