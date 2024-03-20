@@ -44,8 +44,6 @@ class ViharamahadeviParkReport:
         return [
             '# Plants of Vihaaramahadevi Park :sri_lanka:',
             '',
-            f'*Automatically Generated on **{self.time_str}**, from **{self.n_plant_photos}** plant photos.*',
-            '',
         ]
 
     @cached_property
@@ -53,9 +51,14 @@ class ViharamahadeviParkReport:
         return [
             '## Background',
             '',
-            '>> Viharamahadevi Park (Sinhala: විහාරමහාදේවී උද්‍යානය; formerly Victoria Park, Sinhala: වික්ටෝරියා පාක්) is a public park located in Cinnamon Gardens, in Colombo, situated in front of the colonial-era Town Hall in Sri Lanka. It was built by the British colonial administration and is the oldest and largest park of Colombo. The park was originally named "Victoria Park" after Queen Victoria but was renamed after Queen Viharamahadevi, the mother of King Dutugamunu on July 18, 1958. [[Wikipedia](https://en.wikipedia.org/wiki/Viharamahadevi_Park)]',
+            'Viharamahadevi Park (Sinhala: විහාරමහාදේවී උද්‍යානය; formerly Victoria Park, Sinhala: වික්ටෝරියා පාක්) is a public park located in Cinnamon Gardens, in Colombo, situated in front of the colonial-era Town Hall in Sri Lanka. It was built by the British colonial administration and is the oldest and largest park of Colombo. The park was originally named "Victoria Park" after Queen Victoria but was renamed after Queen Viharamahadevi, the mother of King Dutugamunu on July 18, 1958. [[Wikipedia](https://en.wikipedia.org/wiki/Viharamahadevi_Park)]',
             '',
-            '>> The extent of the park is 24.27 ha and the estimated green cover using a Google Earth image is 14.39 ha (59% from the total). The estimated crown cover from the ground survey for the park is 12.25 ha (50%). [[Madurapperum et al](https://www.researchgate.net/publication/282250239_CrownTree_cover_of_Viharamahadevi_Park_Colombo)]',
+            'The extent of the park is 24.27 ha and the estimated green cover using a Google Earth image is 14.39 ha (59% from the total). The estimated crown cover from the ground survey for the park is 12.25 ha (50%). [[Madurapperum et al](https://www.researchgate.net/publication/282250239_CrownTree_cover_of_Viharamahadevi_Park_Colombo)]',
+            '',
+            f'*This analysis was automatically generated on  **{self.time_str}**, '
+            + f'and is based on  **{self.n_plant_photos}** plant photos.*',
+            '',
+            'Results can be directly inspected using [this app](https://nuuuwan.github.io/plants).',
             '',
         ]
 
