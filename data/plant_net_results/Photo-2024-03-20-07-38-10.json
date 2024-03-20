@@ -1,0 +1,25 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-38-10",
+  "species_name_to_score": {
+    "Quercus acutissima": 0.20284,
+    "Acacia melanoxylon": 0.02753,
+    "Mangifera indica": 0.0124,
+    "Myristica fragrans": 0.01137,
+    "Toona ciliata": 0.00561,
+    "Mimusops elengi": 0.00459,
+    "Erythrina crista-galli": 0.00336,
+    "Osmanthus fragrans": 0.00253,
+    "Syzygium cumini": 0.00235,
+    "Crescentia cujete": 0.0023,
+    "Pyrrosia lanceolata": 0.00225,
+    "Ximenia americana": 0.00182,
+    "Acacia auriculiformis": 0.00163,
+    "Citharexylum spinosum": 0.00147,
+    "Punica granatum": 0.00142,
+    "Khaya senegalensis": 0.00138,
+    "Madhuca longifolia": 0.00136,
+    "Lagerstroemia parviflora": 0.00106,
+    "Annona glabra": 0.00102
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-03-53",
+  "species_name_to_score": {
+    "Holarrhena pubescens": 0.43739,
+    "Annona squamosa": 0.08539,
+    "Citharexylum spinosum": 0.03654,
+    "Cordia dichotoma": 0.01166,
+    "Pongamia pinnata": 0.00846,
+    "Tecoma stans": 0.00691,
+    "Ficus hispida": 0.0066,
+    "Cordia sebestena": 0.00524,
+    "Nephelium lappaceum": 0.00398,
+    "Ficus fistulosa": 0.00324,
+    "Lagerstroemia speciosa": 0.00263,
+    "Theobroma cacao": 0.00224,
+    "Gardenia jasminoides": 0.00211,
+    "Sapindus saponaria": 0.00131,
+    "Persea americana": 0.00118,
+    "Ehretia acuminata": 0.00103
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-38-35",
+  "species_name_to_score": {
+    "Quercus acutissima": 0.03116,
+    "Santalum album": 0.01338,
+    "Persea americana": 0.01162,
+    "Madhuca longifolia": 0.01022,
+    "Magnolia champaca": 0.00778,
+    "Dillenia indica": 0.00738,
+    "Phytolacca dioica": 0.00414,
+    "Manilkara zapota": 0.00383,
+    "Terminalia arjuna": 0.00377,
+    "Magnolia insignis": 0.00371,
+    "Dipterocarpus alatus": 0.00348,
+    "Cestrum diurnum": 0.00251,
+    "Citharexylum spinosum": 0.00246,
+    "Couroupita guianensis": 0.00236,
+    "Acacia melanoxylon": 0.00226,
+    "Litsea glutinosa": 0.00221,
+    "Garcinia atroviridis": 0.00217,
+    "Adansonia digitata": 0.00179,
+    "Cornus capitata": 0.00166,
+    "Acacia mangium": 0.00156,
+    "Rhaphiolepis bibas": 0.0013,
+    "Cotoneaster frigidus": 0.00104,
+    "Daphniphyllum chartaceum": 0.00102,
+    "Elaeocarpus floribundus": 0.00101,
+    "Acacia auriculiformis": 0.00101
+  }
+}

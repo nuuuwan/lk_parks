@@ -1,0 +1,23 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-32-26",
+  "species_name_to_score": {
+    "Eucalyptus robusta": 0.03239,
+    "Spathodea campanulata": 0.01062,
+    "Ficus virens": 0.00816,
+    "Bombax ceiba": 0.00522,
+    "Ficus geniculata": 0.00512,
+    "Litsea monopetala": 0.00486,
+    "Neolamarckia cadamba": 0.00409,
+    "Erythrina crista-galli": 0.00366,
+    "Cinnamomum camphora": 0.00355,
+    "Broussonetia papyrifera": 0.00185,
+    "Syzygium cumini": 0.00182,
+    "Ficus racemosa": 0.00155,
+    "Annona glabra": 0.00138,
+    "Juglans regia": 0.00115,
+    "Pterocarpus macrocarpus": 0.00111,
+    "Tecomella undulata": 0.00102,
+    "Erythrina poeppigiana": 0.00101
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-04-03",
+  "species_name_to_score": {
+    "Azadirachta indica": 0.67324,
+    "Toona ciliata": 0.10356,
+    "Swietenia mahagoni": 0.02387,
+    "Toxicodendron succedaneum": 0.01844,
+    "Pistacia chinensis": 0.00982,
+    "Swietenia macrophylla": 0.00844,
+    "Ailanthus altissima": 0.00729,
+    "Cedrela odorata": 0.00633,
+    "Decaisnea fargesii": 0.00511,
+    "Sapindus saponaria": 0.00388,
+    "Juglans nigra": 0.00268,
+    "Spondias mombin": 0.00243,
+    "Eucalyptus robusta": 0.00188,
+    "Bolusanthus speciosus": 0.00173,
+    "Spondias dulcis": 0.00147,
+    "Melia azedarach": 0.00105
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-42-57",
+  "species_name_to_score": {
+    "Tamarindus indica": 0.81748,
+    "Gleditsia triacanthos": 0.01461,
+    "Tipuana tipu": 0.00795,
+    "Vachellia farnesiana": 0.00692,
+    "Prosopis juliflora": 0.00468,
+    "Libidibia coriaria": 0.00383,
+    "Dichrostachys cinerea": 0.00263,
+    "Gleditsia sinensis": 0.0025,
+    "Robinia pseudoacacia": 0.00234,
+    "Jacaranda mimosifolia": 0.00108,
+    "Cassia grandis": 0.00107
+  }
+}

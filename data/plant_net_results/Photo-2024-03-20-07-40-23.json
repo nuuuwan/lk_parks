@@ -1,0 +1,33 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-40-23",
+  "species_name_to_score": {
+    "Guazuma ulmifolia": 0.12215,
+    "Pterocarpus indicus": 0.0528,
+    "Haematoxylum campechianum": 0.0294,
+    "Dalbergia melanoxylon": 0.01808,
+    "Robinia pseudoacacia": 0.00629,
+    "Pterocarpus macrocarpus": 0.00595,
+    "Ficus virens": 0.00556,
+    "Grewia flavescens": 0.00518,
+    "Luehea candida": 0.00449,
+    "Tipuana tipu": 0.00424,
+    "Pithecellobium dulce": 0.00419,
+    "Alangium salviifolium": 0.00388,
+    "Kleinhovia hospita": 0.00376,
+    "Strychnos nux-vomica": 0.0036,
+    "Terminalia arjuna": 0.00321,
+    "Dalbergia sissoo": 0.00263,
+    "Aegle marmelos": 0.00262,
+    "Dalbergia latifolia": 0.00204,
+    "Ficus tinctoria": 0.0018,
+    "Ficus racemosa": 0.0016,
+    "Ficus religiosa": 0.00149,
+    "Tecomella undulata": 0.00144,
+    "Citharexylum spinosum": 0.00133,
+    "Acer oblongum": 0.00133,
+    "Gliricidia sepium": 0.00124,
+    "Lagerstroemia speciosa": 0.00107,
+    "Eucalyptus robusta": 0.00105
+  }
+}

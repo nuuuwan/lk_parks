@@ -1,0 +1,22 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-34-44",
+  "species_name_to_score": {
+    "Syzygium cumini": 0.41684,
+    "Dalbergia latifolia": 0.01028,
+    "Strychnos nux-vomica": 0.0042,
+    "Dalbergia sissoo": 0.00376,
+    "Cleistanthus collinus": 0.00349,
+    "Diospyros melanoxylon": 0.00236,
+    "Flueggea virosa": 0.00232,
+    "Ficus retusa": 0.00222,
+    "Pterocarpus macrocarpus": 0.00216,
+    "Triadica sebifera": 0.00201,
+    "Sonneratia alba": 0.00183,
+    "Xylocarpus rumphii": 0.0016,
+    "Pterocarpus santalinus": 0.00129,
+    "Pyrus calleryana": 0.00123,
+    "Grona adscendens": 0.00115,
+    "Ficus benjamina": 0.00115
+  }
+}

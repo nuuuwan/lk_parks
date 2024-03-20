@@ -1,0 +1,28 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-36-33",
+  "species_name_to_score": {
+    "Gliricidia sepium": 0.04625,
+    "Styphnolobium japonicum": 0.04306,
+    "Pterocarpus indicus": 0.02488,
+    "Robinia pseudoacacia": 0.0218,
+    "Cassia fistula": 0.01137,
+    "Decaisnea insignis": 0.00775,
+    "Tipuana tipu": 0.00637,
+    "Cedrela odorata": 0.00618,
+    "Phyllanthus acidus": 0.00571,
+    "Senna spectabilis": 0.00565,
+    "Moringa oleifera": 0.00424,
+    "Cassia javanica": 0.00371,
+    "Dalbergia latifolia": 0.00304,
+    "Dendrolobium umbellatum": 0.00272,
+    "Swietenia mahagoni": 0.00199,
+    "Samanea saman": 0.00195,
+    "Juglans nigra": 0.00185,
+    "Ailanthus altissima": 0.0018,
+    "Pongamia pinnata": 0.00174,
+    "Averrhoa carambola": 0.00159,
+    "Spondias mombin": 0.00143,
+    "Catalpa bignonioides": 0.00121
+  }
+}

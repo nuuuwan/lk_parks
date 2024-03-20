@@ -1,0 +1,31 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-35-10",
+  "species_name_to_score": {
+    "Myristica fragrans": 0.05046,
+    "Syzygium jambos": 0.04217,
+    "Santalum album": 0.01546,
+    "Khaya senegalensis": 0.01144,
+    "Annona reticulata": 0.00908,
+    "Terminalia arjuna": 0.00704,
+    "Syzygium cumini": 0.0069,
+    "Annona squamosa": 0.00451,
+    "Elaeagnus umbellata": 0.00431,
+    "Ficus virens": 0.00294,
+    "Hopea odorata": 0.00232,
+    "Erythroxylum coca": 0.00225,
+    "Acacia melanoxylon": 0.00214,
+    "Garcinia indica": 0.00192,
+    "Durio zibethinus": 0.00182,
+    "Cinnamomum iners": 0.00179,
+    "Filicium decipiens": 0.00176,
+    "Dodonaea viscosa": 0.00173,
+    "Alangium salviifolium": 0.00149,
+    "Bhesa indica": 0.00138,
+    "Dillenia indica": 0.00129,
+    "Staphylea cochinchinensis": 0.00128,
+    "Aquilaria malaccensis": 0.00117,
+    "Diospyros nigra": 0.00109,
+    "Polyalthia suberosa": 0.00102
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-32-12",
+  "species_name_to_score": {
+    "Couroupita guianensis": 0.41402,
+    "Heritiera littoralis": 0.01517,
+    "Swietenia macrophylla": 0.01323,
+    "Aesculus indica": 0.01238,
+    "Sterculia foetida": 0.00874,
+    "Ficus caulocarpa": 0.00742,
+    "Bombax ceiba": 0.00489,
+    "Ficus virens": 0.00253,
+    "Ceiba pentandra": 0.00214,
+    "Manilkara zapota": 0.00192,
+    "Madhuca longifolia": 0.00151,
+    "Khaya senegalensis": 0.00122,
+    "Pterygota alata": 0.0012,
+    "Hevea brasiliensis": 0.00105
+  }
+}

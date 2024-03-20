@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-36-59",
+  "species_name_to_score": {
+    "Tipuana tipu": 0.62336,
+    "Juglans nigra": 0.03235,
+    "Azadirachta indica": 0.01157,
+    "Pistacia chinensis": 0.0064,
+    "Guazuma ulmifolia": 0.00556,
+    "Gleditsia triacanthos": 0.00533,
+    "Koelreuteria paniculata": 0.00479,
+    "Cedrela odorata": 0.00164,
+    "Spondias mombin": 0.00123,
+    "Tamarindus indica": 0.00118,
+    "Amorpha fruticosa": 0.00114,
+    "Robinia pseudoacacia": 0.00107,
+    "Senna spectabilis": 0.00101
+  }
+}

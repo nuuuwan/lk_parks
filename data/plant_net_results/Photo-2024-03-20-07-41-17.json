@@ -1,0 +1,21 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-41-17",
+  "species_name_to_score": {
+    "Schleichera oleosa": 0.22258,
+    "Anacardium occidentale": 0.06346,
+    "Terminalia catappa": 0.04143,
+    "Careya arborea": 0.01471,
+    "Barringtonia asiatica": 0.00783,
+    "Crescentia cujete": 0.00382,
+    "Pometia pinnata": 0.00376,
+    "Cupaniopsis anacardioides": 0.00306,
+    "Petrea volubilis": 0.0025,
+    "Couroupita guianensis": 0.00197,
+    "Barringtonia racemosa": 0.00154,
+    "Barringtonia acutangula": 0.00127,
+    "Spathodea campanulata": 0.00126,
+    "Swietenia mahagoni": 0.00105,
+    "Theobroma cacao": 0.00102
+  }
+}

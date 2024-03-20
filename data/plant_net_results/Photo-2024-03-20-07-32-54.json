@@ -1,0 +1,28 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-32-54",
+  "species_name_to_score": {
+    "Syzygium malaccense": 0.45358,
+    "Ardisia elliptica": 0.0295,
+    "Syzygium jambos": 0.02692,
+    "Barringtonia acutangula": 0.02031,
+    "Syzygium cumini": 0.01494,
+    "Syzygium samarangense": 0.01104,
+    "Litchi chinensis": 0.0105,
+    "Terminalia catappa": 0.00975,
+    "Heritiera littoralis": 0.00631,
+    "Tectona grandis": 0.00433,
+    "Artocarpus integer": 0.00407,
+    "Viburnum odoratissimum": 0.00374,
+    "Annona muricata": 0.00371,
+    "Magnolia champaca": 0.00327,
+    "Dillenia indica": 0.00287,
+    "Syzygium aqueum": 0.00265,
+    "Ixora finlaysoniana": 0.00238,
+    "Ficus exasperata": 0.00232,
+    "Calophyllum inophyllum": 0.00197,
+    "Croton persimilis": 0.00148,
+    "Artocarpus heterophyllus": 0.00121,
+    "Couroupita guianensis": 0.00107
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-33-13",
+  "species_name_to_score": {
+    "Holarrhena pubescens": 0.14028,
+    "Annona squamosa": 0.01509,
+    "Lagerstroemia speciosa": 0.00847,
+    "Mussaenda philippica": 0.00271,
+    "Dendrolobium umbellatum": 0.00227,
+    "Cananga odorata": 0.00191,
+    "Curcuma zanthorrhiza": 0.00169,
+    "Psidium guajava": 0.00154,
+    "Combretum indicum": 0.00147,
+    "Tetracera sarmentosa": 0.00143,
+    "Bridelia tomentosa": 0.00114,
+    "Pleurolobus gangeticus": 0.00114,
+    "Justicia adhatoda": 0.00102
+  }
+}

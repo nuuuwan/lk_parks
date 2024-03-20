@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-42-03",
+  "species_name_to_score": {
+    "Toona ciliata": 0.03166,
+    "Cassia fistula": 0.02709,
+    "Ficus geniculata": 0.02705,
+    "Hymenaea courbaril": 0.01103,
+    "Sapindus saponaria": 0.00536,
+    "Juglans regia": 0.00344,
+    "Pterocarpus indicus": 0.00246,
+    "Albizia procera": 0.00233,
+    "Schleichera oleosa": 0.00218,
+    "Strychnos nux-vomica": 0.00216,
+    "Khaya senegalensis": 0.00197,
+    "Cedrela odorata": 0.00194,
+    "Harpullia cupanioides": 0.00176,
+    "Ficus racemosa": 0.0016,
+    "Aegle marmelos": 0.00147,
+    "Terminalia arjuna": 0.00146,
+    "Strychnos potatorum": 0.00142,
+    "Dillenia pentagyna": 0.00136,
+    "Crateva religiosa": 0.0013,
+    "Cassia grandis": 0.0013,
+    "Ficus variegata": 0.00101
+  }
+}

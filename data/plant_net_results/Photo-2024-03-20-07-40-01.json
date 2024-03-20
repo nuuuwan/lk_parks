@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-40-01",
+  "species_name_to_score": {
+    "Mangifera indica": 0.74595,
+    "Phytolacca dioica": 0.02768,
+    "Acacia auriculiformis": 0.01346,
+    "Podocarpus neriifolius": 0.00185,
+    "Monoon longifolium": 0.00178,
+    "Ficus maclellandii": 0.00175,
+    "Ceiba pentandra": 0.00169,
+    "Persea americana": 0.00151,
+    "Acacia melanoxylon": 0.00127,
+    "Cerbera manghas": 0.0011
+  }
+}

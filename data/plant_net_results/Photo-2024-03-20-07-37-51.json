@@ -1,0 +1,31 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-37-51",
+  "species_name_to_score": {
+    "Cassia fistula": 0.38018,
+    "Pterocarpus indicus": 0.07169,
+    "Juglans regia": 0.0566,
+    "Aquilaria malaccensis": 0.0092,
+    "Cedrela odorata": 0.00838,
+    "Syzygium cumini": 0.0049,
+    "Nephelium lappaceum": 0.00445,
+    "Afzelia africana": 0.00422,
+    "Terminalia elliptica": 0.00414,
+    "Pongamia pinnata": 0.00375,
+    "Sapindus mukorossi": 0.00265,
+    "Toona ciliata": 0.00229,
+    "Diospyros melanoxylon": 0.00215,
+    "Diospyros lotus": 0.00197,
+    "Terminalia chebula": 0.00178,
+    "Dimocarpus longan": 0.00154,
+    "Heynea trijuga": 0.0015,
+    "Cananga odorata": 0.0015,
+    "Oroxylum indicum": 0.00149,
+    "Dalbergia latifolia": 0.0013,
+    "Lepisanthes rubiginosa": 0.00114,
+    "Annona muricata": 0.00111,
+    "Juglans nigra": 0.00104,
+    "Tipuana tipu": 0.00104,
+    "Decaisnea fargesii": 0.00101
+  }
+}

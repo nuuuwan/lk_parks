@@ -1,0 +1,25 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-02-59",
+  "species_name_to_score": {
+    "Brownea grandiceps": 0.56519,
+    "Amherstia nobilis": 0.04578,
+    "Cassia javanica": 0.0427,
+    "Saraca indica": 0.01652,
+    "Cassia roxburghii": 0.01076,
+    "Cedrela odorata": 0.00499,
+    "Theobroma cacao": 0.00267,
+    "Albizia julibrissin": 0.0024,
+    "Averrhoa bilimbi": 0.00215,
+    "Saraca asoca": 0.00189,
+    "Toona ciliata": 0.00151,
+    "Mesua ferrea": 0.00141,
+    "Cassia moschata": 0.00139,
+    "Cassia grandis": 0.00136,
+    "Brownea rosa-de-monte": 0.00129,
+    "Pometia pinnata": 0.00124,
+    "Calliandra haematocephala": 0.00118,
+    "Garuga floribunda": 0.00117,
+    "Ailanthus altissima": 0.00114
+  }
+}

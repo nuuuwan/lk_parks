@@ -1,0 +1,17 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-41-11",
+  "species_name_to_score": {
+    "Peltophorum pterocarpum": 0.35106,
+    "Peltophorum dubium": 0.26336,
+    "Peltophorum africanum": 0.02132,
+    "Jacaranda mimosifolia": 0.01607,
+    "Delonix regia": 0.00167,
+    "Libidibia coriaria": 0.00157,
+    "Leucaena leucocephala": 0.00128,
+    "Falcataria falcata": 0.00124,
+    "Samanea saman": 0.00115,
+    "Biancaea sappan": 0.00113,
+    "Albizia lebbeck": 0.00107
+  }
+}

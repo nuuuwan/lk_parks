@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-34-24",
+  "species_name_to_score": {
+    "Peltophorum pterocarpum": 0.37883,
+    "Peltophorum africanum": 0.15609,
+    "Biancaea sappan": 0.009,
+    "Peltophorum dubium": 0.00585,
+    "Jacaranda mimosifolia": 0.00421,
+    "Libidibia ferrea": 0.00279,
+    "Libidibia coriaria": 0.00235,
+    "Tamarindus indica": 0.00161
+  }
+}

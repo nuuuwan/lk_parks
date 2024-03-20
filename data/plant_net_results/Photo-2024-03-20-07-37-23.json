@@ -1,0 +1,21 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-37-23",
+  "species_name_to_score": {
+    "Azadirachta indica": 0.5024,
+    "Juglans nigra": 0.04945,
+    "Toona ciliata": 0.02864,
+    "Tipuana tipu": 0.01795,
+    "Styphnolobium japonicum": 0.00572,
+    "Prosopis glandulosa": 0.00352,
+    "Jacaranda mimosifolia": 0.0033,
+    "Ailanthus altissima": 0.00306,
+    "Spondias mombin": 0.00206,
+    "Cedrela odorata": 0.00197,
+    "Pistacia chinensis": 0.00162,
+    "Sesbania grandiflora": 0.0013,
+    "Chloroxylon swietenia": 0.00118,
+    "Peltophorum dubium": 0.00117,
+    "Tamarindus indica": 0.00101
+  }
+}

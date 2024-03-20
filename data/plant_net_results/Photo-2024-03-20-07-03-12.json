@@ -1,0 +1,17 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-03-12",
+  "species_name_to_score": {
+    "Leea guineensis": 0.03303,
+    "Toona ciliata": 0.00673,
+    "Leea indica": 0.00504,
+    "Coffea arabica": 0.00297,
+    "Annona reticulata": 0.00161,
+    "Saraca asoca": 0.00118,
+    "Swietenia mahagoni": 0.00112,
+    "Oroxylum indicum": 0.0011,
+    "Vitex altissima": 0.00109,
+    "Swietenia macrophylla": 0.00104,
+    "Heteropanax fragrans": 0.00103
+  }
+}

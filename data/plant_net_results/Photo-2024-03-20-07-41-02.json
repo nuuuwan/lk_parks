@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-41-02",
+  "species_name_to_score": {
+    "Cassia fistula": 0.0178,
+    "Copaifera langsdorffii": 0.00475,
+    "Toona ciliata": 0.00424,
+    "Holarrhena pubescens": 0.00316,
+    "Schotia brachypetala": 0.00295,
+    "Saraca asoca": 0.00214,
+    "Muntingia calabura": 0.00204,
+    "Hymenaea courbaril": 0.00129,
+    "Entada rheedei": 0.0011,
+    "Dimocarpus longan": 0.00106
+  }
+}

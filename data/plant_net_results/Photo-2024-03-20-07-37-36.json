@@ -1,0 +1,29 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-37-36",
+  "species_name_to_score": {
+    "Pterocarpus indicus": 0.2064,
+    "Cassia fistula": 0.07525,
+    "Koelreuteria paniculata": 0.01683,
+    "Guazuma ulmifolia": 0.01397,
+    "Pongamia pinnata": 0.00402,
+    "Sapindus mukorossi": 0.00325,
+    "Mesua ferrea": 0.00297,
+    "Sapindus saponaria": 0.00284,
+    "Senna spectabilis": 0.00248,
+    "Pterocarpus macrocarpus": 0.00195,
+    "Cananga odorata": 0.0019,
+    "Acer negundo": 0.00184,
+    "Juglans nigra": 0.00179,
+    "Averrhoa carambola": 0.00176,
+    "Diospyros lotus": 0.00162,
+    "Swietenia mahagoni": 0.00144,
+    "Decaisnea fargesii": 0.00138,
+    "Pterygota alata": 0.00132,
+    "Toona ciliata": 0.0013,
+    "Spathodea campanulata": 0.00122,
+    "Holarrhena pubescens": 0.00117,
+    "Juglans regia": 0.00108,
+    "Tipuana tipu": 0.00102
+  }
+}

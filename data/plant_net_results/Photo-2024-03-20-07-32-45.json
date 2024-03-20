@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-20-07-32-45",
+  "species_name_to_score": {
+    "Azadirachta indica": 0.74245,
+    "Toona ciliata": 0.04239,
+    "Pistacia chinensis": 0.03482,
+    "Juglans nigra": 0.03265,
+    "Cedrela odorata": 0.00424,
+    "Ailanthus altissima": 0.00306,
+    "Choerospondias axillaris": 0.00263,
+    "Spondias mombin": 0.00152,
+    "Styphnolobium japonicum": 0.00112,
+    "Jacaranda mimosifolia": 0.00104
+  }
+}
