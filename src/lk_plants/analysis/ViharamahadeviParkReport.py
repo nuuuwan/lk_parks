@@ -64,7 +64,7 @@ class ViharamahadeviParkReport:
             '',
         ]
 
-    @cached_property 
+    @cached_property
     def lines_confusion(self):
         MIN_PHOTOS = 2
         lines = [
@@ -84,18 +84,26 @@ class ViharamahadeviParkReport:
             if score_1 > 2 * score_2:
                 continue
             if species_name_1 > species_name_2:
-                species_name_1, species_name_2 = species_name_2, species_name_1
-            key  = f'*{species_name_1}* & *{species_name_2}*'
+                species_name_1, species_name_2 = (
+                    species_name_2,
+                    species_name_1,
+                )
+            key = f'*{species_name_1}* & *{species_name_2}*'
             if key not in key_to_n:
                 key_to_n[key] = 0
             key_to_n[key] += 1
 
-        lines_table = [f'| Species 1 | Species 2 | n(Photos) |', '|:---|:---|---:|']
+        lines_table = [
+            f'| Species 1 | Species 2 | n(Photos) |',
+            '|:---|:---|---:|',
+        ]
         for key, n in sorted(key_to_n.items(), key=lambda x: -x[1]):
             if n < MIN_PHOTOS:
                 continue
             species_name_1, species_name_2 = key.split(' & ')
-            lines_table.append(f'| *{species_name_1}* | *{species_name_2}* | {n:,} |')
+            lines_table.append(
+                f'| *{species_name_1}* | *{species_name_2}* | {n:,} |'
+            )
 
         lines += lines_table
         lines.append('')
@@ -139,7 +147,6 @@ class ViharamahadeviParkReport:
             low = sorted_scores[i_low]
             mid = sorted_scores[i_mid]
             high = sorted_scores[i_high]
-            
 
             lines.append(
                 f'| {species_name} | {n:,} | {low:.1%} | {mid:.1%} | {high:.1%} |'
@@ -240,7 +247,12 @@ class ViharamahadeviParkReport:
 
     @cached_property
     def lines(self):
-        return self.lines_header + self.lines_background + self.lines_analysis + self.lines_confusion
+        return (
+            self.lines_header
+            + self.lines_background
+            + self.lines_analysis
+            + self.lines_confusion
+        )
 
     def write(self):
         path = 'README.md'
