@@ -21,11 +21,13 @@ class IdentificationReport:
             if species_name not in species_name_to_score_list:
                 species_name_to_score_list[species_name] = []
             species_name_to_score_list[species_name].append(score)
+        
         sorted_species_name_and_score_list = sorted(
-            self.species_name_to_score_list.items(),
+            species_name_to_score_list.items(),
             key=lambda x: sum(x[1]) / len(x[1]),
             reverse=True,
         )
+        
         return sorted_species_name_and_score_list
 
     @cached_property

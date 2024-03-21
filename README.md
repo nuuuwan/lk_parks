@@ -1,8 +1,8 @@
 # Plants of Vihaaramahadevi Park :sri_lanka:
 
-*This analysis was automatically generated on  **Mar 21, 2024 (09:33 AM)**, and is based on  **776** plant photos.*
+*This analysis was automatically generated on  **Mar 21, 2024 (10:27 AM)**, and is based on  **776** plant photos.*
 
-Results can be directly inspected using [this app](https://nuuuwan.github.io/plants).
+Results can be directly inspected using [this app](https://nuuuwan.github.io/plants)
 
 ![App](image.app.png)
 
@@ -19,7 +19,7 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 **75** unique Families.
 
 | # | Families | n(Photos) | % |
-|---:|:---|---:|---:|
+| ---: | :--- | ---: | ---: |
 | 1 | *Fabaceae* | 155 | 20.0% |
 | 2 | *Moraceae* | 66 | 8.5% |
 | 3 | *Calophyllaceae* | 50 | 6.4% |
@@ -40,14 +40,14 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 | 18 | *Phyllanthaceae* | 9 | 1.2% |
 | 19 | *Podocarpaceae* | 8 | 1.0% |
 | 20 | *Lythraceae* | 8 | 1.0% |
-| | (All Others) | 123 | 15.9% |
+|  | *(All Others)* | 110 | 14.2% |
 
 ### Genera
 
 **183** unique Genera.
 
 | # | Genera | n(Photos) | % |
-|---:|:---|---:|---:|
+| ---: | :--- | ---: | ---: |
 | 1 | *Ficus* | 51 | 6.6% |
 | 2 | *Terminalia* | 45 | 5.8% |
 | 3 | *Mesua* | 44 | 5.7% |
@@ -68,14 +68,14 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 | 18 | *Quercus* | 10 | 1.3% |
 | 19 | *Pongamia* | 10 | 1.3% |
 | 20 | *Eucalyptus* | 9 | 1.2% |
-| | (All Others) | 389 | 50.1% |
+|  | *(All Others)* | 326 | 42.0% |
 
 ### Species
 
 **254** unique Species.
 
 | # | Species | n(Photos) | % |
-|---:|:---|---:|---:|
+| ---: | :--- | ---: | ---: |
 | 1 | *Mesua ferrea* | 44 | 5.7% |
 | 2 | *Terminalia arjuna* | 33 | 4.3% |
 | 3 | *Cassia fistula* | 20 | 2.6% |
@@ -96,7 +96,7 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 | 18 | *Terminalia catappa* | 9 | 1.2% |
 | 19 | *Plumeria rubra* | 9 | 1.2% |
 | 20 | *Toona ciliata* | 8 | 1.0% |
-| | (All Others) | 466 | 60.1% |
+|  | *(All Others)* | 468 | 60.3% |
 
 ## Identification Confidence (by Species with at least 5 Photos)
 
@@ -150,7 +150,7 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 ## Pairs of Plant Species, likely confused during identification (at least 2 times)
 
 | Species 1 | Species 2 | n(Photos) |
-|:---|:---|---:|
+| :--- | :--- | ---: |
 | *Jacaranda mimosifolia* | *Peltophorum pterocarpum* | 7 |
 | *Ficus benghalensis* | *Ficus elastica* | 3 |
 | *Pterocarpus indicus* | *Tipuana tipu* | 3 |
