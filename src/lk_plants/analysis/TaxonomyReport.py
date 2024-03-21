@@ -36,7 +36,7 @@ class TaxonomyReport:
         others_list = []
         for data_list in others_list_list:
             others_list.extend(data_list)
-        top_list['(All Others)'] = others_list
+        top_list.append('(All Others)', others_list)
         return top_list
 
     @cache
