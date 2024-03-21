@@ -127,12 +127,10 @@ class ViharamahadeviParkReport(
                 '## Summary Statistics',
                 '',
             ]
-                       + self.lines_most_common_species
+            + self.lines_most_common_species
             + self.lines_analysis_species
-            
             + self.lines_analysis_genera
             + self.lines_analysis_families
- 
             + self.lines_identification_score
         )
 
