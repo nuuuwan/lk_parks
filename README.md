@@ -1,10 +1,11 @@
 # Plants of Vihaaramahadevi Park :sri_lanka:
 
-*This analysis was automatically generated on  **Mar 21, 2024 (04:35 PM)**, and is based on  **493** plant photos.*
+*This analysis was automatically generated on  **Mar 21, 2024 (04:37 PM)**, and is based on  **493** plant photos.*
 
 ![PlantNet](https://plantnet.org/wp-content/uploads/2020/12/plantnet_header.png)
 
 Plant Identifications are from  [PlantNet](https://plantnet.org), a citizen science project for automatic plant identification through photographs and based on machine learning.
+
 We only consider results where the models confidence is above 20%.
 
 Results can be directly inspected using [this app](https://nuuuwan.github.io/plants)
@@ -73,7 +74,7 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 | 10 | [*Pongamia pinnata*](https://en.wikipedia.org/wiki/Pongamia_pinnata) | 12 | 2.4% |
 |  | *(All Others)* | 280 | 56.8% |
 
-<img src="data/images/Photo-2024-03-11-07-03-27.jpg" alt="Mesua ferrea" width="45%" style=margin:1%; /><img src="data/images/Photo-2024-03-21-07-08-12.jpg" alt="Terminalia arjuna" width="45%" style=margin:1%; /><img src="data/images/Photo-2024-03-21-08-12-16.jpg" alt="Mangifera indica" width="45%" style=margin:1%; /><img src="data/images/Photo-2024-03-11-06-40-57.jpg" alt="Tecoma stans" width="45%" style=margin:1%; /><img src="data/images/Photo-2024-03-19-07-18-25.jpg" alt="Tectona grandis" width="45%" style=margin:1%; /><img src="data/images/Photo-2024-03-11-06-27-36.jpg" alt="Tabernaemontana divaricata" width="45%" style=margin:1%; /><img src="data/images/Photo-2024-03-08-07-07-47.jpg" alt="Artocarpus heterophyllus" width="45%" style=margin:1%; /><img src="data/images/Photo-2024-03-11-06-36-36.jpg" alt="Terminalia catappa" width="45%" style=margin:1%; /><img src="data/images/Photo-2024-03-08-07-09-59.jpg" alt="Cassia fistula" width="45%" style=margin:1%; /><img src="data/images/Photo-2024-03-21-08-10-07.jpg" alt="Pongamia pinnata" width="45%" style=margin:1%; />
+<img src="data/images/Photo-2024-03-11-07-03-27.jpg" alt="Mesua ferrea" width="33%" style= /><img src="data/images/Photo-2024-03-21-07-08-12.jpg" alt="Terminalia arjuna" width="33%" style= /><img src="data/images/Photo-2024-03-21-08-12-16.jpg" alt="Mangifera indica" width="33%" style= /><img src="data/images/Photo-2024-03-11-06-40-57.jpg" alt="Tecoma stans" width="33%" style= /><img src="data/images/Photo-2024-03-19-07-18-25.jpg" alt="Tectona grandis" width="33%" style= /><img src="data/images/Photo-2024-03-11-06-27-36.jpg" alt="Tabernaemontana divaricata" width="33%" style= /><img src="data/images/Photo-2024-03-08-07-07-47.jpg" alt="Artocarpus heterophyllus" width="33%" style= /><img src="data/images/Photo-2024-03-11-06-36-36.jpg" alt="Terminalia catappa" width="33%" style= /><img src="data/images/Photo-2024-03-08-07-09-59.jpg" alt="Cassia fistula" width="33%" style= /><img src="data/images/Photo-2024-03-21-08-10-07.jpg" alt="Pongamia pinnata" width="33%" style= />
 
 ## Identification Confidence
 
