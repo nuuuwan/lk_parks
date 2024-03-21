@@ -9,7 +9,7 @@ log = Log('ConfusionReport')
 
 
 class ConfusionReport:
-    MIN_PHOTOS = 2
+    MIN_PHOTOS = 3
 
     @cached_property
     def confusion_key_to_n(self):

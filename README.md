@@ -1,6 +1,6 @@
 # Plants of Vihaaramahadevi Park :sri_lanka:
 
-*This analysis was automatically generated on  **Mar 21, 2024 (11:38 AM)**, and is based on  **883** plant photos.*
+*This analysis was automatically generated on  **Mar 21, 2024 (11:40 AM)**, and is based on  **883** plant photos.*
 
 Results can be directly inspected using [this app](https://nuuuwan.github.io/plants)
 
@@ -30,17 +30,7 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 | 8 | *Meliaceae* | 39 | 4.4% |
 | 9 | *Anacardiaceae* | 35 | 4.0% |
 | 10 | *Arecaceae* | 31 | 3.5% |
-| 11 | *Sapotaceae* | 27 | 3.1% |
-| 12 | *Lamiaceae* | 24 | 2.7% |
-| 13 | *Annonaceae* | 18 | 2.0% |
-| 14 | *Malvaceae* | 14 | 1.6% |
-| 15 | *Sapindaceae* | 14 | 1.6% |
-| 16 | *Lauraceae* | 10 | 1.1% |
-| 17 | *Rubiaceae* | 10 | 1.1% |
-| 18 | *Fagaceae* | 10 | 1.1% |
-| 19 | *Phyllanthaceae* | 10 | 1.1% |
-| 20 | *Podocarpaceae* | 9 | 1.0% |
-|  | *(All Others)* | 116 | 13.1% |
+|  | *(All Others)* | 136 | 15.4% |
 
 ### Genera
 
@@ -58,17 +48,7 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 | 8 | *Pongamia* | 18 | 2.0% |
 | 9 | *Syzygium* | 17 | 1.9% |
 | 10 | *Pterocarpus* | 17 | 1.9% |
-| 11 | *Tecoma* | 16 | 1.8% |
-| 12 | *Tabebuia* | 16 | 1.8% |
-| 13 | *Artocarpus* | 16 | 1.8% |
-| 14 | *Tabernaemontana* | 15 | 1.7% |
-| 15 | *Melaleuca* | 13 | 1.5% |
-| 16 | *Plumeria* | 12 | 1.4% |
-| 17 | *Azadirachta* | 12 | 1.4% |
-| 18 | *Toona* | 10 | 1.1% |
-| 19 | *Delonix* | 10 | 1.1% |
-| 20 | *Quercus* | 10 | 1.1% |
-|  | *(All Others)* | 348 | 39.4% |
+|  | *(All Others)* | 368 | 41.7% |
 
 ### Species
 
@@ -86,23 +66,13 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 | 8 | *Tecoma stans* | 16 | 1.8% |
 | 9 | *Artocarpus heterophyllus* | 16 | 1.8% |
 | 10 | *Ficus religiosa* | 16 | 1.8% |
-| 11 | *Pterocarpus indicus* | 15 | 1.7% |
-| 12 | *Tabernaemontana divaricata* | 14 | 1.6% |
-| 13 | *Ficus benghalensis* | 14 | 1.6% |
-| 14 | *Terminalia catappa* | 13 | 1.5% |
-| 15 | *Azadirachta indica* | 12 | 1.4% |
-| 16 | *Tabebuia rosea* | 11 | 1.2% |
-| 17 | *Toona ciliata* | 10 | 1.1% |
-| 18 | *Delonix regia* | 10 | 1.1% |
-| 19 | *Ficus virens* | 10 | 1.1% |
-| 20 | *Syzygium cumini* | 9 | 1.0% |
-|  | *(All Others)* | 494 | 55.9% |
+|  | *(All Others)* | 514 | 58.2% |
 
 ## Identification Confidence
 
 ![](charts/identification_score.species.png)
 
-## Pairs of Plant Species, likely confused during identification (at least 2 times)
+## Pairs of Plant Species, likely confused during identification (at least 3 times)
 
 | Species 1 | Species 2 | n(Photos) |
 | :--- | :--- | ---: |
@@ -113,17 +83,3 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 | *Pterocarpus indicus* | *Tipuana tipu* | 3 |
 | *Cassia fistula* | *Pterocarpus indicus* | 3 |
 | *Ficus religiosa* | *Ficus virens* | 3 |
-| *Ficus aurea* | *Ficus luschnathiana* | 2 |
-| *Psidium guajava* | *Terminalia arjuna* | 2 |
-| *Delonix regia* | *Hymenaea courbaril* | 2 |
-| *Casuarina cunninghamiana* | *Casuarina equisetifolia* | 2 |
-| *Plumeria alba* | *Plumeria rubra* | 2 |
-| *Pongamia pinnata* | *Pterocarpus indicus* | 2 |
-| *Ficus benghalensis* | *Ficus religiosa* | 2 |
-| *Delonix regia* | *Jacaranda mimosifolia* | 2 |
-| *Delonix regia* | *Peltophorum pterocarpum* | 2 |
-| *Ficus altissima* | *Ficus virens* | 2 |
-| *Ficus benghalensis* | *Ficus virens* | 2 |
-| *Swietenia macrophylla* | *Swietenia mahagoni* | 2 |
-| *Cascabela thevetia* | *Podocarpus neriifolius* | 2 |
-| *Brownea grandiceps* | *Saraca indica* | 2 |
