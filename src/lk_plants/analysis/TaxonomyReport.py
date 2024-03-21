@@ -57,7 +57,7 @@ class TaxonomyReport:
             n = len(data_list)
             p = n / self.n_plant_photos
             row_str = (i + 1) if i < TaxonomyReport.N_DISPLAY else ''
-            
+
             lines.extend(
                 Markdown.table(
                     [row_str, Markdown.italic(key), f'{n:,}', f'{p:.1%}'],
