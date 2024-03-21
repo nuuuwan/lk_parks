@@ -49,8 +49,8 @@ class Markdown:
         return f'![{alt}]({url})'
 
     @staticmethod
-    def image_html(alt, url, width):
-        return f'<img src="{url}" alt="{alt}" width="{width}" />'
+    def image_html(alt, url, width, style=""):
+        return f'<img src="{url}" alt="{alt}" width="{width}" style={style} />'
 
     @staticmethod
     def table_row(cells):
