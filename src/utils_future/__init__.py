@@ -51,7 +51,7 @@ class Markdown:
 
     @staticmethod
     def image_html(alt, url, width):
-        return f'<img src="{url}" alt="{alt}" width={width} />'
+        return f'<img src="{url}" alt="{alt}" width="{width}" />'
 
     @staticmethod
     def table_row(cells):
