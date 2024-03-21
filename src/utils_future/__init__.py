@@ -55,4 +55,4 @@ class Markdown:
                     'All rows must have the same number of cells'
                 )
 
-        return '\n'.join([Markdown.table_row(cells) for cells in cells_list])
+        return [Markdown.table_row(cells) for cells in cells_list]
