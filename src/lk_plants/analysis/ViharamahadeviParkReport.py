@@ -66,8 +66,6 @@ class ViharamahadeviParkReport(
             + f'generated on  **{self.time_str}**, '
             + f'and is based on  **{self.n_plant_photos}** plant photos.*',
             '',
-           
-
         ]
 
     @cached_property
@@ -82,11 +80,11 @@ class ViharamahadeviParkReport(
         ]
 
     @cached_property
-    def lines_plantnet(self): 
+    def lines_plantnet(self):
         return [
             '## ' + Markdown.link('PlantNet', 'https://plantnet.org'),
             '',
-             Markdown.image(
+            Markdown.image(
                 'PlantNet',
                 'https://plantnet.org'
                 + '/wp-content/uploads/2020/12/plantnet_header.png',
@@ -101,20 +99,21 @@ class ViharamahadeviParkReport(
             + f"is above {ViharamahadeviParkReport.MIN_CONFIDENCE:.0%}.",
             '',
         ]
-    
 
     @cached_property
     def lines_app(self):
         return [
-            '## The ' + Markdown.link('Plants', 'https://nuuuwan.github.io/plants')  + ' App',
+            '## The '
+            + Markdown.link('Plants', 'https://nuuuwan.github.io/plants')
+            + ' App',
             '',
             'Results can be directly inspected using our '
-            + Markdown.link('Plants', 'https://nuuuwan.github.io/plants') + " App.",
+            + Markdown.link('Plants', 'https://nuuuwan.github.io/plants')
+            + " App.",
             '',
             Markdown.image('App', 'images/app.png'),
             '',
         ]
-    
 
     @cached_property
     def lines_analysis(self):
