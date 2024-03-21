@@ -127,9 +127,8 @@ class TaxonomyReport:
         key_and_data_list = self.get_sorted_key_and_data_list(
             TaxonomyReport.get_key_species
         )
-        N_DISPLAY = 9
         image_lines = []
-        for key, data_list in key_and_data_list[:N_DISPLAY]:
+        for key, data_list in key_and_data_list[:TaxonomyReport.N_DISPLAY]:
             data_list.sort(
                 key=lambda x: list(
                     PlantNetResult.from_plant_photo(
