@@ -5,6 +5,7 @@ from utils import File, Log, Time, TimeFormat
 from lk_plants.analysis.ConfusionReport import ConfusionReport
 from lk_plants.analysis.IdentificationReport import IdentificationReport
 from lk_plants.analysis.TaxonomyReport import TaxonomyReport
+from lk_plants.core.plant_net.PlantNetResult import PlantNetResult
 from lk_plants.core.plant_photo.PlantPhoto import PlantPhoto
 from utils_future import Markdown
 
@@ -14,24 +15,37 @@ log = Log('ViharamahadeviParkReport')
 class ViharamahadeviParkReport(
     ConfusionReport, TaxonomyReport, IdentificationReport
 ):
+    MIN_CONFIDENCE = 0.2
+
     @staticmethod
-    def is_vmd_park(data):
+    def should_analyze(plant_photo):
         BOUNDS = [
             [6.911, 79.857],
             [6.917, 79.866],
         ]
-        latlng = data.latlng
+        latlng = plant_photo.latlng
 
-        return (
+        if not (
             BOUNDS[0][0] <= latlng.lat <= BOUNDS[0][1]
             and BOUNDS[1][0] <= latlng.lng <= BOUNDS[1][1]
-        )
+        ):
+            return False
+
+        plant_net_result = PlantNetResult.from_plant_photo(plant_photo)
+        species_name_to_score = plant_net_result.species_name_to_score
+        if not species_name_to_score:
+            return False
+
+        species_name, score = list(species_name_to_score.items())[0]
+        if score < ViharamahadeviParkReport.MIN_CONFIDENCE:
+            return False
+        return True
 
     @cached_property
     def data_list(self):
         data_list = PlantPhoto.list_all()
         data_vmd_park_list = [
-            data for data in data_list if self.is_vmd_park(data)
+            data for data in data_list if self.should_analyze(data)
         ]
         return data_vmd_park_list
 
@@ -51,6 +65,19 @@ class ViharamahadeviParkReport(
             '*This analysis was automatically '
             + f'generated on  **{self.time_str}**, '
             + f'and is based on  **{self.n_plant_photos}** plant photos.*',
+            '',
+            Markdown.image(
+                'PlantNet',
+                'https://plantnet.org/wp-content/uploads/2020/12/plantnet_header.png',
+            ),
+            '',
+            "Plant Identifications are from  "
+            + Markdown.link('PlantNet', 'https://plantnet.org')
+            + ", a citizen science project for automatic plant identification "
+            + "through photographs and based on machine learning."
+            "",
+            "We only consider results where the models confidence "
+            + f"is above {ViharamahadeviParkReport.MIN_CONFIDENCE:.0%}.",
             '',
             'Results can be directly inspected using '
             + Markdown.link('this app', 'https://nuuuwan.github.io/plants'),
