@@ -12,7 +12,7 @@ def main():
     options = Options()
     options.add_argument('--headless')
     driver = webdriver.Firefox(options=options)
-    width = 2400
+    width = 1200
     height = width * 9 / 16
     driver.set_window_size(width, height)
 
