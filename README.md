@@ -1,6 +1,6 @@
 # Plants of Vihaaramahadevi Park :sri_lanka:
 
-*This analysis was automatically generated on  **Mar 21, 2024 (04:41 PM)**, and is based on  **493** plant photos.*
+*This analysis was automatically generated on  **Mar 21, 2024 (04:42 PM)**, and is based on  **493** plant photos.*
 
 ## Background
 
@@ -14,7 +14,7 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 
 Plant Identifications are from  [PlantNet](https://plantnet.org), a citizen science project for automatic plant identification through photographs and based on machine learning.
 
-We only consider results where the models confidence is above 20%.
+We only consider results where the model confidence is ≥ 20%.
 
 ## The [Plants](https://nuuuwan.github.io/plants) App
 

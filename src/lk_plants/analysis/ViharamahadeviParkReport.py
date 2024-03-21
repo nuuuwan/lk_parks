@@ -95,8 +95,8 @@ class ViharamahadeviParkReport(
             + ", a citizen science project for automatic plant identification "
             + "through photographs and based on machine learning.",
             "",
-            "We only consider results where the models confidence "
-            + f"is above {ViharamahadeviParkReport.MIN_CONFIDENCE:.0%}.",
+            "We only consider results where the model confidence is "
+            + f"≥ {ViharamahadeviParkReport.MIN_CONFIDENCE:.0%}.",
             '',
         ]
 
