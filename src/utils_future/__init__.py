@@ -36,10 +36,10 @@ class Markdown:
     @staticmethod
     def link(text, url):
         return f'[{text}]({url})'
-    
+
     @staticmethod
     def wiki_link(text):
-        url = 'https://en.wikipedia.org/wiki/'+text.replace(' ', '_')
+        url = 'https://en.wikipedia.org/wiki/' + text.replace(' ', '_')
         return Markdown.link(Markdown.italic(text), url)
 
     @staticmethod
