@@ -10,7 +10,7 @@ log = Log('TaxonomyReport')
 
 
 class TaxonomyReport:
-    N_DISPLAY = 20
+    N_DISPLAY = 10
 
     @cache
     def get_key_to_data_list(self, get_key):
