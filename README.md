@@ -1,6 +1,6 @@
 # Plants of Vihaaramahadevi Park :sri_lanka:
 
-*This analysis was automatically generated on  **Mar 21, 2024 (03:56 PM)**, and is based on  **883** plant photos.*
+*This analysis was automatically generated on  **Mar 21, 2024 (03:59 PM)**, and is based on  **883** plant photos.*
 
 Results can be directly inspected using [this app](https://nuuuwan.github.io/plants)
 
@@ -11,8 +11,6 @@ Results can be directly inspected using [this app](https://nuuuwan.github.io/pla
 Viharamahadevi Park (Sinhala: විහාරමහාදේවී උද්‍යානය; formerly Victoria Park, Sinhala: වික්ටෝරියා පාක්) is a public park located in Cinnamon Gardens, in [Colombo](https://en.wikipedia.org/wiki/Colombo), situated in front of the colonial-era Town Hall in Sri Lanka. It was built by the British colonial administration and is the oldest and largest park of Colombo. The park was originally named "Victoria Park" after Queen Victoria but was renamed after Queen Viharamahadevi, the mother of King Dutugamunu on July 18, 1958. [[Wikipedia](https://en.wikipedia.org/wiki/Viharamahadevi_Park)]
 
 Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wikipedia.org/wiki/Vegetation) of 14.39ha (59% from the total area). The estimated crown cover 12.25ha (50%). [[Madurapperuma et al](https://www.researchgate.net/publication/282250239_CrownTree_cover_of_Viharamahadevi_Park_Colombo)]
-
-<img src="data/images/Photo-2024-03-11-07-03-27.jpg" alt="Mesua ferrea" width="240" style="padding:2px;" /><img src="data/images/Photo-2024-03-21-07-08-12.jpg" alt="Terminalia arjuna" width="240" /><img src="data/images/Photo-2024-03-21-08-12-16.jpg" alt="Mangifera indica" width="240" /><img src="data/images/Photo-2024-03-08-07-09-59.jpg" alt="Cassia fistula" width="240" /><img src="data/images/Photo-2024-03-17-08-17-54.jpg" alt="Peltophorum pterocarpum" width="240" /><img src="data/images/Photo-2024-03-19-07-18-25.jpg" alt="Tectona grandis" width="240" /><img src="data/images/Photo-2024-03-21-08-10-07.jpg" alt="Pongamia pinnata" width="240" /><img src="data/images/Photo-2024-03-11-06-40-57.jpg" alt="Tecoma stans" width="240" /><img src="data/images/Photo-2024-03-08-07-07-47.jpg" alt="Artocarpus heterophyllus" width="240" />
 
 ## Summary Statistics
 
@@ -69,6 +67,8 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 | 9 | [*Artocarpus heterophyllus*](https://en.wikipedia.org/wiki/Artocarpus_heterophyllus) | 16 | 1.8% |
 | 10 | [*Ficus religiosa*](https://en.wikipedia.org/wiki/Ficus_religiosa) | 16 | 1.8% |
 |  | *(All Others)* | 514 | 58.2% |
+
+<img src="data/images/Photo-2024-03-11-07-03-27.jpg" alt="Mesua ferrea" width="240" /><img src="data/images/Photo-2024-03-21-07-08-12.jpg" alt="Terminalia arjuna" width="240" /><img src="data/images/Photo-2024-03-21-08-12-16.jpg" alt="Mangifera indica" width="240" /><img src="data/images/Photo-2024-03-08-07-09-59.jpg" alt="Cassia fistula" width="240" /><img src="data/images/Photo-2024-03-17-08-17-54.jpg" alt="Peltophorum pterocarpum" width="240" /><img src="data/images/Photo-2024-03-19-07-18-25.jpg" alt="Tectona grandis" width="240" /><img src="data/images/Photo-2024-03-21-08-10-07.jpg" alt="Pongamia pinnata" width="240" /><img src="data/images/Photo-2024-03-11-06-40-57.jpg" alt="Tecoma stans" width="240" /><img src="data/images/Photo-2024-03-08-07-07-47.jpg" alt="Artocarpus heterophyllus" width="240" />
 
 ## Identification Confidence
 
