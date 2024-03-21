@@ -88,6 +88,7 @@ class ViharamahadeviParkReport(
         return (
             self.lines_header
             + self.lines_background
+            + self.lines_most_common_species
             + self.lines_analysis
             + self.lines_confusion
         )

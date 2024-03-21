@@ -107,14 +107,36 @@ class TaxonomyReport:
 
         return self.get_lines_analysis_by_key('Genera', get_key)
 
+    @staticmethod
+    def get_key_species(plant_photo):
+        plant_net_result = PlantNetResult.from_plant_photo(plant_photo)
+        species_name_to_score = plant_net_result.species_name_to_score
+        if not species_name_to_score:
+            return None
+        species_name = list(species_name_to_score.keys())[0]
+        return species_name
+
     @cached_property
     def lines_analysis_species(self):
-        def get_key(plant_photo):
-            plant_net_result = PlantNetResult.from_plant_photo(plant_photo)
-            species_name_to_score = plant_net_result.species_name_to_score
-            if not species_name_to_score:
-                return None
-            species_name = list(species_name_to_score.keys())[0]
-            return species_name
 
-        return self.get_lines_analysis_by_key('Species', get_key)
+
+        return self.get_lines_analysis_by_key('Species', TaxonomyReport.get_key_species)
+
+
+    @cached_property
+    def lines_most_common_species(self):
+        key_and_data_list = self.get_sorted_key_and_data_list(
+            TaxonomyReport.get_key_species
+        )
+        N_DISPLAY = 9
+        lines = []
+        for key, data_list in key_and_data_list[:N_DISPLAY]:
+            image_path = data_list[0].image_path
+            image_path_unix = image_path.replace('\\', '/')
+            lines.append(
+                Markdown.image(
+                    key,image_path_unix
+                )
+            )
+        lines.append('')
+        return lines
