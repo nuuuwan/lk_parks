@@ -66,7 +66,27 @@ class ViharamahadeviParkReport(
             + f'generated on  **{self.time_str}**, '
             + f'and is based on  **{self.n_plant_photos}** plant photos.*',
             '',
-            Markdown.image(
+           
+
+        ]
+
+    @cached_property
+    def lines_background(self):
+        return [
+            '## Background',
+            '',
+            'Viharamahadevi Park (Sinhala: විහාරමහාදේවී උද්‍යානය; formerly Victoria Park, Sinhala: වික්ටෝරියා පාක්) is a public park located in Cinnamon Gardens, in [Colombo](https://en.wikipedia.org/wiki/Colombo), situated in front of the colonial-era Town Hall in Sri Lanka. It was built by the British colonial administration and is the oldest and largest park of Colombo. The park was originally named "Victoria Park" after Queen Victoria but was renamed after Queen Viharamahadevi, the mother of King Dutugamunu on July 18, 1958. [[Wikipedia](https://en.wikipedia.org/wiki/Viharamahadevi_Park)]',  # noqa
+            '',
+            'Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wikipedia.org/wiki/Vegetation) of 14.39ha (59% from the total area). The estimated crown cover 12.25ha (50%). [[Madurapperuma et al](https://www.researchgate.net/publication/282250239_CrownTree_cover_of_Viharamahadevi_Park_Colombo)]',  # noqa
+            '',
+        ]
+
+    @cached_property
+    def lines_plantnet(self): 
+        return [
+            '## ' + Markdown.link('PlantNet', 'https://plantnet.org'),
+            '',
+             Markdown.image(
                 'PlantNet',
                 'https://plantnet.org'
                 + '/wp-content/uploads/2020/12/plantnet_header.png',
@@ -80,23 +100,21 @@ class ViharamahadeviParkReport(
             "We only consider results where the models confidence "
             + f"is above {ViharamahadeviParkReport.MIN_CONFIDENCE:.0%}.",
             '',
-            'Results can be directly inspected using '
-            + Markdown.link('this app', 'https://nuuuwan.github.io/plants'),
+        ]
+    
+
+    @cached_property
+    def lines_app(self):
+        return [
+            '## The ' + Markdown.link('Plants', 'https://nuuuwan.github.io/plants')  + ' App',
+            '',
+            'Results can be directly inspected using our '
+            + Markdown.link('Plants', 'https://nuuuwan.github.io/plants') + " App.",
             '',
             Markdown.image('App', 'images/app.png'),
             '',
         ]
-
-    @cached_property
-    def lines_background(self):
-        return [
-            '## Background',
-            '',
-            'Viharamahadevi Park (Sinhala: විහාරමහාදේවී උද්‍යානය; formerly Victoria Park, Sinhala: වික්ටෝරියා පාක්) is a public park located in Cinnamon Gardens, in [Colombo](https://en.wikipedia.org/wiki/Colombo), situated in front of the colonial-era Town Hall in Sri Lanka. It was built by the British colonial administration and is the oldest and largest park of Colombo. The park was originally named "Victoria Park" after Queen Victoria but was renamed after Queen Viharamahadevi, the mother of King Dutugamunu on July 18, 1958. [[Wikipedia](https://en.wikipedia.org/wiki/Viharamahadevi_Park)]',  # noqa
-            '',
-            'Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wikipedia.org/wiki/Vegetation) of 14.39ha (59% from the total area). The estimated crown cover 12.25ha (50%). [[Madurapperuma et al](https://www.researchgate.net/publication/282250239_CrownTree_cover_of_Viharamahadevi_Park_Colombo)]',  # noqa
-            '',
-        ]
+    
 
     @cached_property
     def lines_analysis(self):
@@ -117,6 +135,8 @@ class ViharamahadeviParkReport(
         return (
             self.lines_header
             + self.lines_background
+            + self.lines_plantnet
+            + self.lines_app
             + self.lines_analysis
             + self.lines_confusion
         )
