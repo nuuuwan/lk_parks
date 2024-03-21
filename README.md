@@ -1,6 +1,6 @@
 # Plants of Vihaaramahadevi Park :sri_lanka:
 
-*This analysis was automatically generated on  **Mar 21, 2024 (11:40 AM)**, and is based on  **883** plant photos.*
+*This analysis was automatically generated on  **Mar 21, 2024 (11:50 AM)**, and is based on  **883** plant photos.*
 
 Results can be directly inspected using [this app](https://nuuuwan.github.io/plants)
 
@@ -20,17 +20,17 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 
 | # | Families | n(Photos) | % |
 | ---: | :--- | ---: | ---: |
-| 1 | *Fabaceae* | 178 | 20.2% |
-| 2 | *Moraceae* | 75 | 8.5% |
-| 3 | *Combretaceae* | 60 | 6.8% |
-| 4 | *Calophyllaceae* | 51 | 5.8% |
-| 5 | *Bignoniaceae* | 44 | 5.0% |
-| 6 | *Apocynaceae* | 44 | 5.0% |
-| 7 | *Myrtaceae* | 44 | 5.0% |
-| 8 | *Meliaceae* | 39 | 4.4% |
-| 9 | *Anacardiaceae* | 35 | 4.0% |
-| 10 | *Arecaceae* | 31 | 3.5% |
-|  | *(All Others)* | 136 | 15.4% |
+| 1 | [*Fabaceae*](https://en.wikipedia.org/wiki/Fabaceae) | 178 | 20.2% |
+| 2 | [*Moraceae*](https://en.wikipedia.org/wiki/Moraceae) | 75 | 8.5% |
+| 3 | [*Combretaceae*](https://en.wikipedia.org/wiki/Combretaceae) | 60 | 6.8% |
+| 4 | [*Calophyllaceae*](https://en.wikipedia.org/wiki/Calophyllaceae) | 51 | 5.8% |
+| 5 | [*Bignoniaceae*](https://en.wikipedia.org/wiki/Bignoniaceae) | 44 | 5.0% |
+| 6 | [*Apocynaceae*](https://en.wikipedia.org/wiki/Apocynaceae) | 44 | 5.0% |
+| 7 | [*Myrtaceae*](https://en.wikipedia.org/wiki/Myrtaceae) | 44 | 5.0% |
+| 8 | [*Meliaceae*](https://en.wikipedia.org/wiki/Meliaceae) | 39 | 4.4% |
+| 9 | [*Anacardiaceae*](https://en.wikipedia.org/wiki/Anacardiaceae) | 35 | 4.0% |
+| 10 | [*Arecaceae*](https://en.wikipedia.org/wiki/Arecaceae) | 31 | 3.5% |
+|  | [*(All Others)*](https://en.wikipedia.org/wiki/(All_Others)) | 136 | 15.4% |
 
 ### Genera
 
@@ -38,17 +38,17 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 
 | # | Genera | n(Photos) | % |
 | ---: | :--- | ---: | ---: |
-| 1 | *Ficus* | 58 | 6.6% |
-| 2 | *Terminalia* | 58 | 6.6% |
-| 3 | *Mesua* | 45 | 5.1% |
-| 4 | *Peltophorum* | 28 | 3.2% |
-| 5 | *Cassia* | 27 | 3.1% |
-| 6 | *Mangifera* | 25 | 2.8% |
-| 7 | *Tectona* | 20 | 2.3% |
-| 8 | *Pongamia* | 18 | 2.0% |
-| 9 | *Syzygium* | 17 | 1.9% |
-| 10 | *Pterocarpus* | 17 | 1.9% |
-|  | *(All Others)* | 368 | 41.7% |
+| 1 | [*Ficus*](https://en.wikipedia.org/wiki/Ficus) | 58 | 6.6% |
+| 2 | [*Terminalia*](https://en.wikipedia.org/wiki/Terminalia) | 58 | 6.6% |
+| 3 | [*Mesua*](https://en.wikipedia.org/wiki/Mesua) | 45 | 5.1% |
+| 4 | [*Peltophorum*](https://en.wikipedia.org/wiki/Peltophorum) | 28 | 3.2% |
+| 5 | [*Cassia*](https://en.wikipedia.org/wiki/Cassia) | 27 | 3.1% |
+| 6 | [*Mangifera*](https://en.wikipedia.org/wiki/Mangifera) | 25 | 2.8% |
+| 7 | [*Tectona*](https://en.wikipedia.org/wiki/Tectona) | 20 | 2.3% |
+| 8 | [*Pongamia*](https://en.wikipedia.org/wiki/Pongamia) | 18 | 2.0% |
+| 9 | [*Syzygium*](https://en.wikipedia.org/wiki/Syzygium) | 17 | 1.9% |
+| 10 | [*Pterocarpus*](https://en.wikipedia.org/wiki/Pterocarpus) | 17 | 1.9% |
+|  | [*(All Others)*](https://en.wikipedia.org/wiki/(All_Others)) | 368 | 41.7% |
 
 ### Species
 
@@ -56,17 +56,17 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 
 | # | Species | n(Photos) | % |
 | ---: | :--- | ---: | ---: |
-| 1 | *Mesua ferrea* | 45 | 5.1% |
-| 2 | *Terminalia arjuna* | 42 | 4.8% |
-| 3 | *Mangifera indica* | 25 | 2.8% |
-| 4 | *Cassia fistula* | 21 | 2.4% |
-| 5 | *Peltophorum pterocarpum* | 21 | 2.4% |
-| 6 | *Tectona grandis* | 20 | 2.3% |
-| 7 | *Pongamia pinnata* | 18 | 2.0% |
-| 8 | *Tecoma stans* | 16 | 1.8% |
-| 9 | *Artocarpus heterophyllus* | 16 | 1.8% |
-| 10 | *Ficus religiosa* | 16 | 1.8% |
-|  | *(All Others)* | 514 | 58.2% |
+| 1 | [*Mesua ferrea*](https://en.wikipedia.org/wiki/Mesua_ferrea) | 45 | 5.1% |
+| 2 | [*Terminalia arjuna*](https://en.wikipedia.org/wiki/Terminalia_arjuna) | 42 | 4.8% |
+| 3 | [*Mangifera indica*](https://en.wikipedia.org/wiki/Mangifera_indica) | 25 | 2.8% |
+| 4 | [*Cassia fistula*](https://en.wikipedia.org/wiki/Cassia_fistula) | 21 | 2.4% |
+| 5 | [*Peltophorum pterocarpum*](https://en.wikipedia.org/wiki/Peltophorum_pterocarpum) | 21 | 2.4% |
+| 6 | [*Tectona grandis*](https://en.wikipedia.org/wiki/Tectona_grandis) | 20 | 2.3% |
+| 7 | [*Pongamia pinnata*](https://en.wikipedia.org/wiki/Pongamia_pinnata) | 18 | 2.0% |
+| 8 | [*Tecoma stans*](https://en.wikipedia.org/wiki/Tecoma_stans) | 16 | 1.8% |
+| 9 | [*Artocarpus heterophyllus*](https://en.wikipedia.org/wiki/Artocarpus_heterophyllus) | 16 | 1.8% |
+| 10 | [*Ficus religiosa*](https://en.wikipedia.org/wiki/Ficus_religiosa) | 16 | 1.8% |
+|  | [*(All Others)*](https://en.wikipedia.org/wiki/(All_Others)) | 514 | 58.2% |
 
 ## Identification Confidence
 

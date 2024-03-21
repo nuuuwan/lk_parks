@@ -60,7 +60,7 @@ class TaxonomyReport:
 
             lines.extend(
                 Markdown.table(
-                    [row_str, Markdown.italic(key), f'{n:,}', f'{p:.1%}'],
+                    [row_str, Markdown.wiki_link(key), f'{n:,}', f'{p:.1%}'],
                 )
             )
 
