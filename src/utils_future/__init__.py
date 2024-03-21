@@ -29,9 +29,9 @@ class Markdown:
     def italic(text):
         return f'*{text}*'
 
-    # @staticmethod
-    # def bold(text):
-    #     return f'**{text}**'
+    @staticmethod
+    def bold(text):
+        return f'**{text}**'
 
     @staticmethod
     def link(text, url):
