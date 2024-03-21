@@ -1,6 +1,6 @@
 # Plants of Vihaaramahadevi Park :sri_lanka:
 
-*This analysis was automatically generated on  **Mar 20, 2024 (07:58 PM)**, and is based on  **766** plant photos.*
+*This analysis was automatically generated on  **Mar 21, 2024 (09:33 AM)**, and is based on  **776** plant photos.*
 
 Results can be directly inspected using [this app](https://nuuuwan.github.io/plants).
 
@@ -16,68 +16,68 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 
 ### Families
 
-**73** unique Families.
+**75** unique Families.
 
 | # | Families | n(Photos) | % |
 |---:|:---|---:|---:|
-| 1 | *Fabaceae* | 154 | 20.1% |
-| 2 | *Moraceae* | 66 | 8.6% |
-| 3 | *Calophyllaceae* | 50 | 6.5% |
-| 4 | *Combretaceae* | 46 | 6.0% |
-| 5 | *Bignoniaceae* | 41 | 5.4% |
-| 6 | *Myrtaceae* | 41 | 5.4% |
-| 7 | *Apocynaceae* | 39 | 5.1% |
-| 8 | *Meliaceae* | 36 | 4.7% |
-| 9 | *Anacardiaceae* | 28 | 3.7% |
+| 1 | *Fabaceae* | 155 | 20.0% |
+| 2 | *Moraceae* | 66 | 8.5% |
+| 3 | *Calophyllaceae* | 50 | 6.4% |
+| 4 | *Combretaceae* | 47 | 6.1% |
+| 5 | *Bignoniaceae* | 41 | 5.3% |
+| 6 | *Myrtaceae* | 41 | 5.3% |
+| 7 | *Apocynaceae* | 40 | 5.2% |
+| 8 | *Meliaceae* | 37 | 4.8% |
+| 9 | *Anacardiaceae* | 28 | 3.6% |
 | 10 | *Arecaceae* | 24 | 3.1% |
 | 11 | *Lamiaceae* | 21 | 2.7% |
-| 12 | *Sapotaceae* | 20 | 2.6% |
-| 13 | *Annonaceae* | 15 | 2.0% |
+| 12 | *Sapotaceae* | 21 | 2.7% |
+| 13 | *Annonaceae* | 15 | 1.9% |
 | 14 | *Sapindaceae* | 14 | 1.8% |
 | 15 | *Fagaceae* | 10 | 1.3% |
 | 16 | *Malvaceae* | 9 | 1.2% |
-| 17 | *Phyllanthaceae* | 9 | 1.2% |
-| 18 | *Lauraceae* | 8 | 1.0% |
-| 19 | *Lythraceae* | 8 | 1.0% |
-| 20 | *Casuarinaceae* | 7 | 0.9% |
-| | (All Others) | 120 | 15.7% |
+| 17 | *Lauraceae* | 9 | 1.2% |
+| 18 | *Phyllanthaceae* | 9 | 1.2% |
+| 19 | *Podocarpaceae* | 8 | 1.0% |
+| 20 | *Lythraceae* | 8 | 1.0% |
+| | (All Others) | 123 | 15.9% |
 
 ### Genera
 
-**181** unique Genera.
+**183** unique Genera.
 
 | # | Genera | n(Photos) | % |
 |---:|:---|---:|---:|
-| 1 | *Ficus* | 51 | 6.7% |
-| 2 | *Mesua* | 44 | 5.7% |
-| 3 | *Terminalia* | 44 | 5.7% |
-| 4 | *Cassia* | 25 | 3.3% |
+| 1 | *Ficus* | 51 | 6.6% |
+| 2 | *Terminalia* | 45 | 5.8% |
+| 3 | *Mesua* | 44 | 5.7% |
+| 4 | *Cassia* | 25 | 3.2% |
 | 5 | *Peltophorum* | 23 | 3.0% |
 | 6 | *Mangifera* | 18 | 2.3% |
 | 7 | *Tectona* | 17 | 2.2% |
 | 8 | *Tecoma* | 16 | 2.1% |
 | 9 | *Tabebuia* | 16 | 2.1% |
-| 10 | *Pterocarpus* | 15 | 2.0% |
+| 10 | *Pterocarpus* | 15 | 1.9% |
 | 11 | *Artocarpus* | 14 | 1.8% |
 | 12 | *Syzygium* | 14 | 1.8% |
-| 13 | *Melaleuca* | 13 | 1.7% |
-| 14 | *Tabernaemontana* | 12 | 1.6% |
-| 15 | *Plumeria* | 12 | 1.6% |
-| 16 | *Azadirachta* | 12 | 1.6% |
+| 13 | *Tabernaemontana* | 13 | 1.7% |
+| 14 | *Melaleuca* | 13 | 1.7% |
+| 15 | *Plumeria* | 12 | 1.5% |
+| 16 | *Azadirachta* | 12 | 1.5% |
 | 17 | *Delonix* | 10 | 1.3% |
 | 18 | *Quercus* | 10 | 1.3% |
 | 19 | *Pongamia* | 10 | 1.3% |
 | 20 | *Eucalyptus* | 9 | 1.2% |
-| | (All Others) | 381 | 49.7% |
+| | (All Others) | 389 | 50.1% |
 
 ### Species
 
-**251** unique Species.
+**254** unique Species.
 
 | # | Species | n(Photos) | % |
 |---:|:---|---:|---:|
 | 1 | *Mesua ferrea* | 44 | 5.7% |
-| 2 | *Terminalia arjuna* | 32 | 4.2% |
+| 2 | *Terminalia arjuna* | 33 | 4.3% |
 | 3 | *Cassia fistula* | 20 | 2.6% |
 | 4 | *Mangifera indica* | 18 | 2.3% |
 | 5 | *Peltophorum pterocarpum* | 18 | 2.3% |
@@ -86,8 +86,8 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 | 8 | *Ficus religiosa* | 16 | 2.1% |
 | 9 | *Artocarpus heterophyllus* | 14 | 1.8% |
 | 10 | *Pterocarpus indicus* | 13 | 1.7% |
-| 11 | *Azadirachta indica* | 12 | 1.6% |
-| 12 | *Tabernaemontana divaricata* | 11 | 1.4% |
+| 11 | *Tabernaemontana divaricata* | 12 | 1.5% |
+| 12 | *Azadirachta indica* | 12 | 1.5% |
 | 13 | *Tabebuia rosea* | 11 | 1.4% |
 | 14 | *Ficus benghalensis* | 11 | 1.4% |
 | 15 | *Delonix regia* | 10 | 1.3% |
@@ -95,14 +95,14 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 | 17 | *Syzygium cumini* | 9 | 1.2% |
 | 18 | *Terminalia catappa* | 9 | 1.2% |
 | 19 | *Plumeria rubra* | 9 | 1.2% |
-| 20 | *Mimusops elengi* | 8 | 1.0% |
-| | (All Others) | 458 | 59.8% |
+| 20 | *Toona ciliata* | 8 | 1.0% |
+| | (All Others) | 466 | 60.1% |
 
 ## Identification Confidence (by Species with at least 5 Photos)
 
 | Species | n(Photos) | Confidence (25th pctl.) | Confidence (Median) | Confidence (75th pctl.) |
 |:---|---:|---:|---:|---:|
-| *Tabernaemontana divaricata* | 11 | 71.9% | 85.9% | 97.7% |
+| *Tabernaemontana divaricata* | 12 | 71.9% | 85.9% | 97.7% |
 | *Anacardium occidentale* | 7 | 66.9% | 92.4% | 94.9% |
 | *Monoon longifolium* | 6 | 71.0% | 85.4% | 92.2% |
 | *Terminalia catappa* | 9 | 50.6% | 88.2% | 94.1% |
@@ -115,15 +115,15 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 | *Plumeria rubra* | 9 | 42.8% | 60.8% | 65.5% |
 | *Pongamia pinnata* | 10 | 7.9% | 42.0% | 82.6% |
 | *Mangifera indica* | 18 | 17.5% | 49.7% | 72.4% |
+| *Terminalia arjuna* | 33 | 16.2% | 35.7% | 68.9% |
 | *Saraca indica* | 6 | 26.3% | 52.2% | 66.8% |
-| *Terminalia arjuna* | 32 | 16.2% | 35.7% | 70.6% |
+| *Bauhinia purpurea* | 6 | 16.7% | 48.3% | 75.3% |
 | *Samanea saman* | 6 | 13.5% | 38.5% | 84.4% |
 | *Ficus religiosa* | 16 | 11.8% | 19.7% | 89.1% |
 | *Azadirachta indica* | 12 | 12.4% | 45.1% | 67.3% |
 | *Cocos nucifera* | 6 | 3.9% | 46.0% | 78.7% |
 | *Tabebuia rosea* | 11 | 11.5% | 40.8% | 59.6% |
 | *Mimusops elengi* | 8 | 11.0% | 28.6% | 74.9% |
-| *Bauhinia purpurea* | 5 | 16.7% | 43.1% | 48.3% |
 | *Cassia fistula* | 20 | 9.0% | 27.4% | 68.7% |
 | *Calophyllum inophyllum* | 6 | 13.3% | 27.3% | 38.5% |
 | *Syzygium cumini* | 9 | 10.1% | 24.1% | 42.2% |
@@ -138,13 +138,13 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 | *Madhuca longifolia* | 5 | 16.3% | 25.2% | 28.3% |
 | *Jacaranda mimosifolia* | 7 | 16.3% | 22.7% | 26.2% |
 | *Peltophorum pterocarpum* | 18 | 12.7% | 21.6% | 31.6% |
-| *Manilkara zapota* | 5 | 12.1% | 12.3% | 28.3% |
+| *Manilkara zapota* | 6 | 6.3% | 12.3% | 28.3% |
 | *Schizolobium parahyba* | 5 | 1.8% | 12.5% | 30.0% |
 | *Psidium cattleyanum* | 5 | 6.1% | 7.9% | 11.4% |
-| *Toona ciliata* | 7 | 3.2% | 15.8% | 25.5% |
+| *Toona ciliata* | 8 | 7.2% | 15.8% | 25.5% |
 | *Eucalyptus robusta* | 5 | 3.3% | 4.7% | 6.6% |
 | *Ficus virens* | 7 | 3.7% | 10.3% | 22.7% |
-| *Podocarpus neriifolius* | 6 | 3.5% | 13.5% | 15.3% |
+| *Podocarpus neriifolius* | 7 | 3.5% | 6.0% | 15.3% |
 | *Melaleuca viminalis* | 7 | 2.9% | 3.3% | 10.7% |
 
 ## Pairs of Plant Species, likely confused during identification (at least 2 times)

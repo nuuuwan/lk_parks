@@ -1,0 +1,15 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-46-05",
+  "species_name_to_score": {
+    "Bocconia frutescens": 0.37809,
+    "Artocarpus altilis": 0.01771,
+    "Tectona grandis": 0.00319,
+    "Ficus fistulosa": 0.00178,
+    "Rhaphidophora pertusa": 0.0017,
+    "Ficus hispida": 0.0015,
+    "Artocarpus heterophyllus": 0.00138,
+    "Artocarpus integer": 0.00136,
+    "Broussonetia papyrifera": 0.00113
+  }
+}

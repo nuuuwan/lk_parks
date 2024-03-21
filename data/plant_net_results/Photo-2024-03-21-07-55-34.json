@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-55-34",
+  "species_name_to_score": {
+    "Hymenocallis littoralis": 0.26762,
+    "Hymenocallis caribaea": 0.18093,
+    "Crinum asiaticum": 0.02592,
+    "Crinum amabile": 0.00493,
+    "Ecbolium viride": 0.00211
+  }
+}

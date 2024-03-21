@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-54-36",
+  "species_name_to_score": {
+    "Bauhinia purpurea": 0.75263,
+    "Bauhinia variegata": 0.05094,
+    "Bauhinia acuminata": 0.04255,
+    "Grewia asiatica": 0.03077,
+    "Bauhinia monandra": 0.01408,
+    "Bauhinia tomentosa": 0.00835,
+    "Lindera obtusiloba": 0.00475,
+    "Phanera semibifida": 0.00107
+  }
+}

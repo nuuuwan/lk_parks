@@ -1,0 +1,17 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-08-53",
+  "species_name_to_score": {
+    "Tabernaemontana divaricata": 0.50802,
+    "Osmanthus fragrans": 0.00894,
+    "Buchozia japonica": 0.00821,
+    "Rhododendron moulmainense": 0.00281,
+    "Ficus retusa": 0.00266,
+    "Gardenia jasminoides": 0.00181,
+    "Pieris formosa": 0.0018,
+    "Hamelia patens": 0.00172,
+    "Alternanthera bettzickiana": 0.00154,
+    "Camellia sasanqua": 0.00105,
+    "Syzygium densiflorum": 0.00102
+  }
+}

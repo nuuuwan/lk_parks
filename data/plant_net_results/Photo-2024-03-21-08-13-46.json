@@ -1,0 +1,17 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-08-13-46",
+  "species_name_to_score": {
+    "Manilkara zapota": 0.05228,
+    "Madhuca longifolia": 0.03875,
+    "Elaeocarpus angustifolius": 0.00555,
+    "Mangifera indica": 0.00372,
+    "Saurauia napaulensis": 0.00231,
+    "Dillenia indica": 0.00219,
+    "Vitex agnus-castus": 0.00164,
+    "Ceiba pentandra": 0.0015,
+    "Cerbera manghas": 0.00122,
+    "Plumeria rubra": 0.00113,
+    "Rhaphiolepis bibas": 0.00106
+  }
+}

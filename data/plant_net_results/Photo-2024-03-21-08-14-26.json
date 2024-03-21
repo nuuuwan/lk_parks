@@ -1,0 +1,26 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-08-14-26",
+  "species_name_to_score": {
+    "Terminalia arjuna": 0.57529,
+    "Syzygium jambos": 0.04797,
+    "Diospyros blancoi": 0.02138,
+    "Brownea grandiceps": 0.0109,
+    "Lagerstroemia speciosa": 0.00743,
+    "Syzygium aqueum": 0.00682,
+    "Syzygium samarangense": 0.00636,
+    "Psidium guajava": 0.00627,
+    "Lagerstroemia parviflora": 0.0057,
+    "Woodfordia fruticosa": 0.00521,
+    "Polyalthia suberosa": 0.00485,
+    "Annona muricata": 0.00424,
+    "Ochna integerrima": 0.00265,
+    "Brownea rosa-de-monte": 0.00257,
+    "Saraca indica": 0.00215,
+    "Syzygium cumini": 0.00203,
+    "Ixora pavetta": 0.00183,
+    "Holarrhena pubescens": 0.00157,
+    "Punica granatum": 0.0013,
+    "Annona reticulata": 0.00115
+  }
+}

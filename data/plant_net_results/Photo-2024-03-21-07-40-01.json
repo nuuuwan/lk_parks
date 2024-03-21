@@ -1,0 +1,13 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-40-01",
+  "species_name_to_score": {
+    "Podocarpus neriifolius": 0.05267,
+    "Melaleuca viminalis": 0.01658,
+    "Cascabela thevetia": 0.00681,
+    "Madhuca longifolia": 0.00676,
+    "Olea europaea": 0.00404,
+    "Hippophae salicifolia": 0.00295,
+    "Hippophae rhamnoides": 0.00116
+  }
+}
