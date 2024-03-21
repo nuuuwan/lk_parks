@@ -1,6 +1,14 @@
 # Plants of Vihaaramahadevi Park :sri_lanka:
 
-*This analysis was automatically generated on  **Mar 21, 2024 (04:37 PM)**, and is based on  **493** plant photos.*
+*This analysis was automatically generated on  **Mar 21, 2024 (04:41 PM)**, and is based on  **493** plant photos.*
+
+## Background
+
+Viharamahadevi Park (Sinhala: විහාරමහාදේවී උද්‍යානය; formerly Victoria Park, Sinhala: වික්ටෝරියා පාක්) is a public park located in Cinnamon Gardens, in [Colombo](https://en.wikipedia.org/wiki/Colombo), situated in front of the colonial-era Town Hall in Sri Lanka. It was built by the British colonial administration and is the oldest and largest park of Colombo. The park was originally named "Victoria Park" after Queen Victoria but was renamed after Queen Viharamahadevi, the mother of King Dutugamunu on July 18, 1958. [[Wikipedia](https://en.wikipedia.org/wiki/Viharamahadevi_Park)]
+
+Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wikipedia.org/wiki/Vegetation) of 14.39ha (59% from the total area). The estimated crown cover 12.25ha (50%). [[Madurapperuma et al](https://www.researchgate.net/publication/282250239_CrownTree_cover_of_Viharamahadevi_Park_Colombo)]
+
+## [PlantNet](https://plantnet.org)
 
 ![PlantNet](https://plantnet.org/wp-content/uploads/2020/12/plantnet_header.png)
 
@@ -8,15 +16,11 @@ Plant Identifications are from  [PlantNet](https://plantnet.org), a citizen scie
 
 We only consider results where the models confidence is above 20%.
 
-Results can be directly inspected using [this app](https://nuuuwan.github.io/plants)
+## The [Plants](https://nuuuwan.github.io/plants) App
+
+Results can be directly inspected using our [Plants](https://nuuuwan.github.io/plants) App.
 
 ![App](images/app.png)
-
-## Background
-
-Viharamahadevi Park (Sinhala: විහාරමහාදේවී උද්‍යානය; formerly Victoria Park, Sinhala: වික්ටෝරියා පාක්) is a public park located in Cinnamon Gardens, in [Colombo](https://en.wikipedia.org/wiki/Colombo), situated in front of the colonial-era Town Hall in Sri Lanka. It was built by the British colonial administration and is the oldest and largest park of Colombo. The park was originally named "Victoria Park" after Queen Victoria but was renamed after Queen Viharamahadevi, the mother of King Dutugamunu on July 18, 1958. [[Wikipedia](https://en.wikipedia.org/wiki/Viharamahadevi_Park)]
-
-Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wikipedia.org/wiki/Vegetation) of 14.39ha (59% from the total area). The estimated crown cover 12.25ha (50%). [[Madurapperuma et al](https://www.researchgate.net/publication/282250239_CrownTree_cover_of_Viharamahadevi_Park_Colombo)]
 
 ## Summary Statistics
 
