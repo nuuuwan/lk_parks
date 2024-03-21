@@ -1,6 +1,6 @@
 # Plants of Vihaaramahadevi Park :sri_lanka:
 
-*This analysis was automatically generated on  **Mar 21, 2024 (04:23 PM)**, and is based on  **883** plant photos.*
+*This analysis was automatically generated on  **Mar 21, 2024 (04:25 PM)**, and is based on  **883** plant photos.*
 
 Results can be directly inspected using [this app](https://nuuuwan.github.io/plants)
 
@@ -68,7 +68,7 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 | 10 | [*Ficus religiosa*](https://en.wikipedia.org/wiki/Ficus_religiosa) | 16 | 1.8% |
 |  | *(All Others)* | 514 | 58.2% |
 
-<img src="data/images/Photo-2024-03-11-07-03-27.jpg" alt="Mesua ferrea" width="50%" /><img src="data/images/Photo-2024-03-21-07-08-12.jpg" alt="Terminalia arjuna" width="50%" /><img src="data/images/Photo-2024-03-21-08-12-16.jpg" alt="Mangifera indica" width="50%" /><img src="data/images/Photo-2024-03-08-07-09-59.jpg" alt="Cassia fistula" width="50%" /><img src="data/images/Photo-2024-03-17-08-17-54.jpg" alt="Peltophorum pterocarpum" width="50%" /><img src="data/images/Photo-2024-03-19-07-18-25.jpg" alt="Tectona grandis" width="50%" /><img src="data/images/Photo-2024-03-21-08-10-07.jpg" alt="Pongamia pinnata" width="50%" /><img src="data/images/Photo-2024-03-11-06-40-57.jpg" alt="Tecoma stans" width="50%" /><img src="data/images/Photo-2024-03-08-07-07-47.jpg" alt="Artocarpus heterophyllus" width="50%" /><img src="data/images/Photo-2024-03-14-07-45-41.jpg" alt="Ficus religiosa" width="50%" />
+<img src="data/images/Photo-2024-03-11-07-03-27.jpg" alt="Mesua ferrea" width="45%" style=margin:1%; /><img src="data/images/Photo-2024-03-21-07-08-12.jpg" alt="Terminalia arjuna" width="45%" style=margin:1%; /><img src="data/images/Photo-2024-03-21-08-12-16.jpg" alt="Mangifera indica" width="45%" style=margin:1%; /><img src="data/images/Photo-2024-03-08-07-09-59.jpg" alt="Cassia fistula" width="45%" style=margin:1%; /><img src="data/images/Photo-2024-03-17-08-17-54.jpg" alt="Peltophorum pterocarpum" width="45%" style=margin:1%; /><img src="data/images/Photo-2024-03-19-07-18-25.jpg" alt="Tectona grandis" width="45%" style=margin:1%; /><img src="data/images/Photo-2024-03-21-08-10-07.jpg" alt="Pongamia pinnata" width="45%" style=margin:1%; /><img src="data/images/Photo-2024-03-11-06-40-57.jpg" alt="Tecoma stans" width="45%" style=margin:1%; /><img src="data/images/Photo-2024-03-08-07-07-47.jpg" alt="Artocarpus heterophyllus" width="45%" style=margin:1%; /><img src="data/images/Photo-2024-03-14-07-45-41.jpg" alt="Ficus religiosa" width="45%" style=margin:1%; />
 
 ## Identification Confidence
 
