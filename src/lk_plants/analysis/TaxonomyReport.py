@@ -128,7 +128,7 @@ class TaxonomyReport:
             TaxonomyReport.get_key_species
         )
         image_lines = []
-        for key, data_list in key_and_data_list[:TaxonomyReport.N_DISPLAY]:
+        for key, data_list in key_and_data_list[: TaxonomyReport.N_DISPLAY]:
             data_list.sort(
                 key=lambda x: list(
                     PlantNetResult.from_plant_photo(
@@ -140,5 +140,7 @@ class TaxonomyReport:
 
             image_path = data_list[0].image_path
             image_path_unix = image_path.replace('\\', '/')
-            image_lines.append(Markdown.image_html(key, image_path_unix, "50%"))
+            image_lines.append(
+                Markdown.image_html(key, image_path_unix, "50%")
+            )
         return [''.join(image_lines), '']
