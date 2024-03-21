@@ -125,7 +125,7 @@ class TaxonomyReport:
     @cached_property
     def lines_most_common_species(self):
         key_and_data_list = self.get_sorted_key_and_data_list(
-            TaxonomyReport.get_key_speciess
+            TaxonomyReport.get_key_species
         )
         image_lines = []
         for key, data_list in key_and_data_list[:TaxonomyReport.N_DISPLAY]:
