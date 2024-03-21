@@ -95,8 +95,12 @@ class ViharamahadeviParkReport(
             + ", a citizen science project for automatic plant identification "
             + "through photographs and based on machine learning.",
             "",
-            Markdown.italic("We only consider results where the model confidence is "
-            + Markdown.bold(f"≥ {ViharamahadeviParkReport.MIN_CONFIDENCE:.0%}.")),
+            Markdown.italic(
+                "We only consider results where the model confidence is "
+                + Markdown.bold(
+                    f"≥ {ViharamahadeviParkReport.MIN_CONFIDENCE:.0%}."
+                )
+            ),
             '',
         ]
 
