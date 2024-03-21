@@ -68,7 +68,8 @@ class ViharamahadeviParkReport(
             '',
             Markdown.image(
                 'PlantNet',
-                'https://plantnet.org' + '/wp-content/uploads/2020/12/plantnet_header.png',
+                'https://plantnet.org'
+                + '/wp-content/uploads/2020/12/plantnet_header.png',
             ),
             '',
             "Plant Identifications are from  "
