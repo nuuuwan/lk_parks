@@ -1,6 +1,6 @@
 # Plants of Vihaaramahadevi Park :sri_lanka:
 
-*This analysis was automatically generated on  **Mar 21, 2024 (11:50 AM)**, and is based on  **883** plant photos.*
+*This analysis was automatically generated on  **Mar 21, 2024 (11:51 AM)**, and is based on  **883** plant photos.*
 
 Results can be directly inspected using [this app](https://nuuuwan.github.io/plants)
 
@@ -30,7 +30,7 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 | 8 | [*Meliaceae*](https://en.wikipedia.org/wiki/Meliaceae) | 39 | 4.4% |
 | 9 | [*Anacardiaceae*](https://en.wikipedia.org/wiki/Anacardiaceae) | 35 | 4.0% |
 | 10 | [*Arecaceae*](https://en.wikipedia.org/wiki/Arecaceae) | 31 | 3.5% |
-|  | [*(All Others)*](https://en.wikipedia.org/wiki/(All_Others)) | 136 | 15.4% |
+|  | *(All Others)* | 136 | 15.4% |
 
 ### Genera
 
@@ -48,7 +48,7 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 | 8 | [*Pongamia*](https://en.wikipedia.org/wiki/Pongamia) | 18 | 2.0% |
 | 9 | [*Syzygium*](https://en.wikipedia.org/wiki/Syzygium) | 17 | 1.9% |
 | 10 | [*Pterocarpus*](https://en.wikipedia.org/wiki/Pterocarpus) | 17 | 1.9% |
-|  | [*(All Others)*](https://en.wikipedia.org/wiki/(All_Others)) | 368 | 41.7% |
+|  | *(All Others)* | 368 | 41.7% |
 
 ### Species
 
@@ -66,7 +66,7 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 | 8 | [*Tecoma stans*](https://en.wikipedia.org/wiki/Tecoma_stans) | 16 | 1.8% |
 | 9 | [*Artocarpus heterophyllus*](https://en.wikipedia.org/wiki/Artocarpus_heterophyllus) | 16 | 1.8% |
 | 10 | [*Ficus religiosa*](https://en.wikipedia.org/wiki/Ficus_religiosa) | 16 | 1.8% |
-|  | [*(All Others)*](https://en.wikipedia.org/wiki/(All_Others)) | 514 | 58.2% |
+|  | *(All Others)* | 514 | 58.2% |
 
 ## Identification Confidence
 

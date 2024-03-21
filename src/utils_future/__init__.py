@@ -39,6 +39,8 @@ class Markdown:
 
     @staticmethod
     def wiki_link(text):
+        if 'others' in text.lower():
+            return Markdown.italic(text)
         url = 'https://en.wikipedia.org/wiki/' + text.replace(' ', '_')
         return Markdown.link(Markdown.italic(text), url)
 
