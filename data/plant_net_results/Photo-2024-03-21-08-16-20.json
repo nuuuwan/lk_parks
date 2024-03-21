@@ -1,0 +1,32 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-08-16-20",
+  "species_name_to_score": {
+    "Samanea saman": 0.3535,
+    "Styphnolobium japonicum": 0.05328,
+    "Jacaranda mimosifolia": 0.01579,
+    "Tipuana tipu": 0.01393,
+    "Tamarindus indica": 0.0126,
+    "Ceiba pentandra": 0.01254,
+    "Peltophorum pterocarpum": 0.01049,
+    "Albizia lebbeck": 0.01044,
+    "Pterocarpus indicus": 0.00537,
+    "Spondias mombin": 0.00484,
+    "Cedrela odorata": 0.00463,
+    "Peltophorum dubium": 0.00463,
+    "Albizia procera": 0.0039,
+    "Parkia biglobosa": 0.00376,
+    "Albizia julibrissin": 0.0031,
+    "Melia azedarach": 0.0027,
+    "Albizia niopoides": 0.00253,
+    "Azadirachta indica": 0.00218,
+    "Juglans nigra": 0.00212,
+    "Leucaena leucocephala": 0.00202,
+    "Libidibia coriaria": 0.00166,
+    "Swietenia mahagoni": 0.00153,
+    "Khaya senegalensis": 0.00148,
+    "Swietenia macrophylla": 0.00115,
+    "Vachellia farnesiana": 0.00105,
+    "Bischofia javanica": 0.00102
+  }
+}

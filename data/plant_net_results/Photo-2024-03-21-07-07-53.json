@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-07-53",
+  "species_name_to_score": {
+    "Mangifera indica": 0.52283,
+    "Saraca asoca": 0.03451,
+    "Annona reticulata": 0.01516,
+    "Justicia adhatoda": 0.01166,
+    "Magnolia champaca": 0.00562,
+    "Monoon longifolium": 0.00408,
+    "Litchi chinensis": 0.00383,
+    "Syzygium jambos": 0.00362,
+    "Syzygium malaccense": 0.00336,
+    "Mangifera zeylanica": 0.00316,
+    "Prunus persica": 0.00256,
+    "Plumeria alba": 0.00145,
+    "Syzygium samarangense": 0.00137
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-08-15-21",
+  "species_name_to_score": {
+    "Terminalia arjuna": 0.27625,
+    "Syzygium samarangense": 0.11404,
+    "Syzygium malaccense": 0.02794,
+    "Psidium guajava": 0.01984,
+    "Diospyros blancoi": 0.00962,
+    "Syzygium aqueum": 0.00727,
+    "Cotoneaster frigidus": 0.00492,
+    "Schotia brachypetala": 0.00372,
+    "Syzygium jambos": 0.00354,
+    "Calliandra surinamensis": 0.0032,
+    "Syzygium cumini": 0.00291,
+    "Punica granatum": 0.00234,
+    "Terminalia catappa": 0.00219,
+    "Brownea rosa-de-monte": 0.00213,
+    "Nephelium lappaceum": 0.00212,
+    "Crescentia cujete": 0.00198,
+    "Carissa carandas": 0.00138,
+    "Saraca indica": 0.00134,
+    "Schleichera oleosa": 0.00131,
+    "Lepisanthes senegalensis": 0.00126,
+    "Brownea grandiceps": 0.00122,
+    "Rhododendron cerasinum": 0.00113,
+    "Opuntia cochenillifera": 0.00105,
+    "Calliandra tweediei": 0.00102
+  }
+}

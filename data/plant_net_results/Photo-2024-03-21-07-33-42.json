@@ -1,0 +1,17 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-33-42",
+  "species_name_to_score": {
+    "Morinda citrifolia": 0.47978,
+    "Anacardium occidentale": 0.00879,
+    "Tabernaemontana divaricata": 0.00792,
+    "Holarrhena pubescens": 0.00571,
+    "Premna serratifolia": 0.00478,
+    "Calotropis procera": 0.00435,
+    "Calotropis gigantea": 0.00164,
+    "Suregada multiflora": 0.00152,
+    "Ficus racemosa": 0.00138,
+    "Rauvolfia serpentina": 0.00111,
+    "Ficus virens": 0.00108
+  }
+}

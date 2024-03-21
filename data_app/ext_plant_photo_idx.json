@@ -46369,6 +46369,673 @@
       ]
     }
   },
+  "Photo-2024-03-21-07-07-21": {
+    "id": "Photo-2024-03-21-07-07-21",
+    "ut": 1710985041,
+    "latlng": {
+      "lat": 6.9116,
+      "lng": 79.85955
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 07 21.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-07-21.jpg",
+    "alt": 11.400457375174692,
+    "direction": 313.19268774703556,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-07-21",
+      "species_name_to_score": {
+        "Pongamia pinnata": 0.90315,
+        "Lagerstroemia speciosa": 0.00706,
+        "Morus nigra": 0.00531,
+        "Spathodea campanulata": 0.00342,
+        "Lonchocarpus sericeus": 0.00265,
+        "Morus alba": 0.00128,
+        "Morus indica": 0.00115,
+        "Guazuma ulmifolia": 0.0011,
+        "Theobroma cacao": 0.00105
+      }
+    },
+    "species": {
+      "name": "Pongamia pinnata",
+      "authorship": "(L.) Pierre",
+      "genus_name": "Pongamia",
+      "family_name": "Fabaceae",
+      "gbif_id": "2965911",
+      "powo_id": "515679-1",
+      "iucn_id": "168724",
+      "iucn_category": "LC",
+      "common_names": [
+        "Indian Beech",
+        "Karanda",
+        "Karanj",
+        "Kolliyam",
+        "Naktamaala",
+        "Pomka",
+        "Pongam",
+        "Punku"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-07-24": {
+    "id": "Photo-2024-03-21-07-07-24",
+    "ut": 1710985044,
+    "latlng": {
+      "lat": 6.91195,
+      "lng": 79.859764
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 07 24.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-07-24.jpg",
+    "alt": 18.910970231532524,
+    "direction": 32.422954545454544,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-07-24",
+      "species_name_to_score": {
+        "Pongamia pinnata": 0.59617,
+        "Pterocarpus indicus": 0.01146,
+        "Theobroma cacao": 0.00457,
+        "Brownea grandiceps": 0.00386,
+        "Cordia dichotoma": 0.00246,
+        "Thespesia populnea": 0.00201,
+        "Cordia subcordata": 0.00195,
+        "Cassia fistula": 0.00134,
+        "Spathodea campanulata": 0.00132,
+        "Dendrolobium umbellatum": 0.00124,
+        "Erythrina poeppigiana": 0.00109,
+        "Guazuma ulmifolia": 0.00101
+      }
+    },
+    "species": {
+      "name": "Pongamia pinnata",
+      "authorship": "(L.) Pierre",
+      "genus_name": "Pongamia",
+      "family_name": "Fabaceae",
+      "gbif_id": "2965911",
+      "powo_id": "515679-1",
+      "iucn_id": "168724",
+      "iucn_category": "LC",
+      "common_names": [
+        "Indian Beech",
+        "Karanda",
+        "Karanj",
+        "Kolliyam",
+        "Naktamaala",
+        "Pomka",
+        "Pongam",
+        "Punku"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-07-31": {
+    "id": "Photo-2024-03-21-07-07-31",
+    "ut": 1710985051,
+    "latlng": {
+      "lat": 6.911939,
+      "lng": 79.859856
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 07 31.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-07-31.jpg",
+    "alt": 10.352571539056457,
+    "direction": 21.894134521484375,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-07-31",
+      "species_name_to_score": {
+        "Pongamia pinnata": 0.59279,
+        "Pterocarpus indicus": 0.02625,
+        "Lonchocarpus sericeus": 0.02141,
+        "Radermachera sinica": 0.00905,
+        "Murraya paniculata": 0.005,
+        "Harpullia arborea": 0.00453,
+        "Nyctanthes arbor-tristis": 0.00415,
+        "Flacourtia jangomas": 0.00268,
+        "Diospyros kaki": 0.00209,
+        "Micromelum minutum": 0.00195,
+        "Swietenia macrophylla": 0.00168,
+        "Jasminum sambac": 0.00162,
+        "Radermachera xylocarpa": 0.00149,
+        "Cordia dichotoma": 0.00142,
+        "Hopea odorata": 0.0014,
+        "Spathodea campanulata": 0.00124,
+        "Cordia sebestena": 0.0012,
+        "Averrhoa carambola": 0.00118
+      }
+    },
+    "species": {
+      "name": "Pongamia pinnata",
+      "authorship": "(L.) Pierre",
+      "genus_name": "Pongamia",
+      "family_name": "Fabaceae",
+      "gbif_id": "2965911",
+      "powo_id": "515679-1",
+      "iucn_id": "168724",
+      "iucn_category": "LC",
+      "common_names": [
+        "Indian Beech",
+        "Karanda",
+        "Karanj",
+        "Kolliyam",
+        "Naktamaala",
+        "Pomka",
+        "Pongam",
+        "Punku"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-07-43": {
+    "id": "Photo-2024-03-21-07-07-43",
+    "ut": 1710985063,
+    "latlng": {
+      "lat": 6.911922,
+      "lng": 79.859903
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 07 43.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-07-43.jpg",
+    "alt": 10.286012542481966,
+    "direction": 326.35748281332627,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-07-43",
+      "species_name_to_score": {
+        "Pongamia pinnata": 0.05156,
+        "Elaeocarpus serratus": 0.04844,
+        "Brownea grandiceps": 0.04542,
+        "Diospyros lotus": 0.03531,
+        "Citharexylum spinosum": 0.00745,
+        "Aesculus indica": 0.00536,
+        "Magnolia champaca": 0.0053,
+        "Quercus glauca": 0.00525,
+        "Cerbera odollam": 0.00364,
+        "Nephelium lappaceum": 0.00359,
+        "Annona squamosa": 0.00343,
+        "Averrhoa carambola": 0.00323,
+        "Brownea rosa-de-monte": 0.00299,
+        "Saraca asoca": 0.00277,
+        "Cocculus laurifolius": 0.00277,
+        "Hopea odorata": 0.0025,
+        "Cerbera manghas": 0.00248,
+        "Manilkara zapota": 0.00235,
+        "Calliandra haematocephala": 0.00234,
+        "Mimusops elengi": 0.00213,
+        "Vitex negundo": 0.00208,
+        "Cynometra ramiflora": 0.00204,
+        "Diospyros kaki": 0.00201,
+        "Albizia julibrissin": 0.00194,
+        "Morus indica": 0.00184,
+        "Sapindus saponaria": 0.00164,
+        "Pourthiaea villosa": 0.0015,
+        "Paraserianthes lophantha": 0.00147,
+        "Saraca indica": 0.00144,
+        "Alangium chinense": 0.00144,
+        "Theobroma cacao": 0.0014,
+        "Bixa orellana": 0.00137,
+        "Mangifera indica": 0.00134,
+        "Crateva religiosa": 0.00132,
+        "Ficus virens": 0.00121,
+        "Jatropha integerrima": 0.00119,
+        "Amorphophallus konjac": 0.00114,
+        "Sterculia lanceolata": 0.00109,
+        "Flacourtia jangomas": 0.00109,
+        "Aegle marmelos": 0.00103,
+        "Cinnamomum camphora": 0.00101,
+        "Tecoma stans": 0.001
+      }
+    },
+    "species": {
+      "name": "Pongamia pinnata",
+      "authorship": "(L.) Pierre",
+      "genus_name": "Pongamia",
+      "family_name": "Fabaceae",
+      "gbif_id": "2965911",
+      "powo_id": "515679-1",
+      "iucn_id": "168724",
+      "iucn_category": "LC",
+      "common_names": [
+        "Indian Beech",
+        "Karanda",
+        "Karanj",
+        "Kolliyam",
+        "Naktamaala",
+        "Pomka",
+        "Pongam",
+        "Punku"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-07-53": {
+    "id": "Photo-2024-03-21-07-07-53",
+    "ut": 1710985073,
+    "latlng": {
+      "lat": 6.911969,
+      "lng": 79.859878
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 07 53.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-07-53.jpg",
+    "alt": 10.28625863300786,
+    "direction": 32.54186248912097,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-07-53",
+      "species_name_to_score": {
+        "Mangifera indica": 0.52283,
+        "Saraca asoca": 0.03451,
+        "Annona reticulata": 0.01516,
+        "Justicia adhatoda": 0.01166,
+        "Magnolia champaca": 0.00562,
+        "Monoon longifolium": 0.00408,
+        "Litchi chinensis": 0.00383,
+        "Syzygium jambos": 0.00362,
+        "Syzygium malaccense": 0.00336,
+        "Mangifera zeylanica": 0.00316,
+        "Prunus persica": 0.00256,
+        "Plumeria alba": 0.00145,
+        "Syzygium samarangense": 0.00137
+      }
+    },
+    "species": {
+      "name": "Mangifera indica",
+      "authorship": "L.",
+      "genus_name": "Mangifera",
+      "family_name": "Anacardiaceae",
+      "gbif_id": "3190638",
+      "powo_id": "69913-1",
+      "iucn_id": "31389",
+      "iucn_category": "DD",
+      "common_names": [
+        "Amba",
+        "Amiram",
+        "Amra",
+        "Ma",
+        "Mamaram",
+        "Mangai",
+        "Mango",
+        "Mango Tree",
+        "Mee Amba",
+        "Sahakara",
+        "\u0906\u092e"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-08-00": {
+    "id": "Photo-2024-03-21-07-08-00",
+    "ut": 1710985080,
+    "latlng": {
+      "lat": 6.911972,
+      "lng": 79.859872
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 08 00.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-08-00.jpg",
+    "alt": 9.436746987951807,
+    "direction": 304.83337405326165,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-08-00",
+      "species_name_to_score": {
+        "Jacaranda mimosifolia": 0.11157,
+        "Delonix regia": 0.09378,
+        "Peltophorum pterocarpum": 0.09175,
+        "Peltophorum dubium": 0.09014,
+        "Peltophorum africanum": 0.05674,
+        "Schizolobium parahyba": 0.02949,
+        "Albizia julibrissin": 0.0123,
+        "Filicium decipiens": 0.0087,
+        "Leucaena leucocephala": 0.00654,
+        "Cassia javanica": 0.00374,
+        "Paraserianthes lophantha": 0.00328,
+        "Brownea grandiceps": 0.00205,
+        "Acaciella angustissima": 0.0018,
+        "Biancaea sappan": 0.00168,
+        "Tamarindus indica": 0.00154,
+        "Albizia lebbeck": 0.00124
+      }
+    },
+    "species": {
+      "name": "Jacaranda mimosifolia",
+      "authorship": "D.Don",
+      "genus_name": "Jacaranda",
+      "family_name": "Bignoniaceae",
+      "gbif_id": "3172499",
+      "powo_id": "130936-2",
+      "iucn_id": "32027",
+      "iucn_category": "VU",
+      "common_names": [
+        "Black poui",
+        "Fern-tree",
+        "Jacaranda"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-08-09": {
+    "id": "Photo-2024-03-21-07-08-09",
+    "ut": 1710985089,
+    "latlng": {
+      "lat": 6.912028,
+      "lng": 79.859856
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 08 09.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-08-09.jpg",
+    "alt": 8.693864229765014,
+    "direction": 323.01559454191033,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-08-09",
+      "species_name_to_score": {
+        "Pongamia pinnata": 0.5643,
+        "Pterygota alata": 0.00848,
+        "Aegle marmelos": 0.00829,
+        "Harpullia cupanioides": 0.00662,
+        "Citrus maxima": 0.00636,
+        "Cynometra ramiflora": 0.00599,
+        "Pterocarpus indicus": 0.00534,
+        "Murraya paniculata": 0.00409,
+        "Citrus aurantium": 0.00345,
+        "Sloanea dasycarpa": 0.00337,
+        "Theobroma cacao": 0.00337,
+        "Radermachera sinica": 0.00269,
+        "Bischofia javanica": 0.00261,
+        "Pterocarpus macrocarpus": 0.0024,
+        "Nephelium lappaceum": 0.00234,
+        "Sandoricum koetjape": 0.00204,
+        "Erythrina stricta": 0.0017,
+        "Harpullia arborea": 0.00165,
+        "Strychnos nux-vomica": 0.00153,
+        "Passiflora edulis": 0.00148,
+        "Bignonia magnifica": 0.00142,
+        "Crescentia cujete": 0.00122,
+        "Antidesma montanum": 0.00114,
+        "Erythrina poeppigiana": 0.00111
+      }
+    },
+    "species": {
+      "name": "Pongamia pinnata",
+      "authorship": "(L.) Pierre",
+      "genus_name": "Pongamia",
+      "family_name": "Fabaceae",
+      "gbif_id": "2965911",
+      "powo_id": "515679-1",
+      "iucn_id": "168724",
+      "iucn_category": "LC",
+      "common_names": [
+        "Indian Beech",
+        "Karanda",
+        "Karanj",
+        "Kolliyam",
+        "Naktamaala",
+        "Pomka",
+        "Pongam",
+        "Punku"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-08-12": {
+    "id": "Photo-2024-03-21-07-08-12",
+    "ut": 1710985092,
+    "latlng": {
+      "lat": 6.912028,
+      "lng": 79.859847
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 08 12.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-08-12.jpg",
+    "alt": 8.752579559031172,
+    "direction": 279.62750217580503,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-08-12",
+      "species_name_to_score": {
+        "Terminalia arjuna": 0.98954,
+        "Lagerstroemia speciosa": 0.00111
+      }
+    },
+    "species": {
+      "name": "Terminalia arjuna",
+      "authorship": "(Roxb. ex DC.) Wight & Arn.",
+      "genus_name": "Terminalia",
+      "family_name": "Combretaceae",
+      "gbif_id": "3699548",
+      "powo_id": "170962-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Arjun",
+        "Kakubha",
+        "Kumbuk",
+        "Maruthu",
+        "Marutu",
+        "White murdh"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-08-25": {
+    "id": "Photo-2024-03-21-07-08-25",
+    "ut": 1710985105,
+    "latlng": {
+      "lat": 6.911972,
+      "lng": 79.859803
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 08 25.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-08-25.jpg",
+    "alt": 8.655686217222993,
+    "direction": 339.24493392070485,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-08-25",
+      "species_name_to_score": {
+        "Mangifera indica": 0.87745,
+        "Dimocarpus longan": 0.0018,
+        "Mangifera zeylanica": 0.00151,
+        "Magnolia champaca": 0.00126,
+        "Saraca asoca": 0.00102
+      }
+    },
+    "species": {
+      "name": "Mangifera indica",
+      "authorship": "L.",
+      "genus_name": "Mangifera",
+      "family_name": "Anacardiaceae",
+      "gbif_id": "3190638",
+      "powo_id": "69913-1",
+      "iucn_id": "31389",
+      "iucn_category": "DD",
+      "common_names": [
+        "Amba",
+        "Amiram",
+        "Amra",
+        "Ma",
+        "Mamaram",
+        "Mangai",
+        "Mango",
+        "Mango Tree",
+        "Mee Amba",
+        "Sahakara",
+        "\u0906\u092e"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-08-36": {
+    "id": "Photo-2024-03-21-07-08-36",
+    "ut": 1710985116,
+    "latlng": {
+      "lat": 6.911967,
+      "lng": 79.859742
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 08 36.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-08-36.jpg",
+    "alt": 8.650151829950456,
+    "direction": 310.61236559139786,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-08-36",
+      "species_name_to_score": {
+        "Guazuma ulmifolia": 0.12507,
+        "Hymenaea courbaril": 0.1056,
+        "Ficus religiosa": 0.07618,
+        "Cinnamomum camphora": 0.01766,
+        "Hovenia dulcis": 0.01648,
+        "Neolamarckia cadamba": 0.0136,
+        "Erythrina poeppigiana": 0.00913,
+        "Brachychiton populneus": 0.0083,
+        "Cassia fistula": 0.00697,
+        "Bischofia javanica": 0.0053,
+        "Hopea odorata": 0.00513,
+        "Ficus virens": 0.0051,
+        "Triadica sebifera": 0.00486,
+        "Diospyros lotus": 0.00461,
+        "Oroxylum indicum": 0.00442,
+        "Alangium chinense": 0.00354,
+        "Dalbergia latifolia": 0.00347,
+        "Ailanthus altissima": 0.00342,
+        "Moringa oleifera": 0.00329,
+        "Kleinhovia hospita": 0.00296,
+        "Ficus racemosa": 0.00293,
+        "Lonchocarpus sericeus": 0.00282,
+        "Pterocarpus indicus": 0.00235,
+        "Vernicia fordii": 0.00205,
+        "Broussonetia papyrifera": 0.00188,
+        "Juglans regia": 0.00173,
+        "Ficus variegata": 0.00163,
+        "Crateva religiosa": 0.00146,
+        "Ceiba pentandra": 0.00136,
+        "Toona ciliata": 0.00132,
+        "Cordia dichotoma": 0.00128,
+        "Choerospondias axillaris": 0.00126,
+        "Thespesia populnea": 0.00126,
+        "Paulownia tomentosa": 0.00122,
+        "Syzygium cumini": 0.00113,
+        "Averrhoa carambola": 0.00112,
+        "Aleurites moluccanus": 0.00111,
+        "Cedrela odorata": 0.00108,
+        "Albizia procera": 0.00107,
+        "Garuga pinnata": 0.00106,
+        "Firmiana colorata": 0.00101
+      }
+    },
+    "species": {
+      "name": "Guazuma ulmifolia",
+      "authorship": "Lam.",
+      "genus_name": "Guazuma",
+      "family_name": "Malvaceae",
+      "gbif_id": "3152195",
+      "powo_id": "823393-1",
+      "iucn_id": "61785778",
+      "iucn_category": "LC",
+      "common_names": [
+        "Bastard-cedar",
+        "Mutamba",
+        "West Indian-elm"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-08-41": {
+    "id": "Photo-2024-03-21-07-08-41",
+    "ut": 1710985121,
+    "latlng": {
+      "lat": 6.911983,
+      "lng": 79.859719
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 08 41.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-08-41.jpg",
+    "alt": 9.30595133995165,
+    "direction": 335.3744813278008,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-08-41",
+      "species_name_to_score": {
+        "Garcinia indica": 0.0478,
+        "Syzygium jambos": 0.02057,
+        "Vitex negundo": 0.01023,
+        "Annona reticulata": 0.00743,
+        "Syzygium cumini": 0.00714,
+        "Tabernaemontana alternifolia": 0.00647,
+        "Tabernaemontana divaricata": 0.00522,
+        "Acacia auriculiformis": 0.00489,
+        "Justicia gendarussa": 0.00449,
+        "Dillenia indica": 0.00412,
+        "Ficus fistulosa": 0.00405,
+        "Syzygium samarangense": 0.00399,
+        "Osmanthus fragrans": 0.00349,
+        "Madhuca longifolia": 0.00324,
+        "Syzygium aqueum": 0.0031,
+        "Manilkara zapota": 0.00293,
+        "Clinacanthus nutans": 0.00272,
+        "Ficus erecta": 0.00227,
+        "Annona squamosa": 0.0021,
+        "Acacia confusa": 0.00206,
+        "Justicia adhatoda": 0.0019,
+        "Holarrhena pubescens": 0.00162,
+        "Vitex agnus-castus": 0.00157,
+        "Mangifera indica": 0.00136,
+        "Daphne bholua": 0.00133,
+        "Acacia melanoxylon": 0.00131,
+        "Malpighia glabra": 0.00128,
+        "Quercus glauca": 0.00115,
+        "Syzygium cymosum": 0.00115,
+        "Aquilaria malaccensis": 0.00112,
+        "Annona muricata": 0.00111
+      }
+    },
+    "species": {
+      "name": "Garcinia indica",
+      "authorship": "(Thouars) Choisy",
+      "genus_name": "Garcinia",
+      "family_name": "Clusiaceae",
+      "gbif_id": "3189566",
+      "powo_id": "428006-1",
+      "iucn_id": "50126592",
+      "iucn_category": "VU",
+      "common_names": [
+        "Goa-butter",
+        "Kokam",
+        "Kokum"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-08-47": {
+    "id": "Photo-2024-03-21-07-08-47",
+    "ut": 1710985127,
+    "latlng": {
+      "lat": 6.912022,
+      "lng": 79.859725
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 08 47.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-08-47.jpg",
+    "alt": 8.737163108876617,
+    "direction": 354.95684803001876,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-08-47",
+      "species_name_to_score": {
+        "Musa acuminata": 0.37956,
+        "Musa paradisiaca": 0.16253,
+        "Musa velutina": 0.09225,
+        "Ravenala madagascariensis": 0.01641,
+        "Ensete superbum": 0.00933,
+        "Musa mannii": 0.00716,
+        "Musa balbisiana": 0.00708,
+        "Musa ornata": 0.00665,
+        "Musa nagensium": 0.00508,
+        "Musa itinerans": 0.00435,
+        "Musa rubra": 0.00416,
+        "Heliconia rostrata": 0.00259,
+        "Asplenium nidus": 0.00114,
+        "Musa coccinea": 0.00112
+      }
+    },
+    "species": {
+      "name": "Musa acuminata",
+      "authorship": "Colla",
+      "genus_name": "Musa",
+      "family_name": "Musaceae",
+      "gbif_id": "2762680",
+      "powo_id": "797527-1",
+      "iucn_id": "22486320",
+      "iucn_category": "LC",
+      "common_names": [
+        "Cavendish banana",
+        "Chinese banana",
+        "Dwarf banana"
+      ]
+    }
+  },
   "Photo-2024-03-21-07-08-53": {
     "id": "Photo-2024-03-21-07-08-53",
     "ut": 1710985133,
@@ -46418,6 +47085,1255 @@
         "Watu Sudda",
         "Watusudda",
         "\u0c28\u0c02\u0c26\u0c3f\u0c35\u0c30\u0c4d\u0c27\u0c28\u0c02"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-09-09": {
+    "id": "Photo-2024-03-21-07-09-09",
+    "ut": 1710985149,
+    "latlng": {
+      "lat": 6.912006,
+      "lng": 79.859681
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 09 09.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-09-09.jpg",
+    "alt": 8.774332387753105,
+    "direction": 321.64199814986125,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-09-09",
+      "species_name_to_score": {
+        "Ziziphus mauritiana": 0.03471,
+        "Dendrophthoe falcata": 0.0071,
+        "Scurrula parasitica": 0.00688,
+        "Flacourtia jangomas": 0.00596,
+        "Gnetum gnemon": 0.00557,
+        "Pyrus calleryana": 0.00426,
+        "Cordia sebestena": 0.00412,
+        "Diospyros melanoxylon": 0.00411,
+        "Pongamia pinnata": 0.00349,
+        "Malus baccata": 0.00342,
+        "Eugenia uniflora": 0.00341,
+        "Erythrina fusca": 0.0032,
+        "Chrysojasminum subhumile": 0.0031,
+        "Salvadora persica": 0.00307,
+        "Plumbago zeylanica": 0.00304,
+        "Citrus aurantiifolia": 0.00253,
+        "Vangueria madagascariensis": 0.00246,
+        "Syzygium aqueum": 0.00212,
+        "Syzygium malaccense": 0.00207,
+        "Diospyros kaki": 0.00203,
+        "Erythrina rubrinervia": 0.00201,
+        "Ximenia americana": 0.00194,
+        "Hiptage benghalensis": 0.00193,
+        "Mallotus philippensis": 0.00182,
+        "Erythrina lysistemon": 0.00177,
+        "Strychnos nux-vomica": 0.0017,
+        "Carissa spinarum": 0.00167,
+        "Platymiscium pinnatum": 0.00159,
+        "Aegle marmelos": 0.00155,
+        "Strychnos potatorum": 0.00153,
+        "Cypripedium cordigerum": 0.00145,
+        "Nyctanthes arbor-tristis": 0.00144,
+        "Prosopis chilensis": 0.00132,
+        "Syzygium cumini": 0.00125,
+        "Chaenomeles speciosa": 0.00125,
+        "Buddleja madagascariensis": 0.00122,
+        "Cordia dichotoma": 0.00119,
+        "Malpighia glabra": 0.00113
+      }
+    },
+    "species": {
+      "name": "Ziziphus mauritiana",
+      "authorship": "Lam.",
+      "genus_name": "Ziziphus",
+      "family_name": "Rhamnaceae",
+      "gbif_id": "3039424",
+      "powo_id": "719349-1",
+      "iucn_id": "147482710",
+      "iucn_category": "LC",
+      "common_names": [
+        "Chinese-apple",
+        "Chinese-date",
+        "Debara",
+        "Indian jujube",
+        "Munnatimatu",
+        "Pallavaparunicceti"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-09-14": {
+    "id": "Photo-2024-03-21-07-09-14",
+    "ut": 1710985154,
+    "latlng": {
+      "lat": 6.912028,
+      "lng": 79.859689
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 09 14.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-09-14.jpg",
+    "alt": 8.954955401387512,
+    "direction": 293.85983263598325,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-09-14",
+      "species_name_to_score": {
+        "Hamelia patens": 0.79171,
+        "Tecomaria capensis": 0.00817,
+        "Woodfordia fruticosa": 0.00102
+      }
+    },
+    "species": {
+      "name": "Hamelia patens",
+      "authorship": "Jacq.",
+      "genus_name": "Hamelia",
+      "family_name": "Rubiaceae",
+      "gbif_id": "2902066",
+      "powo_id": "752194-1",
+      "iucn_id": "136789578",
+      "iucn_category": "LC",
+      "common_names": [
+        "Fire bush",
+        "Redhead",
+        "Scarletbush"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-09-26": {
+    "id": "Photo-2024-03-21-07-09-26",
+    "ut": 1710985166,
+    "latlng": {
+      "lat": 6.911969,
+      "lng": 79.859642
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 09 26.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-09-26.jpg",
+    "alt": 8.19154113557358,
+    "direction": 328.826690821256,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-09-26",
+      "species_name_to_score": {
+        "Mangifera indica": 0.60039,
+        "Monoon longifolium": 0.10365,
+        "Madhuca longifolia": 0.00728,
+        "Cerbera manghas": 0.00318,
+        "Couroupita guianensis": 0.00301,
+        "Mangifera zeylanica": 0.00161,
+        "Crescentia cujete": 0.00146,
+        "Plumeria alba": 0.00145,
+        "Alstonia macrophylla": 0.00137,
+        "Magnolia champaca": 0.00124,
+        "Bouea oppositifolia": 0.00106
+      }
+    },
+    "species": {
+      "name": "Mangifera indica",
+      "authorship": "L.",
+      "genus_name": "Mangifera",
+      "family_name": "Anacardiaceae",
+      "gbif_id": "3190638",
+      "powo_id": "69913-1",
+      "iucn_id": "31389",
+      "iucn_category": "DD",
+      "common_names": [
+        "Amba",
+        "Amiram",
+        "Amra",
+        "Ma",
+        "Mamaram",
+        "Mangai",
+        "Mango",
+        "Mango Tree",
+        "Mee Amba",
+        "Sahakara",
+        "\u0906\u092e"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-09-30": {
+    "id": "Photo-2024-03-21-07-09-30",
+    "ut": 1710985170,
+    "latlng": {
+      "lat": 6.911969,
+      "lng": 79.859642
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 09 30.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-09-30.jpg",
+    "alt": 7.235438792621577,
+    "direction": 298.031494140625,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-09-30",
+      "species_name_to_score": {
+        "Ficus microcarpa": 0.21034,
+        "Ficus benghalensis": 0.18268,
+        "Ficus religiosa": 0.10838,
+        "Ficus benjamina": 0.10372,
+        "Ficus retusa": 0.02435,
+        "Ficus virens": 0.01255,
+        "Ficus elastica": 0.01158,
+        "Ficus altissima": 0.00989,
+        "Phytolacca dioica": 0.00756,
+        "Cocculus laurifolius": 0.00413,
+        "Albizia lebbeck": 0.00376,
+        "Ficus racemosa": 0.00316,
+        "Hymenaea courbaril": 0.00314,
+        "Ceratonia siliqua": 0.00266,
+        "Planchonella obovata": 0.00264,
+        "Ficus tinctoria": 0.00203,
+        "Ceiba pentandra": 0.00187,
+        "Pterocarpus indicus": 0.00166,
+        "Terminalia arjuna": 0.0015,
+        "Pongamia pinnata": 0.00131,
+        "Haematoxylum campechianum": 0.00104,
+        "Ficus concinna": 0.00103
+      }
+    },
+    "species": {
+      "name": "Ficus microcarpa",
+      "authorship": "L.f.",
+      "genus_name": "Ficus",
+      "family_name": "Moraceae",
+      "gbif_id": "7467639",
+      "powo_id": "853217-1",
+      "iucn_id": "73088912",
+      "iucn_category": "LC",
+      "common_names": [
+        "Chinese banyan",
+        "Ficus ginseng",
+        "Indian-laurel"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-09-41": {
+    "id": "Photo-2024-03-21-07-09-41",
+    "ut": 1710985181,
+    "latlng": {
+      "lat": 6.912017,
+      "lng": 79.859642
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 09 41.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-09-41.jpg",
+    "alt": 8.651064972257025,
+    "direction": 290.6535031847134,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-09-41",
+      "species_name_to_score": {
+        "Mimusops elengi": 0.06772,
+        "Ficus racemosa": 0.05607,
+        "Mangifera indica": 0.03476,
+        "Ficus virens": 0.02949,
+        "Syzygium cumini": 0.02326,
+        "Elaeocarpus serratus": 0.02271,
+        "Madhuca longifolia": 0.0157,
+        "Cinnamomum camphora": 0.01228,
+        "Persea americana": 0.01165,
+        "Terminalia bellirica": 0.01021,
+        "Ficus religiosa": 0.00923,
+        "Cola nitida": 0.00571,
+        "Phytolacca dioica": 0.00531,
+        "Terminalia catappa": 0.00531,
+        "Bombax ceiba": 0.00526,
+        "Aegle marmelos": 0.00472,
+        "Adansonia digitata": 0.00463,
+        "Careya arborea": 0.00452,
+        "Acacia auriculiformis": 0.00438,
+        "Ficus altissima": 0.00333,
+        "Dipterocarpus alatus": 0.00323,
+        "Spondias mombin": 0.00305,
+        "Santalum album": 0.00289,
+        "Litsea monopetala": 0.00285,
+        "Sterculia foetida": 0.00281,
+        "Ficus benghalensis": 0.00275,
+        "Shorea roxburghii": 0.00273,
+        "Ceiba pentandra": 0.00256,
+        "Samanea saman": 0.00247,
+        "Strychnos nux-vomica": 0.00246,
+        "Ficus lacor": 0.00244,
+        "Manilkara zapota": 0.00234,
+        "Syzygium jambos": 0.00233,
+        "Elaeocarpus floribundus": 0.0023,
+        "Terminalia chebula": 0.00226,
+        "Hopea odorata": 0.00211,
+        "Barringtonia acutangula": 0.00176,
+        "Vitex altissima": 0.00172,
+        "Bischofia javanica": 0.00168,
+        "Terminalia arjuna": 0.00158,
+        "Ficus tinctoria": 0.00128,
+        "Khaya senegalensis": 0.00105
+      }
+    },
+    "species": {
+      "name": "Mimusops elengi",
+      "authorship": "L.",
+      "genus_name": "Mimusops",
+      "family_name": "Sapotaceae",
+      "gbif_id": "2883768",
+      "powo_id": "787918-1",
+      "iucn_id": "61964765",
+      "iucn_category": "LC",
+      "common_names": [
+        "Bakula",
+        "Kesara",
+        "Magilam",
+        "Magizha",
+        "Medlar",
+        "Moonamal",
+        "Spanish-cherry",
+        "Tanjongtree",
+        "Vakula"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-32-58": {
+    "id": "Photo-2024-03-21-07-32-58",
+    "ut": 1710986578,
+    "latlng": {
+      "lat": 6.915481,
+      "lng": 79.861764
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 32 58.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-32-58.jpg",
+    "alt": 11.815311433594154,
+    "direction": 182.1571503404924,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-32-58",
+      "species_name_to_score": {
+        "Elaeis guineensis": 0.49016,
+        "Phoenix loureiroi": 0.00247,
+        "Phoenix paludosa": 0.00218,
+        "Arenga pinnata": 0.00173,
+        "Phoenix dactylifera": 0.00157,
+        "Cocos nucifera": 0.00143
+      }
+    },
+    "species": {
+      "name": "Elaeis guineensis",
+      "authorship": "Jacq.",
+      "genus_name": "Elaeis",
+      "family_name": "Arecaceae",
+      "gbif_id": "2731882",
+      "powo_id": "666802-1",
+      "iucn_id": "13416970",
+      "iucn_category": "LC",
+      "common_names": [
+        "African oil palm",
+        "Macaw-fat",
+        "Oil palm"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-33-01": {
+    "id": "Photo-2024-03-21-07-33-01",
+    "ut": 1710986581,
+    "latlng": {
+      "lat": 6.914939,
+      "lng": 79.862083
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 33 01.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-33-01.jpg",
+    "alt": 12.226724114860707,
+    "direction": 65.2404403244496,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-33-01",
+      "species_name_to_score": {
+        "Terminalia catappa": 0.49925,
+        "Tectona grandis": 0.18175,
+        "Careya arborea": 0.00436,
+        "Anacardium occidentale": 0.00281,
+        "Phanera vahlii": 0.00214,
+        "Pterospermum acerifolium": 0.00161,
+        "Diospyros melanoxylon": 0.0014,
+        "Ficus altissima": 0.00107,
+        "Ficus fulva": 0.00105
+      }
+    },
+    "species": {
+      "name": "Terminalia catappa",
+      "authorship": "L.",
+      "genus_name": "Terminalia",
+      "family_name": "Combretaceae",
+      "gbif_id": "3189394",
+      "powo_id": "171034-1",
+      "iucn_id": "61989853",
+      "iucn_category": "LC",
+      "common_names": [
+        "Country-almond",
+        "Indian-almond",
+        "Kottamba",
+        "Kottan",
+        "Nattu Vadam",
+        "Nattuvadumai",
+        "Tailaphala",
+        "Tropical almond"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-33-07": {
+    "id": "Photo-2024-03-21-07-33-07",
+    "ut": 1710986587,
+    "latlng": {
+      "lat": 6.914947,
+      "lng": 79.862075
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 33 07.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-33-07.jpg",
+    "alt": 12.220001293744744,
+    "direction": 94.7895965321774,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-33-07",
+      "species_name_to_score": {
+        "Casuarina equisetifolia": 0.38056,
+        "Casuarina glauca": 0.01186,
+        "Tamarix aphylla": 0.00866,
+        "Pinus kesiya": 0.00204,
+        "Eucalyptus robusta": 0.00147,
+        "Cordia dichotoma": 0.00138,
+        "Flemingia strobilifera": 0.0011
+      }
+    },
+    "species": {
+      "name": "Casuarina equisetifolia",
+      "authorship": "L.",
+      "genus_name": "Casuarina",
+      "family_name": "Casuarinaceae",
+      "gbif_id": "2891930",
+      "powo_id": "159856-1",
+      "iucn_id": "16728404",
+      "iucn_category": "LC",
+      "common_names": [
+        "Australian beefwood",
+        "Australian-pine",
+        "Beach sheoak"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-33-11": {
+    "id": "Photo-2024-03-21-07-33-11",
+    "ut": 1710986591,
+    "latlng": {
+      "lat": 6.914981,
+      "lng": 79.862022
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 33 11.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-33-11.jpg",
+    "alt": 1.9534027690634541,
+    "direction": 286.52563464410156,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-33-11",
+      "species_name_to_score": {
+        "Philodendron hederaceum": 0.13568,
+        "Cynanchum acutum": 0.01002,
+        "Passiflora ligularis": 0.00991,
+        "Ipomoea aquatica": 0.00937,
+        "Xanthosoma sagittifolium": 0.00807,
+        "Rhaphidophora decursiva": 0.0069,
+        "Rhaphidophora pertusa": 0.00286,
+        "Funastrum clausum": 0.00193,
+        "Ipomoea violacea": 0.00189,
+        "Cassytha filiformis": 0.00187,
+        "Ipomoea biflora": 0.0018,
+        "Davallia repens": 0.00171,
+        "Colocasia fallax": 0.00143,
+        "Bulbophyllum umbellatum": 0.00138,
+        "Rhaphidophora korthalsii": 0.00135,
+        "Alocasia cucullata": 0.00124,
+        "Ipomoea carnea": 0.00109,
+        "Ficus religiosa": 0.001
+      }
+    },
+    "species": {
+      "name": "Philodendron hederaceum",
+      "authorship": "(Jacq.) Schott",
+      "genus_name": "Philodendron",
+      "family_name": "Araceae",
+      "gbif_id": "2871003",
+      "powo_id": "87797-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Heart-leaf philodendron",
+        "How to grow",
+        "Philodendron brazil"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-33-18": {
+    "id": "Photo-2024-03-21-07-33-18",
+    "ut": 1710986598,
+    "latlng": {
+      "lat": 6.914975,
+      "lng": 79.861992
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 33 18.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-33-18.jpg",
+    "alt": 2.0225960861607772,
+    "direction": 285.05508422476333,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-33-18",
+      "species_name_to_score": {
+        "Terminalia arjuna": 0.14573,
+        "Brownea grandiceps": 0.03651,
+        "Diospyros blancoi": 0.03272,
+        "Saraca asoca": 0.01208,
+        "Diospyros ebenum": 0.00806,
+        "Crescentia cujete": 0.00772,
+        "Mesua ferrea": 0.00538,
+        "Polyalthia suberosa": 0.00509,
+        "Monoon longifolium": 0.00391,
+        "Samadera indica": 0.00376,
+        "Calophyllum inophyllum": 0.00313,
+        "Senna siamea": 0.00297,
+        "Hedychium coronarium": 0.00273,
+        "Phyllanthus emblica": 0.00232,
+        "Ixora chinensis": 0.00218,
+        "Filicium decipiens": 0.00216,
+        "Cedrela odorata": 0.00207,
+        "Theobroma cacao": 0.00206,
+        "Garcinia xanthochymus": 0.00199,
+        "Heritiera littoralis": 0.00167,
+        "Barleria lupulina": 0.00165,
+        "Syzygium jambos": 0.00163,
+        "Saraca indica": 0.00163,
+        "Cassia grandis": 0.00149,
+        "Woodfordia fruticosa": 0.00141,
+        "Acrostichum aureum": 0.00134,
+        "Anacardium occidentale": 0.00131,
+        "Senna multijuga": 0.00129,
+        "Dendrobium pulchellum": 0.00109,
+        "Brownea rosa-de-monte": 0.00104
+      }
+    },
+    "species": {
+      "name": "Terminalia arjuna",
+      "authorship": "(Roxb. ex DC.) Wight & Arn.",
+      "genus_name": "Terminalia",
+      "family_name": "Combretaceae",
+      "gbif_id": "3699548",
+      "powo_id": "170962-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Arjun",
+        "Kakubha",
+        "Kumbuk",
+        "Maruthu",
+        "Marutu",
+        "White murdh"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-33-23": {
+    "id": "Photo-2024-03-21-07-33-23",
+    "ut": 1710986603,
+    "latlng": {
+      "lat": 6.914961,
+      "lng": 79.861992
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 33 23.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-33-23.jpg",
+    "alt": 1.3239313362504208,
+    "direction": 311.28048705867957,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-33-23",
+      "species_name_to_score": {
+        "Terminalia catappa": 0.91855,
+        "Tectona grandis": 0.00906,
+        "Barringtonia racemosa": 0.00407,
+        "Anacardium occidentale": 0.00358,
+        "Careya arborea": 0.00321,
+        "Barringtonia acutangula": 0.00282,
+        "Barringtonia asiatica": 0.00254,
+        "Beaumontia grandiflora": 0.00144,
+        "Theobroma cacao": 0.0013
+      }
+    },
+    "species": {
+      "name": "Terminalia catappa",
+      "authorship": "L.",
+      "genus_name": "Terminalia",
+      "family_name": "Combretaceae",
+      "gbif_id": "3189394",
+      "powo_id": "171034-1",
+      "iucn_id": "61989853",
+      "iucn_category": "LC",
+      "common_names": [
+        "Country-almond",
+        "Indian-almond",
+        "Kottamba",
+        "Kottan",
+        "Nattu Vadam",
+        "Nattuvadumai",
+        "Tailaphala",
+        "Tropical almond"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-33-30": {
+    "id": "Photo-2024-03-21-07-33-30",
+    "ut": 1710986610,
+    "latlng": {
+      "lat": 6.914939,
+      "lng": 79.861961
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 33 30.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-33-30.jpg",
+    "alt": 7.483279554121443,
+    "direction": 333.2695616550594,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-33-30",
+      "species_name_to_score": {
+        "Monoon longifolium": 0.49162,
+        "Saraca asoca": 0.11635,
+        "Saraca indica": 0.03875,
+        "Elaeocarpus angustifolius": 0.01253,
+        "Mangifera indica": 0.0057,
+        "Coffea arabica": 0.00436,
+        "Elaeagnus angustifolia": 0.00409,
+        "Magnolia champaca": 0.00382,
+        "Garcinia atroviridis": 0.00236,
+        "Acacia mearnsii": 0.00204,
+        "Amherstia nobilis": 0.00179,
+        "Toona ciliata": 0.00155,
+        "Caryota urens": 0.00146,
+        "Dimocarpus longan": 0.00133,
+        "Syzygium jambos": 0.00132,
+        "Brownea grandiceps": 0.00107,
+        "Leea guineensis": 0.00107,
+        "Prunus cerasoides": 0.00106,
+        "Colvillea racemosa": 0.00106
+      }
+    },
+    "species": {
+      "name": "Monoon longifolium",
+      "authorship": "(Sonn.) B.Xue & R.M.K.Saunders",
+      "genus_name": "Monoon",
+      "family_name": "Annonaceae",
+      "gbif_id": "11001249",
+      "powo_id": "77123022-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Ashok",
+        "Ashoka",
+        "Debdaru (HI)"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-33-33": {
+    "id": "Photo-2024-03-21-07-33-33",
+    "ut": 1710986613,
+    "latlng": {
+      "lat": 6.914936,
+      "lng": 79.861969
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 33 33.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-33-33.jpg",
+    "alt": 8.116953411946646,
+    "direction": 294.82513416815743,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-33-33",
+      "species_name_to_score": {
+        "Elaeis guineensis": 0.11613,
+        "Nypa fruticans": 0.008,
+        "Phoenix loureiroi": 0.00623,
+        "Phoenix dactylifera": 0.00225,
+        "Arenga wightii": 0.002,
+        "Dypsis lutescens": 0.00159,
+        "Cycas circinalis": 0.00153
+      }
+    },
+    "species": {
+      "name": "Elaeis guineensis",
+      "authorship": "Jacq.",
+      "genus_name": "Elaeis",
+      "family_name": "Arecaceae",
+      "gbif_id": "2731882",
+      "powo_id": "666802-1",
+      "iucn_id": "13416970",
+      "iucn_category": "LC",
+      "common_names": [
+        "African oil palm",
+        "Macaw-fat",
+        "Oil palm"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-33-42": {
+    "id": "Photo-2024-03-21-07-33-42",
+    "ut": 1710986622,
+    "latlng": {
+      "lat": 6.914919,
+      "lng": 79.861947
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 33 42.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-33-42.jpg",
+    "alt": 8.787860525182953,
+    "direction": 352.4539184952978,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-33-42",
+      "species_name_to_score": {
+        "Morinda citrifolia": 0.47978,
+        "Anacardium occidentale": 0.00879,
+        "Tabernaemontana divaricata": 0.00792,
+        "Holarrhena pubescens": 0.00571,
+        "Premna serratifolia": 0.00478,
+        "Calotropis procera": 0.00435,
+        "Calotropis gigantea": 0.00164,
+        "Suregada multiflora": 0.00152,
+        "Ficus racemosa": 0.00138,
+        "Rauvolfia serpentina": 0.00111,
+        "Ficus virens": 0.00108
+      }
+    },
+    "species": {
+      "name": "Morinda citrifolia",
+      "authorship": "L.",
+      "genus_name": "Morinda",
+      "family_name": "Rubiaceae",
+      "gbif_id": "5339879",
+      "powo_id": "756359-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Achchhuka",
+        "Ahu",
+        "Indian-mulberry",
+        "Manjanatti",
+        "Mengkudu",
+        "Noni",
+        "Nuna"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-33-51": {
+    "id": "Photo-2024-03-21-07-33-51",
+    "ut": 1710986631,
+    "latlng": {
+      "lat": 6.914894,
+      "lng": 79.861931
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 33 51.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-33-51.jpg",
+    "alt": 8.35560790346618,
+    "direction": 75.91259765625,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-33-51",
+      "species_name_to_score": {
+        "Oroxylum indicum": 0.04554,
+        "Pterocarpus indicus": 0.03762,
+        "Choerospondias axillaris": 0.02447,
+        "Moringa oleifera": 0.01989,
+        "Erythrophleum suaveolens": 0.01169,
+        "Dalbergia melanoxylon": 0.00963,
+        "Gliricidia sepium": 0.00855,
+        "Guazuma ulmifolia": 0.00685,
+        "Albizia lebbeck": 0.00638,
+        "Cassia fistula": 0.00544,
+        "Bergera koenigii": 0.00515,
+        "Robinia pseudoacacia": 0.00481,
+        "Haematoxylum campechianum": 0.00431,
+        "Dalbergia latifolia": 0.00399,
+        "Ceratonia siliqua": 0.00334,
+        "Millingtonia hortensis": 0.00323,
+        "Swietenia mahagoni": 0.00287,
+        "Koelreuteria paniculata": 0.00285,
+        "Radermachera sinica": 0.00283,
+        "Albizia procera": 0.00265,
+        "Ziziphus jujuba": 0.00258,
+        "Myroxylon balsamum": 0.00233,
+        "Dolichandrone falcata": 0.00229,
+        "Averrhoa carambola": 0.00222,
+        "Decaisnea fargesii": 0.00217,
+        "Phyllanthus reticulatus": 0.00214,
+        "Styphnolobium japonicum": 0.00212,
+        "Pararchidendron pruinosum": 0.00207,
+        "Adenanthera pavonina": 0.00194,
+        "Dalbergia sissoo": 0.00185,
+        "Libidibia ferrea": 0.00168,
+        "Melia azedarach": 0.00149,
+        "Spathodea campanulata": 0.00127,
+        "Lonchocarpus sericeus": 0.00125,
+        "Caragana gerrardiana": 0.00108,
+        "Gleditsia sinensis": 0.00106
+      }
+    },
+    "species": {
+      "name": "Oroxylum indicum",
+      "authorship": "(L.) Kurz",
+      "genus_name": "Oroxylum",
+      "family_name": "Bignoniaceae",
+      "gbif_id": "7414934",
+      "powo_id": "110175-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Achi",
+        "Aralu",
+        "Midday marvel",
+        "Pana",
+        "Syonaka",
+        "Thotila",
+        "Totila",
+        "Vanga",
+        "\u1002\u103c\u1004\u103a\u1021\u1031\u1000\u103a\u104a \u1010\u105e\u1036"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-34-03": {
+    "id": "Photo-2024-03-21-07-34-03",
+    "ut": 1710986643,
+    "latlng": {
+      "lat": 6.914925,
+      "lng": 79.861878
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 34 03.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-34-03.jpg",
+    "alt": 9.070513976555455,
+    "direction": 37.818973561430795,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-34-03",
+      "species_name_to_score": {
+        "Bischofia javanica": 0.27583,
+        "Dalbergia latifolia": 0.20615,
+        "Pterocarpus santalinus": 0.02237,
+        "Choerospondias axillaris": 0.01971,
+        "Oroxylum indicum": 0.01233,
+        "Lannea coromandelica": 0.0119,
+        "Toona ciliata": 0.00823,
+        "Cassia fistula": 0.00639,
+        "Chloroxylon swietenia": 0.00425,
+        "Cotinus coggygria": 0.00321,
+        "Ceratonia siliqua": 0.00287,
+        "Mitragyna parvifolia": 0.00285,
+        "Cordia dichotoma": 0.00217,
+        "Copaifera langsdorffii": 0.00209,
+        "Erythrophleum suaveolens": 0.00195,
+        "Cinnamomum camphora": 0.00188,
+        "Pterocarpus indicus": 0.00184,
+        "Strychnos nux-vomica": 0.00174,
+        "Afzelia africana": 0.0017,
+        "Dalbergia melanoxylon": 0.0017,
+        "Litsea monopetala": 0.00165,
+        "Ziziphus mauritiana": 0.00159,
+        "Schotia brachypetala": 0.00146,
+        "Dolichandrone falcata": 0.00131
+      }
+    },
+    "species": {
+      "name": "Bischofia javanica",
+      "authorship": "Blume",
+      "genus_name": "Bischofia",
+      "family_name": "Phyllanthaceae",
+      "gbif_id": "5383085",
+      "powo_id": "339921-1",
+      "iucn_id": "61956399",
+      "iucn_category": "LC",
+      "common_names": [
+        "Bishopwood",
+        "Java-cedar",
+        "Needlebark"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-34-14": {
+    "id": "Photo-2024-03-21-07-34-14",
+    "ut": 1710986654,
+    "latlng": {
+      "lat": 6.914861,
+      "lng": 79.8619
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 34 14.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-34-14.jpg",
+    "alt": 8.442395710736237,
+    "direction": 173.39729299363057,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-34-14",
+      "species_name_to_score": {
+        "Terminalia catappa": 0.50278,
+        "Tectona grandis": 0.05307,
+        "Careya arborea": 0.03948,
+        "Anacardium occidentale": 0.03674,
+        "Barringtonia asiatica": 0.00701,
+        "Barringtonia acutangula": 0.0037,
+        "Vangueria madagascariensis": 0.00334,
+        "Artocarpus lacucha": 0.00333,
+        "Theobroma cacao": 0.00312,
+        "Holarrhena pubescens": 0.00252,
+        "Syzygium malaccense": 0.0019,
+        "Sandoricum koetjape": 0.00136,
+        "Barringtonia racemosa": 0.00128,
+        "Erythrina poeppigiana": 0.00113,
+        "Spathodea campanulata": 0.00102
+      }
+    },
+    "species": {
+      "name": "Terminalia catappa",
+      "authorship": "L.",
+      "genus_name": "Terminalia",
+      "family_name": "Combretaceae",
+      "gbif_id": "3189394",
+      "powo_id": "171034-1",
+      "iucn_id": "61989853",
+      "iucn_category": "LC",
+      "common_names": [
+        "Country-almond",
+        "Indian-almond",
+        "Kottamba",
+        "Kottan",
+        "Nattu Vadam",
+        "Nattuvadumai",
+        "Tailaphala",
+        "Tropical almond"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-34-25": {
+    "id": "Photo-2024-03-21-07-34-25",
+    "ut": 1710986665,
+    "latlng": {
+      "lat": 6.914794,
+      "lng": 79.8619
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 34 25.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-34-25.jpg",
+    "alt": 9.842040539394453,
+    "direction": 256.0447390223695,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-34-25",
+      "species_name_to_score": {
+        "Mangifera indica": 0.81676,
+        "Madhuca longifolia": 0.00973,
+        "Alstonia macrophylla": 0.00749,
+        "Elaeocarpus angustifolius": 0.00366,
+        "Saraca asoca": 0.00121,
+        "Manilkara zapota": 0.00114,
+        "Bouea oppositifolia": 0.00112,
+        "Cerbera manghas": 0.00105
+      }
+    },
+    "species": {
+      "name": "Mangifera indica",
+      "authorship": "L.",
+      "genus_name": "Mangifera",
+      "family_name": "Anacardiaceae",
+      "gbif_id": "3190638",
+      "powo_id": "69913-1",
+      "iucn_id": "31389",
+      "iucn_category": "DD",
+      "common_names": [
+        "Amba",
+        "Amiram",
+        "Amra",
+        "Ma",
+        "Mamaram",
+        "Mangai",
+        "Mango",
+        "Mango Tree",
+        "Mee Amba",
+        "Sahakara",
+        "\u0906\u092e"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-34-39": {
+    "id": "Photo-2024-03-21-07-34-39",
+    "ut": 1710986679,
+    "latlng": {
+      "lat": 6.914764,
+      "lng": 79.861917
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 34 39.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-34-39.jpg",
+    "alt": 9.698607296979208,
+    "direction": 239.807311827957,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-34-39",
+      "species_name_to_score": {
+        "Tabernaemontana divaricata": 0.24778,
+        "Coffea arabica": 0.04919,
+        "Quercus glauca": 0.03461,
+        "Ficus retusa": 0.00511,
+        "Osmanthus fragrans": 0.00477,
+        "Morinda citrifolia": 0.00383,
+        "Justicia adhatoda": 0.00262,
+        "Quercus lamellosa": 0.00221,
+        "Rhododendron lanigerum": 0.00181,
+        "Barringtonia acutangula": 0.0016,
+        "Ficus benjamina": 0.00144,
+        "Ficus virens": 0.00135,
+        "Holigarna arnottiana": 0.00116,
+        "Kopsia fruticosa": 0.00104,
+        "Euphorbia leucocephala": 0.00102,
+        "Ficus tinctoria": 0.00101
+      }
+    },
+    "species": {
+      "name": "Tabernaemontana divaricata",
+      "authorship": "(L.) R.Br. ex Roem. & Schult.",
+      "genus_name": "Tabernaemontana",
+      "family_name": "Apocynaceae",
+      "gbif_id": "3169625",
+      "powo_id": "82097-1",
+      "iucn_id": "149853146",
+      "iucn_category": "LC",
+      "common_names": [
+        "Adukkunandiyavattai",
+        "Butterfly-gardenia",
+        "Crape-jasmine",
+        "Nandi Battai",
+        "Nandiar Vattai",
+        "Nandivrksah",
+        "Vathu Sudda",
+        "Wathu Sudda",
+        "Watu Sudda",
+        "Watusudda",
+        "\u0c28\u0c02\u0c26\u0c3f\u0c35\u0c30\u0c4d\u0c27\u0c28\u0c02"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-34-46": {
+    "id": "Photo-2024-03-21-07-34-46",
+    "ut": 1710986686,
+    "latlng": {
+      "lat": 6.914742,
+      "lng": 79.861922
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 34 46.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-34-46.jpg",
+    "alt": 9.302820890449757,
+    "direction": 303.686401480111,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-34-46",
+      "species_name_to_score": {
+        "Toona ciliata": 0.0476,
+        "Cedrela odorata": 0.01425,
+        "Schizolobium parahyba": 0.0107,
+        "Albizia lebbeck": 0.00772,
+        "Diospyros lotus": 0.00755,
+        "Hevea brasiliensis": 0.00743,
+        "Samanea saman": 0.00607,
+        "Cassia fistula": 0.00553,
+        "Sapindus saponaria": 0.00546,
+        "Ficus virens": 0.00439,
+        "Albizia procera": 0.00406,
+        "Oroxylum indicum": 0.00402,
+        "Copaifera langsdorffii": 0.00364,
+        "Cassia grandis": 0.00349,
+        "Hymenaea courbaril": 0.00325,
+        "Melia azedarach": 0.003,
+        "Bombax ceiba": 0.00251,
+        "Alnus nepalensis": 0.00249,
+        "Erythrina poeppigiana": 0.00233,
+        "Toxicodendron succedaneum": 0.00221,
+        "Hymenaea verrucosa": 0.00219,
+        "Albizia julibrissin": 0.00193,
+        "Terminalia bellirica": 0.00187,
+        "Castilla elastica": 0.00186,
+        "Firmiana colorata": 0.00183,
+        "Guazuma ulmifolia": 0.00161,
+        "Adansonia digitata": 0.0016,
+        "Ficus geniculata": 0.00159,
+        "Khaya senegalensis": 0.00123,
+        "Mallotus barbatus": 0.00117,
+        "Chloroxylon swietenia": 0.00115,
+        "Ceiba pentandra": 0.00101
+      }
+    },
+    "species": {
+      "name": "Toona ciliata",
+      "authorship": "M.Roem.",
+      "genus_name": "Toona",
+      "family_name": "Meliaceae",
+      "gbif_id": "3190472",
+      "powo_id": "579299-1",
+      "iucn_id": "31332",
+      "iucn_category": "LC",
+      "common_names": [
+        "Australian red-cedar",
+        "Australian redcedar",
+        "Red Cedar"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-34-57": {
+    "id": "Photo-2024-03-21-07-34-57",
+    "ut": 1710986697,
+    "latlng": {
+      "lat": 6.914761,
+      "lng": 79.861969
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 34 57.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-34-57.jpg",
+    "alt": 8.968851651059635,
+    "direction": 180.53854366858852,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-34-57",
+      "species_name_to_score": {
+        "Monoon longifolium": 0.59826,
+        "Saraca asoca": 0.03168,
+        "Mangifera indica": 0.01581,
+        "Sapindus saponaria": 0.00569,
+        "Saraca indica": 0.00419,
+        "Quercus acutissima": 0.00256,
+        "Elaeocarpus angustifolius": 0.00147,
+        "Hopea odorata": 0.00146,
+        "Sapindus mukorossi": 0.00117
+      }
+    },
+    "species": {
+      "name": "Monoon longifolium",
+      "authorship": "(Sonn.) B.Xue & R.M.K.Saunders",
+      "genus_name": "Monoon",
+      "family_name": "Annonaceae",
+      "gbif_id": "11001249",
+      "powo_id": "77123022-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Ashok",
+        "Ashoka",
+        "Debdaru (HI)"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-35-06": {
+    "id": "Photo-2024-03-21-07-35-06",
+    "ut": 1710986706,
+    "latlng": {
+      "lat": 6.914781,
+      "lng": 79.861992
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 35 06.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-35-06.jpg",
+    "alt": 8.313341000575043,
+    "direction": 107.21573642244621,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-35-06",
+      "species_name_to_score": {
+        "Tabernaemontana divaricata": 0.60727,
+        "Tabernaemontana alternifolia": 0.00203
+      }
+    },
+    "species": {
+      "name": "Tabernaemontana divaricata",
+      "authorship": "(L.) R.Br. ex Roem. & Schult.",
+      "genus_name": "Tabernaemontana",
+      "family_name": "Apocynaceae",
+      "gbif_id": "3169625",
+      "powo_id": "82097-1",
+      "iucn_id": "149853146",
+      "iucn_category": "LC",
+      "common_names": [
+        "Adukkunandiyavattai",
+        "Butterfly-gardenia",
+        "Crape-jasmine",
+        "Nandi Battai",
+        "Nandiar Vattai",
+        "Nandivrksah",
+        "Vathu Sudda",
+        "Wathu Sudda",
+        "Watu Sudda",
+        "Watusudda",
+        "\u0c28\u0c02\u0c26\u0c3f\u0c35\u0c30\u0c4d\u0c27\u0c28\u0c02"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-35-19": {
+    "id": "Photo-2024-03-21-07-35-19",
+    "ut": 1710986719,
+    "latlng": {
+      "lat": 6.914817,
+      "lng": 79.862053
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 35 19.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-35-19.jpg",
+    "alt": 9.600279791428209,
+    "direction": 24.99123763944118,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-35-19",
+      "species_name_to_score": {
+        "Ficus virens": 0.01145,
+        "Cassia fistula": 0.00925,
+        "Toona ciliata": 0.00921,
+        "Eucalyptus robusta": 0.00886,
+        "Hopea odorata": 0.00661,
+        "Tipuana tipu": 0.00587,
+        "Terminalia catappa": 0.00573,
+        "Shorea robusta": 0.00444,
+        "Artocarpus lacucha": 0.00365,
+        "Swietenia mahagoni": 0.00352,
+        "Diospyros blancoi": 0.0035,
+        "Mimusops elengi": 0.0035,
+        "Artocarpus integer": 0.00347,
+        "Chukrasia tabularis": 0.00332,
+        "Shorea roxburghii": 0.00329,
+        "Pterocarpus santalinus": 0.00313,
+        "Persea americana": 0.00284,
+        "Swietenia macrophylla": 0.0028,
+        "Cupaniopsis anacardioides": 0.00271,
+        "Neolamarckia cadamba": 0.00249,
+        "Spathodea campanulata": 0.00229,
+        "Diospyros melanoxylon": 0.00225,
+        "Khaya senegalensis": 0.00223,
+        "Syzygium cumini": 0.00199,
+        "Dolichandrone serrulata": 0.00199,
+        "Albizia lebbeck": 0.00193,
+        "Pterocarpus indicus": 0.00191,
+        "Tamarindus indica": 0.00186,
+        "Hymenaea courbaril": 0.00184,
+        "Quercus serrata": 0.00179,
+        "Cinnamomum camphora": 0.00176,
+        "Cassia grandis": 0.00175,
+        "Dalbergia cultrata": 0.00172,
+        "Bischofia javanica": 0.00155,
+        "Pyrrosia lanceolata": 0.00139,
+        "Ficus racemosa": 0.00134,
+        "Ficus hookeriana": 0.00125,
+        "Litsea monopetala": 0.00122,
+        "Artocarpus heterophyllus": 0.0012,
+        "Pterocarpus macrocarpus": 0.00117,
+        "Tectona grandis": 0.00111,
+        "Spondias mombin": 0.00106,
+        "Juncus gracilicaulis": 0.00101
+      }
+    },
+    "species": {
+      "name": "Ficus virens",
+      "authorship": "Aiton",
+      "genus_name": "Ficus",
+      "family_name": "Moraceae",
+      "gbif_id": "9512597",
+      "powo_id": "853954-1",
+      "iucn_id": "147495192",
+      "iucn_category": "LC",
+      "common_names": [
+        "Caroline banyan",
+        "Kadol",
+        "Kalaal",
+        "Kaputu Bo",
+        "Mountain fig",
+        "Spotted fig",
+        "Varaiyalmuram"
       ]
     }
   },
@@ -46555,6 +48471,227 @@
       ]
     }
   },
+  "Photo-2024-03-21-07-35-48": {
+    "id": "Photo-2024-03-21-07-35-48",
+    "ut": 1710986748,
+    "latlng": {
+      "lat": 6.914792,
+      "lng": 79.862183
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 35 48.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-35-48.jpg",
+    "alt": 9.57666637774118,
+    "direction": 241.0586701434159,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-35-48",
+      "species_name_to_score": {
+        "Elaeis guineensis": 0.11948,
+        "Calamus erectus": 0.00619,
+        "Phoenix sylvestris": 0.00268,
+        "Dypsis lutescens": 0.00154,
+        "Arenga pinnata": 0.0014,
+        "Phoenix loureiroi": 0.00102
+      }
+    },
+    "species": {
+      "name": "Elaeis guineensis",
+      "authorship": "Jacq.",
+      "genus_name": "Elaeis",
+      "family_name": "Arecaceae",
+      "gbif_id": "2731882",
+      "powo_id": "666802-1",
+      "iucn_id": "13416970",
+      "iucn_category": "LC",
+      "common_names": [
+        "African oil palm",
+        "Macaw-fat",
+        "Oil palm"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-35-57": {
+    "id": "Photo-2024-03-21-07-35-57",
+    "ut": 1710986757,
+    "latlng": {
+      "lat": 6.914739,
+      "lng": 79.862206
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 35 57.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-35-57.jpg",
+    "alt": 8.782843770174306,
+    "direction": 287.98599221789885,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-35-57",
+      "species_name_to_score": {
+        "Areca triandra": 0.08157,
+        "Filicium decipiens": 0.0155,
+        "Dendrocalamus giganteus": 0.00563,
+        "Areca catechu": 0.00372,
+        "Calamus erectus": 0.00107,
+        "Calamus viminalis": 0.00106
+      }
+    },
+    "species": {
+      "name": "Areca triandra",
+      "authorship": "Roxb. ex Buch.-Ham.",
+      "genus_name": "Areca",
+      "family_name": "Arecaceae",
+      "gbif_id": "2736565",
+      "powo_id": "664230-1",
+      "iucn_id": "111452558",
+      "iucn_category": "LC",
+      "common_names": [
+        "Australian areca palm",
+        "Bungua",
+        "Wild areca palm"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-36-55": {
+    "id": "Photo-2024-03-21-07-36-55",
+    "ut": 1710986815,
+    "latlng": {
+      "lat": 6.914225,
+      "lng": 79.862275
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 36 55.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-36-55.jpg",
+    "alt": 19.625785849715598,
+    "direction": 237.00991831971996,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-36-55",
+      "species_name_to_score": {
+        "Cassia fistula": 0.45374,
+        "Pterocarpus indicus": 0.14025,
+        "Afzelia africana": 0.02268,
+        "Pongamia pinnata": 0.01437,
+        "Khaya senegalensis": 0.01093,
+        "Dalbergia latifolia": 0.01064,
+        "Platymiscium pinnatum": 0.00492,
+        "Pterocarpus macrocarpus": 0.00451,
+        "Sapindus saponaria": 0.00447,
+        "Adenanthera pavonina": 0.00271,
+        "Guazuma ulmifolia": 0.00266,
+        "Holarrhena pubescens": 0.00249,
+        "Ficus virens": 0.00219,
+        "Archidendron jiringa": 0.00178,
+        "Castanospermum australe": 0.00169,
+        "Myroxylon balsamum": 0.00165,
+        "Toona ciliata": 0.00149,
+        "Cedrela odorata": 0.00143,
+        "Diospyros melanoxylon": 0.00135,
+        "Erythrophleum suaveolens": 0.00131,
+        "Swietenia mahagoni": 0.00125,
+        "Eleusine coracana": 0.00123,
+        "Intsia bijuga": 0.00107
+      }
+    },
+    "species": {
+      "name": "Cassia fistula",
+      "authorship": "L.",
+      "genus_name": "Cassia",
+      "family_name": "Fabaceae",
+      "gbif_id": "5357108",
+      "powo_id": "484507-1",
+      "iucn_id": "136142327",
+      "iucn_category": "LC",
+      "common_names": [
+        "Aehaela",
+        "Amaltas",
+        "Aragvadha",
+        "Ehela",
+        "Golden Shower Tree",
+        "Indian-laburnum",
+        "Konnai",
+        "Konrai",
+        "Mullaimaram"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-39-34": {
+    "id": "Photo-2024-03-21-07-39-34",
+    "ut": 1710986974,
+    "latlng": {
+      "lat": 6.912747,
+      "lng": 79.861289
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 39 34.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-39-34.jpg",
+    "alt": 10.104462123832583,
+    "direction": 102.35254667391699,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-39-34",
+      "species_name_to_score": {
+        "Podocarpus neriifolius": 0.00574,
+        "Melaleuca viminalis": 0.00375,
+        "Nerium oleander": 0.00294,
+        "Cascabela thevetia": 0.00109
+      }
+    },
+    "species": {
+      "name": "Podocarpus neriifolius",
+      "authorship": "D.Don",
+      "genus_name": "Podocarpus",
+      "family_name": "Podocarpaceae",
+      "gbif_id": "5286088",
+      "powo_id": "263545-1",
+      "iucn_id": "42521",
+      "iucn_category": "LC",
+      "common_names": [
+        "Brown pine",
+        "Mountain teak"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-39-43": {
+    "id": "Photo-2024-03-21-07-39-43",
+    "ut": 1710986983,
+    "latlng": {
+      "lat": 6.912694,
+      "lng": 79.861161
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 39 43.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-39-43.jpg",
+    "alt": 13.711875589066919,
+    "direction": 85.2777099609375,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-39-43",
+      "species_name_to_score": {
+        "Acacia confusa": 0.04516,
+        "Melaleuca viminalis": 0.01286,
+        "Salix viminalis": 0.00793,
+        "Salix alba": 0.00415,
+        "Olea europaea": 0.0041,
+        "Acacia melanoxylon": 0.00313,
+        "Acacia longifolia": 0.00191,
+        "Salix rosmarinifolia": 0.00175,
+        "Podocarpus neriifolius": 0.00157,
+        "Acacia auriculiformis": 0.00155,
+        "Hydrocotyle sibthorpioides": 0.0014,
+        "Syzygium jambos": 0.00125
+      }
+    },
+    "species": {
+      "name": "Acacia confusa",
+      "authorship": "Merr.",
+      "genus_name": "Acacia",
+      "family_name": "Fabaceae",
+      "gbif_id": "2978466",
+      "powo_id": "470039-1",
+      "iucn_id": "18435782",
+      "iucn_category": "LC",
+      "common_names": [
+        "Formosan koa",
+        "Small Philippine Wattle",
+        "Small Philippine acacia"
+      ]
+    }
+  },
   "Photo-2024-03-21-07-40-01": {
     "id": "Photo-2024-03-21-07-40-01",
     "ut": 1710987001,
@@ -46591,6 +48728,190 @@
       "common_names": [
         "Brown pine",
         "Mountain teak"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-44-59": {
+    "id": "Photo-2024-03-21-07-44-59",
+    "ut": 1710987299,
+    "latlng": {
+      "lat": 6.913414,
+      "lng": 79.862464
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 44 59.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-44-59.jpg",
+    "alt": 11.952137002341921,
+    "direction": 156.32937616387338,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-44-59",
+      "species_name_to_score": {
+        "Alstonia macrophylla": 0.14918,
+        "Cerbera manghas": 0.14522,
+        "Cerbera odollam": 0.13266,
+        "Madhuca longifolia": 0.01222,
+        "Mangifera indica": 0.0089,
+        "Crescentia cujete": 0.006,
+        "Artocarpus heterophyllus": 0.00596,
+        "Plumeria alba": 0.00289,
+        "Holigarna arnottiana": 0.00266,
+        "Ficus callosa": 0.00262,
+        "Barringtonia acutangula": 0.00254,
+        "Syzygium jambos": 0.00209,
+        "Plumeria rubra": 0.00207,
+        "Barringtonia asiatica": 0.00207,
+        "Ficus hispida": 0.00167,
+        "Terminalia catappa": 0.00156,
+        "Hevea brasiliensis": 0.00123,
+        "Manilkara zapota": 0.00113
+      }
+    },
+    "species": {
+      "name": "Alstonia macrophylla",
+      "authorship": "Wall. ex G.Don",
+      "genus_name": "Alstonia",
+      "family_name": "Apocynaceae",
+      "gbif_id": "5414411",
+      "powo_id": "76556-1",
+      "iucn_id": "33194",
+      "iucn_category": "LC",
+      "common_names": [
+        "Deviltree",
+        "Hard alstonia",
+        "Hard milkwood",
+        "Havari Nuga"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-45-20": {
+    "id": "Photo-2024-03-21-07-45-20",
+    "ut": 1710987320,
+    "latlng": {
+      "lat": 6.913692,
+      "lng": 79.861892
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 45 20.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-45-20.jpg",
+    "alt": 12.496420861265765,
+    "direction": 178.52716049382715,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-45-20",
+      "species_name_to_score": {
+        "Mesua ferrea": 0.32182,
+        "Eucalyptus globulus": 0.01806,
+        "Syzygium cumini": 0.01076,
+        "Dendrocalamus giganteus": 0.01031,
+        "Diospyros lotus": 0.00735,
+        "Syzygium jambos": 0.00643,
+        "Monoon longifolium": 0.00634,
+        "Ficus maclellandii": 0.00616,
+        "Erythrophleum suaveolens": 0.00583,
+        "Eucalyptus robusta": 0.00345,
+        "Eucalyptus camaldulensis": 0.00333,
+        "Caryota urens": 0.00298,
+        "Brownea grandiceps": 0.00212,
+        "Brachychiton populneus": 0.00184,
+        "Caryota obtusa": 0.00174,
+        "Tipuana tipu": 0.00173,
+        "Quercus glauca": 0.00171,
+        "Saraca indica": 0.00162,
+        "Toona ciliata": 0.00158,
+        "Alnus nitida": 0.00134,
+        "Cajanus cajan": 0.00134,
+        "Amherstia nobilis": 0.00133,
+        "Lysidice rhodostegia": 0.0013,
+        "Senna spectabilis": 0.00125,
+        "Holigarna arnottiana": 0.00118,
+        "Muntingia calabura": 0.00111,
+        "Shorea assamica": 0.00107
+      }
+    },
+    "species": {
+      "name": "Mesua ferrea",
+      "authorship": "L.",
+      "genus_name": "Mesua",
+      "family_name": "Calophyllaceae",
+      "gbif_id": "7330039",
+      "powo_id": "428832-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Ceylon Ironwood",
+        "Cirunakappu",
+        "Iron Wood Tree",
+        "Mesua",
+        "Na",
+        "Naa",
+        "Nagakesarah Nagapuspa",
+        "Nangu"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-45-33": {
+    "id": "Photo-2024-03-21-07-45-33",
+    "ut": 1710987333,
+    "latlng": {
+      "lat": 6.912753,
+      "lng": 79.862397
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 45 33.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-45-33.jpg",
+    "alt": 14.220001222568616,
+    "direction": 42.08703233988586,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-45-33",
+      "species_name_to_score": {
+        "Pongamia pinnata": 0.33859,
+        "Pterocarpus indicus": 0.0245,
+        "Morus nigra": 0.01061,
+        "Aegle marmelos": 0.01044,
+        "Strychnos nux-vomica": 0.00976,
+        "Bischofia javanica": 0.00869,
+        "Pterocarpus macrocarpus": 0.00864,
+        "Lagerstroemia speciosa": 0.00708,
+        "Cassia fistula": 0.00705,
+        "Cordia dichotoma": 0.00609,
+        "Nauclea orientalis": 0.00496,
+        "Neolamarckia cadamba": 0.00456,
+        "Diospyros kaki": 0.00346,
+        "Acer negundo": 0.0029,
+        "Morus alba": 0.00269,
+        "Holarrhena pubescens": 0.00244,
+        "Pterygota alata": 0.00211,
+        "Erythrina poeppigiana": 0.00207,
+        "Flacourtia jangomas": 0.002,
+        "Pararchidendron pruinosum": 0.00177,
+        "Tectona grandis": 0.00166,
+        "Syzygium cumini": 0.00164,
+        "Ehretia dicksonii": 0.00152,
+        "Sandoricum koetjape": 0.00128,
+        "Thespesia populnea": 0.00125,
+        "Dendrolobium umbellatum": 0.00123,
+        "Cordia subcordata": 0.0012,
+        "Ehretia acuminata": 0.00112,
+        "Spathodea campanulata": 0.00101
+      }
+    },
+    "species": {
+      "name": "Pongamia pinnata",
+      "authorship": "(L.) Pierre",
+      "genus_name": "Pongamia",
+      "family_name": "Fabaceae",
+      "gbif_id": "2965911",
+      "powo_id": "515679-1",
+      "iucn_id": "168724",
+      "iucn_category": "LC",
+      "common_names": [
+        "Indian Beech",
+        "Karanda",
+        "Karanj",
+        "Kolliyam",
+        "Naktamaala",
+        "Pomka",
+        "Pongam",
+        "Punku"
       ]
     }
   },
@@ -46633,6 +48954,1321 @@
         "Parrotweed",
         "Plume-poppy",
         "Tree celandine"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-46-24": {
+    "id": "Photo-2024-03-21-07-46-24",
+    "ut": 1710987384,
+    "latlng": {
+      "lat": 6.912803,
+      "lng": 79.862642
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 46 24.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-46-24.jpg",
+    "alt": 10.933433810600352,
+    "direction": 1.7995107176141658,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-46-24",
+      "species_name_to_score": {
+        "Tectona grandis": 0.21824,
+        "Terminalia catappa": 0.09647,
+        "Sterculia foetida": 0.01792,
+        "Artocarpus lacucha": 0.01408,
+        "Pterospermum acerifolium": 0.01186,
+        "Diospyros blancoi": 0.00579,
+        "Terminalia bellirica": 0.00559,
+        "Neolamarckia cadamba": 0.0038,
+        "Diospyros melanoxylon": 0.00353,
+        "Phanera vahlii": 0.00296,
+        "Dillenia pentagyna": 0.00242,
+        "Artocarpus heterophyllus": 0.00227,
+        "Dipterocarpus alatus": 0.00211,
+        "Madhuca longifolia": 0.00188,
+        "Ficus altissima": 0.00188,
+        "Couroupita guianensis": 0.00137,
+        "Bombax ceiba": 0.00126,
+        "Canarium strictum": 0.00122,
+        "Smilax zeylanica": 0.00103,
+        "Garcinia mangostana": 0.00102
+      }
+    },
+    "species": {
+      "name": "Tectona grandis",
+      "authorship": "L.f.",
+      "genus_name": "Tectona",
+      "family_name": "Lamiaceae",
+      "gbif_id": "2925649",
+      "powo_id": "864923-1",
+      "iucn_id": "62019830",
+      "iucn_category": "EN",
+      "common_names": [
+        "Bankok teak",
+        "Bardaru",
+        "Bhumisah",
+        "Dwardaru",
+        "Indian-oak",
+        "Kharchchada",
+        "Kolaphala",
+        "Saaka",
+        "Sabarasaara",
+        "Teak",
+        "The Kka Signify Long Sound",
+        "Thekku"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-46-34": {
+    "id": "Photo-2024-03-21-07-46-34",
+    "ut": 1710987394,
+    "latlng": {
+      "lat": 6.912761,
+      "lng": 79.862678
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 46 34.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-46-34.jpg",
+    "alt": 10.412573801336533,
+    "direction": 357.31195079086115,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-46-34",
+      "species_name_to_score": {
+        "Mangifera indica": 0.61211,
+        "Eucalyptus robusta": 0.00881,
+        "Acacia auriculiformis": 0.00519,
+        "Diospyros blancoi": 0.00243,
+        "Manilkara zapota": 0.00231,
+        "Swietenia macrophylla": 0.00192,
+        "Syzygium jambos": 0.00185,
+        "Mayodendron igneum": 0.00119,
+        "Mimusops elengi": 0.00119,
+        "Sterculia foetida": 0.00115,
+        "Madhuca longifolia": 0.00115,
+        "Persea americana": 0.00107,
+        "Morinda citrifolia": 0.00105,
+        "Ceiba pentandra": 0.00101
+      }
+    },
+    "species": {
+      "name": "Mangifera indica",
+      "authorship": "L.",
+      "genus_name": "Mangifera",
+      "family_name": "Anacardiaceae",
+      "gbif_id": "3190638",
+      "powo_id": "69913-1",
+      "iucn_id": "31389",
+      "iucn_category": "DD",
+      "common_names": [
+        "Amba",
+        "Amiram",
+        "Amra",
+        "Ma",
+        "Mamaram",
+        "Mangai",
+        "Mango",
+        "Mango Tree",
+        "Mee Amba",
+        "Sahakara",
+        "\u0906\u092e"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-47-25": {
+    "id": "Photo-2024-03-21-07-47-25",
+    "ut": 1710987445,
+    "latlng": {
+      "lat": 6.913483,
+      "lng": 79.862975
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 47 25.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-47-25.jpg",
+    "alt": 12.527119639710202,
+    "direction": 66.318359375,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-47-25",
+      "species_name_to_score": {
+        "Peltophorum dubium": 0.21062,
+        "Jacaranda mimosifolia": 0.11068,
+        "Delonix regia": 0.10709,
+        "Peltophorum pterocarpum": 0.07357,
+        "Schizolobium parahyba": 0.03094,
+        "Libidibia coriaria": 0.00847,
+        "Peltophorum africanum": 0.00772,
+        "Falcataria falcata": 0.0052,
+        "Biancaea sappan": 0.00507,
+        "Leucaena leucocephala": 0.00447,
+        "Albizia lebbeck": 0.00291,
+        "Albizia julibrissin": 0.00176,
+        "Senna multijuga": 0.00121,
+        "Acacia dealbata": 0.00118,
+        "Albizia procera": 0.00103
+      }
+    },
+    "species": {
+      "name": "Peltophorum dubium",
+      "authorship": "(Spreng.) Taub.",
+      "genus_name": "Peltophorum",
+      "family_name": "Fabaceae",
+      "gbif_id": "2952798",
+      "powo_id": "187026-2",
+      "iucn_id": "62027184",
+      "iucn_category": "LC",
+      "common_names": [
+        "Ca\u00f1a-F\u00edstula",
+        "Horsebush",
+        "Ibir\u00e1-Pit\u00e1"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-47-35": {
+    "id": "Photo-2024-03-21-07-47-35",
+    "ut": 1710987455,
+    "latlng": {
+      "lat": 6.912569,
+      "lng": 79.863228
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 47 35.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-47-35.jpg",
+    "alt": 12.841077386280414,
+    "direction": 137.3482972136223,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-47-35",
+      "species_name_to_score": {
+        "Peltophorum dubium": 0.14039,
+        "Peltophorum pterocarpum": 0.10789,
+        "Jacaranda mimosifolia": 0.06165,
+        "Tipuana tipu": 0.04422,
+        "Cedrela odorata": 0.03395,
+        "Swietenia macrophylla": 0.02375,
+        "Swietenia mahagoni": 0.01365,
+        "Peltophorum africanum": 0.01047,
+        "Samanea saman": 0.00936,
+        "Libidibia coriaria": 0.00785,
+        "Toona ciliata": 0.00586,
+        "Senna siamea": 0.00437,
+        "Grevillea robusta": 0.00436,
+        "Tamarindus indica": 0.00371,
+        "Robinia pseudoacacia": 0.00293,
+        "Spondias mombin": 0.0023,
+        "Davallia solida": 0.0016,
+        "Styphnolobium japonicum": 0.00144,
+        "Libidibia ferrea": 0.0013,
+        "Leucaena leucocephala": 0.00129,
+        "Schizolobium parahyba": 0.00129,
+        "Gliricidia sepium": 0.00128,
+        "Juglans nigra": 0.00126,
+        "Ailanthus altissima": 0.00123,
+        "Albizia procera": 0.00122,
+        "Azadirachta indica": 0.00117,
+        "Acacia longifolia": 0.00115,
+        "Eucalyptus robusta": 0.00109,
+        "Pterocarpus indicus": 0.00106,
+        "Cryptostylis arachnites": 0.00104,
+        "Sesbania grandiflora": 0.00101
+      }
+    },
+    "species": {
+      "name": "Peltophorum dubium",
+      "authorship": "(Spreng.) Taub.",
+      "genus_name": "Peltophorum",
+      "family_name": "Fabaceae",
+      "gbif_id": "2952798",
+      "powo_id": "187026-2",
+      "iucn_id": "62027184",
+      "iucn_category": "LC",
+      "common_names": [
+        "Ca\u00f1a-F\u00edstula",
+        "Horsebush",
+        "Ibir\u00e1-Pit\u00e1"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-47-43": {
+    "id": "Photo-2024-03-21-07-47-43",
+    "ut": 1710987463,
+    "latlng": {
+      "lat": 6.912594,
+      "lng": 79.863206
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 47 43.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-47-43.jpg",
+    "alt": 12.080511541864393,
+    "direction": 201.5236664162284,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-47-43",
+      "species_name_to_score": {
+        "Peltophorum pterocarpum": 0.37128,
+        "Jacaranda mimosifolia": 0.05086,
+        "Peltophorum africanum": 0.0353,
+        "Peltophorum dubium": 0.03095,
+        "Libidibia coriaria": 0.01228,
+        "Schizolobium parahyba": 0.00917,
+        "Leucaena leucocephala": 0.00277,
+        "Senna multijuga": 0.00257,
+        "Parkia biglobosa": 0.00253,
+        "Cassia grandis": 0.00227,
+        "Delonix regia": 0.00213,
+        "Biancaea sappan": 0.00173,
+        "Libidibia ferrea": 0.0014,
+        "Falcataria falcata": 0.0013,
+        "Tipuana tipu": 0.00112,
+        "Cedrela odorata": 0.00107,
+        "Pavetta indica": 0.00106,
+        "Phyllanthus emblica": 0.00105
+      }
+    },
+    "species": {
+      "name": "Peltophorum pterocarpum",
+      "authorship": "(DC.) Backer ex K.Heyne",
+      "genus_name": "Peltophorum",
+      "family_name": "Fabaceae",
+      "gbif_id": "2952775",
+      "powo_id": "513021-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Copperpod",
+        "Kaha Maara",
+        "Kona Maram",
+        "Maara",
+        "Nilalvakai",
+        "Yellow flame",
+        "Yellow flametree"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-47-53": {
+    "id": "Photo-2024-03-21-07-47-53",
+    "ut": 1710987473,
+    "latlng": {
+      "lat": 6.912619,
+      "lng": 79.863303
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 47 53.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-47-53.jpg",
+    "alt": 10.192371950928445,
+    "direction": 66.83184812088338,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-47-53",
+      "species_name_to_score": {
+        "Guazuma ulmifolia": 0.0219,
+        "Holarrhena pubescens": 0.01432,
+        "Muntingia calabura": 0.00977,
+        "Lagerstroemia speciosa": 0.00962,
+        "Cordia dichotoma": 0.00786,
+        "Broussonetia papyrifera": 0.00752,
+        "Bauhinia variegata": 0.00708,
+        "Acer negundo": 0.00585,
+        "Diospyros kaki": 0.00557,
+        "Cordia subcordata": 0.00492,
+        "Bauhinia purpurea": 0.00468,
+        "Cassia fistula": 0.00427,
+        "Morus nigra": 0.00421,
+        "Strychnos nux-vomica": 0.0041,
+        "Syzygium cumini": 0.0041,
+        "Terminalia catappa": 0.00399,
+        "Ehretia dicksonii": 0.00372,
+        "Morus alba": 0.0035,
+        "Hovenia dulcis": 0.00305,
+        "Platanus orientalis": 0.00287,
+        "Pongamia pinnata": 0.0028,
+        "Pterocarpus indicus": 0.00265,
+        "Kleinhovia hospita": 0.00246,
+        "Tectona grandis": 0.00239,
+        "Catalpa bignonioides": 0.00235,
+        "Terminalia chebula": 0.00205,
+        "Pterospermum acerifolium": 0.00185,
+        "Bauhinia monandra": 0.00183,
+        "Morus indica": 0.00175,
+        "Spathodea campanulata": 0.00174,
+        "Diospyros malabarica": 0.00166,
+        "Juglans regia": 0.00154,
+        "Hymenaea courbaril": 0.00139,
+        "Koelreuteria paniculata": 0.00132,
+        "Bauhinia acuminata": 0.00124,
+        "Nauclea orientalis": 0.00113,
+        "Strychnos potatorum": 0.00112,
+        "Paulownia tomentosa": 0.00111,
+        "Neolamarckia cadamba": 0.0011,
+        "Albizia julibrissin": 0.00106,
+        "Albizia lebbeck": 0.00105,
+        "Juglans nigra": 0.00104,
+        "Senna multijuga": 0.00103
+      }
+    },
+    "species": {
+      "name": "Guazuma ulmifolia",
+      "authorship": "Lam.",
+      "genus_name": "Guazuma",
+      "family_name": "Malvaceae",
+      "gbif_id": "3152195",
+      "powo_id": "823393-1",
+      "iucn_id": "61785778",
+      "iucn_category": "LC",
+      "common_names": [
+        "Bastard-cedar",
+        "Mutamba",
+        "West Indian-elm"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-48-00": {
+    "id": "Photo-2024-03-21-07-48-00",
+    "ut": 1710987480,
+    "latlng": {
+      "lat": 6.912594,
+      "lng": 79.863328
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 48 00.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-48-00.jpg",
+    "alt": 8.67060583395662,
+    "direction": 273.958679245283,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-48-00",
+      "species_name_to_score": {
+        "Samanea saman": 0.10308,
+        "Tipuana tipu": 0.0503,
+        "Choerospondias axillaris": 0.02569,
+        "Styphnolobium japonicum": 0.02073,
+        "Juglans nigra": 0.0168,
+        "Tamarindus indica": 0.01526,
+        "Jacaranda mimosifolia": 0.01479,
+        "Chloroxylon swietenia": 0.0069,
+        "Pistacia atlantica": 0.00681,
+        "Diospyros lotus": 0.00672,
+        "Grevillea robusta": 0.00546,
+        "Sapindus saponaria": 0.00511,
+        "Fraxinus angustifolia": 0.00424,
+        "Guazuma ulmifolia": 0.00413,
+        "Cinnamomum camphora": 0.00367,
+        "Spondias mombin": 0.0036,
+        "Koelreuteria paniculata": 0.00344,
+        "Cassia roxburghii": 0.00325,
+        "Albizia procera": 0.00277,
+        "Copaifera langsdorffii": 0.00269,
+        "Peltophorum dubium": 0.0026,
+        "Pterocarpus indicus": 0.00255,
+        "Gleditsia triacanthos": 0.00246,
+        "Pistacia chinensis": 0.00241,
+        "Cordia dichotoma": 0.00228,
+        "Cedrela odorata": 0.00223,
+        "Robinia pseudoacacia": 0.00205,
+        "Azadirachta indica": 0.00179,
+        "Neolamarckia cadamba": 0.00159,
+        "Dialium ovoideum": 0.0014,
+        "Erythrophleum suaveolens": 0.00137,
+        "Acer negundo": 0.00129,
+        "Toona ciliata": 0.00125,
+        "Cassia fistula": 0.00124,
+        "Trema orientale": 0.00121,
+        "Vachellia nilotica": 0.00119,
+        "Cosmos caudatus": 0.00106,
+        "Entada rheedei": 0.00105,
+        "Peltophorum pterocarpum": 0.00101
+      }
+    },
+    "species": {
+      "name": "Samanea saman",
+      "authorship": "(Jacq.) Merr.",
+      "genus_name": "Samanea",
+      "family_name": "Fabaceae",
+      "gbif_id": "2972960",
+      "powo_id": "227126-2",
+      "iucn_id": "144255307",
+      "iucn_category": "LC",
+      "common_names": [
+        "Amaivagai",
+        "Cow-tamarind",
+        "Mara Tree",
+        "Monkeypod",
+        "Name",
+        "Name Enakvakai",
+        "Name Maara Tree",
+        "Pare Mara",
+        "Pini Maara",
+        "Raintree",
+        "Thoongumoonji Maram"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-48-09": {
+    "id": "Photo-2024-03-21-07-48-09",
+    "ut": 1710987489,
+    "latlng": {
+      "lat": 6.912533,
+      "lng": 79.863342
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 48 09.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-48-09.jpg",
+    "alt": 8.597284504235176,
+    "direction": 340.4773251345119,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-48-09",
+      "species_name_to_score": {
+        "Styphnolobium japonicum": 0.13323,
+        "Toona ciliata": 0.02562,
+        "Cassia grandis": 0.01916,
+        "Fraxinus angustifolia": 0.01608,
+        "Pterocarpus indicus": 0.01428,
+        "Cedrela odorata": 0.013,
+        "Sapindus saponaria": 0.01196,
+        "Senna siamea": 0.01121,
+        "Gleditsia triacanthos": 0.01058,
+        "Tamarindus indica": 0.01014,
+        "Samanea saman": 0.00909,
+        "Juglans nigra": 0.00771,
+        "Azadirachta indica": 0.00527,
+        "Tipuana tipu": 0.00497,
+        "Cassia fistula": 0.0043,
+        "Robinia pseudoacacia": 0.00399,
+        "Albizia lebbeck": 0.00378,
+        "Spondias mombin": 0.00364,
+        "Libidibia coriaria": 0.00359,
+        "Grevillea robusta": 0.00321,
+        "Khaya senegalensis": 0.00267,
+        "Jacaranda mimosifolia": 0.00235,
+        "Peltophorum africanum": 0.00209,
+        "Vachellia farnesiana": 0.00206,
+        "Adenanthera pavonina": 0.00193,
+        "Chloroxylon swietenia": 0.00189,
+        "Cassia moschata": 0.00176,
+        "Parkia biglobosa": 0.00171,
+        "Spondias dulcis": 0.00168,
+        "Libidibia ferrea": 0.00158,
+        "Peltophorum dubium": 0.00136,
+        "Pistacia chinensis": 0.00133,
+        "Swietenia macrophylla": 0.00115,
+        "Senna spectabilis": 0.00113,
+        "Swietenia mahagoni": 0.0011
+      }
+    },
+    "species": {
+      "name": "Styphnolobium japonicum",
+      "authorship": "(L.) Schott",
+      "genus_name": "Styphnolobium",
+      "family_name": "Fabaceae",
+      "gbif_id": "2963569",
+      "powo_id": "1119529-2",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Chinese scholartree",
+        "Japanese pagoda-tree",
+        "Pagoda-tree"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-48-15": {
+    "id": "Photo-2024-03-21-07-48-15",
+    "ut": 1710987495,
+    "latlng": {
+      "lat": 6.912539,
+      "lng": 79.86335
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 48 15.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-48-15.jpg",
+    "alt": 8.403011597456041,
+    "direction": 299.6781005859375,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-48-15",
+      "species_name_to_score": {
+        "Cassia grandis": 0.04675,
+        "Samanea saman": 0.03677,
+        "Senna siamea": 0.03311,
+        "Libidibia coriaria": 0.02458,
+        "Styphnolobium japonicum": 0.02049,
+        "Albizia lebbeck": 0.01264,
+        "Albizia julibrissin": 0.01257,
+        "Libidibia ferrea": 0.012,
+        "Gleditsia triacanthos": 0.01133,
+        "Tamarindus indica": 0.01033,
+        "Jacaranda mimosifolia": 0.00994,
+        "Albizia procera": 0.00906,
+        "Delonix regia": 0.00835,
+        "Tipuana tipu": 0.00712,
+        "Parkia biglobosa": 0.00675,
+        "Leucaena leucocephala": 0.00669,
+        "Senna spectabilis": 0.00582,
+        "Peltophorum africanum": 0.00538,
+        "Toona ciliata": 0.00503,
+        "Acacia dealbata": 0.00497,
+        "Peltophorum pterocarpum": 0.00474,
+        "Juglans nigra": 0.00457,
+        "Peltophorum dubium": 0.00365,
+        "Vachellia farnesiana": 0.00319,
+        "Adenanthera pavonina": 0.00314,
+        "Robinia pseudoacacia": 0.00307,
+        "Cedrela odorata": 0.00295,
+        "Albizia niopoides": 0.00289,
+        "Cassia moschata": 0.00272,
+        "Cassia javanica": 0.00272,
+        "Khaya senegalensis": 0.00211,
+        "Cassia fistula": 0.00211,
+        "Phyllanthus emblica": 0.00206,
+        "Pterocarpus indicus": 0.00192,
+        "Ceiba pentandra": 0.00182,
+        "Grevillea robusta": 0.00173,
+        "Schizolobium parahyba": 0.00172,
+        "Fraxinus angustifolia": 0.00137,
+        "Calliandra surinamensis": 0.00121,
+        "Sesbania grandiflora": 0.00108,
+        "Ailanthus altissima": 0.00105
+      }
+    },
+    "species": {
+      "name": "Cassia grandis",
+      "authorship": "L.f.",
+      "genus_name": "Cassia",
+      "family_name": "Fabaceae",
+      "gbif_id": "5357158",
+      "powo_id": "484607-1",
+      "iucn_id": "144277575",
+      "iucn_category": "LC",
+      "common_names": [
+        "Appleblossom cassia",
+        "Coral shower",
+        "Horse cassia"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-48-28": {
+    "id": "Photo-2024-03-21-07-48-28",
+    "ut": 1710987508,
+    "latlng": {
+      "lat": 6.91255,
+      "lng": 79.863411
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 48 28.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-48-28.jpg",
+    "alt": 9.068141300759326,
+    "direction": 47.959957096889525,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-48-28",
+      "species_name_to_score": {
+        "Ceiba pentandra": 0.2064,
+        "Cassia grandis": 0.02649,
+        "Khaya senegalensis": 0.02067,
+        "Adansonia digitata": 0.01332,
+        "Albizia niopoides": 0.01293,
+        "Albizia lebbeck": 0.00972,
+        "Samanea saman": 0.00777,
+        "Albizia julibrissin": 0.0068,
+        "Delonix regia": 0.00659,
+        "Syzygium cumini": 0.00602,
+        "Cassia javanica": 0.00563,
+        "Ailanthus excelsa": 0.00545,
+        "Tamarindus indica": 0.00538,
+        "Libidibia ferrea": 0.00413,
+        "Jacaranda mimosifolia": 0.004,
+        "Senna siamea": 0.00372,
+        "Bombax ceiba": 0.00289,
+        "Diospyros blancoi": 0.00284,
+        "Hymenaea courbaril": 0.00281,
+        "Trema orientale": 0.0028,
+        "Mangifera indica": 0.00267,
+        "Spathodea campanulata": 0.00247,
+        "Ficus religiosa": 0.00224,
+        "Terminalia arjuna": 0.00222,
+        "Dimocarpus longan": 0.00214,
+        "Peltophorum pterocarpum": 0.00212,
+        "Parkia biglobosa": 0.00204,
+        "Schizolobium parahyba": 0.0019,
+        "Peltophorum dubium": 0.00188,
+        "Ficus racemosa": 0.00184,
+        "Dillenia indica": 0.00164,
+        "Cassia moschata": 0.00151,
+        "Parkia timoriana": 0.00148,
+        "Ficus callosa": 0.00139,
+        "Milicia excelsa": 0.00136,
+        "Platanus orientalis": 0.00127,
+        "Ailanthus triphysa": 0.00123,
+        "Ficus altissima": 0.0012,
+        "Tipuana tipu": 0.00114,
+        "Peltophorum africanum": 0.00112,
+        "Libidibia coriaria": 0.00108,
+        "Phyllanthus emblica": 0.00108,
+        "Monoon longifolium": 0.00105
+      }
+    },
+    "species": {
+      "name": "Ceiba pentandra",
+      "authorship": "(L.) Gaertn.",
+      "genus_name": "Ceiba",
+      "family_name": "Malvaceae",
+      "gbif_id": "5406697",
+      "powo_id": "1166232-2",
+      "iucn_id": "61782438",
+      "iucn_category": "LC",
+      "common_names": [
+        "Himbul",
+        "Ilavu",
+        "Imbul",
+        "Kapok",
+        "Kapoktree",
+        "Kotta",
+        "White silk cottontree"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-49-08": {
+    "id": "Photo-2024-03-21-07-49-08",
+    "ut": 1710987548,
+    "latlng": {
+      "lat": 6.912847,
+      "lng": 79.863586
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 49 08.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-49-08.jpg",
+    "alt": 8.76025428894888,
+    "direction": 61.36013412816691,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-49-08",
+      "species_name_to_score": {
+        "Ficus benghalensis": 0.39633,
+        "Ficus altissima": 0.13418,
+        "Ficus elastica": 0.06067,
+        "Ficus religiosa": 0.03001,
+        "Ficus microcarpa": 0.02145,
+        "Ficus virens": 0.013,
+        "Ceiba pentandra": 0.00366,
+        "Ficus benjamina": 0.00357,
+        "Ficus concinna": 0.00317,
+        "Ficus retusa": 0.00311,
+        "Milicia excelsa": 0.00191,
+        "Ficus tinctoria": 0.00176,
+        "Phytolacca dioica": 0.00161
+      }
+    },
+    "species": {
+      "name": "Ficus benghalensis",
+      "authorship": "L.",
+      "genus_name": "Ficus",
+      "family_name": "Moraceae",
+      "gbif_id": "5361919",
+      "powo_id": "852482-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Alamaram",
+        "Bengal banyan",
+        "Ficus Audrey",
+        "Indian banyan",
+        "Kottam",
+        "Mahanuga",
+        "Nakar",
+        "Nakaram",
+        "Niyaman",
+        "Nuga",
+        "Nyagrodha",
+        "Nygrodha",
+        "Sriksaka",
+        "Vata"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-49-29": {
+    "id": "Photo-2024-03-21-07-49-29",
+    "ut": 1710987569,
+    "latlng": {
+      "lat": 6.912839,
+      "lng": 79.863708
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 49 29.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-49-29.jpg",
+    "alt": 9.506992469648072,
+    "direction": 344.2062380649268,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-49-29",
+      "species_name_to_score": {
+        "Ficus benghalensis": 0.7421,
+        "Ficus altissima": 0.05443,
+        "Ficus elastica": 0.02585,
+        "Ficus religiosa": 0.02543,
+        "Ficus virens": 0.02365,
+        "Ficus microcarpa": 0.01848,
+        "Ficus retusa": 0.00532,
+        "Ficus concinna": 0.00224,
+        "Ficus benjamina": 0.00123,
+        "Ficus tinctoria": 0.00116,
+        "Ficus lacor": 0.00109
+      }
+    },
+    "species": {
+      "name": "Ficus benghalensis",
+      "authorship": "L.",
+      "genus_name": "Ficus",
+      "family_name": "Moraceae",
+      "gbif_id": "5361919",
+      "powo_id": "852482-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Alamaram",
+        "Bengal banyan",
+        "Ficus Audrey",
+        "Indian banyan",
+        "Kottam",
+        "Mahanuga",
+        "Nakar",
+        "Nakaram",
+        "Niyaman",
+        "Nuga",
+        "Nyagrodha",
+        "Nygrodha",
+        "Sriksaka",
+        "Vata"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-49-49": {
+    "id": "Photo-2024-03-21-07-49-49",
+    "ut": 1710987589,
+    "latlng": {
+      "lat": 6.912961,
+      "lng": 79.863786
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 49 49.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-49-49.jpg",
+    "alt": 10.702981521369459,
+    "direction": 21.68993375343351,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-49-49",
+      "species_name_to_score": {
+        "Areca triandra": 0.05346,
+        "Dendrocalamus giganteus": 0.00522,
+        "Dypsis lutescens": 0.00388,
+        "Flagellaria indica": 0.00248,
+        "Thysanolaena latifolia": 0.00204,
+        "Filicium decipiens": 0.00118,
+        "Elaeis guineensis": 0.00108
+      }
+    },
+    "species": {
+      "name": "Areca triandra",
+      "authorship": "Roxb. ex Buch.-Ham.",
+      "genus_name": "Areca",
+      "family_name": "Arecaceae",
+      "gbif_id": "2736565",
+      "powo_id": "664230-1",
+      "iucn_id": "111452558",
+      "iucn_category": "LC",
+      "common_names": [
+        "Australian areca palm",
+        "Bungua",
+        "Wild areca palm"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-49-57": {
+    "id": "Photo-2024-03-21-07-49-57",
+    "ut": 1710987597,
+    "latlng": {
+      "lat": 6.913036,
+      "lng": 79.863769
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 49 57.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-49-57.jpg",
+    "alt": 10.680501989592898,
+    "direction": 50.23280715310741,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-49-57",
+      "species_name_to_score": {
+        "Areca triandra": 0.19592,
+        "Dendrocalamus giganteus": 0.03612,
+        "Areca catechu": 0.00199,
+        "Dypsis lutescens": 0.00149,
+        "Thysanolaena latifolia": 0.00148
+      }
+    },
+    "species": {
+      "name": "Areca triandra",
+      "authorship": "Roxb. ex Buch.-Ham.",
+      "genus_name": "Areca",
+      "family_name": "Arecaceae",
+      "gbif_id": "2736565",
+      "powo_id": "664230-1",
+      "iucn_id": "111452558",
+      "iucn_category": "LC",
+      "common_names": [
+        "Australian areca palm",
+        "Bungua",
+        "Wild areca palm"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-51-19": {
+    "id": "Photo-2024-03-21-07-51-19",
+    "ut": 1710987679,
+    "latlng": {
+      "lat": 6.912439,
+      "lng": 79.863608
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 51 19.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-51-19.jpg",
+    "alt": 13.010725944349447,
+    "direction": 127.3289641943734,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-51-19",
+      "species_name_to_score": {
+        "Pterocarpus indicus": 0.33848,
+        "Strychnos nux-vomica": 0.15314,
+        "Lagerstroemia speciosa": 0.0925,
+        "Aegle marmelos": 0.07664,
+        "Spathodea campanulata": 0.01887,
+        "Terminalia chebula": 0.01312,
+        "Flacourtia jangomas": 0.00857,
+        "Lagerstroemia parviflora": 0.00811,
+        "Syzygium cumini": 0.00793,
+        "Vitex pinnata": 0.00712,
+        "Cassia fistula": 0.00684,
+        "Ficus racemosa": 0.00525,
+        "Dalbergia latifolia": 0.00353,
+        "Bombax ceiba": 0.00332,
+        "Juglans regia": 0.00246,
+        "Afzelia africana": 0.00236,
+        "Luehea candida": 0.00234,
+        "Neolamarckia cadamba": 0.00215,
+        "Eugenia uniflora": 0.00202,
+        "Holarrhena pubescens": 0.00195,
+        "Dipterocarpus alatus": 0.00187,
+        "Erythrina corallodendron": 0.00185,
+        "Strychnos potatorum": 0.00185,
+        "Bischofia javanica": 0.0016,
+        "Tectona grandis": 0.00158,
+        "Ehretia acuminata": 0.00108,
+        "Citharexylum spinosum": 0.00101
+      }
+    },
+    "species": {
+      "name": "Pterocarpus indicus",
+      "authorship": "Willd.",
+      "genus_name": "Pterocarpus",
+      "family_name": "Fabaceae",
+      "gbif_id": "5349242",
+      "powo_id": "516487-1",
+      "iucn_id": "33241",
+      "iucn_category": "EN",
+      "common_names": [
+        "Amboyna-wood",
+        "Malay padauk",
+        "Papua New Guinea rosewood"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-51-39": {
+    "id": "Photo-2024-03-21-07-51-39",
+    "ut": 1710987699,
+    "latlng": {
+      "lat": 6.912433,
+      "lng": 79.863633
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 51 39.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-51-39.jpg",
+    "alt": 12.953674028320028,
+    "direction": 190.34614558728796,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-51-39",
+      "species_name_to_score": {
+        "Ficus virens": 0.37607,
+        "Ficus altissima": 0.12957,
+        "Ficus benghalensis": 0.09604,
+        "Ficus religiosa": 0.0489,
+        "Ficus elastica": 0.01944,
+        "Ficus microcarpa": 0.01618,
+        "Ficus concinna": 0.00857,
+        "Ceiba pentandra": 0.00417,
+        "Ficus maclellandii": 0.00118
+      }
+    },
+    "species": {
+      "name": "Ficus virens",
+      "authorship": "Aiton",
+      "genus_name": "Ficus",
+      "family_name": "Moraceae",
+      "gbif_id": "9512597",
+      "powo_id": "853954-1",
+      "iucn_id": "147495192",
+      "iucn_category": "LC",
+      "common_names": [
+        "Caroline banyan",
+        "Kadol",
+        "Kalaal",
+        "Kaputu Bo",
+        "Mountain fig",
+        "Spotted fig",
+        "Varaiyalmuram"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-51-54": {
+    "id": "Photo-2024-03-21-07-51-54",
+    "ut": 1710987714,
+    "latlng": {
+      "lat": 6.912417,
+      "lng": 79.863936
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 51 54.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-51-54.jpg",
+    "alt": 9.820482930890924,
+    "direction": 200.62289416846653,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-51-54",
+      "species_name_to_score": {
+        "Terminalia catappa": 0.91042,
+        "Tectona grandis": 0.02081,
+        "Diospyros melanoxylon": 0.00639,
+        "Anacardium occidentale": 0.00345,
+        "Neolamarckia cadamba": 0.00149
+      }
+    },
+    "species": {
+      "name": "Terminalia catappa",
+      "authorship": "L.",
+      "genus_name": "Terminalia",
+      "family_name": "Combretaceae",
+      "gbif_id": "3189394",
+      "powo_id": "171034-1",
+      "iucn_id": "61989853",
+      "iucn_category": "LC",
+      "common_names": [
+        "Country-almond",
+        "Indian-almond",
+        "Kottamba",
+        "Kottan",
+        "Nattu Vadam",
+        "Nattuvadumai",
+        "Tailaphala",
+        "Tropical almond"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-52-04": {
+    "id": "Photo-2024-03-21-07-52-04",
+    "ut": 1710987724,
+    "latlng": {
+      "lat": 6.9124,
+      "lng": 79.863983
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 52 04.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-52-04.jpg",
+    "alt": 8.404637041126138,
+    "direction": 167.21420289855072,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-52-04",
+      "species_name_to_score": {
+        "Ficus benghalensis": 0.01515,
+        "Ficus religiosa": 0.01292,
+        "Diospyros melanoxylon": 0.00984,
+        "Erythrina fusca": 0.0077,
+        "Populus nigra": 0.00674,
+        "Guazuma ulmifolia": 0.0053,
+        "Tectona grandis": 0.00485,
+        "Heritiera littoralis": 0.00479,
+        "Terminalia catappa": 0.00432,
+        "Thespesia populneoides": 0.00431,
+        "Lonicera japonica": 0.00409,
+        "Elaeagnus umbellata": 0.00409,
+        "Terminalia arjuna": 0.00399,
+        "Lawsonia inermis": 0.00287,
+        "Ficus virens": 0.00259,
+        "Citharexylum spinosum": 0.00247,
+        "Ficus racemosa": 0.00201,
+        "Ficus altissima": 0.00169,
+        "Populus alba": 0.00169,
+        "Syzygium cumini": 0.00165,
+        "Phytolacca dioica": 0.00152,
+        "Swietenia mahagoni": 0.00127,
+        "Ficus palmata": 0.00127,
+        "Ceratonia siliqua": 0.00107,
+        "Lagerstroemia speciosa": 0.00103
+      }
+    },
+    "species": {
+      "name": "Ficus benghalensis",
+      "authorship": "L.",
+      "genus_name": "Ficus",
+      "family_name": "Moraceae",
+      "gbif_id": "5361919",
+      "powo_id": "852482-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Alamaram",
+        "Bengal banyan",
+        "Ficus Audrey",
+        "Indian banyan",
+        "Kottam",
+        "Mahanuga",
+        "Nakar",
+        "Nakaram",
+        "Niyaman",
+        "Nuga",
+        "Nyagrodha",
+        "Nygrodha",
+        "Sriksaka",
+        "Vata"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-52-19": {
+    "id": "Photo-2024-03-21-07-52-19",
+    "ut": 1710987739,
+    "latlng": {
+      "lat": 6.912389,
+      "lng": 79.864058
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 52 19.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-52-19.jpg",
+    "alt": 8.772370848708487,
+    "direction": 181.1474609375,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-52-19",
+      "species_name_to_score": {
+        "Artocarpus heterophyllus": 0.86405,
+        "Artocarpus integer": 0.00749,
+        "Anacardium occidentale": 0.00455,
+        "Litsea monopetala": 0.0028,
+        "Cordia myxa": 0.00254,
+        "Erythrina fusca": 0.00237,
+        "Ficus altissima": 0.00232,
+        "Ficus benghalensis": 0.00198,
+        "Persea americana": 0.00181,
+        "Ficus virens": 0.00155,
+        "Artocarpus lacucha": 0.00133,
+        "Neolamarckia cadamba": 0.00121
+      }
+    },
+    "species": {
+      "name": "Artocarpus heterophyllus",
+      "authorship": "Lam.",
+      "genus_name": "Artocarpus",
+      "family_name": "Moraceae",
+      "gbif_id": "2984565",
+      "powo_id": "850389-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Herali",
+        "Jackfruit",
+        "Kos",
+        "Pala",
+        "Palavu",
+        "Panasam",
+        "Pila",
+        "Vaela",
+        "Waraka See Artocarpus Indica",
+        "\u0995\u09be\u09a0\u09be\u09b2",
+        "\u0c2a\u0c28\u0c38"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-52-34": {
+    "id": "Photo-2024-03-21-07-52-34",
+    "ut": 1710987754,
+    "latlng": {
+      "lat": 6.912439,
+      "lng": 79.864189
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 52 34.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-52-34.jpg",
+    "alt": 9.090910751470426,
+    "direction": 152.55256648113792,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-52-34",
+      "species_name_to_score": {
+        "Pterocarpus indicus": 0.55706,
+        "Pterocarpus macrocarpus": 0.01981,
+        "Millingtonia hortensis": 0.01469,
+        "Guazuma ulmifolia": 0.00857,
+        "Swietenia macrophylla": 0.00722,
+        "Gliricidia sepium": 0.0063,
+        "Chukrasia tabularis": 0.00394,
+        "Hydrophylax maritima": 0.00382,
+        "Koelreuteria paniculata": 0.00356,
+        "Spathodea campanulata": 0.00355,
+        "Strychnos nux-vomica": 0.00305,
+        "Pongamia pinnata": 0.00292,
+        "Cassia fistula": 0.00204,
+        "Lonchocarpus sericeus": 0.00201,
+        "Samanea saman": 0.00124,
+        "Acer negundo": 0.00124,
+        "Dalbergia latifolia": 0.001
+      }
+    },
+    "species": {
+      "name": "Pterocarpus indicus",
+      "authorship": "Willd.",
+      "genus_name": "Pterocarpus",
+      "family_name": "Fabaceae",
+      "gbif_id": "5349242",
+      "powo_id": "516487-1",
+      "iucn_id": "33241",
+      "iucn_category": "EN",
+      "common_names": [
+        "Amboyna-wood",
+        "Malay padauk",
+        "Papua New Guinea rosewood"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-52-47": {
+    "id": "Photo-2024-03-21-07-52-47",
+    "ut": 1710987767,
+    "latlng": {
+      "lat": 6.912464,
+      "lng": 79.864258
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 52 47.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-52-47.jpg",
+    "alt": 8.671908396946565,
+    "direction": 166.18562329390355,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-52-47",
+      "species_name_to_score": {
+        "Ficus virens": 0.18833,
+        "Ficus benghalensis": 0.15433,
+        "Ficus altissima": 0.09979,
+        "Ficus elastica": 0.07471,
+        "Ficus religiosa": 0.01951,
+        "Ficus microcarpa": 0.01026,
+        "Ficus tinctoria": 0.00403,
+        "Ficus concinna": 0.00321,
+        "Ficus retusa": 0.00222,
+        "Milicia excelsa": 0.00187,
+        "Ficus benjamina": 0.00151,
+        "Ceiba pentandra": 0.0015,
+        "Ficus lacor": 0.00147,
+        "Planchonella obovata": 0.0013
+      }
+    },
+    "species": {
+      "name": "Ficus virens",
+      "authorship": "Aiton",
+      "genus_name": "Ficus",
+      "family_name": "Moraceae",
+      "gbif_id": "9512597",
+      "powo_id": "853954-1",
+      "iucn_id": "147495192",
+      "iucn_category": "LC",
+      "common_names": [
+        "Caroline banyan",
+        "Kadol",
+        "Kalaal",
+        "Kaputu Bo",
+        "Mountain fig",
+        "Spotted fig",
+        "Varaiyalmuram"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-53-05": {
+    "id": "Photo-2024-03-21-07-53-05",
+    "ut": 1710987785,
+    "latlng": {
+      "lat": 6.912522,
+      "lng": 79.864272
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 53 05.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-53-05.jpg",
+    "alt": 7.7286566550092575,
+    "direction": 131.84335329341317,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-53-05",
+      "species_name_to_score": {
+        "Peltophorum pterocarpum": 0.1678,
+        "Peltophorum dubium": 0.03696,
+        "Delonix regia": 0.03565,
+        "Peltophorum africanum": 0.0182,
+        "Biancaea sappan": 0.01499,
+        "Leucaena leucocephala": 0.01418,
+        "Libidibia coriaria": 0.00878,
+        "Jacaranda mimosifolia": 0.0079,
+        "Cassia grandis": 0.00473,
+        "Moringa oleifera": 0.00316,
+        "Schizolobium parahyba": 0.00308,
+        "Parkia biglobosa": 0.00223,
+        "Senna multijuga": 0.00222,
+        "Calliandra houstoniana": 0.00168,
+        "Caesalpinia pulcherrima": 0.0016,
+        "Cassia javanica": 0.00151,
+        "Delonix elata": 0.00148,
+        "Senna spectabilis": 0.00143,
+        "Pterocarpus indicus": 0.00115,
+        "Libidibia ferrea": 0.00101
+      }
+    },
+    "species": {
+      "name": "Peltophorum pterocarpum",
+      "authorship": "(DC.) Backer ex K.Heyne",
+      "genus_name": "Peltophorum",
+      "family_name": "Fabaceae",
+      "gbif_id": "2952775",
+      "powo_id": "513021-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Copperpod",
+        "Kaha Maara",
+        "Kona Maram",
+        "Maara",
+        "Nilalvakai",
+        "Yellow flame",
+        "Yellow flametree"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-53-20": {
+    "id": "Photo-2024-03-21-07-53-20",
+    "ut": 1710987800,
+    "latlng": {
+      "lat": 6.912553,
+      "lng": 79.864394
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 53 20.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-53-20.jpg",
+    "alt": 9.37672670047211,
+    "direction": 301.30038440417354,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-53-20",
+      "species_name_to_score": {
+        "Lagerstroemia speciosa": 0.00202
+      }
+    },
+    "species": {
+      "name": "Lagerstroemia speciosa",
+      "authorship": "(L.) Pers.",
+      "genus_name": "Lagerstroemia",
+      "family_name": "Lythraceae",
+      "gbif_id": "3188724",
+      "powo_id": "553618-1",
+      "iucn_id": "61780249",
+      "iucn_category": "LC",
+      "common_names": [
+        "Pride-of-India",
+        "Queen's crape-myrtle",
+        "Queen's-flower"
       ]
     }
   },
@@ -46702,6 +50338,137 @@
         "Bolly-beech",
         "Brown bolly-gum",
         "Indian-laurel"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-53-45": {
+    "id": "Photo-2024-03-21-07-53-45",
+    "ut": 1710987825,
+    "latlng": {
+      "lat": 6.912689,
+      "lng": 79.864447
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 53 45.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-53-45.jpg",
+    "alt": 7.369857606090512,
+    "direction": 88.17910767910767,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-53-45",
+      "species_name_to_score": {
+        "Artocarpus heterophyllus": 0.25093,
+        "Ficus benghalensis": 0.04007,
+        "Artocarpus lacucha": 0.02345,
+        "Litsea monopetala": 0.02343,
+        "Ficus racemosa": 0.02284,
+        "Terminalia catappa": 0.01779,
+        "Artocarpus integer": 0.00859,
+        "Cordia dichotoma": 0.00716,
+        "Erythrina fusca": 0.00637,
+        "Diospyros melanoxylon": 0.00574,
+        "Tectona grandis": 0.00498,
+        "Nauclea orientalis": 0.00388,
+        "Dipterocarpus alatus": 0.00355,
+        "Ficus altissima": 0.00327,
+        "Heritiera littoralis": 0.00326,
+        "Anacardium occidentale": 0.00294,
+        "Cordia myxa": 0.00255,
+        "Pongamia pinnata": 0.00236,
+        "Terminalia chebula": 0.00131,
+        "Ficus auriculata": 0.00124,
+        "Ficus tinctoria": 0.00118,
+        "Ficus religiosa": 0.0011,
+        "Guettarda speciosa": 0.00107
+      }
+    },
+    "species": {
+      "name": "Artocarpus heterophyllus",
+      "authorship": "Lam.",
+      "genus_name": "Artocarpus",
+      "family_name": "Moraceae",
+      "gbif_id": "2984565",
+      "powo_id": "850389-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Herali",
+        "Jackfruit",
+        "Kos",
+        "Pala",
+        "Palavu",
+        "Panasam",
+        "Pila",
+        "Vaela",
+        "Waraka See Artocarpus Indica",
+        "\u0995\u09be\u09a0\u09be\u09b2",
+        "\u0c2a\u0c28\u0c38"
+      ]
+    }
+  },
+  "Photo-2024-03-21-07-53-53": {
+    "id": "Photo-2024-03-21-07-53-53",
+    "ut": 1710987833,
+    "latlng": {
+      "lat": 6.912706,
+      "lng": 79.864442
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 53 53.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-53-53.jpg",
+    "alt": 8.766906527645201,
+    "direction": 91.92343140730237,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-53-53",
+      "species_name_to_score": {
+        "Cinnamomum camphora": 0.02107,
+        "Pterocarpus macrocarpus": 0.0163,
+        "Quercus serrata": 0.00903,
+        "Juglans regia": 0.00762,
+        "Populus deltoides": 0.0075,
+        "Swietenia macrophylla": 0.00605,
+        "Triadica sebifera": 0.00576,
+        "Broussonetia papyrifera": 0.00537,
+        "Bischofia javanica": 0.00496,
+        "Cedrela odorata": 0.00426,
+        "Swietenia mahagoni": 0.00406,
+        "Eucalyptus robusta": 0.0039,
+        "Hovenia dulcis": 0.00388,
+        "Eucalyptus botryoides": 0.00345,
+        "Populus nigra": 0.00301,
+        "Dalbergia latifolia": 0.00283,
+        "Thespesia populnea": 0.0022,
+        "Gliricidia sepium": 0.00197,
+        "Erythrina crista-galli": 0.00194,
+        "Cotinus coggygria": 0.00186,
+        "Hopea odorata": 0.00169,
+        "Mimusops elengi": 0.00164,
+        "Erythrina stricta": 0.00162,
+        "Hovenia acerba": 0.00152,
+        "Tamarix aphylla": 0.00149,
+        "Dermatophyllum secundiflorum": 0.00141,
+        "Radermachera sinica": 0.00136,
+        "Morus nigra": 0.00126,
+        "Persea americana": 0.00119,
+        "Ehretia dicksonii": 0.00112,
+        "Pterocarpus indicus": 0.00109,
+        "Spondias mombin": 0.00103
+      }
+    },
+    "species": {
+      "name": "Cinnamomum camphora",
+      "authorship": "(L.) J.Presl",
+      "genus_name": "Cinnamomum",
+      "family_name": "Lauraceae",
+      "gbif_id": "3033991",
+      "powo_id": "463336-1",
+      "iucn_id": "15441072",
+      "iucn_category": "LC",
+      "common_names": [
+        "Camphor-laurel",
+        "Camphortree",
+        "Japanese camphor",
+        "Kapuru",
+        "Karppuram"
       ]
     }
   },
@@ -46786,6 +50553,995 @@
       ]
     }
   },
+  "Photo-2024-03-21-08-09-44": {
+    "id": "Photo-2024-03-21-08-09-44",
+    "ut": 1710988784,
+    "latlng": {
+      "lat": 6.914958,
+      "lng": 79.8601
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 09 44.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-09-44.jpg",
+    "alt": 11.56895924308588,
+    "direction": 73.67237087741132,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-09-44",
+      "species_name_to_score": {
+        "Dendrobium crumenatum": 0.02174,
+        "Epiphyllum phyllanthus": 0.0101,
+        "Viscum album": 0.00972,
+        "Pyrrosia lingua": 0.00931,
+        "Pleopeltis macrocarpa": 0.00862,
+        "Pyrrosia lanceolata": 0.00814,
+        "Coelogyne nitida": 0.00803,
+        "Cymbidium aloifolium": 0.00412,
+        "Coelogyne pallida": 0.00293,
+        "Cryptostylis arachnites": 0.00259,
+        "Dischidia major": 0.0024,
+        "Toona ciliata": 0.00224,
+        "Peltophorum dubium": 0.00216,
+        "Microsorum punctatum": 0.00207,
+        "Terminalia bellirica": 0.00131,
+        "Polystachya concreta": 0.00121,
+        "Salix alba": 0.00116
+      }
+    },
+    "species": {
+      "name": "Dendrobium crumenatum",
+      "authorship": "Sw.",
+      "genus_name": "Dendrobium",
+      "family_name": "Orchidaceae",
+      "gbif_id": "5316744",
+      "powo_id": "627202-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Anggr\u00e9k cicing",
+        "Dove orchid",
+        "Pigeon orchid"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-09-50": {
+    "id": "Photo-2024-03-21-08-09-50",
+    "ut": 1710988790,
+    "latlng": {
+      "lat": 6.913256,
+      "lng": 79.860969
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 09 50.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-09-50.jpg",
+    "alt": 13.189832955248505,
+    "direction": 107.24451447245565,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-09-50",
+      "species_name_to_score": {
+        "Tectona grandis": 0.06397,
+        "Terminalia catappa": 0.0636,
+        "Phanera vahlii": 0.02207,
+        "Strychnos nux-vomica": 0.00624,
+        "Neolamarckia cadamba": 0.00597,
+        "Terminalia bellirica": 0.00555,
+        "Pterospermum acerifolium": 0.00541,
+        "Luehea candida": 0.00473,
+        "Ficus virens": 0.00432,
+        "Bischofia javanica": 0.00331,
+        "Passiflora ligularis": 0.00306,
+        "Cordia dichotoma": 0.00271,
+        "Guazuma ulmifolia": 0.0026,
+        "Mallotus tetracoccus": 0.00241,
+        "Alnus nepalensis": 0.00231,
+        "Erythrina poeppigiana": 0.00228,
+        "Terminalia arjuna": 0.00211,
+        "Castilla elastica": 0.00203,
+        "Diospyros kaki": 0.00202,
+        "Dipterocarpus alatus": 0.00162,
+        "Erythrina fusca": 0.00157,
+        "Utricularia minor": 0.0014,
+        "Ficus religiosa": 0.00138,
+        "Syzygium cumini": 0.00138,
+        "Bombax ceiba": 0.00111,
+        "Ficus altissima": 0.00106
+      }
+    },
+    "species": {
+      "name": "Tectona grandis",
+      "authorship": "L.f.",
+      "genus_name": "Tectona",
+      "family_name": "Lamiaceae",
+      "gbif_id": "2925649",
+      "powo_id": "864923-1",
+      "iucn_id": "62019830",
+      "iucn_category": "EN",
+      "common_names": [
+        "Bankok teak",
+        "Bardaru",
+        "Bhumisah",
+        "Dwardaru",
+        "Indian-oak",
+        "Kharchchada",
+        "Kolaphala",
+        "Saaka",
+        "Sabarasaara",
+        "Teak",
+        "The Kka Signify Long Sound",
+        "Thekku"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-10-00": {
+    "id": "Photo-2024-03-21-08-10-00",
+    "ut": 1710988800,
+    "latlng": {
+      "lat": 6.913336,
+      "lng": 79.860939
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 10 00.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-10-00.jpg",
+    "alt": 11.328589725345097,
+    "direction": 275.23721340388005,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-10-00",
+      "species_name_to_score": {
+        "Pongamia pinnata": 0.12226,
+        "Dimocarpus longan": 0.0575,
+        "Murraya paniculata": 0.01958,
+        "Cordia dichotoma": 0.00957,
+        "Sapindus emarginatus": 0.0078,
+        "Cupaniopsis anacardioides": 0.00766,
+        "Psidium cattleyanum": 0.00626,
+        "Spathodea campanulata": 0.00615,
+        "Lonchocarpus sericeus": 0.00419,
+        "Andira inermis": 0.0035,
+        "Persea americana": 0.0034,
+        "Psidium guajava": 0.00331,
+        "Lagerstroemia indica": 0.00329,
+        "Citrus aurantiifolia": 0.00292,
+        "Samanea saman": 0.0028,
+        "Lagerstroemia speciosa": 0.0025,
+        "Citrus maxima": 0.00235,
+        "Vitex trifolia": 0.00224,
+        "Senna surattensis": 0.00198,
+        "Premna serratifolia": 0.00196,
+        "Gliricidia sepium": 0.00192,
+        "Castanospermum australe": 0.0019,
+        "Cassia fistula": 0.00148,
+        "Albizia lebbeck": 0.0013,
+        "Ceratonia siliqua": 0.00128,
+        "Cola nitida": 0.00119,
+        "Ehretia dicksonii": 0.00115,
+        "Citrus aurantium": 0.00103,
+        "Dendrolobium umbellatum": 0.001
+      }
+    },
+    "species": {
+      "name": "Pongamia pinnata",
+      "authorship": "(L.) Pierre",
+      "genus_name": "Pongamia",
+      "family_name": "Fabaceae",
+      "gbif_id": "2965911",
+      "powo_id": "515679-1",
+      "iucn_id": "168724",
+      "iucn_category": "LC",
+      "common_names": [
+        "Indian Beech",
+        "Karanda",
+        "Karanj",
+        "Kolliyam",
+        "Naktamaala",
+        "Pomka",
+        "Pongam",
+        "Punku"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-10-07": {
+    "id": "Photo-2024-03-21-08-10-07",
+    "ut": 1710988807,
+    "latlng": {
+      "lat": 6.91335,
+      "lng": 79.860931
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 10 07.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-10-07.jpg",
+    "alt": 12.654176804541768,
+    "direction": 281.38150023009666,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-10-07",
+      "species_name_to_score": {
+        "Pongamia pinnata": 0.99273
+      }
+    },
+    "species": {
+      "name": "Pongamia pinnata",
+      "authorship": "(L.) Pierre",
+      "genus_name": "Pongamia",
+      "family_name": "Fabaceae",
+      "gbif_id": "2965911",
+      "powo_id": "515679-1",
+      "iucn_id": "168724",
+      "iucn_category": "LC",
+      "common_names": [
+        "Indian Beech",
+        "Karanda",
+        "Karanj",
+        "Kolliyam",
+        "Naktamaala",
+        "Pomka",
+        "Pongam",
+        "Punku"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-10-16": {
+    "id": "Photo-2024-03-21-08-10-16",
+    "ut": 1710988816,
+    "latlng": {
+      "lat": 6.913389,
+      "lng": 79.860917
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 10 16.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-10-16.jpg",
+    "alt": 13.6414440857059,
+    "direction": 79.23242944106254,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-10-16",
+      "species_name_to_score": {
+        "Mangifera indica": 0.80997,
+        "Quercus acutissima": 0.01091,
+        "Madhuca longifolia": 0.00842,
+        "Manilkara zapota": 0.00357,
+        "Syzygium jambos": 0.00244,
+        "Acacia auriculiformis": 0.00216,
+        "Monoon longifolium": 0.00121,
+        "Daphniphyllum chartaceum": 0.00101,
+        "Ficus maclellandii": 0.00101
+      }
+    },
+    "species": {
+      "name": "Mangifera indica",
+      "authorship": "L.",
+      "genus_name": "Mangifera",
+      "family_name": "Anacardiaceae",
+      "gbif_id": "3190638",
+      "powo_id": "69913-1",
+      "iucn_id": "31389",
+      "iucn_category": "DD",
+      "common_names": [
+        "Amba",
+        "Amiram",
+        "Amra",
+        "Ma",
+        "Mamaram",
+        "Mangai",
+        "Mango",
+        "Mango Tree",
+        "Mee Amba",
+        "Sahakara",
+        "\u0906\u092e"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-10-26": {
+    "id": "Photo-2024-03-21-08-10-26",
+    "ut": 1710988826,
+    "latlng": {
+      "lat": 6.913406,
+      "lng": 79.860931
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 10 26.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-10-26.jpg",
+    "alt": 8.575890552400619,
+    "direction": 234.4876404494382,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-10-26",
+      "species_name_to_score": {
+        "Arenga pinnata": 0.07283,
+        "Caryota urens": 0.02911,
+        "Peltophorum pterocarpum": 0.02322,
+        "Caryota mitis": 0.01986,
+        "Dischidia major": 0.01837,
+        "Caryota obtusa": 0.01413,
+        "Peltophorum dubium": 0.01,
+        "Pavetta indica": 0.00965,
+        "Peltophorum africanum": 0.00679,
+        "Cassia grandis": 0.00633,
+        "Baccaurea parviflora": 0.00625,
+        "Dischidia nummularia": 0.00596,
+        "Biancaea sappan": 0.00498,
+        "Delonix regia": 0.00491,
+        "Schizolobium parahyba": 0.00487,
+        "Amorphophallus paeoniifolius": 0.00461,
+        "Elaeocarpus angustifolius": 0.00291,
+        "Baccaurea ramiflora": 0.00268,
+        "Sterculia foetida": 0.00203,
+        "Ficus fistulosa": 0.00173,
+        "Khaya senegalensis": 0.00171,
+        "Dendrobium crumenatum": 0.00153,
+        "Wallichia disticha": 0.00141,
+        "Theobroma cacao": 0.00141,
+        "Erythrina rubrinervia": 0.00101
+      }
+    },
+    "species": {
+      "name": "Arenga pinnata",
+      "authorship": "(Wurmb) Merr.",
+      "genus_name": "Arenga",
+      "family_name": "Arecaceae",
+      "gbif_id": "2733997",
+      "powo_id": "664261-1",
+      "iucn_id": "111452869",
+      "iucn_category": "LC",
+      "common_names": [
+        "Areng palm",
+        "Black-fiber palm",
+        "Malay sago palm"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-10-32": {
+    "id": "Photo-2024-03-21-08-10-32",
+    "ut": 1710988832,
+    "latlng": {
+      "lat": 6.913428,
+      "lng": 79.860939
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 10 32.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-10-32.jpg",
+    "alt": 9.291453309747697,
+    "direction": 223.47326627845422,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-10-32",
+      "species_name_to_score": {
+        "Heptapleurum actinophyllum": 0.02785,
+        "Khaya senegalensis": 0.01936,
+        "Castanospermum australe": 0.01142,
+        "Elaeocarpus angustifolius": 0.00982,
+        "Mimusops elengi": 0.00934,
+        "Peltophorum pterocarpum": 0.00556,
+        "Cassia grandis": 0.00501,
+        "Syzygium cumini": 0.00405,
+        "Ficus altissima": 0.00314,
+        "Swietenia macrophylla": 0.00287,
+        "Peltophorum dubium": 0.00275,
+        "Senna siamea": 0.00251,
+        "Ficus elastica": 0.00248,
+        "Manilkara zapota": 0.0024,
+        "Artocarpus integer": 0.00237,
+        "Elaeocarpus serratus": 0.0021,
+        "Dipterocarpus alatus": 0.00172,
+        "Antiaris toxicaria": 0.00166,
+        "Magnolia champaca": 0.00164,
+        "Harpullia cupanioides": 0.0014,
+        "Lysidice rhodostegia": 0.00137,
+        "Cocculus laurifolius": 0.0013,
+        "Toona ciliata": 0.0011,
+        "Phytolacca dioica": 0.00103
+      }
+    },
+    "species": {
+      "name": "Heptapleurum actinophyllum",
+      "authorship": "(Endl.) Lowry & G.M.Plunkett",
+      "genus_name": "Heptapleurum",
+      "family_name": "Araliaceae",
+      "gbif_id": "11008739",
+      "powo_id": "77213393-1",
+      "iucn_id": "13507130",
+      "iucn_category": "LC",
+      "common_names": [
+        "Queensland umbrella tree",
+        "Schefflera",
+        "Umbrella plant"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-10-45": {
+    "id": "Photo-2024-03-21-08-10-45",
+    "ut": 1710988845,
+    "latlng": {
+      "lat": 6.913444,
+      "lng": 79.860856
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 10 45.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-10-45.jpg",
+    "alt": 9.144965978549187,
+    "direction": 70.19868466597438,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-10-45",
+      "species_name_to_score": {
+        "Guazuma ulmifolia": 0.04111,
+        "Triadica sebifera": 0.02286,
+        "Ficus religiosa": 0.00895,
+        "Populus deltoides": 0.00647,
+        "Lonicera japonica": 0.00332,
+        "Luehea candida": 0.00289,
+        "Ziziphus mauritiana": 0.00262,
+        "Haematoxylum campechianum": 0.00215,
+        "Populus tremula": 0.00213,
+        "Ficus virens": 0.00212,
+        "Populus nigra": 0.00205,
+        "Terminalia catappa": 0.00175,
+        "Bridelia tomentosa": 0.00171,
+        "Strychnos nux-vomica": 0.00166,
+        "Neolamarckia cadamba": 0.00166,
+        "Mitragyna parvifolia": 0.00134,
+        "Tordyliopsis brunonis": 0.00119,
+        "Juglans regia": 0.00115,
+        "Cassia fistula": 0.00114,
+        "Carex physodes": 0.00114,
+        "Adina cordifolia": 0.00112,
+        "Tectona grandis": 0.00108,
+        "Bauhinia variegata": 0.00108,
+        "Acer platanoides": 0.00106,
+        "Pterocarpus santalinus": 0.00104
+      }
+    },
+    "species": {
+      "name": "Guazuma ulmifolia",
+      "authorship": "Lam.",
+      "genus_name": "Guazuma",
+      "family_name": "Malvaceae",
+      "gbif_id": "3152195",
+      "powo_id": "823393-1",
+      "iucn_id": "61785778",
+      "iucn_category": "LC",
+      "common_names": [
+        "Bastard-cedar",
+        "Mutamba",
+        "West Indian-elm"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-10-57": {
+    "id": "Photo-2024-03-21-08-10-57",
+    "ut": 1710988857,
+    "latlng": {
+      "lat": 6.913511,
+      "lng": 79.860847
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 10 57.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-10-57.jpg",
+    "alt": 10.113070620366758,
+    "direction": 62.415885947046846,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-10-57",
+      "species_name_to_score": {
+        "Manilkara zapota": 0.05292,
+        "Saurauia napaulensis": 0.04273,
+        "Terminalia arjuna": 0.02378,
+        "Madhuca longifolia": 0.01135,
+        "Cerbera manghas": 0.00901,
+        "Dillenia indica": 0.00606,
+        "Mangifera indica": 0.00566,
+        "Rhaphiolepis bibas": 0.00513,
+        "Syzygium jambos": 0.00413,
+        "Anisoptera scaphula": 0.0033,
+        "Annona reticulata": 0.00275,
+        "Planchonella grandifolia": 0.00138,
+        "Alstonia macrophylla": 0.00127,
+        "Annona muricata": 0.00119,
+        "Acacia melanoxylon": 0.00117,
+        "Barringtonia acutangula": 0.00114,
+        "Dipterocarpus alatus": 0.00101
+      }
+    },
+    "species": {
+      "name": "Manilkara zapota",
+      "authorship": "(L.) P.Royen",
+      "genus_name": "Manilkara",
+      "family_name": "Sapotaceae",
+      "gbif_id": "2885158",
+      "powo_id": "152641-2",
+      "iucn_id": "61964429",
+      "iucn_category": "LC",
+      "common_names": [
+        "Cappotta",
+        "Chiku",
+        "Sapodilla",
+        "Sapote"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-11-10": {
+    "id": "Photo-2024-03-21-08-11-10",
+    "ut": 1710988870,
+    "latlng": {
+      "lat": 6.913481,
+      "lng": 79.860794
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 11 10.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-11-10.jpg",
+    "alt": 9.340407521615575,
+    "direction": 44.792037914691946,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-11-10",
+      "species_name_to_score": {
+        "Robinia pseudoacacia": 0.0278,
+        "Celtis caucasica": 0.00681,
+        "Bischofia javanica": 0.00489,
+        "Pterocarpus indicus": 0.00449,
+        "Pyrrosia lanceolata": 0.00422,
+        "Rosa multiflora": 0.00384,
+        "Viscum album": 0.00329,
+        "Broussonetia papyrifera": 0.00271,
+        "Dolichandrone serrulata": 0.00231,
+        "Ehretia dicksonii": 0.00218,
+        "Tipuana tipu": 0.00214,
+        "Juglans regia": 0.00209,
+        "Eucalyptus robusta": 0.00208,
+        "Strychnos nux-vomica": 0.00201,
+        "Cinnamomum camphora": 0.00192,
+        "Loranthus europaeus": 0.00161,
+        "Aegle marmelos": 0.00149,
+        "Ehretia acuminata": 0.0014,
+        "Symplocos paniculata": 0.00139,
+        "Mitragyna parvifolia": 0.00125,
+        "Lyonia villosa": 0.00116,
+        "Chukrasia tabularis": 0.00115,
+        "Erythrina crista-galli": 0.00102
+      }
+    },
+    "species": {
+      "name": "Robinia pseudoacacia",
+      "authorship": "L.",
+      "genus_name": "Robinia",
+      "family_name": "Fabaceae",
+      "gbif_id": "5352251",
+      "powo_id": "30034699-2",
+      "iucn_id": "19891648",
+      "iucn_category": "LC",
+      "common_names": [
+        "Black locust",
+        "False acacia",
+        "\u0627\u0642\u0627\u0642\u06cc\u0627\u06cc \u0633\u06cc\u0627\u0647"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-11-20": {
+    "id": "Photo-2024-03-21-08-11-20",
+    "ut": 1710988880,
+    "latlng": {
+      "lat": 6.913508,
+      "lng": 79.860778
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 11 20.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-11-20.jpg",
+    "alt": 7.626832077051926,
+    "direction": 213.59248341930729,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-11-20",
+      "species_name_to_score": {
+        "Madhuca longifolia": 0.1284,
+        "Cestrum parqui": 0.01582,
+        "Asclepias curassavica": 0.01416,
+        "Mangifera indica": 0.01039,
+        "Vitex agnus-castus": 0.00992,
+        "Syzygium jambos": 0.00885,
+        "Crotalaria juncea": 0.0084,
+        "Cestrum elegans": 0.00777,
+        "Vitex negundo": 0.00524,
+        "Gomphocarpus physocarpus": 0.00383,
+        "Cestrum nocturnum": 0.00342,
+        "Persea americana": 0.00324,
+        "Barleria cristata": 0.00306,
+        "Nerium oleander": 0.00276,
+        "Acer oblongum": 0.00206,
+        "Vernonia gigantea": 0.00186,
+        "Prunus persica": 0.00184,
+        "Citharexylum spinosum": 0.00176,
+        "Pieris formosa": 0.00175,
+        "Quercus acutissima": 0.00157,
+        "Hygrophila polysperma": 0.00151,
+        "Ludwigia perennis": 0.00151,
+        "Tabernaemontana alternifolia": 0.00134,
+        "Prunus amygdalus": 0.00126,
+        "Sapindus saponaria": 0.00124,
+        "Terminalia bellirica": 0.00103
+      }
+    },
+    "species": {
+      "name": "Madhuca longifolia",
+      "authorship": "(J.Koenig ex L.) J.F.Macbr.",
+      "genus_name": "Madhuca",
+      "family_name": "Sapotaceae",
+      "gbif_id": "2883346",
+      "powo_id": "787505-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Mahua",
+        "Moatree",
+        "Mowra-buttertree"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-11-43": {
+    "id": "Photo-2024-03-21-08-11-43",
+    "ut": 1710988903,
+    "latlng": {
+      "lat": 6.913419,
+      "lng": 79.860756
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 11 43.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-11-43.jpg",
+    "alt": 8.43803441930945,
+    "direction": 71.85919191919191,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-11-43",
+      "species_name_to_score": {
+        "Hymenaea courbaril": 0.05959,
+        "Bombax ceiba": 0.04039,
+        "Ceiba pentandra": 0.03956,
+        "Adansonia digitata": 0.02865,
+        "Khaya senegalensis": 0.01385,
+        "Terminalia arjuna": 0.0042,
+        "Juglans regia": 0.00408,
+        "Ficus racemosa": 0.00368,
+        "Ficus virens": 0.00305,
+        "Hymenaea verrucosa": 0.00289,
+        "Ficus microcarpa": 0.00263,
+        "Acacia mangium": 0.00257,
+        "Albizia niopoides": 0.0021,
+        "Ceiba speciosa": 0.00207,
+        "Sterculia foetida": 0.00176,
+        "Elaeocarpus angustifolius": 0.00156,
+        "Avicennia marina": 0.00156,
+        "Ficus callosa": 0.00124,
+        "Ficus geniculata": 0.00115,
+        "Ipomoea cairica": 0.00108,
+        "Ficus religiosa": 0.00104
+      }
+    },
+    "species": {
+      "name": "Hymenaea courbaril",
+      "authorship": "L.",
+      "genus_name": "Hymenaea",
+      "family_name": "Fabaceae",
+      "gbif_id": "2950750",
+      "powo_id": "125420-2",
+      "iucn_id": "19891869",
+      "iucn_category": "LC",
+      "common_names": [
+        "Amami-gum",
+        "Brazilian copal",
+        "South American-locust"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-12-00": {
+    "id": "Photo-2024-03-21-08-12-00",
+    "ut": 1710988920,
+    "latlng": {
+      "lat": 6.913525,
+      "lng": 79.860742
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 12 00.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-12-00.jpg",
+    "alt": 8.602736969209097,
+    "direction": 17.537361157859305,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-12-00",
+      "species_name_to_score": {
+        "Ceiba pentandra": 0.03034,
+        "Tectona grandis": 0.02448,
+        "Ficus religiosa": 0.01813,
+        "Populus deltoides": 0.01763,
+        "Guazuma ulmifolia": 0.01557,
+        "Erythrina poeppigiana": 0.01066,
+        "Terminalia catappa": 0.01008,
+        "Populus nigra": 0.00977,
+        "Terminalia arjuna": 0.00831,
+        "Strychnos nux-vomica": 0.00635,
+        "Kleinhovia hospita": 0.00633,
+        "Cordia dichotoma": 0.0055,
+        "Alnus nepalensis": 0.00432,
+        "Neolamarckia cadamba": 0.00398,
+        "Cedrela odorata": 0.00385,
+        "Carex physodes": 0.00381,
+        "Bombax ceiba": 0.00319,
+        "Erythrina fusca": 0.00273,
+        "Pterygota alata": 0.00273,
+        "Ficus virens": 0.00244,
+        "Pterocarpus santalinus": 0.00239,
+        "Luehea candida": 0.00228,
+        "Lemna minor": 0.00204,
+        "Terminalia bellirica": 0.00188,
+        "Triadica sebifera": 0.00177,
+        "Eucalyptus tereticornis": 0.00161,
+        "Firmiana colorata": 0.00135,
+        "Streblus asper": 0.00134,
+        "Diospyros lotus": 0.00105,
+        "Aegle marmelos": 0.00102
+      }
+    },
+    "species": {
+      "name": "Ceiba pentandra",
+      "authorship": "(L.) Gaertn.",
+      "genus_name": "Ceiba",
+      "family_name": "Malvaceae",
+      "gbif_id": "5406697",
+      "powo_id": "1166232-2",
+      "iucn_id": "61782438",
+      "iucn_category": "LC",
+      "common_names": [
+        "Himbul",
+        "Ilavu",
+        "Imbul",
+        "Kapok",
+        "Kapoktree",
+        "Kotta",
+        "White silk cottontree"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-12-16": {
+    "id": "Photo-2024-03-21-08-12-16",
+    "ut": 1710988936,
+    "latlng": {
+      "lat": 6.913469,
+      "lng": 79.860717
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 12 16.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-12-16.jpg",
+    "alt": 9.15793621168761,
+    "direction": 304.4054562558796,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-12-16",
+      "species_name_to_score": {
+        "Mangifera indica": 0.95263,
+        "Madhuca longifolia": 0.00784,
+        "Cerbera manghas": 0.00686,
+        "Cerbera odollam": 0.00341
+      }
+    },
+    "species": {
+      "name": "Mangifera indica",
+      "authorship": "L.",
+      "genus_name": "Mangifera",
+      "family_name": "Anacardiaceae",
+      "gbif_id": "3190638",
+      "powo_id": "69913-1",
+      "iucn_id": "31389",
+      "iucn_category": "DD",
+      "common_names": [
+        "Amba",
+        "Amiram",
+        "Amra",
+        "Ma",
+        "Mamaram",
+        "Mangai",
+        "Mango",
+        "Mango Tree",
+        "Mee Amba",
+        "Sahakara",
+        "\u0906\u092e"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-12-33": {
+    "id": "Photo-2024-03-21-08-12-33",
+    "ut": 1710988953,
+    "latlng": {
+      "lat": 6.913422,
+      "lng": 79.860633
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 12 33.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-12-33.jpg",
+    "alt": 9.357405614714423,
+    "direction": 328.0517578125,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-12-33",
+      "species_name_to_score": {
+        "Vangueria madagascariensis": 0.10171,
+        "Adansonia digitata": 0.0489,
+        "Cordia subcordata": 0.03035,
+        "Ceodes grandis": 0.01715,
+        "Premna serratifolia": 0.01383,
+        "Cordia sebestena": 0.00985,
+        "Annona muricata": 0.00753,
+        "Tectona grandis": 0.00688,
+        "Sterculia foetida": 0.00673,
+        "Barringtonia asiatica": 0.00665,
+        "Jatropha gossypiifolia": 0.00529,
+        "Ficus hispida": 0.00506,
+        "Morinda citrifolia": 0.00359,
+        "Holarrhena pubescens": 0.00336,
+        "Passiflora laurifolia": 0.00322,
+        "Ficus auriculata": 0.00304,
+        "Barringtonia acutangula": 0.00304,
+        "Terminalia catappa": 0.00252,
+        "Thespesia populnea": 0.00231,
+        "Pongamia pinnata": 0.00228,
+        "Passiflora ligularis": 0.00195,
+        "Tabernaemontana alternifolia": 0.00186,
+        "Psidium guajava": 0.00183,
+        "Annona glabra": 0.00157,
+        "Nauclea orientalis": 0.00154,
+        "Anacardium occidentale": 0.0015,
+        "Citrus maxima": 0.00146,
+        "Sterculia rubiginosa": 0.00138,
+        "Guettarda speciosa": 0.00119,
+        "Eugenia uniflora": 0.00105,
+        "Passiflora edulis": 0.00102,
+        "Crescentia cujete": 0.00102
+      }
+    },
+    "species": {
+      "name": "Vangueria madagascariensis",
+      "authorship": "J.F.Gmel.",
+      "genus_name": "Vangueria",
+      "family_name": "Rubiaceae",
+      "gbif_id": "2917777",
+      "powo_id": "769766-1",
+      "iucn_id": "146447633",
+      "iucn_category": "LC",
+      "common_names": [
+        "Spanish-tamarind",
+        "Tamarind-of-the-Indies",
+        "Voa vanga"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-13-01": {
+    "id": "Photo-2024-03-21-08-13-01",
+    "ut": 1710988981,
+    "latlng": {
+      "lat": 6.9135,
+      "lng": 79.860581
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 13 01.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-13-01.jpg",
+    "alt": 9.735267349260523,
+    "direction": 284.3981016192071,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-13-01",
+      "species_name_to_score": {
+        "Madhuca longifolia": 0.33487,
+        "Mangifera indica": 0.01392,
+        "Cascabela thevetia": 0.00764,
+        "Crescentia cujete": 0.00537,
+        "Asclepias curassavica": 0.00504,
+        "Plumeria alba": 0.00206,
+        "Elaeocarpus angustifolius": 0.00161,
+        "Couroupita guianensis": 0.00158,
+        "Rhaphiolepis bibas": 0.00142,
+        "Tabernaemontana divaricata": 0.00139,
+        "Litsea glutinosa": 0.00108,
+        "Barringtonia acutangula": 0.00101
+      }
+    },
+    "species": {
+      "name": "Madhuca longifolia",
+      "authorship": "(J.Koenig ex L.) J.F.Macbr.",
+      "genus_name": "Madhuca",
+      "family_name": "Sapotaceae",
+      "gbif_id": "2883346",
+      "powo_id": "787505-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Mahua",
+        "Moatree",
+        "Mowra-buttertree"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-13-10": {
+    "id": "Photo-2024-03-21-08-13-10",
+    "ut": 1710988990,
+    "latlng": {
+      "lat": 6.91355,
+      "lng": 79.860594
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 13 10.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-13-10.jpg",
+    "alt": 8.609861683032415,
+    "direction": 103.18024439918534,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-13-10",
+      "species_name_to_score": {
+        "Monoon longifolium": 0.14552,
+        "Quercus acutissima": 0.07188,
+        "Mangifera indica": 0.00496,
+        "Saraca asoca": 0.00347,
+        "Acacia auriculiformis": 0.00148,
+        "Elaeocarpus angustifolius": 0.00143,
+        "Aesculus indica": 0.0012,
+        "Sapindus saponaria": 0.00116,
+        "Salix viminalis": 0.00103
+      }
+    },
+    "species": {
+      "name": "Monoon longifolium",
+      "authorship": "(Sonn.) B.Xue & R.M.K.Saunders",
+      "genus_name": "Monoon",
+      "family_name": "Annonaceae",
+      "gbif_id": "11001249",
+      "powo_id": "77123022-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Ashok",
+        "Ashoka",
+        "Debdaru (HI)"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-13-19": {
+    "id": "Photo-2024-03-21-08-13-19",
+    "ut": 1710988999,
+    "latlng": {
+      "lat": 6.913531,
+      "lng": 79.860558
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 13 19.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-13-19.jpg",
+    "alt": 8.791977914907438,
+    "direction": 102.60076157000586,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-13-19",
+      "species_name_to_score": {
+        "Peltophorum pterocarpum": 0.23361,
+        "Peltophorum dubium": 0.11875,
+        "Libidibia coriaria": 0.05071,
+        "Peltophorum africanum": 0.03196,
+        "Jacaranda mimosifolia": 0.02244,
+        "Spondias mombin": 0.01103,
+        "Cedrela odorata": 0.01097,
+        "Delonix regia": 0.00554,
+        "Albizia julibrissin": 0.00495,
+        "Schizolobium parahyba": 0.00477,
+        "Cassia grandis": 0.00447,
+        "Toona ciliata": 0.00411,
+        "Tamarindus indica": 0.00371,
+        "Libidibia ferrea": 0.00282,
+        "Juglans nigra": 0.0024,
+        "Swietenia macrophylla": 0.00212,
+        "Tipuana tipu": 0.00187,
+        "Albizia procera": 0.00173,
+        "Falcataria falcata": 0.00127,
+        "Pavetta indica": 0.00104,
+        "Senna siamea": 0.00102
+      }
+    },
+    "species": {
+      "name": "Peltophorum pterocarpum",
+      "authorship": "(DC.) Backer ex K.Heyne",
+      "genus_name": "Peltophorum",
+      "family_name": "Fabaceae",
+      "gbif_id": "2952775",
+      "powo_id": "513021-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Copperpod",
+        "Kaha Maara",
+        "Kona Maram",
+        "Maara",
+        "Nilalvakai",
+        "Yellow flame",
+        "Yellow flametree"
+      ]
+    }
+  },
   "Photo-2024-03-21-08-13-46": {
     "id": "Photo-2024-03-21-08-13-46",
     "ut": 1710989026,
@@ -46828,6 +51584,68 @@
         "Chiku",
         "Sapodilla",
         "Sapote"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-14-17": {
+    "id": "Photo-2024-03-21-08-14-17",
+    "ut": 1710989057,
+    "latlng": {
+      "lat": 6.913325,
+      "lng": 79.860725
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 14 17.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-14-17.jpg",
+    "alt": 9.919723449202996,
+    "direction": 247.35514834205932,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-14-17",
+      "species_name_to_score": {
+        "Diospyros malabarica": 0.26978,
+        "Dimocarpus longan": 0.04449,
+        "Diospyros blancoi": 0.03025,
+        "Saraca asoca": 0.01852,
+        "Hopea odorata": 0.01805,
+        "Polyalthia suberosa": 0.01452,
+        "Mesua ferrea": 0.01227,
+        "Saraca indica": 0.0103,
+        "Artabotrys hexapetalus": 0.00979,
+        "Monoon longifolium": 0.00738,
+        "Garcinia xanthochymus": 0.00514,
+        "Brownea grandiceps": 0.00505,
+        "Cassia grandis": 0.005,
+        "Cedrela odorata": 0.00428,
+        "Spondias dulcis": 0.00393,
+        "Amherstia nobilis": 0.00291,
+        "Mangifera indica": 0.00288,
+        "Terminalia arjuna": 0.00245,
+        "Litchi chinensis": 0.00228,
+        "Annona muricata": 0.00204,
+        "Diospyros nigra": 0.00159,
+        "Sapindus mukorossi": 0.00142,
+        "Muntingia calabura": 0.00134,
+        "Cassia fistula": 0.00126,
+        "Khaya senegalensis": 0.00122,
+        "Senna siamea": 0.00105,
+        "Cassia javanica": 0.00102
+      }
+    },
+    "species": {
+      "name": "Diospyros malabarica",
+      "authorship": "(Desr.) Kostel.",
+      "genus_name": "Diospyros",
+      "family_name": "Ebenaceae",
+      "gbif_id": "7295796",
+      "powo_id": "322658-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Indian persimmon",
+        "Mountain ebony",
+        "Thinduka",
+        "Thumbai",
+        "Timbiri"
       ]
     }
   },
@@ -46884,6 +51702,1164 @@
         "Maruthu",
         "Marutu",
         "White murdh"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-14-43": {
+    "id": "Photo-2024-03-21-08-14-43",
+    "ut": 1710989083,
+    "latlng": {
+      "lat": 6.913403,
+      "lng": 79.860611
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 14 43.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-14-43.jpg",
+    "alt": 8.783702267463779,
+    "direction": 253.5869291998324,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-14-43",
+      "species_name_to_score": {
+        "Muntingia calabura": 0.06125,
+        "Brownea grandiceps": 0.04785,
+        "Tipuana tipu": 0.03672,
+        "Polyalthia suberosa": 0.01932,
+        "Psidium guajava": 0.01608,
+        "Terminalia arjuna": 0.01076,
+        "Lagerstroemia speciosa": 0.01048,
+        "Senna siamea": 0.01037,
+        "Holarrhena pubescens": 0.00991,
+        "Cassia roxburghii": 0.00821,
+        "Saraca asoca": 0.00811,
+        "Cotoneaster frigidus": 0.00782,
+        "Tamarindus indica": 0.00683,
+        "Breynia androgyna": 0.00682,
+        "Theobroma cacao": 0.00658,
+        "Saraca indica": 0.00625,
+        "Antidesma bunius": 0.00625,
+        "Calliandra haematocephala": 0.00623,
+        "Diospyros blancoi": 0.00606,
+        "Flacourtia jangomas": 0.00532,
+        "Erythroxylum coca": 0.00479,
+        "Adenanthera pavonina": 0.00465,
+        "Syzygium samarangense": 0.00441,
+        "Calliandra surinamensis": 0.00438,
+        "Phyllanthus emblica": 0.00401,
+        "Putranjiva roxburghii": 0.004,
+        "Cassia javanica": 0.00347,
+        "Samadera indica": 0.00286,
+        "Diospyros malabarica": 0.0028,
+        "Calliandra tweediei": 0.00207,
+        "Garcinia lanceifolia": 0.00166,
+        "Phyllanthus acidus": 0.0015,
+        "Harpullia arborea": 0.00145,
+        "Annona reticulata": 0.0014,
+        "Brownea rosa-de-monte": 0.00138,
+        "Annona squamosa": 0.00134,
+        "Cassia grandis": 0.00123,
+        "Lagerstroemia parviflora": 0.00118,
+        "Annona muricata": 0.00117,
+        "Averrhoa bilimbi": 0.00115,
+        "Acaciella angustissima": 0.00111,
+        "Nephelium lappaceum": 0.00109,
+        "Debregeasia longifolia": 0.00108,
+        "Breynia vitis-idaea": 0.00106,
+        "Grewia bicolor": 0.00104,
+        "Woodfordia fruticosa": 0.00104,
+        "Coffea arabica": 0.00103,
+        "Polygonum plebeium": 0.00103,
+        "Robinia pseudoacacia": 0.00102
+      }
+    },
+    "species": {
+      "name": "Muntingia calabura",
+      "authorship": "L.",
+      "genus_name": "Muntingia",
+      "family_name": "Muntingiaceae",
+      "gbif_id": "3152036",
+      "powo_id": "320779-2",
+      "iucn_id": "153671335",
+      "iucn_category": "LC",
+      "common_names": [
+        "Calabur-tree",
+        "Capulin",
+        "Panama-berry"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-14-53": {
+    "id": "Photo-2024-03-21-08-14-53",
+    "ut": 1710989093,
+    "latlng": {
+      "lat": 6.913425,
+      "lng": 79.860528
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 14 53.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-14-53.jpg",
+    "alt": 8.493072472594397,
+    "direction": 271.79290780141844,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-14-53",
+      "species_name_to_score": {
+        "Terminalia arjuna": 0.80812,
+        "Polyalthia suberosa": 0.02817,
+        "Lagerstroemia parviflora": 0.00639,
+        "Psidium guajava": 0.00359,
+        "Carissa carandas": 0.00317,
+        "Lagerstroemia speciosa": 0.00263,
+        "Cassia grandis": 0.00231,
+        "Syzygium samarangense": 0.00225,
+        "Annona squamosa": 0.00223,
+        "Phyllanthus emblica": 0.00217,
+        "Syzygium jambos": 0.00176,
+        "Diospyros buxifolia": 0.00137,
+        "Crescentia cujete": 0.00105
+      }
+    },
+    "species": {
+      "name": "Terminalia arjuna",
+      "authorship": "(Roxb. ex DC.) Wight & Arn.",
+      "genus_name": "Terminalia",
+      "family_name": "Combretaceae",
+      "gbif_id": "3699548",
+      "powo_id": "170962-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Arjun",
+        "Kakubha",
+        "Kumbuk",
+        "Maruthu",
+        "Marutu",
+        "White murdh"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-15-03": {
+    "id": "Photo-2024-03-21-08-15-03",
+    "ut": 1710989103,
+    "latlng": {
+      "lat": 6.913469,
+      "lng": 79.860481
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 15 03.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-15-03.jpg",
+    "alt": 8.306550549034457,
+    "direction": 259.5845030881527,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-15-03",
+      "species_name_to_score": {
+        "Terminalia arjuna": 0.75693,
+        "Syzygium jambos": 0.01367,
+        "Lagerstroemia parviflora": 0.01185,
+        "Copaifera langsdorffii": 0.00902,
+        "Holarrhena pubescens": 0.00617,
+        "Senna siamea": 0.00523,
+        "Lagerstroemia speciosa": 0.00494,
+        "Psidium guajava": 0.00387,
+        "Toona ciliata": 0.00201,
+        "Ochna integerrima": 0.00162,
+        "Woodfordia fruticosa": 0.00125,
+        "Annona muricata": 0.001
+      }
+    },
+    "species": {
+      "name": "Terminalia arjuna",
+      "authorship": "(Roxb. ex DC.) Wight & Arn.",
+      "genus_name": "Terminalia",
+      "family_name": "Combretaceae",
+      "gbif_id": "3699548",
+      "powo_id": "170962-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Arjun",
+        "Kakubha",
+        "Kumbuk",
+        "Maruthu",
+        "Marutu",
+        "White murdh"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-15-13": {
+    "id": "Photo-2024-03-21-08-15-13",
+    "ut": 1710989113,
+    "latlng": {
+      "lat": 6.913519,
+      "lng": 79.860414
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 15 13.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-15-13.jpg",
+    "alt": 7.866222087501263,
+    "direction": 248.28274559193954,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-15-13",
+      "species_name_to_score": {
+        "Syzygium jambos": 0.21271,
+        "Terminalia arjuna": 0.05574,
+        "Ochna integerrima": 0.02541,
+        "Syzygium aqueum": 0.00495,
+        "Psidium guajava": 0.00335,
+        "Lagerstroemia speciosa": 0.00316,
+        "Punica granatum": 0.00285,
+        "Psidium cattleyanum": 0.00278,
+        "Syzygium cumini": 0.00263,
+        "Polyalthia suberosa": 0.00211,
+        "Peltophorum pterocarpum": 0.00146,
+        "Lagerstroemia parviflora": 0.0014,
+        "Ixora chinensis": 0.00106
+      }
+    },
+    "species": {
+      "name": "Syzygium jambos",
+      "authorship": "(L.) Alston",
+      "genus_name": "Syzygium",
+      "family_name": "Myrtaceae",
+      "gbif_id": "3183534",
+      "powo_id": "601802-1",
+      "iucn_id": "49487025",
+      "iucn_category": "LC",
+      "common_names": [
+        "Campai",
+        "Jambos",
+        "Jambu",
+        "Malabar-plum",
+        "Perunavalgeorge Willty",
+        "Rose-apple"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-15-21": {
+    "id": "Photo-2024-03-21-08-15-21",
+    "ut": 1710989121,
+    "latlng": {
+      "lat": 6.913556,
+      "lng": 79.860375
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 15 21.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-15-21.jpg",
+    "alt": 8.352900472840503,
+    "direction": 256.51403798513627,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-15-21",
+      "species_name_to_score": {
+        "Terminalia arjuna": 0.27625,
+        "Syzygium samarangense": 0.11404,
+        "Syzygium malaccense": 0.02794,
+        "Psidium guajava": 0.01984,
+        "Diospyros blancoi": 0.00962,
+        "Syzygium aqueum": 0.00727,
+        "Cotoneaster frigidus": 0.00492,
+        "Schotia brachypetala": 0.00372,
+        "Syzygium jambos": 0.00354,
+        "Calliandra surinamensis": 0.0032,
+        "Syzygium cumini": 0.00291,
+        "Punica granatum": 0.00234,
+        "Terminalia catappa": 0.00219,
+        "Brownea rosa-de-monte": 0.00213,
+        "Nephelium lappaceum": 0.00212,
+        "Crescentia cujete": 0.00198,
+        "Carissa carandas": 0.00138,
+        "Saraca indica": 0.00134,
+        "Schleichera oleosa": 0.00131,
+        "Lepisanthes senegalensis": 0.00126,
+        "Brownea grandiceps": 0.00122,
+        "Rhododendron cerasinum": 0.00113,
+        "Opuntia cochenillifera": 0.00105,
+        "Calliandra tweediei": 0.00102
+      }
+    },
+    "species": {
+      "name": "Terminalia arjuna",
+      "authorship": "(Roxb. ex DC.) Wight & Arn.",
+      "genus_name": "Terminalia",
+      "family_name": "Combretaceae",
+      "gbif_id": "3699548",
+      "powo_id": "170962-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Arjun",
+        "Kakubha",
+        "Kumbuk",
+        "Maruthu",
+        "Marutu",
+        "White murdh"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-15-30": {
+    "id": "Photo-2024-03-21-08-15-30",
+    "ut": 1710989130,
+    "latlng": {
+      "lat": 6.913575,
+      "lng": 79.860297
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 15 30.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-15-30.jpg",
+    "alt": 8.45203578038248,
+    "direction": 255.11584454409567,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-15-30",
+      "species_name_to_score": {
+        "Terminalia arjuna": 0.3121,
+        "Syzygium jambos": 0.06783,
+        "Lagerstroemia parviflora": 0.04036,
+        "Polyalthia suberosa": 0.02193,
+        "Syzygium cumini": 0.01454,
+        "Carissa carandas": 0.01425,
+        "Syzygium samarangense": 0.01241,
+        "Syzygium aqueum": 0.0067,
+        "Lagerstroemia speciosa": 0.00571,
+        "Psidium guajava": 0.0046,
+        "Ochna integerrima": 0.00378,
+        "Woodfordia fruticosa": 0.00346,
+        "Khaya senegalensis": 0.00335,
+        "Diospyros buxifolia": 0.00249,
+        "Diospyros blancoi": 0.00239,
+        "Hiptage benghalensis": 0.00224,
+        "Cassia grandis": 0.00204,
+        "Nephelium lappaceum": 0.00173,
+        "Brownea grandiceps": 0.00163,
+        "Senna siamea": 0.00152,
+        "Schotia brachypetala": 0.00151,
+        "Copaifera langsdorffii": 0.00146,
+        "Mesua ferrea": 0.00144,
+        "Staphylea cochinchinensis": 0.00138,
+        "Diospyros malabarica": 0.00134,
+        "Diospyros nigra": 0.00133,
+        "Dimocarpus longan": 0.00118,
+        "Syzygium cymosum": 0.00116,
+        "Diospyros chloroxylon": 0.00113
+      }
+    },
+    "species": {
+      "name": "Terminalia arjuna",
+      "authorship": "(Roxb. ex DC.) Wight & Arn.",
+      "genus_name": "Terminalia",
+      "family_name": "Combretaceae",
+      "gbif_id": "3699548",
+      "powo_id": "170962-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Arjun",
+        "Kakubha",
+        "Kumbuk",
+        "Maruthu",
+        "Marutu",
+        "White murdh"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-15-46": {
+    "id": "Photo-2024-03-21-08-15-46",
+    "ut": 1710989146,
+    "latlng": {
+      "lat": 6.913583,
+      "lng": 79.860353
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 15 46.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-15-46.jpg",
+    "alt": 9.240814999458111,
+    "direction": 300.08447265625,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-15-46",
+      "species_name_to_score": {
+        "Syzygium jambos": 0.02848,
+        "Madhuca longifolia": 0.02612,
+        "Manilkara zapota": 0.01944,
+        "Saurauia napaulensis": 0.0188,
+        "Rhaphiolepis bibas": 0.01808,
+        "Pieris formosa": 0.01226,
+        "Elaeocarpus angustifolius": 0.00674,
+        "Terminalia arjuna": 0.00642,
+        "Cerbera manghas": 0.00421,
+        "Mangifera indica": 0.00339,
+        "Plumeria rubra": 0.00228,
+        "Anisoptera scaphula": 0.00213,
+        "Rhododendron arboreum": 0.00175,
+        "Dillenia indica": 0.00158,
+        "Barringtonia acutangula": 0.00152,
+        "Syzygium cymosum": 0.00151,
+        "Rhododendron delavayi": 0.00134,
+        "Litsea monopetala": 0.00132
+      }
+    },
+    "species": {
+      "name": "Syzygium jambos",
+      "authorship": "(L.) Alston",
+      "genus_name": "Syzygium",
+      "family_name": "Myrtaceae",
+      "gbif_id": "3183534",
+      "powo_id": "601802-1",
+      "iucn_id": "49487025",
+      "iucn_category": "LC",
+      "common_names": [
+        "Campai",
+        "Jambos",
+        "Jambu",
+        "Malabar-plum",
+        "Perunavalgeorge Willty",
+        "Rose-apple"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-15-52": {
+    "id": "Photo-2024-03-21-08-15-52",
+    "ut": 1710989152,
+    "latlng": {
+      "lat": 6.913567,
+      "lng": 79.860306
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 15 52.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-15-52.jpg",
+    "alt": 8.389557010199422,
+    "direction": 277.44268774703556,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-15-52",
+      "species_name_to_score": {
+        "Terminalia arjuna": 0.47799,
+        "Syzygium jambos": 0.08347,
+        "Polyalthia suberosa": 0.01103,
+        "Carissa carandas": 0.01076,
+        "Lagerstroemia parviflora": 0.00826,
+        "Syzygium aqueum": 0.00542,
+        "Madhuca longifolia": 0.00417,
+        "Diospyros blancoi": 0.00287,
+        "Syzygium samarangense": 0.00285,
+        "Brownea grandiceps": 0.00265,
+        "Syzygium cumini": 0.0023,
+        "Annona reticulata": 0.00219,
+        "Nephelium lappaceum": 0.00202,
+        "Lagerstroemia speciosa": 0.00196,
+        "Saraca asoca": 0.00182,
+        "Psidium guajava": 0.00155,
+        "Copaifera langsdorffii": 0.00149,
+        "Acrostichum aureum": 0.00143,
+        "Dimocarpus longan": 0.0014,
+        "Cassia grandis": 0.00126,
+        "Schotia brachypetala": 0.00121,
+        "Ochna integerrima": 0.00121,
+        "Senna siamea": 0.00108
+      }
+    },
+    "species": {
+      "name": "Terminalia arjuna",
+      "authorship": "(Roxb. ex DC.) Wight & Arn.",
+      "genus_name": "Terminalia",
+      "family_name": "Combretaceae",
+      "gbif_id": "3699548",
+      "powo_id": "170962-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Arjun",
+        "Kakubha",
+        "Kumbuk",
+        "Maruthu",
+        "Marutu",
+        "White murdh"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-16-00": {
+    "id": "Photo-2024-03-21-08-16-00",
+    "ut": 1710989160,
+    "latlng": {
+      "lat": 6.913583,
+      "lng": 79.860253
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 16 00.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-16-00.jpg",
+    "alt": 7.731842325971485,
+    "direction": 289.9932859399684,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-16-00",
+      "species_name_to_score": {
+        "Terminalia arjuna": 0.04694,
+        "Syzygium samarangense": 0.02706,
+        "Psidium guajava": 0.01851,
+        "Carissa carandas": 0.01821,
+        "Polyalthia suberosa": 0.01582,
+        "Calliandra haematocephala": 0.01375,
+        "Syzygium cymosum": 0.013,
+        "Syzygium jambos": 0.01101,
+        "Syzygium aqueum": 0.00932,
+        "Brownea grandiceps": 0.00557,
+        "Schotia brachypetala": 0.0049,
+        "Calliandra surinamensis": 0.00417,
+        "Antidesma bunius": 0.00315,
+        "Punica granatum": 0.00256,
+        "Syzygium cumini": 0.00221,
+        "Woodfordia fruticosa": 0.00206,
+        "Zanthoxylum armatum": 0.00205,
+        "Anacardium occidentale": 0.00195,
+        "Lagerstroemia speciosa": 0.00195,
+        "Diospyros blancoi": 0.00192,
+        "Nymphaea rubra": 0.0017,
+        "Schleichera oleosa": 0.00163,
+        "Peltophorum pterocarpum": 0.00159,
+        "Ajuga integrifolia": 0.00158,
+        "Annona reticulata": 0.00144,
+        "Peltophorum africanum": 0.00136,
+        "Jatropha integerrima": 0.00136,
+        "Nephelium lappaceum": 0.00121,
+        "Lepisanthes senegalensis": 0.00119,
+        "Ficus semicordata": 0.00114,
+        "Toona ciliata": 0.00113,
+        "Holarrhena pubescens": 0.00112,
+        "Ficus virens": 0.0011,
+        "Syzygium malaccense": 0.00107,
+        "Terminalia catappa": 0.00106,
+        "Calliandra tweediei": 0.00101
+      }
+    },
+    "species": {
+      "name": "Terminalia arjuna",
+      "authorship": "(Roxb. ex DC.) Wight & Arn.",
+      "genus_name": "Terminalia",
+      "family_name": "Combretaceae",
+      "gbif_id": "3699548",
+      "powo_id": "170962-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Arjun",
+        "Kakubha",
+        "Kumbuk",
+        "Maruthu",
+        "Marutu",
+        "White murdh"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-16-14": {
+    "id": "Photo-2024-03-21-08-16-14",
+    "ut": 1710989174,
+    "latlng": {
+      "lat": 6.913586,
+      "lng": 79.860114
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 16 14.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-16-14.jpg",
+    "alt": 8.976214405360134,
+    "direction": 136.1541899441341,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-16-14",
+      "species_name_to_score": {
+        "Tectona grandis": 0.60953,
+        "Guazuma ulmifolia": 0.02885,
+        "Kleinhovia hospita": 0.01738,
+        "Terminalia catappa": 0.00727,
+        "Pterospermum acerifolium": 0.00514,
+        "Triadica sebifera": 0.00285,
+        "Terminalia arjuna": 0.00237,
+        "Catalpa bignonioides": 0.00233,
+        "Cordia dichotoma": 0.00193,
+        "Luehea candida": 0.00191,
+        "Neolamarckia cadamba": 0.00167,
+        "Careya arborea": 0.00131,
+        "Acer platanoides": 0.00115
+      }
+    },
+    "species": {
+      "name": "Tectona grandis",
+      "authorship": "L.f.",
+      "genus_name": "Tectona",
+      "family_name": "Lamiaceae",
+      "gbif_id": "2925649",
+      "powo_id": "864923-1",
+      "iucn_id": "62019830",
+      "iucn_category": "EN",
+      "common_names": [
+        "Bankok teak",
+        "Bardaru",
+        "Bhumisah",
+        "Dwardaru",
+        "Indian-oak",
+        "Kharchchada",
+        "Kolaphala",
+        "Saaka",
+        "Sabarasaara",
+        "Teak",
+        "The Kka Signify Long Sound",
+        "Thekku"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-16-20": {
+    "id": "Photo-2024-03-21-08-16-20",
+    "ut": 1710989180,
+    "latlng": {
+      "lat": 6.913567,
+      "lng": 79.8601
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 16 20.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-16-20.jpg",
+    "alt": 9.84474367293965,
+    "direction": 42.90645600083708,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-16-20",
+      "species_name_to_score": {
+        "Samanea saman": 0.3535,
+        "Styphnolobium japonicum": 0.05328,
+        "Jacaranda mimosifolia": 0.01579,
+        "Tipuana tipu": 0.01393,
+        "Tamarindus indica": 0.0126,
+        "Ceiba pentandra": 0.01254,
+        "Peltophorum pterocarpum": 0.01049,
+        "Albizia lebbeck": 0.01044,
+        "Pterocarpus indicus": 0.00537,
+        "Spondias mombin": 0.00484,
+        "Cedrela odorata": 0.00463,
+        "Peltophorum dubium": 0.00463,
+        "Albizia procera": 0.0039,
+        "Parkia biglobosa": 0.00376,
+        "Albizia julibrissin": 0.0031,
+        "Melia azedarach": 0.0027,
+        "Albizia niopoides": 0.00253,
+        "Azadirachta indica": 0.00218,
+        "Juglans nigra": 0.00212,
+        "Leucaena leucocephala": 0.00202,
+        "Libidibia coriaria": 0.00166,
+        "Swietenia mahagoni": 0.00153,
+        "Khaya senegalensis": 0.00148,
+        "Swietenia macrophylla": 0.00115,
+        "Vachellia farnesiana": 0.00105,
+        "Bischofia javanica": 0.00102
+      }
+    },
+    "species": {
+      "name": "Samanea saman",
+      "authorship": "(Jacq.) Merr.",
+      "genus_name": "Samanea",
+      "family_name": "Fabaceae",
+      "gbif_id": "2972960",
+      "powo_id": "227126-2",
+      "iucn_id": "144255307",
+      "iucn_category": "LC",
+      "common_names": [
+        "Amaivagai",
+        "Cow-tamarind",
+        "Mara Tree",
+        "Monkeypod",
+        "Name",
+        "Name Enakvakai",
+        "Name Maara Tree",
+        "Pare Mara",
+        "Pini Maara",
+        "Raintree",
+        "Thoongumoonji Maram"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-16-29": {
+    "id": "Photo-2024-03-21-08-16-29",
+    "ut": 1710989189,
+    "latlng": {
+      "lat": 6.913561,
+      "lng": 79.860047
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 16 29.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-16-29.jpg",
+    "alt": 7.768001056942793,
+    "direction": 133.60485829959515,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-16-29",
+      "species_name_to_score": {
+        "Toona ciliata": 0.02168,
+        "Swietenia mahagoni": 0.01639,
+        "Hymenaea courbaril": 0.01134,
+        "Terminalia arjuna": 0.00725,
+        "Ficus racemosa": 0.00717,
+        "Dalbergia latifolia": 0.00601,
+        "Albizia procera": 0.00483,
+        "Ficus geniculata": 0.00475,
+        "Khaya senegalensis": 0.00459,
+        "Elaeocarpus angustifolius": 0.00421,
+        "Eucalyptus saligna": 0.00355,
+        "Libidibia ferrea": 0.00338,
+        "Corymbia citriodora": 0.00321,
+        "Swietenia macrophylla": 0.00314,
+        "Schizolobium parahyba": 0.00247,
+        "Harpullia cupanioides": 0.00237,
+        "Hymenaea verrucosa": 0.00213,
+        "Corymbia maculata": 0.00177,
+        "Cedrela odorata": 0.00173,
+        "Eucalyptus botryoides": 0.00145,
+        "Eucalyptus camaldulensis": 0.00141,
+        "Firmiana colorata": 0.0013,
+        "Ceiba pentandra": 0.0013,
+        "Cassia grandis": 0.00124,
+        "Ficus microcarpa": 0.00123
+      }
+    },
+    "species": {
+      "name": "Toona ciliata",
+      "authorship": "M.Roem.",
+      "genus_name": "Toona",
+      "family_name": "Meliaceae",
+      "gbif_id": "3190472",
+      "powo_id": "579299-1",
+      "iucn_id": "31332",
+      "iucn_category": "LC",
+      "common_names": [
+        "Australian red-cedar",
+        "Australian redcedar",
+        "Red Cedar"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-16-31": {
+    "id": "Photo-2024-03-21-08-16-31",
+    "ut": 1710989191,
+    "latlng": {
+      "lat": 6.913564,
+      "lng": 79.860039
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 16 31.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-16-31.jpg",
+    "alt": 7.770176105409857,
+    "direction": 82.438056912906,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-16-31",
+      "species_name_to_score": {
+        "Strychnos nux-vomica": 0.41637,
+        "Dipterocarpus alatus": 0.02535,
+        "Ficus altissima": 0.0144,
+        "Ficus religiosa": 0.01416,
+        "Syzygium cumini": 0.01295,
+        "Ficus benghalensis": 0.00791,
+        "Intsia bijuga": 0.00751,
+        "Terminalia arjuna": 0.00696,
+        "Terminalia chebula": 0.0069,
+        "Neolamarckia cadamba": 0.00688,
+        "Ficus geniculata": 0.00655,
+        "Aegle marmelos": 0.00539,
+        "Santalum album": 0.00482,
+        "Dipterocarpus retusus": 0.00481,
+        "Dalbergia latifolia": 0.0048,
+        "Lagerstroemia speciosa": 0.0038,
+        "Ficus racemosa": 0.00379,
+        "Hymenaea courbaril": 0.00366,
+        "Passiflora laurifolia": 0.00312,
+        "Aquilaria malaccensis": 0.00281,
+        "Phytolacca dioica": 0.00259,
+        "Strychnos potatorum": 0.00238,
+        "Sandoricum koetjape": 0.00227,
+        "Cinnamomum verum": 0.0022,
+        "Swietenia mahagoni": 0.00186,
+        "Bischofia javanica": 0.00167,
+        "Cordia dichotoma": 0.00157,
+        "Pterocarpus santalinus": 0.00153,
+        "Digera muricata": 0.00152,
+        "Cassia fistula": 0.00135,
+        "Discretitheca nepalensis": 0.00128,
+        "Artocarpus lacucha": 0.00126,
+        "Ficus virens": 0.00124,
+        "Flacourtia jangomas": 0.00115,
+        "Pongamia pinnata": 0.00105,
+        "Cananga odorata": 0.00101
+      }
+    },
+    "species": {
+      "name": "Strychnos nux-vomica",
+      "authorship": "L.",
+      "genus_name": "Strychnos",
+      "family_name": "Loganiaceae",
+      "gbif_id": "5414399",
+      "powo_id": "547371-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Nux-vomica",
+        "Nux-vomica-tree",
+        "Strychninetree"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-16-42": {
+    "id": "Photo-2024-03-21-08-16-42",
+    "ut": 1710989202,
+    "latlng": {
+      "lat": 6.913522,
+      "lng": 79.86
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 16 42.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-16-42.jpg",
+    "alt": 6.5522039180765805,
+    "direction": 253.55752577319586,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-16-42",
+      "species_name_to_score": {
+        "Madhuca longifolia": 0.33416,
+        "Mangifera indica": 0.00888,
+        "Cerbera odollam": 0.0068,
+        "Vitex agnus-castus": 0.00428,
+        "Nerium oleander": 0.00295,
+        "Terminalia arjuna": 0.00254,
+        "Barleria lupulina": 0.00245,
+        "Cerbera manghas": 0.00191,
+        "Couroupita guianensis": 0.00174,
+        "Cascabela thevetia": 0.00162,
+        "Codiaeum variegatum": 0.0015,
+        "Plumeria rubra": 0.00148,
+        "Adansonia digitata": 0.0014,
+        "Rhaphiolepis bibas": 0.00116,
+        "Crescentia cujete": 0.00107,
+        "Terminalia catappa": 0.00101
+      }
+    },
+    "species": {
+      "name": "Madhuca longifolia",
+      "authorship": "(J.Koenig ex L.) J.F.Macbr.",
+      "genus_name": "Madhuca",
+      "family_name": "Sapotaceae",
+      "gbif_id": "2883346",
+      "powo_id": "787505-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Mahua",
+        "Moatree",
+        "Mowra-buttertree"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-16-49": {
+    "id": "Photo-2024-03-21-08-16-49",
+    "ut": 1710989209,
+    "latlng": {
+      "lat": 6.913497,
+      "lng": 79.859961
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 16 49.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-16-49.jpg",
+    "alt": 7.722620147874307,
+    "direction": 95.29888926287445,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-16-49",
+      "species_name_to_score": {
+        "Jacaranda mimosifolia": 0.05474,
+        "Pterocarpus indicus": 0.03143,
+        "Albizia procera": 0.02891,
+        "Cassia grandis": 0.02712,
+        "Tipuana tipu": 0.02569,
+        "Libidibia coriaria": 0.0256,
+        "Adenanthera pavonina": 0.02252,
+        "Tamarindus indica": 0.01838,
+        "Albizia lebbeck": 0.01374,
+        "Azadirachta indica": 0.01099,
+        "Styphnolobium japonicum": 0.0109,
+        "Peltophorum pterocarpum": 0.01021,
+        "Peltophorum africanum": 0.00984,
+        "Gleditsia triacanthos": 0.00904,
+        "Cassia javanica": 0.00878,
+        "Senna siamea": 0.00779,
+        "Senna spectabilis": 0.00545,
+        "Erythrophleum suaveolens": 0.00526,
+        "Peltophorum dubium": 0.00465,
+        "Parkia biglobosa": 0.00384,
+        "Pistacia chinensis": 0.00334,
+        "Toona ciliata": 0.00294,
+        "Biancaea sappan": 0.00259,
+        "Vachellia karroo": 0.00211,
+        "Robinia pseudoacacia": 0.00205,
+        "Leucaena leucocephala": 0.00185,
+        "Samanea saman": 0.00178,
+        "Cedrela odorata": 0.00172,
+        "Senegalia burkei": 0.0017,
+        "Radermachera sinica": 0.00161,
+        "Delonix regia": 0.00159,
+        "Delonix elata": 0.00154,
+        "Libidibia ferrea": 0.00151,
+        "Moringa oleifera": 0.00144,
+        "Spondias mombin": 0.00144,
+        "Cassia fistula": 0.00143,
+        "Caesalpinia pulcherrima": 0.00111
+      }
+    },
+    "species": {
+      "name": "Jacaranda mimosifolia",
+      "authorship": "D.Don",
+      "genus_name": "Jacaranda",
+      "family_name": "Bignoniaceae",
+      "gbif_id": "3172499",
+      "powo_id": "130936-2",
+      "iucn_id": "32027",
+      "iucn_category": "VU",
+      "common_names": [
+        "Black poui",
+        "Fern-tree",
+        "Jacaranda"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-17-01": {
+    "id": "Photo-2024-03-21-08-17-01",
+    "ut": 1710989221,
+    "latlng": {
+      "lat": 6.913408,
+      "lng": 79.859894
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 17 01.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-17-01.jpg",
+    "alt": 7.564086465153825,
+    "direction": 199.7860106698281,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-17-01",
+      "species_name_to_score": {
+        "Madhuca longifolia": 0.17001,
+        "Manilkara zapota": 0.06037,
+        "Annona reticulata": 0.02109,
+        "Mangifera indica": 0.01923,
+        "Baccaurea ramiflora": 0.01776,
+        "Prunus persica": 0.01367,
+        "Terminalia arjuna": 0.0136,
+        "Syzygium cumini": 0.01093,
+        "Quercus acutissima": 0.00877,
+        "Syzygium jambos": 0.00784,
+        "Citharexylum spinosum": 0.00675,
+        "Ficus virens": 0.00501,
+        "Acacia auriculiformis": 0.004,
+        "Tabernaemontana alternifolia": 0.00384,
+        "Annona squamosa": 0.00325,
+        "Euphorbia leucocephala": 0.00313,
+        "Dillenia indica": 0.00303,
+        "Saurauia napaulensis": 0.0027,
+        "Vitex negundo": 0.0022,
+        "Tecomella undulata": 0.00177,
+        "Elaeocarpus serratus": 0.00177,
+        "Mangifera zeylanica": 0.00154,
+        "Justicia adhatoda": 0.00136,
+        "Crescentia cujete": 0.00133,
+        "Justicia gendarussa": 0.00119,
+        "Elaeocarpus angustifolius": 0.00114,
+        "Cestrum nocturnum": 0.00113,
+        "Acacia melanoxylon": 0.00113,
+        "Leucaena leucocephala": 0.0011,
+        "Hamelia patens": 0.00102
+      }
+    },
+    "species": {
+      "name": "Madhuca longifolia",
+      "authorship": "(J.Koenig ex L.) J.F.Macbr.",
+      "genus_name": "Madhuca",
+      "family_name": "Sapotaceae",
+      "gbif_id": "2883346",
+      "powo_id": "787505-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Mahua",
+        "Moatree",
+        "Mowra-buttertree"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-17-10": {
+    "id": "Photo-2024-03-21-08-17-10",
+    "ut": 1710989230,
+    "latlng": {
+      "lat": 6.913333,
+      "lng": 79.859886
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 17 10.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-17-10.jpg",
+    "alt": 7.580914015835533,
+    "direction": 117.00217438573603,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-17-10",
+      "species_name_to_score": {
+        "Syzygium jambos": 0.03086,
+        "Prunus persica": 0.02447,
+        "Cerbera odollam": 0.0169,
+        "Rhaphiolepis bibas": 0.00928,
+        "Elaeocarpus angustifolius": 0.00615,
+        "Asclepias curassavica": 0.00577,
+        "Persea americana": 0.00448,
+        "Nerium oleander": 0.00439,
+        "Madhuca longifolia": 0.00326,
+        "Mangifera indica": 0.00298,
+        "Citharexylum spinosum": 0.00292,
+        "Cestrum nocturnum": 0.00254,
+        "Luculia gratissima": 0.00241,
+        "Hamelia patens": 0.00201,
+        "Salix viminalis": 0.00196,
+        "Punica granatum": 0.00169,
+        "Buddleja asiatica": 0.00149,
+        "Helwingia himalaica": 0.00137,
+        "Debregeasia longifolia": 0.00135,
+        "Manilkara zapota": 0.00133,
+        "Mandragora caulescens": 0.00121,
+        "Hygrophila costata": 0.0012,
+        "Aphelandra scabra": 0.00104
+      }
+    },
+    "species": {
+      "name": "Syzygium jambos",
+      "authorship": "(L.) Alston",
+      "genus_name": "Syzygium",
+      "family_name": "Myrtaceae",
+      "gbif_id": "3183534",
+      "powo_id": "601802-1",
+      "iucn_id": "49487025",
+      "iucn_category": "LC",
+      "common_names": [
+        "Campai",
+        "Jambos",
+        "Jambu",
+        "Malabar-plum",
+        "Perunavalgeorge Willty",
+        "Rose-apple"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-17-20": {
+    "id": "Photo-2024-03-21-08-17-20",
+    "ut": 1710989240,
+    "latlng": {
+      "lat": 6.913336,
+      "lng": 79.859978
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 17 20.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-17-20.jpg",
+    "alt": 8.811694244239163,
+    "direction": 328.6531678641411,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-17-20",
+      "species_name_to_score": {
+        "Terminalia arjuna": 0.04636,
+        "Khaya senegalensis": 0.03266,
+        "Swietenia macrophylla": 0.01631,
+        "Terminalia chebula": 0.00537,
+        "Juglans regia": 0.00507,
+        "Cassia fistula": 0.00451,
+        "Annona muricata": 0.0044,
+        "Syzygium cumini": 0.00392,
+        "Dimocarpus longan": 0.00335,
+        "Swietenia mahagoni": 0.0028,
+        "Annona reticulata": 0.00262,
+        "Sapindus emarginatus": 0.00243,
+        "Saraca asoca": 0.00237,
+        "Psidium guajava": 0.00207,
+        "Nephelium lappaceum": 0.0019,
+        "Schleichera oleosa": 0.00181,
+        "Putranjiva roxburghii": 0.00171,
+        "Brownea grandiceps": 0.00158,
+        "Lagerstroemia speciosa": 0.00147,
+        "Sapindus mukorossi": 0.00145,
+        "Pterygota alata": 0.00135,
+        "Lonchocarpus sericeus": 0.00126,
+        "Ficus virens": 0.00125,
+        "Terminalia elliptica": 0.00123,
+        "Caryota urens": 0.00114,
+        "Schotia brachypetala": 0.0011,
+        "Copaifera langsdorffii": 0.00108,
+        "Shorea roxburghii": 0.00108,
+        "Quercus acutissima": 0.00105,
+        "Pterocarpus indicus": 0.00103,
+        "Psidium guineense": 0.00102
+      }
+    },
+    "species": {
+      "name": "Terminalia arjuna",
+      "authorship": "(Roxb. ex DC.) Wight & Arn.",
+      "genus_name": "Terminalia",
+      "family_name": "Combretaceae",
+      "gbif_id": "3699548",
+      "powo_id": "170962-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Arjun",
+        "Kakubha",
+        "Kumbuk",
+        "Maruthu",
+        "Marutu",
+        "White murdh"
+      ]
+    }
+  },
+  "Photo-2024-03-21-08-17-32": {
+    "id": "Photo-2024-03-21-08-17-32",
+    "ut": 1710989252,
+    "latlng": {
+      "lat": 6.913331,
+      "lng": 79.860053
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 08 17 32.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-08-17-32.jpg",
+    "alt": 8.670558577683428,
+    "direction": 287.77893056664004,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-08-17-32",
+      "species_name_to_score": {
+        "Holarrhena pubescens": 0.09357,
+        "Pongamia pinnata": 0.08507,
+        "Gliricidia sepium": 0.06017,
+        "Juglans regia": 0.01224,
+        "Cordia dichotoma": 0.00934,
+        "Nephelium lappaceum": 0.00745,
+        "Tecoma stans": 0.00723,
+        "Broussonetia papyrifera": 0.00646,
+        "Cassia fistula": 0.00591,
+        "Aegle marmelos": 0.00528,
+        "Pterocarpus indicus": 0.0044,
+        "Sapindus saponaria": 0.00418,
+        "Jatropha integerrima": 0.00295,
+        "Annona squamosa": 0.00268,
+        "Croton tiglium": 0.00257,
+        "Cordia sebestena": 0.0023,
+        "Dendrolobium umbellatum": 0.00195,
+        "Ficus variegata": 0.00195,
+        "Nyctanthes arbor-tristis": 0.00169,
+        "Brugmansia candida": 0.00165,
+        "Tabernaemontana alternifolia": 0.00159,
+        "Heynea trijuga": 0.00155,
+        "Neolamarckia cadamba": 0.00153,
+        "Catalpa bignonioides": 0.00137,
+        "Cordia subcordata": 0.00134,
+        "Ficus erecta": 0.00133,
+        "Guazuma ulmifolia": 0.00128,
+        "Ficus geniculata": 0.00114,
+        "Millingtonia hortensis": 0.00111,
+        "Psidium guajava": 0.0011
+      }
+    },
+    "species": {
+      "name": "Holarrhena pubescens",
+      "authorship": "Wall. ex G.Don",
+      "genus_name": "Holarrhena",
+      "family_name": "Apocynaceae",
+      "gbif_id": "3169748",
+      "powo_id": "79318-1",
+      "iucn_id": "33988",
+      "iucn_category": "LC",
+      "common_names": [
+        "Bitter oleander",
+        "Conessi bark",
+        "Tellicherry bark"
       ]
     }
   }

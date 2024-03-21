@@ -1,0 +1,31 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-52-04",
+  "species_name_to_score": {
+    "Ficus benghalensis": 0.01515,
+    "Ficus religiosa": 0.01292,
+    "Diospyros melanoxylon": 0.00984,
+    "Erythrina fusca": 0.0077,
+    "Populus nigra": 0.00674,
+    "Guazuma ulmifolia": 0.0053,
+    "Tectona grandis": 0.00485,
+    "Heritiera littoralis": 0.00479,
+    "Terminalia catappa": 0.00432,
+    "Thespesia populneoides": 0.00431,
+    "Lonicera japonica": 0.00409,
+    "Elaeagnus umbellata": 0.00409,
+    "Terminalia arjuna": 0.00399,
+    "Lawsonia inermis": 0.00287,
+    "Ficus virens": 0.00259,
+    "Citharexylum spinosum": 0.00247,
+    "Ficus racemosa": 0.00201,
+    "Ficus altissima": 0.00169,
+    "Populus alba": 0.00169,
+    "Syzygium cumini": 0.00165,
+    "Phytolacca dioica": 0.00152,
+    "Swietenia mahagoni": 0.00127,
+    "Ficus palmata": 0.00127,
+    "Ceratonia siliqua": 0.00107,
+    "Lagerstroemia speciosa": 0.00103
+  }
+}

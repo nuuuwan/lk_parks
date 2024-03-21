@@ -1,0 +1,24 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-08-15-46",
+  "species_name_to_score": {
+    "Syzygium jambos": 0.02848,
+    "Madhuca longifolia": 0.02612,
+    "Manilkara zapota": 0.01944,
+    "Saurauia napaulensis": 0.0188,
+    "Rhaphiolepis bibas": 0.01808,
+    "Pieris formosa": 0.01226,
+    "Elaeocarpus angustifolius": 0.00674,
+    "Terminalia arjuna": 0.00642,
+    "Cerbera manghas": 0.00421,
+    "Mangifera indica": 0.00339,
+    "Plumeria rubra": 0.00228,
+    "Anisoptera scaphula": 0.00213,
+    "Rhododendron arboreum": 0.00175,
+    "Dillenia indica": 0.00158,
+    "Barringtonia acutangula": 0.00152,
+    "Syzygium cymosum": 0.00151,
+    "Rhododendron delavayi": 0.00134,
+    "Litsea monopetala": 0.00132
+  }
+}

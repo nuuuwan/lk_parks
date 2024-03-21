@@ -1,0 +1,13 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-49-49",
+  "species_name_to_score": {
+    "Areca triandra": 0.05346,
+    "Dendrocalamus giganteus": 0.00522,
+    "Dypsis lutescens": 0.00388,
+    "Flagellaria indica": 0.00248,
+    "Thysanolaena latifolia": 0.00204,
+    "Filicium decipiens": 0.00118,
+    "Elaeis guineensis": 0.00108
+  }
+}

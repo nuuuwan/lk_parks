@@ -1,0 +1,29 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-08-17-10",
+  "species_name_to_score": {
+    "Syzygium jambos": 0.03086,
+    "Prunus persica": 0.02447,
+    "Cerbera odollam": 0.0169,
+    "Rhaphiolepis bibas": 0.00928,
+    "Elaeocarpus angustifolius": 0.00615,
+    "Asclepias curassavica": 0.00577,
+    "Persea americana": 0.00448,
+    "Nerium oleander": 0.00439,
+    "Madhuca longifolia": 0.00326,
+    "Mangifera indica": 0.00298,
+    "Citharexylum spinosum": 0.00292,
+    "Cestrum nocturnum": 0.00254,
+    "Luculia gratissima": 0.00241,
+    "Hamelia patens": 0.00201,
+    "Salix viminalis": 0.00196,
+    "Punica granatum": 0.00169,
+    "Buddleja asiatica": 0.00149,
+    "Helwingia himalaica": 0.00137,
+    "Debregeasia longifolia": 0.00135,
+    "Manilkara zapota": 0.00133,
+    "Mandragora caulescens": 0.00121,
+    "Hygrophila costata": 0.0012,
+    "Aphelandra scabra": 0.00104
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-08-15-03",
+  "species_name_to_score": {
+    "Terminalia arjuna": 0.75693,
+    "Syzygium jambos": 0.01367,
+    "Lagerstroemia parviflora": 0.01185,
+    "Copaifera langsdorffii": 0.00902,
+    "Holarrhena pubescens": 0.00617,
+    "Senna siamea": 0.00523,
+    "Lagerstroemia speciosa": 0.00494,
+    "Psidium guajava": 0.00387,
+    "Toona ciliata": 0.00201,
+    "Ochna integerrima": 0.00162,
+    "Woodfordia fruticosa": 0.00125,
+    "Annona muricata": 0.001
+  }
+}

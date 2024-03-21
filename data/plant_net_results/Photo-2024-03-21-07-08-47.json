@@ -1,0 +1,20 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-08-47",
+  "species_name_to_score": {
+    "Musa acuminata": 0.37956,
+    "Musa paradisiaca": 0.16253,
+    "Musa velutina": 0.09225,
+    "Ravenala madagascariensis": 0.01641,
+    "Ensete superbum": 0.00933,
+    "Musa mannii": 0.00716,
+    "Musa balbisiana": 0.00708,
+    "Musa ornata": 0.00665,
+    "Musa nagensium": 0.00508,
+    "Musa itinerans": 0.00435,
+    "Musa rubra": 0.00416,
+    "Heliconia rostrata": 0.00259,
+    "Asplenium nidus": 0.00114,
+    "Musa coccinea": 0.00112
+  }
+}

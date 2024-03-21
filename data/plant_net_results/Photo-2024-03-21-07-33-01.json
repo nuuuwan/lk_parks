@@ -1,0 +1,15 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-33-01",
+  "species_name_to_score": {
+    "Terminalia catappa": 0.49925,
+    "Tectona grandis": 0.18175,
+    "Careya arborea": 0.00436,
+    "Anacardium occidentale": 0.00281,
+    "Phanera vahlii": 0.00214,
+    "Pterospermum acerifolium": 0.00161,
+    "Diospyros melanoxylon": 0.0014,
+    "Ficus altissima": 0.00107,
+    "Ficus fulva": 0.00105
+  }
+}

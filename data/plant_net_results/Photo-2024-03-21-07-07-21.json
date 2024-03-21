@@ -1,0 +1,15 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-07-21",
+  "species_name_to_score": {
+    "Pongamia pinnata": 0.90315,
+    "Lagerstroemia speciosa": 0.00706,
+    "Morus nigra": 0.00531,
+    "Spathodea campanulata": 0.00342,
+    "Lonchocarpus sericeus": 0.00265,
+    "Morus alba": 0.00128,
+    "Morus indica": 0.00115,
+    "Guazuma ulmifolia": 0.0011,
+    "Theobroma cacao": 0.00105
+  }
+}

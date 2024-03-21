@@ -1,0 +1,31 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-08-10-26",
+  "species_name_to_score": {
+    "Arenga pinnata": 0.07283,
+    "Caryota urens": 0.02911,
+    "Peltophorum pterocarpum": 0.02322,
+    "Caryota mitis": 0.01986,
+    "Dischidia major": 0.01837,
+    "Caryota obtusa": 0.01413,
+    "Peltophorum dubium": 0.01,
+    "Pavetta indica": 0.00965,
+    "Peltophorum africanum": 0.00679,
+    "Cassia grandis": 0.00633,
+    "Baccaurea parviflora": 0.00625,
+    "Dischidia nummularia": 0.00596,
+    "Biancaea sappan": 0.00498,
+    "Delonix regia": 0.00491,
+    "Schizolobium parahyba": 0.00487,
+    "Amorphophallus paeoniifolius": 0.00461,
+    "Elaeocarpus angustifolius": 0.00291,
+    "Baccaurea ramiflora": 0.00268,
+    "Sterculia foetida": 0.00203,
+    "Ficus fistulosa": 0.00173,
+    "Khaya senegalensis": 0.00171,
+    "Dendrobium crumenatum": 0.00153,
+    "Wallichia disticha": 0.00141,
+    "Theobroma cacao": 0.00141,
+    "Erythrina rubrinervia": 0.00101
+  }
+}

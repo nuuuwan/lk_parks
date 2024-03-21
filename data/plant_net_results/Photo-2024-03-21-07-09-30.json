@@ -1,0 +1,28 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-09-30",
+  "species_name_to_score": {
+    "Ficus microcarpa": 0.21034,
+    "Ficus benghalensis": 0.18268,
+    "Ficus religiosa": 0.10838,
+    "Ficus benjamina": 0.10372,
+    "Ficus retusa": 0.02435,
+    "Ficus virens": 0.01255,
+    "Ficus elastica": 0.01158,
+    "Ficus altissima": 0.00989,
+    "Phytolacca dioica": 0.00756,
+    "Cocculus laurifolius": 0.00413,
+    "Albizia lebbeck": 0.00376,
+    "Ficus racemosa": 0.00316,
+    "Hymenaea courbaril": 0.00314,
+    "Ceratonia siliqua": 0.00266,
+    "Planchonella obovata": 0.00264,
+    "Ficus tinctoria": 0.00203,
+    "Ceiba pentandra": 0.00187,
+    "Pterocarpus indicus": 0.00166,
+    "Terminalia arjuna": 0.0015,
+    "Pongamia pinnata": 0.00131,
+    "Haematoxylum campechianum": 0.00104,
+    "Ficus concinna": 0.00103
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-52-19",
+  "species_name_to_score": {
+    "Artocarpus heterophyllus": 0.86405,
+    "Artocarpus integer": 0.00749,
+    "Anacardium occidentale": 0.00455,
+    "Litsea monopetala": 0.0028,
+    "Cordia myxa": 0.00254,
+    "Erythrina fusca": 0.00237,
+    "Ficus altissima": 0.00232,
+    "Ficus benghalensis": 0.00198,
+    "Persea americana": 0.00181,
+    "Ficus virens": 0.00155,
+    "Artocarpus lacucha": 0.00133,
+    "Neolamarckia cadamba": 0.00121
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-08-09",
+  "species_name_to_score": {
+    "Pongamia pinnata": 0.5643,
+    "Pterygota alata": 0.00848,
+    "Aegle marmelos": 0.00829,
+    "Harpullia cupanioides": 0.00662,
+    "Citrus maxima": 0.00636,
+    "Cynometra ramiflora": 0.00599,
+    "Pterocarpus indicus": 0.00534,
+    "Murraya paniculata": 0.00409,
+    "Citrus aurantium": 0.00345,
+    "Sloanea dasycarpa": 0.00337,
+    "Theobroma cacao": 0.00337,
+    "Radermachera sinica": 0.00269,
+    "Bischofia javanica": 0.00261,
+    "Pterocarpus macrocarpus": 0.0024,
+    "Nephelium lappaceum": 0.00234,
+    "Sandoricum koetjape": 0.00204,
+    "Erythrina stricta": 0.0017,
+    "Harpullia arborea": 0.00165,
+    "Strychnos nux-vomica": 0.00153,
+    "Passiflora edulis": 0.00148,
+    "Bignonia magnifica": 0.00142,
+    "Crescentia cujete": 0.00122,
+    "Antidesma montanum": 0.00114,
+    "Erythrina poeppigiana": 0.00111
+  }
+}

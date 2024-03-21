@@ -1,0 +1,32 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-08-11-20",
+  "species_name_to_score": {
+    "Madhuca longifolia": 0.1284,
+    "Cestrum parqui": 0.01582,
+    "Asclepias curassavica": 0.01416,
+    "Mangifera indica": 0.01039,
+    "Vitex agnus-castus": 0.00992,
+    "Syzygium jambos": 0.00885,
+    "Crotalaria juncea": 0.0084,
+    "Cestrum elegans": 0.00777,
+    "Vitex negundo": 0.00524,
+    "Gomphocarpus physocarpus": 0.00383,
+    "Cestrum nocturnum": 0.00342,
+    "Persea americana": 0.00324,
+    "Barleria cristata": 0.00306,
+    "Nerium oleander": 0.00276,
+    "Acer oblongum": 0.00206,
+    "Vernonia gigantea": 0.00186,
+    "Prunus persica": 0.00184,
+    "Citharexylum spinosum": 0.00176,
+    "Pieris formosa": 0.00175,
+    "Quercus acutissima": 0.00157,
+    "Hygrophila polysperma": 0.00151,
+    "Ludwigia perennis": 0.00151,
+    "Tabernaemontana alternifolia": 0.00134,
+    "Prunus amygdalus": 0.00126,
+    "Sapindus saponaria": 0.00124,
+    "Terminalia bellirica": 0.00103
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-08-15-13",
+  "species_name_to_score": {
+    "Syzygium jambos": 0.21271,
+    "Terminalia arjuna": 0.05574,
+    "Ochna integerrima": 0.02541,
+    "Syzygium aqueum": 0.00495,
+    "Psidium guajava": 0.00335,
+    "Lagerstroemia speciosa": 0.00316,
+    "Punica granatum": 0.00285,
+    "Psidium cattleyanum": 0.00278,
+    "Syzygium cumini": 0.00263,
+    "Polyalthia suberosa": 0.00211,
+    "Peltophorum pterocarpum": 0.00146,
+    "Lagerstroemia parviflora": 0.0014,
+    "Ixora chinensis": 0.00106
+  }
+}

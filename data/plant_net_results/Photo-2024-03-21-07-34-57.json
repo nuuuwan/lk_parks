@@ -1,0 +1,15 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-34-57",
+  "species_name_to_score": {
+    "Monoon longifolium": 0.59826,
+    "Saraca asoca": 0.03168,
+    "Mangifera indica": 0.01581,
+    "Sapindus saponaria": 0.00569,
+    "Saraca indica": 0.00419,
+    "Quercus acutissima": 0.00256,
+    "Elaeocarpus angustifolius": 0.00147,
+    "Hopea odorata": 0.00146,
+    "Sapindus mukorossi": 0.00117
+  }
+}

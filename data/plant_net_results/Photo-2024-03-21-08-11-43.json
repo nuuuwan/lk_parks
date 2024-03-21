@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-08-11-43",
+  "species_name_to_score": {
+    "Hymenaea courbaril": 0.05959,
+    "Bombax ceiba": 0.04039,
+    "Ceiba pentandra": 0.03956,
+    "Adansonia digitata": 0.02865,
+    "Khaya senegalensis": 0.01385,
+    "Terminalia arjuna": 0.0042,
+    "Juglans regia": 0.00408,
+    "Ficus racemosa": 0.00368,
+    "Ficus virens": 0.00305,
+    "Hymenaea verrucosa": 0.00289,
+    "Ficus microcarpa": 0.00263,
+    "Acacia mangium": 0.00257,
+    "Albizia niopoides": 0.0021,
+    "Ceiba speciosa": 0.00207,
+    "Sterculia foetida": 0.00176,
+    "Elaeocarpus angustifolius": 0.00156,
+    "Avicennia marina": 0.00156,
+    "Ficus callosa": 0.00124,
+    "Ficus geniculata": 0.00115,
+    "Ipomoea cairica": 0.00108,
+    "Ficus religiosa": 0.00104
+  }
+}

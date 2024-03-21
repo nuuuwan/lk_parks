@@ -1,0 +1,29 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-53-45",
+  "species_name_to_score": {
+    "Artocarpus heterophyllus": 0.25093,
+    "Ficus benghalensis": 0.04007,
+    "Artocarpus lacucha": 0.02345,
+    "Litsea monopetala": 0.02343,
+    "Ficus racemosa": 0.02284,
+    "Terminalia catappa": 0.01779,
+    "Artocarpus integer": 0.00859,
+    "Cordia dichotoma": 0.00716,
+    "Erythrina fusca": 0.00637,
+    "Diospyros melanoxylon": 0.00574,
+    "Tectona grandis": 0.00498,
+    "Nauclea orientalis": 0.00388,
+    "Dipterocarpus alatus": 0.00355,
+    "Ficus altissima": 0.00327,
+    "Heritiera littoralis": 0.00326,
+    "Anacardium occidentale": 0.00294,
+    "Cordia myxa": 0.00255,
+    "Pongamia pinnata": 0.00236,
+    "Terminalia chebula": 0.00131,
+    "Ficus auriculata": 0.00124,
+    "Ficus tinctoria": 0.00118,
+    "Ficus religiosa": 0.0011,
+    "Guettarda speciosa": 0.00107
+  }
+}

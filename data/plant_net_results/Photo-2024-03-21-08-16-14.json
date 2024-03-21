@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-08-16-14",
+  "species_name_to_score": {
+    "Tectona grandis": 0.60953,
+    "Guazuma ulmifolia": 0.02885,
+    "Kleinhovia hospita": 0.01738,
+    "Terminalia catappa": 0.00727,
+    "Pterospermum acerifolium": 0.00514,
+    "Triadica sebifera": 0.00285,
+    "Terminalia arjuna": 0.00237,
+    "Catalpa bignonioides": 0.00233,
+    "Cordia dichotoma": 0.00193,
+    "Luehea candida": 0.00191,
+    "Neolamarckia cadamba": 0.00167,
+    "Careya arborea": 0.00131,
+    "Acer platanoides": 0.00115
+  }
+}

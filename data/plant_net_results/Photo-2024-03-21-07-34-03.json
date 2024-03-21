@@ -1,0 +1,30 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-34-03",
+  "species_name_to_score": {
+    "Bischofia javanica": 0.27583,
+    "Dalbergia latifolia": 0.20615,
+    "Pterocarpus santalinus": 0.02237,
+    "Choerospondias axillaris": 0.01971,
+    "Oroxylum indicum": 0.01233,
+    "Lannea coromandelica": 0.0119,
+    "Toona ciliata": 0.00823,
+    "Cassia fistula": 0.00639,
+    "Chloroxylon swietenia": 0.00425,
+    "Cotinus coggygria": 0.00321,
+    "Ceratonia siliqua": 0.00287,
+    "Mitragyna parvifolia": 0.00285,
+    "Cordia dichotoma": 0.00217,
+    "Copaifera langsdorffii": 0.00209,
+    "Erythrophleum suaveolens": 0.00195,
+    "Cinnamomum camphora": 0.00188,
+    "Pterocarpus indicus": 0.00184,
+    "Strychnos nux-vomica": 0.00174,
+    "Afzelia africana": 0.0017,
+    "Dalbergia melanoxylon": 0.0017,
+    "Litsea monopetala": 0.00165,
+    "Ziziphus mauritiana": 0.00159,
+    "Schotia brachypetala": 0.00146,
+    "Dolichandrone falcata": 0.00131
+  }
+}

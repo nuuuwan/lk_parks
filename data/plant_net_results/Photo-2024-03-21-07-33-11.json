@@ -1,0 +1,24 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-33-11",
+  "species_name_to_score": {
+    "Philodendron hederaceum": 0.13568,
+    "Cynanchum acutum": 0.01002,
+    "Passiflora ligularis": 0.00991,
+    "Ipomoea aquatica": 0.00937,
+    "Xanthosoma sagittifolium": 0.00807,
+    "Rhaphidophora decursiva": 0.0069,
+    "Rhaphidophora pertusa": 0.00286,
+    "Funastrum clausum": 0.00193,
+    "Ipomoea violacea": 0.00189,
+    "Cassytha filiformis": 0.00187,
+    "Ipomoea biflora": 0.0018,
+    "Davallia repens": 0.00171,
+    "Colocasia fallax": 0.00143,
+    "Bulbophyllum umbellatum": 0.00138,
+    "Rhaphidophora korthalsii": 0.00135,
+    "Alocasia cucullata": 0.00124,
+    "Ipomoea carnea": 0.00109,
+    "Ficus religiosa": 0.001
+  }
+}

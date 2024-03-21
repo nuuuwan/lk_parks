@@ -1,0 +1,22 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-34-39",
+  "species_name_to_score": {
+    "Tabernaemontana divaricata": 0.24778,
+    "Coffea arabica": 0.04919,
+    "Quercus glauca": 0.03461,
+    "Ficus retusa": 0.00511,
+    "Osmanthus fragrans": 0.00477,
+    "Morinda citrifolia": 0.00383,
+    "Justicia adhatoda": 0.00262,
+    "Quercus lamellosa": 0.00221,
+    "Rhododendron lanigerum": 0.00181,
+    "Barringtonia acutangula": 0.0016,
+    "Ficus benjamina": 0.00144,
+    "Ficus virens": 0.00135,
+    "Holigarna arnottiana": 0.00116,
+    "Kopsia fruticosa": 0.00104,
+    "Euphorbia leucocephala": 0.00102,
+    "Ficus tinctoria": 0.00101
+  }
+}

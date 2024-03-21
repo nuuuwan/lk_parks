@@ -1,0 +1,18 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-39-43",
+  "species_name_to_score": {
+    "Acacia confusa": 0.04516,
+    "Melaleuca viminalis": 0.01286,
+    "Salix viminalis": 0.00793,
+    "Salix alba": 0.00415,
+    "Olea europaea": 0.0041,
+    "Acacia melanoxylon": 0.00313,
+    "Acacia longifolia": 0.00191,
+    "Salix rosmarinifolia": 0.00175,
+    "Podocarpus neriifolius": 0.00157,
+    "Acacia auriculiformis": 0.00155,
+    "Hydrocotyle sibthorpioides": 0.0014,
+    "Syzygium jambos": 0.00125
+  }
+}

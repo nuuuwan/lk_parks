@@ -1,0 +1,22 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-08-00",
+  "species_name_to_score": {
+    "Jacaranda mimosifolia": 0.11157,
+    "Delonix regia": 0.09378,
+    "Peltophorum pterocarpum": 0.09175,
+    "Peltophorum dubium": 0.09014,
+    "Peltophorum africanum": 0.05674,
+    "Schizolobium parahyba": 0.02949,
+    "Albizia julibrissin": 0.0123,
+    "Filicium decipiens": 0.0087,
+    "Leucaena leucocephala": 0.00654,
+    "Cassia javanica": 0.00374,
+    "Paraserianthes lophantha": 0.00328,
+    "Brownea grandiceps": 0.00205,
+    "Acaciella angustissima": 0.0018,
+    "Biancaea sappan": 0.00168,
+    "Tamarindus indica": 0.00154,
+    "Albizia lebbeck": 0.00124
+  }
+}

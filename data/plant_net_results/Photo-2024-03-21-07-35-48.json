@@ -1,0 +1,12 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-35-48",
+  "species_name_to_score": {
+    "Elaeis guineensis": 0.11948,
+    "Calamus erectus": 0.00619,
+    "Phoenix sylvestris": 0.00268,
+    "Dypsis lutescens": 0.00154,
+    "Arenga pinnata": 0.0014,
+    "Phoenix loureiroi": 0.00102
+  }
+}

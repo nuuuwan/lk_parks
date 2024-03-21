@@ -1,0 +1,23 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-52-34",
+  "species_name_to_score": {
+    "Pterocarpus indicus": 0.55706,
+    "Pterocarpus macrocarpus": 0.01981,
+    "Millingtonia hortensis": 0.01469,
+    "Guazuma ulmifolia": 0.00857,
+    "Swietenia macrophylla": 0.00722,
+    "Gliricidia sepium": 0.0063,
+    "Chukrasia tabularis": 0.00394,
+    "Hydrophylax maritima": 0.00382,
+    "Koelreuteria paniculata": 0.00356,
+    "Spathodea campanulata": 0.00355,
+    "Strychnos nux-vomica": 0.00305,
+    "Pongamia pinnata": 0.00292,
+    "Cassia fistula": 0.00204,
+    "Lonchocarpus sericeus": 0.00201,
+    "Samanea saman": 0.00124,
+    "Acer negundo": 0.00124,
+    "Dalbergia latifolia": 0.001
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-46-34",
+  "species_name_to_score": {
+    "Mangifera indica": 0.61211,
+    "Eucalyptus robusta": 0.00881,
+    "Acacia auriculiformis": 0.00519,
+    "Diospyros blancoi": 0.00243,
+    "Manilkara zapota": 0.00231,
+    "Swietenia macrophylla": 0.00192,
+    "Syzygium jambos": 0.00185,
+    "Mayodendron igneum": 0.00119,
+    "Mimusops elengi": 0.00119,
+    "Sterculia foetida": 0.00115,
+    "Madhuca longifolia": 0.00115,
+    "Persea americana": 0.00107,
+    "Morinda citrifolia": 0.00105,
+    "Ceiba pentandra": 0.00101
+  }
+}

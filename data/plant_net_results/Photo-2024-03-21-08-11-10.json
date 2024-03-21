@@ -1,0 +1,29 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-08-11-10",
+  "species_name_to_score": {
+    "Robinia pseudoacacia": 0.0278,
+    "Celtis caucasica": 0.00681,
+    "Bischofia javanica": 0.00489,
+    "Pterocarpus indicus": 0.00449,
+    "Pyrrosia lanceolata": 0.00422,
+    "Rosa multiflora": 0.00384,
+    "Viscum album": 0.00329,
+    "Broussonetia papyrifera": 0.00271,
+    "Dolichandrone serrulata": 0.00231,
+    "Ehretia dicksonii": 0.00218,
+    "Tipuana tipu": 0.00214,
+    "Juglans regia": 0.00209,
+    "Eucalyptus robusta": 0.00208,
+    "Strychnos nux-vomica": 0.00201,
+    "Cinnamomum camphora": 0.00192,
+    "Loranthus europaeus": 0.00161,
+    "Aegle marmelos": 0.00149,
+    "Ehretia acuminata": 0.0014,
+    "Symplocos paniculata": 0.00139,
+    "Mitragyna parvifolia": 0.00125,
+    "Lyonia villosa": 0.00116,
+    "Chukrasia tabularis": 0.00115,
+    "Erythrina crista-galli": 0.00102
+  }
+}

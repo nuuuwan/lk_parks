@@ -1,0 +1,13 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-33-07",
+  "species_name_to_score": {
+    "Casuarina equisetifolia": 0.38056,
+    "Casuarina glauca": 0.01186,
+    "Tamarix aphylla": 0.00866,
+    "Pinus kesiya": 0.00204,
+    "Eucalyptus robusta": 0.00147,
+    "Cordia dichotoma": 0.00138,
+    "Flemingia strobilifera": 0.0011
+  }
+}

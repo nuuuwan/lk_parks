@@ -1,0 +1,21 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-47-25",
+  "species_name_to_score": {
+    "Peltophorum dubium": 0.21062,
+    "Jacaranda mimosifolia": 0.11068,
+    "Delonix regia": 0.10709,
+    "Peltophorum pterocarpum": 0.07357,
+    "Schizolobium parahyba": 0.03094,
+    "Libidibia coriaria": 0.00847,
+    "Peltophorum africanum": 0.00772,
+    "Falcataria falcata": 0.0052,
+    "Biancaea sappan": 0.00507,
+    "Leucaena leucocephala": 0.00447,
+    "Albizia lebbeck": 0.00291,
+    "Albizia julibrissin": 0.00176,
+    "Senna multijuga": 0.00121,
+    "Acacia dealbata": 0.00118,
+    "Albizia procera": 0.00103
+  }
+}

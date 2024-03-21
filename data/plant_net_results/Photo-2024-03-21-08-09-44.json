@@ -1,0 +1,23 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-08-09-44",
+  "species_name_to_score": {
+    "Dendrobium crumenatum": 0.02174,
+    "Epiphyllum phyllanthus": 0.0101,
+    "Viscum album": 0.00972,
+    "Pyrrosia lingua": 0.00931,
+    "Pleopeltis macrocarpa": 0.00862,
+    "Pyrrosia lanceolata": 0.00814,
+    "Coelogyne nitida": 0.00803,
+    "Cymbidium aloifolium": 0.00412,
+    "Coelogyne pallida": 0.00293,
+    "Cryptostylis arachnites": 0.00259,
+    "Dischidia major": 0.0024,
+    "Toona ciliata": 0.00224,
+    "Peltophorum dubium": 0.00216,
+    "Microsorum punctatum": 0.00207,
+    "Terminalia bellirica": 0.00131,
+    "Polystachya concreta": 0.00121,
+    "Salix alba": 0.00116
+  }
+}

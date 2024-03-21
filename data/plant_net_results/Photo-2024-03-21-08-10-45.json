@@ -1,0 +1,31 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-08-10-45",
+  "species_name_to_score": {
+    "Guazuma ulmifolia": 0.04111,
+    "Triadica sebifera": 0.02286,
+    "Ficus religiosa": 0.00895,
+    "Populus deltoides": 0.00647,
+    "Lonicera japonica": 0.00332,
+    "Luehea candida": 0.00289,
+    "Ziziphus mauritiana": 0.00262,
+    "Haematoxylum campechianum": 0.00215,
+    "Populus tremula": 0.00213,
+    "Ficus virens": 0.00212,
+    "Populus nigra": 0.00205,
+    "Terminalia catappa": 0.00175,
+    "Bridelia tomentosa": 0.00171,
+    "Strychnos nux-vomica": 0.00166,
+    "Neolamarckia cadamba": 0.00166,
+    "Mitragyna parvifolia": 0.00134,
+    "Tordyliopsis brunonis": 0.00119,
+    "Juglans regia": 0.00115,
+    "Cassia fistula": 0.00114,
+    "Carex physodes": 0.00114,
+    "Adina cordifolia": 0.00112,
+    "Tectona grandis": 0.00108,
+    "Bauhinia variegata": 0.00108,
+    "Acer platanoides": 0.00106,
+    "Pterocarpus santalinus": 0.00104
+  }
+}

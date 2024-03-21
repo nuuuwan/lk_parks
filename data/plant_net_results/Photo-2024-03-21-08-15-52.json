@@ -1,0 +1,29 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-08-15-52",
+  "species_name_to_score": {
+    "Terminalia arjuna": 0.47799,
+    "Syzygium jambos": 0.08347,
+    "Polyalthia suberosa": 0.01103,
+    "Carissa carandas": 0.01076,
+    "Lagerstroemia parviflora": 0.00826,
+    "Syzygium aqueum": 0.00542,
+    "Madhuca longifolia": 0.00417,
+    "Diospyros blancoi": 0.00287,
+    "Syzygium samarangense": 0.00285,
+    "Brownea grandiceps": 0.00265,
+    "Syzygium cumini": 0.0023,
+    "Annona reticulata": 0.00219,
+    "Nephelium lappaceum": 0.00202,
+    "Lagerstroemia speciosa": 0.00196,
+    "Saraca asoca": 0.00182,
+    "Psidium guajava": 0.00155,
+    "Copaifera langsdorffii": 0.00149,
+    "Acrostichum aureum": 0.00143,
+    "Dimocarpus longan": 0.0014,
+    "Cassia grandis": 0.00126,
+    "Schotia brachypetala": 0.00121,
+    "Ochna integerrima": 0.00121,
+    "Senna siamea": 0.00108
+  }
+}

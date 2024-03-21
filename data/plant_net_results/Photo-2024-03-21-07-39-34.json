@@ -1,0 +1,10 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-39-34",
+  "species_name_to_score": {
+    "Podocarpus neriifolius": 0.00574,
+    "Melaleuca viminalis": 0.00375,
+    "Nerium oleander": 0.00294,
+    "Cascabela thevetia": 0.00109
+  }
+}

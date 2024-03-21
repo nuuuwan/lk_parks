@@ -1,0 +1,26 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-46-24",
+  "species_name_to_score": {
+    "Tectona grandis": 0.21824,
+    "Terminalia catappa": 0.09647,
+    "Sterculia foetida": 0.01792,
+    "Artocarpus lacucha": 0.01408,
+    "Pterospermum acerifolium": 0.01186,
+    "Diospyros blancoi": 0.00579,
+    "Terminalia bellirica": 0.00559,
+    "Neolamarckia cadamba": 0.0038,
+    "Diospyros melanoxylon": 0.00353,
+    "Phanera vahlii": 0.00296,
+    "Dillenia pentagyna": 0.00242,
+    "Artocarpus heterophyllus": 0.00227,
+    "Dipterocarpus alatus": 0.00211,
+    "Madhuca longifolia": 0.00188,
+    "Ficus altissima": 0.00188,
+    "Couroupita guianensis": 0.00137,
+    "Bombax ceiba": 0.00126,
+    "Canarium strictum": 0.00122,
+    "Smilax zeylanica": 0.00103,
+    "Garcinia mangostana": 0.00102
+  }
+}

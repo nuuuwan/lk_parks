@@ -1,0 +1,23 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-08-10-57",
+  "species_name_to_score": {
+    "Manilkara zapota": 0.05292,
+    "Saurauia napaulensis": 0.04273,
+    "Terminalia arjuna": 0.02378,
+    "Madhuca longifolia": 0.01135,
+    "Cerbera manghas": 0.00901,
+    "Dillenia indica": 0.00606,
+    "Mangifera indica": 0.00566,
+    "Rhaphiolepis bibas": 0.00513,
+    "Syzygium jambos": 0.00413,
+    "Anisoptera scaphula": 0.0033,
+    "Annona reticulata": 0.00275,
+    "Planchonella grandifolia": 0.00138,
+    "Alstonia macrophylla": 0.00127,
+    "Annona muricata": 0.00119,
+    "Acacia melanoxylon": 0.00117,
+    "Barringtonia acutangula": 0.00114,
+    "Dipterocarpus alatus": 0.00101
+  }
+}

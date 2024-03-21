@@ -1,0 +1,31 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-08-16-29",
+  "species_name_to_score": {
+    "Toona ciliata": 0.02168,
+    "Swietenia mahagoni": 0.01639,
+    "Hymenaea courbaril": 0.01134,
+    "Terminalia arjuna": 0.00725,
+    "Ficus racemosa": 0.00717,
+    "Dalbergia latifolia": 0.00601,
+    "Albizia procera": 0.00483,
+    "Ficus geniculata": 0.00475,
+    "Khaya senegalensis": 0.00459,
+    "Elaeocarpus angustifolius": 0.00421,
+    "Eucalyptus saligna": 0.00355,
+    "Libidibia ferrea": 0.00338,
+    "Corymbia citriodora": 0.00321,
+    "Swietenia macrophylla": 0.00314,
+    "Schizolobium parahyba": 0.00247,
+    "Harpullia cupanioides": 0.00237,
+    "Hymenaea verrucosa": 0.00213,
+    "Corymbia maculata": 0.00177,
+    "Cedrela odorata": 0.00173,
+    "Eucalyptus botryoides": 0.00145,
+    "Eucalyptus camaldulensis": 0.00141,
+    "Firmiana colorata": 0.0013,
+    "Ceiba pentandra": 0.0013,
+    "Cassia grandis": 0.00124,
+    "Ficus microcarpa": 0.00123
+  }
+}

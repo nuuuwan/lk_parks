@@ -1,0 +1,17 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-09-26",
+  "species_name_to_score": {
+    "Mangifera indica": 0.60039,
+    "Monoon longifolium": 0.10365,
+    "Madhuca longifolia": 0.00728,
+    "Cerbera manghas": 0.00318,
+    "Couroupita guianensis": 0.00301,
+    "Mangifera zeylanica": 0.00161,
+    "Crescentia cujete": 0.00146,
+    "Plumeria alba": 0.00145,
+    "Alstonia macrophylla": 0.00137,
+    "Magnolia champaca": 0.00124,
+    "Bouea oppositifolia": 0.00106
+  }
+}

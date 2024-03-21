@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-34-25",
+  "species_name_to_score": {
+    "Mangifera indica": 0.81676,
+    "Madhuca longifolia": 0.00973,
+    "Alstonia macrophylla": 0.00749,
+    "Elaeocarpus angustifolius": 0.00366,
+    "Saraca asoca": 0.00121,
+    "Manilkara zapota": 0.00114,
+    "Bouea oppositifolia": 0.00112,
+    "Cerbera manghas": 0.00105
+  }
+}

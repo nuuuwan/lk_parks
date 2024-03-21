@@ -1,0 +1,33 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-51-19",
+  "species_name_to_score": {
+    "Pterocarpus indicus": 0.33848,
+    "Strychnos nux-vomica": 0.15314,
+    "Lagerstroemia speciosa": 0.0925,
+    "Aegle marmelos": 0.07664,
+    "Spathodea campanulata": 0.01887,
+    "Terminalia chebula": 0.01312,
+    "Flacourtia jangomas": 0.00857,
+    "Lagerstroemia parviflora": 0.00811,
+    "Syzygium cumini": 0.00793,
+    "Vitex pinnata": 0.00712,
+    "Cassia fistula": 0.00684,
+    "Ficus racemosa": 0.00525,
+    "Dalbergia latifolia": 0.00353,
+    "Bombax ceiba": 0.00332,
+    "Juglans regia": 0.00246,
+    "Afzelia africana": 0.00236,
+    "Luehea candida": 0.00234,
+    "Neolamarckia cadamba": 0.00215,
+    "Eugenia uniflora": 0.00202,
+    "Holarrhena pubescens": 0.00195,
+    "Dipterocarpus alatus": 0.00187,
+    "Erythrina corallodendron": 0.00185,
+    "Strychnos potatorum": 0.00185,
+    "Bischofia javanica": 0.0016,
+    "Tectona grandis": 0.00158,
+    "Ehretia acuminata": 0.00108,
+    "Citharexylum spinosum": 0.00101
+  }
+}

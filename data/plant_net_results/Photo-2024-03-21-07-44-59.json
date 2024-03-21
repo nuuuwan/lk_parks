@@ -1,0 +1,24 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-07-44-59",
+  "species_name_to_score": {
+    "Alstonia macrophylla": 0.14918,
+    "Cerbera manghas": 0.14522,
+    "Cerbera odollam": 0.13266,
+    "Madhuca longifolia": 0.01222,
+    "Mangifera indica": 0.0089,
+    "Crescentia cujete": 0.006,
+    "Artocarpus heterophyllus": 0.00596,
+    "Plumeria alba": 0.00289,
+    "Holigarna arnottiana": 0.00266,
+    "Ficus callosa": 0.00262,
+    "Barringtonia acutangula": 0.00254,
+    "Syzygium jambos": 0.00209,
+    "Plumeria rubra": 0.00207,
+    "Barringtonia asiatica": 0.00207,
+    "Ficus hispida": 0.00167,
+    "Terminalia catappa": 0.00156,
+    "Hevea brasiliensis": 0.00123,
+    "Manilkara zapota": 0.00113
+  }
+}

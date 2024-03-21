@@ -1,0 +1,33 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-21-08-14-17",
+  "species_name_to_score": {
+    "Diospyros malabarica": 0.26978,
+    "Dimocarpus longan": 0.04449,
+    "Diospyros blancoi": 0.03025,
+    "Saraca asoca": 0.01852,
+    "Hopea odorata": 0.01805,
+    "Polyalthia suberosa": 0.01452,
+    "Mesua ferrea": 0.01227,
+    "Saraca indica": 0.0103,
+    "Artabotrys hexapetalus": 0.00979,
+    "Monoon longifolium": 0.00738,
+    "Garcinia xanthochymus": 0.00514,
+    "Brownea grandiceps": 0.00505,
+    "Cassia grandis": 0.005,
+    "Cedrela odorata": 0.00428,
+    "Spondias dulcis": 0.00393,
+    "Amherstia nobilis": 0.00291,
+    "Mangifera indica": 0.00288,
+    "Terminalia arjuna": 0.00245,
+    "Litchi chinensis": 0.00228,
+    "Annona muricata": 0.00204,
+    "Diospyros nigra": 0.00159,
+    "Sapindus mukorossi": 0.00142,
+    "Muntingia calabura": 0.00134,
+    "Cassia fistula": 0.00126,
+    "Khaya senegalensis": 0.00122,
+    "Senna siamea": 0.00105,
+    "Cassia javanica": 0.00102
+  }
+}
