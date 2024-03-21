@@ -129,14 +129,13 @@ class TaxonomyReport:
             TaxonomyReport.get_key_species
         )
         N_DISPLAY = 9
-        lines = []
+        image_lines = []
         for key, data_list in key_and_data_list[:N_DISPLAY]:
             image_path = data_list[0].image_path
             image_path_unix = image_path.replace('\\', '/')
-            lines.append(
+            image_lines.append(
                 Markdown.image_html(
                     key,image_path_unix,200
                 )
             )
-        lines.append('')
-        return lines
+        return [''.join(image_lines), '']

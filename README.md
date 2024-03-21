@@ -1,6 +1,6 @@
 # Plants of Vihaaramahadevi Park :sri_lanka:
 
-*This analysis was automatically generated on  **Mar 21, 2024 (03:50 PM)**, and is based on  **883** plant photos.*
+*This analysis was automatically generated on  **Mar 21, 2024 (03:52 PM)**, and is based on  **883** plant photos.*
 
 Results can be directly inspected using [this app](https://nuuuwan.github.io/plants)
 
@@ -12,15 +12,7 @@ Viharamahadevi Park (Sinhala: විහාරමහාදේවී උද්‍�
 
 Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wikipedia.org/wiki/Vegetation) of 14.39ha (59% from the total area). The estimated crown cover 12.25ha (50%). [[Madurapperuma et al](https://www.researchgate.net/publication/282250239_CrownTree_cover_of_Viharamahadevi_Park_Colombo)]
 
-<img src="data/images/Photo-2024-02-22-07-16-55.jpg" alt="Mesua ferrea" width=200 />
-<img src="data/images/Photo-2024-03-08-06-44-01.jpg" alt="Terminalia arjuna" width=200 />
-<img src="data/images/Photo-2024-03-08-06-55-31.jpg" alt="Mangifera indica" width=200 />
-<img src="data/images/Photo-2024-03-08-07-09-59.jpg" alt="Cassia fistula" width=200 />
-<img src="data/images/Photo-2024-03-10-07-57-51.jpg" alt="Peltophorum pterocarpum" width=200 />
-<img src="data/images/Photo-2024-03-08-06-58-01.jpg" alt="Tectona grandis" width=200 />
-<img src="data/images/Photo-2024-03-10-06-45-27.jpg" alt="Pongamia pinnata" width=200 />
-<img src="data/images/Photo-2023-12-08-07-12-17.jpg" alt="Tecoma stans" width=200 />
-<img src="data/images/Photo-2024-03-08-06-55-11.jpg" alt="Artocarpus heterophyllus" width=200 />
+<img src="data/images/Photo-2024-02-22-07-16-55.jpg" alt="Mesua ferrea" width=200 /><img src="data/images/Photo-2024-03-08-06-44-01.jpg" alt="Terminalia arjuna" width=200 /><img src="data/images/Photo-2024-03-08-06-55-31.jpg" alt="Mangifera indica" width=200 /><img src="data/images/Photo-2024-03-08-07-09-59.jpg" alt="Cassia fistula" width=200 /><img src="data/images/Photo-2024-03-10-07-57-51.jpg" alt="Peltophorum pterocarpum" width=200 /><img src="data/images/Photo-2024-03-08-06-58-01.jpg" alt="Tectona grandis" width=200 /><img src="data/images/Photo-2024-03-10-06-45-27.jpg" alt="Pongamia pinnata" width=200 /><img src="data/images/Photo-2023-12-08-07-12-17.jpg" alt="Tecoma stans" width=200 /><img src="data/images/Photo-2024-03-08-06-55-11.jpg" alt="Artocarpus heterophyllus" width=200 />
 
 ## Summary Statistics
 
