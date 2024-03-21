@@ -55,7 +55,7 @@ class ViharamahadeviParkReport(
             'Results can be directly inspected using '
             + Markdown.link('this app', 'https://nuuuwan.github.io/plants'),
             '',
-            Markdown.image('App', 'image.app.png'),
+            Markdown.image('App', 'images/app.png'),
             '',
         ]
 

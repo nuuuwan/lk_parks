@@ -76,7 +76,7 @@ class IdentificationReport:
         plt.tight_layout()
 
         chart_image_path = os.path.join(
-            'charts', 'identification_score.species.png'
+            'images', 'identification_score.species.png'
         )
         plt.savefig(chart_image_path)
         log.info(f'Wrote {chart_image_path}')
