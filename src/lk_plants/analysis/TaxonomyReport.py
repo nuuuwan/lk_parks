@@ -118,10 +118,9 @@ class TaxonomyReport:
 
     @cached_property
     def lines_analysis_species(self):
-
-
-        return self.get_lines_analysis_by_key('Species', TaxonomyReport.get_key_species)
-
+        return self.get_lines_analysis_by_key(
+            'Species', TaxonomyReport.get_key_species
+        )
 
     @cached_property
     def lines_most_common_species(self):
@@ -131,11 +130,16 @@ class TaxonomyReport:
         N_DISPLAY = 9
         image_lines = []
         for key, data_list in key_and_data_list[:N_DISPLAY]:
+            data_list.sort(
+                key=lambda x: list(
+                    PlantNetResult.from_plant_photo(
+                        x
+                    ).species_name_to_score.items()
+                )[0][1],
+                reverse=True,
+            )
+
             image_path = data_list[0].image_path
             image_path_unix = image_path.replace('\\', '/')
-            image_lines.append(
-                Markdown.image_html(
-                    key,image_path_unix,200
-                )
-            )
+            image_lines.append(Markdown.image_html(key, image_path_unix, 320))
         return [''.join(image_lines), '']

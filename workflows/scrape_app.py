@@ -1,5 +1,6 @@
 import os
 import time
+
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from utils import Log
@@ -8,7 +9,6 @@ log = Log('scrape_app')
 
 
 def main():
-    
     options = Options()
     options.add_argument('--headless')
     driver = webdriver.Firefox(options=options)
@@ -17,7 +17,7 @@ def main():
     driver.set_window_size(width, height)
 
     eppId = 'Photo-2024-03-08-07-14-47'
-    URL = 'https://nuuuwan.github.io/plants/'+f'?activeEPPId={eppId}'
+    URL = 'https://nuuuwan.github.io/plants/' + f'?activeEPPId={eppId}'
     driver.get(URL)
     time.sleep(3)
 

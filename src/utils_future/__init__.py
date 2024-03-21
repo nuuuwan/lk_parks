@@ -47,7 +47,6 @@ class Markdown:
     @staticmethod
     def image(alt, url):
         return f'![{alt}]({url})'
-    
 
     @staticmethod
     def image_html(alt, url, width):
