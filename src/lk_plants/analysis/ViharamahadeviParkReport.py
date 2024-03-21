@@ -96,7 +96,8 @@ class ViharamahadeviParkReport(
             + "through photographs and based on machine learning.",
             "",
             Markdown.italic(
-                "We only consider results where the model's "+"identification confidence is "
+                "We only consider results where the model's "
+                + "identification confidence is "
                 + Markdown.bold(
                     f"≥ {ViharamahadeviParkReport.MIN_CONFIDENCE:.0%}."
                 )
@@ -126,11 +127,12 @@ class ViharamahadeviParkReport(
                 '## Summary Statistics',
                 '',
             ]
-                        + self.lines_analysis_species
-            + self.lines_analysis_genera
-+ self.lines_analysis_families
+                       + self.lines_most_common_species
+            + self.lines_analysis_species
             
-            + self.lines_most_common_species
+            + self.lines_analysis_genera
+            + self.lines_analysis_families
+ 
             + self.lines_identification_score
         )
 

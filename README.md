@@ -24,6 +24,8 @@ Results can be directly inspected using our [Plants](https://nuuuwan.github.io/p
 
 ## Summary Statistics
 
+<img src="data/images/Photo-2024-03-11-07-03-27.jpg" alt="Mesua ferrea" width="33%" style= /><img src="data/images/Photo-2024-03-21-07-08-12.jpg" alt="Terminalia arjuna" width="33%" style= /><img src="data/images/Photo-2024-03-21-08-12-16.jpg" alt="Mangifera indica" width="33%" style= /><img src="data/images/Photo-2024-03-11-06-40-57.jpg" alt="Tecoma stans" width="33%" style= /><img src="data/images/Photo-2024-03-19-07-18-25.jpg" alt="Tectona grandis" width="33%" style= /><img src="data/images/Photo-2024-03-11-06-27-36.jpg" alt="Tabernaemontana divaricata" width="33%" style= /><img src="data/images/Photo-2024-03-08-07-07-47.jpg" alt="Artocarpus heterophyllus" width="33%" style= /><img src="data/images/Photo-2024-03-11-06-36-36.jpg" alt="Terminalia catappa" width="33%" style= /><img src="data/images/Photo-2024-03-08-07-09-59.jpg" alt="Cassia fistula" width="33%" style= /><img src="data/images/Photo-2024-03-21-08-10-07.jpg" alt="Pongamia pinnata" width="33%" style= />
+
 ### Species
 
 **150** unique Species.
@@ -77,8 +79,6 @@ Results can be directly inspected using our [Plants](https://nuuuwan.github.io/p
 | 9 | [*Lamiaceae*](https://en.wikipedia.org/wiki/Lamiaceae) | 17 | 3.4% |
 | 10 | [*Myrtaceae*](https://en.wikipedia.org/wiki/Myrtaceae) | 16 | 3.2% |
 |  | *(All Others)* | 88 | 17.8% |
-
-<img src="data/images/Photo-2024-03-11-07-03-27.jpg" alt="Mesua ferrea" width="33%" style= /><img src="data/images/Photo-2024-03-21-07-08-12.jpg" alt="Terminalia arjuna" width="33%" style= /><img src="data/images/Photo-2024-03-21-08-12-16.jpg" alt="Mangifera indica" width="33%" style= /><img src="data/images/Photo-2024-03-11-06-40-57.jpg" alt="Tecoma stans" width="33%" style= /><img src="data/images/Photo-2024-03-19-07-18-25.jpg" alt="Tectona grandis" width="33%" style= /><img src="data/images/Photo-2024-03-11-06-27-36.jpg" alt="Tabernaemontana divaricata" width="33%" style= /><img src="data/images/Photo-2024-03-08-07-07-47.jpg" alt="Artocarpus heterophyllus" width="33%" style= /><img src="data/images/Photo-2024-03-11-06-36-36.jpg" alt="Terminalia catappa" width="33%" style= /><img src="data/images/Photo-2024-03-08-07-09-59.jpg" alt="Cassia fistula" width="33%" style= /><img src="data/images/Photo-2024-03-21-08-10-07.jpg" alt="Pongamia pinnata" width="33%" style= />
 
 ## Identification Confidence
 
