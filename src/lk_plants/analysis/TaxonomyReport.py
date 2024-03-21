@@ -141,5 +141,5 @@ class TaxonomyReport:
 
             image_path = data_list[0].image_path
             image_path_unix = image_path.replace('\\', '/')
-            image_lines.append(Markdown.image_html(key, image_path_unix, 240))
+            image_lines.append(Markdown.image_html(key, image_path_unix, "33%"))
         return [''.join(image_lines), '']

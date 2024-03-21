@@ -1,6 +1,6 @@
 # Plants of Vihaaramahadevi Park :sri_lanka:
 
-*This analysis was automatically generated on  **Mar 21, 2024 (03:59 PM)**, and is based on  **883** plant photos.*
+*This analysis was automatically generated on  **Mar 21, 2024 (04:19 PM)**, and is based on  **883** plant photos.*
 
 Results can be directly inspected using [this app](https://nuuuwan.github.io/plants)
 
@@ -68,7 +68,7 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 | 10 | [*Ficus religiosa*](https://en.wikipedia.org/wiki/Ficus_religiosa) | 16 | 1.8% |
 |  | *(All Others)* | 514 | 58.2% |
 
-<img src="data/images/Photo-2024-03-11-07-03-27.jpg" alt="Mesua ferrea" width="240" /><img src="data/images/Photo-2024-03-21-07-08-12.jpg" alt="Terminalia arjuna" width="240" /><img src="data/images/Photo-2024-03-21-08-12-16.jpg" alt="Mangifera indica" width="240" /><img src="data/images/Photo-2024-03-08-07-09-59.jpg" alt="Cassia fistula" width="240" /><img src="data/images/Photo-2024-03-17-08-17-54.jpg" alt="Peltophorum pterocarpum" width="240" /><img src="data/images/Photo-2024-03-19-07-18-25.jpg" alt="Tectona grandis" width="240" /><img src="data/images/Photo-2024-03-21-08-10-07.jpg" alt="Pongamia pinnata" width="240" /><img src="data/images/Photo-2024-03-11-06-40-57.jpg" alt="Tecoma stans" width="240" /><img src="data/images/Photo-2024-03-08-07-07-47.jpg" alt="Artocarpus heterophyllus" width="240" />
+<img src="data/images/Photo-2024-03-11-07-03-27.jpg" alt="Mesua ferrea" width="33%" /><img src="data/images/Photo-2024-03-21-07-08-12.jpg" alt="Terminalia arjuna" width="33%" /><img src="data/images/Photo-2024-03-21-08-12-16.jpg" alt="Mangifera indica" width="33%" /><img src="data/images/Photo-2024-03-08-07-09-59.jpg" alt="Cassia fistula" width="33%" /><img src="data/images/Photo-2024-03-17-08-17-54.jpg" alt="Peltophorum pterocarpum" width="33%" /><img src="data/images/Photo-2024-03-19-07-18-25.jpg" alt="Tectona grandis" width="33%" /><img src="data/images/Photo-2024-03-21-08-10-07.jpg" alt="Pongamia pinnata" width="33%" /><img src="data/images/Photo-2024-03-11-06-40-57.jpg" alt="Tecoma stans" width="33%" /><img src="data/images/Photo-2024-03-08-07-07-47.jpg" alt="Artocarpus heterophyllus" width="33%" />
 
 ## Identification Confidence
 
