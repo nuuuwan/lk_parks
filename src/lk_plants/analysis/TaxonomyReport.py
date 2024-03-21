@@ -125,7 +125,7 @@ class TaxonomyReport:
     @cached_property
     def lines_most_common_species(self):
         key_and_data_list = self.get_sorted_key_and_data_list(
-            TaxonomyReport.get_key_species
+            TaxonomyReport.get_key_speciess
         )
         image_lines = []
         for key, data_list in key_and_data_list[:TaxonomyReport.N_DISPLAY]:
@@ -140,5 +140,5 @@ class TaxonomyReport:
 
             image_path = data_list[0].image_path
             image_path_unix = image_path.replace('\\', '/')
-            image_lines.append(Markdown.image_html(key, image_path_unix, "33%"))
+            image_lines.append(Markdown.image_html(key, image_path_unix, "50%"))
         return [''.join(image_lines), '']
