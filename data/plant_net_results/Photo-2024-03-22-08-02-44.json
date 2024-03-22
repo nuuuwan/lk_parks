@@ -1,0 +1,33 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-22-08-02-44",
+  "species_name_to_score": {
+    "Ficus altissima": 0.03506,
+    "Madhuca longifolia": 0.0165,
+    "Ficus callosa": 0.01402,
+    "Neolamarckia cadamba": 0.01214,
+    "Ficus racemosa": 0.01127,
+    "Ficus geniculata": 0.0087,
+    "Phytolacca dioica": 0.00767,
+    "Ficus virens": 0.0057,
+    "Syncarpia glomulifera": 0.00484,
+    "Eucalyptus robusta": 0.00478,
+    "Swietenia macrophylla": 0.00336,
+    "Dipterocarpus alatus": 0.00288,
+    "Ficus caulocarpa": 0.00263,
+    "Mangifera indica": 0.00235,
+    "Anacardium occidentale": 0.00234,
+    "Barringtonia acutangula": 0.00232,
+    "Couroupita guianensis": 0.00219,
+    "Terminalia chebula": 0.00212,
+    "Terminalia arjuna": 0.00191,
+    "Ficus lacor": 0.00187,
+    "Dillenia indica": 0.00179,
+    "Alstonia macrophylla": 0.00162,
+    "Spondias mombin": 0.00159,
+    "Persea americana": 0.00154,
+    "Artocarpus integer": 0.00126,
+    "Ceodes grandis": 0.00108,
+    "Syzygium cumini": 0.00101
+  }
+}

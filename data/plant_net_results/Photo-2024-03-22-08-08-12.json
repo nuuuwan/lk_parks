@@ -1,0 +1,29 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-22-08-08-12",
+  "species_name_to_score": {
+    "Schizolobium parahyba": 0.61513,
+    "Jacaranda mimosifolia": 0.05421,
+    "Delonix regia": 0.05065,
+    "Peltophorum pterocarpum": 0.01439,
+    "Peltophorum dubium": 0.01396,
+    "Falcataria falcata": 0.00922,
+    "Leucaena leucocephala": 0.00677,
+    "Libidibia ferrea": 0.00404,
+    "Caesalpinia pulcherrima": 0.00348,
+    "Ailanthus altissima": 0.0025,
+    "Firmiana colorata": 0.00193,
+    "Ailanthus triphysa": 0.00185,
+    "Albizia julibrissin": 0.00184,
+    "Moringa oleifera": 0.00173,
+    "Erythrina rubrinervia": 0.00162,
+    "Senna multijuga": 0.0016,
+    "Cassia fistula": 0.00136,
+    "Neolamarckia cadamba": 0.00132,
+    "Tectona grandis": 0.00128,
+    "Cassia grandis": 0.00124,
+    "Melia azedarach": 0.00122,
+    "Acacia dealbata": 0.0011,
+    "Samanea saman": 0.00104
+  }
+}

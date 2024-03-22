@@ -1,0 +1,25 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-22-08-05-10",
+  "species_name_to_score": {
+    "Durio zibethinus": 0.01597,
+    "Khaya senegalensis": 0.01174,
+    "Acacia melanoxylon": 0.011,
+    "Eucalyptus tereticornis": 0.00746,
+    "Acacia mangium": 0.00297,
+    "Syzygium cumini": 0.00269,
+    "Terminalia arjuna": 0.00261,
+    "Santalum album": 0.00255,
+    "Viscum album": 0.00247,
+    "Eucalyptus robusta": 0.00247,
+    "Avicennia marina": 0.00233,
+    "Acacia auriculiformis": 0.00222,
+    "Acacia salicina": 0.00195,
+    "Salix acmophylla": 0.0018,
+    "Anisoptera scaphula": 0.00165,
+    "Toona ciliata": 0.00161,
+    "Ficus virens": 0.00144,
+    "Schizolobium parahyba": 0.00135,
+    "Corymbia citriodora": 0.00133
+  }
+}

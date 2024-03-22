@@ -1,0 +1,23 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-22-08-04-08",
+  "species_name_to_score": {
+    "Prunus avium": 0.0121,
+    "Prunus persica": 0.00995,
+    "Elaeocarpus floribundus": 0.00483,
+    "Acacia melanoxylon": 0.00459,
+    "Quercus acutissima": 0.00449,
+    "Sterculia foetida": 0.00447,
+    "Prunus cerasus": 0.00412,
+    "Fraxinus angustifolia": 0.00356,
+    "Ceiba pentandra": 0.00303,
+    "Prunus napaulensis": 0.00275,
+    "Durio zibethinus": 0.00263,
+    "Prunus cerasifera": 0.00217,
+    "Grevillea robusta": 0.00194,
+    "Crataegus songarica": 0.00194,
+    "Dillenia indica": 0.00139,
+    "Madhuca longifolia": 0.0011,
+    "Gleditsia triacanthos": 0.00101
+  }
+}

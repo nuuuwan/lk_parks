@@ -1,0 +1,22 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-22-08-05-36",
+  "species_name_to_score": {
+    "Peltophorum pterocarpum": 0.54872,
+    "Libidibia coriaria": 0.04338,
+    "Peltophorum dubium": 0.03558,
+    "Libidibia ferrea": 0.01918,
+    "Samanea saman": 0.0182,
+    "Jacaranda mimosifolia": 0.01372,
+    "Tamarindus indica": 0.00997,
+    "Peltophorum africanum": 0.00757,
+    "Cassia grandis": 0.00387,
+    "Leucaena leucocephala": 0.00269,
+    "Tipuana tipu": 0.00223,
+    "Pterocarpus indicus": 0.00214,
+    "Grevillea robusta": 0.00184,
+    "Falcataria falcata": 0.00168,
+    "Albizia lebbeck": 0.00144,
+    "Senna siamea": 0.00102
+  }
+}

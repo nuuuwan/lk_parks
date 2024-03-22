@@ -1,0 +1,10 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-22-08-07-19",
+  "species_name_to_score": {
+    "Calophyllum inophyllum": 0.86343,
+    "Calophyllum calaba": 0.05991,
+    "Barringtonia asiatica": 0.00645,
+    "Anacardium occidentale": 0.00101
+  }
+}

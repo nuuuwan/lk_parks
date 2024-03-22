@@ -1,0 +1,13 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-22-08-07-24",
+  "species_name_to_score": {
+    "Terminalia catappa": 0.90513,
+    "Anacardium occidentale": 0.01092,
+    "Tectona grandis": 0.00595,
+    "Barringtonia asiatica": 0.00124,
+    "Ceodes umbellifera": 0.0012,
+    "Barringtonia acutangula": 0.00116,
+    "Barringtonia racemosa": 0.00105
+  }
+}

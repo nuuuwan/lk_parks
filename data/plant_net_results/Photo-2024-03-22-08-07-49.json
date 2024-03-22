@@ -1,0 +1,17 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-22-08-07-49",
+  "species_name_to_score": {
+    "Justicia gendarussa": 0.72503,
+    "Syzygium jambos": 0.00667,
+    "Cestrum parqui": 0.00667,
+    "Thysanolaena latifolia": 0.00654,
+    "Daphne bholua": 0.00408,
+    "Debregeasia longifolia": 0.00298,
+    "Clinacanthus nutans": 0.00248,
+    "Ruellia simplex": 0.00233,
+    "Garcinia indica": 0.00162,
+    "Syzygium aqueum": 0.00107,
+    "Croton bonplandianus": 0.00105
+  }
+}

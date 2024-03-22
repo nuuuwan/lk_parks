@@ -1,0 +1,30 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-22-08-08-52",
+  "species_name_to_score": {
+    "Thespesia populneoides": 0.08017,
+    "Vernicia fordii": 0.02304,
+    "Thespesia populnea": 0.01904,
+    "Macaranga peltata": 0.00952,
+    "Hibiscus tiliaceus": 0.00942,
+    "Tectona grandis": 0.00681,
+    "Broussonetia papyrifera": 0.00661,
+    "Ficus auriculata": 0.00589,
+    "Mallotus barbatus": 0.00528,
+    "Firmiana simplex": 0.00487,
+    "Ficus religiosa": 0.00361,
+    "Gyrocarpus americanus": 0.00222,
+    "Pandanus tectorius": 0.00219,
+    "Bauhinia monandra": 0.00192,
+    "Adansonia digitata": 0.00179,
+    "Holarrhena pubescens": 0.00175,
+    "Abutilon grandifolium": 0.00175,
+    "Paulownia tomentosa": 0.00152,
+    "Dombeya burgessiae": 0.00145,
+    "Hevea brasiliensis": 0.00117,
+    "Firmiana colorata": 0.00114,
+    "Kleinhovia hospita": 0.00114,
+    "Sterculia foetida": 0.00108,
+    "Xanthosoma sagittifolium": 0.00102
+  }
+}

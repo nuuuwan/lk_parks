@@ -1,0 +1,30 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-22-08-10-23",
+  "species_name_to_score": {
+    "Asystasia gangetica": 0.4669,
+    "Xenostegia tridentata": 0.01753,
+    "Oenothera laciniata": 0.0068,
+    "Axonopus fissifolius": 0.0047,
+    "Ipomoea imperati": 0.00461,
+    "Evolvulus nummularius": 0.00425,
+    "Ipomoea alba": 0.00369,
+    "Tamilnadia uliginosa": 0.00337,
+    "Aniseia martinicensis": 0.00311,
+    "Dentella repens": 0.00213,
+    "Lindernia dubia": 0.00189,
+    "Oenothera tetraptera": 0.00167,
+    "Saxifraga hypnoides": 0.00161,
+    "Axonopus compressus": 0.00148,
+    "Ludwigia octovalvis": 0.00146,
+    "Bacopa monnieri": 0.00145,
+    "Oenothera rosea": 0.00145,
+    "Operculina turpethum": 0.00136,
+    "Ruellia ciliatiflora": 0.00135,
+    "Paspalum conjugatum": 0.00128,
+    "Oenothera affinis": 0.00113,
+    "Gomphrena serrata": 0.00112,
+    "Mazus pumilus": 0.00111,
+    "Cobaea scandens": 0.00101
+  }
+}

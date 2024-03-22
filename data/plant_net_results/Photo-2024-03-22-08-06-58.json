@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-22-08-06-58",
+  "species_name_to_score": {
+    "Tectona grandis": 0.55168,
+    "Anacardium occidentale": 0.0624,
+    "Terminalia catappa": 0.03985,
+    "Ficus altissima": 0.00856,
+    "Madhuca longifolia": 0.00779,
+    "Terminalia bellirica": 0.00665,
+    "Dillenia pentagyna": 0.00475,
+    "Nauclea orientalis": 0.00453,
+    "Ficus benghalensis": 0.00212,
+    "Couroupita guianensis": 0.00204
+  }
+}

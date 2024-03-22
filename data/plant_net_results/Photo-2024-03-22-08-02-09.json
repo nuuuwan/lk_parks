@@ -1,0 +1,33 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-22-08-02-09",
+  "species_name_to_score": {
+    "Strychnos nux-vomica": 0.24287,
+    "Syzygium cumini": 0.15638,
+    "Terminalia chebula": 0.03503,
+    "Ficus religiosa": 0.01361,
+    "Ficus racemosa": 0.00991,
+    "Acer negundo": 0.00673,
+    "Terminalia elliptica": 0.00498,
+    "Strychnos potatorum": 0.00461,
+    "Bischofia javanica": 0.00382,
+    "Santalum album": 0.00349,
+    "Luehea candida": 0.00327,
+    "Lagerstroemia speciosa": 0.00299,
+    "Juglans regia": 0.00279,
+    "Chionanthus ramiflorus": 0.00276,
+    "Spondias mombin": 0.00241,
+    "Lagerstroemia parviflora": 0.00196,
+    "Pterocarpus indicus": 0.00193,
+    "Dipterocarpus alatus": 0.00163,
+    "Aegle marmelos": 0.00162,
+    "Shorea roxburghii": 0.00157,
+    "Swietenia mahagoni": 0.00153,
+    "Flacourtia jangomas": 0.00151,
+    "Acer oblongum": 0.00145,
+    "Ficus virens": 0.00134,
+    "Broussonetia papyrifera": 0.00131,
+    "Cassia fistula": 0.00119,
+    "Bridelia ferruginea": 0.00111
+  }
+}

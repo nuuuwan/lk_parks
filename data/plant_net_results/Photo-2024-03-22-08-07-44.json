@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-22-08-07-44",
+  "species_name_to_score": {
+    "Justicia gendarussa": 0.89162,
+    "Clinacanthus nutans": 0.00402,
+    "Syzygium jambos": 0.00364,
+    "Cestrum parqui": 0.00301,
+    "Ruellia simplex": 0.00194,
+    "Asclepias curassavica": 0.00177,
+    "Persicaria hydropiper": 0.00171,
+    "Tabernaemontana divaricata": 0.00101
+  }
+}

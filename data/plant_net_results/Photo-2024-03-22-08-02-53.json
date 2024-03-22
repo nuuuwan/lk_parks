@@ -1,0 +1,9 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-22-08-02-53",
+  "species_name_to_score": {
+    "Guazuma ulmifolia": 0.02223,
+    "Ficus virens": 0.00289,
+    "Neolamarckia cadamba": 0.00193
+  }
+}

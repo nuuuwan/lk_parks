@@ -1,0 +1,29 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-22-08-08-38",
+  "species_name_to_score": {
+    "Dillenia indica": 0.05701,
+    "Barringtonia acutangula": 0.03744,
+    "Plumeria rubra": 0.03535,
+    "Rhaphiolepis bibas": 0.03325,
+    "Plumeria alba": 0.01918,
+    "Madhuca longifolia": 0.01815,
+    "Aesculus indica": 0.01156,
+    "Saurauia napaulensis": 0.01113,
+    "Manilkara zapota": 0.0098,
+    "Mangifera indica": 0.00896,
+    "Sterculia foetida": 0.00515,
+    "Cerbera manghas": 0.00507,
+    "Terminalia arjuna": 0.00402,
+    "Mangifera zeylanica": 0.00378,
+    "Tabernaemontana alternifolia": 0.00378,
+    "Annona reticulata": 0.00336,
+    "Cerbera odollam": 0.00296,
+    "Dillenia pentagyna": 0.00229,
+    "Adansonia digitata": 0.00155,
+    "Terminalia catappa": 0.00145,
+    "Sterculia lanceolata": 0.00145,
+    "Litsea monopetala": 0.00139,
+    "Prunus napaulensis": 0.00116
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-22-08-09-01",
+  "species_name_to_score": {
+    "Madhuca longifolia": 0.07022,
+    "Elaeocarpus angustifolius": 0.05247,
+    "Dillenia indica": 0.03583,
+    "Alstonia macrophylla": 0.02864,
+    "Ceiba pentandra": 0.0163,
+    "Cerbera manghas": 0.01292,
+    "Couroupita guianensis": 0.01159,
+    "Bombax ceiba": 0.00771,
+    "Manilkara zapota": 0.00635,
+    "Cerbera odollam": 0.00502,
+    "Plumeria rubra": 0.00481,
+    "Plumeria alba": 0.00479,
+    "Aesculus indica": 0.00402,
+    "Rhododendron arboreum": 0.00248,
+    "Diospyros blancoi": 0.00214,
+    "Mangifera indica": 0.00201,
+    "Rhaphiolepis bibas": 0.00169,
+    "Ficus callosa": 0.00104,
+    "Barringtonia acutangula": 0.00103,
+    "Dillenia pentagyna": 0.00102,
+    "Elaeocarpus serratus": 0.00102
+  }
+}

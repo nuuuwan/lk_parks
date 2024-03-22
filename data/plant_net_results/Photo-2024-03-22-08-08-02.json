@@ -1,0 +1,13 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-22-08-08-02",
+  "species_name_to_score": {
+    "Terminalia catappa": 0.73357,
+    "Tectona grandis": 0.07478,
+    "Couroupita guianensis": 0.00711,
+    "Anacardium occidentale": 0.00161,
+    "Careya arborea": 0.00158,
+    "Holarrhena pubescens": 0.00149,
+    "Ficus altissima": 0.00146
+  }
+}

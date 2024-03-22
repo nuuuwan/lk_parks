@@ -1,0 +1,21 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-22-08-03-00",
+  "species_name_to_score": {
+    "Monoon longifolium": 0.35228,
+    "Saraca asoca": 0.04959,
+    "Magnolia champaca": 0.03446,
+    "Quercus acutissima": 0.03028,
+    "Mangifera indica": 0.02184,
+    "Pometia pinnata": 0.01429,
+    "Elaeocarpus serratus": 0.00262,
+    "Elaeocarpus angustifolius": 0.0026,
+    "Acacia auriculiformis": 0.00249,
+    "Pentapetes phoenicea": 0.00183,
+    "Toona ciliata": 0.00175,
+    "Annona reticulata": 0.00165,
+    "Diospyros blancoi": 0.00132,
+    "Dipterocarpus alatus": 0.00105,
+    "Garcinia atroviridis": 0.00104
+  }
+}

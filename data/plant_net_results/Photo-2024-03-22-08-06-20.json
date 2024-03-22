@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-22-08-06-20",
+  "species_name_to_score": {
+    "Terminalia arjuna": 0.5764,
+    "Schleichera oleosa": 0.02649,
+    "Sapindus saponaria": 0.00709,
+    "Khaya senegalensis": 0.00632,
+    "Sapindus emarginatus": 0.0045,
+    "Syzygium cumini": 0.00399,
+    "Dimocarpus longan": 0.00355,
+    "Psidium guajava": 0.00257,
+    "Holarrhena pubescens": 0.0025,
+    "Copaifera langsdorffii": 0.00239,
+    "Saraca asoca": 0.00226,
+    "Lagerstroemia speciosa": 0.00194,
+    "Cassia grandis": 0.00172,
+    "Cupaniopsis anacardioides": 0.0017,
+    "Juglans regia": 0.00165,
+    "Calliandra tweediei": 0.00157,
+    "Syzygium aqueum": 0.00149,
+    "Pometia pinnata": 0.00147,
+    "Cassia fistula": 0.00136,
+    "Sapindus mukorossi": 0.00136,
+    "Harpullia cupanioides": 0.00133
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-22-08-07-14",
+  "species_name_to_score": {
+    "Cascabela thevetia": 0.09796,
+    "Barleria lupulina": 0.07367,
+    "Salix viminalis": 0.0548,
+    "Justicia gendarussa": 0.04526,
+    "Nerium oleander": 0.0184,
+    "Gomphocarpus physocarpus": 0.01646,
+    "Crotalaria juncea": 0.01407,
+    "Ruellia simplex": 0.01283,
+    "Cestrum parqui": 0.01214,
+    "Gomphocarpus fruticosus": 0.0113,
+    "Asclepias curassavica": 0.00937,
+    "Clinacanthus nutans": 0.00249,
+    "Cleistanthus collinus": 0.00235,
+    "Euphorbia lathyris": 0.00211,
+    "Hippophae rhamnoides": 0.00172,
+    "Ipomoea aquatica": 0.00152,
+    "Terminalia arjuna": 0.0015,
+    "Neurada procumbens": 0.00124,
+    "Eclipta prostrata": 0.00124,
+    "Salvia leucantha": 0.00112,
+    "Eranthemum splendens": 0.0011,
+    "Cestrum nocturnum": 0.00109
+  }
+}

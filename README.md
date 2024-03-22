@@ -1,6 +1,6 @@
 # Plants of Vihaaramahadevi Park :sri_lanka:
 
-*This analysis was automatically generated on  **Mar 21, 2024 (04:44 PM)**, and is based on  **493** plant photos.*
+*This analysis was automatically generated on  **Mar 22, 2024 (09:23 AM)**, and is based on  **516** plant photos.*
 
 ## Background
 
@@ -24,61 +24,61 @@ Results can be directly inspected using our [Plants](https://nuuuwan.github.io/p
 
 ## Summary Statistics
 
-<img src="data/images/Photo-2024-03-11-07-03-27.jpg" alt="Mesua ferrea" width="33%" style= /><img src="data/images/Photo-2024-03-21-07-08-12.jpg" alt="Terminalia arjuna" width="33%" style= /><img src="data/images/Photo-2024-03-21-08-12-16.jpg" alt="Mangifera indica" width="33%" style= /><img src="data/images/Photo-2024-03-11-06-40-57.jpg" alt="Tecoma stans" width="33%" style= /><img src="data/images/Photo-2024-03-19-07-18-25.jpg" alt="Tectona grandis" width="33%" style= /><img src="data/images/Photo-2024-03-11-06-27-36.jpg" alt="Tabernaemontana divaricata" width="33%" style= /><img src="data/images/Photo-2024-03-08-07-07-47.jpg" alt="Artocarpus heterophyllus" width="33%" style= /><img src="data/images/Photo-2024-03-11-06-36-36.jpg" alt="Terminalia catappa" width="33%" style= /><img src="data/images/Photo-2024-03-08-07-09-59.jpg" alt="Cassia fistula" width="33%" style= /><img src="data/images/Photo-2024-03-21-08-10-07.jpg" alt="Pongamia pinnata" width="33%" style= />
+<img src="data/images/Photo-2024-03-11-07-03-27.jpg" alt="Mesua ferrea" width="33%" style= /><img src="data/images/Photo-2024-03-21-07-08-12.jpg" alt="Terminalia arjuna" width="33%" style= /><img src="data/images/Photo-2024-03-21-08-12-16.jpg" alt="Mangifera indica" width="33%" style= /><img src="data/images/Photo-2024-03-19-07-18-25.jpg" alt="Tectona grandis" width="33%" style= /><img src="data/images/Photo-2024-03-11-06-40-57.jpg" alt="Tecoma stans" width="33%" style= /><img src="data/images/Photo-2024-03-08-07-07-47.jpg" alt="Artocarpus heterophyllus" width="33%" style= /><img src="data/images/Photo-2024-03-11-06-27-36.jpg" alt="Tabernaemontana divaricata" width="33%" style= /><img src="data/images/Photo-2024-03-11-06-36-36.jpg" alt="Terminalia catappa" width="33%" style= /><img src="data/images/Photo-2024-03-08-07-09-59.jpg" alt="Cassia fistula" width="33%" style= /><img src="data/images/Photo-2024-03-22-08-05-36.jpg" alt="Peltophorum pterocarpum" width="33%" style= />
 
 ### Species
 
-**150** unique Species.
+**155** unique Species.
 
 | # | Species | n(Photos) | % |
 | ---: | :--- | ---: | ---: |
-| 1 | [*Mesua ferrea*](https://en.wikipedia.org/wiki/Mesua_ferrea) | 40 | 8.1% |
-| 2 | [*Terminalia arjuna*](https://en.wikipedia.org/wiki/Terminalia_arjuna) | 28 | 5.7% |
-| 3 | [*Mangifera indica*](https://en.wikipedia.org/wiki/Mangifera_indica) | 20 | 4.1% |
-| 4 | [*Tecoma stans*](https://en.wikipedia.org/wiki/Tecoma_stans) | 16 | 3.2% |
-| 5 | [*Tectona grandis*](https://en.wikipedia.org/wiki/Tectona_grandis) | 16 | 3.2% |
-| 6 | [*Tabernaemontana divaricata*](https://en.wikipedia.org/wiki/Tabernaemontana_divaricata) | 14 | 2.8% |
-| 7 | [*Artocarpus heterophyllus*](https://en.wikipedia.org/wiki/Artocarpus_heterophyllus) | 14 | 2.8% |
-| 8 | [*Terminalia catappa*](https://en.wikipedia.org/wiki/Terminalia_catappa) | 12 | 2.4% |
-| 9 | [*Cassia fistula*](https://en.wikipedia.org/wiki/Cassia_fistula) | 12 | 2.4% |
-| 10 | [*Pongamia pinnata*](https://en.wikipedia.org/wiki/Pongamia_pinnata) | 12 | 2.4% |
-|  | *(All Others)* | 280 | 56.8% |
+| 1 | [*Mesua ferrea*](https://en.wikipedia.org/wiki/Mesua_ferrea) | 40 | 7.8% |
+| 2 | [*Terminalia arjuna*](https://en.wikipedia.org/wiki/Terminalia_arjuna) | 29 | 5.6% |
+| 3 | [*Mangifera indica*](https://en.wikipedia.org/wiki/Mangifera_indica) | 20 | 3.9% |
+| 4 | [*Tectona grandis*](https://en.wikipedia.org/wiki/Tectona_grandis) | 20 | 3.9% |
+| 5 | [*Tecoma stans*](https://en.wikipedia.org/wiki/Tecoma_stans) | 16 | 3.1% |
+| 6 | [*Artocarpus heterophyllus*](https://en.wikipedia.org/wiki/Artocarpus_heterophyllus) | 15 | 2.9% |
+| 7 | [*Tabernaemontana divaricata*](https://en.wikipedia.org/wiki/Tabernaemontana_divaricata) | 14 | 2.7% |
+| 8 | [*Terminalia catappa*](https://en.wikipedia.org/wiki/Terminalia_catappa) | 14 | 2.7% |
+| 9 | [*Cassia fistula*](https://en.wikipedia.org/wiki/Cassia_fistula) | 13 | 2.5% |
+| 10 | [*Peltophorum pterocarpum*](https://en.wikipedia.org/wiki/Peltophorum_pterocarpum) | 13 | 2.5% |
+|  | *(All Others)* | 290 | 56.2% |
 
 ### Genera
 
-**114** unique Genera.
+**119** unique Genera.
 
 | # | Genera | n(Photos) | % |
 | ---: | :--- | ---: | ---: |
-| 1 | [*Terminalia*](https://en.wikipedia.org/wiki/Terminalia) | 42 | 8.5% |
-| 2 | [*Mesua*](https://en.wikipedia.org/wiki/Mesua) | 40 | 8.1% |
-| 3 | [*Ficus*](https://en.wikipedia.org/wiki/Ficus) | 26 | 5.3% |
-| 4 | [*Mangifera*](https://en.wikipedia.org/wiki/Mangifera) | 20 | 4.1% |
-| 5 | [*Tecoma*](https://en.wikipedia.org/wiki/Tecoma) | 16 | 3.2% |
-| 6 | [*Cassia*](https://en.wikipedia.org/wiki/Cassia) | 16 | 3.2% |
-| 7 | [*Tectona*](https://en.wikipedia.org/wiki/Tectona) | 16 | 3.2% |
-| 8 | [*Tabernaemontana*](https://en.wikipedia.org/wiki/Tabernaemontana) | 14 | 2.8% |
-| 9 | [*Artocarpus*](https://en.wikipedia.org/wiki/Artocarpus) | 14 | 2.8% |
-| 10 | [*Peltophorum*](https://en.wikipedia.org/wiki/Peltophorum) | 14 | 2.8% |
-|  | *(All Others)* | 208 | 42.2% |
+| 1 | [*Terminalia*](https://en.wikipedia.org/wiki/Terminalia) | 45 | 8.7% |
+| 2 | [*Mesua*](https://en.wikipedia.org/wiki/Mesua) | 40 | 7.8% |
+| 3 | [*Ficus*](https://en.wikipedia.org/wiki/Ficus) | 26 | 5.0% |
+| 4 | [*Mangifera*](https://en.wikipedia.org/wiki/Mangifera) | 20 | 3.9% |
+| 5 | [*Tectona*](https://en.wikipedia.org/wiki/Tectona) | 20 | 3.9% |
+| 6 | [*Cassia*](https://en.wikipedia.org/wiki/Cassia) | 17 | 3.3% |
+| 7 | [*Tecoma*](https://en.wikipedia.org/wiki/Tecoma) | 16 | 3.1% |
+| 8 | [*Artocarpus*](https://en.wikipedia.org/wiki/Artocarpus) | 15 | 2.9% |
+| 9 | [*Peltophorum*](https://en.wikipedia.org/wiki/Peltophorum) | 15 | 2.9% |
+| 10 | [*Tabernaemontana*](https://en.wikipedia.org/wiki/Tabernaemontana) | 14 | 2.7% |
+|  | *(All Others)* | 218 | 42.2% |
 
 ### Families
 
-**54** unique Families.
+**55** unique Families.
 
 | # | Families | n(Photos) | % |
 | ---: | :--- | ---: | ---: |
-| 1 | [*Fabaceae*](https://en.wikipedia.org/wiki/Fabaceae) | 99 | 20.1% |
-| 2 | [*Combretaceae*](https://en.wikipedia.org/wiki/Combretaceae) | 44 | 8.9% |
-| 3 | [*Calophyllaceae*](https://en.wikipedia.org/wiki/Calophyllaceae) | 43 | 8.7% |
-| 4 | [*Moraceae*](https://en.wikipedia.org/wiki/Moraceae) | 40 | 8.1% |
-| 5 | [*Bignoniaceae*](https://en.wikipedia.org/wiki/Bignoniaceae) | 33 | 6.7% |
-| 6 | [*Apocynaceae*](https://en.wikipedia.org/wiki/Apocynaceae) | 30 | 6.1% |
-| 7 | [*Anacardiaceae*](https://en.wikipedia.org/wiki/Anacardiaceae) | 28 | 5.7% |
-| 8 | [*Meliaceae*](https://en.wikipedia.org/wiki/Meliaceae) | 19 | 3.9% |
-| 9 | [*Lamiaceae*](https://en.wikipedia.org/wiki/Lamiaceae) | 17 | 3.4% |
-| 10 | [*Myrtaceae*](https://en.wikipedia.org/wiki/Myrtaceae) | 16 | 3.2% |
-|  | *(All Others)* | 88 | 17.8% |
+| 1 | [*Fabaceae*](https://en.wikipedia.org/wiki/Fabaceae) | 102 | 19.8% |
+| 2 | [*Combretaceae*](https://en.wikipedia.org/wiki/Combretaceae) | 47 | 9.1% |
+| 3 | [*Calophyllaceae*](https://en.wikipedia.org/wiki/Calophyllaceae) | 44 | 8.5% |
+| 4 | [*Moraceae*](https://en.wikipedia.org/wiki/Moraceae) | 41 | 7.9% |
+| 5 | [*Bignoniaceae*](https://en.wikipedia.org/wiki/Bignoniaceae) | 34 | 6.6% |
+| 6 | [*Apocynaceae*](https://en.wikipedia.org/wiki/Apocynaceae) | 30 | 5.8% |
+| 7 | [*Anacardiaceae*](https://en.wikipedia.org/wiki/Anacardiaceae) | 28 | 5.4% |
+| 8 | [*Lamiaceae*](https://en.wikipedia.org/wiki/Lamiaceae) | 21 | 4.1% |
+| 9 | [*Meliaceae*](https://en.wikipedia.org/wiki/Meliaceae) | 19 | 3.7% |
+| 10 | [*Myrtaceae*](https://en.wikipedia.org/wiki/Myrtaceae) | 17 | 3.3% |
+|  | *(All Others)* | 90 | 17.4% |
 
 ## Identification Confidence
 

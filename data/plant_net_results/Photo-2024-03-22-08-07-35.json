@@ -1,0 +1,28 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-22-08-07-35",
+  "species_name_to_score": {
+    "Moringa oleifera": 0.394,
+    "Erythrophleum suaveolens": 0.04355,
+    "Melia azedarach": 0.04025,
+    "Bombax ceiba": 0.00723,
+    "Albizia procera": 0.00635,
+    "Dalbergia sissoo": 0.00547,
+    "Tipuana tipu": 0.00319,
+    "Azadirachta indica": 0.0029,
+    "Oroxylum indicum": 0.0028,
+    "Libidibia ferrea": 0.00251,
+    "Toona sinensis": 0.00246,
+    "Millingtonia hortensis": 0.00193,
+    "Conium maculatum": 0.00192,
+    "Samanea saman": 0.00192,
+    "Koelreuteria paniculata": 0.00186,
+    "Chloroxylon swietenia": 0.00179,
+    "Dalbergia latifolia": 0.00163,
+    "Phyllanthus tenellus": 0.00158,
+    "Biancaea sappan": 0.00141,
+    "Sesbania grandiflora": 0.0012,
+    "Cassia roxburghii": 0.00112,
+    "Phyllanthus reticulatus": 0.001
+  }
+}

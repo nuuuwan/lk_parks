@@ -1,0 +1,32 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-22-08-08-48",
+  "species_name_to_score": {
+    "Cassia fistula": 0.46341,
+    "Pterocarpus indicus": 0.08685,
+    "Hymenaea courbaril": 0.03587,
+    "Albizia lebbeck": 0.01099,
+    "Pongamia pinnata": 0.00836,
+    "Aleurites moluccanus": 0.008,
+    "Oroxylum indicum": 0.0073,
+    "Guazuma ulmifolia": 0.00727,
+    "Pterospermum acerifolium": 0.00602,
+    "Vernicia fordii": 0.00421,
+    "Lonchocarpus sericeus": 0.0033,
+    "Pterocarpus macrocarpus": 0.00324,
+    "Sandoricum koetjape": 0.003,
+    "Tectona grandis": 0.00238,
+    "Copaifera langsdorffii": 0.00205,
+    "Bauhinia purpurea": 0.00175,
+    "Adenanthera pavonina": 0.00173,
+    "Spathodea campanulata": 0.00167,
+    "Hymenaea verrucosa": 0.00164,
+    "Intsia bijuga": 0.00158,
+    "Dalbergia latifolia": 0.00156,
+    "Milicia excelsa": 0.00141,
+    "Ficus religiosa": 0.00137,
+    "Thespesia populnea": 0.00125,
+    "Aegle marmelos": 0.00116,
+    "Bauhinia variegata": 0.00108
+  }
+}

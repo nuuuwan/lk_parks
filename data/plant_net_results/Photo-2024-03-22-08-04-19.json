@@ -1,0 +1,32 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-22-08-04-19",
+  "species_name_to_score": {
+    "Syzygium jambos": 0.09964,
+    "Vitex agnus-castus": 0.01662,
+    "Anisoptera scaphula": 0.01522,
+    "Annona reticulata": 0.01195,
+    "Prunus persica": 0.01044,
+    "Durio zibethinus": 0.00733,
+    "Quercus acutissima": 0.00688,
+    "Mangifera indica": 0.0055,
+    "Cerbera odollam": 0.00406,
+    "Tabernaemontana divaricata": 0.00377,
+    "Syzygium aqueum": 0.00333,
+    "Vitex negundo": 0.0032,
+    "Myristica fragrans": 0.0029,
+    "Dillenia indica": 0.00286,
+    "Justicia gendarussa": 0.00241,
+    "Syzygium laetum": 0.00206,
+    "Cascabela thevetia": 0.00204,
+    "Ficus erecta": 0.00191,
+    "Mimusops elengi": 0.00172,
+    "Madhuca longifolia": 0.00165,
+    "Annona squamosa": 0.00149,
+    "Vitex altissima": 0.00125,
+    "Quercus glauca": 0.00118,
+    "Cerbera manghas": 0.00112,
+    "Syzygium cumini": 0.00112,
+    "Manilkara zapota": 0.00108
+  }
+}

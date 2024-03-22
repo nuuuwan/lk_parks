@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-22-08-04-29",
+  "species_name_to_score": {
+    "Syzygium jambos": 0.04212,
+    "Terminalia arjuna": 0.03347,
+    "Olea europaea": 0.00694,
+    "Cotoneaster frigidus": 0.00386,
+    "Salix alba": 0.00213,
+    "Syzygium aqueum": 0.00138,
+    "Annona reticulata": 0.00126,
+    "Syzygium cumini": 0.00121,
+    "Cascabela thevetia": 0.00121,
+    "Acacia melanoxylon": 0.00107
+  }
+}

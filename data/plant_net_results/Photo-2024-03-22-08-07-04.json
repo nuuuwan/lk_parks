@@ -1,0 +1,18 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-22-08-07-04",
+  "species_name_to_score": {
+    "Epipremnum pinnatum": 0.41333,
+    "Epipremnum aureum": 0.3211,
+    "Paederia foetida": 0.01193,
+    "Pothos scandens": 0.00697,
+    "Anredera cordifolia": 0.00571,
+    "Philodendron hederaceum": 0.0042,
+    "Funastrum clausum": 0.00198,
+    "Rhaphidophora korthalsii": 0.00185,
+    "Cocculus orbiculatus": 0.00179,
+    "Dioscorea bulbifera": 0.00143,
+    "Syngonium podophyllum": 0.00139,
+    "Passiflora ligularis": 0.0012
+  }
+}
