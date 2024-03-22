@@ -1,6 +1,6 @@
 # Plants of Vihaaramahadevi Park :sri_lanka:
 
-*This analysis was automatically generated on  **Mar 22, 2024 (11:30 AM)**, and is based on  **516** plant photos.*
+*This analysis is part of an effort to identify and classify plants in Sri Lankas public parks, and was automatically generated on  **Mar 22, 2024 (11:30 AM)**, and is based on  **516** plant photos.*
 
 ## Background
 
