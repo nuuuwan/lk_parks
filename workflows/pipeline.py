@@ -1,9 +1,5 @@
-from lk_plants import (
-    DataApp,
-    PlantNetResult,
-    PlantPhoto,
-    ViharamahadeviParkReport,
-)
+from lk_plants import (DataApp, PlantNetResult, PlantPhoto,
+                       ViharamahadeviParkReport)
 
 
 def main():
