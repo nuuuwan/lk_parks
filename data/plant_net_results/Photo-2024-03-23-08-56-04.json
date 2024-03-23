@@ -1,0 +1,25 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-23-08-56-04",
+  "species_name_to_score": {
+    "Erythroxylum coca": 0.09458,
+    "Ficus microcarpa": 0.01244,
+    "Osmanthus fragrans": 0.01137,
+    "Psidium cattleyanum": 0.00934,
+    "Ficus tinctoria": 0.00891,
+    "Camellia sinensis": 0.00704,
+    "Syzygium cumini": 0.00581,
+    "Ficus retusa": 0.0045,
+    "Myristica fragrans": 0.00434,
+    "Annona muricata": 0.00424,
+    "Cleyera japonica": 0.00382,
+    "Syzygium samarangense": 0.0026,
+    "Camellia japonica": 0.0021,
+    "Bridelia tomentosa": 0.00165,
+    "Camellia sasanqua": 0.00147,
+    "Viburnum odoratissimum": 0.00146,
+    "Diospyros blancoi": 0.00133,
+    "Cordia dichotoma": 0.00121,
+    "Myxopyrum smilacifolium": 0.00112
+  }
+}

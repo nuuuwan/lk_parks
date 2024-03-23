@@ -1,0 +1,32 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-23-07-56-46",
+  "species_name_to_score": {
+    "Pongamia pinnata": 0.54836,
+    "Acer negundo": 0.00956,
+    "Pterocarpus indicus": 0.00563,
+    "Morus nigra": 0.00518,
+    "Strychnos nux-vomica": 0.00491,
+    "Morus alba": 0.00343,
+    "Erythrina poeppigiana": 0.00321,
+    "Cordia subcordata": 0.0032,
+    "Pterygota alata": 0.00319,
+    "Dolichandrone serrulata": 0.00317,
+    "Guazuma ulmifolia": 0.00276,
+    "Bischofia javanica": 0.00241,
+    "Radermachera xylocarpa": 0.00223,
+    "Aegle marmelos": 0.00211,
+    "Diospyros lotus": 0.00205,
+    "Holarrhena pubescens": 0.00198,
+    "Diospyros kaki": 0.00191,
+    "Spathodea campanulata": 0.0017,
+    "Theobroma cacao": 0.00163,
+    "Catalpa bignonioides": 0.00156,
+    "Hovenia dulcis": 0.00141,
+    "Camelina rumelica": 0.00113,
+    "Strychnos potatorum": 0.00109,
+    "Broussonetia papyrifera": 0.00107,
+    "Flacourtia jangomas": 0.00107,
+    "Prunus cerasus": 0.00104
+  }
+}

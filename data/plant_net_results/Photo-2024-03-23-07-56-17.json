@@ -1,0 +1,32 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-23-07-56-17",
+  "species_name_to_score": {
+    "Neolamarckia cadamba": 0.02385,
+    "Dipterocarpus retusus": 0.02009,
+    "Milicia excelsa": 0.01581,
+    "Dillenia suffruticosa": 0.01025,
+    "Dillenia indica": 0.00646,
+    "Manilkara zapota": 0.00591,
+    "Artocarpus hirsutus": 0.00588,
+    "Dipterocarpus alatus": 0.00481,
+    "Shorea assamica": 0.00402,
+    "Psidium guajava": 0.0036,
+    "Poikilospermum suaveolens": 0.0032,
+    "Dipterocarpus grandiflorus": 0.00317,
+    "Tectona grandis": 0.00309,
+    "Artocarpus lacucha": 0.00288,
+    "Beaumontia grandiflora": 0.0026,
+    "Annona reticulata": 0.00239,
+    "Pyrrosia lanceolata": 0.00201,
+    "Anacardium occidentale": 0.00141,
+    "Sandoricum koetjape": 0.00133,
+    "Poa supina": 0.00124,
+    "Magnolia champaca": 0.0012,
+    "Alstonia macrophylla": 0.00112,
+    "Castilla elastica": 0.00112,
+    "Voacanga grandifolia": 0.00106,
+    "Theobroma cacao": 0.00104,
+    "Psidium cattleyanum": 0.001
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-23-07-53-10",
+  "species_name_to_score": {
+    "Peltophorum dubium": 0.3031,
+    "Schizolobium parahyba": 0.0456,
+    "Neolamarckia cadamba": 0.04525,
+    "Erythrina rubrinervia": 0.02637,
+    "Peltophorum pterocarpum": 0.01683,
+    "Phyllanthus emblica": 0.01101,
+    "Delonix regia": 0.01018,
+    "Mitragyna parvifolia": 0.00976,
+    "Jacaranda mimosifolia": 0.00713,
+    "Senna multijuga": 0.00535,
+    "Nauclea orientalis": 0.0053,
+    "Falcataria falcata": 0.00444,
+    "Samanea saman": 0.00359,
+    "Gliricidia sepium": 0.00335,
+    "Cordia dichotoma": 0.00291,
+    "Sesbania grandiflora": 0.0026,
+    "Utricularia vulgaris": 0.00205,
+    "Radermachera sinica": 0.00163,
+    "Sesbania sesban": 0.00149,
+    "Grevillea robusta": 0.0013,
+    "Cassia roxburghii": 0.00125,
+    "Caesalpinia pulcherrima": 0.00124,
+    "Erythrina poeppigiana": 0.00121,
+    "Bischofia javanica": 0.00116,
+    "Colvillea racemosa": 0.00106,
+    "Ehretia acuminata": 0.00103
+  }
+}

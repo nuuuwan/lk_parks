@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-23-07-57-40",
+  "species_name_to_score": {
+    "Anacardium occidentale": 0.84562,
+    "Barringtonia asiatica": 0.005,
+    "Guettarda speciosa": 0.00294,
+    "Cotinus coggygria": 0.00244,
+    "Terminalia catappa": 0.00208,
+    "Calophyllum inophyllum": 0.00192,
+    "Ficus benghalensis": 0.00133,
+    "Ficus altissima": 0.00124
+  }
+}

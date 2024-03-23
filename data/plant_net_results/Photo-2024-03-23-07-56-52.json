@@ -1,0 +1,24 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-23-07-56-52",
+  "species_name_to_score": {
+    "Dillenia indica": 0.08479,
+    "Neolamarckia cadamba": 0.02772,
+    "Castanea mollissima": 0.01419,
+    "Manilkara zapota": 0.01291,
+    "Dillenia suffruticosa": 0.00961,
+    "Sandoricum koetjape": 0.00836,
+    "Annona reticulata": 0.00738,
+    "Pometia pinnata": 0.0038,
+    "Magnolia champaca": 0.00376,
+    "Milicia excelsa": 0.00363,
+    "Dipterocarpus alatus": 0.00245,
+    "Dipterocarpus retusus": 0.00238,
+    "Artocarpus lacucha": 0.00236,
+    "Dipterocarpus grandiflorus": 0.00211,
+    "Psidium guajava": 0.0013,
+    "Anacardium occidentale": 0.00126,
+    "Nauclea orientalis": 0.00116,
+    "Magnolia insignis": 0.00115
+  }
+}

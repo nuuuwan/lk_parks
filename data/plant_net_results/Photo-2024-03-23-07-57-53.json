@@ -1,0 +1,17 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-23-07-57-53",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.74591,
+    "Ficus maclellandii": 0.04938,
+    "Eucalyptus robusta": 0.00832,
+    "Cedrela odorata": 0.00265,
+    "Azadirachta indica": 0.00252,
+    "Monoon longifolium": 0.00245,
+    "Syzygium jambos": 0.00243,
+    "Spondias dulcis": 0.00151,
+    "Eucalyptus globulus": 0.00125,
+    "Litchi chinensis": 0.0011,
+    "Breynia androgyna": 0.00102
+  }
+}

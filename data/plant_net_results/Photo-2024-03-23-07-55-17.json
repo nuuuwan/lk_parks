@@ -1,0 +1,23 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-23-07-55-17",
+  "species_name_to_score": {
+    "Viburnum odoratissimum": 0.02386,
+    "Ficus altissima": 0.01216,
+    "Ficus tinctoria": 0.0087,
+    "Madhuca longifolia": 0.00606,
+    "Ficus benghalensis": 0.00584,
+    "Ficus fistulosa": 0.00583,
+    "Litsea monopetala": 0.00325,
+    "Ficus racemosa": 0.00309,
+    "Psidium guajava": 0.00282,
+    "Osmanthus fragrans": 0.00213,
+    "Chonemorpha fragrans": 0.00195,
+    "Psidium guineense": 0.00179,
+    "Dillenia suffruticosa": 0.00176,
+    "Ficus lacor": 0.00167,
+    "Annona glabra": 0.00128,
+    "Planchonella obovata": 0.00108,
+    "Myristica fragrans": 0.00105
+  }
+}

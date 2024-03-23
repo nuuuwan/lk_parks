@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-23-07-54-41",
+  "species_name_to_score": {
+    "Phyllanthus emblica": 0.7458,
+    "Taxodium distichum": 0.01779,
+    "Salix viminalis": 0.01269,
+    "Vachellia farnesiana": 0.00492,
+    "Calliandra surinamensis": 0.00415,
+    "Peltophorum africanum": 0.00362,
+    "Gleditsia triacanthos": 0.00348,
+    "Prosopis glandulosa": 0.00299,
+    "Prosopis chilensis": 0.00292,
+    "Parkinsonia aculeata": 0.00159,
+    "Tamarindus indica": 0.0015,
+    "Cascabela thevetia": 0.00125,
+    "Schinus molle": 0.00124
+  }
+}

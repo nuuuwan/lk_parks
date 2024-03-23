@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-23-07-53-26",
+  "species_name_to_score": {
+    "Nauclea orientalis": 0.33828,
+    "Tectona grandis": 0.04825,
+    "Ficus benghalensis": 0.00584,
+    "Premna serratifolia": 0.00565,
+    "Erythrina velutina": 0.00392,
+    "Morinda citrifolia": 0.00311,
+    "Terminalia chebula": 0.00253,
+    "Erythrina variegata": 0.00202,
+    "Ficus auriculata": 0.00179,
+    "Fernandoa adenophylla": 0.00165,
+    "Terminalia catappa": 0.00146,
+    "Morus nigra": 0.00128,
+    "Cordia myxa": 0.00123
+  }
+}

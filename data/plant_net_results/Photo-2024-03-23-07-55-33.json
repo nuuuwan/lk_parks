@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-23-07-55-33",
+  "species_name_to_score": {
+    "Mangifera indica": 0.72936,
+    "Quercus acutissima": 0.02116,
+    "Magnolia champaca": 0.00357,
+    "Annona reticulata": 0.00221,
+    "Ficus virens": 0.00186,
+    "Plumeria alba": 0.00145,
+    "Manilkara zapota": 0.00128,
+    "Mimusops elengi": 0.00124
+  }
+}

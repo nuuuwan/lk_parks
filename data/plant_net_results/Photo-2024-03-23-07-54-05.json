@@ -1,0 +1,10 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-23-07-54-05",
+  "species_name_to_score": {
+    "Pongamia pinnata": 0.91394,
+    "Erythrina fusca": 0.00272,
+    "Canavalia ensiformis": 0.00112,
+    "Platymiscium pinnatum": 0.00103
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-23-07-54-54",
+  "species_name_to_score": {
+    "Phyllanthus emblica": 0.88131,
+    "Salix viminalis": 0.00407,
+    "Prunus persica": 0.00259,
+    "Tamarindus indica": 0.00126,
+    "Senna multijuga": 0.00122,
+    "Vachellia farnesiana": 0.0012,
+    "Quercus acutissima": 0.00103
+  }
+}

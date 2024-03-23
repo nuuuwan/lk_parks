@@ -1,0 +1,31 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-23-07-56-12",
+  "species_name_to_score": {
+    "Annona reticulata": 0.06288,
+    "Syzygium cumini": 0.03138,
+    "Santalum album": 0.0266,
+    "Quercus glauca": 0.01669,
+    "Prunus amygdalus": 0.01557,
+    "Ficus virens": 0.0122,
+    "Annona squamosa": 0.00758,
+    "Elaeagnus umbellata": 0.0071,
+    "Prunus persica": 0.00643,
+    "Magnolia champaca": 0.00542,
+    "Eucalyptus robusta": 0.0053,
+    "Grewia laevigata": 0.00506,
+    "Litsea monopetala": 0.00483,
+    "Ficus racemosa": 0.00334,
+    "Annona glabra": 0.00329,
+    "Mimusops elengi": 0.00261,
+    "Lagerstroemia speciosa": 0.00255,
+    "Solanum aligerum": 0.00214,
+    "Ehretia acuminata": 0.00202,
+    "Psidium guajava": 0.00184,
+    "Quercus acutissima": 0.00151,
+    "Diospyros lotus": 0.00127,
+    "Euphorbia leucocephala": 0.00117,
+    "Phytolacca dioica": 0.00109,
+    "Justicia adhatoda": 0.00102
+  }
+}

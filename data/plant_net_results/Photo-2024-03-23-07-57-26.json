@@ -1,0 +1,12 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-23-07-57-26",
+  "species_name_to_score": {
+    "Pongamia pinnata": 0.84041,
+    "Pterocarpus indicus": 0.03873,
+    "Aegle marmelos": 0.02887,
+    "Radermachera sinica": 0.00241,
+    "Millingtonia hortensis": 0.00145,
+    "Sapindus saponaria": 0.00114
+  }
+}

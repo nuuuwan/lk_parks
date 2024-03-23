@@ -1,0 +1,26 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-23-08-55-56",
+  "species_name_to_score": {
+    "Duranta erecta": 0.36459,
+    "Malpighia glabra": 0.03995,
+    "Brunfelsia uniflora": 0.0362,
+    "Brunfelsia pauciflora": 0.01018,
+    "Cestrum nocturnum": 0.0087,
+    "Solanum diphyllum": 0.00753,
+    "Camellia sinensis": 0.00599,
+    "Citrus aurantium": 0.00502,
+    "Tabernaemontana divaricata": 0.00494,
+    "Bougainvillea glabra": 0.00418,
+    "Ximenia americana": 0.00371,
+    "Lawsonia inermis": 0.00357,
+    "Solanum pseudocapsicum": 0.00356,
+    "Lycianthes rantonnetii": 0.00343,
+    "Citrus aurantiifolia": 0.00309,
+    "Murraya paniculata": 0.00259,
+    "Citrus medica": 0.00194,
+    "Jasminum sambac": 0.00167,
+    "Buchozia japonica": 0.00124,
+    "Punica granatum": 0.00104
+  }
+}

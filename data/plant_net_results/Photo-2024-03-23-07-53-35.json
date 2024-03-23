@@ -1,0 +1,23 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-23-07-53-35",
+  "species_name_to_score": {
+    "Terminalia bellirica": 0.11317,
+    "Litsea monopetala": 0.02263,
+    "Artocarpus heterophyllus": 0.01103,
+    "Careya arborea": 0.00922,
+    "Tectona grandis": 0.00846,
+    "Neolamarckia cadamba": 0.0083,
+    "Persea americana": 0.00594,
+    "Madhuca longifolia": 0.00581,
+    "Terminalia catappa": 0.00361,
+    "Artocarpus integer": 0.00206,
+    "Artocarpus lacucha": 0.00206,
+    "Litsea glutinosa": 0.00172,
+    "Malus domestica": 0.00139,
+    "Tabernaemontana alternifolia": 0.00136,
+    "Barringtonia acutangula": 0.0013,
+    "Ehretia acuminata": 0.00108,
+    "Cinnamomum camphora": 0.00106
+  }
+}

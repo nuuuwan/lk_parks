@@ -1,0 +1,20 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-23-07-56-05",
+  "species_name_to_score": {
+    "Dillenia indica": 0.13398,
+    "Manilkara zapota": 0.00813,
+    "Dipterocarpus retusus": 0.0071,
+    "Psidium guajava": 0.00671,
+    "Milicia excelsa": 0.0065,
+    "Neolamarckia cadamba": 0.00477,
+    "Dillenia pentagyna": 0.00264,
+    "Castanea mollissima": 0.00204,
+    "Annona reticulata": 0.00201,
+    "Artocarpus lacucha": 0.00162,
+    "Beaumontia grandiflora": 0.00149,
+    "Quercus acutissima": 0.00141,
+    "Poikilospermum suaveolens": 0.00127,
+    "Magnolia insignis": 0.00108
+  }
+}

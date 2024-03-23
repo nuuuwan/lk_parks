@@ -1,0 +1,28 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-23-08-52-55",
+  "species_name_to_score": {
+    "Psidium cattleyanum": 0.10417,
+    "Erythroxylum coca": 0.0696,
+    "Ficus microcarpa": 0.02639,
+    "Osmanthus fragrans": 0.01849,
+    "Syzygium cumini": 0.01546,
+    "Syzygium samarangense": 0.01522,
+    "Viburnum odoratissimum": 0.00794,
+    "Ficus retusa": 0.0065,
+    "Annona muricata": 0.00539,
+    "Syzygium jambos": 0.00431,
+    "Dillenia indica": 0.0032,
+    "Syzygium malaccense": 0.00261,
+    "Polyalthia suberosa": 0.00242,
+    "Cordia dichotoma": 0.00165,
+    "Euonymus japonicus": 0.0015,
+    "Gardenia jasminoides": 0.00143,
+    "Brunfelsia uniflora": 0.00142,
+    "Camellia japonica": 0.00138,
+    "Bridelia tomentosa": 0.00126,
+    "Duranta erecta": 0.00118,
+    "Lagerstroemia speciosa": 0.00118,
+    "Artocarpus heterophyllus": 0.00115
+  }
+}

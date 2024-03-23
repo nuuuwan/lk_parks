@@ -1,0 +1,31 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-23-07-55-06",
+  "species_name_to_score": {
+    "Avicennia marina": 0.01587,
+    "Erythrina corallodendron": 0.01459,
+    "Gleditsia sinensis": 0.00663,
+    "Ficus microcarpa": 0.00641,
+    "Cinnamomum camphora": 0.00629,
+    "Ficus religiosa": 0.00521,
+    "Ficus benghalensis": 0.00408,
+    "Vitex glabrata": 0.00364,
+    "Erythrina fusca": 0.00291,
+    "Sonneratia caseolaris": 0.00246,
+    "Artocarpus heterophyllus": 0.00232,
+    "Phytolacca dioica": 0.00219,
+    "Ficus retusa": 0.00201,
+    "Schotia brachypetala": 0.00197,
+    "Citrus aurantiifolia": 0.00195,
+    "Broussonetia papyrifera": 0.00188,
+    "Cassia grandis": 0.00162,
+    "Terminalia catappa": 0.00148,
+    "Schizolobium parahyba": 0.00139,
+    "Anacardium occidentale": 0.00131,
+    "Morus nigra": 0.00122,
+    "Platanus orientalis": 0.0012,
+    "Curcuma longa": 0.00104,
+    "Avicennia officinalis": 0.00103,
+    "Syzygium caryophyllatum": 0.00101
+  }
+}

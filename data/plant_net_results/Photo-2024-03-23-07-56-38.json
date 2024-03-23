@@ -1,0 +1,29 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-23-07-56-38",
+  "species_name_to_score": {
+    "Phyllanthus emblica": 0.17889,
+    "Peltophorum africanum": 0.03178,
+    "Senna multijuga": 0.02515,
+    "Jacaranda mimosifolia": 0.02071,
+    "Cassia grandis": 0.01194,
+    "Peltophorum dubium": 0.00997,
+    "Schizolobium parahyba": 0.00972,
+    "Cassia javanica": 0.00961,
+    "Vachellia farnesiana": 0.00666,
+    "Peltophorum pterocarpum": 0.00487,
+    "Filicium decipiens": 0.00471,
+    "Leucaena leucocephala": 0.00327,
+    "Vachellia robusta": 0.00325,
+    "Paraserianthes lophantha": 0.00323,
+    "Brownea grandiceps": 0.00309,
+    "Acaciella angustissima": 0.00253,
+    "Delonix regia": 0.00252,
+    "Senna surattensis": 0.00169,
+    "Gleditsia triacanthos": 0.00144,
+    "Calpurnia aurea": 0.00144,
+    "Vachellia macracantha": 0.00144,
+    "Acacia dealbata": 0.00122,
+    "Senna auriculata": 0.0012
+  }
+}

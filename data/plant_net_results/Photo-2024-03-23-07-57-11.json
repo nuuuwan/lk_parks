@@ -1,0 +1,26 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-23-07-57-11",
+  "species_name_to_score": {
+    "Citharexylum spinosum": 0.01748,
+    "Haematoxylum campechianum": 0.01189,
+    "Gliricidia sepium": 0.00885,
+    "Koelreuteria paniculata": 0.00874,
+    "Robinia pseudoacacia": 0.00567,
+    "Morus nigra": 0.00475,
+    "Symplocos paniculata": 0.00422,
+    "Dalbergia melanoxylon": 0.00422,
+    "Prunus domestica": 0.00408,
+    "Ziziphus jujuba": 0.00364,
+    "Tamarindus indica": 0.00305,
+    "Guazuma ulmifolia": 0.00303,
+    "Diospyros kaki": 0.00191,
+    "Ehretia acuminata": 0.0019,
+    "Prunus cerasifera": 0.00151,
+    "Celtis caucasica": 0.00143,
+    "Dendrolobium umbellatum": 0.00124,
+    "Lagerstroemia speciosa": 0.00114,
+    "Paspalum plicatulum": 0.00111,
+    "Aegle marmelos": 0.00107
+  }
+}

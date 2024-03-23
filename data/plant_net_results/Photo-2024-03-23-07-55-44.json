@@ -1,0 +1,29 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-23-07-55-44",
+  "species_name_to_score": {
+    "Tamarindus indica": 0.13533,
+    "Gleditsia triacanthos": 0.05362,
+    "Jacaranda mimosifolia": 0.03732,
+    "Phyllanthus emblica": 0.0303,
+    "Vachellia aroma": 0.02682,
+    "Acacia dealbata": 0.02166,
+    "Tipuana tipu": 0.01741,
+    "Taxodium distichum": 0.01403,
+    "Robinia pseudoacacia": 0.00922,
+    "Vachellia farnesiana": 0.00863,
+    "Prosopis juliflora": 0.00313,
+    "Juglans nigra": 0.00298,
+    "Schizolobium parahyba": 0.00297,
+    "Acacia decurrens": 0.00269,
+    "Peltophorum africanum": 0.00238,
+    "Vachellia macracantha": 0.00215,
+    "Peltophorum pterocarpum": 0.0021,
+    "Cassia grandis": 0.00186,
+    "Delonix regia": 0.00183,
+    "Vachellia nilotica": 0.00135,
+    "Senegalia catechu": 0.00133,
+    "Styphnolobium japonicum": 0.00115,
+    "Libidibia coriaria": 0.00103
+  }
+}

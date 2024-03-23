@@ -1,0 +1,10 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-23-08-55-02",
+  "species_name_to_score": {
+    "Ficus religiosa": 0.95195,
+    "Ficus virens": 0.00198,
+    "Cordia myxa": 0.00143,
+    "Triadica sebifera": 0.00117
+  }
+}
