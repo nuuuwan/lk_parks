@@ -1,0 +1,26 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-25-07-22-16",
+  "species_name_to_score": {
+    "Mangifera indica": 0.25606,
+    "Annona reticulata": 0.04391,
+    "Quercus acutissima": 0.01199,
+    "Dimocarpus longan": 0.01107,
+    "Mangifera zeylanica": 0.0051,
+    "Swietenia macrophylla": 0.00343,
+    "Crescentia cujete": 0.00321,
+    "Planchonella grandifolia": 0.00296,
+    "Cedrela odorata": 0.00293,
+    "Barringtonia asiatica": 0.00279,
+    "Swietenia mahagoni": 0.00182,
+    "Monoon longifolium": 0.00181,
+    "Neolamarckia cadamba": 0.0015,
+    "Ficus maclellandii": 0.00147,
+    "Spondias mombin": 0.00146,
+    "Manilkara zapota": 0.00145,
+    "Citrus maxima": 0.00121,
+    "Toona ciliata": 0.00113,
+    "Ficus lacor": 0.00104,
+    "Morinda citrifolia": 0.00102
+  }
+}
