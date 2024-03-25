@@ -103,10 +103,13 @@ class PlantNetResult:
     @staticmethod
     def get_species_name_to_score(results: list) -> dict[Species, float]:
         species_name_to_score = {}
-        for result in results:
+        for i, result in enumerate(results):
             species = Species.from_plant_net_raw_result(result)
             score = result['score']
             species_name_to_score[species.name] = score
+
+            if i < 5:
+                log.debug(f'\t{score:.0%}: {species.name}')
         return species_name_to_score
 
     @staticmethod
