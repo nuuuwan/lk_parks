@@ -1,0 +1,20 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-25-07-22-37",
+  "species_name_to_score": {
+    "Monoon longifolium": 0.75484,
+    "Ceiba pentandra": 0.0189,
+    "Styphnolobium japonicum": 0.00667,
+    "Salix babylonica": 0.00267,
+    "Gleditsia triacanthos": 0.00245,
+    "Toona ciliata": 0.00229,
+    "Tamarindus indica": 0.00182,
+    "Eucalyptus globulus": 0.00167,
+    "Eucalyptus camaldulensis": 0.00156,
+    "Juglans nigra": 0.00116,
+    "Saraca asoca": 0.00116,
+    "Grevillea robusta": 0.00112,
+    "Radermachera sinica": 0.0011,
+    "Brachychiton populneus": 0.00107
+  }
+}

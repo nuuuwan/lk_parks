@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-25-07-37-57",
+  "species_name_to_score": {
+    "Nephrolepis biserrata": 0.53974,
+    "Nephrolepis exaltata": 0.07967,
+    "Nephrolepis cordifolia": 0.0316,
+    "Polystichum lonchitis": 0.0087,
+    "Nephrolepis brownii": 0.00622,
+    "Blechnum spinulosum": 0.0029,
+    "Cyrtomium fortunei": 0.00232,
+    "Dryopteris atrata": 0.00151
+  }
+}

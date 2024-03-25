@@ -1,0 +1,30 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-25-07-51-24",
+  "species_name_to_score": {
+    "Ficus microcarpa": 0.03092,
+    "Artocarpus heterophyllus": 0.00895,
+    "Ficus exasperata": 0.00651,
+    "Ficus benghalensis": 0.00591,
+    "Gleditsia sinensis": 0.00508,
+    "Ficus religiosa": 0.00393,
+    "Ficus altissima": 0.00385,
+    "Avicennia marina": 0.00337,
+    "Erythrina corallodendron": 0.00284,
+    "Schizolobium parahyba": 0.0024,
+    "Ficus hispida": 0.00236,
+    "Artocarpus integer": 0.0021,
+    "Aquilaria malaccensis": 0.00209,
+    "Lippia javanica": 0.00168,
+    "Acacia dealbata": 0.00162,
+    "Erythrina fusca": 0.00156,
+    "Ficus retusa": 0.00145,
+    "Ficus virens": 0.00132,
+    "Strychnos nux-vomica": 0.00126,
+    "Cassia grandis": 0.00123,
+    "Artocarpus lacucha": 0.00116,
+    "Dobera glabra": 0.00115,
+    "Adansonia digitata": 0.00106,
+    "Salix acmophylla": 0.00102
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-25-07-23-18",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.07084,
+    "Eucalyptus camaldulensis": 0.06672,
+    "Eucalyptus globulus": 0.03531,
+    "Salix alba": 0.02929,
+    "Salix acmophylla": 0.02629,
+    "Salix babylonica": 0.01128,
+    "Syzygium jambos": 0.01084,
+    "Phyllostachys reticulata": 0.00995,
+    "Eucalyptus robusta": 0.0085,
+    "Elaeagnus angustifolia": 0.00839,
+    "Syzygium zeylanicum": 0.00765,
+    "Olea europaea": 0.00683,
+    "Eucalyptus sideroxylon": 0.00669,
+    "Acacia retinodes": 0.00534,
+    "Fraxinus angustifolia": 0.00468,
+    "Acacia longifolia": 0.0039,
+    "Salix fragilis": 0.00362,
+    "Acacia melanoxylon": 0.00349,
+    "Vitex agnus-castus": 0.00317,
+    "Populus euphratica": 0.0023,
+    "Phyllostachys aurea": 0.00208,
+    "Eucalyptus microtheca": 0.00186,
+    "Eucalyptus tereticornis": 0.00161,
+    "Eucalyptus crebra": 0.0016,
+    "Searsia lancea": 0.00118,
+    "Salix viminalis": 0.00109,
+    "Melaleuca viminalis": 0.00101
+  }
+}

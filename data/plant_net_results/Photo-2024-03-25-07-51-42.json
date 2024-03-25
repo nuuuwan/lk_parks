@@ -1,0 +1,18 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-25-07-51-42",
+  "species_name_to_score": {
+    "Cerbera manghas": 0.54917,
+    "Manilkara zapota": 0.02025,
+    "Mangifera indica": 0.01607,
+    "Podocarpus neriifolius": 0.01466,
+    "Cerbera odollam": 0.00397,
+    "Cocculus laurifolius": 0.00255,
+    "Diospyros blancoi": 0.00154,
+    "Couroupita guianensis": 0.00153,
+    "Cascabela thevetia": 0.00137,
+    "Dillenia indica": 0.00132,
+    "Rhododendron arboreum": 0.0011,
+    "Melaleuca citrina": 0.00101
+  }
+}

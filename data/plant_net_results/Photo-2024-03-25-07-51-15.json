@@ -1,0 +1,21 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-25-07-51-15",
+  "species_name_to_score": {
+    "Citrus aurantiifolia": 0.68128,
+    "Citrus aurantium": 0.07044,
+    "Citrus limon": 0.04172,
+    "Citrus maxima": 0.02339,
+    "Citrus medica": 0.01246,
+    "Santalum album": 0.0074,
+    "Citrus japonica": 0.00504,
+    "Myristica fragrans": 0.00305,
+    "Diospyros nigra": 0.00231,
+    "Citrus hystrix": 0.00226,
+    "Malpighia glabra": 0.00175,
+    "Psidium cattleyanum": 0.0015,
+    "Aquilaria malaccensis": 0.0014,
+    "Mimusops elengi": 0.00124,
+    "Psidium guajava": 0.00117
+  }
+}

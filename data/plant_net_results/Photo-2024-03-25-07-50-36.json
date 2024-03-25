@@ -1,0 +1,12 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-25-07-50-36",
+  "species_name_to_score": {
+    "Acalypha wilkesiana": 0.70278,
+    "Amaranthus tricolor": 0.05295,
+    "Perilla frutescens": 0.01279,
+    "Coleus scutellarioides": 0.00311,
+    "Hypoestes phyllostachya": 0.00136,
+    "Alternanthera bettzickiana": 0.00118
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-25-07-50-52",
+  "species_name_to_score": {
+    "Citrus aurantiifolia": 0.58686,
+    "Citrus limon": 0.0944,
+    "Citrus medica": 0.06022,
+    "Citrus aurantium": 0.01647,
+    "Myristica fragrans": 0.01236,
+    "Citrus maxima": 0.01145,
+    "Santalum album": 0.00714,
+    "Citrus hystrix": 0.00601,
+    "Erythroxylum coca": 0.00526,
+    "Citrus japonica": 0.003,
+    "Annona squamosa": 0.00246,
+    "Diospyros nigra": 0.00227,
+    "Artocarpus integer": 0.00149,
+    "Cestrum nocturnum": 0.00123,
+    "Euonymus japonicus": 0.00101
+  }
+}

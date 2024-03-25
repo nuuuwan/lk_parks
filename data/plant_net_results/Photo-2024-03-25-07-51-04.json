@@ -1,0 +1,18 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-25-07-51-04",
+  "species_name_to_score": {
+    "Mangifera indica": 0.73578,
+    "Cerbera manghas": 0.00761,
+    "Annona reticulata": 0.00715,
+    "Alstonia macrophylla": 0.00373,
+    "Monoon longifolium": 0.00338,
+    "Saraca asoca": 0.00325,
+    "Crescentia cujete": 0.00308,
+    "Manilkara zapota": 0.00155,
+    "Elaeocarpus angustifolius": 0.00145,
+    "Quercus acutissima": 0.00138,
+    "Plumeria alba": 0.00137,
+    "Cerbera odollam": 0.00129
+  }
+}

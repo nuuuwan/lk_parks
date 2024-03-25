@@ -1,0 +1,32 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-25-07-50-28",
+  "species_name_to_score": {
+    "Syzygium cumini": 0.5187,
+    "Terminalia chebula": 0.0154,
+    "Ficus religiosa": 0.01358,
+    "Swietenia mahagoni": 0.01279,
+    "Chionanthus ramiflorus": 0.01256,
+    "Ficus virens": 0.00784,
+    "Triadica sebifera": 0.00472,
+    "Neolamarckia cadamba": 0.00293,
+    "Ehretia acuminata": 0.00252,
+    "Lagerstroemia speciosa": 0.00249,
+    "Ficus racemosa": 0.00239,
+    "Shorea roxburghii": 0.00225,
+    "Platymiscium pinnatum": 0.00218,
+    "Santalum album": 0.00186,
+    "Diospyros melanoxylon": 0.00177,
+    "Holarrhena pubescens": 0.00168,
+    "Aegle marmelos": 0.00166,
+    "Strychnos nux-vomica": 0.00158,
+    "Nauclea orientalis": 0.00152,
+    "Erythrina crista-galli": 0.00151,
+    "Mimusops elengi": 0.0015,
+    "Brachychiton populneus": 0.0015,
+    "Dendrobium aphyllum": 0.00118,
+    "Ficus tinctoria": 0.0011,
+    "Pterocarpus indicus": 0.00103,
+    "Annona glabra": 0.00101
+  }
+}

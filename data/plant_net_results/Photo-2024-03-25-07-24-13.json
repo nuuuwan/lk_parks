@@ -1,0 +1,18 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-25-07-24-13",
+  "species_name_to_score": {
+    "Allamanda cathartica": 0.37999,
+    "Allamanda schottii": 0.1565,
+    "Cascabela thevetia": 0.00528,
+    "Tabernaemontana divaricata": 0.0033,
+    "Debregeasia longifolia": 0.00206,
+    "Rubia tinctorum": 0.00185,
+    "Oenothera affinis": 0.00166,
+    "Adansonia digitata": 0.00166,
+    "Gardenia jasminoides": 0.00154,
+    "Hypericum patulum": 0.0014,
+    "Turnera ulmifolia": 0.00128,
+    "Flaveria trinervia": 0.00125
+  }
+}

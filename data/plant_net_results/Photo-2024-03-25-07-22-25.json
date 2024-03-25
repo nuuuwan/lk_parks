@@ -1,0 +1,30 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-25-07-22-25",
+  "species_name_to_score": {
+    "Flueggea leucopyrus": 0.40655,
+    "Bauhinia rufescens": 0.0357,
+    "Cocculus hirsutus": 0.01809,
+    "Flueggea virosa": 0.0177,
+    "Phyllanthus tenellus": 0.0166,
+    "Phyllanthus reticulatus": 0.01267,
+    "Alysicarpus vaginalis": 0.00685,
+    "Breynia retusa": 0.00323,
+    "Ziziphus mauritiana": 0.00299,
+    "Euphorbia serpens": 0.00283,
+    "Solanum diphyllum": 0.00242,
+    "Grona adscendens": 0.00224,
+    "Pisonia aculeata": 0.00164,
+    "Myrsine africana": 0.00159,
+    "Ehretia microphylla": 0.00142,
+    "Ziziphus nummularia": 0.00141,
+    "Cordia monoica": 0.0014,
+    "Malpighia coccigera": 0.00133,
+    "Drymaria cordata": 0.00132,
+    "Dichondra micrantha": 0.00129,
+    "Ficus heterophylla": 0.00113,
+    "Haematoxylum campechianum": 0.00113,
+    "Cotoneaster nummularius": 0.00106,
+    "Grewia asiatica": 0.00106
+  }
+}

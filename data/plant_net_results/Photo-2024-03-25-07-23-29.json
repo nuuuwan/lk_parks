@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-25-07-23-29",
+  "species_name_to_score": {
+    "Plumeria rubra": 0.63803,
+    "Bombax ceiba": 0.05451,
+    "Plumeria alba": 0.05427,
+    "Phytolacca dioica": 0.00328,
+    "Terminalia catappa": 0.00325,
+    "Spathodea campanulata": 0.0024,
+    "Adansonia digitata": 0.0021,
+    "Ceiba speciosa": 0.00157
+  }
+}

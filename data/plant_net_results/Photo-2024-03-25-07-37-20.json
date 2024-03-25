@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-25-07-37-20",
+  "species_name_to_score": {
+    "Syzygium jambos": 0.57304,
+    "Myrtus communis": 0.02803,
+    "Syzygium samarangense": 0.02103,
+    "Syzygium myrtifolium": 0.01277,
+    "Eugenia uniflora": 0.00502,
+    "Spiraea cantoniensis": 0.00122,
+    "Hypericum patulum": 0.00121,
+    "Lagerstroemia parviflora": 0.00116,
+    "Hopea odorata": 0.00105,
+    "Cinnamomum verum": 0.00102
+  }
+}

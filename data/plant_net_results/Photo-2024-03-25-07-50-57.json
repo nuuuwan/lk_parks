@@ -1,0 +1,20 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-25-07-50-57",
+  "species_name_to_score": {
+    "Citrus aurantiifolia": 0.43063,
+    "Citrus hystrix": 0.0962,
+    "Citrus limon": 0.04727,
+    "Citrus medica": 0.03844,
+    "Citrus maxima": 0.03026,
+    "Citrus aurantium": 0.0059,
+    "Solanum diphyllum": 0.00558,
+    "Carissa carandas": 0.00542,
+    "Gynura procumbens": 0.00427,
+    "Myristica fragrans": 0.00336,
+    "Murraya paniculata": 0.00308,
+    "Euonymus fortunei": 0.00195,
+    "Breynia androgyna": 0.00172,
+    "Suregada multiflora": 0.00102
+  }
+}

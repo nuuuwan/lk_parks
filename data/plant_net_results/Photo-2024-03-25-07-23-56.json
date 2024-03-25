@@ -1,0 +1,13 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-25-07-23-56",
+  "species_name_to_score": {
+    "Mangifera indica": 0.87737,
+    "Cerbera manghas": 0.00357,
+    "Crescentia cujete": 0.00243,
+    "Annona reticulata": 0.00233,
+    "Manilkara zapota": 0.0022,
+    "Quercus acutissima": 0.00195,
+    "Cerbera odollam": 0.0017
+  }
+}

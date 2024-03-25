@@ -1,0 +1,28 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-25-07-22-30",
+  "species_name_to_score": {
+    "Artocarpus heterophyllus": 0.5236,
+    "Ficus racemosa": 0.11739,
+    "Artocarpus integer": 0.02539,
+    "Viburnum odoratissimum": 0.01441,
+    "Ficus fistulosa": 0.01303,
+    "Ficus auriculata": 0.01059,
+    "Ficus hispida": 0.00765,
+    "Holarrhena pubescens": 0.00547,
+    "Ficus altissima": 0.00482,
+    "Ficus benghalensis": 0.00429,
+    "Artocarpus lacucha": 0.00282,
+    "Syzygium malaccense": 0.00248,
+    "Malus baccata": 0.00231,
+    "Terminalia catappa": 0.00175,
+    "Lagerstroemia speciosa": 0.0017,
+    "Myristica fragrans": 0.00166,
+    "Streblus asper": 0.00137,
+    "Citharexylum spinosum": 0.00137,
+    "Ficus variegata": 0.00127,
+    "Neolamarckia cadamba": 0.00118,
+    "Ficus retusa": 0.00106,
+    "Cola nitida": 0.00105
+  }
+}

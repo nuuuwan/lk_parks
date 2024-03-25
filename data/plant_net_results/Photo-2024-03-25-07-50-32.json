@@ -1,0 +1,21 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-25-07-50-32",
+  "species_name_to_score": {
+    "Acalypha wilkesiana": 0.35743,
+    "Amaranthus tricolor": 0.09272,
+    "Perilla frutescens": 0.01283,
+    "Alternanthera brasiliana": 0.00833,
+    "Coleus scutellarioides": 0.00685,
+    "Hypoestes phyllostachya": 0.00442,
+    "Alternanthera bettzickiana": 0.0039,
+    "Amaranthus hypochondriacus": 0.00363,
+    "Prunus cerasifera": 0.0035,
+    "Pseuderanthemum maculatum": 0.00268,
+    "Graptophyllum pictum": 0.00238,
+    "Amaranthus caudatus": 0.00216,
+    "Strobilanthes auriculata": 0.00197,
+    "Spiraea japonica": 0.00161,
+    "Hydrangea heteromalla": 0.00106
+  }
+}
