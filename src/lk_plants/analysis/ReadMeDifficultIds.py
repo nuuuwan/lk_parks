@@ -35,13 +35,20 @@ class ReadMeDifficultIds(MarkdownPage, InfoReadMe):
 
         plant_photos_difficult = plant_photos_difficult[:N_DISPLAY]
         image_lines = []
-        for i, plant_photo in enumerate(plant_photos_difficult):
+        for plant_photo in plant_photos_difficult:
+            plant_net_result = PlantNetResult.from_plant_photo(plant_photo)
+            species_name_to_score = plant_net_result.species_name_to_score
+            score_lines = []
+            for species_name, score in species_name_to_score.items():
+                score_lines.append(f'* {score:.1%} *{species_name}*')
 
             image_path = plant_photo.image_path
             image_path_unix = image_path.replace('\\', '/')
 
             image_lines.extend([
                 '### ' + plant_photo.id,
+                '',
+                '\n'.join(score_lines),
                 '',
                 f'![{plant_photo.id}]({image_path_unix})',
                 '',
