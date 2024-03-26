@@ -4,7 +4,7 @@
 
 This project aims to use Computer Vision and Artificial Intelligence to identify plants in Sri Lanka's public parks, beginning with Viharamahadevi Park, Colombo.
 
-🤖 *This report was automatically generated on  **Mar 26, 2024 (01:00 PM)**, and is based on **590** plant photos.*
+🤖 *This report was automatically generated on  **Mar 26, 2024 (01:01 PM)**, and is based on **590** plant photos.*
 
 ## [PlantNet](https://plantnet.org)
 
@@ -34,7 +34,7 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 
 *46 Photos*
 
-<img src="data/images/Photo-2024-03-20-07-32-36.jpg" alt="Mesua ferrea"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-15-07-18-09.jpg" alt="Mesua ferrea"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-15-07-18-46.jpg" alt="Mesua ferrea"  width="32%" height="32%" />
+<img src="data/images/Photo-2024-03-17-08-12-51.jpg" alt="Mesua ferrea"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-12-07-32-01.jpg" alt="Mesua ferrea"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-26-07-58-57.jpg" alt="Mesua ferrea"  width="32%" height="32%" />
 
 *Ceylon Ironwood, Cirunakappu, Iron Wood Tree, Mesua, Na, Naa, Nagakesarah Nagapuspa, Nangu*
 
@@ -44,7 +44,7 @@ Mesua ferrea, the Ceylon ironwood,  or cobra saffron, is a species in the family
 
 *29 Photos*
 
-<img src="data/images/Photo-2024-03-10-07-56-08.jpg" alt="Terminalia arjuna"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-11-07-40-43.jpg" alt="Terminalia arjuna"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-17-08-14-42.jpg" alt="Terminalia arjuna"  width="32%" height="32%" />
+<img src="data/images/Photo-2024-03-21-07-08-12.jpg" alt="Terminalia arjuna"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-12-07-01-07.jpg" alt="Terminalia arjuna"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-12-07-01-24.jpg" alt="Terminalia arjuna"  width="32%" height="32%" />
 
 *Arjun, Kakubha, Kumbuk, Maruthu, Marutu, White murdh*
 
@@ -54,7 +54,7 @@ Terminalia arjuna is a tree of the genus Terminalia. It is commonly known as arj
 
 *25 Photos*
 
-<img src="data/images/Photo-2024-03-13-07-46-52.jpg" alt="Mangifera indica"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-21-07-46-34.jpg" alt="Mangifera indica"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-12-07-03-49.jpg" alt="Mangifera indica"  width="32%" height="32%" />
+<img src="data/images/Photo-2024-03-21-07-07-53.jpg" alt="Mangifera indica"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-25-07-23-56.jpg" alt="Mangifera indica"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-13-07-36-32.jpg" alt="Mangifera indica"  width="32%" height="32%" />
 
 *Amba, Amiram, Amra, Ma, Mamaram, Mangai, Mango, Mango Tree, Mee Amba, Sahakara, आम*
 
@@ -64,7 +64,7 @@ Mangifera indica, commonly known as mango, is a species of flowering plant in th
 
 *20 Photos*
 
-<img src="data/images/Photo-2024-03-19-07-18-33.jpg" alt="Tectona grandis"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-19-07-19-33.jpg" alt="Tectona grandis"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-19-07-19-29.jpg" alt="Tectona grandis"  width="32%" height="32%" />
+<img src="data/images/Photo-2024-03-19-07-18-17.jpg" alt="Tectona grandis"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-19-07-19-33.jpg" alt="Tectona grandis"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-11-06-47-05.jpg" alt="Tectona grandis"  width="32%" height="32%" />
 
 *Bankok teak, Bardaru, Bhumisah, Dwardaru, Indian-oak, Kharchchada, Kolaphala, Saaka, Sabarasaara, Teak, The Kka Signify Long Sound, Thekku*
 
@@ -74,7 +74,7 @@ Teak (Tectona grandis) is a tropical hardwood tree species in the family Lamiace
 
 *19 Photos*
 
-<img src="data/images/Photo-2024-03-15-07-17-30.jpg" alt="Artocarpus heterophyllus"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-25-07-22-44.jpg" alt="Artocarpus heterophyllus"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-15-07-20-25.jpg" alt="Artocarpus heterophyllus"  width="32%" height="32%" />
+<img src="data/images/Photo-2024-03-13-07-18-33.jpg" alt="Artocarpus heterophyllus"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-13-07-01-28.jpg" alt="Artocarpus heterophyllus"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-15-07-05-26.jpg" alt="Artocarpus heterophyllus"  width="32%" height="32%" />
 
 *Herali, Jackfruit, Kos, Pala, Palavu, Panasam, Pila, Vaela, Waraka See Artocarpus Indica, কাঠাল, పనస*
 
@@ -84,7 +84,7 @@ The jackfruit is the fruit of jack tree Artocarpus heterophyllus, a species of t
 
 *18 Photos*
 
-<img src="data/images/Photo-2024-03-11-06-27-42.jpg" alt="Tabernaemontana divaricata"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-21-07-35-06.jpg" alt="Tabernaemontana divaricata"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-11-06-27-36.jpg" alt="Tabernaemontana divaricata"  width="32%" height="32%" />
+<img src="data/images/Photo-2024-03-23-08-55-44.jpg" alt="Tabernaemontana divaricata"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-21-07-34-39.jpg" alt="Tabernaemontana divaricata"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-21-07-08-53.jpg" alt="Tabernaemontana divaricata"  width="32%" height="32%" />
 
 *Adukkunandiyavattai, Butterfly-gardenia, Crape-jasmine, Nandi Battai, Nandiar Vattai, Nandivrksah, Vathu Sudda, Wathu Sudda, Watu Sudda, Watusudda, నందివర్ధనం*
 
@@ -94,7 +94,7 @@ Tabernaemontana divaricata, commonly called pinwheel flower, crape jasmine, East
 
 *17 Photos*
 
-<img src="data/images/Photo-2024-03-08-07-07-01.jpg" alt="Terminalia catappa"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-13-07-19-49.jpg" alt="Terminalia catappa"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-21-07-33-01.jpg" alt="Terminalia catappa"  width="32%" height="32%" />
+<img src="data/images/Photo-2024-03-21-07-33-23.jpg" alt="Terminalia catappa"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-11-06-36-36.jpg" alt="Terminalia catappa"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-22-08-07-24.jpg" alt="Terminalia catappa"  width="32%" height="32%" />
 
 *Country-almond, Indian-almond, Kottamba, Kottan, Nattu Vadam, Nattuvadumai, Tailaphala, Tropical almond*
 
@@ -104,7 +104,7 @@ Terminalia catappa is a large tropical tree in the leadwood tree family, Combret
 
 *16 Photos*
 
-<img src="data/images/Photo-2024-03-11-06-40-31.jpg" alt="Tecoma stans"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-11-06-40-57.jpg" alt="Tecoma stans"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-11-06-40-54.jpg" alt="Tecoma stans"  width="32%" height="32%" />
+<img src="data/images/Photo-2024-03-11-06-40-14.jpg" alt="Tecoma stans"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-11-06-40-31.jpg" alt="Tecoma stans"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-11-06-39-58.jpg" alt="Tecoma stans"  width="32%" height="32%" />
 
 *Kaelanitissa, Kelantissa, Rankaerali, Swarnaptti, Tankarali, Trumpet-flower, Yellow trumpet flower, Yellow-bells*
 
@@ -114,7 +114,7 @@ Tecoma stans is a species of flowering perennial shrub in the trumpet vine famil
 
 *16 Photos*
 
-<img src="data/images/Photo-2024-03-10-07-57-51.jpg" alt="Peltophorum pterocarpum"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-17-08-17-54.jpg" alt="Peltophorum pterocarpum"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-11-06-55-06.jpg" alt="Peltophorum pterocarpum"  width="32%" height="32%" />
+<img src="data/images/Photo-2024-03-26-08-00-43.jpg" alt="Peltophorum pterocarpum"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-21-08-13-19.jpg" alt="Peltophorum pterocarpum"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-22-08-05-36.jpg" alt="Peltophorum pterocarpum"  width="32%" height="32%" />
 
 *Copperpod, Kaha Maara, Kona Maram, Maara, Nilalvakai, Yellow flame, Yellow flametree*
 
@@ -124,7 +124,7 @@ Peltophorum pterocarpum (commonly known as copperpod, yellow-flamboyant, yellow 
 
 *15 Photos*
 
-<img src="data/images/Photo-2024-03-21-07-07-24.jpg" alt="Pongamia pinnata"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-21-08-10-07.jpg" alt="Pongamia pinnata"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-23-07-56-46.jpg" alt="Pongamia pinnata"  width="32%" height="32%" />
+<img src="data/images/Photo-2024-03-21-07-07-21.jpg" alt="Pongamia pinnata"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-23-07-54-05.jpg" alt="Pongamia pinnata"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-13-06-59-24.jpg" alt="Pongamia pinnata"  width="32%" height="32%" />
 
 *Indian Beech, Karanda, Karanj, Kolliyam, Naktamaala, Pomka, Pongam, Punku*
 
@@ -190,160 +190,162 @@ Pongamia pinnata is a species of tree in the pea family, Fabaceae, native to eas
 
 Photos where the identification confidence is **< 20%**.
 
-### Photo-2024-03-21-07-49-49
+### Photo-2024-03-26-08-01-24
 
-* 5.3% *Areca triandra*
-* 0.5% *Dendrocalamus giganteus*
-* 0.4% *Dypsis lutescens*
+* 11.9% *Spathodea campanulata*
+* 4.2% *Cananga odorata*
+* 3.4% *Theobroma cacao*
 
-![Photo-2024-03-21-07-49-49](data/images/Photo-2024-03-21-07-49-49.jpg)
+![Photo-2024-03-26-08-01-24](data/images/Photo-2024-03-26-08-01-24.jpg)
 
-### Photo-2024-03-20-07-38-47
+### Photo-2024-03-14-08-00-09
 
-* 3.7% *Pterocarpus indicus*
-* 3.2% *Cassia fistula*
-* 3.2% *Holarrhena pubescens*
+* 18.9% *Areca triandra*
+* 0.3% *Dendrocalamus giganteus*
+* 0.3% *Dypsis lutescens*
 
-![Photo-2024-03-20-07-38-47](data/images/Photo-2024-03-20-07-38-47.jpg)
+![Photo-2024-03-14-08-00-09](data/images/Photo-2024-03-14-08-00-09.jpg)
 
-### Photo-2024-03-12-07-36-10
+### Photo-2024-03-22-08-04-41
 
-* 14.3% *Ficus religiosa*
-* 6.1% *Digera muricata*
-* 4.4% *Balanites maughamii*
+* 7.0% *Saurauia napaulensis*
+* 2.3% *Syzygium jambos*
+* 1.0% *Plumeria rubra*
 
-![Photo-2024-03-12-07-36-10](data/images/Photo-2024-03-12-07-36-10.jpg)
+![Photo-2024-03-22-08-04-41](data/images/Photo-2024-03-22-08-04-41.jpg)
 
-### Photo-2024-03-21-07-07-43
+### Photo-2024-03-26-07-41-34
 
-* 5.2% *Pongamia pinnata*
-* 4.8% *Elaeocarpus serratus*
-* 4.5% *Brownea grandiceps*
+* 4.4% *Heritiera littoralis*
+* 2.7% *Alangium salviifolium*
+* 2.5% *Annona muricata*
 
-![Photo-2024-03-21-07-07-43](data/images/Photo-2024-03-21-07-07-43.jpg)
+![Photo-2024-03-26-07-41-34](data/images/Photo-2024-03-26-07-41-34.jpg)
 
-### Photo-2024-03-21-08-16-29
+### Photo-2024-03-08-07-00-57
 
-* 2.2% *Toona ciliata*
-* 1.6% *Swietenia mahagoni*
-* 1.1% *Hymenaea courbaril*
+* 8.6% *Cinnamomum camphora*
+* 7.7% *Mimusops elengi*
+* 7.1% *Syzygium cumini*
 
-![Photo-2024-03-21-08-16-29](data/images/Photo-2024-03-21-08-16-29.jpg)
+![Photo-2024-03-08-07-00-57](data/images/Photo-2024-03-08-07-00-57.jpg)
 
-### Photo-2024-03-11-06-38-04
+### Photo-2024-03-23-07-56-12
 
-* 15.2% *Quercus humboldtii*
-* 5.1% *Prunus serrulata*
-* 3.0% *Tabebuia rosea*
+* 6.3% *Annona reticulata*
+* 3.1% *Syzygium cumini*
+* 2.7% *Santalum album*
 
-![Photo-2024-03-11-06-38-04](data/images/Photo-2024-03-11-06-38-04.jpg)
+![Photo-2024-03-23-07-56-12](data/images/Photo-2024-03-23-07-56-12.jpg)
 
-### Photo-2024-03-08-07-00-22
+### Photo-2024-03-11-06-49-39
 
-* 7.9% *Moquilea tomentosa*
-* 4.7% *Guarea guidonia*
-* 4.5% *Syzygium cumini*
+* 6.9% *Alnus formosana*
+* 4.3% *Ulmus pumila*
+* 3.4% *Chrysophyllum oliviforme*
 
-![Photo-2024-03-08-07-00-22](data/images/Photo-2024-03-08-07-00-22.jpg)
+![Photo-2024-03-11-06-49-39](data/images/Photo-2024-03-11-06-49-39.jpg)
 
-### Photo-2024-03-17-08-02-15
+### Photo-2024-03-13-07-47-26
 
-* 3.5% *Podocarpus neriifolius*
-* 0.3% *Dodonaea viscosa*
-* 0.2% *Searsia lancea*
+* 9.1% *Mangifera indica*
+* 6.7% *Persea americana*
+* 3.1% *Quercus acutissima*
 
-![Photo-2024-03-17-08-02-15](data/images/Photo-2024-03-17-08-02-15.jpg)
+![Photo-2024-03-13-07-47-26](data/images/Photo-2024-03-13-07-47-26.jpg)
 
-### Photo-2024-03-20-07-03-29
+### Photo-2024-03-21-08-10-57
 
-* 7.5% *Bougainvillea glabra*
-* 4.4% *Citrus aurantium*
-* 2.9% *Pongamia pinnata*
+* 5.3% *Manilkara zapota*
+* 4.3% *Saurauia napaulensis*
+* 2.4% *Terminalia arjuna*
 
-![Photo-2024-03-20-07-03-29](data/images/Photo-2024-03-20-07-03-29.jpg)
+![Photo-2024-03-21-08-10-57](data/images/Photo-2024-03-21-08-10-57.jpg)
 
-### Photo-2024-03-20-07-38-21
+### Photo-2024-03-12-06-51-02
 
-* 8.7% *Cassia fistula*
-* 5.0% *Pterocarpus indicus*
-* 3.5% *Holarrhena pubescens*
+* 12.1% *Manilkara zapota*
+* 9.6% *Quercus humboldtii*
+* 5.6% *Genipa americana*
 
-![Photo-2024-03-20-07-38-21](data/images/Photo-2024-03-20-07-38-21.jpg)
+![Photo-2024-03-12-06-51-02](data/images/Photo-2024-03-12-06-51-02.jpg)
 
-### Photo-2024-03-23-08-53-38
+### Photo-2024-03-15-07-07-22
 
-* 8.2% *Heptapleurum actinophyllum*
-* 0.7% *Manilkara zapota*
-* 0.4% *Bombax ceiba*
+* 16.5% *Barringtonia acutangula*
+* 2.3% *Couroupita guianensis*
+* 1.3% *Madhuca longifolia*
 
-![Photo-2024-03-23-08-53-38](data/images/Photo-2024-03-23-08-53-38.jpg)
+![Photo-2024-03-15-07-07-22](data/images/Photo-2024-03-15-07-07-22.jpg)
 
-### Photo-2024-03-26-07-41-11
+### Photo-2024-03-12-07-31-52
 
-* 13.0% *Peltophorum pterocarpum*
-* 2.6% *Libidibia coriaria*
-* 1.3% *Bambusa vulgaris*
+* 11.1% *Mesua ferrea*
+* 5.0% *Eucalyptus globulus*
+* 4.9% *Tipuana tipu*
 
-![Photo-2024-03-26-07-41-11](data/images/Photo-2024-03-26-07-41-11.jpg)
+![Photo-2024-03-12-07-31-52](data/images/Photo-2024-03-12-07-31-52.jpg)
 
-### Photo-2024-03-22-08-05-23
+### Photo-2024-03-26-07-49-00
 
-* 4.2% *Swietenia mahagoni*
-* 4.0% *Pterocarpus indicus*
-* 2.6% *Gliricidia sepium*
+* 8.6% *Vitex altissima*
+* 6.3% *Adansonia digitata*
+* 5.5% *Vitex pinnata*
 
-![Photo-2024-03-22-08-05-23](data/images/Photo-2024-03-22-08-05-23.jpg)
+![Photo-2024-03-26-07-49-00](data/images/Photo-2024-03-26-07-49-00.jpg)
 
-### Photo-2024-03-21-07-53-20
+### Photo-2024-03-15-07-01-43
 
-* 0.2% *Lagerstroemia speciosa*
+* 13.5% *Podocarpus neriifolius*
+* 4.7% *Melaleuca viminalis*
+* 1.2% *Cascabela thevetia*
 
-![Photo-2024-03-21-07-53-20](data/images/Photo-2024-03-21-07-53-20.jpg)
+![Photo-2024-03-15-07-01-43](data/images/Photo-2024-03-15-07-01-43.jpg)
 
-### Photo-2024-03-26-07-38-45
+### Photo-2024-03-21-08-14-43
 
-* 8.3% *Toona ciliata*
-* 5.7% *Jacaranda mimosifolia*
-* 4.8% *Cassia grandis*
+* 6.1% *Muntingia calabura*
+* 4.8% *Brownea grandiceps*
+* 3.7% *Tipuana tipu*
 
-![Photo-2024-03-26-07-38-45](data/images/Photo-2024-03-26-07-38-45.jpg)
+![Photo-2024-03-21-08-14-43](data/images/Photo-2024-03-21-08-14-43.jpg)
 
-### Photo-2024-03-11-06-44-05
+### Photo-2024-03-21-07-48-00
 
-* 6.7% *Khaya anthotheca*
-* 6.4% *Kirkia acuminata*
-* 6.2% *Gardenia urvillei*
+* 10.3% *Samanea saman*
+* 5.0% *Tipuana tipu*
+* 2.6% *Choerospondias axillaris*
 
-![Photo-2024-03-11-06-44-05](data/images/Photo-2024-03-11-06-44-05.jpg)
+![Photo-2024-03-21-07-48-00](data/images/Photo-2024-03-21-07-48-00.jpg)
 
-### Photo-2024-03-15-07-01-04
+### Photo-2024-03-20-07-03-23
 
-* 2.4% *Melaleuca citrina*
-* 2.1% *Melaleuca viminalis*
-* 1.6% *Chamaecytisus prolifer*
+* 7.8% *Cordia dichotoma*
+* 7.4% *Pterocarpus santalinus*
+* 3.9% *Dalbergia latifolia*
 
-![Photo-2024-03-15-07-01-04](data/images/Photo-2024-03-15-07-01-04.jpg)
+![Photo-2024-03-20-07-03-23](data/images/Photo-2024-03-20-07-03-23.jpg)
 
-### Photo-2024-03-23-08-55-13
+### Photo-2024-03-11-06-35-58
 
-* 6.5% *Ficus virens*
-* 3.7% *Syzygium cumini*
-* 3.0% *Ficus racemosa*
+* 18.7% *Lagerstroemia speciosa*
+* 8.2% *Toona ciliata*
+* 4.6% *Terminalia arjuna*
 
-![Photo-2024-03-23-08-55-13](data/images/Photo-2024-03-23-08-55-13.jpg)
+![Photo-2024-03-11-06-35-58](data/images/Photo-2024-03-11-06-35-58.jpg)
 
-### Photo-2024-03-26-08-00-54
+### Photo-2024-03-17-08-09-01
 
-* 7.7% *Spathodea campanulata*
-* 5.3% *Theobroma cacao*
-* 2.8% *Cananga odorata*
+* 0.4% *Acacia confusa*
+* 0.2% *Schizolobium parahyba*
+* 0.2% *Elaeocarpus angustifolius*
 
-![Photo-2024-03-26-08-00-54](data/images/Photo-2024-03-26-08-00-54.jpg)
+![Photo-2024-03-17-08-09-01](data/images/Photo-2024-03-17-08-09-01.jpg)
 
-### Photo-2024-03-10-06-44-18
+### Photo-2024-03-08-06-52-20
 
-* 14.6% *Peltophorum dubium*
-* 9.3% *Jacaranda mimosifolia*
-* 8.2% *Delonix regia*
+* 9.9% *Tabebuia rosea*
+* 5.2% *Tabebuia pallida*
+* 4.4% *Phytolacca dioica*
 
-![Photo-2024-03-10-06-44-18](data/images/Photo-2024-03-10-06-44-18.jpg)
+![Photo-2024-03-08-06-52-20](data/images/Photo-2024-03-08-06-52-20.jpg)
