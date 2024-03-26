@@ -1,5 +1,4 @@
-from lk_plants import DataApp, PlantNetResult, PlantPhoto, ReadMe, WikiPage
-from workflows import scrape_app
+from lk_plants import DataApp, PlantNetResult, PlantPhoto, ReadMe, WikiPage, App
 
 
 def main():
@@ -10,12 +9,8 @@ def main():
     DataApp.write_all()
 
     ReadMe().write()
-    scrape_app.main()
-
-
-def test_main():
-    ReadMe().write()
+    App.scrape()
 
 
 if __name__ == "__main__":
-    test_main()
+   main()
