@@ -27,8 +27,10 @@ class Markdown:
         return f'![{alt}]({url})'
 
     @staticmethod
-    def image_html(alt, url, width, height=None, style=""):
-        all_style=  f'width="{width}" style={style}'
+    def image_html(alt, url, width=None, height=None):
+        all_style = ""
+        if width:
+            all_style += f' width="{width}"'
         if height:
             all_style += f' height="{height}"'
         return (
