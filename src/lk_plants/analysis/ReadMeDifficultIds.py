@@ -59,7 +59,7 @@ class ReadMeDifficultIds(MarkdownPage, InfoReadMe):
     @cached_property
     def lines(self) -> list[str]:
         return [
-            '## Examples of Plant Photos difficult to Identify',
+            '## Sample of Plant Photos difficult to Identify',
             '',
             'Photos where the identification confidence '+f'is **< {ReadMeDifficultIds.MIN_CONFIDENCE:.0%}**.',
             '',
