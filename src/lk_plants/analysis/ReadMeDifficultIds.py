@@ -36,8 +36,11 @@ class ReadMeDifficultIds(MarkdownPage, InfoReadMe):
         for i, plant_photo in enumerate(plant_photos_difficult):
             if i % N_COLUMNS == 0:
                 image_lines.append('')
+            image_path = plant_photo.image_path
+            image_path_unix = image_path.replace('\\', '/')
+
             image_lines.append(
-                f'![{plant_photo.id}]({plant_photo.image_path})'
+                f'![{plant_photo.id}]({image_path_unix})'
             )
         return image_lines
 
