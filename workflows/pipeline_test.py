@@ -1,9 +1,8 @@
-from lk_plants import ReadMe
+from lk_plants import App
 
 
 def test_main():
-    ReadMe().write()
-
+    App.scrape()
 
 if __name__ == "__main__":
     test_main()
