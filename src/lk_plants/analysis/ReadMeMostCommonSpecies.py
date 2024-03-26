@@ -1,5 +1,5 @@
 from functools import cached_property
-
+import random
 from utils import Log
 
 from lk_plants.analysis.ReadMeStatisticsByTaxonomy import \
@@ -16,10 +16,7 @@ class ReadMeMostCommonSpecies(ReadMeStatisticsByTaxonomy):
     @staticmethod
     def get_lines_for_species(species_name, plant_photo_list):
         MAX_PLANT_PHOTOS = 3
-        plant_photo_list.sort(
-            key=lambda plant_photo: plant_photo.latlng.lat,
-
-        )
+        random.shuffle(plant_photo_list)
         best_plant_photos = plant_photo_list[:MAX_PLANT_PHOTOS]
 
         image_md_list = []
