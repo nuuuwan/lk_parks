@@ -2,14 +2,15 @@ from functools import cache, cached_property
 
 from utils import Log
 
+from lk_plants.analysis.InfoReadMe import InfoReadMe
 from lk_plants.core.plant_net.PlantNetResult import PlantNetResult
 from lk_plants.core.taxonomy.Species import Species
-from utils_future import Markdown
+from utils_future import Markdown, MarkdownPage
 
-log = Log('TaxonomyReport')
+log = Log('ReadMeStatisticsByTaxonomy')
 
 
-class TaxonomyReport:
+class ReadMeStatisticsByTaxonomy(MarkdownPage, InfoReadMe):
     N_DISPLAY = 10
 
     @cache
@@ -29,9 +30,11 @@ class TaxonomyReport:
         sorted_key_and_data_list = sorted(
             key_to_data_list.items(), key=lambda x: -len(x[1])
         )
-        top_list = sorted_key_and_data_list[: TaxonomyReport.N_DISPLAY]
+        top_list = sorted_key_and_data_list[
+            : ReadMeStatisticsByTaxonomy.N_DISPLAY
+        ]
         others_list_list = sorted_key_and_data_list[
-            TaxonomyReport.N_DISPLAY:
+            ReadMeStatisticsByTaxonomy.N_DISPLAY:
         ]
         others_list = []
         for data_list in others_list_list:
@@ -56,7 +59,9 @@ class TaxonomyReport:
         ):
             n = len(data_list)
             p = n / self.n_plant_photos
-            row_str = (i + 1) if i < TaxonomyReport.N_DISPLAY else ''
+            row_str = (
+                (i + 1) if i < ReadMeStatisticsByTaxonomy.N_DISPLAY else ''
+            )
 
             lines.extend(
                 Markdown.table(
@@ -119,16 +124,18 @@ class TaxonomyReport:
     @cached_property
     def lines_analysis_species(self):
         return self.get_lines_analysis_by_key(
-            'Species', TaxonomyReport.get_key_species
+            'Species', ReadMeStatisticsByTaxonomy.get_key_species
         )
 
     @cached_property
     def lines_most_common_species(self):
         key_and_data_list = self.get_sorted_key_and_data_list(
-            TaxonomyReport.get_key_species
+            ReadMeStatisticsByTaxonomy.get_key_species
         )
         image_lines = []
-        for key, data_list in key_and_data_list[: TaxonomyReport.N_DISPLAY]:
+        for key, data_list in key_and_data_list[
+            : ReadMeStatisticsByTaxonomy.N_DISPLAY
+        ]:
             data_list.sort(
                 key=lambda x: list(
                     PlantNetResult.from_plant_photo(
@@ -144,3 +151,19 @@ class TaxonomyReport:
                 Markdown.image_html(key, image_path_unix, "33%")
             )
         return [''.join(image_lines), '']
+
+    @cached_property
+    def file_path(self):
+        return 'README.statistics.taxonomy.md'
+
+    @cached_property
+    def lines(self) -> list[str]:
+        return [
+            '## Statistics by Taxonomy',
+            '',
+        ] + (
+            self.lines_most_common_species
+            + self.lines_analysis_species
+            + self.lines_analysis_genera
+            + self.lines_analysis_families
+        )

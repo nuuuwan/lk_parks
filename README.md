@@ -1,6 +1,10 @@
 # Plants of Vihaaramahadevi Park :sri_lanka:
 
-*This analysis was automatically generated on  **Mar 26, 2024 (11:27 AM)**, and is based on  **590** plant photos.*
+## About this Project
+
+This analysis is part of a project to identify plants in Sri Lanka's public parks.
+
+It was automatically generated on  **Mar 26, 2024 (11:51 AM)**, and is based on  **590** plant photos.*
 
 ## Background
 
@@ -22,7 +26,7 @@ Results can be directly inspected using our [Plants](https://nuuuwan.github.io/p
 
 ![App](images/app.png)
 
-## Summary Statistics
+## Statistics by Taxonomy
 
 <img src="data/images/Photo-2024-03-11-07-03-27.jpg" alt="Mesua ferrea" width="33%" style= /><img src="data/images/Photo-2024-03-21-07-08-12.jpg" alt="Terminalia arjuna" width="33%" style= /><img src="data/images/Photo-2024-03-21-08-12-16.jpg" alt="Mangifera indica" width="33%" style= /><img src="data/images/Photo-2024-03-19-07-18-25.jpg" alt="Tectona grandis" width="33%" style= /><img src="data/images/Photo-2024-03-25-07-22-44.jpg" alt="Artocarpus heterophyllus" width="33%" style= /><img src="data/images/Photo-2024-03-11-06-27-36.jpg" alt="Tabernaemontana divaricata" width="33%" style= /><img src="data/images/Photo-2024-03-11-06-36-36.jpg" alt="Terminalia catappa" width="33%" style= /><img src="data/images/Photo-2024-03-11-06-40-57.jpg" alt="Tecoma stans" width="33%" style= /><img src="data/images/Photo-2024-03-22-08-05-36.jpg" alt="Peltophorum pterocarpum" width="33%" style= /><img src="data/images/Photo-2024-03-21-08-10-07.jpg" alt="Pongamia pinnata" width="33%" style= />
 
@@ -79,14 +83,3 @@ Results can be directly inspected using our [Plants](https://nuuuwan.github.io/p
 | 9 | [*Lamiaceae*](https://en.wikipedia.org/wiki/Lamiaceae) | 21 | 3.6% |
 | 10 | [*Meliaceae*](https://en.wikipedia.org/wiki/Meliaceae) | 20 | 3.4% |
 |  | *(All Others)* | 96 | 16.3% |
-
-## Identification Confidence
-
-![](images/identification_score.species.png)
-
-## Pairs of Plant Species, likely confused during identification (at least 3 times)
-
-| Species 1 | Species 2 | n(Photos) |
-| :--- | :--- | ---: |
-| *Peltophorum dubium* | *Peltophorum pterocarpum* | 3 |
-| *Jacaranda mimosifolia* | *Peltophorum pterocarpum* | 3 |

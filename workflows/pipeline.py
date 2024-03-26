@@ -1,5 +1,4 @@
-from lk_plants import (DataApp, PlantNetResult, PlantPhoto,
-                       ViharamahadeviParkReport, WikiPage)
+from lk_plants import DataApp, PlantNetResult, PlantPhoto, ReadMe, WikiPage
 from workflows import scrape_app
 
 
@@ -10,9 +9,13 @@ def main():
     WikiPage.build()
     DataApp.write_all()
 
-    ViharamahadeviParkReport().write()
+    ReadMe().write()
     scrape_app.main()
 
 
+def test_main():
+    ReadMe().write()
+
+
 if __name__ == "__main__":
-    main()
+    test_main()
