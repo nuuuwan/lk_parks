@@ -16,7 +16,7 @@ log = Log('ReadMeMostCommonSpecies')
 class ReadMeMostCommonSpecies(ReadMeStatisticsByTaxonomy):
     @staticmethod
     def get_lines_for_species(species_name, plant_photo_list):
-        MAX_PLANT_PHOTOS = 4
+        MAX_PLANT_PHOTOS = 3
         random.shuffle(plant_photo_list)
         best_plant_photos = plant_photo_list[:MAX_PLANT_PHOTOS]
 
@@ -25,9 +25,6 @@ class ReadMeMostCommonSpecies(ReadMeStatisticsByTaxonomy):
             image_path = plant_photo.image_path
             image_path_unix = image_path.replace('\\', '/')
             p_dim = 1.0 / MAX_PLANT_PHOTOS - 0.01
-            if not image_md_list:
-                p_dim *= 2
-
             dim = f'{p_dim:.0%}'
             image_md = Markdown.image_html(
                 species_name, image_path_unix, width=dim, height=dim

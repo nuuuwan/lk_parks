@@ -4,7 +4,7 @@
 
 *45 Photos*
 
-<img src="data/images/Photo-2024-03-17-08-14-49.jpg" alt="Mesua ferrea"  width="48%" height="48%" /> <img src="data/images/Photo-2024-03-17-08-11-55.jpg" alt="Mesua ferrea"  width="24%" height="24%" /> <img src="data/images/Photo-2024-03-11-07-32-29.jpg" alt="Mesua ferrea"  width="24%" height="24%" /> <img src="data/images/Photo-2024-03-26-07-49-33.jpg" alt="Mesua ferrea"  width="24%" height="24%" />
+<img src="data/images/Photo-2024-03-17-08-12-06.jpg" alt="Mesua ferrea"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-17-08-12-38.jpg" alt="Mesua ferrea"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-19-07-14-49.jpg" alt="Mesua ferrea"  width="32%" height="32%" />
 
 *Ceylon Ironwood, Cirunakappu, Iron Wood Tree, Mesua, Na, Naa, Nagakesarah Nagapuspa, Nangu*
 
@@ -14,7 +14,7 @@ Mesua ferrea, the Ceylon ironwood,  or cobra saffron, is a species in the family
 
 *27 Photos*
 
-<img src="data/images/Photo-2024-03-17-08-14-42.jpg" alt="Terminalia arjuna"  width="48%" height="48%" /> <img src="data/images/Photo-2024-03-11-06-52-08.jpg" alt="Terminalia arjuna"  width="24%" height="24%" /> <img src="data/images/Photo-2024-03-12-07-09-09.jpg" alt="Terminalia arjuna"  width="24%" height="24%" /> <img src="data/images/Photo-2024-03-17-08-31-09.jpg" alt="Terminalia arjuna"  width="24%" height="24%" />
+<img src="data/images/Photo-2024-03-11-07-40-43.jpg" alt="Terminalia arjuna"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-21-08-15-21.jpg" alt="Terminalia arjuna"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-13-07-10-08.jpg" alt="Terminalia arjuna"  width="32%" height="32%" />
 
 *Arjun, Kakubha, Kumbuk, Maruthu, Marutu, White murdh*
 
@@ -24,7 +24,7 @@ Terminalia arjuna is a tree of the genus Terminalia. It is commonly known as arj
 
 *23 Photos*
 
-<img src="data/images/Photo-2024-03-10-06-47-17.jpg" alt="Mangifera indica"  width="48%" height="48%" /> <img src="data/images/Photo-2024-03-21-08-12-16.jpg" alt="Mangifera indica"  width="24%" height="24%" /> <img src="data/images/Photo-2024-03-23-07-55-33.jpg" alt="Mangifera indica"  width="24%" height="24%" /> <img src="data/images/Photo-2024-03-13-07-35-53.jpg" alt="Mangifera indica"  width="24%" height="24%" />
+<img src="data/images/Photo-2024-03-21-07-08-25.jpg" alt="Mangifera indica"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-20-07-40-01.jpg" alt="Mangifera indica"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-21-07-07-53.jpg" alt="Mangifera indica"  width="32%" height="32%" />
 
 *Amba, Amiram, Amra, Ma, Mamaram, Mangai, Mango, Mango Tree, Mee Amba, Sahakara, आम*
 
@@ -34,7 +34,7 @@ Mangifera indica, commonly known as mango, is a species of flowering plant in th
 
 *19 Photos*
 
-<img src="data/images/Photo-2024-03-15-07-17-30.jpg" alt="Artocarpus heterophyllus"  width="48%" height="48%" /> <img src="data/images/Photo-2024-03-20-07-42-49.jpg" alt="Artocarpus heterophyllus"  width="24%" height="24%" /> <img src="data/images/Photo-2024-03-21-07-53-45.jpg" alt="Artocarpus heterophyllus"  width="24%" height="24%" /> <img src="data/images/Photo-2024-03-15-07-05-26.jpg" alt="Artocarpus heterophyllus"  width="24%" height="24%" />
+<img src="data/images/Photo-2024-03-25-07-22-30.jpg" alt="Artocarpus heterophyllus"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-13-07-18-43.jpg" alt="Artocarpus heterophyllus"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-12-07-33-01.jpg" alt="Artocarpus heterophyllus"  width="32%" height="32%" />
 
 *Herali, Jackfruit, Kos, Pala, Palavu, Panasam, Pila, Vaela, Waraka See Artocarpus Indica, কাঠাল, పనస*
 
@@ -44,7 +44,7 @@ The jackfruit is the fruit of jack tree Artocarpus heterophyllus, a species of t
 
 *19 Photos*
 
-<img src="data/images/Photo-2024-03-19-07-19-17.jpg" alt="Tectona grandis"  width="48%" height="48%" /> <img src="data/images/Photo-2024-03-19-07-19-10.jpg" alt="Tectona grandis"  width="24%" height="24%" /> <img src="data/images/Photo-2024-03-19-07-17-57.jpg" alt="Tectona grandis"  width="24%" height="24%" /> <img src="data/images/Photo-2024-03-21-08-16-14.jpg" alt="Tectona grandis"  width="24%" height="24%" />
+<img src="data/images/Photo-2024-03-19-07-19-29.jpg" alt="Tectona grandis"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-11-06-47-35.jpg" alt="Tectona grandis"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-21-08-16-14.jpg" alt="Tectona grandis"  width="32%" height="32%" />
 
 *Bankok teak, Bardaru, Bhumisah, Dwardaru, Indian-oak, Kharchchada, Kolaphala, Saaka, Sabarasaara, Teak, The Kka Signify Long Sound, Thekku*
 
@@ -54,7 +54,7 @@ Teak (Tectona grandis) is a tropical hardwood tree species in the family Lamiace
 
 *17 Photos*
 
-<img src="data/images/Photo-2024-03-22-08-07-24.jpg" alt="Terminalia catappa"  width="48%" height="48%" /> <img src="data/images/Photo-2024-03-21-07-51-54.jpg" alt="Terminalia catappa"  width="24%" height="24%" /> <img src="data/images/Photo-2024-03-10-07-55-03.jpg" alt="Terminalia catappa"  width="24%" height="24%" /> <img src="data/images/Photo-2024-03-11-06-32-13.jpg" alt="Terminalia catappa"  width="24%" height="24%" />
+<img src="data/images/Photo-2024-03-26-07-39-56.jpg" alt="Terminalia catappa"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-22-08-08-02.jpg" alt="Terminalia catappa"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-10-07-55-03.jpg" alt="Terminalia catappa"  width="32%" height="32%" />
 
 *Country-almond, Indian-almond, Kottamba, Kottan, Nattu Vadam, Nattuvadumai, Tailaphala, Tropical almond*
 
@@ -64,7 +64,7 @@ Terminalia catappa is a large tropical tree in the leadwood tree family, Combret
 
 *16 Photos*
 
-<img src="data/images/Photo-2024-03-11-06-40-57.jpg" alt="Tecoma stans"  width="48%" height="48%" /> <img src="data/images/Photo-2024-03-11-06-40-42.jpg" alt="Tecoma stans"  width="24%" height="24%" /> <img src="data/images/Photo-2024-03-11-06-40-46.jpg" alt="Tecoma stans"  width="24%" height="24%" /> <img src="data/images/Photo-2024-03-11-06-39-58.jpg" alt="Tecoma stans"  width="24%" height="24%" />
+<img src="data/images/Photo-2024-03-11-06-40-31.jpg" alt="Tecoma stans"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-11-06-40-37.jpg" alt="Tecoma stans"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-11-06-40-57.jpg" alt="Tecoma stans"  width="32%" height="32%" />
 
 *Kaelanitissa, Kelantissa, Rankaerali, Swarnaptti, Tankarali, Trumpet-flower, Yellow trumpet flower, Yellow-bells*
 
@@ -74,7 +74,7 @@ Tecoma stans is a species of flowering perennial shrub in the trumpet vine famil
 
 *16 Photos*
 
-<img src="data/images/Photo-2024-03-11-06-28-01.jpg" alt="Tabernaemontana divaricata"  width="48%" height="48%" /> <img src="data/images/Photo-2024-03-23-08-55-44.jpg" alt="Tabernaemontana divaricata"  width="24%" height="24%" /> <img src="data/images/Photo-2024-03-23-08-57-10.jpg" alt="Tabernaemontana divaricata"  width="24%" height="24%" /> <img src="data/images/Photo-2024-03-11-06-27-14.jpg" alt="Tabernaemontana divaricata"  width="24%" height="24%" />
+<img src="data/images/Photo-2024-03-14-07-59-58.jpg" alt="Tabernaemontana divaricata"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-23-08-56-26.jpg" alt="Tabernaemontana divaricata"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-23-08-56-47.jpg" alt="Tabernaemontana divaricata"  width="32%" height="32%" />
 
 *Adukkunandiyavattai, Butterfly-gardenia, Crape-jasmine, Nandi Battai, Nandiar Vattai, Nandivrksah, Vathu Sudda, Wathu Sudda, Watu Sudda, Watusudda, నందివర్ధనం*
 
@@ -84,7 +84,7 @@ Tabernaemontana divaricata, commonly called pinwheel flower, crape jasmine, East
 
 *15 Photos*
 
-<img src="data/images/Photo-2024-03-13-06-59-28.jpg" alt="Pongamia pinnata"  width="48%" height="48%" /> <img src="data/images/Photo-2024-03-21-08-10-07.jpg" alt="Pongamia pinnata"  width="24%" height="24%" /> <img src="data/images/Photo-2024-03-13-06-59-24.jpg" alt="Pongamia pinnata"  width="24%" height="24%" /> <img src="data/images/Photo-2024-03-13-07-20-07.jpg" alt="Pongamia pinnata"  width="24%" height="24%" />
+<img src="data/images/Photo-2024-03-11-06-51-29.jpg" alt="Pongamia pinnata"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-21-07-07-21.jpg" alt="Pongamia pinnata"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-13-06-59-24.jpg" alt="Pongamia pinnata"  width="32%" height="32%" />
 
 *Indian Beech, Karanda, Karanj, Kolliyam, Naktamaala, Pomka, Pongam, Punku*
 
@@ -94,7 +94,7 @@ Pongamia pinnata is a species of tree in the pea family, Fabaceae, native to eas
 
 *15 Photos*
 
-<img src="data/images/Photo-2024-03-21-07-47-43.jpg" alt="Peltophorum pterocarpum"  width="48%" height="48%" /> <img src="data/images/Photo-2024-03-20-07-41-33.jpg" alt="Peltophorum pterocarpum"  width="24%" height="24%" /> <img src="data/images/Photo-2024-03-20-07-34-24.jpg" alt="Peltophorum pterocarpum"  width="24%" height="24%" /> <img src="data/images/Photo-2024-03-10-07-57-51.jpg" alt="Peltophorum pterocarpum"  width="24%" height="24%" />
+<img src="data/images/Photo-2024-03-20-07-34-24.jpg" alt="Peltophorum pterocarpum"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-21-08-13-19.jpg" alt="Peltophorum pterocarpum"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-11-06-55-06.jpg" alt="Peltophorum pterocarpum"  width="32%" height="32%" />
 
 *Copperpod, Kaha Maara, Kona Maram, Maara, Nilalvakai, Yellow flame, Yellow flametree*
 
