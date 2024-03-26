@@ -17,13 +17,15 @@ class ReadMeApp(MarkdownPage, InfoReadMe):
             + ' App',
             '',
 
-            Markdown.image(
+            Markdown.image_html(
                 'App',
                 'images/logo192.png',
-             ),
+                width="32px",
+                height="32px",
+            ),
             '',
-            Results can be directly inspected using our '
-            + Markdown.link('Plants', 'https://nuuuwan.github.io/plants')
+            'Results can be directly inspected using our ' +
+            Markdown.link('Plants', 'https://nuuuwan.github.io/plants')
             + " App.",
             '',
             Markdown.image('App', 'images/app.png'),
