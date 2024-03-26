@@ -34,6 +34,7 @@ class ReadMeFunnel(MarkdownPage, InfoReadMe):
         chart_path = os.path.join('images', 'funnel.png')
         plt.savefig(chart_path)
         plt.close()
+        chart_path_unix = chart_path.replace('\\', '/')
         log.info(f'Wrote {chart_path_unix}')
 
         return Markdown.image('funnel', chart_path_unix)
