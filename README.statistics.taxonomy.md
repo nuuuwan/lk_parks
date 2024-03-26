@@ -2,54 +2,54 @@
 
 ### Species
 
-**164** unique Species.
+**120** unique Species.
 
 | # | Species | n(Photos) | % |
 | ---: | :--- | ---: | ---: |
-| 1 | [*Mesua ferrea*](https://en.wikipedia.org/wiki/Mesua_ferrea) | 45 | 7.7% |
-| 2 | [*Terminalia arjuna*](https://en.wikipedia.org/wiki/Terminalia_arjuna) | 29 | 5.0% |
-| 3 | [*Mangifera indica*](https://en.wikipedia.org/wiki/Mangifera_indica) | 24 | 4.1% |
-| 4 | [*Tectona grandis*](https://en.wikipedia.org/wiki/Tectona_grandis) | 20 | 3.4% |
-| 5 | [*Artocarpus heterophyllus*](https://en.wikipedia.org/wiki/Artocarpus_heterophyllus) | 19 | 3.3% |
-| 6 | [*Tabernaemontana divaricata*](https://en.wikipedia.org/wiki/Tabernaemontana_divaricata) | 17 | 2.9% |
-| 7 | [*Terminalia catappa*](https://en.wikipedia.org/wiki/Terminalia_catappa) | 17 | 2.9% |
-| 8 | [*Tecoma stans*](https://en.wikipedia.org/wiki/Tecoma_stans) | 16 | 2.7% |
-| 9 | [*Peltophorum pterocarpum*](https://en.wikipedia.org/wiki/Peltophorum_pterocarpum) | 16 | 2.7% |
-| 10 | [*Pongamia pinnata*](https://en.wikipedia.org/wiki/Pongamia_pinnata) | 15 | 2.6% |
-|  | *(All Others)* | 308 | 52.8% |
+| 1 | [*Mesua ferrea*](https://en.wikipedia.org/wiki/Mesua_ferrea) | 26 | 7.9% |
+| 2 | [*Terminalia arjuna*](https://en.wikipedia.org/wiki/Terminalia_arjuna) | 16 | 4.8% |
+| 3 | [*Mangifera indica*](https://en.wikipedia.org/wiki/Mangifera_indica) | 14 | 4.2% |
+| 4 | [*Terminalia catappa*](https://en.wikipedia.org/wiki/Terminalia_catappa) | 13 | 3.9% |
+| 5 | [*Artocarpus heterophyllus*](https://en.wikipedia.org/wiki/Artocarpus_heterophyllus) | 10 | 3.0% |
+| 6 | [*Cassia fistula*](https://en.wikipedia.org/wiki/Cassia_fistula) | 9 | 2.7% |
+| 7 | [*Tabernaemontana divaricata*](https://en.wikipedia.org/wiki/Tabernaemontana_divaricata) | 9 | 2.7% |
+| 8 | [*Casuarina equisetifolia*](https://en.wikipedia.org/wiki/Casuarina_equisetifolia) | 8 | 2.4% |
+| 9 | [*Filicium decipiens*](https://en.wikipedia.org/wiki/Filicium_decipiens) | 8 | 2.4% |
+| 10 | [*Peltophorum pterocarpum*](https://en.wikipedia.org/wiki/Peltophorum_pterocarpum) | 8 | 2.4% |
+|  | *(All Others)* | 220 | 66.7% |
 
 ### Genera
 
-**127** unique Genera.
+**95** unique Genera.
 
 | # | Genera | n(Photos) | % |
 | ---: | :--- | ---: | ---: |
-| 1 | [*Terminalia*](https://en.wikipedia.org/wiki/Terminalia) | 47 | 8.1% |
-| 2 | [*Mesua*](https://en.wikipedia.org/wiki/Mesua) | 45 | 7.7% |
-| 3 | [*Ficus*](https://en.wikipedia.org/wiki/Ficus) | 28 | 4.8% |
-| 4 | [*Mangifera*](https://en.wikipedia.org/wiki/Mangifera) | 24 | 4.1% |
-| 5 | [*Tectona*](https://en.wikipedia.org/wiki/Tectona) | 20 | 3.4% |
-| 6 | [*Artocarpus*](https://en.wikipedia.org/wiki/Artocarpus) | 19 | 3.3% |
-| 7 | [*Peltophorum*](https://en.wikipedia.org/wiki/Peltophorum) | 19 | 3.3% |
-| 8 | [*Cassia*](https://en.wikipedia.org/wiki/Cassia) | 17 | 2.9% |
-| 9 | [*Tabernaemontana*](https://en.wikipedia.org/wiki/Tabernaemontana) | 17 | 2.9% |
-| 10 | [*Tecoma*](https://en.wikipedia.org/wiki/Tecoma) | 16 | 2.7% |
-|  | *(All Others)* | 234 | 40.1% |
+| 1 | [*Terminalia*](https://en.wikipedia.org/wiki/Terminalia) | 29 | 8.8% |
+| 2 | [*Mesua*](https://en.wikipedia.org/wiki/Mesua) | 26 | 7.9% |
+| 3 | [*Ficus*](https://en.wikipedia.org/wiki/Ficus) | 18 | 5.5% |
+| 4 | [*Mangifera*](https://en.wikipedia.org/wiki/Mangifera) | 14 | 4.2% |
+| 5 | [*Cassia*](https://en.wikipedia.org/wiki/Cassia) | 10 | 3.0% |
+| 6 | [*Artocarpus*](https://en.wikipedia.org/wiki/Artocarpus) | 10 | 3.0% |
+| 7 | [*Peltophorum*](https://en.wikipedia.org/wiki/Peltophorum) | 10 | 3.0% |
+| 8 | [*Casuarina*](https://en.wikipedia.org/wiki/Casuarina) | 9 | 2.7% |
+| 9 | [*Tabernaemontana*](https://en.wikipedia.org/wiki/Tabernaemontana) | 9 | 2.7% |
+| 10 | [*Filicium*](https://en.wikipedia.org/wiki/Filicium) | 8 | 2.4% |
+|  | *(All Others)* | 170 | 51.5% |
 
 ### Families
 
-**58** unique Families.
+**43** unique Families.
 
 | # | Families | n(Photos) | % |
 | ---: | :--- | ---: | ---: |
-| 1 | [*Fabaceae*](https://en.wikipedia.org/wiki/Fabaceae) | 112 | 19.2% |
-| 2 | [*Calophyllaceae*](https://en.wikipedia.org/wiki/Calophyllaceae) | 49 | 8.4% |
-| 3 | [*Combretaceae*](https://en.wikipedia.org/wiki/Combretaceae) | 49 | 8.4% |
-| 4 | [*Moraceae*](https://en.wikipedia.org/wiki/Moraceae) | 47 | 8.1% |
-| 5 | [*Apocynaceae*](https://en.wikipedia.org/wiki/Apocynaceae) | 37 | 6.3% |
-| 6 | [*Bignoniaceae*](https://en.wikipedia.org/wiki/Bignoniaceae) | 35 | 6.0% |
-| 7 | [*Anacardiaceae*](https://en.wikipedia.org/wiki/Anacardiaceae) | 35 | 6.0% |
-| 8 | [*Myrtaceae*](https://en.wikipedia.org/wiki/Myrtaceae) | 21 | 3.6% |
-| 9 | [*Lamiaceae*](https://en.wikipedia.org/wiki/Lamiaceae) | 21 | 3.6% |
-| 10 | [*Meliaceae*](https://en.wikipedia.org/wiki/Meliaceae) | 20 | 3.4% |
-|  | *(All Others)* | 96 | 16.5% |
+| 1 | [*Fabaceae*](https://en.wikipedia.org/wiki/Fabaceae) | 65 | 19.7% |
+| 2 | [*Combretaceae*](https://en.wikipedia.org/wiki/Combretaceae) | 31 | 9.4% |
+| 3 | [*Moraceae*](https://en.wikipedia.org/wiki/Moraceae) | 28 | 8.5% |
+| 4 | [*Calophyllaceae*](https://en.wikipedia.org/wiki/Calophyllaceae) | 28 | 8.5% |
+| 5 | [*Apocynaceae*](https://en.wikipedia.org/wiki/Apocynaceae) | 18 | 5.5% |
+| 6 | [*Anacardiaceae*](https://en.wikipedia.org/wiki/Anacardiaceae) | 18 | 5.5% |
+| 7 | [*Bignoniaceae*](https://en.wikipedia.org/wiki/Bignoniaceae) | 16 | 4.8% |
+| 8 | [*Myrtaceae*](https://en.wikipedia.org/wiki/Myrtaceae) | 14 | 4.2% |
+| 9 | [*Meliaceae*](https://en.wikipedia.org/wiki/Meliaceae) | 12 | 3.6% |
+| 10 | [*Sapindaceae*](https://en.wikipedia.org/wiki/Sapindaceae) | 11 | 3.3% |
+|  | *(All Others)* | 66 | 20.0% |

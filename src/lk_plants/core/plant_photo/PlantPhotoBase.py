@@ -63,10 +63,13 @@ class PlantPhotoBase:
 
     @classmethod
     def list_all(cls) -> list:
+        def get_key(plant_photo):
+            lat, lng = plant_photo.latlng.lat, plant_photo.latlng.lng
+            return f'{lat:.4f},{lng:.4f}'
         raw_list = cls.list_all_raw()
         idx = {}
         for plant_photo in raw_list:
-            key = str(plant_photo.latlng)
+            key = get_key(plant_photo)
             idx[key] = plant_photo
         return list(idx.values())
 
