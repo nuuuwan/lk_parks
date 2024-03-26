@@ -1,5 +1,3 @@
-
-
 class Markdown:
     ALIGN_LEFT = ':---'
     ALIGN_RIGHT = '---:'

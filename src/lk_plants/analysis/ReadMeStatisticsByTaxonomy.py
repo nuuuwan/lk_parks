@@ -128,31 +128,6 @@ class ReadMeStatisticsByTaxonomy(MarkdownPage, InfoReadMe):
         )
 
     @cached_property
-    def lines_most_common_species(self):
-        key_and_data_list = self.get_sorted_key_and_data_list(
-            ReadMeStatisticsByTaxonomy.get_key_species
-        )
-        image_lines = []
-        for key, data_list in key_and_data_list[
-            : ReadMeStatisticsByTaxonomy.N_DISPLAY
-        ]:
-            data_list.sort(
-                key=lambda x: list(
-                    PlantNetResult.from_plant_photo(
-                        x
-                    ).species_name_to_score.items()
-                )[0][1],
-                reverse=True,
-            )
-
-            image_path = data_list[0].image_path
-            image_path_unix = image_path.replace('\\', '/')
-            image_lines.append(
-                Markdown.image_html(key, image_path_unix, "33%")
-            )
-        return [''.join(image_lines), '']
-
-    @cached_property
     def file_path(self):
         return 'README.statistics.taxonomy.md'
 
@@ -162,8 +137,7 @@ class ReadMeStatisticsByTaxonomy(MarkdownPage, InfoReadMe):
             '## Statistics by Taxonomy',
             '',
         ] + (
-            self.lines_most_common_species
-            + self.lines_analysis_species
+            self.lines_analysis_species
             + self.lines_analysis_genera
             + self.lines_analysis_families
         )

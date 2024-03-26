@@ -3,6 +3,7 @@ from functools import cached_property
 from lk_plants.analysis.InfoReadMe import InfoReadMe
 from lk_plants.analysis.ReadMeAbout import ReadMeAbout
 from lk_plants.analysis.ReadMeApp import ReadMeApp
+from lk_plants.analysis.ReadMeMostCommonSpecies import ReadMeMostCommonSpecies
 from lk_plants.analysis.ReadMePlantNet import ReadMePlantNet
 from lk_plants.analysis.ReadMeStatisticsByTaxonomy import \
     ReadMeStatisticsByTaxonomy
@@ -26,8 +27,9 @@ class ReadMe(MarkdownPage, InfoReadMe):
     def child_pages(self) -> list['MarkdownPage']:
         return [
             ReadMeAbout(),
-            ReadMeVMDPark(),
             ReadMePlantNet(),
             ReadMeApp(),
+            ReadMeVMDPark(),
+            ReadMeMostCommonSpecies(),
             ReadMeStatisticsByTaxonomy(),
         ]

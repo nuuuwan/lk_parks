@@ -12,12 +12,15 @@ class ReadMeAbout(MarkdownPage, InfoReadMe):
     @cached_property
     def lines(self) -> list[str]:
         return [
-            '## About this Project',
+            '## About',
             '',
-            'This analysis is part of a project to'+' identify plants in Sri Lanka\'s public parks.',
+            'This project aims to use '
+            + 'Computer Vision and Artificial Intelligence'
+            + ' to identify plants in Sri Lanka\'s public parks, '
+            + 'beginning with Viharamahadevi Park, Colombo.',
             '',
-            'It was automatically '
+            'This report was automatically '
             + f'generated on  **{self.time_str}**, '
-            + f'and is based on  **{self.n_plant_photos}** plant photos.*',
+            + f'and is based on **{self.n_plant_photos}** plant photos.*',
             '',
         ]
