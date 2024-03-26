@@ -17,12 +17,8 @@ class ReadMeMostCommonSpecies(ReadMeStatisticsByTaxonomy):
     def get_lines_for_species(species_name, plant_photo_list):
         MAX_PLANT_PHOTOS = 3
         plant_photo_list.sort(
-            key=lambda x: list(
-                PlantNetResult.from_plant_photo(
-                    x
-                ).species_name_to_score.items()
-            )[0][1],
-            reverse=True,
+            key=lambda plant_photo: plant_photo.latLng.lat,
+
         )
         best_plant_photos = plant_photo_list[:MAX_PLANT_PHOTOS]
 
