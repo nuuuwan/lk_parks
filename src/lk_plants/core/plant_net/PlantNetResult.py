@@ -2,6 +2,7 @@ import json
 import os
 import time
 from dataclasses import dataclass
+from functools import cached_property
 
 import requests
 from utils import JSONFile, Log
@@ -150,3 +151,9 @@ class PlantNetResult:
             log.debug(f'{i + 1}/{n_filtered}')
             PlantNetResult.from_plant_photo(plant_photo)
         log.info('build_from_plant_photos: done')
+
+    @cached_property
+    def top_species_name(self):
+        if not self.species_name_to_score:
+            return None
+        return list(self.species_name_to_score.keys())[0]

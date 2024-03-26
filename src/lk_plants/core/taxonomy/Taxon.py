@@ -1,6 +1,7 @@
 import os
 import re
 from dataclasses import dataclass
+from functools import cached_property
 
 from utils import JSONFile, Log
 
@@ -67,3 +68,7 @@ class Taxon:
         for taxon in taxon_list:
             idx[taxon.name] = taxon
         return idx
+
+    @cached_property
+    def wiki_page_name(self) -> str:
+        return self.name.replace(' ', '_')
