@@ -60,9 +60,18 @@ class PlantPhotoBase:
             alt=d['alt'],
             direction=d['direction'],
         )
-
+    
     @classmethod
     def list_all(cls) -> list:
+        raw_list = cls.list_all_raw()
+        idx = {}
+        for plant_photo in raw_list:
+            key = str(plant_photo.latlng)
+            idx[key] = plant_photo
+        return list(idx.values())
+
+    @classmethod
+    def list_all_raw(cls) -> list:
         plant_photo_list = []
         for file_name in os.listdir(
             os.path.join(
