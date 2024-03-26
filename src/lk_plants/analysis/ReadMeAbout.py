@@ -19,7 +19,7 @@ class ReadMeAbout(MarkdownPage, InfoReadMe):
             + ' to identify plants in Sri Lanka\'s public parks, '
             + 'beginning with Viharamahadevi Park, Colombo.',
             '',
-            'This report was automatically '
+            '🤖 *This report was automatically '
             + f'generated on  **{self.time_str}**, '
             + f'and is based on **{self.n_plant_photos}** plant photos.*',
             '',
