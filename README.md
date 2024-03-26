@@ -4,7 +4,7 @@
 
 This project aims to use Computer Vision and Artificial Intelligence to identify plants in Sri Lanka's public parks, beginning with Viharamahadevi Park, Colombo.
 
-This report was automatically generated on  **Mar 26, 2024 (12:42 PM)**, and is based on **590** plant photos.*
+This report was automatically generated on  **Mar 26, 2024 (12:45 PM)**, and is based on **590** plant photos.*
 
 ## [PlantNet](https://plantnet.org)
 
@@ -32,7 +32,7 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 
 *46 Photos*
 
-<img src="data/images/Photo-2024-03-17-08-14-55.jpg" alt="Mesua ferrea"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-26-07-49-33.jpg" alt="Mesua ferrea"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-11-07-03-27.jpg" alt="Mesua ferrea"  width="32%" height="32%" />
+<img src="data/images/Photo-2024-03-10-08-05-45.jpg" alt="Mesua ferrea"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-17-08-12-38.jpg" alt="Mesua ferrea"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-17-08-14-55.jpg" alt="Mesua ferrea"  width="32%" height="32%" />
 
 *Ceylon Ironwood, Cirunakappu, Iron Wood Tree, Mesua, Na, Naa, Nagakesarah Nagapuspa, Nangu*
 
@@ -42,7 +42,7 @@ Mesua ferrea, the Ceylon ironwood,  or cobra saffron, is a species in the family
 
 *29 Photos*
 
-<img src="data/images/Photo-2024-03-21-07-08-12.jpg" alt="Terminalia arjuna"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-21-08-15-52.jpg" alt="Terminalia arjuna"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-12-07-01-07.jpg" alt="Terminalia arjuna"  width="32%" height="32%" />
+<img src="data/images/Photo-2024-03-10-07-56-08.jpg" alt="Terminalia arjuna"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-08-06-58-33.jpg" alt="Terminalia arjuna"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-12-07-01-07.jpg" alt="Terminalia arjuna"  width="32%" height="32%" />
 
 *Arjun, Kakubha, Kumbuk, Maruthu, Marutu, White murdh*
 
@@ -52,7 +52,7 @@ Terminalia arjuna is a tree of the genus Terminalia. It is commonly known as arj
 
 *25 Photos*
 
-<img src="data/images/Photo-2024-03-25-07-51-35.jpg" alt="Mangifera indica"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-21-08-10-16.jpg" alt="Mangifera indica"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-21-07-46-34.jpg" alt="Mangifera indica"  width="32%" height="32%" />
+<img src="data/images/Photo-2024-03-12-07-03-49.jpg" alt="Mangifera indica"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-10-07-56-41.jpg" alt="Mangifera indica"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-21-08-12-16.jpg" alt="Mangifera indica"  width="32%" height="32%" />
 
 *Amba, Amiram, Amra, Ma, Mamaram, Mangai, Mango, Mango Tree, Mee Amba, Sahakara, आम*
 
@@ -62,7 +62,7 @@ Mangifera indica, commonly known as mango, is a species of flowering plant in th
 
 *20 Photos*
 
-<img src="data/images/Photo-2024-03-21-07-46-24.jpg" alt="Tectona grandis"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-19-07-18-25.jpg" alt="Tectona grandis"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-22-08-06-47.jpg" alt="Tectona grandis"  width="32%" height="32%" />
+<img src="data/images/Photo-2024-03-22-08-06-36.jpg" alt="Tectona grandis"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-21-08-16-14.jpg" alt="Tectona grandis"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-11-06-50-59.jpg" alt="Tectona grandis"  width="32%" height="32%" />
 
 *Bankok teak, Bardaru, Bhumisah, Dwardaru, Indian-oak, Kharchchada, Kolaphala, Saaka, Sabarasaara, Teak, The Kka Signify Long Sound, Thekku*
 
@@ -72,7 +72,7 @@ Teak (Tectona grandis) is a tropical hardwood tree species in the family Lamiace
 
 *19 Photos*
 
-<img src="data/images/Photo-2024-03-22-08-02-22.jpg" alt="Artocarpus heterophyllus"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-12-07-33-01.jpg" alt="Artocarpus heterophyllus"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-15-07-20-25.jpg" alt="Artocarpus heterophyllus"  width="32%" height="32%" />
+<img src="data/images/Photo-2024-03-08-07-07-47.jpg" alt="Artocarpus heterophyllus"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-21-07-53-45.jpg" alt="Artocarpus heterophyllus"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-22-08-02-22.jpg" alt="Artocarpus heterophyllus"  width="32%" height="32%" />
 
 *Herali, Jackfruit, Kos, Pala, Palavu, Panasam, Pila, Vaela, Waraka See Artocarpus Indica, কাঠাল, పనస*
 
@@ -82,7 +82,7 @@ The jackfruit is the fruit of jack tree Artocarpus heterophyllus, a species of t
 
 *18 Photos*
 
-<img src="data/images/Photo-2024-03-21-07-08-53.jpg" alt="Tabernaemontana divaricata"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-11-06-27-36.jpg" alt="Tabernaemontana divaricata"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-11-06-28-01.jpg" alt="Tabernaemontana divaricata"  width="32%" height="32%" />
+<img src="data/images/Photo-2024-03-11-06-28-01.jpg" alt="Tabernaemontana divaricata"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-11-06-27-14.jpg" alt="Tabernaemontana divaricata"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-23-08-57-10.jpg" alt="Tabernaemontana divaricata"  width="32%" height="32%" />
 
 *Adukkunandiyavattai, Butterfly-gardenia, Crape-jasmine, Nandi Battai, Nandiar Vattai, Nandivrksah, Vathu Sudda, Wathu Sudda, Watu Sudda, Watusudda, నందివర్ధనం*
 
@@ -92,7 +92,7 @@ Tabernaemontana divaricata, commonly called pinwheel flower, crape jasmine, East
 
 *17 Photos*
 
-<img src="data/images/Photo-2024-03-22-08-07-24.jpg" alt="Terminalia catappa"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-22-08-08-02.jpg" alt="Terminalia catappa"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-08-07-07-01.jpg" alt="Terminalia catappa"  width="32%" height="32%" />
+<img src="data/images/Photo-2024-03-21-07-33-23.jpg" alt="Terminalia catappa"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-23-07-53-14.jpg" alt="Terminalia catappa"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-10-06-47-34.jpg" alt="Terminalia catappa"  width="32%" height="32%" />
 
 *Country-almond, Indian-almond, Kottamba, Kottan, Nattu Vadam, Nattuvadumai, Tailaphala, Tropical almond*
 
@@ -102,7 +102,7 @@ Terminalia catappa is a large tropical tree in the leadwood tree family, Combret
 
 *16 Photos*
 
-<img src="data/images/Photo-2024-03-11-06-39-58.jpg" alt="Tecoma stans"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-11-06-39-41.jpg" alt="Tecoma stans"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-11-06-40-54.jpg" alt="Tecoma stans"  width="32%" height="32%" />
+<img src="data/images/Photo-2024-03-11-06-40-54.jpg" alt="Tecoma stans"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-11-06-40-25.jpg" alt="Tecoma stans"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-11-06-39-41.jpg" alt="Tecoma stans"  width="32%" height="32%" />
 
 *Kaelanitissa, Kelantissa, Rankaerali, Swarnaptti, Tankarali, Trumpet-flower, Yellow trumpet flower, Yellow-bells*
 
@@ -112,7 +112,7 @@ Tecoma stans is a species of flowering perennial shrub in the trumpet vine famil
 
 *16 Photos*
 
-<img src="data/images/Photo-2024-03-15-07-10-52.jpg" alt="Peltophorum pterocarpum"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-20-07-45-28.jpg" alt="Peltophorum pterocarpum"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-20-07-45-42.jpg" alt="Peltophorum pterocarpum"  width="32%" height="32%" />
+<img src="data/images/Photo-2024-03-26-08-00-43.jpg" alt="Peltophorum pterocarpum"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-20-07-34-24.jpg" alt="Peltophorum pterocarpum"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-20-07-41-33.jpg" alt="Peltophorum pterocarpum"  width="32%" height="32%" />
 
 *Copperpod, Kaha Maara, Kona Maram, Maara, Nilalvakai, Yellow flame, Yellow flametree*
 
@@ -122,7 +122,7 @@ Peltophorum pterocarpum (commonly known as copperpod, yellow-flamboyant, yellow 
 
 *15 Photos*
 
-<img src="data/images/Photo-2024-03-23-07-54-05.jpg" alt="Pongamia pinnata"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-13-07-20-07.jpg" alt="Pongamia pinnata"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-10-06-45-27.jpg" alt="Pongamia pinnata"  width="32%" height="32%" />
+<img src="data/images/Photo-2024-03-21-07-07-31.jpg" alt="Pongamia pinnata"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-21-07-08-09.jpg" alt="Pongamia pinnata"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-13-06-59-24.jpg" alt="Pongamia pinnata"  width="32%" height="32%" />
 
 *Indian Beech, Karanda, Karanj, Kolliyam, Naktamaala, Pomka, Pongam, Punku*
 
@@ -186,30 +186,84 @@ Pongamia pinnata is a species of tree in the pea family, Fabaceae, native to eas
 
 ## Plant Photos difficult to Identify
 
+Examples of Plant Photos where the identification confidence is < 10%.
 
-![Photo-2024-03-26-07-40-04](data/images/Photo-2024-03-26-07-40-04.jpg)
-![Photo-2024-03-11-06-42-07](data/images/Photo-2024-03-11-06-42-07.jpg)
-![Photo-2024-03-23-07-56-31](data/images/Photo-2024-03-23-07-56-31.jpg)
+### Photo-2024-03-26-08-01-55
 
-![Photo-2024-03-11-06-49-39](data/images/Photo-2024-03-11-06-49-39.jpg)
-![Photo-2024-03-23-07-54-16](data/images/Photo-2024-03-23-07-54-16.jpg)
-![Photo-2024-03-26-07-41-58](data/images/Photo-2024-03-26-07-41-58.jpg)
+![Photo-2024-03-26-08-01-55](data/images/Photo-2024-03-26-08-01-55.jpg)
 
-![Photo-2024-03-20-07-40-45](data/images/Photo-2024-03-20-07-40-45.jpg)
-![Photo-2024-03-21-07-48-09](data/images/Photo-2024-03-21-07-48-09.jpg)
-![Photo-2024-03-13-07-09-14](data/images/Photo-2024-03-13-07-09-14.jpg)
+### Photo-2024-03-17-08-18-57
 
-![Photo-2024-03-23-07-53-48](data/images/Photo-2024-03-23-07-53-48.jpg)
-![Photo-2024-03-25-07-22-57](data/images/Photo-2024-03-25-07-22-57.jpg)
-![Photo-2024-03-13-07-47-15](data/images/Photo-2024-03-13-07-47-15.jpg)
+![Photo-2024-03-17-08-18-57](data/images/Photo-2024-03-17-08-18-57.jpg)
 
-![Photo-2024-03-17-08-09-01](data/images/Photo-2024-03-17-08-09-01.jpg)
-![Photo-2024-03-20-07-36-09](data/images/Photo-2024-03-20-07-36-09.jpg)
-![Photo-2024-03-12-07-19-17](data/images/Photo-2024-03-12-07-19-17.jpg)
+### Photo-2024-03-13-06-59-42
 
-![Photo-2024-03-08-07-04-39](data/images/Photo-2024-03-08-07-04-39.jpg)
-![Photo-2024-03-21-07-48-00](data/images/Photo-2024-03-21-07-48-00.jpg)
-![Photo-2024-03-12-07-09-27](data/images/Photo-2024-03-12-07-09-27.jpg)
+![Photo-2024-03-13-06-59-42](data/images/Photo-2024-03-13-06-59-42.jpg)
 
-![Photo-2024-03-20-07-40-12](data/images/Photo-2024-03-20-07-40-12.jpg)
-![Photo-2024-03-08-07-11-11](data/images/Photo-2024-03-08-07-11-11.jpg)
+### Photo-2024-03-21-08-17-32
+
+![Photo-2024-03-21-08-17-32](data/images/Photo-2024-03-21-08-17-32.jpg)
+
+### Photo-2024-03-11-06-48-33
+
+![Photo-2024-03-11-06-48-33](data/images/Photo-2024-03-11-06-48-33.jpg)
+
+### Photo-2024-03-19-07-12-01
+
+![Photo-2024-03-19-07-12-01](data/images/Photo-2024-03-19-07-12-01.jpg)
+
+### Photo-2024-03-20-07-39-05
+
+![Photo-2024-03-20-07-39-05](data/images/Photo-2024-03-20-07-39-05.jpg)
+
+### Photo-2024-03-21-07-39-43
+
+![Photo-2024-03-21-07-39-43](data/images/Photo-2024-03-21-07-39-43.jpg)
+
+### Photo-2024-03-11-06-37-29
+
+![Photo-2024-03-11-06-37-29](data/images/Photo-2024-03-11-06-37-29.jpg)
+
+### Photo-2024-03-21-07-49-49
+
+![Photo-2024-03-21-07-49-49](data/images/Photo-2024-03-21-07-49-49.jpg)
+
+### Photo-2024-03-21-07-07-43
+
+![Photo-2024-03-21-07-07-43](data/images/Photo-2024-03-21-07-07-43.jpg)
+
+### Photo-2024-03-10-08-14-03
+
+![Photo-2024-03-10-08-14-03](data/images/Photo-2024-03-10-08-14-03.jpg)
+
+### Photo-2024-03-23-07-57-11
+
+![Photo-2024-03-23-07-57-11](data/images/Photo-2024-03-23-07-57-11.jpg)
+
+### Photo-2024-03-15-07-01-27
+
+![Photo-2024-03-15-07-01-27](data/images/Photo-2024-03-15-07-01-27.jpg)
+
+### Photo-2024-03-26-08-00-54
+
+![Photo-2024-03-26-08-00-54](data/images/Photo-2024-03-26-08-00-54.jpg)
+
+### Photo-2024-03-26-07-41-00
+
+![Photo-2024-03-26-07-41-00](data/images/Photo-2024-03-26-07-41-00.jpg)
+
+### Photo-2024-03-17-08-07-27
+
+![Photo-2024-03-17-08-07-27](data/images/Photo-2024-03-17-08-07-27.jpg)
+
+### Photo-2024-03-26-07-40-37
+
+![Photo-2024-03-26-07-40-37](data/images/Photo-2024-03-26-07-40-37.jpg)
+
+### Photo-2024-03-17-08-09-48
+
+![Photo-2024-03-17-08-09-48](data/images/Photo-2024-03-17-08-09-48.jpg)
+
+### Photo-2024-03-16-07-19-27
+
+![Photo-2024-03-16-07-19-27](data/images/Photo-2024-03-16-07-19-27.jpg)

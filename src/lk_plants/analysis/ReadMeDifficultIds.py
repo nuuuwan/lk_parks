@@ -7,6 +7,8 @@ from lk_plants.core.plant_net.PlantNetResult import PlantNetResult
 
 
 class ReadMeDifficultIds(MarkdownPage, InfoReadMe):
+    MIN_CONFIDENCE = 0.1
+    
     @cached_property
     def file_path(self):
         return 'README.difficult_ids.md'
@@ -18,7 +20,7 @@ class ReadMeDifficultIds(MarkdownPage, InfoReadMe):
         if not species_name_to_score:
             return False
         score = list(species_name_to_score.values())[0]
-        return score < InfoReadMe.MIN_CONFIDENCE
+        return score < ReadMeDifficultIds.MIN_CONFIDENCE
             
 
     @cached_property
@@ -30,24 +32,28 @@ class ReadMeDifficultIds(MarkdownPage, InfoReadMe):
         ]
         random.shuffle(plant_photos_difficult)
         N_DISPLAY = 20
-        N_COLUMNS = 3
+
         plant_photos_difficult = plant_photos_difficult[:N_DISPLAY]
         image_lines = []
         for i, plant_photo in enumerate(plant_photos_difficult):
-            if i % N_COLUMNS == 0:
-                image_lines.append('')
+
             image_path = plant_photo.image_path
             image_path_unix = image_path.replace('\\', '/')
 
-            image_lines.append(
-                f'![{plant_photo.id}]({image_path_unix})'
-            )
+            image_lines.extend([
+                '### ' + plant_photo.id,
+                '',
+                f'![{plant_photo.id}]({image_path_unix})',
+                '',
+            ])
         return image_lines
 
     @cached_property
     def lines(self) -> list[str]:
         return [
             '## Plant Photos difficult to Identify',
+            '',
+            'Examples of Plant Photos where the identification confidence '+f'is < {ReadMeDifficultIds.MIN_CONFIDENCE:.0%}.',
             '',
             
         ] + self.lines_inner
