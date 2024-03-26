@@ -83,7 +83,7 @@ class ReadMeMostCommonSpecies(ReadMeStatisticsByTaxonomy):
 
     @cached_property
     def file_path(self):
-        return 'README.statistics.taxonomy.md'
+        return 'README.most_common_species.md'
 
     @cached_property
     def lines(self) -> list[str]:
