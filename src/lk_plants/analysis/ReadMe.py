@@ -20,7 +20,7 @@ class ReadMe(MarkdownPage, InfoReadMe):
     @cached_property
     def lines(self) -> list[str]:
         return [
-            '# Plants of Vihaaramahadevi Park :sri_lanka:',
+            '# Plants of Sri Lanka :sri_lanka:',
             '',
         ]
 
