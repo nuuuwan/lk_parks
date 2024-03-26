@@ -68,7 +68,7 @@ class WikiPage:
         wiki_page_name_list_filtered = [
             wiki_page_name
             for wiki_page_name in wiki_page_name_list
-            if wiki_page_name and os.path.exists(WikiPage.get_data_path(wiki_page_name))
+            if wiki_page_name and not os.path.exists(WikiPage.get_data_path(wiki_page_name))
         ]
         wiki_page_name_list_unique = sorted(
             list(set(wiki_page_name_list_filtered))
