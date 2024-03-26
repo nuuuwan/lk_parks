@@ -16,7 +16,6 @@ class ReadMeApp(MarkdownPage, InfoReadMe):
             + Markdown.link('Plants', 'https://nuuuwan.github.io/plants')
             + ' App',
             '',
-
             Markdown.image_html(
                 'App',
                 'images/logo192.png',
@@ -24,8 +23,8 @@ class ReadMeApp(MarkdownPage, InfoReadMe):
                 height="32px",
             ),
             '',
-            'Results can be directly inspected using our ' +
-            Markdown.link('Plants', 'https://nuuuwan.github.io/plants')
+            'Results can be directly inspected using our '
+            + Markdown.link('Plants', 'https://nuuuwan.github.io/plants')
             + " App.",
             '',
             Markdown.image('App', 'images/app.png'),
