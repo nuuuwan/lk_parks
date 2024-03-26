@@ -2,78 +2,6 @@
 
 Photos where the identification confidence is **< 20%**.
 
-### Photo-2024-03-21-07-35-36
-
-* 7.2% *Toona ciliata*
-* 3.5% *Ficus altissima*
-* 2.9% *Swietenia mahagoni*
-
-![Photo-2024-03-21-07-35-36](data/images/Photo-2024-03-21-07-35-36.jpg)
-
-### Photo-2024-03-13-06-59-42
-
-* 8.5% *Cananga odorata*
-* 6.1% *Pongamia pinnata*
-* 2.8% *Annona squamosa*
-
-![Photo-2024-03-13-06-59-42](data/images/Photo-2024-03-13-06-59-42.jpg)
-
-### Photo-2024-03-17-08-19-05
-
-* 1.0% *Viburnum odoratissimum*
-* 0.9% *Malpighia glabra*
-* 0.6% *Elaeagnus umbellata*
-
-![Photo-2024-03-17-08-19-05](data/images/Photo-2024-03-17-08-19-05.jpg)
-
-### Photo-2024-03-11-06-42-24
-
-* 12.0% *Carya illinoinensis*
-* 5.6% *Tabebuia rosea*
-* 4.4% *Quercus glauca*
-
-![Photo-2024-03-11-06-42-24](data/images/Photo-2024-03-11-06-42-24.jpg)
-
-### Photo-2024-03-25-07-34-47
-
-* 6.9% *Phyllanthus emblica*
-* 5.8% *Senna multijuga*
-* 5.3% *Senna spectabilis*
-
-![Photo-2024-03-25-07-34-47](data/images/Photo-2024-03-25-07-34-47.jpg)
-
-### Photo-2024-03-13-07-47-42
-
-* 3.5% *Cinnamomum camphora*
-* 1.8% *Quercus glauca*
-* 1.2% *Osmanthus fragrans*
-
-![Photo-2024-03-13-07-47-42](data/images/Photo-2024-03-13-07-47-42.jpg)
-
-### Photo-2024-03-21-07-33-51
-
-* 4.6% *Oroxylum indicum*
-* 3.8% *Pterocarpus indicus*
-* 2.4% *Choerospondias axillaris*
-
-![Photo-2024-03-21-07-33-51](data/images/Photo-2024-03-21-07-33-51.jpg)
-
-### Photo-2024-03-11-06-48-00
-
-* 17.4% *Chrysophyllum oliviforme*
-* 9.1% *Annona muricata*
-* 4.8% *Annona cherimola*
-
-![Photo-2024-03-11-06-48-00](data/images/Photo-2024-03-11-06-48-00.jpg)
-
-### Photo-2024-03-20-07-42-03
-
-* 3.2% *Toona ciliata*
-* 2.7% *Cassia fistula*
-* 2.7% *Ficus geniculata*
-
-![Photo-2024-03-20-07-42-03](data/images/Photo-2024-03-20-07-42-03.jpg)
-
 ### Photo-2024-03-17-08-19-11
 
 * 2.0% *Ochna integerrima*
@@ -81,69 +9,45 @@ Photos where the identification confidence is **< 20%**.
 
 ![Photo-2024-03-17-08-19-11](data/images/Photo-2024-03-17-08-19-11.jpg)
 
-### Photo-2024-03-13-07-38-04
+### Photo-2024-03-14-07-49-55
 
-* 7.8% *Saraca asoca*
-* 3.9% *Sapindus mukorossi*
-* 3.3% *Saraca indica*
+* 16.3% *Jacaranda mimosifolia*
+* 7.2% *Delonix regia*
+* 3.4% *Peltophorum pterocarpum*
 
-![Photo-2024-03-13-07-38-04](data/images/Photo-2024-03-13-07-38-04.jpg)
+![Photo-2024-03-14-07-49-55](data/images/Photo-2024-03-14-07-49-55.jpg)
 
-### Photo-2024-03-26-07-49-14
+### Photo-2024-03-26-07-59-09
 
-* 5.6% *Eucalyptus robusta*
-* 0.3% *Ehretia acuminata*
-* 0.3% *Swietenia macrophylla*
+* 1.6% *Syzygium jambos*
+* 0.9% *Corymbia maculata*
+* 0.5% *Syzygium cymosum*
 
-![Photo-2024-03-26-07-49-14](data/images/Photo-2024-03-26-07-49-14.jpg)
+![Photo-2024-03-26-07-59-09](data/images/Photo-2024-03-26-07-59-09.jpg)
 
-### Photo-2024-03-22-08-03-23
+### Photo-2024-03-21-07-33-18
 
-* 17.3% *Mesua ferrea*
-* 2.7% *Eucalyptus robusta*
-* 2.2% *Toona ciliata*
+* 14.6% *Terminalia arjuna*
+* 3.7% *Brownea grandiceps*
+* 3.3% *Diospyros blancoi*
 
-![Photo-2024-03-22-08-03-23](data/images/Photo-2024-03-22-08-03-23.jpg)
+![Photo-2024-03-21-07-33-18](data/images/Photo-2024-03-21-07-33-18.jpg)
 
-### Photo-2024-03-13-08-04-01
+### Photo-2024-03-15-07-20-43
 
-* 2.4% *Theobroma cacao*
-* 1.0% *Lagerstroemia speciosa*
-* 0.7% *Guazuma ulmifolia*
+* 18.5% *Ficus altissima*
+* 7.8% *Neolamarckia cadamba*
+* 2.0% *Juglans regia*
 
-![Photo-2024-03-13-08-04-01](data/images/Photo-2024-03-13-08-04-01.jpg)
+![Photo-2024-03-15-07-20-43](data/images/Photo-2024-03-15-07-20-43.jpg)
 
-### Photo-2024-03-23-07-56-17
+### Photo-2024-03-10-07-57-26
 
-* 2.4% *Neolamarckia cadamba*
-* 2.0% *Dipterocarpus retusus*
-* 1.6% *Milicia excelsa*
+* 8.1% *Ficus hispida*
+* 6.5% *Bridelia micrantha*
+* 6.4% *Ficus racemosa*
 
-![Photo-2024-03-23-07-56-17](data/images/Photo-2024-03-23-07-56-17.jpg)
-
-### Photo-2024-03-25-07-23-11
-
-* 7.5% *Eucalyptus robusta*
-* 7.2% *Mesua ferrea*
-* 5.3% *Eucalyptus camaldulensis*
-
-![Photo-2024-03-25-07-23-11](data/images/Photo-2024-03-25-07-23-11.jpg)
-
-### Photo-2024-03-20-07-40-45
-
-* 5.9% *Azadirachta indica*
-* 5.9% *Delonix regia*
-* 3.7% *Jacaranda mimosifolia*
-
-![Photo-2024-03-20-07-40-45](data/images/Photo-2024-03-20-07-40-45.jpg)
-
-### Photo-2024-03-19-07-12-42
-
-* 12.8% *Ficus religiosa*
-* 2.5% *Populus euphratica*
-* 2.1% *Ziziphus spina-christi*
-
-![Photo-2024-03-19-07-12-42](data/images/Photo-2024-03-19-07-12-42.jpg)
+![Photo-2024-03-10-07-57-26](data/images/Photo-2024-03-10-07-57-26.jpg)
 
 ### Photo-2024-03-11-06-49-51
 
@@ -160,3 +64,99 @@ Photos where the identification confidence is **< 20%**.
 * 4.3% *Radermachera sinica*
 
 ![Photo-2024-03-17-08-18-48](data/images/Photo-2024-03-17-08-18-48.jpg)
+
+### Photo-2024-03-21-07-48-00
+
+* 10.3% *Samanea saman*
+* 5.0% *Tipuana tipu*
+* 2.6% *Choerospondias axillaris*
+
+![Photo-2024-03-21-07-48-00](data/images/Photo-2024-03-21-07-48-00.jpg)
+
+### Photo-2024-03-11-07-36-21
+
+* 11.2% *Mimusops elengi*
+* 9.2% *Eugenia myrcianthes*
+* 2.2% *Balfourodendron riedelianum*
+
+![Photo-2024-03-11-07-36-21](data/images/Photo-2024-03-11-07-36-21.jpg)
+
+### Photo-2024-03-21-08-10-57
+
+* 5.3% *Manilkara zapota*
+* 4.3% *Saurauia napaulensis*
+* 2.4% *Terminalia arjuna*
+
+![Photo-2024-03-21-08-10-57](data/images/Photo-2024-03-21-08-10-57.jpg)
+
+### Photo-2024-03-14-07-56-52
+
+* 0.7% *Olea europaea*
+* 0.3% *Ficus microcarpa*
+* 0.2% *Terminalia arjuna*
+
+![Photo-2024-03-14-07-56-52](data/images/Photo-2024-03-14-07-56-52.jpg)
+
+### Photo-2024-03-21-07-47-53
+
+* 2.2% *Guazuma ulmifolia*
+* 1.4% *Holarrhena pubescens*
+* 1.0% *Muntingia calabura*
+
+![Photo-2024-03-21-07-47-53](data/images/Photo-2024-03-21-07-47-53.jpg)
+
+### Photo-2024-03-08-07-11-11
+
+* 10.0% *Trachelospermum jasminoides*
+* 8.4% *Trachelospermum asiaticum*
+* 4.9% *Ilex cornuta*
+
+![Photo-2024-03-08-07-11-11](data/images/Photo-2024-03-08-07-11-11.jpg)
+
+### Photo-2024-03-11-06-38-04
+
+* 15.2% *Quercus humboldtii*
+* 5.1% *Prunus serrulata*
+* 3.0% *Tabebuia rosea*
+
+![Photo-2024-03-11-06-38-04](data/images/Photo-2024-03-11-06-38-04.jpg)
+
+### Photo-2024-03-21-07-47-35
+
+* 14.0% *Peltophorum dubium*
+* 10.8% *Peltophorum pterocarpum*
+* 6.2% *Jacaranda mimosifolia*
+
+![Photo-2024-03-21-07-47-35](data/images/Photo-2024-03-21-07-47-35.jpg)
+
+### Photo-2024-03-20-07-33-46
+
+* 13.6% *Terminalia arjuna*
+* 11.0% *Psidium guajava*
+* 5.4% *Bridelia tomentosa*
+
+![Photo-2024-03-20-07-33-46](data/images/Photo-2024-03-20-07-33-46.jpg)
+
+### Photo-2024-03-26-07-39-01
+
+* 8.3% *Adenanthera pavonina*
+* 7.3% *Jacaranda mimosifolia*
+* 4.2% *Samanea saman*
+
+![Photo-2024-03-26-07-39-01](data/images/Photo-2024-03-26-07-39-01.jpg)
+
+### Photo-2024-03-21-07-44-59
+
+* 14.9% *Alstonia macrophylla*
+* 14.5% *Cerbera manghas*
+* 13.3% *Cerbera odollam*
+
+![Photo-2024-03-21-07-44-59](data/images/Photo-2024-03-21-07-44-59.jpg)
+
+### Photo-2024-03-13-07-47-42
+
+* 3.5% *Cinnamomum camphora*
+* 1.8% *Quercus glauca*
+* 1.2% *Osmanthus fragrans*
+
+![Photo-2024-03-13-07-47-42](data/images/Photo-2024-03-13-07-47-42.jpg)
