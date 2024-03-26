@@ -16,7 +16,7 @@ class ReadMeDifficultIds(MarkdownPage, InfoReadMe):
         plant_photos = PlantPhoto.list_all()
         plant_photos_difficult = [
             plant_photo for plant_photo in plant_photos
-            if list(PlantNetResult.from_plant_photo(plant_photo).species_name_to_score.values())[0] < PlantNetResult.MIN_CONFIDENCE
+            if list(PlantNetResult.from_plant_photo(plant_photo).species_name_to_score.values())[0] < InfoReadMe.MIN_CONFIDENCE
         ]
         random.shuffle(plant_photos_difficult)
         N_DISPLAY = 20
