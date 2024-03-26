@@ -30,7 +30,8 @@ class ReadMeMostCommonSpecies(ReadMeStatisticsByTaxonomy):
         for plant_photo in best_plant_photos:
             image_path = plant_photo.image_path
             image_path_unix = image_path.replace('\\', '/')
-            width = f'{1.0/MAX_PLANT_PHOTOS:.0%}'
+            p_width = 1.0/MAX_PLANT_PHOTOS - 0.1
+            width = f'{p_width:.0%}'
             image_md = Markdown.image_html(
                 species_name, image_path_unix, width
             )
@@ -55,7 +56,7 @@ class ReadMeMostCommonSpecies(ReadMeStatisticsByTaxonomy):
             '',
             image_all_md,
             '',
-            summary + Markdown.wiki_link(wiki_page_name),
+            summary +  ' ' + Markdown.ref(Markdown.wiki_link(wiki_page_name, 'Wikipedia')),
             '',
         ]
         return lines
