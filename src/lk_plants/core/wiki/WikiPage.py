@@ -84,6 +84,11 @@ class WikiPage:
 
     @staticmethod
     def from_wiki_page_name(wiki_page_name: str) -> 'WikiPage':
+
+        if os.path.exists(WikiPage.get_data_path(wiki_page_name)):
+            wiki_page = JSONFile(WikiPage.get_data_path(wiki_page_name)).read()
+            return WikiPage(**wiki_page)
+
         page = WikiPage.call_wiki_api(wiki_page_name)
         summary = page.summary
         wiki_page = WikiPage(wiki_page_name=wiki_page_name, summary=summary)
