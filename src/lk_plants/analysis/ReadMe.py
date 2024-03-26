@@ -9,7 +9,7 @@ from lk_plants.analysis.ReadMeStatisticsByTaxonomy import \
     ReadMeStatisticsByTaxonomy
 from lk_plants.analysis.ReadMeVMDPark import ReadMeVMDPark
 from utils_future import MarkdownPage
-
+from lk_plants.analysis.ReadMeDifficultIds import ReadMeDifficultIds
 
 class ReadMe(MarkdownPage, InfoReadMe):
     @cached_property
@@ -32,4 +32,5 @@ class ReadMe(MarkdownPage, InfoReadMe):
             ReadMeVMDPark(),
             ReadMeMostCommonSpecies(),
             ReadMeStatisticsByTaxonomy(),
+            ReadMeDifficultIds(),
         ]
