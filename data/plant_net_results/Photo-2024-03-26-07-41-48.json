@@ -1,0 +1,33 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-26-07-41-48",
+  "species_name_to_score": {
+    "Artocarpus heterophyllus": 0.40365,
+    "Artocarpus integer": 0.06134,
+    "Ficus benghalensis": 0.02762,
+    "Erythrina fusca": 0.02278,
+    "Strychnos nux-vomica": 0.01227,
+    "Ficus racemosa": 0.01151,
+    "Ficus altissima": 0.0084,
+    "Viburnum odoratissimum": 0.00823,
+    "Nauclea orientalis": 0.0062,
+    "Heritiera littoralis": 0.00577,
+    "Neolamarckia cadamba": 0.00548,
+    "Avicennia marina": 0.00471,
+    "Litsea monopetala": 0.00364,
+    "Diospyros melanoxylon": 0.00284,
+    "Ficus virens": 0.00225,
+    "Cordia myxa": 0.00194,
+    "Artocarpus lacucha": 0.00192,
+    "Thespesia populneoides": 0.00169,
+    "Syzygium cumini": 0.00166,
+    "Terminalia chebula": 0.00144,
+    "Osmanthus fragrans": 0.00142,
+    "Terminalia catappa": 0.00139,
+    "Citharexylum spinosum": 0.00138,
+    "Syzygium grande": 0.00134,
+    "Swietenia macrophylla": 0.00128,
+    "Holarrhena pubescens": 0.00128,
+    "Lagerstroemia speciosa": 0.00109
+  }
+}

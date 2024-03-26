@@ -1,0 +1,24 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-26-07-51-20",
+  "species_name_to_score": {
+    "Filicium decipiens": 0.49735,
+    "Grevillea robusta": 0.03526,
+    "Acacia mearnsii": 0.01714,
+    "Peltophorum dubium": 0.01117,
+    "Cascabela thevetia": 0.00891,
+    "Acacia longifolia": 0.00689,
+    "Sapindus mukorossi": 0.0052,
+    "Jacaranda mimosifolia": 0.00495,
+    "Peltophorum africanum": 0.00414,
+    "Trema orientale": 0.00322,
+    "Ailanthus excelsa": 0.00299,
+    "Peltophorum pterocarpum": 0.00268,
+    "Acacia dealbata": 0.00232,
+    "Cerbera manghas": 0.00222,
+    "Tecoma stans": 0.00221,
+    "Senna siamea": 0.00165,
+    "Leucaena leucocephala": 0.0015,
+    "Phyllanthus emblica": 0.00119
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-26-07-39-39",
+  "species_name_to_score": {
+    "Ficus altissima": 0.07433,
+    "Cassia grandis": 0.01755,
+    "Ficus virens": 0.01092,
+    "Neolamarckia cadamba": 0.01004,
+    "Ficus elastica": 0.00795,
+    "Garcinia indica": 0.00737,
+    "Ficus benghalensis": 0.00666,
+    "Ficus microcarpa": 0.00634,
+    "Gleditsia sinensis": 0.00603,
+    "Santalum album": 0.0059,
+    "Phytolacca dioica": 0.00282,
+    "Cassia fistula": 0.00277,
+    "Passiflora laurifolia": 0.00235,
+    "Ceiba pentandra": 0.00233,
+    "Dipterocarpus alatus": 0.00215,
+    "Guazuma ulmifolia": 0.002,
+    "Ficus retusa": 0.00168,
+    "Cotoneaster frigidus": 0.00167,
+    "Psidium guajava": 0.00166,
+    "Ficus religiosa": 0.00161,
+    "Ammannia auriculata": 0.00131,
+    "Hymenaea courbaril": 0.00117,
+    "Eucalyptus globulus": 0.00107,
+    "Ficus racemosa": 0.00106,
+    "Toona ciliata": 0.00102
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-26-07-58-57",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.53732,
+    "Eucalyptus robusta": 0.01293,
+    "Eucalyptus sideroxylon": 0.00897,
+    "Swietenia macrophylla": 0.00539,
+    "Cedrela odorata": 0.00537,
+    "Eucalyptus globulus": 0.00358,
+    "Diospyros lotus": 0.00292,
+    "Syzygium cumini": 0.00281,
+    "Pterocarpus indicus": 0.0027,
+    "Toona ciliata": 0.00269,
+    "Saraca indica": 0.0021,
+    "Diospyros melanoxylon": 0.00178,
+    "Fraxinus angustifolia": 0.00174,
+    "Grevillea robusta": 0.00172,
+    "Amherstia nobilis": 0.00139,
+    "Mangifera indica": 0.00137,
+    "Swietenia mahagoni": 0.00136,
+    "Eucalyptus camaldulensis": 0.00122,
+    "Bolusanthus speciosus": 0.00121,
+    "Brownea grandiceps": 0.00111
+  }
+}

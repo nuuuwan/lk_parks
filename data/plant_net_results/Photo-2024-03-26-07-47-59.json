@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-26-07-47-59",
+  "species_name_to_score": {
+    "Eucalyptus robusta": 0.05866,
+    "Cedrela odorata": 0.02375,
+    "Cinnamomum camphora": 0.01069,
+    "Erythrina crista-galli": 0.0069,
+    "Styphnolobium japonicum": 0.00658,
+    "Populus deltoides": 0.00578,
+    "Eucalyptus botryoides": 0.00407,
+    "Ceiba pentandra": 0.00382,
+    "Swietenia macrophylla": 0.0034,
+    "Aegle marmelos": 0.00334,
+    "Bombax ceiba": 0.00295,
+    "Salix acmophylla": 0.00279,
+    "Triadica sebifera": 0.00266,
+    "Tipuana tipu": 0.00265,
+    "Juglans regia": 0.00262,
+    "Melia azedarach": 0.00225,
+    "Persea americana": 0.00152,
+    "Phytolacca dioica": 0.00139,
+    "Hopea odorata": 0.00123,
+    "Ehretia dicksonii": 0.00112,
+    "Cinnamomum glanduliferum": 0.00108
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-26-08-01-05",
+  "species_name_to_score": {
+    "Mimosa pudica": 0.80279,
+    "Mimosa pigra": 0.00531,
+    "Chamaecrista nictitans": 0.00302,
+    "Emilia sonchifolia": 0.0027,
+    "Neptunia plena": 0.00257,
+    "Calliandra surinamensis": 0.00166,
+    "Mimosa diplotricha": 0.00163
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-26-07-41-25",
+  "species_name_to_score": {
+    "Ficus virens": 0.04737,
+    "Diospyros melanoxylon": 0.01727,
+    "Guazuma ulmifolia": 0.00811,
+    "Terminalia catappa": 0.00609,
+    "Ficus altissima": 0.00473,
+    "Ficus benghalensis": 0.00399,
+    "Syncarpia glomulifera": 0.0022,
+    "Cedrela odorata": 0.00206,
+    "Ficus religiosa": 0.0017,
+    "Terminalia arjuna": 0.00168,
+    "Ficus hispida": 0.00152,
+    "Ficus hookeriana": 0.00145,
+    "Yamazakia viscosa": 0.00138,
+    "Ficus geniculata": 0.0013,
+    "Tectona grandis": 0.00117,
+    "Heritiera littoralis": 0.0011
+  }
+}

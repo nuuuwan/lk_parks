@@ -1,0 +1,28 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-26-07-40-04",
+  "species_name_to_score": {
+    "Ficus benghalensis": 0.03133,
+    "Elaeagnus umbellata": 0.01338,
+    "Ficus racemosa": 0.01168,
+    "Terminalia arjuna": 0.01045,
+    "Erythrina fusca": 0.00919,
+    "Terminalia chebula": 0.00714,
+    "Ficus virens": 0.00639,
+    "Diospyros melanoxylon": 0.00611,
+    "Ficus altissima": 0.00584,
+    "Strychnos nux-vomica": 0.00515,
+    "Guazuma ulmifolia": 0.00497,
+    "Ficus tinctoria": 0.00489,
+    "Heritiera littoralis": 0.00372,
+    "Annona glabra": 0.00239,
+    "Syzygium cumini": 0.00219,
+    "Ficus religiosa": 0.00209,
+    "Lawsonia inermis": 0.00203,
+    "Cordia dichotoma": 0.00168,
+    "Populus nigra": 0.00153,
+    "Salix acmophylla": 0.00122,
+    "Ziziphus jujuba": 0.00107,
+    "Ficus exasperata": 0.001
+  }
+}

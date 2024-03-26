@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-26-07-49-33",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.89585,
+    "Ficus maclellandii": 0.00574,
+    "Syzygium cumini": 0.00303,
+    "Saraca indica": 0.00157,
+    "Cocculus laurifolius": 0.00116
+  }
+}

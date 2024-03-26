@@ -1,0 +1,33 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-26-07-41-36",
+  "species_name_to_score": {
+    "Populus deltoides": 0.02472,
+    "Populus nigra": 0.0202,
+    "Symplocos paniculata": 0.01434,
+    "Ficus virens": 0.00777,
+    "Ficus hookeriana": 0.00648,
+    "Dalbergia latifolia": 0.00494,
+    "Strychnos nux-vomica": 0.00486,
+    "Hovenia dulcis": 0.00386,
+    "Broussonetia papyrifera": 0.00367,
+    "Haematoxylum campechianum": 0.00365,
+    "Robinia pseudoacacia": 0.00342,
+    "Pterocarpus macrocarpus": 0.00338,
+    "Pterocarpus indicus": 0.00272,
+    "Ficus religiosa": 0.00271,
+    "Triadica sebifera": 0.0025,
+    "Chukrasia tabularis": 0.00218,
+    "Erythrina poeppigiana": 0.00196,
+    "Populus tremula": 0.00189,
+    "Tipuana tipu": 0.0017,
+    "Morus nigra": 0.00166,
+    "Eucalyptus robusta": 0.00151,
+    "Guazuma ulmifolia": 0.00139,
+    "Cedrela odorata": 0.00133,
+    "Eucalyptus botryoides": 0.00116,
+    "Pithecellobium dulce": 0.00113,
+    "Swietenia mahagoni": 0.00111,
+    "Morus alba": 0.0011
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-26-08-00-10",
+  "species_name_to_score": {
+    "Peltophorum pterocarpum": 0.34699,
+    "Peltophorum dubium": 0.09709,
+    "Schizolobium parahyba": 0.0316,
+    "Peltophorum africanum": 0.02696,
+    "Jacaranda mimosifolia": 0.02545,
+    "Albizia julibrissin": 0.01813,
+    "Delonix regia": 0.01028,
+    "Caesalpinia pulcherrima": 0.00837,
+    "Senna multijuga": 0.00392,
+    "Paraserianthes lophantha": 0.00362,
+    "Cassia grandis": 0.0034,
+    "Senna alata": 0.00288,
+    "Cassia moschata": 0.00254,
+    "Senna spectabilis": 0.00168,
+    "Cassia javanica": 0.00164,
+    "Leucaena leucocephala": 0.00138,
+    "Averrhoa bilimbi": 0.00129,
+    "Tipuana tipu": 0.00113
+  }
+}

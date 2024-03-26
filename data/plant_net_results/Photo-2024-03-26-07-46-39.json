@@ -1,0 +1,24 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-26-07-46-39",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.27099,
+    "Flacourtia inermis": 0.02573,
+    "Toxicodendron succedaneum": 0.01269,
+    "Cinnamomum verum": 0.00622,
+    "Euonymus grandiflorus": 0.00616,
+    "Euphorbia cotinifolia": 0.00432,
+    "Cedrela odorata": 0.00349,
+    "Saraca indica": 0.00241,
+    "Elaeocarpus angustifolius": 0.00194,
+    "Amherstia nobilis": 0.0018,
+    "Flacourtia jangomas": 0.00162,
+    "Canarium strictum": 0.00151,
+    "Eucalyptus robusta": 0.00148,
+    "Sapindus mukorossi": 0.00133,
+    "Peltophorum pterocarpum": 0.00121,
+    "Diospyros blancoi": 0.00116,
+    "Eugenia uniflora": 0.00111,
+    "Ceiba pentandra": 0.00106
+  }
+}

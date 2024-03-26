@@ -1,0 +1,25 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-26-07-40-31",
+  "species_name_to_score": {
+    "Morinda citrifolia": 0.40989,
+    "Terminalia catappa": 0.04898,
+    "Barringtonia asiatica": 0.04175,
+    "Artocarpus heterophyllus": 0.03811,
+    "Ficus callosa": 0.01192,
+    "Persea americana": 0.00619,
+    "Anacardium occidentale": 0.00524,
+    "Ficus benghalensis": 0.00507,
+    "Ficus racemosa": 0.0044,
+    "Artocarpus integer": 0.00303,
+    "Ceodes umbellifera": 0.00254,
+    "Ficus tinctoria": 0.00244,
+    "Litsea glutinosa": 0.00228,
+    "Guettarda speciosa": 0.00209,
+    "Solanum betaceum": 0.00192,
+    "Ficus altissima": 0.00177,
+    "Calotropis procera": 0.00171,
+    "Hernandia nymphaeifolia": 0.00112,
+    "Erythrina fusca": 0.00102
+  }
+}

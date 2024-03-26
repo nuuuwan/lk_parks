@@ -1,0 +1,30 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-26-07-50-56",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.08456,
+    "Guazuma ulmifolia": 0.02637,
+    "Syzygium cumini": 0.01299,
+    "Monoon longifolium": 0.00682,
+    "Cedrela odorata": 0.00664,
+    "Brachychiton populneus": 0.0051,
+    "Magnolia lanuginosa": 0.00449,
+    "Ficus maclellandii": 0.00448,
+    "Trema tomentosum": 0.00442,
+    "Shorea roxburghii": 0.00263,
+    "Muntingia calabura": 0.00261,
+    "Eucalyptus globulus": 0.00221,
+    "Diospyros lotus": 0.00198,
+    "Aquilaria malaccensis": 0.00169,
+    "Prunus avium": 0.00166,
+    "Durio zibethinus": 0.00157,
+    "Hymenaea courbaril": 0.00147,
+    "Salvadora persica": 0.00143,
+    "Vanilla planifolia": 0.00137,
+    "Shorea assamica": 0.00137,
+    "Flacourtia inermis": 0.00107,
+    "Flacourtia jangomas": 0.00105,
+    "Pterocarpus indicus": 0.00103,
+    "Alnus nitida": 0.00101
+  }
+}

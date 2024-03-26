@@ -1,0 +1,24 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-26-07-47-04",
+  "species_name_to_score": {
+    "Citharexylum spinosum": 0.08829,
+    "Eucalyptus robusta": 0.04159,
+    "Acacia mangium": 0.02333,
+    "Barringtonia acutangula": 0.02189,
+    "Acacia auriculiformis": 0.01084,
+    "Quercus acutissima": 0.01024,
+    "Eucalyptus botryoides": 0.0058,
+    "Ehretia acuminata": 0.0053,
+    "Vitex negundo": 0.00458,
+    "Erythrina crista-galli": 0.00436,
+    "Volkameria heterophylla": 0.0041,
+    "Dodonaea viscosa": 0.00355,
+    "Acacia melanoxylon": 0.00341,
+    "Vitex agnus-castus": 0.00308,
+    "Phytolacca dioica": 0.00173,
+    "Morinda citrifolia": 0.0016,
+    "Ocimum gratissimum": 0.00141,
+    "Mangifera indica": 0.001
+  }
+}

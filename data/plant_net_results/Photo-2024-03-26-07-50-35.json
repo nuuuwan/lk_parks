@@ -1,0 +1,30 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-26-07-50-35",
+  "species_name_to_score": {
+    "Filicium decipiens": 0.23338,
+    "Spondias purpurea": 0.00914,
+    "Samanea saman": 0.00814,
+    "Cerbera manghas": 0.00801,
+    "Spondias mombin": 0.00602,
+    "Peltophorum pterocarpum": 0.00529,
+    "Tecoma stans": 0.0048,
+    "Jacaranda mimosifolia": 0.00441,
+    "Khaya senegalensis": 0.00416,
+    "Cascabela thevetia": 0.00398,
+    "Sapindus mukorossi": 0.00323,
+    "Ailanthus excelsa": 0.00286,
+    "Acacia longifolia": 0.00282,
+    "Peltophorum africanum": 0.00263,
+    "Azadirachta indica": 0.00237,
+    "Swietenia macrophylla": 0.00223,
+    "Peltophorum dubium": 0.00217,
+    "Spondias dulcis": 0.00211,
+    "Tamarindus indica": 0.00184,
+    "Gliricidia sepium": 0.00161,
+    "Grevillea robusta": 0.00154,
+    "Pistacia atlantica": 0.00139,
+    "Fraxinus angustifolia": 0.00129,
+    "Juncus inflexus": 0.00121
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-26-07-38-53",
+  "species_name_to_score": {
+    "Jacaranda mimosifolia": 0.21256,
+    "Peltophorum pterocarpum": 0.03023,
+    "Parkia biglobosa": 0.02787,
+    "Leucaena leucocephala": 0.01954,
+    "Delonix regia": 0.01012,
+    "Schizolobium parahyba": 0.00973,
+    "Adenanthera pavonina": 0.00903,
+    "Peltophorum africanum": 0.00764,
+    "Albizia julibrissin": 0.00712,
+    "Albizia procera": 0.00645,
+    "Tamarindus indica": 0.00583,
+    "Cassia grandis": 0.00542,
+    "Libidibia ferrea": 0.00517,
+    "Albizia lebbeck": 0.0042,
+    "Libidibia coriaria": 0.00383,
+    "Peltophorum dubium": 0.00316,
+    "Acacia dealbata": 0.00271,
+    "Albizia niopoides": 0.0026,
+    "Khaya senegalensis": 0.00218,
+    "Samanea saman": 0.00209,
+    "Tipuana tipu": 0.00204,
+    "Vachellia farnesiana": 0.0019,
+    "Toona ciliata": 0.0016,
+    "Cassia moschata": 0.00158,
+    "Gleditsia triacanthos": 0.00138,
+    "Acacia mearnsii": 0.00126,
+    "Parkia timoriana": 0.00119
+  }
+}

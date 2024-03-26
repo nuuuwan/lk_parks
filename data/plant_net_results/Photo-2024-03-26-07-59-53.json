@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-26-07-59-53",
+  "species_name_to_score": {
+    "Spathodea campanulata": 0.65363,
+    "Markhamia stipulata": 0.00532,
+    "Saraca indica": 0.00333,
+    "Calliandra haematocephala": 0.00329,
+    "Rhus chinensis": 0.0014,
+    "Radermachera xylocarpa": 0.00127,
+    "Nephelium lappaceum": 0.00106,
+    "Calliandra surinamensis": 0.001
+  }
+}

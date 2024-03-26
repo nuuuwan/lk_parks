@@ -1,0 +1,26 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-26-07-42-06",
+  "species_name_to_score": {
+    "Pterocarpus indicus": 0.09605,
+    "Cinnamomum camphora": 0.09065,
+    "Aegle marmelos": 0.04355,
+    "Choerospondias axillaris": 0.03614,
+    "Pterocarpus macrocarpus": 0.01676,
+    "Acer negundo": 0.00933,
+    "Juglans nigra": 0.00568,
+    "Radermachera xylocarpa": 0.0046,
+    "Tipuana tipu": 0.00257,
+    "Guazuma ulmifolia": 0.00203,
+    "Swietenia mahagoni": 0.00199,
+    "Cinnamomum glanduliferum": 0.00185,
+    "Koelreuteria paniculata": 0.00176,
+    "Santalum album": 0.00151,
+    "Neolamarckia cadamba": 0.00148,
+    "Swietenia macrophylla": 0.00146,
+    "Fraxinus angustifolia": 0.00129,
+    "Hovenia acerba": 0.00127,
+    "Quercus serrata": 0.00104,
+    "Millingtonia hortensis": 0.00103
+  }
+}

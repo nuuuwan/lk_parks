@@ -1,0 +1,29 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-26-07-49-00",
+  "species_name_to_score": {
+    "Vitex altissima": 0.08639,
+    "Adansonia digitata": 0.06283,
+    "Vitex pinnata": 0.05459,
+    "Schleichera oleosa": 0.02485,
+    "Crescentia cujete": 0.02048,
+    "Aesculus indica": 0.02011,
+    "Tecoma stans": 0.01748,
+    "Aegle marmelos": 0.00962,
+    "Barringtonia acutangula": 0.0051,
+    "Swietenia macrophylla": 0.00432,
+    "Theobroma cacao": 0.00332,
+    "Cleome spinosa": 0.00297,
+    "Lagerstroemia speciosa": 0.00276,
+    "Spondias mombin": 0.00256,
+    "Couroupita guianensis": 0.00241,
+    "Ipomoea cairica": 0.00203,
+    "Swietenia mahagoni": 0.00178,
+    "Pometia pinnata": 0.00162,
+    "Sterculia foetida": 0.00158,
+    "Careya arborea": 0.00151,
+    "Distimake aegyptius": 0.00127,
+    "Spathodea campanulata": 0.00115,
+    "Sandoricum koetjape": 0.00103
+  }
+}

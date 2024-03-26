@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-26-07-40-18",
+  "species_name_to_score": {
+    "Artocarpus heterophyllus": 0.87256,
+    "Litsea monopetala": 0.03131,
+    "Artocarpus integer": 0.00912,
+    "Anacardium occidentale": 0.0035,
+    "Ficus benghalensis": 0.00313,
+    "Terminalia catappa": 0.00288,
+    "Ficus altissima": 0.00227,
+    "Ficus callosa": 0.0018,
+    "Ficus tinctoria": 0.00146,
+    "Ficus racemosa": 0.00115,
+    "Erythrina fusca": 0.00109,
+    "Holarrhena pubescens": 0.00109,
+    "Nephelium lappaceum": 0.00108
+  }
+}

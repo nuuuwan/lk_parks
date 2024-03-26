@@ -1,0 +1,18 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-26-07-41-08",
+  "species_name_to_score": {
+    "Psidium cattleyanum": 0.01904,
+    "Ficus microcarpa": 0.0136,
+    "Ficus retusa": 0.00584,
+    "Artocarpus heterophyllus": 0.00458,
+    "Ficus elastica": 0.00314,
+    "Ficus tinctoria": 0.00312,
+    "Carallia brachiata": 0.00265,
+    "Planchonella obovata": 0.00145,
+    "Camellia sasanqua": 0.00138,
+    "Osmanthus fragrans": 0.00118,
+    "Ficus concinna": 0.00104,
+    "Annona muricata": 0.00102
+  }
+}

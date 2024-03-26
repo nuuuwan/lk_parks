@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-26-07-39-11",
+  "species_name_to_score": {
+    "Ficus altissima": 0.06688,
+    "Ficus benghalensis": 0.05731,
+    "Ficus virens": 0.04682,
+    "Ficus elastica": 0.04613,
+    "Ficus microcarpa": 0.03221,
+    "Ficus religiosa": 0.03178,
+    "Ceiba pentandra": 0.01227,
+    "Ficus concinna": 0.00332,
+    "Ficus maclellandii": 0.00246,
+    "Ficus benjamina": 0.00183,
+    "Adansonia digitata": 0.00175,
+    "Ficus retusa": 0.00163,
+    "Phytolacca dioica": 0.00108
+  }
+}
