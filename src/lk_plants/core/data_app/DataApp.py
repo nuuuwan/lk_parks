@@ -23,7 +23,7 @@ class DataApp:
                 content += '...'
                 break
             content += word + ' '
-        return content.strip() 
+        return content.strip()
 
     @staticmethod
     def get_data_short(plant_photo):
@@ -37,22 +37,24 @@ class DataApp:
 
         MAX_SPECIES = 5
         d['plant_net_result']['species_name_to_score'] = dict(
-            list(d['plant_net_result']['species_name_to_score'].items())[:MAX_SPECIES]
+            list(
+                d['plant_net_result']['species_name_to_score'].items())[
+                :MAX_SPECIES]
         )
         del d['plant_net_result']['ut_api_call']
         del d['plant_net_result']['plant_photo_id']
 
-        # del d['species']['gbif_id']  
+        # del d['species']['gbif_id']
         # del d['species']['powo_id']
         # del d['species']['iucn_id']
         del d['species']['iucn_category']
 
         del d['wiki_page']['wiki_page_name']
-       
-        d['wiki_page']['summary_short'] = DataApp.get_summary_short(d['wiki_page']['summary'])      
+
+        d['wiki_page']['summary_short'] = DataApp.get_summary_short(
+            d['wiki_page']['summary'])
         del d['wiki_page']['summary']
         return d
-
 
     @staticmethod
     def get_data_long(plant_photo):
@@ -67,7 +69,8 @@ class DataApp:
         species = Species.from_name(species_name)
         d['species'] = species.to_dict()
 
-        d['wiki_page'] = WikiPage.from_wiki_page_name(species.wiki_page_name).to_dict()
+        d['wiki_page'] = WikiPage.from_wiki_page_name(
+            species.wiki_page_name).to_dict()
         return d
 
     @staticmethod
@@ -80,13 +83,13 @@ class DataApp:
                 continue
             idx[plant_photo.id] = d
         return idx
-    
+
     @staticmethod
     def write_ext_plant_photo_idx(func_get_data, label):
         idx = DataApp.get_ext_plant_photo_idx(func_get_data)
 
         data_idx_path = os.path.join(
-        DataApp.DIR_DATA_APP, f'ext_plant_photo_idx{label}.json')
+            DataApp.DIR_DATA_APP, f'ext_plant_photo_idx{label}.json')
         JSONFile(data_idx_path).write(idx)
         file_size_m = os.path.getsize(data_idx_path) / 1_000_000
         log.info(
@@ -94,8 +97,7 @@ class DataApp:
         )
         log.info(f'{data_idx_path} ({file_size_m:.01f}MB)')
 
-
     @staticmethod
     def write_all():
-        DataApp.write_ext_plant_photo_idx(DataApp.get_data_short,'')
+        DataApp.write_ext_plant_photo_idx(DataApp.get_data_short, '')
         DataApp.write_ext_plant_photo_idx(DataApp.get_data_long, '.long')
