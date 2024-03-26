@@ -27,7 +27,7 @@ class ReadMeMostCommonSpecies(ReadMeStatisticsByTaxonomy):
             p_dim = 1.0 / MAX_PLANT_PHOTOS - 0.01
             if not image_md_list:
                 p_dim *= 2
-                
+
             dim = f'{p_dim:.0%}'
             image_md = Markdown.image_html(
                 species_name, image_path_unix, width=dim, height=dim
