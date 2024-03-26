@@ -46,15 +46,21 @@ class ReadMeMostCommonSpecies(ReadMeStatisticsByTaxonomy):
         wiki_page_name = species.wiki_page_name
         wiki_page = WikiPage.from_wiki_page_name(wiki_page_name)
         summary = wiki_page.summary
+        genus = species.genus
+        family = genus.family
+
+        common_names_str = ', '.join(species.common_names)
 
         n_photos = len(plant_photo_list)
 
         lines = [
-            f'### *{species_name}*',
+            '### ' + Markdown.wiki_link(species_name) + ' (' + Markdown.wiki_link(family.name) + ')',
             '',
-            f'*{n_photos} Photos*',
+            Markdown.italic(f'{n_photos} Photos'),
             '',
             image_all_md,
+            '',
+            Markdown.italic(common_names_str),
             '',
             summary +  ' ' + Markdown.ref(Markdown.wiki_link(wiki_page_name, 'Wikipedia')),
             '',
