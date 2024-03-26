@@ -37,7 +37,7 @@ class ReadMeDifficultIds(MarkdownPage, InfoReadMe):
             if i % N_COLUMNS == 0:
                 image_lines.append('')
             image_lines.append(
-                f'![{plant_photo.image_name}]({plant_photo.image_path})'
+                f'![{plant_photo.id}]({plant_photo.image_path})'
             )
         return image_lines
 
