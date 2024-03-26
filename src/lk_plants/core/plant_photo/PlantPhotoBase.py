@@ -18,6 +18,9 @@ class PlantPhotoBase:
     alt: float
     direction: float
 
+    def __hash__(self):
+        return hash(self.id)
+
     @classmethod
     def get_dir_data(cls):
         return os.path.join(

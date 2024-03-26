@@ -8,7 +8,7 @@ from utils import JSONFile, Log
 
 from lk_plants.core.plant_net.PlantNetResult import PlantNetResult
 from lk_plants.core.plant_photo.PlantPhoto import PlantPhoto
-from lk_plants.core.taxonomy import Species
+from lk_plants.core.taxonomy.Species import Species
 
 log = Log('WikiPage')
 
@@ -24,6 +24,7 @@ class WikiPage:
         'data',
         'wiki',
     )
+    T_SLEEP_CALL_API = 1
 
     def to_dict(self) -> dict:
         return self.__dict__
@@ -50,49 +51,53 @@ class WikiPage:
     def get_wiki_page_name_from_plant_photo(plant_photo: PlantPhoto) -> str:
         plant_net_result = PlantNetResult.from_plant_photo(plant_photo)
         top_species_name = plant_net_result.top_species_name
+        if not top_species_name:
+            return None
         species = Species.from_name(top_species_name)
         wiki_page_name = species.wiki_page_name
         return wiki_page_name
 
     @staticmethod
-    def filter_with_no_results(plant_photo: PlantPhoto):
-        wiki_page_name = WikiPage.get_wiki_page_name_from_plant_photo(
-            plant_photo
+    @cache
+    def get_wiki_page_name_list() -> list[str]:
+        plant_photo_list = PlantPhoto.list_all()
+        wiki_page_name_list = [
+            WikiPage.get_wiki_page_name_from_plant_photo(plant_photo)
+            for plant_photo in plant_photo_list
+        ]
+        wiki_page_name_list_filtered = [
+            wiki_page_name
+            for wiki_page_name in wiki_page_name_list
+            if wiki_page_name and os.path.exists(WikiPage.get_data_path(wiki_page_name))
+        ]
+        wiki_page_name_list_unique = sorted(
+            list(set(wiki_page_name_list_filtered))
         )
-        data_path = WikiPage.get_data_path(wiki_page_name)
-        return not os.path.exists(data_path)
+        return wiki_page_name_list_unique
 
     @staticmethod
     def call_wiki_api(wiki_page_name: str):
-        time.sleep(1)
+        time.sleep(WikiPage.T_SLEEP_CALL_API)
         wiki = wikipediaapi.Wikipedia(WikiPage.PROJECT, WikiPage.LANG)
         page = wiki.page(wiki_page_name)
         return page
 
     @staticmethod
-    def from_plant_photo(plant_photo: PlantPhoto) -> 'WikiPage':
-        wiki_page_name = WikiPage.get_wiki_page_name_from_plant_photo(
-            plant_photo
-        )
+    def from_wiki_page_name(wiki_page_name: str) -> 'WikiPage':
         page = WikiPage.call_wiki_api(wiki_page_name)
-        wiki_page = WikiPage(
-            wiki_page_name=wiki_page_name, summary=page.summary
-        )
+        summary = page.summary
+        wiki_page = WikiPage(wiki_page_name=wiki_page_name, summary=summary)
+        log.debug(f'📃 {wiki_page_name}: {summary}')
         wiki_page.write()
         return wiki_page
 
     @staticmethod
-    def build_from_plant_photos():
-        plant_photo_list = PlantPhoto.list_all()
-        plant_photo_list_filtered = [
-            plant_photo
-            for plant_photo in plant_photo_list
-            if WikiPage.filter_with_no_results(plant_photo)
-        ]
-        n_filtered = len(plant_photo_list_filtered)
-        log.debug(f'{n_filtered=}')
+    def build():
+        wiki_page_name_list = WikiPage.get_wiki_page_name_list()
+        n_pages = len(wiki_page_name_list)
+        log.debug(f'{n_pages=}')
 
-        for i, plant_photo in enumerate(plant_photo_list_filtered):
-            log.debug(f'{i + 1}/{n_filtered}')
-            WikiPage.from_plant_photo(plant_photo)
+        for i, wiki_page_name in enumerate(wiki_page_name_list):
+            log.debug(f'{i + 1}/{n_pages}')
+            WikiPage.from_wiki_page_name(wiki_page_name)
         log.info('build_from_plant_photos: done')

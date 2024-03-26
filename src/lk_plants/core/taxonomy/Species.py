@@ -55,12 +55,9 @@ class Species(Taxon):
         d_species = d['species']
         name = Taxon.clean_name(d_species['scientificNameWithoutAuthor'])
         data_path = Species.get_data_path(name)
-
         if os.path.exists(data_path):
             return Species.from_name(name)
-
         genus = Genus.from_plant_net_raw_result(d)
-
         common_names = d_species.get('commonNames', [])
 
         def get_attr(d, k1, k2):
@@ -73,7 +70,6 @@ class Species(Taxon):
         combined_common_names = sorted(
             list(set(common_names + common_names2))
         )
-
         species = Species(
             name=name,
             authorship=d_species['scientificNameAuthorship'],

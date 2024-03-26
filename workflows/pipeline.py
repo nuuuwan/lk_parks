@@ -7,7 +7,7 @@ def main():
     PlantPhoto.build_from_dir_data_original_image()
     PlantNetResult.build_from_plant_photos()
     PlantPhoto.build_contents()
-    WikiPage.build_from_plant_photos()
+    WikiPage.build()
     DataApp().write_all()
 
     ViharamahadeviParkReport().write()

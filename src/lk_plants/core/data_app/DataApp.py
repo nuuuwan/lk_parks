@@ -38,9 +38,9 @@ class DataApp:
         JSONFile(DataApp.EXT_PLANT_PHOTO_IDX_PATH).write(idx)
         file_size_k = os.path.getsize(DataApp.EXT_PLANT_PHOTO_IDX_PATH) / 1_000
         log.info(
-            f'Wrote {len(idx)} extended plant photos to ' +
-            f'{DataApp.EXT_PLANT_PHOTO_IDX_PATH} ({file_size_k:.01f}KB)'
+            f'Wrote {len(idx)} extended plant photos to '
         )
+        log.info(f'{DataApp.EXT_PLANT_PHOTO_IDX_PATH} ({file_size_k:.01f}KB)')
 
     def write_all(self):
         self.write_ext_plant_photo_idx()
