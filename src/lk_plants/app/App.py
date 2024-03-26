@@ -9,7 +9,7 @@ log = Log('App')
 
 
 class App:
-    @staticmethod 
+    @staticmethod
     def scrape():
         options = Options()
         options.add_argument('--headless')

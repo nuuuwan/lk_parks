@@ -1,4 +1,5 @@
-from lk_plants import DataApp, PlantNetResult, PlantPhoto, ReadMe, WikiPage, App
+from lk_plants import (App, DataApp, PlantNetResult, PlantPhoto, ReadMe,
+                       WikiPage)
 
 
 def main():
@@ -13,4 +14,4 @@ def main():
 
 
 if __name__ == "__main__":
-   main()
+    main()
