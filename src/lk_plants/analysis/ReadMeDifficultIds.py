@@ -4,7 +4,7 @@ from functools import cached_property
 from lk_plants.analysis.InfoReadMe import InfoReadMe
 from lk_plants.core.plant_net.PlantNetResult import PlantNetResult
 from lk_plants.core.plant_photo.PlantPhoto import PlantPhoto
-from utils_future import MarkdownPage
+from utils_future import MarkdownPage, Markdown
 
 
 class ReadMeDifficultIds(MarkdownPage, InfoReadMe):
@@ -55,7 +55,7 @@ class ReadMeDifficultIds(MarkdownPage, InfoReadMe):
                     '',
                     '\n'.join(score_lines),
                     '',
-                    f'![{plant_photo.id}]({image_path_unix})',
+                    Markdown.image_html(plant_photo.id, image_path_unix, width='50%'),
                     '',
                 ]
             )
