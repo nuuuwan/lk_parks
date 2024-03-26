@@ -16,7 +16,7 @@ log = Log('ReadMeMostCommonSpecies')
 class ReadMeMostCommonSpecies(ReadMeStatisticsByTaxonomy):
     @staticmethod
     def get_lines_for_species(species_name, plant_photo_list):
-        MAX_PLANT_PHOTOS = 3
+        MAX_PLANT_PHOTOS = 4
         random.shuffle(plant_photo_list)
         best_plant_photos = plant_photo_list[:MAX_PLANT_PHOTOS]
 
