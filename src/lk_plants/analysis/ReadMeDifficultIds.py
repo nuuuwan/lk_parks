@@ -31,15 +31,16 @@ class ReadMeDifficultIds(MarkdownPage, InfoReadMe):
             if ReadMeDifficultIds.is_difficult(plant_photo)
         ]
         random.shuffle(plant_photos_difficult)
-        N_DISPLAY = 20
+        MAX_DISPLAY_PHOTOS = 20
+        MAX_DISPLAY_SCORES = 3
 
-        plant_photos_difficult = plant_photos_difficult[:N_DISPLAY]
+        plant_photos_difficult = plant_photos_difficult[:MAX_DISPLAY_PHOTOS]
         image_lines = []
         for plant_photo in plant_photos_difficult:
             plant_net_result = PlantNetResult.from_plant_photo(plant_photo)
             species_name_to_score = plant_net_result.species_name_to_score
             score_lines = []
-            for species_name, score in species_name_to_score.items():
+            for species_name, score in list(species_name_to_score.items())[:MAX_DISPLAY_SCORES]:
                 score_lines.append(f'* {score:.1%} *{species_name}*')
 
             image_path = plant_photo.image_path
