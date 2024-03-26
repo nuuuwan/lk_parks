@@ -5,11 +5,13 @@ from lk_plants.analysis.ReadMeAbout import ReadMeAbout
 from lk_plants.analysis.ReadMeApp import ReadMeApp
 from lk_plants.analysis.ReadMeMostCommonSpecies import ReadMeMostCommonSpecies
 from lk_plants.analysis.ReadMePlantNet import ReadMePlantNet
-from lk_plants.analysis.ReadMeStatisticsByTaxonomy import \
-    ReadMeStatisticsByTaxonomy
+from lk_plants.analysis.ReadMeStatisticsByTaxonomy import (
+    ReadMeStatisticsByTaxonomy,
+)
 from lk_plants.analysis.ReadMeVMDPark import ReadMeVMDPark
 from utils_future import MarkdownPage
 from lk_plants.analysis.ReadMeDifficultIds import ReadMeDifficultIds
+
 
 class ReadMe(MarkdownPage, InfoReadMe):
     @cached_property

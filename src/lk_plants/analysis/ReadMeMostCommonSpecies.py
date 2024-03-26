@@ -2,8 +2,9 @@ from functools import cached_property
 import random
 from utils import Log
 
-from lk_plants.analysis.ReadMeStatisticsByTaxonomy import \
-    ReadMeStatisticsByTaxonomy
+from lk_plants.analysis.ReadMeStatisticsByTaxonomy import (
+    ReadMeStatisticsByTaxonomy,
+)
 from lk_plants.core.plant_net.PlantNetResult import PlantNetResult
 from lk_plants.core.taxonomy.Species import Species
 from lk_plants.core.wiki.WikiPage import WikiPage
@@ -23,7 +24,7 @@ class ReadMeMostCommonSpecies(ReadMeStatisticsByTaxonomy):
         for plant_photo in best_plant_photos:
             image_path = plant_photo.image_path
             image_path_unix = image_path.replace('\\', '/')
-            p_dim = 1.0/MAX_PLANT_PHOTOS - 0.01
+            p_dim = 1.0 / MAX_PLANT_PHOTOS - 0.01
             dim = f'{p_dim:.0%}'
             image_md = Markdown.image_html(
                 species_name, image_path_unix, width=dim, height=dim
@@ -47,7 +48,11 @@ class ReadMeMostCommonSpecies(ReadMeStatisticsByTaxonomy):
         n_photos = len(plant_photo_list)
 
         lines = [
-            '### ' + Markdown.wiki_link(species_name) + ' (' + Markdown.wiki_link(family.name) + ')',
+            '### '
+            + Markdown.wiki_link(species_name)
+            + ' ('
+            + Markdown.wiki_link(family.name)
+            + ')',
             '',
             Markdown.italic(f'{n_photos} Photos'),
             '',
@@ -55,7 +60,9 @@ class ReadMeMostCommonSpecies(ReadMeStatisticsByTaxonomy):
             '',
             Markdown.italic(common_names_str),
             '',
-            summary +  ' ' + Markdown.ref(Markdown.wiki_link(wiki_page_name, 'Wikipedia')),
+            summary
+            + ' '
+            + Markdown.ref(Markdown.wiki_link(wiki_page_name, 'Wikipedia')),
             '',
         ]
         return lines

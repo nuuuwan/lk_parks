@@ -33,9 +33,7 @@ class Markdown:
             all_style += f' width="{width}"'
         if height:
             all_style += f' height="{height}"'
-        return (
-            f'<img src="{url}" alt="{alt}" {all_style} />'
-        )
+        return f'<img src="{url}" alt="{alt}" {all_style} />'
 
     @staticmethod
     def table_row(cells):

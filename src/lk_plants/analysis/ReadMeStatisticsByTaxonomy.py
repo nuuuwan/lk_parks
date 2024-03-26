@@ -34,7 +34,7 @@ class ReadMeStatisticsByTaxonomy(MarkdownPage, InfoReadMe):
             : ReadMeStatisticsByTaxonomy.N_DISPLAY
         ]
         others_list_list = sorted_key_and_data_list[
-            ReadMeStatisticsByTaxonomy.N_DISPLAY:
+            ReadMeStatisticsByTaxonomy.N_DISPLAY :
         ]
         others_list = []
         for data_list in others_list_list:

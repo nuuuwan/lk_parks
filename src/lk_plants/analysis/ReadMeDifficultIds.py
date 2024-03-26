@@ -7,7 +7,7 @@ from lk_plants.core.plant_net.PlantNetResult import PlantNetResult
 
 
 class ReadMeDifficultIds(MarkdownPage, InfoReadMe):
-    MIN_CONFIDENCE = 0.1
+    MIN_CONFIDENCE = 0.2
     
     @cached_property
     def file_path(self):
@@ -59,9 +59,9 @@ class ReadMeDifficultIds(MarkdownPage, InfoReadMe):
     @cached_property
     def lines(self) -> list[str]:
         return [
-            '## Plant Photos difficult to Identify',
+            '## Examples of Plant Photos difficult to Identify',
             '',
-            'Examples of Plant Photos where the identification confidence '+f'is < {ReadMeDifficultIds.MIN_CONFIDENCE:.0%}.',
+            'Photos where the identification confidence '+f'is **< {ReadMeDifficultIds.MIN_CONFIDENCE:.0%}**.',
             '',
             
         ] + self.lines_inner
