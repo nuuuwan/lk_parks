@@ -10,6 +10,7 @@ from lk_plants.analysis.ReadMeStatisticsByTaxonomy import \
     ReadMeStatisticsByTaxonomy
 from lk_plants.analysis.ReadMeVMDPark import ReadMeVMDPark
 from utils_future import MarkdownPage
+from lk_plants.analysis.ReadMeFunnel import ReadMeFunnel
 
 
 class ReadMe(MarkdownPage, InfoReadMe):
@@ -31,6 +32,7 @@ class ReadMe(MarkdownPage, InfoReadMe):
             ReadMePlantNet(),
             ReadMeApp(),
             ReadMeVMDPark(),
+            ReadMeFunnel(),
             ReadMeMostCommonSpecies(),
             ReadMeStatisticsByTaxonomy(),
             ReadMeDifficultIds(),

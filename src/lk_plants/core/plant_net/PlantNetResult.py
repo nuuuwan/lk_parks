@@ -157,3 +157,9 @@ class PlantNetResult:
         if not self.species_name_to_score:
             return None
         return list(self.species_name_to_score.keys())[0]
+
+    @cached_property
+    def top_score(self):
+        if not self.species_name_to_score:
+            return None
+        return list(self.species_name_to_score.values())[0]
