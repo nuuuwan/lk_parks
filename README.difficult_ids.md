@@ -2,101 +2,77 @@
 
 Photos where the identification confidence is **< 20%**.
 
-### Photo-2024-03-26-08-01-11
+### Photo-2024-03-17-08-13-27
 
-* 16.1% *Mimusops elengi*
-* 10.5% *Ficus benjamina*
-* 10.2% *Ficus retusa*
+* 3.9% *Cocos nucifera*
+* 2.0% *Schizolobium parahyba*
+* 1.4% *Elaeocarpus angustifolius*
 
-![Photo-2024-03-26-08-01-11](data/images/Photo-2024-03-26-08-01-11.jpg)
+![Photo-2024-03-17-08-13-27](data/images/Photo-2024-03-17-08-13-27.jpg)
 
-### Photo-2024-03-26-07-49-00
+### Photo-2024-03-08-06-58-01
 
-* 8.6% *Vitex altissima*
-* 6.3% *Adansonia digitata*
-* 5.5% *Vitex pinnata*
+* 7.8% *Tectona grandis*
+* 7.2% *Lagerstroemia speciosa*
+* 5.4% *Magnolia kobus*
 
-![Photo-2024-03-26-07-49-00](data/images/Photo-2024-03-26-07-49-00.jpg)
+![Photo-2024-03-08-06-58-01](data/images/Photo-2024-03-08-06-58-01.jpg)
 
-### Photo-2024-03-15-07-07-08
+### Photo-2024-03-20-07-59-34
 
-* 5.5% *Azadirachta indica*
+* 5.6% *Delonix regia*
+* 3.3% *Hymenaea courbaril*
+* 2.0% *Cinnamomum camphora*
+
+![Photo-2024-03-20-07-59-34](data/images/Photo-2024-03-20-07-59-34.jpg)
+
+### Photo-2024-03-17-08-15-56
+
+* 4.2% *Santalum album*
+* 2.4% *Ximenia americana*
+* 2.3% *Myristica fragrans*
+
+![Photo-2024-03-17-08-15-56](data/images/Photo-2024-03-17-08-15-56.jpg)
+
+### Photo-2024-03-16-07-27-53
+
+* 1.1% *Areca catechu*
+* 0.2% *Phoenix dactylifera*
+* 0.2% *Cocos nucifera*
+
+![Photo-2024-03-16-07-27-53](data/images/Photo-2024-03-16-07-27-53.jpg)
+
+### Photo-2024-03-17-08-31-34
+
+* 3.3% *Lagerstroemia speciosa*
+* 2.5% *Terminalia arjuna*
+* 0.8% *Juglans regia*
+
+![Photo-2024-03-17-08-31-34](data/images/Photo-2024-03-17-08-31-34.jpg)
+
+### Photo-2024-03-26-07-39-01
+
+* 8.3% *Adenanthera pavonina*
+* 7.3% *Jacaranda mimosifolia*
+* 4.2% *Samanea saman*
+
+![Photo-2024-03-26-07-39-01](data/images/Photo-2024-03-26-07-39-01.jpg)
+
+### Photo-2024-03-08-06-43-33
+
+* 17.0% *Cordia dichotoma*
+* 9.1% *Bauhinia blakeana*
+* 5.5% *Cordia sebestena*
+
+![Photo-2024-03-08-06-43-33](data/images/Photo-2024-03-08-06-43-33.jpg)
+
+### Photo-2024-03-15-07-35-27
+
+* 11.8% *Ficus religiosa*
+* 4.9% *Pterocarpus indicus*
 * 2.6% *Tipuana tipu*
-* 1.5% *Diospyros buxifolia*
 
-![Photo-2024-03-15-07-07-08](data/images/Photo-2024-03-15-07-07-08.jpg)
-
-### Photo-2024-03-19-07-15-40
-
-* 4.3% *Peltophorum dubium*
-* 3.4% *Peltophorum africanum*
-* 1.7% *Samanea saman*
-
-![Photo-2024-03-19-07-15-40](data/images/Photo-2024-03-19-07-15-40.jpg)
-
-### Photo-2024-03-19-07-11-49
-
-* 3.8% *Albizia lebbeck*
-* 3.3% *Pometia pinnata*
-* 2.1% *Pterocarpus indicus*
-
-![Photo-2024-03-19-07-11-49](data/images/Photo-2024-03-19-07-11-49.jpg)
-
-### Photo-2024-03-11-06-46-20
-
-* 10.7% *Terminalia arjuna*
-* 6.1% *Punica granatum*
-* 2.6% *Nephelium lappaceum*
-
-![Photo-2024-03-11-06-46-20](data/images/Photo-2024-03-11-06-46-20.jpg)
-
-### Photo-2024-03-11-06-43-18
-
-* 9.0% *Filicium decipiens*
-* 6.0% *Prosopis glandulosa*
-* 5.0% *Peronema canescens*
-
-![Photo-2024-03-11-06-43-18](data/images/Photo-2024-03-11-06-43-18.jpg)
-
-### Photo-2024-03-26-07-48-19
-
-* 16.1% *Swietenia macrophylla*
-* 5.0% *Swietenia mahagoni*
-* 4.6% *Spondias mombin*
-
-![Photo-2024-03-26-07-48-19](data/images/Photo-2024-03-26-07-48-19.jpg)
-
-### Photo-2024-03-15-07-10-58
-
-* 13.7% *Peltophorum pterocarpum*
-* 6.1% *Libidibia ferrea*
-* 1.9% *Biancaea sappan*
-
-![Photo-2024-03-15-07-10-58](data/images/Photo-2024-03-15-07-10-58.jpg)
-
-### Photo-2024-03-21-08-16-49
-
-* 5.5% *Jacaranda mimosifolia*
-* 3.1% *Pterocarpus indicus*
-* 2.9% *Albizia procera*
-
-![Photo-2024-03-21-08-16-49](data/images/Photo-2024-03-21-08-16-49.jpg)
-
-### Photo-2024-03-20-07-44-37
-
-* 8.0% *Lagerstroemia speciosa*
-* 4.3% *Diospyros melanoxylon*
-* 2.3% *Strychnos nux-vomica*
-
-![Photo-2024-03-20-07-44-37](data/images/Photo-2024-03-20-07-44-37.jpg)
-
-### Photo-2024-03-26-07-39-39
-
-* 7.4% *Ficus altissima*
-* 1.8% *Cassia grandis*
-* 1.1% *Ficus virens*
-
-![Photo-2024-03-26-07-39-39](data/images/Photo-2024-03-26-07-39-39.jpg)
+![Photo-2024-03-15-07-35-27](data/images/Photo-2024-03-15-07-35-27.jpg)
 
 ### Photo-2024-03-08-06-55-50
 
@@ -106,29 +82,13 @@ Photos where the identification confidence is **< 20%**.
 
 ![Photo-2024-03-08-06-55-50](data/images/Photo-2024-03-08-06-55-50.jpg)
 
-### Photo-2024-03-21-07-49-57
+### Photo-2024-03-15-07-07-38
 
-* 19.6% *Areca triandra*
-* 3.6% *Dendrocalamus giganteus*
-* 0.2% *Areca catechu*
+* 3.1% *Syzygium jambos*
+* 1.8% *Acacia auriculiformis*
+* 1.5% *Mangifera indica*
 
-![Photo-2024-03-21-07-49-57](data/images/Photo-2024-03-21-07-49-57.jpg)
-
-### Photo-2024-03-21-08-16-00
-
-* 4.7% *Terminalia arjuna*
-* 2.7% *Syzygium samarangense*
-* 1.9% *Psidium guajava*
-
-![Photo-2024-03-21-08-16-00](data/images/Photo-2024-03-21-08-16-00.jpg)
-
-### Photo-2024-03-15-07-06-42
-
-* 5.7% *Madhuca longifolia*
-* 4.9% *Alstonia macrophylla*
-* 2.1% *Mangifera indica*
-
-![Photo-2024-03-15-07-06-42](data/images/Photo-2024-03-15-07-06-42.jpg)
+![Photo-2024-03-15-07-07-38](data/images/Photo-2024-03-15-07-07-38.jpg)
 
 ### Photo-2024-03-21-08-13-46
 
@@ -138,26 +98,66 @@ Photos where the identification confidence is **< 20%**.
 
 ![Photo-2024-03-21-08-13-46](data/images/Photo-2024-03-21-08-13-46.jpg)
 
-### Photo-2024-03-15-07-09-14
+### Photo-2024-03-12-07-19-45
 
-* 14.3% *Terminalia arjuna*
-* 6.1% *Syzygium cumini*
-* 3.3% *Syzygium jambos*
+* 5.9% *Quercus suber*
+* 4.3% *Phillyrea latifolia*
+* 2.9% *Leptospermum laevigatum*
 
-![Photo-2024-03-15-07-09-14](data/images/Photo-2024-03-15-07-09-14.jpg)
+![Photo-2024-03-12-07-19-45](data/images/Photo-2024-03-12-07-19-45.jpg)
 
-### Photo-2024-03-26-07-59-09
+### Photo-2024-03-17-08-13-45
 
-* 1.6% *Syzygium jambos*
-* 0.9% *Corymbia maculata*
-* 0.5% *Syzygium cymosum*
+* 8.8% *Ficus benghalensis*
+* 7.4% *Heritiera littoralis*
+* 6.7% *Terminalia arjuna*
 
-![Photo-2024-03-26-07-59-09](data/images/Photo-2024-03-26-07-59-09.jpg)
+![Photo-2024-03-17-08-13-45](data/images/Photo-2024-03-17-08-13-45.jpg)
 
-### Photo-2024-02-10-08-03-25
+### Photo-2024-03-17-08-10-56
 
-* 5.3% *Pittosporum undulatum*
-* 3.4% *Melaleuca alternifolia*
-* 3.2% *Camellia sinensis*
+* 8.1% *Cocos nucifera*
+* 0.6% *Phoenix dactylifera*
+* 0.3% *Schizolobium parahyba*
 
-![Photo-2024-02-10-08-03-25](data/images/Photo-2024-02-10-08-03-25.jpg)
+![Photo-2024-03-17-08-10-56](data/images/Photo-2024-03-17-08-10-56.jpg)
+
+### Photo-2024-03-11-06-36-05
+
+* 6.4% *Coccoloba uvifera*
+* 6.2% *Libidibia ferrea*
+* 3.4% *Citharexylum spinosum*
+
+![Photo-2024-03-11-06-36-05](data/images/Photo-2024-03-11-06-36-05.jpg)
+
+### Photo-2024-03-17-08-18-57
+
+* 4.9% *Ficus religiosa*
+* 2.9% *Khaya senegalensis*
+* 2.4% *Ficus virens*
+
+![Photo-2024-03-17-08-18-57](data/images/Photo-2024-03-17-08-18-57.jpg)
+
+### Photo-2024-03-21-07-35-57
+
+* 8.2% *Areca triandra*
+* 1.6% *Filicium decipiens*
+* 0.6% *Dendrocalamus giganteus*
+
+![Photo-2024-03-21-07-35-57](data/images/Photo-2024-03-21-07-35-57.jpg)
+
+### Photo-2024-03-15-07-15-34
+
+* 7.9% *Ixora chinensis*
+* 1.1% *Morus nigra*
+* 0.9% *Acalypha hispida*
+
+![Photo-2024-03-15-07-15-34](data/images/Photo-2024-03-15-07-15-34.jpg)
+
+### Photo-2024-03-17-08-11-40
+
+* 7.9% *Bischofia javanica*
+* 2.9% *Ficus religiosa*
+* 1.6% *Brachychiton populneus*
+
+![Photo-2024-03-17-08-11-40](data/images/Photo-2024-03-17-08-11-40.jpg)
