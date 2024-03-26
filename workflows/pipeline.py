@@ -4,14 +4,14 @@ from workflows import scrape_app
 
 
 def main():
-    # PlantPhoto.build_from_dir_data_original_image()
-    # PlantNetResult.build_from_plant_photos()
-    # PlantPhoto.build_contents()
-    # WikiPage.build()
+    PlantPhoto.build_from_dir_data_original_image()
+    PlantNetResult.build_from_plant_photos()
+    PlantPhoto.build_contents()
+    WikiPage.build()
     DataApp.write_all()
 
-    # ViharamahadeviParkReport().write()
-    # scrape_app.main()
+    ViharamahadeviParkReport().write()
+    scrape_app.main()
 
 
 if __name__ == "__main__":
