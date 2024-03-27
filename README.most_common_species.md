@@ -42,9 +42,9 @@ The jackfruit is the fruit of jack tree Artocarpus heterophyllus, a species of t
 
 ### [*Tectona grandis*](https://en.wikipedia.org/wiki/Tectona_grandis) ([*Lamiaceae*](https://en.wikipedia.org/wiki/Lamiaceae))
 
-*21 Photos*
+*20 Photos*
 
-<img src="data/images/Photo-2024-03-22-08-06-41.jpg" alt="Tectona grandis"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-19-07-19-33.jpg" alt="Tectona grandis"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-19-07-18-33.jpg" alt="Tectona grandis"  width="32%" height="32%" />
+<img src="data/images/Photo-2024-03-22-08-06-36.jpg" alt="Tectona grandis"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-19-07-19-29.jpg" alt="Tectona grandis"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-19-07-18-33.jpg" alt="Tectona grandis"  width="32%" height="32%" />
 
 *Bankok teak, Bardaru, Bhumisah, Dwardaru, Indian-oak, Kharchchada, Kolaphala, Saaka, Sabarasaara, Teak, The Kka Signify Long Sound, Thekku*
 
@@ -92,9 +92,9 @@ Tabernaemontana divaricata, commonly called pinwheel flower, crape jasmine, East
 
 ### [*Peltophorum pterocarpum*](https://en.wikipedia.org/wiki/Peltophorum_pterocarpum) ([*Fabaceae*](https://en.wikipedia.org/wiki/Fabaceae))
 
-*16 Photos*
+*15 Photos*
 
-<img src="data/images/Photo-2024-03-17-08-07-34.jpg" alt="Peltophorum pterocarpum"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-26-08-00-43.jpg" alt="Peltophorum pterocarpum"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-21-08-13-19.jpg" alt="Peltophorum pterocarpum"  width="32%" height="32%" />
+<img src="data/images/Photo-2024-03-22-08-05-36.jpg" alt="Peltophorum pterocarpum"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-26-08-00-43.jpg" alt="Peltophorum pterocarpum"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-26-07-59-26.jpg" alt="Peltophorum pterocarpum"  width="32%" height="32%" />
 
 *Copperpod, Kaha Maara, Kona Maram, Maara, Nilalvakai, Yellow flame, Yellow flametree*
 

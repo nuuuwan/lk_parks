@@ -25,9 +25,7 @@ class InfoReadMe:
         )
 
     @staticmethod
-    def has_conf(plant_photo, conf=None):
-        if not conf:
-            conf = InfoReadMe.MIN_CONFIDENCE
+    def has_conf(plant_photo, conf):
         plant_net_result = PlantNetResult.from_plant_photo(plant_photo)
         score = plant_net_result.top_score
         return score and score >= conf
@@ -40,19 +38,21 @@ class InfoReadMe:
             idx[key] = plant_photo
         return list(idx.values())
 
-    @staticmethod
-    def is_in_final_analysis(plant_photo):
-        return InfoReadMe.is_in_geo(plant_photo) and InfoReadMe.has_conf(
-            plant_photo
-        )
+
 
     @cached_property
     def plant_photo_list(self):
-        data_list = PlantPhoto.list_all()
-        data_vmd_park_list = [
-            data for data in data_list if self.is_in_final_analysis(data)
+        raw = [plant_photo for plant_photo in PlantPhoto.list_all()]
+        in_geo = [
+            plant_photo for plant_photo in raw if self.is_in_geo(plant_photo)
         ]
-        return InfoReadMe.dedupe(data_vmd_park_list)
+        deduped = InfoReadMe.dedupe(in_geo)
+        conf20 = [
+            plant_photo
+            for plant_photo in deduped
+            if self.has_conf(plant_photo, 0.2)
+        ]
+        return conf20
 
     @cached_property
     def n_plant_photos(self):
