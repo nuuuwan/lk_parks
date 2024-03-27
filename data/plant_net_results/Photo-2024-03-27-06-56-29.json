@@ -1,0 +1,32 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-06-56-29",
+  "species_name_to_score": {
+    "Mangifera indica": 0.0784,
+    "Acacia auriculiformis": 0.06078,
+    "Acacia melanoxylon": 0.02378,
+    "Acacia confusa": 0.02049,
+    "Quercus acutissima": 0.01438,
+    "Ceiba pentandra": 0.00499,
+    "Acacia mangium": 0.00286,
+    "Eucalyptus robusta": 0.00277,
+    "Syzygium jambos": 0.00257,
+    "Cerbera manghas": 0.00242,
+    "Annona reticulata": 0.00239,
+    "Barringtonia acutangula": 0.00206,
+    "Anisoptera scaphula": 0.0019,
+    "Swietenia mahagoni": 0.00186,
+    "Swietenia macrophylla": 0.0016,
+    "Cedrela odorata": 0.00155,
+    "Acacia longifolia": 0.00154,
+    "Crescentia cujete": 0.00154,
+    "Rhododendron arboreum": 0.00152,
+    "Manilkara zapota": 0.00123,
+    "Vitex agnus-castus": 0.00123,
+    "Erythrina crista-galli": 0.00122,
+    "Citharexylum spinosum": 0.00115,
+    "Platycerium alcicorne": 0.00114,
+    "Persea americana": 0.00102,
+    "Phytolacca dioica": 0.00101
+  }
+}

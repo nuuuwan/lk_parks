@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-06-58-15",
+  "species_name_to_score": {
+    "Terminalia arjuna": 0.54954,
+    "Eucalyptus robusta": 0.01023,
+    "Ceiba pentandra": 0.0079,
+    "Psidium guajava": 0.00602,
+    "Corymbia citriodora": 0.00541,
+    "Eucalyptus camaldulensis": 0.00538,
+    "Ficus virens": 0.00148,
+    "Khaya senegalensis": 0.00138,
+    "Albizia niopoides": 0.00127,
+    "Tecomella undulata": 0.00113
+  }
+}

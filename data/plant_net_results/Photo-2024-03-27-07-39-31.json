@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-39-31",
+  "species_name_to_score": {
+    "Artocarpus heterophyllus": 0.82138,
+    "Artocarpus integer": 0.01076,
+    "Gardenia jasminoides": 0.00882,
+    "Ficus callosa": 0.00542,
+    "Morinda citrifolia": 0.0034,
+    "Ficus hispida": 0.00292,
+    "Vangueria madagascariensis": 0.00202,
+    "Ficus altissima": 0.00131
+  }
+}

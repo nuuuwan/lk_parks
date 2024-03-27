@@ -1,0 +1,22 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-06-57-10",
+  "species_name_to_score": {
+    "Bischofia javanica": 0.00961,
+    "Aegle marmelos": 0.00671,
+    "Pterocarpus indicus": 0.00531,
+    "Vitex pinnata": 0.00448,
+    "Swietenia macrophylla": 0.00376,
+    "Cinnamomum camphora": 0.00345,
+    "Tabernaemontana alternifolia": 0.00335,
+    "Fraxinus griffithii": 0.00267,
+    "Platymiscium pinnatum": 0.00233,
+    "Choerospondias axillaris": 0.00192,
+    "Hopea odorata": 0.00188,
+    "Swietenia mahagoni": 0.00177,
+    "Quercus serrata": 0.00154,
+    "Rhizophora apiculata": 0.00145,
+    "Shorea roxburghii": 0.00116,
+    "Persea americana": 0.00109
+  }
+}

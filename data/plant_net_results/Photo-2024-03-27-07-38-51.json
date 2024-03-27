@@ -1,0 +1,18 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-38-51",
+  "species_name_to_score": {
+    "Mangifera indica": 0.48593,
+    "Plumeria alba": 0.00819,
+    "Cerbera manghas": 0.00511,
+    "Spondias dulcis": 0.00417,
+    "Spondias mombin": 0.00276,
+    "Ceiba pentandra": 0.00229,
+    "Cestrum diurnum": 0.00203,
+    "Madhuca longifolia": 0.00175,
+    "Syzygium jambos": 0.00147,
+    "Cascabela thevetia": 0.00138,
+    "Alstonia macrophylla": 0.00133,
+    "Plumeria rubra": 0.00113
+  }
+}

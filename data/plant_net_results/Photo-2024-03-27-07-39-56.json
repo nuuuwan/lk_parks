@@ -1,0 +1,33 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-39-56",
+  "species_name_to_score": {
+    "Plumeria alba": 0.01342,
+    "Mangifera indica": 0.00684,
+    "Annona reticulata": 0.00587,
+    "Madhuca longifolia": 0.0058,
+    "Rhaphiolepis bibas": 0.0052,
+    "Plumeria rubra": 0.00426,
+    "Elaeocarpus angustifolius": 0.00389,
+    "Manilkara zapota": 0.00386,
+    "Acacia melanoxylon": 0.00368,
+    "Cerbera manghas": 0.00298,
+    "Durio zibethinus": 0.00269,
+    "Ananas comosus": 0.00268,
+    "Quercus acutissima": 0.00241,
+    "Vitex agnus-castus": 0.00233,
+    "Saurauia napaulensis": 0.00215,
+    "Phyllanthus emblica": 0.0018,
+    "Castanea mollissima": 0.00179,
+    "Dipterocarpus alatus": 0.0016,
+    "Garcinia atroviridis": 0.00159,
+    "Magnolia champaca": 0.00141,
+    "Peltophorum dubium": 0.00132,
+    "Dillenia indica": 0.00115,
+    "Mimusops elengi": 0.00114,
+    "Aesculus indica": 0.00111,
+    "Planchonella grandifolia": 0.0011,
+    "Alstonia macrophylla": 0.00108,
+    "Quercus glauca": 0.00101
+  }
+}

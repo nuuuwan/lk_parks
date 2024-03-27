@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-15-13",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.54464,
+    "Syzygium jambos": 0.06114,
+    "Syzygium aqueum": 0.00636,
+    "Flagellaria guineensis": 0.00348,
+    "Syzygium cumini": 0.00294,
+    "Eucalyptus camaldulensis": 0.00276,
+    "Thysanolaena latifolia": 0.00214,
+    "Styphnolobium japonicum": 0.00208,
+    "Sapindus saponaria": 0.00198,
+    "Eucalyptus globulus": 0.00155,
+    "Senna siamea": 0.00138,
+    "Bambusa vulgaris": 0.00124,
+    "Fraxinus angustifolia": 0.00112
+  }
+}

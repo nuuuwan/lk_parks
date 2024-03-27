@@ -1,0 +1,29 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-06-57-42",
+  "species_name_to_score": {
+    "Cinnamomum camphora": 0.13555,
+    "Eucalyptus robusta": 0.05686,
+    "Populus deltoides": 0.02364,
+    "Cedrela odorata": 0.02108,
+    "Quercus serrata": 0.01881,
+    "Hopea odorata": 0.01468,
+    "Shorea roxburghii": 0.01168,
+    "Mimusops elengi": 0.01131,
+    "Populus nigra": 0.00937,
+    "Salix alba": 0.00414,
+    "Erythrina crista-galli": 0.00368,
+    "Triadica sebifera": 0.00284,
+    "Ehretia acuminata": 0.00181,
+    "Spondias mombin": 0.0018,
+    "Acacia auriculiformis": 0.0017,
+    "Quercus acutissima": 0.00169,
+    "Swietenia mahagoni": 0.00162,
+    "Juglans nigra": 0.00128,
+    "Salix babylonica": 0.00119,
+    "Tamarix aphylla": 0.00119,
+    "Annona glabra": 0.00113,
+    "Eucalyptus botryoides": 0.0011,
+    "Cinnamomum glanduliferum": 0.00105
+  }
+}

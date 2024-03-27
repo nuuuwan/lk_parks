@@ -1,0 +1,12 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-06-29",
+  "species_name_to_score": {
+    "Saraca indica": 0.78731,
+    "Saraca asoca": 0.04985,
+    "Brownea grandiceps": 0.01199,
+    "Amherstia nobilis": 0.00153,
+    "Toona ciliata": 0.0011,
+    "Mesua ferrea": 0.00104
+  }
+}

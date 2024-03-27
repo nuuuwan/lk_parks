@@ -1,0 +1,32 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-10-21",
+  "species_name_to_score": {
+    "Pterocarpus indicus": 0.22768,
+    "Bischofia javanica": 0.05169,
+    "Strychnos nux-vomica": 0.03864,
+    "Pongamia pinnata": 0.00969,
+    "Dalbergia latifolia": 0.00878,
+    "Spathodea campanulata": 0.00841,
+    "Platanus orientalis": 0.00674,
+    "Ficus religiosa": 0.00639,
+    "Syzygium cumini": 0.00571,
+    "Cinnamomum camphora": 0.00508,
+    "Quercus serrata": 0.00404,
+    "Samanea saman": 0.00402,
+    "Hymenaea courbaril": 0.00359,
+    "Swietenia mahagoni": 0.0029,
+    "Pterocarpus macrocarpus": 0.00285,
+    "Aegle marmelos": 0.00248,
+    "Strychnos potatorum": 0.0022,
+    "Copaifera langsdorffii": 0.00211,
+    "Terminalia catappa": 0.00185,
+    "Luehea candida": 0.00158,
+    "Heynea trijuga": 0.00149,
+    "Acer negundo": 0.00136,
+    "Ailanthus altissima": 0.00134,
+    "Lagerstroemia speciosa": 0.00126,
+    "Vitex pinnata": 0.00125,
+    "Pittosporum ferrugineum": 0.00118
+  }
+}

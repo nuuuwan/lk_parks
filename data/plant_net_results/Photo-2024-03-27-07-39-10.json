@@ -1,0 +1,28 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-39-10",
+  "species_name_to_score": {
+    "Artocarpus heterophyllus": 0.12303,
+    "Petrea volubilis": 0.05029,
+    "Vangueria madagascariensis": 0.0353,
+    "Careya arborea": 0.03034,
+    "Gardenia jasminoides": 0.01228,
+    "Artocarpus integer": 0.0057,
+    "Elaeocarpus tuberculatus": 0.00519,
+    "Canavalia rosea": 0.0051,
+    "Carissa spinarum": 0.00442,
+    "Flueggea virosa": 0.00389,
+    "Premna serratifolia": 0.00386,
+    "Calotropis procera": 0.00339,
+    "Leersia oryzoides": 0.00321,
+    "Morinda citrifolia": 0.00219,
+    "Triadica sebifera": 0.00214,
+    "Terminalia catappa": 0.00178,
+    "Holarrhena pubescens": 0.00175,
+    "Tectona grandis": 0.00148,
+    "Ehretia dicksonii": 0.00125,
+    "Ruellia ciliatiflora": 0.00113,
+    "Pseuderanthemum maculatum": 0.00107,
+    "Psidium cattleyanum": 0.00103
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-09-20",
+  "species_name_to_score": {
+    "Brownea grandiceps": 0.44447,
+    "Mesua ferrea": 0.02006,
+    "Saraca indica": 0.00963,
+    "Amherstia nobilis": 0.00949,
+    "Artabotrys hexapetalus": 0.00753,
+    "Cocculus laurifolius": 0.00629,
+    "Swietenia macrophylla": 0.00543,
+    "Cedrela odorata": 0.00444,
+    "Pterocarpus indicus": 0.00365,
+    "Diospyros blancoi": 0.00355,
+    "Cassia javanica": 0.00301,
+    "Dimocarpus longan": 0.00228,
+    "Lonchocarpus heptaphyllus": 0.00186,
+    "Polyalthia suberosa": 0.00163,
+    "Erythrophleum suaveolens": 0.00154,
+    "Castanospermum australe": 0.00135,
+    "Toona ciliata": 0.0012,
+    "Syzygium cumini": 0.00116,
+    "Brownea rosa-de-monte": 0.00112,
+    "Phyllanthus acidus": 0.00108,
+    "Lagerstroemia speciosa": 0.00104,
+    "Andira inermis": 0.00104,
+    "Lysidice rhodostegia": 0.00103
+  }
+}

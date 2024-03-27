@@ -1,0 +1,26 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-06-55-36",
+  "species_name_to_score": {
+    "Phyllanthus reticulatus": 0.37213,
+    "Amorpha fruticosa": 0.0227,
+    "Tipuana tipu": 0.01677,
+    "Styphnolobium japonicum": 0.00819,
+    "Robinia pseudoacacia": 0.00738,
+    "Adenanthera pavonina": 0.00686,
+    "Phyllanthus tenellus": 0.00653,
+    "Flueggea virosa": 0.00467,
+    "Calpurnia aurea": 0.00455,
+    "Cassia roxburghii": 0.00241,
+    "Breynia androgyna": 0.00214,
+    "Gleditsia sinensis": 0.00203,
+    "Libidibia ferrea": 0.00186,
+    "Breynia retusa": 0.00159,
+    "Senna siamea": 0.00159,
+    "Indigofera tinctoria": 0.00134,
+    "Desmodium tortuosum": 0.0013,
+    "Clausena excavata": 0.0013,
+    "Phyllanthus glaucus": 0.00121,
+    "Swietenia mahagoni": 0.00115
+  }
+}

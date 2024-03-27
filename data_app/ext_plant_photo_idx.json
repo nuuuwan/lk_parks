@@ -438,6 +438,42 @@
       "summary_short": "Impatiens hawkeri, the New Guinea impatiens, is a species of flowering plant in the family Balsaminaceae. It is native to Papua New Guinea and the Solomon Islands. It has been bred and hybridized in cultivation to produce a line of garden plants."
     }
   },
+  "Photo-2024-01-27-10-32-23": {
+    "id": "Photo-2024-01-27-10-32-23",
+    "ut": 1706331743,
+    "latlng": {
+      "lat": 6.968872,
+      "lng": 80.764564
+    },
+    "image_path": "data\\images\\Photo-2024-01-27-10-32-23.jpg",
+    "direction": 61.1697998046875,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Rosa damascena": 0.41822,
+        "Rosa abietina": 0.21843,
+        "Rosa lucieae": 0.20522,
+        "Rosa gallica": 0.03447,
+        "Rosa chinensis": 0.00731
+      }
+    },
+    "species": {
+      "name": "Rosa damascena",
+      "authorship": "Herrm.",
+      "genus_name": "Rosa",
+      "family_name": "Rosaceae",
+      "gbif_id": "3008478",
+      "powo_id": "2968261-4",
+      "iucn_id": null,
+      "common_names": [
+        "Damask rose",
+        "Portland rose",
+        "York-and-Lancaster rose"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Rosa \u00d7 damascena (Latin for damascene rose), more commonly known as the Damask rose, or sometimes as the Iranian Rose, Bulgarian rose, Arab rose, Ispahan rose and Castile rose, is a rose hybrid, derived from Rosa gallica and Rosa moschata. DNA analysis has shown that a third species, Rosa fedtschenkoana, has made some genetic contributions to the Damask rose.The flowers are renowned for their fine fragrance, and are commercially harvested for rose oil (either \"rose otto\" or \"rose absolute\") ..."
+    }
+  },
   "Photo-2024-01-27-10-32-26": {
     "id": "Photo-2024-01-27-10-32-26",
     "ut": 1706331746,
@@ -3296,22 +3332,22 @@
       "summary_short": "Afzelia africana, the African mahogany, afzelia, lenke, lengue, apa, or doussi, is a Myrmecophyte tree species in the family Fabaceae."
     }
   },
-  "Photo-2024-03-11-07-16-22": {
-    "id": "Photo-2024-03-11-07-16-22",
-    "ut": 1710121582,
+  "Photo-2024-03-08-07-08-54": {
+    "id": "Photo-2024-03-08-07-08-54",
+    "ut": 1709861934,
     "latlng": {
       "lat": 6.914925,
       "lng": 79.862189
     },
-    "image_path": "data\\images\\Photo-2024-03-11-07-16-22.jpg",
-    "direction": 83.16976932416026,
+    "image_path": "data\\images\\Photo-2024-03-08-07-08-54.jpg",
+    "direction": 240.0877839165132,
     "plant_net_result": {
       "species_name_to_score": {
-        "Tabebuia pallida": 0.55158,
-        "Tabebuia heterophylla": 0.35189,
-        "Tabebuia rosea": 0.02117,
-        "Tabebuia roseoalba": 0.00893,
-        "Handroanthus impetiginosus": 0.00287
+        "Tabebuia pallida": 0.2826,
+        "Tabebuia heterophylla": 0.126,
+        "Ceiba glaziovii": 0.01887,
+        "Tabebuia roseoalba": 0.01781,
+        "Moringa oleifera": 0.0146
       }
     },
     "species": {
@@ -4810,6 +4846,42 @@
       "summary_short": "Tamarind (Tamarindus indica) is a leguminous tree bearing edible fruit that is indigenous to tropical Africa and naturalized in Asia. The genus Tamarindus is monotypic, meaning that it contains only this species. It belongs to the family Fabaceae.\nThe tamarind tree produces brown, pod-like fruits that contain a sweet, tangy pulp, which is used in cuisines around the world. The pulp is also used in traditional medicine and as a metal polish. The tree's wood can be used for woodworking and ..."
     }
   },
+  "Photo-2024-03-10-06-47-03": {
+    "id": "Photo-2024-03-10-06-47-03",
+    "ut": 1710033423,
+    "latlng": {
+      "lat": 6.913739,
+      "lng": 79.858428
+    },
+    "image_path": "data\\images\\Photo-2024-03-10-06-47-03.jpg",
+    "direction": 209.053772070626,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Averrhoa bilimbi": 0.1754,
+        "Cassia javanica": 0.15695,
+        "Schizolobium parahyba": 0.08806,
+        "Senna spectabilis": 0.05301,
+        "Phyllanthus juglandifolius": 0.04165
+      }
+    },
+    "species": {
+      "name": "Averrhoa bilimbi",
+      "authorship": "L.",
+      "genus_name": "Averrhoa",
+      "family_name": "Oxalidaceae",
+      "gbif_id": "2891640",
+      "powo_id": "371869-1",
+      "iucn_id": null,
+      "common_names": [
+        "Bilimbi",
+        "Bilimbi-tree",
+        "Tree-sorrel"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Averrhoa bilimbi (commonly known as bilimbi, cucumber tree, or tree sorrel) is a fruit-bearing tree of the genus Averrhoa, family Oxalidaceae. It is believed to be originally native to the Maluku Islands of Indonesia but has naturalized and is common throughout Southeast Asia. It is cultivated in parts of tropical South Asia and the Americas. It bears edible extremely sour fruits. It is a close relative of the carambola tree."
+    }
+  },
   "Photo-2024-03-10-06-47-08": {
     "id": "Photo-2024-03-10-06-47-08",
     "ut": 1710033428,
@@ -4844,6 +4916,50 @@
     },
     "wiki_page": {
       "summary_short": "Amorpha fruticosa is a species of flowering plant in the legume family Fabaceae, known by several common names, including desert false indigo, false indigo-bush, and bastard indigobush. It is native to North America."
+    }
+  },
+  "Photo-2024-03-10-06-47-15": {
+    "id": "Photo-2024-03-10-06-47-15",
+    "ut": 1710033435,
+    "latlng": {
+      "lat": 6.913742,
+      "lng": 79.858422
+    },
+    "image_path": "data\\images\\Photo-2024-03-10-06-47-15.jpg",
+    "direction": 201.68336483931947,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Mangifera indica": 0.72383,
+        "Pouteria caimito": 0.0954,
+        "Tabernaemontana elegans": 0.01229,
+        "Ficus insipida": 0.0081,
+        "Pouteria campechiana": 0.00558
+      }
+    },
+    "species": {
+      "name": "Mangifera indica",
+      "authorship": "L.",
+      "genus_name": "Mangifera",
+      "family_name": "Anacardiaceae",
+      "gbif_id": "3190638",
+      "powo_id": "69913-1",
+      "iucn_id": "31389",
+      "common_names": [
+        "Amba",
+        "Amiram",
+        "Amra",
+        "Ma",
+        "Mamaram",
+        "Mangai",
+        "Mango",
+        "Mango Tree",
+        "Mee Amba",
+        "Sahakara",
+        "\u0906\u092e"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Mangifera indica, commonly known as mango, is a species of flowering plant in the family Anacardiaceae. It is a large fruit tree, capable of growing to a height of 30 metres (100 feet). There are two distinct genetic populations in modern mangoes \u2013 the \"Indian type\" and the \"Southeast Asian type\"."
     }
   },
   "Photo-2024-03-10-06-47-17": {
@@ -6648,6 +6764,90 @@
       "summary_short": "Tabernaemontana divaricata, commonly called pinwheel flower, crape jasmine, East India rosebay, and Nero's crown, is an evergreen shrub or small tree native to South Asia, Southeast Asia and China. In zones where it is not hardy it is grown as a house/glasshouse plant for its attractive flowers and foliage. The stem exudes a milky latex when broken, whence comes the name milk flower"
     }
   },
+  "Photo-2024-03-11-06-27-41": {
+    "id": "Photo-2024-03-11-06-27-41",
+    "ut": 1710118661,
+    "latlng": {
+      "lat": 6.913242,
+      "lng": 79.858506
+    },
+    "image_path": "data\\images\\Photo-2024-03-11-06-27-41.jpg",
+    "direction": 119.88921368021046,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Tabernaemontana divaricata": 0.97292,
+        "Tabernaemontana catharinensis": 0.01069,
+        "Tabernaemontana corymbosa": 0.00251
+      }
+    },
+    "species": {
+      "name": "Tabernaemontana divaricata",
+      "authorship": "(L.) R.Br. ex Roem. & Schult.",
+      "genus_name": "Tabernaemontana",
+      "family_name": "Apocynaceae",
+      "gbif_id": "3169625",
+      "powo_id": "82097-1",
+      "iucn_id": "149853146",
+      "common_names": [
+        "Adukkunandiyavattai",
+        "Butterfly-gardenia",
+        "Crape-jasmine",
+        "Nandi Battai",
+        "Nandiar Vattai",
+        "Nandivrksah",
+        "Vathu Sudda",
+        "Wathu Sudda",
+        "Watu Sudda",
+        "Watusudda",
+        "\u0c28\u0c02\u0c26\u0c3f\u0c35\u0c30\u0c4d\u0c27\u0c28\u0c02"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Tabernaemontana divaricata, commonly called pinwheel flower, crape jasmine, East India rosebay, and Nero's crown, is an evergreen shrub or small tree native to South Asia, Southeast Asia and China. In zones where it is not hardy it is grown as a house/glasshouse plant for its attractive flowers and foliage. The stem exudes a milky latex when broken, whence comes the name milk flower"
+    }
+  },
+  "Photo-2024-03-11-06-27-42": {
+    "id": "Photo-2024-03-11-06-27-42",
+    "ut": 1710118662,
+    "latlng": {
+      "lat": 6.913242,
+      "lng": 79.858506
+    },
+    "image_path": "data\\images\\Photo-2024-03-11-06-27-42.jpg",
+    "direction": 121.24763494713412,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Tabernaemontana divaricata": 0.98233,
+        "Tabernaemontana corymbosa": 0.00413,
+        "Tabernaemontana catharinensis": 0.003
+      }
+    },
+    "species": {
+      "name": "Tabernaemontana divaricata",
+      "authorship": "(L.) R.Br. ex Roem. & Schult.",
+      "genus_name": "Tabernaemontana",
+      "family_name": "Apocynaceae",
+      "gbif_id": "3169625",
+      "powo_id": "82097-1",
+      "iucn_id": "149853146",
+      "common_names": [
+        "Adukkunandiyavattai",
+        "Butterfly-gardenia",
+        "Crape-jasmine",
+        "Nandi Battai",
+        "Nandiar Vattai",
+        "Nandivrksah",
+        "Vathu Sudda",
+        "Wathu Sudda",
+        "Watu Sudda",
+        "Watusudda",
+        "\u0c28\u0c02\u0c26\u0c3f\u0c35\u0c30\u0c4d\u0c27\u0c28\u0c02"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Tabernaemontana divaricata, commonly called pinwheel flower, crape jasmine, East India rosebay, and Nero's crown, is an evergreen shrub or small tree native to South Asia, Southeast Asia and China. In zones where it is not hardy it is grown as a house/glasshouse plant for its attractive flowers and foliage. The stem exudes a milky latex when broken, whence comes the name milk flower"
+    }
+  },
   "Photo-2024-03-11-06-27-46": {
     "id": "Photo-2024-03-11-06-27-46",
     "ut": 1710118666,
@@ -8105,6 +8305,42 @@
       "summary_short": "Tecoma stans is a species of flowering perennial shrub in the trumpet vine family, Bignoniaceae, that is native to the Americas.  Common names include yellow trumpetbush, yellow bells, yellow elder, ginger Thomas. Tecoma stans is the official flower of the United States Virgin Islands and the floral emblem of The Bahamas."
     }
   },
+  "Photo-2024-03-11-06-39-48": {
+    "id": "Photo-2024-03-11-06-39-48",
+    "ut": 1710119388,
+    "latlng": {
+      "lat": 6.9133,
+      "lng": 79.859078
+    },
+    "image_path": "data\\images\\Photo-2024-03-11-06-39-48.jpg",
+    "direction": 44.643352486625716,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Plumeria rubra": 0.64728,
+        "Plumeria alba": 0.20569,
+        "Plumeria obtusa": 0.05909,
+        "Cerbera manghas": 0.00905,
+        "Pachypodium rutenbergianum": 0.00336
+      }
+    },
+    "species": {
+      "name": "Plumeria rubra",
+      "authorship": "L.",
+      "genus_name": "Plumeria",
+      "family_name": "Apocynaceae",
+      "gbif_id": "3169674",
+      "powo_id": "81275-1",
+      "iucn_id": "144270910",
+      "common_names": [
+        "Frangipani",
+        "Pagoda-tree",
+        "Plumeria"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Plumeria rubra is a deciduous plant species belonging to the genus Plumeria. Originally native to Mexico, Central America, Colombia and Venezuela, it has been widely cultivated in subtropical and tropical climates worldwide and is a popular garden and park plant, as well as being used in temples and cemeteries. It grows as a spreading tree to 7\u20138 m (23\u201326 ft) high and wide, and is flushed with fragrant flowers of shades of pink, white and yellow over the summer and autumn.\nIts common names ..."
+    }
+  },
   "Photo-2024-03-11-06-39-52": {
     "id": "Photo-2024-03-11-06-39-52",
     "ut": 1710119392,
@@ -8222,6 +8458,42 @@
     },
     "wiki_page": {
       "summary_short": "Manilkara zapota, commonly known as sapodilla ([\u02ccsapo\u02c8\u00f0i\u029da]), sapote, chicozapote, chicoo, chicle, naseberry, nispero, or\nsoapapple, among other names, is an evergreen tree native to southern Mexico and Central America. An example natural occurrence is in coastal Yucat\u00e1n, in the Petenes mangroves ecoregion, where it is a subdominant plant species. It was introduced to the Philippines during Spanish colonization. It is grown in large quantities in Mexico and in tropical Asia, including India, ..."
+    }
+  },
+  "Photo-2024-03-11-06-40-10": {
+    "id": "Photo-2024-03-11-06-40-10",
+    "ut": 1710119410,
+    "latlng": {
+      "lat": 6.913289,
+      "lng": 79.859153
+    },
+    "image_path": "data\\images\\Photo-2024-03-11-06-40-10.jpg",
+    "direction": 29.81101607937051,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Madhuca longifolia": 0.39406,
+        "Elaeocarpus hainanensis": 0.04046,
+        "Quercus myrsinifolia": 0.01493,
+        "Ceiba pentandra": 0.00916,
+        "Pouteria campechiana": 0.00883
+      }
+    },
+    "species": {
+      "name": "Madhuca longifolia",
+      "authorship": "(J.Koenig ex L.) J.F.Macbr.",
+      "genus_name": "Madhuca",
+      "family_name": "Sapotaceae",
+      "gbif_id": "2883346",
+      "powo_id": "787505-1",
+      "iucn_id": null,
+      "common_names": [
+        "Mahua",
+        "Moatree",
+        "Mowra-buttertree"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Madhuca longifolia is an Indian tropical tree found largely in the central, southern, north Indian plains and forests, Nepal, Myanmar and Sri Lanka. It is commonly known as madh\u016bka, madkam, mahuwa, Butter Tree, mahua, mahwa, mohulo, Iluppai , Mee or vippa chettu. It is a fast-growing tree that grows to approximately 20 meters in height, possesses evergreen or semi-evergreen foliage, and belongs to the family Sapotaceae. It is adaptable to arid environments, being a prominent tree in tropical ..."
     }
   },
   "Photo-2024-03-11-06-40-14": {
@@ -9467,22 +9739,22 @@
       "summary_short": "Cassia fistula, also known as golden shower, purging cassia, Indian laburnum, Kani Konna (Malayalam: \u0d15\u0d23\u0d3f\u0d15\u0d4d\u0d15\u0d4a\u0d28\u0d4d\u0d28),, Konna Poo or pudding-pipe tree, is a flowering plant in the family Fabaceae. The species is native to the Indian subcontinent and adjacent regions of Southeast Asia. It is the official state flower of Kerala state in India. It is also a popular ornamental plant and is also used in herbal medicine."
     }
   },
-  "Photo-2024-03-11-06-47-13": {
-    "id": "Photo-2024-03-11-06-47-13",
-    "ut": 1710119833,
+  "Photo-2024-03-11-06-46-52": {
+    "id": "Photo-2024-03-11-06-46-52",
+    "ut": 1710119812,
     "latlng": {
-      "lat": 6.911992,
+      "lat": 6.911994,
       "lng": 79.861069
     },
-    "image_path": "data\\images\\Photo-2024-03-11-06-47-13.jpg",
-    "direction": 318.4126891734575,
+    "image_path": "data\\images\\Photo-2024-03-11-06-46-52.jpg",
+    "direction": 332.21307353865495,
     "plant_net_result": {
       "species_name_to_score": {
-        "Tabebuia rosea": 0.50756,
-        "Eucalyptus robusta": 0.09931,
-        "Melia azedarach": 0.04814,
-        "Cariniana legalis": 0.04098,
-        "Citharexylum myrianthum": 0.0177
+        "Tabebuia rosea": 0.40774,
+        "Eucalyptus robusta": 0.34998,
+        "Citharexylum myrianthum": 0.02154,
+        "Handroanthus chrysanthus": 0.01867,
+        "Carya illinoinensis": 0.01296
       }
     },
     "species": {
@@ -9546,6 +9818,42 @@
     },
     "wiki_page": {
       "summary_short": "Teak (Tectona grandis) is a tropical hardwood tree species in the family Lamiaceae. It is a large, deciduous tree that occurs in mixed hardwood forests. Tectona grandis has small, fragrant white flowers arranged in dense clusters (panicles) at the end of the branches. These flowers contain both types of reproductive organs (perfect flowers). The large, papery leaves of teak trees are often hairy on the lower surface. Teak wood has a leather-like smell when it is freshly milled and is ..."
+    }
+  },
+  "Photo-2024-03-11-06-47-13": {
+    "id": "Photo-2024-03-11-06-47-13",
+    "ut": 1710119833,
+    "latlng": {
+      "lat": 6.911992,
+      "lng": 79.861069
+    },
+    "image_path": "data\\images\\Photo-2024-03-11-06-47-13.jpg",
+    "direction": 318.4126891734575,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Tabebuia rosea": 0.50756,
+        "Eucalyptus robusta": 0.09931,
+        "Melia azedarach": 0.04814,
+        "Cariniana legalis": 0.04098,
+        "Citharexylum myrianthum": 0.0177
+      }
+    },
+    "species": {
+      "name": "Tabebuia rosea",
+      "authorship": "(Bertol.) Bertero ex A.DC.",
+      "genus_name": "Tabebuia",
+      "family_name": "Bignoniaceae",
+      "gbif_id": "3172537",
+      "powo_id": "111027-1",
+      "iucn_id": "61986278",
+      "common_names": [
+        "Pink poui",
+        "Pink trumpet-tree",
+        "Rosy trumpet-tree"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Tabebuia rosea, also called pink poui, and rosy trumpet tree is a neotropical tree that grows up to 30 m (98 ft) and can reach a diameter at breast height of up to 100 cm (3 ft). The Spanish name roble de sabana, meaning \"savannah oak\", is widely used in Costa Rica, probably because it often remains in heavily deforested areas and because of the resemblance of its wood to that of oak trees. It is the national tree of El Salvador, where it is called \"Maquil\u00edshuat\"."
     }
   },
   "Photo-2024-03-11-06-47-35": {
@@ -11181,6 +11489,78 @@
       "summary_short": "Cassia fistula, also known as golden shower, purging cassia, Indian laburnum, Kani Konna (Malayalam: \u0d15\u0d23\u0d3f\u0d15\u0d4d\u0d15\u0d4a\u0d28\u0d4d\u0d28),, Konna Poo or pudding-pipe tree, is a flowering plant in the family Fabaceae. The species is native to the Indian subcontinent and adjacent regions of Southeast Asia. It is the official state flower of Kerala state in India. It is also a popular ornamental plant and is also used in herbal medicine."
     }
   },
+  "Photo-2024-03-11-07-16-20": {
+    "id": "Photo-2024-03-11-07-16-20",
+    "ut": 1710121580,
+    "latlng": {
+      "lat": 6.914925,
+      "lng": 79.862189
+    },
+    "image_path": "data\\images\\Photo-2024-03-11-07-16-20.jpg",
+    "direction": 80.98046875,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Tabebuia pallida": 0.63341,
+        "Tabebuia heterophylla": 0.25479,
+        "Tabebuia rosea": 0.03279,
+        "Tabebuia roseoalba": 0.00532,
+        "Tabebuia aurea": 0.0032
+      }
+    },
+    "species": {
+      "name": "Tabebuia pallida",
+      "authorship": "(Lindl.) Miers",
+      "genus_name": "Tabebuia",
+      "family_name": "Bignoniaceae",
+      "gbif_id": "3172527",
+      "powo_id": "110996-1",
+      "iucn_id": "61986231",
+      "common_names": [
+        "Cuban pink trumpet-tree",
+        "White-cedar",
+        "Whitewood"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Tabebuia pallida is a species of Tabebuia native to the Caribbean."
+    }
+  },
+  "Photo-2024-03-11-07-16-22": {
+    "id": "Photo-2024-03-11-07-16-22",
+    "ut": 1710121582,
+    "latlng": {
+      "lat": 6.914925,
+      "lng": 79.862189
+    },
+    "image_path": "data\\images\\Photo-2024-03-11-07-16-22.jpg",
+    "direction": 83.16976932416026,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Tabebuia pallida": 0.55158,
+        "Tabebuia heterophylla": 0.35189,
+        "Tabebuia rosea": 0.02117,
+        "Tabebuia roseoalba": 0.00893,
+        "Handroanthus impetiginosus": 0.00287
+      }
+    },
+    "species": {
+      "name": "Tabebuia pallida",
+      "authorship": "(Lindl.) Miers",
+      "genus_name": "Tabebuia",
+      "family_name": "Bignoniaceae",
+      "gbif_id": "3172527",
+      "powo_id": "110996-1",
+      "iucn_id": "61986231",
+      "common_names": [
+        "Cuban pink trumpet-tree",
+        "White-cedar",
+        "Whitewood"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Tabebuia pallida is a species of Tabebuia native to the Caribbean."
+    }
+  },
   "Photo-2024-03-11-07-17-27": {
     "id": "Photo-2024-03-11-07-17-27",
     "ut": 1710121647,
@@ -12797,6 +13177,42 @@
       "summary_short": "The pecan ( pih-KAN, also US:  pih-KAHN, PEE-kan, UK:  PEE-k\u0259n; Carya illinoinensis) is a species of hickory native to the southern United States and northern Mexico in the region of the Mississippi River.The tree is cultivated for its seed primarily in the U.S. states of Georgia, New Mexico, and Texas, and in Mexico. The seed is an edible nut used as a snack and in various recipes, such as praline candy and pecan pie. The pecan is the state nut of Alabama, Arkansas, California, Texas and ..."
     }
   },
+  "Photo-2024-03-12-07-19-28": {
+    "id": "Photo-2024-03-12-07-19-28",
+    "ut": 1710208168,
+    "latlng": {
+      "lat": 6.915281,
+      "lng": 79.862747
+    },
+    "image_path": "data\\images\\Photo-2024-03-12-07-19-28.jpg",
+    "direction": 286.6035460992908,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Psidium cattleyanum": 0.1136,
+        "Ficus microcarpa": 0.03682,
+        "Baloghia inophylla": 0.0307,
+        "Ficus benghalensis": 0.0302,
+        "Ficus natalensis": 0.02899
+      }
+    },
+    "species": {
+      "name": "Psidium cattleyanum",
+      "authorship": "Sabine",
+      "genus_name": "Psidium",
+      "family_name": "Myrtaceae",
+      "gbif_id": null,
+      "powo_id": "600760-1",
+      "iucn_id": null,
+      "common_names": [
+        "Cattley Psidium",
+        "Cherry guava",
+        "Strawberry guava"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Psidium cattleyanum (World Plants : Psidium cattleianum), commonly known as Cattley guava, strawberry guava or cherry guava, is a small tree (2\u20136 m tall) in the Myrtaceae (myrtle) family. The species is named in honour of English horticulturist William Cattley.  Its genus name Psidium comes from the Latin psidion, or \"armlet.\" The red-fruited variety, P. cattleyanum var. cattleyanum,  is commonly known as purple guava, red cattley guava, red strawberry guava and red cherry guava. The ..."
+    }
+  },
   "Photo-2024-03-12-07-19-32": {
     "id": "Photo-2024-03-12-07-19-32",
     "ut": 1710208172,
@@ -14020,6 +14436,48 @@
     },
     "wiki_page": {
       "summary_short": "The carob ( KARR-\u0259b; Ceratonia siliqua) is a flowering evergreen tree or shrub in the Caesalpinioideae sub-family of the legume family, Fabaceae. It is widely cultivated for its edible fruit, which takes the form of seed pods, and as an ornamental tree in gardens and landscapes. The carob tree is native to the Mediterranean region and the Middle East. Portugal is the largest producer of carob, followed by Italy and Morocco.\nIn the Mediterranean Basin, extended to the southern Atlantic coast of ..."
+    }
+  },
+  "Photo-2024-03-13-07-09-14": {
+    "id": "Photo-2024-03-13-07-09-14",
+    "ut": 1710293954,
+    "latlng": {
+      "lat": 6.912081,
+      "lng": 79.863114
+    },
+    "image_path": "data\\images\\Photo-2024-03-13-07-09-14.jpg",
+    "direction": 150.61897274633122,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Calophyllum inophyllum": 0.18492,
+        "Calophyllum calaba": 0.01961,
+        "Pterocarpus santalinus": 0.01244,
+        "Syzygium cumini": 0.0112,
+        "Xylocarpus granatum": 0.00621
+      }
+    },
+    "species": {
+      "name": "Calophyllum inophyllum",
+      "authorship": "L.",
+      "genus_name": "Calophyllum",
+      "family_name": "Calophyllaceae",
+      "gbif_id": "9531830",
+      "powo_id": "427190-1",
+      "iucn_id": "33196",
+      "common_names": [
+        "Balltree",
+        "Beautyleaf",
+        "Domba",
+        "Indian-laurel",
+        "Naga Champa",
+        "Nagam",
+        "Pinnai",
+        "Punnaga",
+        "Punnai"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Calophyllum inophyllum is a large evergreen plant, commonly called tamanu, oil-nut, mastwood, beach calophyllum or beautyleaf. It is native to tropical Asia and Wallacea. Due to its importance as a source of timber for the traditional shipbuilding of large outrigger ships, it has been spread in prehistoric times by the migrations of the Austronesian peoples to the islands of Oceania and Madagascar, along with other members of the genus Calophyllum. It has since been naturalized in regions in ..."
     }
   },
   "Photo-2024-03-13-07-09-15": {
@@ -19303,6 +19761,46 @@
       "summary_short": "Mesua ferrea, the Ceylon ironwood,  or cobra saffron, is a species in the family Calophyllaceae native to the Indomalayan realm. This slow-growing tree is named after the heaviness and hardness of its timber. It is widely cultivated as an ornamental for its graceful shape, grayish-green foliage with a beautiful pink to red flush of drooping young leaves, and large, fragrant white flowers. It is the national tree of Sri Lanka, as well as the state tree of Mizoram and state flower of Tripura in ..."
     }
   },
+  "Photo-2024-03-15-07-20-03": {
+    "id": "Photo-2024-03-15-07-20-03",
+    "ut": 1710467403,
+    "latlng": {
+      "lat": 6.914764,
+      "lng": 79.863511
+    },
+    "image_path": "data\\images\\Photo-2024-03-15-07-20-03.jpg",
+    "direction": 338.2614138438881,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Mesua ferrea": 0.8985,
+        "Cinnamomum verum": 0.00954,
+        "Ficus maclellandii": 0.00874,
+        "Brownea grandiceps": 0.00261
+      }
+    },
+    "species": {
+      "name": "Mesua ferrea",
+      "authorship": "L.",
+      "genus_name": "Mesua",
+      "family_name": "Calophyllaceae",
+      "gbif_id": "7330039",
+      "powo_id": "428832-1",
+      "iucn_id": null,
+      "common_names": [
+        "Ceylon Ironwood",
+        "Cirunakappu",
+        "Iron Wood Tree",
+        "Mesua",
+        "Na",
+        "Naa",
+        "Nagakesarah Nagapuspa",
+        "Nangu"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Mesua ferrea, the Ceylon ironwood,  or cobra saffron, is a species in the family Calophyllaceae native to the Indomalayan realm. This slow-growing tree is named after the heaviness and hardness of its timber. It is widely cultivated as an ornamental for its graceful shape, grayish-green foliage with a beautiful pink to red flush of drooping young leaves, and large, fragrant white flowers. It is the national tree of Sri Lanka, as well as the state tree of Mizoram and state flower of Tripura in ..."
+    }
+  },
   "Photo-2024-03-15-07-20-07": {
     "id": "Photo-2024-03-15-07-20-07",
     "ut": 1710467407,
@@ -20082,46 +20580,40 @@
       "summary_short": "Rhaphidophora decursiva is a species of flowering plant in the family Araceae. It is native to China, the Indian Subcontinent, and Indochina."
     }
   },
-  "Photo-2024-03-20-07-39-34": {
-    "id": "Photo-2024-03-20-07-39-34",
-    "ut": 1710900574,
+  "Photo-2024-03-16-07-17-29": {
+    "id": "Photo-2024-03-16-07-17-29",
+    "ut": 1710553649,
     "latlng": {
-      "lat": 6.912447,
+      "lat": 6.912453,
       "lng": 79.864639
     },
-    "image_path": "data\\images\\Photo-2024-03-20-07-39-34.jpg",
-    "direction": 220.3188935281837,
+    "image_path": "data\\images\\Photo-2024-03-16-07-17-29.jpg",
+    "direction": 326.30297872340424,
     "plant_net_result": {
       "species_name_to_score": {
-        "Cassia fistula": 0.1883,
-        "Swietenia mahagoni": 0.03069,
-        "Ficus virens": 0.01556,
-        "Juglans regia": 0.01463,
-        "Khaya senegalensis": 0.01044
+        "Holarrhena pubescens": 0.4859,
+        "Syzygium cumini": 0.02965,
+        "Cassia fistula": 0.01755,
+        "Psidium guajava": 0.01716,
+        "Annona muricata": 0.00681
       }
     },
     "species": {
-      "name": "Cassia fistula",
-      "authorship": "L.",
-      "genus_name": "Cassia",
-      "family_name": "Fabaceae",
-      "gbif_id": "5357108",
-      "powo_id": "484507-1",
-      "iucn_id": "136142327",
+      "name": "Holarrhena pubescens",
+      "authorship": "Wall. ex G.Don",
+      "genus_name": "Holarrhena",
+      "family_name": "Apocynaceae",
+      "gbif_id": "3169748",
+      "powo_id": "79318-1",
+      "iucn_id": "33988",
       "common_names": [
-        "Aehaela",
-        "Amaltas",
-        "Aragvadha",
-        "Ehela",
-        "Golden Shower Tree",
-        "Indian-laburnum",
-        "Konnai",
-        "Konrai",
-        "Mullaimaram"
+        "Bitter oleander",
+        "Conessi bark",
+        "Tellicherry bark"
       ]
     },
     "wiki_page": {
-      "summary_short": "Cassia fistula, also known as golden shower, purging cassia, Indian laburnum, Kani Konna (Malayalam: \u0d15\u0d23\u0d3f\u0d15\u0d4d\u0d15\u0d4a\u0d28\u0d4d\u0d28),, Konna Poo or pudding-pipe tree, is a flowering plant in the family Fabaceae. The species is native to the Indian subcontinent and adjacent regions of Southeast Asia. It is the official state flower of Kerala state in India. It is also a popular ornamental plant and is also used in herbal medicine."
+      "summary_short": "Holarrhena pubescens is a species of flowering plant in the family Apocynaceae. It is native to central and southern Africa, the Indian Subcontinent, Indochina, and parts of China.  In Cambodia, it is called /t\u0268k d\u0251h k\u02b0la\u02d0 th\u0254m/ \u1791\u17b9\u1780\u178a\u17c4\u17c7\u1781\u17d2\u179b\u17b6\u1792\u17c6 big tiger milk or /k\u02b0la\u025b\u0272 k\u016d\u0259\u014b/ \u1781\u17d2\u179b\u17c2\u1784\u1782\u1784\u17cb invulnerable kite. These seeds are sold as indraja (\u0907\u0928\u0926\u094d\u0930\u093e\u091c\u093e) for Ayurvedic medicine in India."
     }
   },
   "Photo-2024-03-16-07-17-56": {
@@ -23374,6 +23866,45 @@
       "summary_short": "Acacia auriculiformis, commonly known as auri, karuvel in Tamil Nadu and Karnataka and aakashmani in West Bengal, is a fast-growing, crooked, gnarly tree in the family Fabaceae. It is native to Australia, Philippines, Indonesia, and Papua New Guinea. It grows up to 30 metres (98 ft) tall.Acacia auriculiformis has about 47,000 seeds per kilogram (21,000/lb)."
     }
   },
+  "Photo-2024-03-17-08-29-52": {
+    "id": "Photo-2024-03-17-08-29-52",
+    "ut": 1710644392,
+    "latlng": {
+      "lat": 6.913922,
+      "lng": 79.861594
+    },
+    "image_path": "data\\images\\Photo-2024-03-17-08-29-52.jpg",
+    "direction": 316.2792056074766,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Terminalia arjuna": 0.68525,
+        "Senna multiglandulosa": 0.00492,
+        "Syzygium jambos": 0.00413,
+        "Senna siamea": 0.00328,
+        "Lagerstroemia speciosa": 0.00305
+      }
+    },
+    "species": {
+      "name": "Terminalia arjuna",
+      "authorship": "(Roxb. ex DC.) Wight & Arn.",
+      "genus_name": "Terminalia",
+      "family_name": "Combretaceae",
+      "gbif_id": "3699548",
+      "powo_id": "170962-1",
+      "iucn_id": null,
+      "common_names": [
+        "Arjun",
+        "Kakubha",
+        "Kumbuk",
+        "Maruthu",
+        "Marutu",
+        "White murdh"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Terminalia arjuna is a tree of the genus Terminalia. It is commonly known as arjuna or arjun tree in English."
+    }
+  },
   "Photo-2024-03-17-08-29-58": {
     "id": "Photo-2024-03-17-08-29-58",
     "ut": 1710644398,
@@ -23406,6 +23937,45 @@
     },
     "wiki_page": {
       "summary_short": "Acacia auriculiformis, commonly known as auri, karuvel in Tamil Nadu and Karnataka and aakashmani in West Bengal, is a fast-growing, crooked, gnarly tree in the family Fabaceae. It is native to Australia, Philippines, Indonesia, and Papua New Guinea. It grows up to 30 metres (98 ft) tall.Acacia auriculiformis has about 47,000 seeds per kilogram (21,000/lb)."
+    }
+  },
+  "Photo-2024-03-17-08-30-15": {
+    "id": "Photo-2024-03-17-08-30-15",
+    "ut": 1710644415,
+    "latlng": {
+      "lat": 6.913875,
+      "lng": 79.86155
+    },
+    "image_path": "data\\images\\Photo-2024-03-17-08-30-15.jpg",
+    "direction": 352.3460388639761,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Terminalia arjuna": 0.2552,
+        "Syzygium caryophyllatum": 0.01194,
+        "Calophyllum inophyllum": 0.00677,
+        "Panicum repens": 0.0052,
+        "Avicennia marina": 0.00459
+      }
+    },
+    "species": {
+      "name": "Terminalia arjuna",
+      "authorship": "(Roxb. ex DC.) Wight & Arn.",
+      "genus_name": "Terminalia",
+      "family_name": "Combretaceae",
+      "gbif_id": "3699548",
+      "powo_id": "170962-1",
+      "iucn_id": null,
+      "common_names": [
+        "Arjun",
+        "Kakubha",
+        "Kumbuk",
+        "Maruthu",
+        "Marutu",
+        "White murdh"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Terminalia arjuna is a tree of the genus Terminalia. It is commonly known as arjuna or arjun tree in English."
     }
   },
   "Photo-2024-03-17-08-30-19": {
@@ -23889,6 +24459,42 @@
     },
     "wiki_page": {
       "summary_short": "Lonicera ligustrina (\u5973\u8d1e\u53f6\u5fcd\u51ac, n\u00fc zhen ye ren dong) is a species of honeysuckle found in Bhutan, India, Nepal, and China. It grows as an evergreen, semi-evergreen, or deciduous shrub approximately 1.5-2.5 meters in height, with leathery or paper-like leaves 0.4-8 \u00d7 0.2-1.5 cm in size."
+    }
+  },
+  "Photo-2024-03-17-08-32-58": {
+    "id": "Photo-2024-03-17-08-32-58",
+    "ut": 1710644578,
+    "latlng": {
+      "lat": 6.913419,
+      "lng": 79.861306
+    },
+    "image_path": "data\\images\\Photo-2024-03-17-08-32-58.jpg",
+    "direction": 358.65859982713914,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Melaleuca viminalis": 0.02931,
+        "Calliandra surinamensis": 0.01081,
+        "Vachellia farnesiana": 0.00902,
+        "Melaleuca citrina": 0.00894,
+        "Malpighia glabra": 0.00672
+      }
+    },
+    "species": {
+      "name": "Melaleuca viminalis",
+      "authorship": "(Sol. ex Gaertn.) Byrnes",
+      "genus_name": "Melaleuca",
+      "family_name": "Myrtaceae",
+      "gbif_id": "5415476",
+      "powo_id": "914221-1",
+      "iucn_id": "177374672",
+      "common_names": [
+        "Creek bottlebrush",
+        "Drooping bottlebrush",
+        "Red bottlebrush"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Melaleuca viminalis, commonly known as weeping bottlebrush or creek bottlebrush, is a plant in the myrtle family Myrtaceae, and is endemic to New South Wales, Queensland and Western Australia. (Some Australian state herbaria continue to use the name Callistemon viminalis.) It is a multi-trunked, large shrub or tree with hard bark, often pendulous foliage and large numbers of bright red bottlebrush flowers in spring and summer. It is possibly the most commonly cultivated melaleuca in gardens and ..."
     }
   },
   "Photo-2024-03-17-08-33-04": {
@@ -24789,6 +25395,53 @@
       "summary_short": "Strychnos potatorum also known as clearing-nut tree (Telugu: \u0c1a\u0c3f\u0c32\u0c4d\u0c32\u0c17\u0c3f\u0c02\u0c1c, Kannada: kataka/\u0c95\u0ca4\u0c95, Tamil: \u0ba4\u0bc7\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd \u0b95\u0bca\u0b9f\u0bcd\u0b9f\u0bc8(Thethankottai), Bengali: \u0995\u09a4\u0995\u09be Hindi: Nirmali Burmese: \u1001\u1015\u1031\u102b\u1004\u103a\u1038\u101b\u1031\u1000\u103c\u100a\u103a, Sinhala \u0d89\u0d9f\u0dd2\u0db1\u0dd2) is a deciduous tree which has height up to 40 feet (12 meters). The seeds of the tree are commonly used in traditional medicine as well as for purifying water in India and Myanmar."
     }
   },
+  "Photo-2024-03-19-07-15-36": {
+    "id": "Photo-2024-03-19-07-15-36",
+    "ut": 1710812736,
+    "latlng": {
+      "lat": 6.912439,
+      "lng": 79.860428
+    },
+    "image_path": "data\\images\\Photo-2024-03-19-07-15-36.jpg",
+    "direction": 308.9639892578125,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Ficus benghalensis": 0.06124,
+        "Ficus elastica": 0.04175,
+        "Ficus tinctoria": 0.02879,
+        "Ficus exasperata": 0.01921,
+        "Psidium guajava": 0.01424
+      }
+    },
+    "species": {
+      "name": "Ficus benghalensis",
+      "authorship": "L.",
+      "genus_name": "Ficus",
+      "family_name": "Moraceae",
+      "gbif_id": "5361919",
+      "powo_id": "852482-1",
+      "iucn_id": null,
+      "common_names": [
+        "Alamaram",
+        "Bengal banyan",
+        "Ficus Audrey",
+        "Indian banyan",
+        "Kottam",
+        "Mahanuga",
+        "Nakar",
+        "Nakaram",
+        "Niyaman",
+        "Nuga",
+        "Nyagrodha",
+        "Nygrodha",
+        "Sriksaka",
+        "Vata"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Ficus benghalensis, or Ficus indica commonly known as the banyan, banyan fig and Indian banyan, is a tree native to the Indian Subcontinent. Specimens in India are among the largest trees in the world by canopy coverage. It is also known as the \"strangler fig\" because it starts out as epiphyte, that is, leaning on another tree that it ends up suffocating."
+    }
+  },
   "Photo-2024-03-19-07-15-40": {
     "id": "Photo-2024-03-19-07-15-40",
     "ut": 1710812740,
@@ -25407,6 +26060,48 @@
         "Khaya senegalensis": 0.00658,
         "Canarium strictum": 0.00583,
         "Ficus virens": 0.00187
+      }
+    },
+    "species": {
+      "name": "Terminalia bellirica",
+      "authorship": "(Gaertn.) Roxb.",
+      "genus_name": "Terminalia",
+      "family_name": "Combretaceae",
+      "gbif_id": "3189390",
+      "powo_id": "170982-1",
+      "iucn_id": "61989645",
+      "common_names": [
+        "Beleric myrobalan",
+        "Belleric",
+        "Belleric myrobalan",
+        "Bhaira",
+        "Bibhitaki",
+        "Bulu",
+        "Pulu",
+        "Tanikkay",
+        "Tanri"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Terminalia bellirica, known as baheda, bahera, behada, beleric or bastard myrobalan (Arabic: beliledj \u0628\u0644\u064a\u0644\u062c, borrowed from Middle Persian Balilag), Persian \u0628\u0644\u06cc\u0644\u0647 (Balileh), Sanskrit: Vibh\u012btaka \u092c\u093f\u092d\u0940\u0924\u0915, Aksha \u0905\u0915\u094d\u0937) is a large deciduous tree in the Combretaceae family. It is common on the plains and lower hills in South and Southeast Asia, where it is also grown as an avenue tree. The basionym is Myrobalanus bellirica Gaertn. (Fruct. Sem. Pl. 2: 90, t. 97. 1791). William Roxburgh transferred M. ..."
+    }
+  },
+  "Photo-2024-03-19-07-18-58": {
+    "id": "Photo-2024-03-19-07-18-58",
+    "ut": 1710812938,
+    "latlng": {
+      "lat": 6.912797,
+      "lng": 79.860633
+    },
+    "image_path": "data\\images\\Photo-2024-03-19-07-18-58.jpg",
+    "direction": 280.59420795533845,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Terminalia bellirica": 0.23515,
+        "Litsea glutinosa": 0.02194,
+        "Madhuca longifolia": 0.00879,
+        "Barringtonia acutangula": 0.00365,
+        "Persea americana": 0.0026
       }
     },
     "species": {
@@ -27644,6 +28339,48 @@
       "summary_short": "Oroxylum indicum is a species of flowering plant belonging to the monotypic genus Oroxylum and the family Bignoniaceae, and is commonly called Indian trumpet tree, oroxylum, Indian trumpet flower, broken bones, Indian caper, scythe tree or tree of Damocles. It can reach a height of 18 metres (59 ft). Various segments of the tree are used in traditional medicine, where it is known as Shyonaka or Sona Patha."
     }
   },
+  "Photo-2024-03-20-07-39-34": {
+    "id": "Photo-2024-03-20-07-39-34",
+    "ut": 1710900574,
+    "latlng": {
+      "lat": 6.912447,
+      "lng": 79.864639
+    },
+    "image_path": "data\\images\\Photo-2024-03-20-07-39-34.jpg",
+    "direction": 220.3188935281837,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Cassia fistula": 0.1883,
+        "Swietenia mahagoni": 0.03069,
+        "Ficus virens": 0.01556,
+        "Juglans regia": 0.01463,
+        "Khaya senegalensis": 0.01044
+      }
+    },
+    "species": {
+      "name": "Cassia fistula",
+      "authorship": "L.",
+      "genus_name": "Cassia",
+      "family_name": "Fabaceae",
+      "gbif_id": "5357108",
+      "powo_id": "484507-1",
+      "iucn_id": "136142327",
+      "common_names": [
+        "Aehaela",
+        "Amaltas",
+        "Aragvadha",
+        "Ehela",
+        "Golden Shower Tree",
+        "Indian-laburnum",
+        "Konnai",
+        "Konrai",
+        "Mullaimaram"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Cassia fistula, also known as golden shower, purging cassia, Indian laburnum, Kani Konna (Malayalam: \u0d15\u0d23\u0d3f\u0d15\u0d4d\u0d15\u0d4a\u0d28\u0d4d\u0d28),, Konna Poo or pudding-pipe tree, is a flowering plant in the family Fabaceae. The species is native to the Indian subcontinent and adjacent regions of Southeast Asia. It is the official state flower of Kerala state in India. It is also a popular ornamental plant and is also used in herbal medicine."
+    }
+  },
   "Photo-2024-03-20-07-39-42": {
     "id": "Photo-2024-03-20-07-39-42",
     "ut": 1710900582,
@@ -28077,6 +28814,42 @@
     },
     "wiki_page": {
       "summary_short": "Schleichera is a monotypic genus of plants in the soapberry family, Sapindaceae. There is only one species, Schleichera oleosa, a tree that occurs in the Indian Subcontinent and Southeast Asia."
+    }
+  },
+  "Photo-2024-03-20-07-41-31": {
+    "id": "Photo-2024-03-20-07-41-31",
+    "ut": 1710900691,
+    "latlng": {
+      "lat": 6.912958,
+      "lng": 79.864617
+    },
+    "image_path": "data\\images\\Photo-2024-03-20-07-41-31.jpg",
+    "direction": 334.4638364779874,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Peltophorum africanum": 0.17023,
+        "Caesalpinia pulcherrima": 0.09706,
+        "Peltophorum pterocarpum": 0.07676,
+        "Peltophorum dubium": 0.05353,
+        "Delonix regia": 0.04568
+      }
+    },
+    "species": {
+      "name": "Peltophorum africanum",
+      "authorship": "Sond.",
+      "genus_name": "Peltophorum",
+      "family_name": "Fabaceae",
+      "gbif_id": "2952780",
+      "powo_id": "513010-1",
+      "iucn_id": "47608213",
+      "common_names": [
+        "African-wattle",
+        "Umkahla",
+        "Umsehla"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Peltophorum africanum, the weeping wattle, is a semi-deciduous to deciduous flowering tree growing to about 15 meters tall. It is native to Africa south of the equator. Their yellow flowers bloom on the ends of branches in upright, showy sprays.During spring time it may happen that water drips from the tree's branches, a phenomenon that is caused by the spittlebug Ptyelus grossus. The immature stages of these spittlebugs congregate on the young shoots and derive their nourishment by sucking the ..."
     }
   },
   "Photo-2024-03-20-07-41-33": {
@@ -28760,6 +29533,46 @@
         "Libidibia coriaria": 0.11644,
         "Peltophorum dubium": 0.11274,
         "Peltophorum africanum": 0.01586
+      }
+    },
+    "species": {
+      "name": "Peltophorum pterocarpum",
+      "authorship": "(DC.) Backer ex K.Heyne",
+      "genus_name": "Peltophorum",
+      "family_name": "Fabaceae",
+      "gbif_id": "2952775",
+      "powo_id": "513021-1",
+      "iucn_id": null,
+      "common_names": [
+        "Copperpod",
+        "Kaha Maara",
+        "Kona Maram",
+        "Maara",
+        "Nilalvakai",
+        "Yellow flame",
+        "Yellow flametree"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Peltophorum pterocarpum (commonly known as copperpod, yellow-flamboyant, yellow flametree, yellow poinciana or yellow-flame) is a species of Peltophorum, native to tropical southeastern Asia and a popular ornamental tree grown around the world."
+    }
+  },
+  "Photo-2024-03-20-07-45-42": {
+    "id": "Photo-2024-03-20-07-45-42",
+    "ut": 1710900942,
+    "latlng": {
+      "lat": 6.912886,
+      "lng": 79.864258
+    },
+    "image_path": "data\\images\\Photo-2024-03-20-07-45-42.jpg",
+    "direction": 319.2984924623116,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Peltophorum pterocarpum": 0.21832,
+        "Delonix regia": 0.08282,
+        "Jacaranda mimosifolia": 0.07479,
+        "Peltophorum dubium": 0.04595,
+        "Cassia javanica": 0.02862
       }
     },
     "species": {
@@ -29997,6 +30810,50 @@
     },
     "wiki_page": {
       "summary_short": "Hamelia patens is a large perennial shrub or small tree in the family\tRubiaceae, that is native to the American subtropics and tropics. Its range extends from Florida in the southern United States to as far south as Argentina. Common names include firebush, hummingbird bush, scarlet bush, and redhead.  In Belize, this plant's Mayan name is Ix Canaan and is also known as \"Guardian of the Forest\"."
+    }
+  },
+  "Photo-2024-03-21-07-09-26": {
+    "id": "Photo-2024-03-21-07-09-26",
+    "ut": 1710985166,
+    "latlng": {
+      "lat": 6.911969,
+      "lng": 79.859642
+    },
+    "image_path": "data\\images\\Photo-2024-03-21-07-09-26.jpg",
+    "direction": 328.826690821256,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Mangifera indica": 0.60039,
+        "Monoon longifolium": 0.10365,
+        "Madhuca longifolia": 0.00728,
+        "Cerbera manghas": 0.00318,
+        "Couroupita guianensis": 0.00301
+      }
+    },
+    "species": {
+      "name": "Mangifera indica",
+      "authorship": "L.",
+      "genus_name": "Mangifera",
+      "family_name": "Anacardiaceae",
+      "gbif_id": "3190638",
+      "powo_id": "69913-1",
+      "iucn_id": "31389",
+      "common_names": [
+        "Amba",
+        "Amiram",
+        "Amra",
+        "Ma",
+        "Mamaram",
+        "Mangai",
+        "Mango",
+        "Mango Tree",
+        "Mee Amba",
+        "Sahakara",
+        "\u0906\u092e"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Mangifera indica, commonly known as mango, is a species of flowering plant in the family Anacardiaceae. It is a large fruit tree, capable of growing to a height of 30 metres (100 feet). There are two distinct genetic populations in modern mangoes \u2013 the \"Indian type\" and the \"Southeast Asian type\"."
     }
   },
   "Photo-2024-03-21-07-09-30": {
@@ -31898,22 +32755,22 @@
       "summary_short": "Terminalia catappa is a large tropical tree in the leadwood tree family, Combretaceae, native to Asia, Australia, the Pacific, Madagascar and Seychelles. Common names in English include country almond, Indian almond, Malabar almond, sea almond, tropical almond, beach almond and false kamani."
     }
   },
-  "Photo-2024-03-26-07-40-04": {
-    "id": "Photo-2024-03-26-07-40-04",
-    "ut": 1711419004,
+  "Photo-2024-03-21-07-52-04": {
+    "id": "Photo-2024-03-21-07-52-04",
+    "ut": 1710987724,
     "latlng": {
       "lat": 6.9124,
       "lng": 79.863983
     },
-    "image_path": "data\\images\\Photo-2024-03-26-07-40-04.jpg",
-    "direction": 165.61331155573703,
+    "image_path": "data\\images\\Photo-2024-03-21-07-52-04.jpg",
+    "direction": 167.21420289855072,
     "plant_net_result": {
       "species_name_to_score": {
-        "Ficus benghalensis": 0.03133,
-        "Elaeagnus umbellata": 0.01338,
-        "Ficus racemosa": 0.01168,
-        "Terminalia arjuna": 0.01045,
-        "Erythrina fusca": 0.00919
+        "Ficus benghalensis": 0.01515,
+        "Ficus religiosa": 0.01292,
+        "Diospyros melanoxylon": 0.00984,
+        "Erythrina fusca": 0.0077,
+        "Populus nigra": 0.00674
       }
     },
     "species": {
@@ -34848,6 +35705,51 @@
       "summary_short": "Teak (Tectona grandis) is a tropical hardwood tree species in the family Lamiaceae. It is a large, deciduous tree that occurs in mixed hardwood forests. Tectona grandis has small, fragrant white flowers arranged in dense clusters (panicles) at the end of the branches. These flowers contain both types of reproductive organs (perfect flowers). The large, papery leaves of teak trees are often hairy on the lower surface. Teak wood has a leather-like smell when it is freshly milled and is ..."
     }
   },
+  "Photo-2024-03-22-08-06-58": {
+    "id": "Photo-2024-03-22-08-06-58",
+    "ut": 1711075018,
+    "latlng": {
+      "lat": 6.913125,
+      "lng": 79.859664
+    },
+    "image_path": "data\\images\\Photo-2024-03-22-08-06-58.jpg",
+    "direction": 27.293283465793984,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Tectona grandis": 0.55168,
+        "Anacardium occidentale": 0.0624,
+        "Terminalia catappa": 0.03985,
+        "Ficus altissima": 0.00856,
+        "Madhuca longifolia": 0.00779
+      }
+    },
+    "species": {
+      "name": "Tectona grandis",
+      "authorship": "L.f.",
+      "genus_name": "Tectona",
+      "family_name": "Lamiaceae",
+      "gbif_id": "2925649",
+      "powo_id": "864923-1",
+      "iucn_id": "62019830",
+      "common_names": [
+        "Bankok teak",
+        "Bardaru",
+        "Bhumisah",
+        "Dwardaru",
+        "Indian-oak",
+        "Kharchchada",
+        "Kolaphala",
+        "Saaka",
+        "Sabarasaara",
+        "Teak",
+        "The Kka Signify Long Sound",
+        "Thekku"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Teak (Tectona grandis) is a tropical hardwood tree species in the family Lamiaceae. It is a large, deciduous tree that occurs in mixed hardwood forests. Tectona grandis has small, fragrant white flowers arranged in dense clusters (panicles) at the end of the branches. These flowers contain both types of reproductive organs (perfect flowers). The large, papery leaves of teak trees are often hairy on the lower surface. Teak wood has a leather-like smell when it is freshly milled and is ..."
+    }
+  },
   "Photo-2024-03-22-08-07-01": {
     "id": "Photo-2024-03-22-08-07-01",
     "ut": 1711075021,
@@ -36672,6 +37574,41 @@
     },
     "wiki_page": {
       "summary_short": "Heliconia latispatha (expanded lobsterclaw) is a plant species native to southern Mexico (Tabasco, Oaxaca, Chiapas, Campeche), Central America and northern South America (Colombia, Venezuela, Ecuador and Peru) and naturalized in Florida and Jamaica. It is an herbaceous perennial up to 4 m tall, with leaves resembling those of bananas. The inflorescence is erect, up to 45 cm long, with red or orange bracts subtending green, yellow or orange flowers."
+    }
+  },
+  "Photo-2024-03-23-08-53-38": {
+    "id": "Photo-2024-03-23-08-53-38",
+    "ut": 1711164218,
+    "latlng": {
+      "lat": 6.912819,
+      "lng": 79.863022
+    },
+    "image_path": "data\\images\\Photo-2024-03-23-08-53-38.jpg",
+    "direction": 254.12605286087714,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Heptapleurum actinophyllum": 0.08221,
+        "Manilkara zapota": 0.007,
+        "Bombax ceiba": 0.00408,
+        "Cleyera japonica": 0.00122
+      }
+    },
+    "species": {
+      "name": "Heptapleurum actinophyllum",
+      "authorship": "(Endl.) Lowry & G.M.Plunkett",
+      "genus_name": "Heptapleurum",
+      "family_name": "Araliaceae",
+      "gbif_id": "11008739",
+      "powo_id": "77213393-1",
+      "iucn_id": "13507130",
+      "common_names": [
+        "Queensland umbrella tree",
+        "Schefflera",
+        "Umbrella plant"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Heptapleurum actinophyllum (formerly Schefflera actinophylla) is a tree in the family Araliaceae. It is native to tropical rainforests and gallery forests in northern and north-eastern Queensland coasts and the Northern Territory of Australia, as well as New Guinea and Java. Common names include Australian umbrella tree, Queensland umbrella tree, octopus tree and amate."
     }
   },
   "Photo-2024-03-23-08-53-41": {
@@ -38912,6 +39849,53 @@
       "summary_short": "Terminalia catappa is a large tropical tree in the leadwood tree family, Combretaceae, native to Asia, Australia, the Pacific, Madagascar and Seychelles. Common names in English include country almond, Indian almond, Malabar almond, sea almond, tropical almond, beach almond and false kamani."
     }
   },
+  "Photo-2024-03-26-07-40-04": {
+    "id": "Photo-2024-03-26-07-40-04",
+    "ut": 1711419004,
+    "latlng": {
+      "lat": 6.9124,
+      "lng": 79.863983
+    },
+    "image_path": "data\\images\\Photo-2024-03-26-07-40-04.jpg",
+    "direction": 165.61331155573703,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Ficus benghalensis": 0.03133,
+        "Elaeagnus umbellata": 0.01338,
+        "Ficus racemosa": 0.01168,
+        "Terminalia arjuna": 0.01045,
+        "Erythrina fusca": 0.00919
+      }
+    },
+    "species": {
+      "name": "Ficus benghalensis",
+      "authorship": "L.",
+      "genus_name": "Ficus",
+      "family_name": "Moraceae",
+      "gbif_id": "5361919",
+      "powo_id": "852482-1",
+      "iucn_id": null,
+      "common_names": [
+        "Alamaram",
+        "Bengal banyan",
+        "Ficus Audrey",
+        "Indian banyan",
+        "Kottam",
+        "Mahanuga",
+        "Nakar",
+        "Nakaram",
+        "Niyaman",
+        "Nuga",
+        "Nyagrodha",
+        "Nygrodha",
+        "Sriksaka",
+        "Vata"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Ficus benghalensis, or Ficus indica commonly known as the banyan, banyan fig and Indian banyan, is a tree native to the Indian Subcontinent. Specimens in India are among the largest trees in the world by canopy coverage. It is also known as the \"strangler fig\" because it starts out as epiphyte, that is, leaning on another tree that it ends up suffocating."
+    }
+  },
   "Photo-2024-03-26-07-40-18": {
     "id": "Photo-2024-03-26-07-40-18",
     "ut": 1711419018,
@@ -39107,6 +40091,42 @@
     },
     "wiki_page": {
       "summary_short": "Ficus altissima, commonly known as the council tree and lofty fig, is a species of flowering plant, a fig tree in the family Moraceae. It is a large, stately evergreen hemiepiphyte and is native to southeastern Asia."
+    }
+  },
+  "Photo-2024-03-26-07-41-08": {
+    "id": "Photo-2024-03-26-07-41-08",
+    "ut": 1711419068,
+    "latlng": {
+      "lat": 6.912514,
+      "lng": 79.864281
+    },
+    "image_path": "data\\images\\Photo-2024-03-26-07-41-08.jpg",
+    "direction": 315.60650658404336,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Psidium cattleyanum": 0.01904,
+        "Ficus microcarpa": 0.0136,
+        "Ficus retusa": 0.00584,
+        "Artocarpus heterophyllus": 0.00458,
+        "Ficus elastica": 0.00314
+      }
+    },
+    "species": {
+      "name": "Psidium cattleyanum",
+      "authorship": "Sabine",
+      "genus_name": "Psidium",
+      "family_name": "Myrtaceae",
+      "gbif_id": null,
+      "powo_id": "600760-1",
+      "iucn_id": null,
+      "common_names": [
+        "Cattley Psidium",
+        "Cherry guava",
+        "Strawberry guava"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Psidium cattleyanum (World Plants : Psidium cattleianum), commonly known as Cattley guava, strawberry guava or cherry guava, is a small tree (2\u20136 m tall) in the Myrtaceae (myrtle) family. The species is named in honour of English horticulturist William Cattley.  Its genus name Psidium comes from the Latin psidion, or \"armlet.\" The red-fruited variety, P. cattleyanum var. cattleyanum,  is commonly known as purple guava, red cattley guava, red strawberry guava and red cherry guava. The ..."
     }
   },
   "Photo-2024-03-26-07-41-11": {
@@ -40612,6 +41632,3410 @@
     },
     "wiki_page": {
       "summary_short": "Lonicera japonica, known as Japanese honeysuckle and golden-and-silver honeysuckle, is a species of honeysuckle native to East Asia, including many parts of China. It is often grown as an ornamental plant, but has become an invasive species in a number of countries. Japanese honeysuckle is used in traditional Chinese medicine."
+    }
+  },
+  "Photo-2024-03-27-06-55-08": {
+    "id": "Photo-2024-03-27-06-55-08",
+    "ut": 1711502708,
+    "latlng": {
+      "lat": 6.914917,
+      "lng": 79.862289
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-06-55-08.jpg",
+    "direction": 352.7618710134656,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Melia azedarach": 0.05109,
+        "Eucalyptus robusta": 0.02813,
+        "Cinnamomum camphora": 0.01926,
+        "Erythrina crista-galli": 0.00924,
+        "Cedrela odorata": 0.00581
+      }
+    },
+    "species": {
+      "name": "Melia azedarach",
+      "authorship": "L.",
+      "genus_name": "Melia",
+      "family_name": "Meliaceae",
+      "gbif_id": "5914287",
+      "powo_id": "578949-1",
+      "iucn_id": "61801956",
+      "common_names": [
+        "China-Berry",
+        "Persian-lilac",
+        "\u0632\u064a\u062a\u0648\u0646 \u062a\u0644\u062e"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Melia azedarach, commonly known as the chinaberry tree, pride of India, bead-tree, Cape lilac, syringa berrytree, Persian lilac,Indian lilac, or white cedar, is a species of deciduous tree in the mahogany family, Meliaceae, that is native to Indomalaya and Australasia."
+    }
+  },
+  "Photo-2024-03-27-06-55-14": {
+    "id": "Photo-2024-03-27-06-55-14",
+    "ut": 1711502714,
+    "latlng": {
+      "lat": 6.914872,
+      "lng": 79.862289
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-06-55-14.jpg",
+    "direction": 26.515514369012912,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Eucalyptus robusta": 0.05987,
+        "Bischofia javanica": 0.01189,
+        "Erythrina crista-galli": 0.00824,
+        "Fraxinus griffithii": 0.00738,
+        "Shorea roxburghii": 0.00672
+      }
+    },
+    "species": {
+      "name": "Eucalyptus robusta",
+      "authorship": "Sm.",
+      "genus_name": "Eucalyptus",
+      "family_name": "Myrtaceae",
+      "gbif_id": "3176743",
+      "powo_id": "593318-1",
+      "iucn_id": "61915765",
+      "common_names": [
+        "Swamp messmate",
+        "Swamp stringybark",
+        "Swamp-mahogany"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Eucalyptus robusta, commonly known as swamp mahogany or swamp messmate, is a tree native to eastern Australia. Growing in swampy or waterlogged soils, it is up to 30 m (100 ft) high with thick spongy reddish-brown bark and dark green broad leaves, which help form a dense canopy. The white to cream flowers appear in autumn and winter. The leaves are commonly eaten by insects and are a food item for the koala. It is an important autumn-winter flowering species in eastern Australia and has been ..."
+    }
+  },
+  "Photo-2024-03-27-06-55-21": {
+    "id": "Photo-2024-03-27-06-55-21",
+    "ut": 1711502721,
+    "latlng": {
+      "lat": 6.914831,
+      "lng": 79.862306
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-06-55-21.jpg",
+    "direction": 35.275142688447154,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Eucalyptus robusta": 0.14542,
+        "Ceiba pentandra": 0.02024,
+        "Swietenia mahagoni": 0.01834,
+        "Swietenia macrophylla": 0.00855,
+        "Pyrrosia lanceolata": 0.00707
+      }
+    },
+    "species": {
+      "name": "Eucalyptus robusta",
+      "authorship": "Sm.",
+      "genus_name": "Eucalyptus",
+      "family_name": "Myrtaceae",
+      "gbif_id": "3176743",
+      "powo_id": "593318-1",
+      "iucn_id": "61915765",
+      "common_names": [
+        "Swamp messmate",
+        "Swamp stringybark",
+        "Swamp-mahogany"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Eucalyptus robusta, commonly known as swamp mahogany or swamp messmate, is a tree native to eastern Australia. Growing in swampy or waterlogged soils, it is up to 30 m (100 ft) high with thick spongy reddish-brown bark and dark green broad leaves, which help form a dense canopy. The white to cream flowers appear in autumn and winter. The leaves are commonly eaten by insects and are a food item for the koala. It is an important autumn-winter flowering species in eastern Australia and has been ..."
+    }
+  },
+  "Photo-2024-03-27-06-55-36": {
+    "id": "Photo-2024-03-27-06-55-36",
+    "ut": 1711502736,
+    "latlng": {
+      "lat": 6.914819,
+      "lng": 79.862336
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-06-55-36.jpg",
+    "direction": 34.46766661949908,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Phyllanthus reticulatus": 0.37213,
+        "Amorpha fruticosa": 0.0227,
+        "Tipuana tipu": 0.01677,
+        "Styphnolobium japonicum": 0.00819,
+        "Robinia pseudoacacia": 0.00738
+      }
+    },
+    "species": {
+      "name": "Phyllanthus reticulatus",
+      "authorship": "Poir.",
+      "genus_name": "Phyllanthus",
+      "family_name": "Phyllanthaceae",
+      "gbif_id": "5382478",
+      "powo_id": "354573-1",
+      "iucn_id": "168985",
+      "common_names": [
+        "Kaila",
+        "Karunelli",
+        "Nirppul",
+        "Potato-bush"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Phyllanthus reticulatus is a plant species described Jean Louis Marie Poiret; it is included in the family Phyllanthaceae.This is an Asian species of Phyllanthus (but it was also introduced to Jamaica); it has been confused with P. polyspermus.  In Vietnamese its name is ph\u00e8n \u0111en (sometimes di\u1ec7p h\u1ea1 ch\u00e2u m\u1ea1ng). It is also found in Northern Australia,  where the aborigines of the Moyle River area use the wood for firesticks and call it Mirrinymirriny.It is also found in abundance in the Terai ..."
+    }
+  },
+  "Photo-2024-03-27-06-55-41": {
+    "id": "Photo-2024-03-27-06-55-41",
+    "ut": 1711502741,
+    "latlng": {
+      "lat": 6.914814,
+      "lng": 79.86235
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-06-55-41.jpg",
+    "direction": 259.70837390457643,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Mangifera indica": 0.18978,
+        "Cerbera manghas": 0.03787,
+        "Ceiba pentandra": 0.01298,
+        "Manilkara zapota": 0.01037,
+        "Cerbera odollam": 0.00862
+      }
+    },
+    "species": {
+      "name": "Mangifera indica",
+      "authorship": "L.",
+      "genus_name": "Mangifera",
+      "family_name": "Anacardiaceae",
+      "gbif_id": "3190638",
+      "powo_id": "69913-1",
+      "iucn_id": "31389",
+      "common_names": [
+        "Amba",
+        "Amiram",
+        "Amra",
+        "Ma",
+        "Mamaram",
+        "Mangai",
+        "Mango",
+        "Mango Tree",
+        "Mee Amba",
+        "Sahakara",
+        "\u0906\u092e"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Mangifera indica, commonly known as mango, is a species of flowering plant in the family Anacardiaceae. It is a large fruit tree, capable of growing to a height of 30 metres (100 feet). There are two distinct genetic populations in modern mangoes \u2013 the \"Indian type\" and the \"Southeast Asian type\"."
+    }
+  },
+  "Photo-2024-03-27-06-55-53": {
+    "id": "Photo-2024-03-27-06-55-53",
+    "ut": 1711502753,
+    "latlng": {
+      "lat": 6.914817,
+      "lng": 79.862381
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-06-55-53.jpg",
+    "direction": 207.4683532573441,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Mangifera indica": 0.45671,
+        "Ficus virens": 0.00594,
+        "Hevea brasiliensis": 0.00514,
+        "Annona reticulata": 0.00332,
+        "Toona ciliata": 0.00285
+      }
+    },
+    "species": {
+      "name": "Mangifera indica",
+      "authorship": "L.",
+      "genus_name": "Mangifera",
+      "family_name": "Anacardiaceae",
+      "gbif_id": "3190638",
+      "powo_id": "69913-1",
+      "iucn_id": "31389",
+      "common_names": [
+        "Amba",
+        "Amiram",
+        "Amra",
+        "Ma",
+        "Mamaram",
+        "Mangai",
+        "Mango",
+        "Mango Tree",
+        "Mee Amba",
+        "Sahakara",
+        "\u0906\u092e"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Mangifera indica, commonly known as mango, is a species of flowering plant in the family Anacardiaceae. It is a large fruit tree, capable of growing to a height of 30 metres (100 feet). There are two distinct genetic populations in modern mangoes \u2013 the \"Indian type\" and the \"Southeast Asian type\"."
+    }
+  },
+  "Photo-2024-03-27-06-56-10": {
+    "id": "Photo-2024-03-27-06-56-10",
+    "ut": 1711502770,
+    "latlng": {
+      "lat": 6.914747,
+      "lng": 79.86245
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-06-56-10.jpg",
+    "direction": 273.2620850320326,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Plumeria rubra": 0.18912,
+        "Plumeria alba": 0.0368,
+        "Dillenia pentagyna": 0.0263,
+        "Barringtonia asiatica": 0.00866,
+        "Terminalia catappa": 0.00826
+      }
+    },
+    "species": {
+      "name": "Plumeria rubra",
+      "authorship": "L.",
+      "genus_name": "Plumeria",
+      "family_name": "Apocynaceae",
+      "gbif_id": "3169674",
+      "powo_id": "81275-1",
+      "iucn_id": "144270910",
+      "common_names": [
+        "Frangipani",
+        "Pagoda-tree",
+        "Plumeria"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Plumeria rubra is a deciduous plant species belonging to the genus Plumeria. Originally native to Mexico, Central America, Colombia and Venezuela, it has been widely cultivated in subtropical and tropical climates worldwide and is a popular garden and park plant, as well as being used in temples and cemeteries. It grows as a spreading tree to 7\u20138 m (23\u201326 ft) high and wide, and is flushed with fragrant flowers of shades of pink, white and yellow over the summer and autumn.\nIts common names ..."
+    }
+  },
+  "Photo-2024-03-27-06-56-29": {
+    "id": "Photo-2024-03-27-06-56-29",
+    "ut": 1711502789,
+    "latlng": {
+      "lat": 6.914694,
+      "lng": 79.86245
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-06-56-29.jpg",
+    "direction": 64.84181969949917,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Mangifera indica": 0.0784,
+        "Acacia auriculiformis": 0.06078,
+        "Acacia melanoxylon": 0.02378,
+        "Acacia confusa": 0.02049,
+        "Quercus acutissima": 0.01438
+      }
+    },
+    "species": {
+      "name": "Mangifera indica",
+      "authorship": "L.",
+      "genus_name": "Mangifera",
+      "family_name": "Anacardiaceae",
+      "gbif_id": "3190638",
+      "powo_id": "69913-1",
+      "iucn_id": "31389",
+      "common_names": [
+        "Amba",
+        "Amiram",
+        "Amra",
+        "Ma",
+        "Mamaram",
+        "Mangai",
+        "Mango",
+        "Mango Tree",
+        "Mee Amba",
+        "Sahakara",
+        "\u0906\u092e"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Mangifera indica, commonly known as mango, is a species of flowering plant in the family Anacardiaceae. It is a large fruit tree, capable of growing to a height of 30 metres (100 feet). There are two distinct genetic populations in modern mangoes \u2013 the \"Indian type\" and the \"Southeast Asian type\"."
+    }
+  },
+  "Photo-2024-03-27-06-56-40": {
+    "id": "Photo-2024-03-27-06-56-40",
+    "ut": 1711502800,
+    "latlng": {
+      "lat": 6.914706,
+      "lng": 79.862372
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-06-56-40.jpg",
+    "direction": 4.141258236302916,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Cedrela odorata": 0.18412,
+        "Ceiba pentandra": 0.11191,
+        "Bombax ceiba": 0.07746,
+        "Spondias mombin": 0.00616,
+        "Tipuana tipu": 0.00567
+      }
+    },
+    "species": {
+      "name": "Cedrela odorata",
+      "authorship": "L.",
+      "genus_name": "Cedrela",
+      "family_name": "Meliaceae",
+      "gbif_id": "3190511",
+      "powo_id": "51010-2",
+      "iucn_id": "32292",
+      "common_names": [
+        "Barbados-cedar",
+        "Cigar-box-cedar",
+        "West Indian-cedar"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Cedrela odorata,  commonly known as Spanish cedar, Cuban cedar, or cedro in Spanish, is a commercially important species of tree in the chinaberry family, Meliaceae native to the Neotropics."
+    }
+  },
+  "Photo-2024-03-27-06-56-55": {
+    "id": "Photo-2024-03-27-06-56-55",
+    "ut": 1711502815,
+    "latlng": {
+      "lat": 6.914756,
+      "lng": 79.862336
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-06-56-55.jpg",
+    "direction": 47.08695984119713,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Swietenia macrophylla": 0.1013,
+        "Eucalyptus robusta": 0.03201,
+        "Erythrina crista-galli": 0.01573,
+        "Diospyros melanoxylon": 0.01116,
+        "Pyrrosia lanceolata": 0.01076
+      }
+    },
+    "species": {
+      "name": "Swietenia macrophylla",
+      "authorship": "King",
+      "genus_name": "Swietenia",
+      "family_name": "Meliaceae",
+      "gbif_id": "3190484",
+      "powo_id": "246905-2",
+      "iucn_id": "32293",
+      "common_names": [
+        "Honduran mahogany",
+        "Honduras mahogany",
+        "Mahogany"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Swietenia macrophylla, commonly known as mahogany, Honduran mahogany, Honduras mahogany,  or big-leaf mahogany is a species of plant in the Meliaceae family. It is one of three species that yields genuine mahogany timber (Swietenia), the others being Swietenia mahagoni and Swietenia humilis. It is native to South America, Mexico and Central America, but naturalized in the Philippines, Singapore, Malaysia and Hawaii, and cultivated in plantations and wind-breaks elsewhere."
+    }
+  },
+  "Photo-2024-03-27-06-57-02": {
+    "id": "Photo-2024-03-27-06-57-02",
+    "ut": 1711502822,
+    "latlng": {
+      "lat": 6.914744,
+      "lng": 79.862342
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-06-57-02.jpg",
+    "direction": 43.434227010774244,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Cedrela odorata": 0.01186,
+        "Swietenia macrophylla": 0.00804,
+        "Swietenia mahagoni": 0.00699,
+        "Cinnamomum camphora": 0.00519,
+        "Ceiba pentandra": 0.00464
+      }
+    },
+    "species": {
+      "name": "Cedrela odorata",
+      "authorship": "L.",
+      "genus_name": "Cedrela",
+      "family_name": "Meliaceae",
+      "gbif_id": "3190511",
+      "powo_id": "51010-2",
+      "iucn_id": "32292",
+      "common_names": [
+        "Barbados-cedar",
+        "Cigar-box-cedar",
+        "West Indian-cedar"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Cedrela odorata,  commonly known as Spanish cedar, Cuban cedar, or cedro in Spanish, is a commercially important species of tree in the chinaberry family, Meliaceae native to the Neotropics."
+    }
+  },
+  "Photo-2024-03-27-06-57-10": {
+    "id": "Photo-2024-03-27-06-57-10",
+    "ut": 1711502830,
+    "latlng": {
+      "lat": 6.914739,
+      "lng": 79.862336
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-06-57-10.jpg",
+    "direction": 53.764923076923075,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Bischofia javanica": 0.00961,
+        "Aegle marmelos": 0.00671,
+        "Pterocarpus indicus": 0.00531,
+        "Vitex pinnata": 0.00448,
+        "Swietenia macrophylla": 0.00376
+      }
+    },
+    "species": {
+      "name": "Bischofia javanica",
+      "authorship": "Blume",
+      "genus_name": "Bischofia",
+      "family_name": "Phyllanthaceae",
+      "gbif_id": "5383085",
+      "powo_id": "339921-1",
+      "iucn_id": "61956399",
+      "common_names": [
+        "Bishopwood",
+        "Java-cedar",
+        "Needlebark"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Bischofia javanica, or bishop wood, is a plant species of the family Phyllanthaceae. It and the related Bischofia polycarpa are the only two members of genus Bischofia and tribe Bischofieae. These species are distributed throughout southern and southeast Asia to Australia and Polynesia also in North America (brought to North America as a decorative plant but now considered to be an invasive species). The tree is commonly used by tigers to scratch-mark territory in the jungles of Assam where it ..."
+    }
+  },
+  "Photo-2024-03-27-06-57-18": {
+    "id": "Photo-2024-03-27-06-57-18",
+    "ut": 1711502838,
+    "latlng": {
+      "lat": 6.914728,
+      "lng": 79.862306
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-06-57-18.jpg",
+    "direction": 58.8502197265625,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Tipuana tipu": 0.01932,
+        "Cedrela odorata": 0.01325,
+        "Choerospondias axillaris": 0.01022,
+        "Triadica sebifera": 0.00921,
+        "Populus deltoides": 0.00841
+      }
+    },
+    "species": {
+      "name": "Tipuana tipu",
+      "authorship": "(Benth.) Kuntze",
+      "genus_name": "Tipuana",
+      "family_name": "Fabaceae",
+      "gbif_id": "5352512",
+      "powo_id": "254607-2",
+      "iucn_id": "62028299",
+      "common_names": [
+        "Rosewood",
+        "Tipu",
+        "Tiputree"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Tipuana tipu, also known as tipa, rosewood and pride of Bolivia, is a South American tree."
+    }
+  },
+  "Photo-2024-03-27-06-57-26": {
+    "id": "Photo-2024-03-27-06-57-26",
+    "ut": 1711502846,
+    "latlng": {
+      "lat": 6.9147,
+      "lng": 79.862267
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-06-57-26.jpg",
+    "direction": 56.82721327967807,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Melia azedarach": 0.03251,
+        "Eucalyptus robusta": 0.02359,
+        "Populus deltoides": 0.01714,
+        "Erythrina crista-galli": 0.01163,
+        "Sambucus canadensis": 0.01007
+      }
+    },
+    "species": {
+      "name": "Melia azedarach",
+      "authorship": "L.",
+      "genus_name": "Melia",
+      "family_name": "Meliaceae",
+      "gbif_id": "5914287",
+      "powo_id": "578949-1",
+      "iucn_id": "61801956",
+      "common_names": [
+        "China-Berry",
+        "Persian-lilac",
+        "\u0632\u064a\u062a\u0648\u0646 \u062a\u0644\u062e"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Melia azedarach, commonly known as the chinaberry tree, pride of India, bead-tree, Cape lilac, syringa berrytree, Persian lilac,Indian lilac, or white cedar, is a species of deciduous tree in the mahogany family, Meliaceae, that is native to Indomalaya and Australasia."
+    }
+  },
+  "Photo-2024-03-27-06-57-34": {
+    "id": "Photo-2024-03-27-06-57-34",
+    "ut": 1711502854,
+    "latlng": {
+      "lat": 6.914694,
+      "lng": 79.862281
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-06-57-34.jpg",
+    "direction": 56.22053525476068,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Populus deltoides": 0.05498,
+        "Salix acmophylla": 0.02154,
+        "Cedrela odorata": 0.01998,
+        "Chloroxylon swietenia": 0.01022,
+        "Juglans regia": 0.00867
+      }
+    },
+    "species": {
+      "name": "Populus deltoides",
+      "authorship": "W.Bartram ex Marshall",
+      "genus_name": "Populus",
+      "family_name": "Salicaceae",
+      "gbif_id": "3040232",
+      "powo_id": "30102841-2",
+      "iucn_id": "61959821",
+      "common_names": [
+        "Common Cottonwood",
+        "Eastern Cottonwood",
+        "Match Poplar"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Populus deltoides, the eastern cottonwood or necklace poplar, is a species of cottonwood poplar native to North America, growing throughout the eastern, central, and southwestern United States as well as the southern Canadian prairies, the southernmost part of eastern Canada, and northeastern Mexico."
+    }
+  },
+  "Photo-2024-03-27-06-57-42": {
+    "id": "Photo-2024-03-27-06-57-42",
+    "ut": 1711502862,
+    "latlng": {
+      "lat": 6.914686,
+      "lng": 79.862297
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-06-57-42.jpg",
+    "direction": 61.285102880658435,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Cinnamomum camphora": 0.13555,
+        "Eucalyptus robusta": 0.05686,
+        "Populus deltoides": 0.02364,
+        "Cedrela odorata": 0.02108,
+        "Quercus serrata": 0.01881
+      }
+    },
+    "species": {
+      "name": "Cinnamomum camphora",
+      "authorship": "(L.) J.Presl",
+      "genus_name": "Cinnamomum",
+      "family_name": "Lauraceae",
+      "gbif_id": "3033991",
+      "powo_id": "463336-1",
+      "iucn_id": "15441072",
+      "common_names": [
+        "Camphor-laurel",
+        "Camphortree",
+        "Japanese camphor",
+        "Kapuru",
+        "Karppuram"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Camphora officinarum is a species of evergreen tree that is commonly known under the names camphor tree, camphorwood or camphor laurel."
+    }
+  },
+  "Photo-2024-03-27-06-57-50": {
+    "id": "Photo-2024-03-27-06-57-50",
+    "ut": 1711502870,
+    "latlng": {
+      "lat": 6.914683,
+      "lng": 79.862319
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-06-57-50.jpg",
+    "direction": 57.96265029419289,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Eucalyptus robusta": 0.21443,
+        "Vitex pinnata": 0.01651,
+        "Syncarpia glomulifera": 0.0069,
+        "Swietenia macrophylla": 0.00653,
+        "Cedrela odorata": 0.00609
+      }
+    },
+    "species": {
+      "name": "Eucalyptus robusta",
+      "authorship": "Sm.",
+      "genus_name": "Eucalyptus",
+      "family_name": "Myrtaceae",
+      "gbif_id": "3176743",
+      "powo_id": "593318-1",
+      "iucn_id": "61915765",
+      "common_names": [
+        "Swamp messmate",
+        "Swamp stringybark",
+        "Swamp-mahogany"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Eucalyptus robusta, commonly known as swamp mahogany or swamp messmate, is a tree native to eastern Australia. Growing in swampy or waterlogged soils, it is up to 30 m (100 ft) high with thick spongy reddish-brown bark and dark green broad leaves, which help form a dense canopy. The white to cream flowers appear in autumn and winter. The leaves are commonly eaten by insects and are a food item for the koala. It is an important autumn-winter flowering species in eastern Australia and has been ..."
+    }
+  },
+  "Photo-2024-03-27-06-58-07": {
+    "id": "Photo-2024-03-27-06-58-07",
+    "ut": 1711502887,
+    "latlng": {
+      "lat": 6.914606,
+      "lng": 79.862275
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-06-58-07.jpg",
+    "direction": 162.7917023096664,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Casuarina equisetifolia": 0.28776,
+        "Tamarix aphylla": 0.02436,
+        "Casuarina glauca": 0.0139,
+        "Parkinsonia aculeata": 0.00716,
+        "Tamarix gallica": 0.00659
+      }
+    },
+    "species": {
+      "name": "Casuarina equisetifolia",
+      "authorship": "L.",
+      "genus_name": "Casuarina",
+      "family_name": "Casuarinaceae",
+      "gbif_id": "2891930",
+      "powo_id": "159856-1",
+      "iucn_id": "16728404",
+      "common_names": [
+        "Australian beefwood",
+        "Australian-pine",
+        "Beach sheoak"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Casuarina equisetifolia, commonly known as coastal she-oak, horsetail she-oak, ironwood, beach sheoak, beach casuarina or whistling tree  is a species of flowering plant in the family Casuarinaceae and is native to Australia, New Guinea, Southeast Asia and India. It is a small to medium-sized, monoecious tree with scaly or furrowed bark on older specimens, drooping branchlets, the leaves reduced to scales in whorls of 7 or 8, the fruit 10\u201324 mm (0.39\u20130.94 in) long containing winged seeds ..."
+    }
+  },
+  "Photo-2024-03-27-06-58-15": {
+    "id": "Photo-2024-03-27-06-58-15",
+    "ut": 1711502895,
+    "latlng": {
+      "lat": 6.914592,
+      "lng": 79.862236
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-06-58-15.jpg",
+    "direction": 77.92710120068611,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Terminalia arjuna": 0.54954,
+        "Eucalyptus robusta": 0.01023,
+        "Ceiba pentandra": 0.0079,
+        "Psidium guajava": 0.00602,
+        "Corymbia citriodora": 0.00541
+      }
+    },
+    "species": {
+      "name": "Terminalia arjuna",
+      "authorship": "(Roxb. ex DC.) Wight & Arn.",
+      "genus_name": "Terminalia",
+      "family_name": "Combretaceae",
+      "gbif_id": "3699548",
+      "powo_id": "170962-1",
+      "iucn_id": null,
+      "common_names": [
+        "Arjun",
+        "Kakubha",
+        "Kumbuk",
+        "Maruthu",
+        "Marutu",
+        "White murdh"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Terminalia arjuna is a tree of the genus Terminalia. It is commonly known as arjuna or arjun tree in English."
+    }
+  },
+  "Photo-2024-03-27-06-58-36": {
+    "id": "Photo-2024-03-27-06-58-36",
+    "ut": 1711502916,
+    "latlng": {
+      "lat": 6.914542,
+      "lng": 79.862297
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-06-58-36.jpg",
+    "direction": 313.0920716112532,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Terminalia arjuna": 0.367,
+        "Syzygium jambos": 0.04602,
+        "Syzygium cumini": 0.01049,
+        "Elaeocarpus angustifolius": 0.00738,
+        "Madhuca longifolia": 0.00629
+      }
+    },
+    "species": {
+      "name": "Terminalia arjuna",
+      "authorship": "(Roxb. ex DC.) Wight & Arn.",
+      "genus_name": "Terminalia",
+      "family_name": "Combretaceae",
+      "gbif_id": "3699548",
+      "powo_id": "170962-1",
+      "iucn_id": null,
+      "common_names": [
+        "Arjun",
+        "Kakubha",
+        "Kumbuk",
+        "Maruthu",
+        "Marutu",
+        "White murdh"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Terminalia arjuna is a tree of the genus Terminalia. It is commonly known as arjuna or arjun tree in English."
+    }
+  },
+  "Photo-2024-03-27-06-58-55": {
+    "id": "Photo-2024-03-27-06-58-55",
+    "ut": 1711502935,
+    "latlng": {
+      "lat": 6.914442,
+      "lng": 79.86225
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-06-58-55.jpg",
+    "direction": 291.2415770609319,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Terminalia arjuna": 0.97432
+      }
+    },
+    "species": {
+      "name": "Terminalia arjuna",
+      "authorship": "(Roxb. ex DC.) Wight & Arn.",
+      "genus_name": "Terminalia",
+      "family_name": "Combretaceae",
+      "gbif_id": "3699548",
+      "powo_id": "170962-1",
+      "iucn_id": null,
+      "common_names": [
+        "Arjun",
+        "Kakubha",
+        "Kumbuk",
+        "Maruthu",
+        "Marutu",
+        "White murdh"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Terminalia arjuna is a tree of the genus Terminalia. It is commonly known as arjuna or arjun tree in English."
+    }
+  },
+  "Photo-2024-03-27-06-59-09": {
+    "id": "Photo-2024-03-27-06-59-09",
+    "ut": 1711502949,
+    "latlng": {
+      "lat": 6.914544,
+      "lng": 79.862197
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-06-59-09.jpg",
+    "direction": 279.918487394958,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Casuarina equisetifolia": 0.75223,
+        "Casuarina glauca": 0.00448,
+        "Tamarix aphylla": 0.00397,
+        "Genista aetnensis": 0.00119
+      }
+    },
+    "species": {
+      "name": "Casuarina equisetifolia",
+      "authorship": "L.",
+      "genus_name": "Casuarina",
+      "family_name": "Casuarinaceae",
+      "gbif_id": "2891930",
+      "powo_id": "159856-1",
+      "iucn_id": "16728404",
+      "common_names": [
+        "Australian beefwood",
+        "Australian-pine",
+        "Beach sheoak"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Casuarina equisetifolia, commonly known as coastal she-oak, horsetail she-oak, ironwood, beach sheoak, beach casuarina or whistling tree  is a species of flowering plant in the family Casuarinaceae and is native to Australia, New Guinea, Southeast Asia and India. It is a small to medium-sized, monoecious tree with scaly or furrowed bark on older specimens, drooping branchlets, the leaves reduced to scales in whorls of 7 or 8, the fruit 10\u201324 mm (0.39\u20130.94 in) long containing winged seeds ..."
+    }
+  },
+  "Photo-2024-03-27-06-59-23": {
+    "id": "Photo-2024-03-27-06-59-23",
+    "ut": 1711502963,
+    "latlng": {
+      "lat": 6.914575,
+      "lng": 79.862167
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-06-59-23.jpg",
+    "direction": 241.06590257879657,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Terminalia arjuna": 0.83411,
+        "Anisoptera scaphula": 0.00441,
+        "Ficus racemosa": 0.00415,
+        "Syzygium jambos": 0.003,
+        "Lagerstroemia speciosa": 0.00198
+      }
+    },
+    "species": {
+      "name": "Terminalia arjuna",
+      "authorship": "(Roxb. ex DC.) Wight & Arn.",
+      "genus_name": "Terminalia",
+      "family_name": "Combretaceae",
+      "gbif_id": "3699548",
+      "powo_id": "170962-1",
+      "iucn_id": null,
+      "common_names": [
+        "Arjun",
+        "Kakubha",
+        "Kumbuk",
+        "Maruthu",
+        "Marutu",
+        "White murdh"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Terminalia arjuna is a tree of the genus Terminalia. It is commonly known as arjuna or arjun tree in English."
+    }
+  },
+  "Photo-2024-03-27-06-59-43": {
+    "id": "Photo-2024-03-27-06-59-43",
+    "ut": 1711502983,
+    "latlng": {
+      "lat": 6.914511,
+      "lng": 79.862092
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-06-59-43.jpg",
+    "direction": 190.7857514300572,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Ficus benghalensis": 0.6281,
+        "Ficus altissima": 0.08406,
+        "Ficus elastica": 0.06525,
+        "Ficus microcarpa": 0.01645,
+        "Ficus virens": 0.01572
+      }
+    },
+    "species": {
+      "name": "Ficus benghalensis",
+      "authorship": "L.",
+      "genus_name": "Ficus",
+      "family_name": "Moraceae",
+      "gbif_id": "5361919",
+      "powo_id": "852482-1",
+      "iucn_id": null,
+      "common_names": [
+        "Alamaram",
+        "Bengal banyan",
+        "Ficus Audrey",
+        "Indian banyan",
+        "Kottam",
+        "Mahanuga",
+        "Nakar",
+        "Nakaram",
+        "Niyaman",
+        "Nuga",
+        "Nyagrodha",
+        "Nygrodha",
+        "Sriksaka",
+        "Vata"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Ficus benghalensis, or Ficus indica commonly known as the banyan, banyan fig and Indian banyan, is a tree native to the Indian Subcontinent. Specimens in India are among the largest trees in the world by canopy coverage. It is also known as the \"strangler fig\" because it starts out as epiphyte, that is, leaning on another tree that it ends up suffocating."
+    }
+  },
+  "Photo-2024-03-27-06-59-52": {
+    "id": "Photo-2024-03-27-06-59-52",
+    "ut": 1711502992,
+    "latlng": {
+      "lat": 6.914522,
+      "lng": 79.862031
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-06-59-52.jpg",
+    "direction": 88.5078201368524,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Strychnos nux-vomica": 0.17935,
+        "Aegle marmelos": 0.04476,
+        "Strychnos potatorum": 0.03819,
+        "Guazuma ulmifolia": 0.02637,
+        "Pongamia pinnata": 0.01871
+      }
+    },
+    "species": {
+      "name": "Strychnos nux-vomica",
+      "authorship": "L.",
+      "genus_name": "Strychnos",
+      "family_name": "Loganiaceae",
+      "gbif_id": "5414399",
+      "powo_id": "547371-1",
+      "iucn_id": null,
+      "common_names": [
+        "Nux-vomica",
+        "Nux-vomica-tree",
+        "Strychninetree"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Strychnos nux-vomica, the strychnine tree, also known as nux vomica, poison fruit, semen strychnos, and quaker buttons, is a deciduous tree native to India and to southeast Asia. It is a medium-sized tree in the family Loganiaceae that grows in open habitats. Its leaves are ovate and 5\u20139 centimetres (2\u20133.5 in) in size. It is known for being the natural source of the extremely poisonous compound strychnine."
+    }
+  },
+  "Photo-2024-03-27-07-00-00": {
+    "id": "Photo-2024-03-27-07-00-00",
+    "ut": 1711503000,
+    "latlng": {
+      "lat": 6.914528,
+      "lng": 79.861978
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-00-00.jpg",
+    "direction": 88.24031067363887,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Aegle marmelos": 0.08801,
+        "Hopea odorata": 0.02504,
+        "Cinnamomum camphora": 0.02414,
+        "Shorea roxburghii": 0.01628,
+        "Phytolacca dioica": 0.01469
+      }
+    },
+    "species": {
+      "name": "Aegle marmelos",
+      "authorship": "(L.) Corr\u00eaa",
+      "genus_name": "Aegle",
+      "family_name": "Rutaceae",
+      "gbif_id": "5421195",
+      "powo_id": "770819-1",
+      "iucn_id": "156233789",
+      "common_names": [
+        "Adhararuha",
+        "Beli",
+        "Bila",
+        "Indian bael",
+        "Kuvilam",
+        "Shreephal",
+        "Sivadrumah",
+        "Tripatre",
+        "Vilvam",
+        "\u0c2e\u0c3e\u0c30\u0c47\u0c21\u0c41"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Aegle marmelos, commonly known as bael (or bili or bhel), also Bengal quince, golden apple, Japanese bitter orange, stone apple or wood apple, is a species of tree native to the Indian subcontinent and Southeast Asia. It is present in India, Pakistan, Bangladesh, Sri Lanka, and Nepal as a naturalized species. The tree is considered to be sacred by Hindus and Buddhists."
+    }
+  },
+  "Photo-2024-03-27-07-00-13": {
+    "id": "Photo-2024-03-27-07-00-13",
+    "ut": 1711503013,
+    "latlng": {
+      "lat": 6.914547,
+      "lng": 79.861969
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-00-13.jpg",
+    "direction": 64.46379093198992,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Hopea odorata": 0.10227,
+        "Toona ciliata": 0.0174,
+        "Eucalyptus robusta": 0.00924,
+        "Copaifera langsdorffii": 0.00726,
+        "Schotia brachypetala": 0.00668
+      }
+    },
+    "species": {
+      "name": "Hopea odorata",
+      "authorship": "Roxb.",
+      "genus_name": "Hopea",
+      "family_name": "Dipterocarpaceae",
+      "gbif_id": "5669231",
+      "powo_id": "320965-1",
+      "iucn_id": "32305",
+      "common_names": [
+        "Chengal Pasir, Merawan Siput Jantan"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Hopea odorata is a species of plant in the family Dipterocarpaceae. It is found in Bangladesh, Cambodia, India, Laos, Malaysia, Myanmar, Thailand, and Vietnam, Singapore. It is a large tree reaching up to 45 m (150 ft) in height with the base of the trunk reaching a diameter of 4.5 m (15 ft). It grows in forests, preferably near rivers, at elevations to 600 m (2,000 ft). In places such as West Bengal and the Andaman Islands it is often planted as a shade tree. Valued for its wood, it is a ..."
+    }
+  },
+  "Photo-2024-03-27-07-00-23": {
+    "id": "Photo-2024-03-27-07-00-23",
+    "ut": 1711503023,
+    "latlng": {
+      "lat": 6.914542,
+      "lng": 79.861953
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-00-23.jpg",
+    "direction": 32.539436311994756,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Pongamia pinnata": 0.23127,
+        "Aegle marmelos": 0.01429,
+        "Ficus racemosa": 0.00727,
+        "Morus nigra": 0.00613,
+        "Hymenaea courbaril": 0.00595
+      }
+    },
+    "species": {
+      "name": "Pongamia pinnata",
+      "authorship": "(L.) Pierre",
+      "genus_name": "Pongamia",
+      "family_name": "Fabaceae",
+      "gbif_id": "2965911",
+      "powo_id": "515679-1",
+      "iucn_id": "168724",
+      "common_names": [
+        "Indian Beech",
+        "Karanda",
+        "Karanj",
+        "Kolliyam",
+        "Naktamaala",
+        "Pomka",
+        "Pongam",
+        "Punku"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Pongamia pinnata is a species of tree in the pea family, Fabaceae, native to eastern and tropical Asia, Australia, and the Pacific islands. It is the sole species in genus Pongamia. It is often known by the synonym Millettia pinnata. Its common names include Indian beech and Pongame oiltree."
+    }
+  },
+  "Photo-2024-03-27-07-00-30": {
+    "id": "Photo-2024-03-27-07-00-30",
+    "ut": 1711503030,
+    "latlng": {
+      "lat": 6.91455,
+      "lng": 79.861939
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-00-30.jpg",
+    "direction": 116.7221451687471,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Litsea monopetala": 0.06332,
+        "Aegle marmelos": 0.03712,
+        "Persea americana": 0.03329,
+        "Elaeocarpus serratus": 0.01772,
+        "Hopea odorata": 0.01552
+      }
+    },
+    "species": {
+      "name": "Litsea monopetala",
+      "authorship": "(Roxb.) Pers.",
+      "genus_name": "Litsea",
+      "family_name": "Lauraceae",
+      "gbif_id": "4182444",
+      "powo_id": "465855-1",
+      "iucn_id": "150218025",
+      "common_names": []
+    },
+    "wiki_page": {
+      "summary_short": "Litsea monopetala is a plant in the family Lauraceae, native to China and tropical Asia. In Nepal, it is found in the regions from the Terai to 1450 m, in Shorea robusta forest and tropical evergreen forest. In India it is found in Assam, Odisha, Eastern Himalayas, Maharashtra (Pune, Sindhudurg) and Tamil Nadu (Coimbatore).It grows up to a height of 18 meters with a diameter of 60 cm. The density of the wood at 15% moisture is 540 kg/cbm."
+    }
+  },
+  "Photo-2024-03-27-07-00-40": {
+    "id": "Photo-2024-03-27-07-00-40",
+    "ut": 1711503040,
+    "latlng": {
+      "lat": 6.914536,
+      "lng": 79.8619
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-00-40.jpg",
+    "direction": 92.54840848806366,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Pongamia pinnata": 0.23133,
+        "Aegle marmelos": 0.06025,
+        "Pterocarpus macrocarpus": 0.00946,
+        "Radermachera sinica": 0.00863,
+        "Strychnos nux-vomica": 0.00576
+      }
+    },
+    "species": {
+      "name": "Pongamia pinnata",
+      "authorship": "(L.) Pierre",
+      "genus_name": "Pongamia",
+      "family_name": "Fabaceae",
+      "gbif_id": "2965911",
+      "powo_id": "515679-1",
+      "iucn_id": "168724",
+      "common_names": [
+        "Indian Beech",
+        "Karanda",
+        "Karanj",
+        "Kolliyam",
+        "Naktamaala",
+        "Pomka",
+        "Pongam",
+        "Punku"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Pongamia pinnata is a species of tree in the pea family, Fabaceae, native to eastern and tropical Asia, Australia, and the Pacific islands. It is the sole species in genus Pongamia. It is often known by the synonym Millettia pinnata. Its common names include Indian beech and Pongame oiltree."
+    }
+  },
+  "Photo-2024-03-27-07-01-09": {
+    "id": "Photo-2024-03-27-07-01-09",
+    "ut": 1711503069,
+    "latlng": {
+      "lat": 6.914367,
+      "lng": 79.861886
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-01-09.jpg",
+    "direction": 311.6326599326599,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Lagerstroemia speciosa": 0.42888,
+        "Holarrhena pubescens": 0.03158,
+        "Ficus virens": 0.01189,
+        "Citharexylum spinosum": 0.0087,
+        "Nephelium lappaceum": 0.00856
+      }
+    },
+    "species": {
+      "name": "Lagerstroemia speciosa",
+      "authorship": "(L.) Pers.",
+      "genus_name": "Lagerstroemia",
+      "family_name": "Lythraceae",
+      "gbif_id": "3188724",
+      "powo_id": "553618-1",
+      "iucn_id": "61780249",
+      "common_names": [
+        "Pride-of-India",
+        "Queen's crape-myrtle",
+        "Queen's-flower"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Lagerstroemia speciosa (giant crepe-myrtle, Queen's crepe-myrtle, banab\u00e1 plant, or pride of India, or \"Queen's Flower\" or \"Jarul\") is a species of Lagerstroemia native to tropical southern Asia. It is a deciduous tree with bright pink to light purple flowers.The name \"Queen's Flower\" is derived from the specific epithet 'reginae' or 'flosreginae', which means \"imperial or flower of the queen\". The tree bears beautiful attractive flowers in profusion in purple, lilac or pinkish-violet colours, ..."
+    }
+  },
+  "Photo-2024-03-27-07-06-10": {
+    "id": "Photo-2024-03-27-07-06-10",
+    "ut": 1711503370,
+    "latlng": {
+      "lat": 6.912033,
+      "lng": 79.861825
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-06-10.jpg",
+    "direction": 130.76550286607608,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Terminalia catappa": 0.02652,
+        "Aegle marmelos": 0.01404,
+        "Heynea trijuga": 0.00719,
+        "Spathodea campanulata": 0.00564,
+        "Radermachera xylocarpa": 0.00499
+      }
+    },
+    "species": {
+      "name": "Terminalia catappa",
+      "authorship": "L.",
+      "genus_name": "Terminalia",
+      "family_name": "Combretaceae",
+      "gbif_id": "3189394",
+      "powo_id": "171034-1",
+      "iucn_id": "61989853",
+      "common_names": [
+        "Country-almond",
+        "Indian-almond",
+        "Kottamba",
+        "Kottan",
+        "Nattu Vadam",
+        "Nattuvadumai",
+        "Tailaphala",
+        "Tropical almond"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Terminalia catappa is a large tropical tree in the leadwood tree family, Combretaceae, native to Asia, Australia, the Pacific, Madagascar and Seychelles. Common names in English include country almond, Indian almond, Malabar almond, sea almond, tropical almond, beach almond and false kamani."
+    }
+  },
+  "Photo-2024-03-27-07-06-16": {
+    "id": "Photo-2024-03-27-07-06-16",
+    "ut": 1711503376,
+    "latlng": {
+      "lat": 6.912042,
+      "lng": 79.861886
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-06-16.jpg",
+    "direction": 129.50448613376835,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Schleichera oleosa": 0.48671,
+        "Khaya senegalensis": 0.02589,
+        "Anacardium occidentale": 0.01754,
+        "Swietenia macrophylla": 0.01618,
+        "Sandoricum koetjape": 0.01253
+      }
+    },
+    "species": {
+      "name": "Schleichera oleosa",
+      "authorship": "(Lour.) Oken",
+      "genus_name": "Schleichera",
+      "family_name": "Sapindaceae",
+      "gbif_id": "3189945",
+      "powo_id": "784721-1",
+      "iucn_id": "145823995",
+      "common_names": [
+        "Ko N Kone",
+        "Koon",
+        "Lactree",
+        "Macassar oiltree",
+        "Malay lactree",
+        "Modakapulasu Telegu",
+        "Mukulakah",
+        "Pumarata",
+        "Puvatti Puvam",
+        "Rakthamrah"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Schleichera is a monotypic genus of plants in the soapberry family, Sapindaceae. There is only one species, Schleichera oleosa, a tree that occurs in the Indian Subcontinent and Southeast Asia."
+    }
+  },
+  "Photo-2024-03-27-07-06-29": {
+    "id": "Photo-2024-03-27-07-06-29",
+    "ut": 1711503389,
+    "latlng": {
+      "lat": 6.912106,
+      "lng": 79.861908
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-06-29.jpg",
+    "direction": 347.81005859375,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Saraca indica": 0.78731,
+        "Saraca asoca": 0.04985,
+        "Brownea grandiceps": 0.01199,
+        "Amherstia nobilis": 0.00153,
+        "Toona ciliata": 0.0011
+      }
+    },
+    "species": {
+      "name": "Saraca indica",
+      "authorship": "L.",
+      "genus_name": "Saraca",
+      "family_name": "Fabaceae",
+      "gbif_id": "5359538",
+      "powo_id": "517899-1",
+      "iucn_id": "170270761",
+      "common_names": [
+        "Asoka Pattai",
+        "Asoka-tree",
+        "Diya Ratmal",
+        "Jonesia Asoka",
+        "\u0c05\u0c36\u0c4b\u0c15"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Saraca indica, commonly known as the asoka tree, ashok or simply asoca, is a plant belonging to the subfamily Detarioideae of the family Fabaceae. The original plant specimen from which Carl Linnaeus described the species came from Java, but the name S. indica has been generally incorrectly applied to S. asoca since 1869. It can be distinguished from S. asoca by its non-clasping bracteoles, a lower number of ovules, slightly smaller pods, and a more eastern geographic distribution.The seeds are ..."
+    }
+  },
+  "Photo-2024-03-27-07-06-44": {
+    "id": "Photo-2024-03-27-07-06-44",
+    "ut": 1711503404,
+    "latlng": {
+      "lat": 6.912178,
+      "lng": 79.861953
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-06-44.jpg",
+    "direction": 214.91023255813954,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Samanea saman": 0.08424,
+        "Adenanthera pavonina": 0.03243,
+        "Styphnolobium japonicum": 0.02591,
+        "Khaya senegalensis": 0.02473,
+        "Senna spectabilis": 0.016
+      }
+    },
+    "species": {
+      "name": "Samanea saman",
+      "authorship": "(Jacq.) Merr.",
+      "genus_name": "Samanea",
+      "family_name": "Fabaceae",
+      "gbif_id": "2972960",
+      "powo_id": "227126-2",
+      "iucn_id": "144255307",
+      "common_names": [
+        "Amaivagai",
+        "Cow-tamarind",
+        "Mara Tree",
+        "Monkeypod",
+        "Name",
+        "Name Enakvakai",
+        "Name Maara Tree",
+        "Pare Mara",
+        "Pini Maara",
+        "Raintree",
+        "Thoongumoonji Maram"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Samanea saman is a species of flowering tree in the pea family, Fabaceae, now in the Mimosoid clade and is native to Central and South America. It is often placed in the genus Samanea, which by yet other authors is subsumed in Albizia entirely.\nIts range extends from Mexico south to Peru and Brazil, but it has been widely introduced to South and Southeast Asia, as well as the Pacific Islands, including Hawaii. It is a well-known tree, rivaled perhaps only by lebbeck and pink siris among its ..."
+    }
+  },
+  "Photo-2024-03-27-07-07-09": {
+    "id": "Photo-2024-03-27-07-07-09",
+    "ut": 1711503429,
+    "latlng": {
+      "lat": 6.912294,
+      "lng": 79.862031
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-07-09.jpg",
+    "direction": 271.0997314921365,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Tipuana tipu": 0.08494,
+        "Guazuma ulmifolia": 0.07061,
+        "Pterocarpus indicus": 0.04459,
+        "Cedrela odorata": 0.03355,
+        "Phyllanthus acidus": 0.01059
+      }
+    },
+    "species": {
+      "name": "Tipuana tipu",
+      "authorship": "(Benth.) Kuntze",
+      "genus_name": "Tipuana",
+      "family_name": "Fabaceae",
+      "gbif_id": "5352512",
+      "powo_id": "254607-2",
+      "iucn_id": "62028299",
+      "common_names": [
+        "Rosewood",
+        "Tipu",
+        "Tiputree"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Tipuana tipu, also known as tipa, rosewood and pride of Bolivia, is a South American tree."
+    }
+  },
+  "Photo-2024-03-27-07-07-24": {
+    "id": "Photo-2024-03-27-07-07-24",
+    "ut": 1711503444,
+    "latlng": {
+      "lat": 6.912339,
+      "lng": 79.8621
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-07-24.jpg",
+    "direction": 224.81515499425947,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Mangifera indica": 0.61924,
+        "Toona ciliata": 0.00454,
+        "Dimocarpus longan": 0.00397,
+        "Chionanthus ramiflorus": 0.00263,
+        "Mangifera zeylanica": 0.00228
+      }
+    },
+    "species": {
+      "name": "Mangifera indica",
+      "authorship": "L.",
+      "genus_name": "Mangifera",
+      "family_name": "Anacardiaceae",
+      "gbif_id": "3190638",
+      "powo_id": "69913-1",
+      "iucn_id": "31389",
+      "common_names": [
+        "Amba",
+        "Amiram",
+        "Amra",
+        "Ma",
+        "Mamaram",
+        "Mangai",
+        "Mango",
+        "Mango Tree",
+        "Mee Amba",
+        "Sahakara",
+        "\u0906\u092e"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Mangifera indica, commonly known as mango, is a species of flowering plant in the family Anacardiaceae. It is a large fruit tree, capable of growing to a height of 30 metres (100 feet). There are two distinct genetic populations in modern mangoes \u2013 the \"Indian type\" and the \"Southeast Asian type\"."
+    }
+  },
+  "Photo-2024-03-27-07-07-35": {
+    "id": "Photo-2024-03-27-07-07-35",
+    "ut": 1711503455,
+    "latlng": {
+      "lat": 6.912269,
+      "lng": 79.862053
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-07-35.jpg",
+    "direction": 231.15730285292898,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Mangifera indica": 0.57054,
+        "Persea americana": 0.00944,
+        "Mimusops elengi": 0.00751,
+        "Dimocarpus longan": 0.00634,
+        "Quercus acutissima": 0.00389
+      }
+    },
+    "species": {
+      "name": "Mangifera indica",
+      "authorship": "L.",
+      "genus_name": "Mangifera",
+      "family_name": "Anacardiaceae",
+      "gbif_id": "3190638",
+      "powo_id": "69913-1",
+      "iucn_id": "31389",
+      "common_names": [
+        "Amba",
+        "Amiram",
+        "Amra",
+        "Ma",
+        "Mamaram",
+        "Mangai",
+        "Mango",
+        "Mango Tree",
+        "Mee Amba",
+        "Sahakara",
+        "\u0906\u092e"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Mangifera indica, commonly known as mango, is a species of flowering plant in the family Anacardiaceae. It is a large fruit tree, capable of growing to a height of 30 metres (100 feet). There are two distinct genetic populations in modern mangoes \u2013 the \"Indian type\" and the \"Southeast Asian type\"."
+    }
+  },
+  "Photo-2024-03-27-07-08-09": {
+    "id": "Photo-2024-03-27-07-08-09",
+    "ut": 1711503489,
+    "latlng": {
+      "lat": 6.912039,
+      "lng": 79.861947
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-08-09.jpg",
+    "direction": 19.921802518223988,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Tectona grandis": 0.6197,
+        "Dillenia pentagyna": 0.02264,
+        "Terminalia catappa": 0.01786,
+        "Kleinhovia hospita": 0.00461,
+        "Markhamia stipulata": 0.00422
+      }
+    },
+    "species": {
+      "name": "Tectona grandis",
+      "authorship": "L.f.",
+      "genus_name": "Tectona",
+      "family_name": "Lamiaceae",
+      "gbif_id": "2925649",
+      "powo_id": "864923-1",
+      "iucn_id": "62019830",
+      "common_names": [
+        "Bankok teak",
+        "Bardaru",
+        "Bhumisah",
+        "Dwardaru",
+        "Indian-oak",
+        "Kharchchada",
+        "Kolaphala",
+        "Saaka",
+        "Sabarasaara",
+        "Teak",
+        "The Kka Signify Long Sound",
+        "Thekku"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Teak (Tectona grandis) is a tropical hardwood tree species in the family Lamiaceae. It is a large, deciduous tree that occurs in mixed hardwood forests. Tectona grandis has small, fragrant white flowers arranged in dense clusters (panicles) at the end of the branches. These flowers contain both types of reproductive organs (perfect flowers). The large, papery leaves of teak trees are often hairy on the lower surface. Teak wood has a leather-like smell when it is freshly milled and is ..."
+    }
+  },
+  "Photo-2024-03-27-07-08-32": {
+    "id": "Photo-2024-03-27-07-08-32",
+    "ut": 1711503512,
+    "latlng": {
+      "lat": 6.912086,
+      "lng": 79.861969
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-08-32.jpg",
+    "direction": 275.47402952433026,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Filicium decipiens": 0.94874,
+        "Peltophorum dubium": 0.00241
+      }
+    },
+    "species": {
+      "name": "Filicium decipiens",
+      "authorship": "(Wight & Arn.) Thwaites",
+      "genus_name": "Filicium",
+      "family_name": "Sapindaceae",
+      "gbif_id": "3189977",
+      "powo_id": "128045-1",
+      "iucn_id": "165432282",
+      "common_names": [
+        "Ferntree"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Filicium decipiens, called the ferntree, fern tree or fern leaf tree, is a species of Filicium found in east Africa, Madagascar, India and Sri Lanka. It is planted as an ornamental tree in the Indian subcontinent, Indonesia, Hawaii, and elsewhere."
+    }
+  },
+  "Photo-2024-03-27-07-08-54": {
+    "id": "Photo-2024-03-27-07-08-54",
+    "ut": 1711503534,
+    "latlng": {
+      "lat": 6.912164,
+      "lng": 79.862008
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-08-54.jpg",
+    "direction": 162.75056461731492,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Brownea grandiceps": 0.68471,
+        "Brownea rosa-de-monte": 0.01767,
+        "Saraca indica": 0.00675,
+        "Calliandra haematocephala": 0.00422
+      }
+    },
+    "species": {
+      "name": "Brownea grandiceps",
+      "authorship": "Jacq.",
+      "genus_name": "Brownea",
+      "family_name": "Fabaceae",
+      "gbif_id": "2970463",
+      "powo_id": "482418-1",
+      "iucn_id": "144259964",
+      "common_names": [
+        "Rose of Venezuela",
+        "Rose-of-Venezuela",
+        "Scarlet Flame Bean"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Brownea grandiceps is a species of tree in the family Fabaceae. Its common names include the rose of Venezuela and the scarlet flame bean. It originated in South America but is now widely grown as a decorative tree in tropical gardens."
+    }
+  },
+  "Photo-2024-03-27-07-09-20": {
+    "id": "Photo-2024-03-27-07-09-20",
+    "ut": 1711503560,
+    "latlng": {
+      "lat": 6.912267,
+      "lng": 79.8621
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-09-20.jpg",
+    "direction": 193.429931640625,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Brownea grandiceps": 0.44447,
+        "Mesua ferrea": 0.02006,
+        "Saraca indica": 0.00963,
+        "Amherstia nobilis": 0.00949,
+        "Artabotrys hexapetalus": 0.00753
+      }
+    },
+    "species": {
+      "name": "Brownea grandiceps",
+      "authorship": "Jacq.",
+      "genus_name": "Brownea",
+      "family_name": "Fabaceae",
+      "gbif_id": "2970463",
+      "powo_id": "482418-1",
+      "iucn_id": "144259964",
+      "common_names": [
+        "Rose of Venezuela",
+        "Rose-of-Venezuela",
+        "Scarlet Flame Bean"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Brownea grandiceps is a species of tree in the family Fabaceae. Its common names include the rose of Venezuela and the scarlet flame bean. It originated in South America but is now widely grown as a decorative tree in tropical gardens."
+    }
+  },
+  "Photo-2024-03-27-07-09-31": {
+    "id": "Photo-2024-03-27-07-09-31",
+    "ut": 1711503571,
+    "latlng": {
+      "lat": 6.912267,
+      "lng": 79.862167
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-09-31.jpg",
+    "direction": 303.68228162028106,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Swietenia mahagoni": 0.10151,
+        "Pterocarpus indicus": 0.04597,
+        "Cedrela odorata": 0.02229,
+        "Swietenia macrophylla": 0.01077,
+        "Luehea candida": 0.0107
+      }
+    },
+    "species": {
+      "name": "Swietenia mahagoni",
+      "authorship": "(L.) Jacq.",
+      "genus_name": "Swietenia",
+      "family_name": "Meliaceae",
+      "gbif_id": "3190485",
+      "powo_id": "1080203-2",
+      "iucn_id": "32519",
+      "common_names": [
+        "Cuban mahogany",
+        "Spanish mahogany",
+        "West Indian mahogany"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Swietenia mahagoni, commonly known as American mahogany, Cuban mahogany, small-leaved mahogany, and West Indian mahogany, is a species of Swietenia native to the broader Caribbean bioregion. It is the species from which the original mahogany wood was produced. Mahogany is grown as a plantation tree and sold in timber markets in Kerala, India. Swietenia mahagoni is listed as \"Threatened\" in the Preservation of Native Flora of Florida Act. It is the national tree of the Dominican Republic."
+    }
+  },
+  "Photo-2024-03-27-07-09-51": {
+    "id": "Photo-2024-03-27-07-09-51",
+    "ut": 1711503591,
+    "latlng": {
+      "lat": 6.912133,
+      "lng": 79.862075
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-09-51.jpg",
+    "direction": 45.31120299578718,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Mangifera indica": 0.11338,
+        "Acacia auriculiformis": 0.02879,
+        "Quercus acutissima": 0.01622,
+        "Cerbera manghas": 0.00939,
+        "Acacia mangium": 0.00649
+      }
+    },
+    "species": {
+      "name": "Mangifera indica",
+      "authorship": "L.",
+      "genus_name": "Mangifera",
+      "family_name": "Anacardiaceae",
+      "gbif_id": "3190638",
+      "powo_id": "69913-1",
+      "iucn_id": "31389",
+      "common_names": [
+        "Amba",
+        "Amiram",
+        "Amra",
+        "Ma",
+        "Mamaram",
+        "Mangai",
+        "Mango",
+        "Mango Tree",
+        "Mee Amba",
+        "Sahakara",
+        "\u0906\u092e"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Mangifera indica, commonly known as mango, is a species of flowering plant in the family Anacardiaceae. It is a large fruit tree, capable of growing to a height of 30 metres (100 feet). There are two distinct genetic populations in modern mangoes \u2013 the \"Indian type\" and the \"Southeast Asian type\"."
+    }
+  },
+  "Photo-2024-03-27-07-10-06": {
+    "id": "Photo-2024-03-27-07-10-06",
+    "ut": 1711503606,
+    "latlng": {
+      "lat": 6.912086,
+      "lng": 79.862053
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-10-06.jpg",
+    "direction": 191.71792618629175,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Mangifera indica": 0.51317,
+        "Cerbera manghas": 0.01977,
+        "Quercus acutissima": 0.01446,
+        "Acacia auriculiformis": 0.01203,
+        "Cocculus laurifolius": 0.0106
+      }
+    },
+    "species": {
+      "name": "Mangifera indica",
+      "authorship": "L.",
+      "genus_name": "Mangifera",
+      "family_name": "Anacardiaceae",
+      "gbif_id": "3190638",
+      "powo_id": "69913-1",
+      "iucn_id": "31389",
+      "common_names": [
+        "Amba",
+        "Amiram",
+        "Amra",
+        "Ma",
+        "Mamaram",
+        "Mangai",
+        "Mango",
+        "Mango Tree",
+        "Mee Amba",
+        "Sahakara",
+        "\u0906\u092e"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Mangifera indica, commonly known as mango, is a species of flowering plant in the family Anacardiaceae. It is a large fruit tree, capable of growing to a height of 30 metres (100 feet). There are two distinct genetic populations in modern mangoes \u2013 the \"Indian type\" and the \"Southeast Asian type\"."
+    }
+  },
+  "Photo-2024-03-27-07-10-21": {
+    "id": "Photo-2024-03-27-07-10-21",
+    "ut": 1711503621,
+    "latlng": {
+      "lat": 6.911967,
+      "lng": 79.862039
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-10-21.jpg",
+    "direction": 93.37660203746303,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Pterocarpus indicus": 0.22768,
+        "Bischofia javanica": 0.05169,
+        "Strychnos nux-vomica": 0.03864,
+        "Pongamia pinnata": 0.00969,
+        "Dalbergia latifolia": 0.00878
+      }
+    },
+    "species": {
+      "name": "Pterocarpus indicus",
+      "authorship": "Willd.",
+      "genus_name": "Pterocarpus",
+      "family_name": "Fabaceae",
+      "gbif_id": "5349242",
+      "powo_id": "516487-1",
+      "iucn_id": "33241",
+      "common_names": [
+        "Amboyna-wood",
+        "Malay padauk",
+        "Papua New Guinea rosewood"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Pterocarpus indicus (commonly known as Amboyna wood, Malay padauk, Papua New Guinea rosewood, Philippine mahogany, Andaman redwood, Burmese rosewood, narra (from Tagalog) and asana in the Philippines, angsana, or Pashu padauk) is a species of Pterocarpus native to southeastern Asia, northern Australasia, and the western Pacific Ocean islands, in Cambodia, southernmost China, East Timor, Indonesia, Malaysia, Papua New Guinea, the Philippines, the Ryukyu Islands, the Solomon Islands, Thailand, ..."
+    }
+  },
+  "Photo-2024-03-27-07-10-33": {
+    "id": "Photo-2024-03-27-07-10-33",
+    "ut": 1711503633,
+    "latlng": {
+      "lat": 6.911994,
+      "lng": 79.862083
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-10-33.jpg",
+    "direction": 312.7517699115044,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Mangifera indica": 0.79136,
+        "Cerbera manghas": 0.01113,
+        "Monoon longifolium": 0.00313,
+        "Cerbera odollam": 0.00302,
+        "Madhuca longifolia": 0.00295
+      }
+    },
+    "species": {
+      "name": "Mangifera indica",
+      "authorship": "L.",
+      "genus_name": "Mangifera",
+      "family_name": "Anacardiaceae",
+      "gbif_id": "3190638",
+      "powo_id": "69913-1",
+      "iucn_id": "31389",
+      "common_names": [
+        "Amba",
+        "Amiram",
+        "Amra",
+        "Ma",
+        "Mamaram",
+        "Mangai",
+        "Mango",
+        "Mango Tree",
+        "Mee Amba",
+        "Sahakara",
+        "\u0906\u092e"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Mangifera indica, commonly known as mango, is a species of flowering plant in the family Anacardiaceae. It is a large fruit tree, capable of growing to a height of 30 metres (100 feet). There are two distinct genetic populations in modern mangoes \u2013 the \"Indian type\" and the \"Southeast Asian type\"."
+    }
+  },
+  "Photo-2024-03-27-07-11-09": {
+    "id": "Photo-2024-03-27-07-11-09",
+    "ut": 1711503669,
+    "latlng": {
+      "lat": 6.912061,
+      "lng": 79.862114
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-11-09.jpg",
+    "direction": 262.38177486599164,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Dillenia indica": 0.06041,
+        "Rhaphiolepis bibas": 0.02896,
+        "Diospyros chloroxylon": 0.00488,
+        "Ficus callosa": 0.00434,
+        "Couroupita guianensis": 0.00424
+      }
+    },
+    "species": {
+      "name": "Dillenia indica",
+      "authorship": "L.",
+      "genus_name": "Dillenia",
+      "family_name": "Dilleniaceae",
+      "gbif_id": "5383898",
+      "powo_id": "316684-1",
+      "iucn_id": "61994577",
+      "common_names": [
+        "Chalta",
+        "Dillenia",
+        "Elephant-apple"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Dillenia indica, commonly known as elephant apple:\u200a171\u200a or ou tenga, is a species of Dillenia native to China, India, and tropical Asia. It is found in stony river banks.:\u200a171\u200aThis species was one of the many first described by Linnaeus in the 10th edition of his Systema Naturae in 1759."
+    }
+  },
+  "Photo-2024-03-27-07-11-18": {
+    "id": "Photo-2024-03-27-07-11-18",
+    "ut": 1711503678,
+    "latlng": {
+      "lat": 6.912111,
+      "lng": 79.862092
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-11-18.jpg",
+    "direction": 138.13394160583942,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Mangifera indica": 0.17235,
+        "Syzygium jambos": 0.01071,
+        "Cerbera manghas": 0.00894,
+        "Mangifera zeylanica": 0.00644,
+        "Podocarpus neriifolius": 0.00624
+      }
+    },
+    "species": {
+      "name": "Mangifera indica",
+      "authorship": "L.",
+      "genus_name": "Mangifera",
+      "family_name": "Anacardiaceae",
+      "gbif_id": "3190638",
+      "powo_id": "69913-1",
+      "iucn_id": "31389",
+      "common_names": [
+        "Amba",
+        "Amiram",
+        "Amra",
+        "Ma",
+        "Mamaram",
+        "Mangai",
+        "Mango",
+        "Mango Tree",
+        "Mee Amba",
+        "Sahakara",
+        "\u0906\u092e"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Mangifera indica, commonly known as mango, is a species of flowering plant in the family Anacardiaceae. It is a large fruit tree, capable of growing to a height of 30 metres (100 feet). There are two distinct genetic populations in modern mangoes \u2013 the \"Indian type\" and the \"Southeast Asian type\"."
+    }
+  },
+  "Photo-2024-03-27-07-12-06": {
+    "id": "Photo-2024-03-27-07-12-06",
+    "ut": 1711503726,
+    "latlng": {
+      "lat": 6.912006,
+      "lng": 79.8621
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-12-06.jpg",
+    "direction": 238.03233364573572,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Mangifera indica": 0.02283,
+        "Ceiba pentandra": 0.01086,
+        "Elaeocarpus angustifolius": 0.00754,
+        "Rhizophora apiculata": 0.00696,
+        "Diospyros blancoi": 0.00485
+      }
+    },
+    "species": {
+      "name": "Mangifera indica",
+      "authorship": "L.",
+      "genus_name": "Mangifera",
+      "family_name": "Anacardiaceae",
+      "gbif_id": "3190638",
+      "powo_id": "69913-1",
+      "iucn_id": "31389",
+      "common_names": [
+        "Amba",
+        "Amiram",
+        "Amra",
+        "Ma",
+        "Mamaram",
+        "Mangai",
+        "Mango",
+        "Mango Tree",
+        "Mee Amba",
+        "Sahakara",
+        "\u0906\u092e"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Mangifera indica, commonly known as mango, is a species of flowering plant in the family Anacardiaceae. It is a large fruit tree, capable of growing to a height of 30 metres (100 feet). There are two distinct genetic populations in modern mangoes \u2013 the \"Indian type\" and the \"Southeast Asian type\"."
+    }
+  },
+  "Photo-2024-03-27-07-12-30": {
+    "id": "Photo-2024-03-27-07-12-30",
+    "ut": 1711503750,
+    "latlng": {
+      "lat": 6.912047,
+      "lng": 79.862189
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-12-30.jpg",
+    "direction": 215.37316885119506,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Pongamia pinnata": 0.07733,
+        "Ficus benghalensis": 0.05105,
+        "Ceratonia siliqua": 0.03999,
+        "Swietenia macrophylla": 0.035,
+        "Cinnamomum verum": 0.02603
+      }
+    },
+    "species": {
+      "name": "Pongamia pinnata",
+      "authorship": "(L.) Pierre",
+      "genus_name": "Pongamia",
+      "family_name": "Fabaceae",
+      "gbif_id": "2965911",
+      "powo_id": "515679-1",
+      "iucn_id": "168724",
+      "common_names": [
+        "Indian Beech",
+        "Karanda",
+        "Karanj",
+        "Kolliyam",
+        "Naktamaala",
+        "Pomka",
+        "Pongam",
+        "Punku"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Pongamia pinnata is a species of tree in the pea family, Fabaceae, native to eastern and tropical Asia, Australia, and the Pacific islands. It is the sole species in genus Pongamia. It is often known by the synonym Millettia pinnata. Its common names include Indian beech and Pongame oiltree."
+    }
+  },
+  "Photo-2024-03-27-07-12-40": {
+    "id": "Photo-2024-03-27-07-12-40",
+    "ut": 1711503760,
+    "latlng": {
+      "lat": 6.912003,
+      "lng": 79.862219
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-12-40.jpg",
+    "direction": 185.2645264847512,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Toona ciliata": 0.014,
+        "Fraxinus angustifolia": 0.00818,
+        "Hopea odorata": 0.00698,
+        "Gleditsia triacanthos": 0.00444,
+        "Diospyros buxifolia": 0.00407
+      }
+    },
+    "species": {
+      "name": "Toona ciliata",
+      "authorship": "M.Roem.",
+      "genus_name": "Toona",
+      "family_name": "Meliaceae",
+      "gbif_id": "3190472",
+      "powo_id": "579299-1",
+      "iucn_id": "31332",
+      "common_names": [
+        "Australian red-cedar",
+        "Australian redcedar",
+        "Red Cedar"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Toona ciliata is a forest tree in the mahogany family which grows throughout South Asia from Afghanistan to Papua New Guinea and Australia."
+    }
+  },
+  "Photo-2024-03-27-07-12-49": {
+    "id": "Photo-2024-03-27-07-12-49",
+    "ut": 1711503769,
+    "latlng": {
+      "lat": 6.912019,
+      "lng": 79.862281
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-12-49.jpg",
+    "direction": 232.79106145251396,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Madhuca longifolia": 0.03911,
+        "Dillenia indica": 0.02934,
+        "Terminalia arjuna": 0.02875,
+        "Cerbera manghas": 0.01511,
+        "Cerbera odollam": 0.00519
+      }
+    },
+    "species": {
+      "name": "Madhuca longifolia",
+      "authorship": "(J.Koenig ex L.) J.F.Macbr.",
+      "genus_name": "Madhuca",
+      "family_name": "Sapotaceae",
+      "gbif_id": "2883346",
+      "powo_id": "787505-1",
+      "iucn_id": null,
+      "common_names": [
+        "Mahua",
+        "Moatree",
+        "Mowra-buttertree"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Madhuca longifolia is an Indian tropical tree found largely in the central, southern, north Indian plains and forests, Nepal, Myanmar and Sri Lanka. It is commonly known as madh\u016bka, madkam, mahuwa, Butter Tree, mahua, mahwa, mohulo, Iluppai , Mee or vippa chettu. It is a fast-growing tree that grows to approximately 20 meters in height, possesses evergreen or semi-evergreen foliage, and belongs to the family Sapotaceae. It is adaptable to arid environments, being a prominent tree in tropical ..."
+    }
+  },
+  "Photo-2024-03-27-07-12-59": {
+    "id": "Photo-2024-03-27-07-12-59",
+    "ut": 1711503779,
+    "latlng": {
+      "lat": 6.912061,
+      "lng": 79.86225
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-12-59.jpg",
+    "direction": 223.44377129875048,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Terminalia arjuna": 0.0365,
+        "Toona ciliata": 0.02137,
+        "Corymbia citriodora": 0.01958,
+        "Ficus microcarpa": 0.00863,
+        "Platanus orientalis": 0.00592
+      }
+    },
+    "species": {
+      "name": "Terminalia arjuna",
+      "authorship": "(Roxb. ex DC.) Wight & Arn.",
+      "genus_name": "Terminalia",
+      "family_name": "Combretaceae",
+      "gbif_id": "3699548",
+      "powo_id": "170962-1",
+      "iucn_id": null,
+      "common_names": [
+        "Arjun",
+        "Kakubha",
+        "Kumbuk",
+        "Maruthu",
+        "Marutu",
+        "White murdh"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Terminalia arjuna is a tree of the genus Terminalia. It is commonly known as arjuna or arjun tree in English."
+    }
+  },
+  "Photo-2024-03-27-07-13-15": {
+    "id": "Photo-2024-03-27-07-13-15",
+    "ut": 1711503795,
+    "latlng": {
+      "lat": 6.912025,
+      "lng": 79.862336
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-13-15.jpg",
+    "direction": 245.63096623981374,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Pyrrosia lanceolata": 0.17409,
+        "Garcinia gummi-gutta": 0.00796,
+        "Samanea saman": 0.00641,
+        "Asplenium nidus": 0.00417,
+        "Borassus flabellifer": 0.00399
+      }
+    },
+    "species": {
+      "name": "Pyrrosia lanceolata",
+      "authorship": "(L.) Farw.",
+      "genus_name": "Pyrrosia",
+      "family_name": "Polypodiaceae",
+      "gbif_id": "5648124",
+      "powo_id": "1015191-2",
+      "iucn_id": null,
+      "common_names": [
+        "Lanceleaf tongue fern"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": ""
+    }
+  },
+  "Photo-2024-03-27-07-13-30": {
+    "id": "Photo-2024-03-27-07-13-30",
+    "ut": 1711503810,
+    "latlng": {
+      "lat": 6.912103,
+      "lng": 79.862319
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-13-30.jpg",
+    "direction": 240.87751769188895,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Toona ciliata": 0.30793,
+        "Peltophorum dubium": 0.04356,
+        "Senna siamea": 0.02437,
+        "Samanea saman": 0.01644,
+        "Cedrela odorata": 0.01282
+      }
+    },
+    "species": {
+      "name": "Toona ciliata",
+      "authorship": "M.Roem.",
+      "genus_name": "Toona",
+      "family_name": "Meliaceae",
+      "gbif_id": "3190472",
+      "powo_id": "579299-1",
+      "iucn_id": "31332",
+      "common_names": [
+        "Australian red-cedar",
+        "Australian redcedar",
+        "Red Cedar"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Toona ciliata is a forest tree in the mahogany family which grows throughout South Asia from Afghanistan to Papua New Guinea and Australia."
+    }
+  },
+  "Photo-2024-03-27-07-13-50": {
+    "id": "Photo-2024-03-27-07-13-50",
+    "ut": 1711503830,
+    "latlng": {
+      "lat": 6.912253,
+      "lng": 79.862319
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-13-50.jpg",
+    "direction": 161.27336122733612,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Mangifera indica": 0.56371,
+        "Elaeocarpus angustifolius": 0.00401,
+        "Saraca asoca": 0.00335,
+        "Khaya senegalensis": 0.00273,
+        "Mangifera zeylanica": 0.00193
+      }
+    },
+    "species": {
+      "name": "Mangifera indica",
+      "authorship": "L.",
+      "genus_name": "Mangifera",
+      "family_name": "Anacardiaceae",
+      "gbif_id": "3190638",
+      "powo_id": "69913-1",
+      "iucn_id": "31389",
+      "common_names": [
+        "Amba",
+        "Amiram",
+        "Amra",
+        "Ma",
+        "Mamaram",
+        "Mangai",
+        "Mango",
+        "Mango Tree",
+        "Mee Amba",
+        "Sahakara",
+        "\u0906\u092e"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Mangifera indica, commonly known as mango, is a species of flowering plant in the family Anacardiaceae. It is a large fruit tree, capable of growing to a height of 30 metres (100 feet). There are two distinct genetic populations in modern mangoes \u2013 the \"Indian type\" and the \"Southeast Asian type\"."
+    }
+  },
+  "Photo-2024-03-27-07-14-10": {
+    "id": "Photo-2024-03-27-07-14-10",
+    "ut": 1711503850,
+    "latlng": {
+      "lat": 6.912297,
+      "lng": 79.862372
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-14-10.jpg",
+    "direction": 118.91287240022484,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Artocarpus heterophyllus": 0.37419,
+        "Neolamarckia cadamba": 0.07302,
+        "Terminalia catappa": 0.01995,
+        "Ficus hispida": 0.01598,
+        "Artocarpus integer": 0.01584
+      }
+    },
+    "species": {
+      "name": "Artocarpus heterophyllus",
+      "authorship": "Lam.",
+      "genus_name": "Artocarpus",
+      "family_name": "Moraceae",
+      "gbif_id": "2984565",
+      "powo_id": "850389-1",
+      "iucn_id": null,
+      "common_names": [
+        "Herali",
+        "Jackfruit",
+        "Kos",
+        "Pala",
+        "Palavu",
+        "Panasam",
+        "Pila",
+        "Vaela",
+        "Waraka See Artocarpus Indica",
+        "\u0995\u09be\u09a0\u09be\u09b2",
+        "\u0c2a\u0c28\u0c38"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "The jackfruit is the fruit of jack tree Artocarpus heterophyllus, a species of tree in the fig, mulberry, and breadfruit family (Moraceae). The jackfruit is the largest tree fruit, reaching as much as 55 kg (120 pounds) in weight, 90 cm (35 inches) in length, and 50 cm (20 inches) in diameter. A mature jackfruit tree produces some 200 fruits per year, with older trees bearing up to 500 fruits in a year. The jackfruit is a multiple fruit composed of hundreds to thousands of individual flowers, ..."
+    }
+  },
+  "Photo-2024-03-27-07-14-28": {
+    "id": "Photo-2024-03-27-07-14-28",
+    "ut": 1711503868,
+    "latlng": {
+      "lat": 6.912467,
+      "lng": 79.862336
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-14-28.jpg",
+    "direction": 230.25682087781732,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Albizia procera": 0.05778,
+        "Cassia javanica": 0.03906,
+        "Toona ciliata": 0.0258,
+        "Senna spectabilis": 0.0233,
+        "Cassia grandis": 0.01961
+      }
+    },
+    "species": {
+      "name": "Albizia procera",
+      "authorship": "(Roxb.) Benth.",
+      "genus_name": "Albizia",
+      "family_name": "Fabaceae",
+      "gbif_id": "2973167",
+      "powo_id": "473360-1",
+      "iucn_id": "60757956",
+      "common_names": [
+        "Forest siris",
+        "Rain siris",
+        "Safe siris"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Albizia procera, commonly known as white siris or karoi tree, is a species of large tree found natively in southeast Asia and India. It is most commonly found in open forests, but may also be found on the margins of rain forests and in monsoon and gallery forests. It is considered an invasive species in South Africa.The genus name Albizia honors the Florentine naturalist Filippo del Albizzi, while the species name is derived from the Latin word 'procerus', meaning 'very tall or high'."
+    }
+  },
+  "Photo-2024-03-27-07-14-57": {
+    "id": "Photo-2024-03-27-07-14-57",
+    "ut": 1711503897,
+    "latlng": {
+      "lat": 6.912178,
+      "lng": 79.862403
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-14-57.jpg",
+    "direction": 161.20881652714846,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Cassia fistula": 0.03948,
+        "Pterocarpus indicus": 0.02157,
+        "Oroxylum indicum": 0.01727,
+        "Ficus racemosa": 0.01475,
+        "Toona ciliata": 0.01371
+      }
+    },
+    "species": {
+      "name": "Cassia fistula",
+      "authorship": "L.",
+      "genus_name": "Cassia",
+      "family_name": "Fabaceae",
+      "gbif_id": "5357108",
+      "powo_id": "484507-1",
+      "iucn_id": "136142327",
+      "common_names": [
+        "Aehaela",
+        "Amaltas",
+        "Aragvadha",
+        "Ehela",
+        "Golden Shower Tree",
+        "Indian-laburnum",
+        "Konnai",
+        "Konrai",
+        "Mullaimaram"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Cassia fistula, also known as golden shower, purging cassia, Indian laburnum, Kani Konna (Malayalam: \u0d15\u0d23\u0d3f\u0d15\u0d4d\u0d15\u0d4a\u0d28\u0d4d\u0d28),, Konna Poo or pudding-pipe tree, is a flowering plant in the family Fabaceae. The species is native to the Indian subcontinent and adjacent regions of Southeast Asia. It is the official state flower of Kerala state in India. It is also a popular ornamental plant and is also used in herbal medicine."
+    }
+  },
+  "Photo-2024-03-27-07-15-13": {
+    "id": "Photo-2024-03-27-07-15-13",
+    "ut": 1711503913,
+    "latlng": {
+      "lat": 6.912122,
+      "lng": 79.862319
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-15-13.jpg",
+    "direction": 70.28831488314883,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Mesua ferrea": 0.54464,
+        "Syzygium jambos": 0.06114,
+        "Syzygium aqueum": 0.00636,
+        "Flagellaria guineensis": 0.00348,
+        "Syzygium cumini": 0.00294
+      }
+    },
+    "species": {
+      "name": "Mesua ferrea",
+      "authorship": "L.",
+      "genus_name": "Mesua",
+      "family_name": "Calophyllaceae",
+      "gbif_id": "7330039",
+      "powo_id": "428832-1",
+      "iucn_id": null,
+      "common_names": [
+        "Ceylon Ironwood",
+        "Cirunakappu",
+        "Iron Wood Tree",
+        "Mesua",
+        "Na",
+        "Naa",
+        "Nagakesarah Nagapuspa",
+        "Nangu"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Mesua ferrea, the Ceylon ironwood,  or cobra saffron, is a species in the family Calophyllaceae native to the Indomalayan realm. This slow-growing tree is named after the heaviness and hardness of its timber. It is widely cultivated as an ornamental for its graceful shape, grayish-green foliage with a beautiful pink to red flush of drooping young leaves, and large, fragrant white flowers. It is the national tree of Sri Lanka, as well as the state tree of Mizoram and state flower of Tripura in ..."
+    }
+  },
+  "Photo-2024-03-27-07-15-33": {
+    "id": "Photo-2024-03-27-07-15-33",
+    "ut": 1711503933,
+    "latlng": {
+      "lat": 6.912039,
+      "lng": 79.862403
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-15-33.jpg",
+    "direction": 304.01403798513627,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Madhuca longifolia": 0.03534,
+        "Ceiba pentandra": 0.02359,
+        "Rhododendron arboreum": 0.01674,
+        "Syzygium jambos": 0.00735,
+        "Pyrrosia lanceolata": 0.00697
+      }
+    },
+    "species": {
+      "name": "Madhuca longifolia",
+      "authorship": "(J.Koenig ex L.) J.F.Macbr.",
+      "genus_name": "Madhuca",
+      "family_name": "Sapotaceae",
+      "gbif_id": "2883346",
+      "powo_id": "787505-1",
+      "iucn_id": null,
+      "common_names": [
+        "Mahua",
+        "Moatree",
+        "Mowra-buttertree"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Madhuca longifolia is an Indian tropical tree found largely in the central, southern, north Indian plains and forests, Nepal, Myanmar and Sri Lanka. It is commonly known as madh\u016bka, madkam, mahuwa, Butter Tree, mahua, mahwa, mohulo, Iluppai , Mee or vippa chettu. It is a fast-growing tree that grows to approximately 20 meters in height, possesses evergreen or semi-evergreen foliage, and belongs to the family Sapotaceae. It is adaptable to arid environments, being a prominent tree in tropical ..."
+    }
+  },
+  "Photo-2024-03-27-07-15-43": {
+    "id": "Photo-2024-03-27-07-15-43",
+    "ut": 1711503943,
+    "latlng": {
+      "lat": 6.912097,
+      "lng": 79.862428
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-15-43.jpg",
+    "direction": 271.96502667457025,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Tamarindus indica": 0.29091,
+        "Tipuana tipu": 0.09116,
+        "Juglans nigra": 0.07784,
+        "Pistacia atlantica": 0.01506,
+        "Styphnolobium japonicum": 0.0096
+      }
+    },
+    "species": {
+      "name": "Tamarindus indica",
+      "authorship": "L.",
+      "genus_name": "Tamarindus",
+      "family_name": "Fabaceae",
+      "gbif_id": "2975768",
+      "powo_id": "520167-1",
+      "iucn_id": "62020997",
+      "common_names": [
+        "Amlika",
+        "Indian tamarind",
+        "Kilytree",
+        "Puli",
+        "Puliyamaram",
+        "Siyambala",
+        "Tamarind",
+        "Tintili",
+        "Tintrini"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Tamarind (Tamarindus indica) is a leguminous tree bearing edible fruit that is indigenous to tropical Africa and naturalized in Asia. The genus Tamarindus is monotypic, meaning that it contains only this species. It belongs to the family Fabaceae.\nThe tamarind tree produces brown, pod-like fruits that contain a sweet, tangy pulp, which is used in cuisines around the world. The pulp is also used in traditional medicine and as a metal polish. The tree's wood can be used for woodworking and ..."
+    }
+  },
+  "Photo-2024-03-27-07-15-55": {
+    "id": "Photo-2024-03-27-07-15-55",
+    "ut": 1711503955,
+    "latlng": {
+      "lat": 6.912042,
+      "lng": 79.862472
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-15-55.jpg",
+    "direction": 186.63111888111888,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Azadirachta indica": 0.1134,
+        "Toona ciliata": 0.03504,
+        "Tipuana tipu": 0.03474,
+        "Tamarindus indica": 0.02106,
+        "Gleditsia triacanthos": 0.01759
+      }
+    },
+    "species": {
+      "name": "Azadirachta indica",
+      "authorship": "A.Juss.",
+      "genus_name": "Azadirachta",
+      "family_name": "Meliaceae",
+      "gbif_id": "3190474",
+      "powo_id": "1213180-2",
+      "iucn_id": "61793521",
+      "common_names": [
+        "Kohomba",
+        "Neem",
+        "Neem Tree",
+        "Nimba",
+        "Nimbaka",
+        "Pakvakrita",
+        "Vembu",
+        "Vempu",
+        "Veppa",
+        "\u0928\u0940\u092e"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Azadirachta indica, commonly known as neem, margosa, nimtree or Indian lilac, is a tree in the mahogany family Meliaceae. It is one of two species in the genus Azadirachta. It is native to the Indian subcontinent and to parts of Southeast Asia, but is naturalized and grown around the world in tropical and subtropical areas. Its fruits and seeds are the source of neem oil. Nim is a Hindustani noun derived from Sanskrit nimba (\u0928\u093f\u0902\u092c)."
+    }
+  },
+  "Photo-2024-03-27-07-16-03": {
+    "id": "Photo-2024-03-27-07-16-03",
+    "ut": 1711503963,
+    "latlng": {
+      "lat": 6.912067,
+      "lng": 79.862511
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-16-03.jpg",
+    "direction": 266.4947511005757,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Corymbia citriodora": 0.09117,
+        "Bombax ceiba": 0.03087,
+        "Terminalia arjuna": 0.02826,
+        "Adansonia digitata": 0.02723,
+        "Eucalyptus saligna": 0.02531
+      }
+    },
+    "species": {
+      "name": "Corymbia citriodora",
+      "authorship": "(Hook.) K.D.Hill & L.A.S.Johnson",
+      "genus_name": "Corymbia",
+      "family_name": "Myrtaceae",
+      "gbif_id": "5418431",
+      "powo_id": "986336-1",
+      "iucn_id": "61905636",
+      "common_names": [
+        "Citron-scent gum",
+        "Lemon-scent gum",
+        "Lemonscented gum"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Corymbia citriodora, commonly known as lemon-scented gum and other common names, is a species of tall tree that is endemic to north-eastern Australia. It has smooth white to pink bark, narrow lance-shaped to curved adult leaves, flower buds in groups of three, white flowers and urn-shaped or barrel-shaped fruit."
+    }
+  },
+  "Photo-2024-03-27-07-37-48": {
+    "id": "Photo-2024-03-27-07-37-48",
+    "ut": 1711505268,
+    "latlng": {
+      "lat": 6.914553,
+      "lng": 79.859214
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-37-48.jpg",
+    "direction": 281.706329113924,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Madhuca longifolia": 0.11725,
+        "Dillenia indica": 0.02564,
+        "Manilkara zapota": 0.01172,
+        "Mangifera indica": 0.01169,
+        "Elaeocarpus angustifolius": 0.00778
+      }
+    },
+    "species": {
+      "name": "Madhuca longifolia",
+      "authorship": "(J.Koenig ex L.) J.F.Macbr.",
+      "genus_name": "Madhuca",
+      "family_name": "Sapotaceae",
+      "gbif_id": "2883346",
+      "powo_id": "787505-1",
+      "iucn_id": null,
+      "common_names": [
+        "Mahua",
+        "Moatree",
+        "Mowra-buttertree"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Madhuca longifolia is an Indian tropical tree found largely in the central, southern, north Indian plains and forests, Nepal, Myanmar and Sri Lanka. It is commonly known as madh\u016bka, madkam, mahuwa, Butter Tree, mahua, mahwa, mohulo, Iluppai , Mee or vippa chettu. It is a fast-growing tree that grows to approximately 20 meters in height, possesses evergreen or semi-evergreen foliage, and belongs to the family Sapotaceae. It is adaptable to arid environments, being a prominent tree in tropical ..."
+    }
+  },
+  "Photo-2024-03-27-07-38-08": {
+    "id": "Photo-2024-03-27-07-38-08",
+    "ut": 1711505288,
+    "latlng": {
+      "lat": 6.9137,
+      "lng": 79.85945
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-38-08.jpg",
+    "direction": 348.7726136931534,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Adansonia digitata": 0.00346,
+        "Manilkara zapota": 0.00261,
+        "Ceiba pentandra": 0.00161,
+        "Sterculia foetida": 0.00156,
+        "Plumeria alba": 0.0015
+      }
+    },
+    "species": {
+      "name": "Adansonia digitata",
+      "authorship": "L.",
+      "genus_name": "Adansonia",
+      "family_name": "Malvaceae",
+      "gbif_id": "5406695",
+      "powo_id": "558628-1",
+      "iucn_id": null,
+      "common_names": [
+        "Aliya Gaha",
+        "Baobab",
+        "Baobab Tree",
+        "Dead-rat-tree"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Adansonia digitata, the African baobab, is the most widespread tree species of the genus Adansonia, the baobabs, and is native to the African continent and the southern Arabian Peninsula (Yemen, Oman). These are long-lived pachycauls; radiocarbon dating has shown some individuals to be over 2,000 years old. They are typically found in dry, hot savannas of sub-Saharan Africa, where they dominate the landscape and reveal the presence of a watercourse from afar. They have traditionally been valued ..."
+    }
+  },
+  "Photo-2024-03-27-07-38-18": {
+    "id": "Photo-2024-03-27-07-38-18",
+    "ut": 1711505298,
+    "latlng": {
+      "lat": 6.913697,
+      "lng": 79.859419
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-38-18.jpg",
+    "direction": 188.74240121580547,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Spathodea campanulata": 0.44421,
+        "Lagerstroemia speciosa": 0.06892,
+        "Swietenia macrophylla": 0.02344,
+        "Phyllanthus acidus": 0.01561,
+        "Holarrhena pubescens": 0.0088
+      }
+    },
+    "species": {
+      "name": "Spathodea campanulata",
+      "authorship": "P.Beauv.",
+      "genus_name": "Spathodea",
+      "family_name": "Bignoniaceae",
+      "gbif_id": "3172574",
+      "powo_id": "110661-1",
+      "iucn_id": "49196213",
+      "common_names": [
+        "African Flame Tree",
+        "African Tulip Tree",
+        "African Tuliptree"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Spathodea is a genus in the plant family Bignoniaceae. The single species it contains, Spathodea campanulata, is commonly known as the African tulip tree. The tree grows between 7\u201325 m (23\u201382 ft) tall and is native to tropical dry forests of Africa. It has been nominated as among 100 of the \"World's Worst\" invaders.This tree is planted extensively as an ornamental tree throughout the tropics and is much appreciated for its very showy reddish-orange or crimson (rarely yellow), campanulate ..."
+    }
+  },
+  "Photo-2024-03-27-07-38-32": {
+    "id": "Photo-2024-03-27-07-38-32",
+    "ut": 1711505312,
+    "latlng": {
+      "lat": 6.913744,
+      "lng": 79.859406
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-38-32.jpg",
+    "direction": 312.13803088803087,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Artocarpus heterophyllus": 0.87101,
+        "Artocarpus integer": 0.01098,
+        "Gardenia jasminoides": 0.00624,
+        "Vangueria madagascariensis": 0.00623,
+        "Morinda citrifolia": 0.00184
+      }
+    },
+    "species": {
+      "name": "Artocarpus heterophyllus",
+      "authorship": "Lam.",
+      "genus_name": "Artocarpus",
+      "family_name": "Moraceae",
+      "gbif_id": "2984565",
+      "powo_id": "850389-1",
+      "iucn_id": null,
+      "common_names": [
+        "Herali",
+        "Jackfruit",
+        "Kos",
+        "Pala",
+        "Palavu",
+        "Panasam",
+        "Pila",
+        "Vaela",
+        "Waraka See Artocarpus Indica",
+        "\u0995\u09be\u09a0\u09be\u09b2",
+        "\u0c2a\u0c28\u0c38"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "The jackfruit is the fruit of jack tree Artocarpus heterophyllus, a species of tree in the fig, mulberry, and breadfruit family (Moraceae). The jackfruit is the largest tree fruit, reaching as much as 55 kg (120 pounds) in weight, 90 cm (35 inches) in length, and 50 cm (20 inches) in diameter. A mature jackfruit tree produces some 200 fruits per year, with older trees bearing up to 500 fruits in a year. The jackfruit is a multiple fruit composed of hundreds to thousands of individual flowers, ..."
+    }
+  },
+  "Photo-2024-03-27-07-38-38": {
+    "id": "Photo-2024-03-27-07-38-38",
+    "ut": 1711505318,
+    "latlng": {
+      "lat": 6.913758,
+      "lng": 79.859419
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-38-38.jpg",
+    "direction": 351.1651612903226,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Areca triandra": 0.188,
+        "Areca catechu": 0.08076,
+        "Cocos nucifera": 0.05322,
+        "Curculigo capitulata": 0.01602,
+        "Spathoglottis plicata": 0.00328
+      }
+    },
+    "species": {
+      "name": "Areca triandra",
+      "authorship": "Roxb. ex Buch.-Ham.",
+      "genus_name": "Areca",
+      "family_name": "Arecaceae",
+      "gbif_id": "2736565",
+      "powo_id": "664230-1",
+      "iucn_id": "111452558",
+      "common_names": [
+        "Australian areca palm",
+        "Bungua",
+        "Wild areca palm"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Areca triandra, the wild areca palm, is a palm which is often used as ornamental plant. It is native to India, Bangladesh, Cambodia, Laos, Burma, Thailand, Vietnam, Malaysia, Indonesia, and the Philippines. It is also reportedly naturalized in Panama and in southern China. As a wild plant, it commonly occurs in littoral forest in Southeast Asia."
+    }
+  },
+  "Photo-2024-03-27-07-38-51": {
+    "id": "Photo-2024-03-27-07-38-51",
+    "ut": 1711505331,
+    "latlng": {
+      "lat": 6.913728,
+      "lng": 79.859389
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-38-51.jpg",
+    "direction": 275.004150390625,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Mangifera indica": 0.48593,
+        "Plumeria alba": 0.00819,
+        "Cerbera manghas": 0.00511,
+        "Spondias dulcis": 0.00417,
+        "Spondias mombin": 0.00276
+      }
+    },
+    "species": {
+      "name": "Mangifera indica",
+      "authorship": "L.",
+      "genus_name": "Mangifera",
+      "family_name": "Anacardiaceae",
+      "gbif_id": "3190638",
+      "powo_id": "69913-1",
+      "iucn_id": "31389",
+      "common_names": [
+        "Amba",
+        "Amiram",
+        "Amra",
+        "Ma",
+        "Mamaram",
+        "Mangai",
+        "Mango",
+        "Mango Tree",
+        "Mee Amba",
+        "Sahakara",
+        "\u0906\u092e"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Mangifera indica, commonly known as mango, is a species of flowering plant in the family Anacardiaceae. It is a large fruit tree, capable of growing to a height of 30 metres (100 feet). There are two distinct genetic populations in modern mangoes \u2013 the \"Indian type\" and the \"Southeast Asian type\"."
+    }
+  },
+  "Photo-2024-03-27-07-39-00": {
+    "id": "Photo-2024-03-27-07-39-00",
+    "ut": 1711505340,
+    "latlng": {
+      "lat": 6.913711,
+      "lng": 79.859361
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-39-00.jpg",
+    "direction": 253.21849087893864,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Mangifera indica": 0.412,
+        "Cerbera manghas": 0.00794,
+        "Plumeria alba": 0.00273,
+        "Cestrum diurnum": 0.00259,
+        "Ceiba pentandra": 0.00214
+      }
+    },
+    "species": {
+      "name": "Mangifera indica",
+      "authorship": "L.",
+      "genus_name": "Mangifera",
+      "family_name": "Anacardiaceae",
+      "gbif_id": "3190638",
+      "powo_id": "69913-1",
+      "iucn_id": "31389",
+      "common_names": [
+        "Amba",
+        "Amiram",
+        "Amra",
+        "Ma",
+        "Mamaram",
+        "Mangai",
+        "Mango",
+        "Mango Tree",
+        "Mee Amba",
+        "Sahakara",
+        "\u0906\u092e"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Mangifera indica, commonly known as mango, is a species of flowering plant in the family Anacardiaceae. It is a large fruit tree, capable of growing to a height of 30 metres (100 feet). There are two distinct genetic populations in modern mangoes \u2013 the \"Indian type\" and the \"Southeast Asian type\"."
+    }
+  },
+  "Photo-2024-03-27-07-39-10": {
+    "id": "Photo-2024-03-27-07-39-10",
+    "ut": 1711505350,
+    "latlng": {
+      "lat": 6.913689,
+      "lng": 79.859331
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-39-10.jpg",
+    "direction": 253.25349428208386,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Artocarpus heterophyllus": 0.12303,
+        "Petrea volubilis": 0.05029,
+        "Vangueria madagascariensis": 0.0353,
+        "Careya arborea": 0.03034,
+        "Gardenia jasminoides": 0.01228
+      }
+    },
+    "species": {
+      "name": "Artocarpus heterophyllus",
+      "authorship": "Lam.",
+      "genus_name": "Artocarpus",
+      "family_name": "Moraceae",
+      "gbif_id": "2984565",
+      "powo_id": "850389-1",
+      "iucn_id": null,
+      "common_names": [
+        "Herali",
+        "Jackfruit",
+        "Kos",
+        "Pala",
+        "Palavu",
+        "Panasam",
+        "Pila",
+        "Vaela",
+        "Waraka See Artocarpus Indica",
+        "\u0995\u09be\u09a0\u09be\u09b2",
+        "\u0c2a\u0c28\u0c38"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "The jackfruit is the fruit of jack tree Artocarpus heterophyllus, a species of tree in the fig, mulberry, and breadfruit family (Moraceae). The jackfruit is the largest tree fruit, reaching as much as 55 kg (120 pounds) in weight, 90 cm (35 inches) in length, and 50 cm (20 inches) in diameter. A mature jackfruit tree produces some 200 fruits per year, with older trees bearing up to 500 fruits in a year. The jackfruit is a multiple fruit composed of hundreds to thousands of individual flowers, ..."
+    }
+  },
+  "Photo-2024-03-27-07-39-19": {
+    "id": "Photo-2024-03-27-07-39-19",
+    "ut": 1711505359,
+    "latlng": {
+      "lat": 6.913644,
+      "lng": 79.859367
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-39-19.jpg",
+    "direction": 221.28938271604937,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Ficus benghalensis": 0.39859,
+        "Ficus altissima": 0.01274,
+        "Artocarpus heterophyllus": 0.01083,
+        "Ficus fistulosa": 0.00778,
+        "Artocarpus altilis": 0.0061
+      }
+    },
+    "species": {
+      "name": "Ficus benghalensis",
+      "authorship": "L.",
+      "genus_name": "Ficus",
+      "family_name": "Moraceae",
+      "gbif_id": "5361919",
+      "powo_id": "852482-1",
+      "iucn_id": null,
+      "common_names": [
+        "Alamaram",
+        "Bengal banyan",
+        "Ficus Audrey",
+        "Indian banyan",
+        "Kottam",
+        "Mahanuga",
+        "Nakar",
+        "Nakaram",
+        "Niyaman",
+        "Nuga",
+        "Nyagrodha",
+        "Nygrodha",
+        "Sriksaka",
+        "Vata"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Ficus benghalensis, or Ficus indica commonly known as the banyan, banyan fig and Indian banyan, is a tree native to the Indian Subcontinent. Specimens in India are among the largest trees in the world by canopy coverage. It is also known as the \"strangler fig\" because it starts out as epiphyte, that is, leaning on another tree that it ends up suffocating."
+    }
+  },
+  "Photo-2024-03-27-07-39-31": {
+    "id": "Photo-2024-03-27-07-39-31",
+    "ut": 1711505371,
+    "latlng": {
+      "lat": 6.913597,
+      "lng": 79.859414
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-39-31.jpg",
+    "direction": 147.18478394681767,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Artocarpus heterophyllus": 0.82138,
+        "Artocarpus integer": 0.01076,
+        "Gardenia jasminoides": 0.00882,
+        "Ficus callosa": 0.00542,
+        "Morinda citrifolia": 0.0034
+      }
+    },
+    "species": {
+      "name": "Artocarpus heterophyllus",
+      "authorship": "Lam.",
+      "genus_name": "Artocarpus",
+      "family_name": "Moraceae",
+      "gbif_id": "2984565",
+      "powo_id": "850389-1",
+      "iucn_id": null,
+      "common_names": [
+        "Herali",
+        "Jackfruit",
+        "Kos",
+        "Pala",
+        "Palavu",
+        "Panasam",
+        "Pila",
+        "Vaela",
+        "Waraka See Artocarpus Indica",
+        "\u0995\u09be\u09a0\u09be\u09b2",
+        "\u0c2a\u0c28\u0c38"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "The jackfruit is the fruit of jack tree Artocarpus heterophyllus, a species of tree in the fig, mulberry, and breadfruit family (Moraceae). The jackfruit is the largest tree fruit, reaching as much as 55 kg (120 pounds) in weight, 90 cm (35 inches) in length, and 50 cm (20 inches) in diameter. A mature jackfruit tree produces some 200 fruits per year, with older trees bearing up to 500 fruits in a year. The jackfruit is a multiple fruit composed of hundreds to thousands of individual flowers, ..."
+    }
+  },
+  "Photo-2024-03-27-07-39-40": {
+    "id": "Photo-2024-03-27-07-39-40",
+    "ut": 1711505380,
+    "latlng": {
+      "lat": 6.913589,
+      "lng": 79.859467
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-39-40.jpg",
+    "direction": 197.58135981665393,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Elaeocarpus angustifolius": 0.28076,
+        "Annona reticulata": 0.02152,
+        "Madhuca longifolia": 0.01278,
+        "Manilkara zapota": 0.01187,
+        "Cerbera manghas": 0.01165
+      }
+    },
+    "species": {
+      "name": "Elaeocarpus angustifolius",
+      "authorship": "Blume",
+      "genus_name": "Elaeocarpus",
+      "family_name": "Elaeocarpaceae",
+      "gbif_id": "7426040",
+      "powo_id": "833771-1",
+      "iucn_id": "145371284",
+      "common_names": [
+        "Blue marble tree",
+        "Blue-fig",
+        "Blue-quandong"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Elaeocarpus angustifolius is a species of flowering plant in the family Elaeocarpaceae and occurs from India to New Caledonia and northern Australia. Common synonyms are E. ganitrus and E. sphaericus. It is a large evergreen tree, often with buttress roots, and has leaves with wavy serrations, creamy white flowers and more or less spherical bright blue drupe fruit. In English, the tree is known as utrasum bean tree in India. In Sri Lanka recorded names are woodenbegar and Indian bead tree. It ..."
+    }
+  },
+  "Photo-2024-03-27-07-39-49": {
+    "id": "Photo-2024-03-27-07-39-49",
+    "ut": 1711505389,
+    "latlng": {
+      "lat": 6.91355,
+      "lng": 79.859436
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-39-49.jpg",
+    "direction": 188.55224609375,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Syzygium samarangense": 0.90525,
+        "Syzygium aqueum": 0.00547,
+        "Syzygium jambos": 0.00378,
+        "Ixora chinensis": 0.00105
+      }
+    },
+    "species": {
+      "name": "Syzygium samarangense",
+      "authorship": "(Blume) Merr. & L.M.Perry",
+      "genus_name": "Syzygium",
+      "family_name": "Myrtaceae",
+      "gbif_id": "3183180",
+      "powo_id": "602209-1",
+      "iucn_id": "136144075",
+      "common_names": [
+        "Java Apple",
+        "Semarang rose-apple",
+        "Wax jambu"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Syzygium samarangense is a species of flowering plant in the family Myrtaceae, native to an area that includes the Greater Sunda Islands, Malay Peninsula, and the Andaman and Nicobar Islands, but introduced in prehistoric times to a wider area and now widely cultivated in the tropics. Common names in English include wax apple, Java apple, Semarang rose-apple, and wax jambu."
+    }
+  },
+  "Photo-2024-03-27-07-39-56": {
+    "id": "Photo-2024-03-27-07-39-56",
+    "ut": 1711505396,
+    "latlng": {
+      "lat": 6.913539,
+      "lng": 79.859414
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-39-56.jpg",
+    "direction": 191.73864734299516,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Plumeria alba": 0.01342,
+        "Mangifera indica": 0.00684,
+        "Annona reticulata": 0.00587,
+        "Madhuca longifolia": 0.0058,
+        "Rhaphiolepis bibas": 0.0052
+      }
+    },
+    "species": {
+      "name": "Plumeria alba",
+      "authorship": "L.",
+      "genus_name": "Plumeria",
+      "family_name": "Apocynaceae",
+      "gbif_id": "3169673",
+      "powo_id": "81171-1",
+      "iucn_id": "208165050",
+      "common_names": [
+        "Champa",
+        "White Frangipani",
+        "Wild frangipani"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Plumeria alba is a species of flowering plant in the genus Plumeria native to Puerto Rico and the Lesser Antilles in the Caribbean. It has been planted in tropical regions worldwide."
+    }
+  },
+  "Photo-2024-03-27-07-40-18": {
+    "id": "Photo-2024-03-27-07-40-18",
+    "ut": 1711505418,
+    "latlng": {
+      "lat": 6.913647,
+      "lng": 79.859336
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-40-18.jpg",
+    "direction": 279.2620240480962,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Manilkara zapota": 0.02521,
+        "Quercus acutissima": 0.01375,
+        "Durio zibethinus": 0.01242,
+        "Cotoneaster frigidus": 0.01234,
+        "Prunus persica": 0.01142
+      }
+    },
+    "species": {
+      "name": "Manilkara zapota",
+      "authorship": "(L.) P.Royen",
+      "genus_name": "Manilkara",
+      "family_name": "Sapotaceae",
+      "gbif_id": "2885158",
+      "powo_id": "152641-2",
+      "iucn_id": "61964429",
+      "common_names": [
+        "Cappotta",
+        "Chiku",
+        "Sapodilla",
+        "Sapote"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Manilkara zapota, commonly known as sapodilla ([\u02ccsapo\u02c8\u00f0i\u029da]), sapote, chicozapote, chicoo, chicle, naseberry, nispero, or\nsoapapple, among other names, is an evergreen tree native to southern Mexico and Central America. An example natural occurrence is in coastal Yucat\u00e1n, in the Petenes mangroves ecoregion, where it is a subdominant plant species. It was introduced to the Philippines during Spanish colonization. It is grown in large quantities in Mexico and in tropical Asia, including India, ..."
+    }
+  },
+  "Photo-2024-03-27-07-40-31": {
+    "id": "Photo-2024-03-27-07-40-31",
+    "ut": 1711505431,
+    "latlng": {
+      "lat": 6.913569,
+      "lng": 79.859292
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-40-31.jpg",
+    "direction": 228.38372799028537,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Cassia javanica": 0.1956,
+        "Pterocarpus indicus": 0.03818,
+        "Cassia moschata": 0.0321,
+        "Senna spectabilis": 0.02177,
+        "Cassia grandis": 0.01643
+      }
+    },
+    "species": {
+      "name": "Cassia javanica",
+      "authorship": "L.",
+      "genus_name": "Cassia",
+      "family_name": "Fabaceae",
+      "gbif_id": "5357125",
+      "powo_id": "484704-1",
+      "iucn_id": "22483945",
+      "common_names": [
+        "Appleblossom shower",
+        "Pink cassia",
+        "Rainbow shower"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Cassia javanica, also known as Java cassia, pink shower, apple blossom tree and rainbow shower tree (Thai: \u0e0a\u0e31\u0e22\u0e1e\u0e24\u0e01\u0e29\u0e4c), is a species of tree in the family Fabaceae. Its origin is in Southeast Asia, but it has been extensively grown in tropical areas worldwide as a garden tree owing to its beautiful crimson and pink flower bunches."
+    }
+  },
+  "Photo-2024-03-27-07-40-39": {
+    "id": "Photo-2024-03-27-07-40-39",
+    "ut": 1711505439,
+    "latlng": {
+      "lat": 6.913525,
+      "lng": 79.859314
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-40-39.jpg",
+    "direction": 261.80932642487045,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Citharexylum spinosum": 0.05436,
+        "Leycesteria formosa": 0.04085,
+        "Malpighia glabra": 0.01,
+        "Ximenia americana": 0.00761,
+        "Vangueria madagascariensis": 0.00754
+      }
+    },
+    "species": {
+      "name": "Citharexylum spinosum",
+      "authorship": "L.",
+      "genus_name": "Citharexylum",
+      "family_name": "Verbenaceae",
+      "gbif_id": "2925396",
+      "powo_id": "322339-2",
+      "iucn_id": "60330342",
+      "common_names": [
+        "Fiddlewood",
+        "Florida fiddlewood",
+        "Spiny fiddlewood"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Citharexylum spinosum is a species of flowering plant in the family Verbenaceae that is native to southern Florida in the United States, the Caribbean, Guyana, Suriname, and Venezuela. Common names include Florida fiddlewood and spiny fiddlewood."
+    }
+  },
+  "Photo-2024-03-27-07-40-52": {
+    "id": "Photo-2024-03-27-07-40-52",
+    "ut": 1711505452,
+    "latlng": {
+      "lat": 6.913478,
+      "lng": 79.859375
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-40-52.jpg",
+    "direction": 152.76506042621236,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Flacourtia montana": 0.06447,
+        "Flacourtia jangomas": 0.02353,
+        "Camellia sinensis": 0.0233,
+        "Ximenia americana": 0.01499,
+        "Flacourtia indica": 0.01433
+      }
+    },
+    "species": {
+      "name": "Flacourtia montana",
+      "authorship": "J.Graham",
+      "genus_name": "Flacourtia",
+      "family_name": "Salicaceae",
+      "gbif_id": "5603911",
+      "powo_id": "111663-1",
+      "iucn_id": null,
+      "common_names": []
+    },
+    "wiki_page": {
+      "summary_short": "Flacourtia montana  is a plant in the family of Salicaceae. It is native to southern Asia. The species presents as a tree up to 20 m in height."
+    }
+  },
+  "Photo-2024-03-27-07-41-02": {
+    "id": "Photo-2024-03-27-07-41-02",
+    "ut": 1711505462,
+    "latlng": {
+      "lat": 6.913508,
+      "lng": 79.859283
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-41-02.jpg",
+    "direction": 258.09689349112426,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Elaeocarpus angustifolius": 0.11642,
+        "Cerbera manghas": 0.03131,
+        "Syzygium jambos": 0.01764,
+        "Madhuca longifolia": 0.01705,
+        "Cerbera odollam": 0.01499
+      }
+    },
+    "species": {
+      "name": "Elaeocarpus angustifolius",
+      "authorship": "Blume",
+      "genus_name": "Elaeocarpus",
+      "family_name": "Elaeocarpaceae",
+      "gbif_id": "7426040",
+      "powo_id": "833771-1",
+      "iucn_id": "145371284",
+      "common_names": [
+        "Blue marble tree",
+        "Blue-fig",
+        "Blue-quandong"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Elaeocarpus angustifolius is a species of flowering plant in the family Elaeocarpaceae and occurs from India to New Caledonia and northern Australia. Common synonyms are E. ganitrus and E. sphaericus. It is a large evergreen tree, often with buttress roots, and has leaves with wavy serrations, creamy white flowers and more or less spherical bright blue drupe fruit. In English, the tree is known as utrasum bean tree in India. In Sri Lanka recorded names are woodenbegar and Indian bead tree. It ..."
+    }
+  },
+  "Photo-2024-03-27-07-41-21": {
+    "id": "Photo-2024-03-27-07-41-21",
+    "ut": 1711505481,
+    "latlng": {
+      "lat": 6.913636,
+      "lng": 79.859222
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-41-21.jpg",
+    "direction": 144.10755923279427,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Borassus flabellifer": 0.05591,
+        "Livistona chinensis": 0.00616,
+        "Livistona speciosa": 0.00399,
+        "Corypha umbraculifera": 0.00202,
+        "Trevesia palmata": 0.00169
+      }
+    },
+    "species": {
+      "name": "Borassus flabellifer",
+      "authorship": "L.",
+      "genus_name": "Borassus",
+      "family_name": "Arecaceae",
+      "gbif_id": "2733934",
+      "powo_id": "664873-1",
+      "iucn_id": null,
+      "common_names": [
+        "Palmyra palm",
+        "Panai",
+        "Tal Gaha",
+        "Tala palm",
+        "Wine palm"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Borassus flabellifer, commonly known as doub palm, palmyra palm, tala or tal palm, toddy palm, lontar palm, wine palm, \u1011\u1014\u103a\u1038\u1015\u1004\u103a (htan-pin) or ice apple, is a fan palm native to South Asia (especially in Bangladesh, East India, and South India) and Southeast Asia. It is reportedly naturalized in Socotra and parts of China."
+    }
+  },
+  "Photo-2024-03-27-07-41-30": {
+    "id": "Photo-2024-03-27-07-41-30",
+    "ut": 1711505490,
+    "latlng": {
+      "lat": 6.913597,
+      "lng": 79.8592
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-41-30.jpg",
+    "direction": 237.6289520779479,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Madhuca longifolia": 0.08523,
+        "Elaeocarpus angustifolius": 0.05342,
+        "Cestrum parqui": 0.01024,
+        "Mangifera indica": 0.01007,
+        "Asclepias curassavica": 0.0053
+      }
+    },
+    "species": {
+      "name": "Madhuca longifolia",
+      "authorship": "(J.Koenig ex L.) J.F.Macbr.",
+      "genus_name": "Madhuca",
+      "family_name": "Sapotaceae",
+      "gbif_id": "2883346",
+      "powo_id": "787505-1",
+      "iucn_id": null,
+      "common_names": [
+        "Mahua",
+        "Moatree",
+        "Mowra-buttertree"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Madhuca longifolia is an Indian tropical tree found largely in the central, southern, north Indian plains and forests, Nepal, Myanmar and Sri Lanka. It is commonly known as madh\u016bka, madkam, mahuwa, Butter Tree, mahua, mahwa, mohulo, Iluppai , Mee or vippa chettu. It is a fast-growing tree that grows to approximately 20 meters in height, possesses evergreen or semi-evergreen foliage, and belongs to the family Sapotaceae. It is adaptable to arid environments, being a prominent tree in tropical ..."
+    }
+  },
+  "Photo-2024-03-27-07-41-38": {
+    "id": "Photo-2024-03-27-07-41-38",
+    "ut": 1711505498,
+    "latlng": {
+      "lat": 6.91355,
+      "lng": 79.859214
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-41-38.jpg",
+    "direction": 191.2895354293759,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Dillenia indica": 0.09627,
+        "Manilkara zapota": 0.01099,
+        "Plumeria alba": 0.01026,
+        "Annona squamosa": 0.00882,
+        "Couroupita guianensis": 0.00874
+      }
+    },
+    "species": {
+      "name": "Dillenia indica",
+      "authorship": "L.",
+      "genus_name": "Dillenia",
+      "family_name": "Dilleniaceae",
+      "gbif_id": "5383898",
+      "powo_id": "316684-1",
+      "iucn_id": "61994577",
+      "common_names": [
+        "Chalta",
+        "Dillenia",
+        "Elephant-apple"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Dillenia indica, commonly known as elephant apple:\u200a171\u200a or ou tenga, is a species of Dillenia native to China, India, and tropical Asia. It is found in stony river banks.:\u200a171\u200aThis species was one of the many first described by Linnaeus in the 10th edition of his Systema Naturae in 1759."
+    }
+  },
+  "Photo-2024-03-27-07-41-43": {
+    "id": "Photo-2024-03-27-07-41-43",
+    "ut": 1711505503,
+    "latlng": {
+      "lat": 6.913544,
+      "lng": 79.859208
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-41-43.jpg",
+    "direction": 215.71482848458533,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Manilkara zapota": 0.03645,
+        "Milicia excelsa": 0.02716,
+        "Dillenia indica": 0.0217,
+        "Dipterocarpus retusus": 0.01914,
+        "Castilla elastica": 0.01519
+      }
+    },
+    "species": {
+      "name": "Manilkara zapota",
+      "authorship": "(L.) P.Royen",
+      "genus_name": "Manilkara",
+      "family_name": "Sapotaceae",
+      "gbif_id": "2885158",
+      "powo_id": "152641-2",
+      "iucn_id": "61964429",
+      "common_names": [
+        "Cappotta",
+        "Chiku",
+        "Sapodilla",
+        "Sapote"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Manilkara zapota, commonly known as sapodilla ([\u02ccsapo\u02c8\u00f0i\u029da]), sapote, chicozapote, chicoo, chicle, naseberry, nispero, or\nsoapapple, among other names, is an evergreen tree native to southern Mexico and Central America. An example natural occurrence is in coastal Yucat\u00e1n, in the Petenes mangroves ecoregion, where it is a subdominant plant species. It was introduced to the Philippines during Spanish colonization. It is grown in large quantities in Mexico and in tropical Asia, including India, ..."
+    }
+  },
+  "Photo-2024-03-27-07-41-59": {
+    "id": "Photo-2024-03-27-07-41-59",
+    "ut": 1711505519,
+    "latlng": {
+      "lat": 6.913611,
+      "lng": 79.859131
+    },
+    "image_path": "data\\images\\Photo-2024-03-27-07-41-59.jpg",
+    "direction": 144.6296999620205,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Borassus flabellifer": 0.02356,
+        "Livistona speciosa": 0.00608,
+        "Corypha umbraculifera": 0.00387,
+        "Livistona jenkinsiana": 0.00262,
+        "Livistona chinensis": 0.00222
+      }
+    },
+    "species": {
+      "name": "Borassus flabellifer",
+      "authorship": "L.",
+      "genus_name": "Borassus",
+      "family_name": "Arecaceae",
+      "gbif_id": "2733934",
+      "powo_id": "664873-1",
+      "iucn_id": null,
+      "common_names": [
+        "Palmyra palm",
+        "Panai",
+        "Tal Gaha",
+        "Tala palm",
+        "Wine palm"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Borassus flabellifer, commonly known as doub palm, palmyra palm, tala or tal palm, toddy palm, lontar palm, wine palm, \u1011\u1014\u103a\u1038\u1015\u1004\u103a (htan-pin) or ice apple, is a fan palm native to South Asia (especially in Bangladesh, East India, and South India) and Southeast Asia. It is reportedly naturalized in Socotra and parts of China."
     }
   }
 }

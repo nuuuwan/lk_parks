@@ -1,0 +1,20 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-06-58-36",
+  "species_name_to_score": {
+    "Terminalia arjuna": 0.367,
+    "Syzygium jambos": 0.04602,
+    "Syzygium cumini": 0.01049,
+    "Elaeocarpus angustifolius": 0.00738,
+    "Madhuca longifolia": 0.00629,
+    "Anisoptera scaphula": 0.00448,
+    "Barringtonia acutangula": 0.00251,
+    "Ficus virens": 0.00226,
+    "Dipterocarpus alatus": 0.00134,
+    "Tecomella undulata": 0.00127,
+    "Annona reticulata": 0.00123,
+    "Ficus exasperata": 0.00113,
+    "Ficus tinctoria": 0.00111,
+    "Eucalyptus robusta": 0.00101
+  }
+}

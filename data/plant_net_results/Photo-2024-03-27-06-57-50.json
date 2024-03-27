@@ -1,0 +1,24 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-06-57-50",
+  "species_name_to_score": {
+    "Eucalyptus robusta": 0.21443,
+    "Vitex pinnata": 0.01651,
+    "Syncarpia glomulifera": 0.0069,
+    "Swietenia macrophylla": 0.00653,
+    "Cedrela odorata": 0.00609,
+    "Chukrasia tabularis": 0.00503,
+    "Erythrina crista-galli": 0.00317,
+    "Shorea roxburghii": 0.00296,
+    "Spondias mombin": 0.00246,
+    "Platymiscium pinnatum": 0.0018,
+    "Toona ciliata": 0.00176,
+    "Aegle marmelos": 0.00176,
+    "Annona glabra": 0.00173,
+    "Syzygium cumini": 0.00166,
+    "Bischofia javanica": 0.00149,
+    "Quercus serrata": 0.00126,
+    "Tipuana tipu": 0.00111,
+    "Pterocarpus indicus": 0.00106
+  }
+}

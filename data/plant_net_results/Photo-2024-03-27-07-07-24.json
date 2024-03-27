@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-07-24",
+  "species_name_to_score": {
+    "Mangifera indica": 0.61924,
+    "Toona ciliata": 0.00454,
+    "Dimocarpus longan": 0.00397,
+    "Chionanthus ramiflorus": 0.00263,
+    "Mangifera zeylanica": 0.00228,
+    "Khaya senegalensis": 0.00143,
+    "Schleichera oleosa": 0.00139,
+    "Eleocharis uniglumis": 0.00112
+  }
+}

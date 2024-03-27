@@ -1,0 +1,24 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-06-55-41",
+  "species_name_to_score": {
+    "Mangifera indica": 0.18978,
+    "Cerbera manghas": 0.03787,
+    "Ceiba pentandra": 0.01298,
+    "Manilkara zapota": 0.01037,
+    "Cerbera odollam": 0.00862,
+    "Diospyros blancoi": 0.00809,
+    "Plumeria alba": 0.00367,
+    "Annona reticulata": 0.00331,
+    "Acacia auriculiformis": 0.00306,
+    "Persea americana": 0.0021,
+    "Syzygium jambos": 0.00205,
+    "Elaeocarpus angustifolius": 0.00194,
+    "Garcinia indica": 0.00175,
+    "Plumeria rubra": 0.00152,
+    "Alstonia macrophylla": 0.00139,
+    "Monoon longifolium": 0.00111,
+    "Planchonella grandifolia": 0.00104,
+    "Dillenia indica": 0.00103
+  }
+}

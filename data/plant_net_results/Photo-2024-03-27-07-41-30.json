@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-41-30",
+  "species_name_to_score": {
+    "Madhuca longifolia": 0.08523,
+    "Elaeocarpus angustifolius": 0.05342,
+    "Cestrum parqui": 0.01024,
+    "Mangifera indica": 0.01007,
+    "Asclepias curassavica": 0.0053,
+    "Manilkara zapota": 0.00417,
+    "Cestrum nocturnum": 0.00392,
+    "Cerbera manghas": 0.00383,
+    "Annona reticulata": 0.00372,
+    "Rhododendron arboreum": 0.00271,
+    "Cascabela thevetia": 0.00168,
+    "Mandragora caulescens": 0.00164,
+    "Tabernaemontana divaricata": 0.00161,
+    "Cerbera odollam": 0.00137,
+    "Syzygium jambos": 0.00135,
+    "Crotalaria juncea": 0.00124,
+    "Ceiba pentandra": 0.00123,
+    "Pieris formosa": 0.00119,
+    "Couroupita guianensis": 0.00114,
+    "Gomphocarpus physocarpus": 0.00103,
+    "Nerium oleander": 0.00103
+  }
+}

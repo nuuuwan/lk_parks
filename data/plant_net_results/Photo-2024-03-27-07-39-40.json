@@ -1,0 +1,30 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-39-40",
+  "species_name_to_score": {
+    "Elaeocarpus angustifolius": 0.28076,
+    "Annona reticulata": 0.02152,
+    "Madhuca longifolia": 0.01278,
+    "Manilkara zapota": 0.01187,
+    "Cerbera manghas": 0.01165,
+    "Dillenia indica": 0.0114,
+    "Plumeria rubra": 0.01068,
+    "Plumeria alba": 0.00777,
+    "Crescentia cujete": 0.0062,
+    "Cerbera odollam": 0.0058,
+    "Citharexylum spinosum": 0.00388,
+    "Syzygium jambos": 0.00306,
+    "Dodonaea viscosa": 0.00273,
+    "Prunus persica": 0.00218,
+    "Barringtonia acutangula": 0.00184,
+    "Magnolia champaca": 0.00182,
+    "Syzygium cumini": 0.00174,
+    "Quercus acutissima": 0.00163,
+    "Annona squamosa": 0.0016,
+    "Dipterocarpus alatus": 0.00125,
+    "Anisoptera scaphula": 0.00116,
+    "Garcinia indica": 0.00113,
+    "Acacia auriculiformis": 0.00107,
+    "Rhaphiolepis bibas": 0.00105
+  }
+}

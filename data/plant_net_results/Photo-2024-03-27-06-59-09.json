@@ -1,0 +1,10 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-06-59-09",
+  "species_name_to_score": {
+    "Casuarina equisetifolia": 0.75223,
+    "Casuarina glauca": 0.00448,
+    "Tamarix aphylla": 0.00397,
+    "Genista aetnensis": 0.00119
+  }
+}

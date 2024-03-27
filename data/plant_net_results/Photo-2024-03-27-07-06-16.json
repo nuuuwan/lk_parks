@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-06-16",
+  "species_name_to_score": {
+    "Schleichera oleosa": 0.48671,
+    "Khaya senegalensis": 0.02589,
+    "Anacardium occidentale": 0.01754,
+    "Swietenia macrophylla": 0.01618,
+    "Sandoricum koetjape": 0.01253,
+    "Cupaniopsis anacardioides": 0.00851,
+    "Antiaris toxicaria": 0.00563,
+    "Swietenia mahagoni": 0.00333,
+    "Dimocarpus longan": 0.00302,
+    "Lagerstroemia speciosa": 0.00221,
+    "Artocarpus lacucha": 0.00189,
+    "Pongamia pinnata": 0.0018,
+    "Nephelium ramboutan-ake": 0.00177,
+    "Terminalia catappa": 0.00173,
+    "Aegle marmelos": 0.00144,
+    "Peltophorum pterocarpum": 0.00123,
+    "Spondias mombin": 0.00119,
+    "Pometia pinnata": 0.00109,
+    "Harpullia arborea": 0.00108,
+    "Theobroma cacao": 0.00102,
+    "Saraca asoca": 0.00101
+  }
+}

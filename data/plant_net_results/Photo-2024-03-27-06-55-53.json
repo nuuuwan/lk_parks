@@ -1,0 +1,23 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-06-55-53",
+  "species_name_to_score": {
+    "Mangifera indica": 0.45671,
+    "Ficus virens": 0.00594,
+    "Hevea brasiliensis": 0.00514,
+    "Annona reticulata": 0.00332,
+    "Toona ciliata": 0.00285,
+    "Manilkara zapota": 0.00252,
+    "Cedrela odorata": 0.00169,
+    "Voacanga grandifolia": 0.00163,
+    "Sapindus saponaria": 0.00162,
+    "Aphanamixis polystachya": 0.00162,
+    "Holigarna arnottiana": 0.00157,
+    "Ficus lacor": 0.00156,
+    "Madhuca longifolia": 0.00156,
+    "Ficus racemosa": 0.00135,
+    "Spondias mombin": 0.00134,
+    "Swietenia mahagoni": 0.00111,
+    "Vitex negundo": 0.00108
+  }
+}

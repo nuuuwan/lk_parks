@@ -1,0 +1,30 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-38-18",
+  "species_name_to_score": {
+    "Spathodea campanulata": 0.44421,
+    "Lagerstroemia speciosa": 0.06892,
+    "Swietenia macrophylla": 0.02344,
+    "Phyllanthus acidus": 0.01561,
+    "Holarrhena pubescens": 0.0088,
+    "Harpullia arborea": 0.00817,
+    "Ailanthus altissima": 0.00639,
+    "Theobroma cacao": 0.00376,
+    "Koelreuteria paniculata": 0.00349,
+    "Cananga odorata": 0.0029,
+    "Radermachera xylocarpa": 0.0026,
+    "Cedrela odorata": 0.00235,
+    "Decaisnea insignis": 0.00213,
+    "Combretum indicum": 0.00202,
+    "Averrhoa carambola": 0.00199,
+    "Tecoma stans": 0.00199,
+    "Antiaris toxicaria": 0.00188,
+    "Saraca indica": 0.0017,
+    "Markhamia stipulata": 0.00165,
+    "Saraca asoca": 0.00149,
+    "Camelina rumelica": 0.00143,
+    "Averrhoa bilimbi": 0.00115,
+    "Pterygota alata": 0.00105,
+    "Amherstia nobilis": 0.00103
+  }
+}

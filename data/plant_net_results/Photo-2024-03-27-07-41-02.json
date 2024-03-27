@@ -1,0 +1,29 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-41-02",
+  "species_name_to_score": {
+    "Elaeocarpus angustifolius": 0.11642,
+    "Cerbera manghas": 0.03131,
+    "Syzygium jambos": 0.01764,
+    "Madhuca longifolia": 0.01705,
+    "Cerbera odollam": 0.01499,
+    "Manilkara zapota": 0.00971,
+    "Crescentia cujete": 0.00531,
+    "Dillenia indica": 0.00388,
+    "Mangifera indica": 0.00386,
+    "Terminalia arjuna": 0.00359,
+    "Rhaphiolepis bibas": 0.00288,
+    "Annona reticulata": 0.00242,
+    "Prunus persica": 0.00234,
+    "Nerium oleander": 0.0019,
+    "Quercus acutissima": 0.00187,
+    "Dodonaea viscosa": 0.00171,
+    "Syzygium cumini": 0.00158,
+    "Garcinia indica": 0.00134,
+    "Plumeria rubra": 0.0013,
+    "Barringtonia acutangula": 0.0013,
+    "Punica granatum": 0.00114,
+    "Cotoneaster frigidus": 0.00109,
+    "Alstonia macrophylla": 0.00104
+  }
+}

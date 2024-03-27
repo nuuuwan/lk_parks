@@ -1,0 +1,25 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-39-19",
+  "species_name_to_score": {
+    "Ficus benghalensis": 0.39859,
+    "Ficus altissima": 0.01274,
+    "Artocarpus heterophyllus": 0.01083,
+    "Ficus fistulosa": 0.00778,
+    "Artocarpus altilis": 0.0061,
+    "Ficus hispida": 0.00599,
+    "Madhuca longifolia": 0.00368,
+    "Ficus callosa": 0.00365,
+    "Premna serratifolia": 0.00217,
+    "Tectona grandis": 0.0021,
+    "Morinda citrifolia": 0.00201,
+    "Artocarpus integer": 0.00199,
+    "Calotropis procera": 0.00183,
+    "Calotropis gigantea": 0.00159,
+    "Barringtonia asiatica": 0.00147,
+    "Terminalia bellirica": 0.00129,
+    "Citharexylum spinosum": 0.00116,
+    "Ficus virens": 0.0011,
+    "Ceodes grandis": 0.00103
+  }
+}

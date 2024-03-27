@@ -1,0 +1,13 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-41-21",
+  "species_name_to_score": {
+    "Borassus flabellifer": 0.05591,
+    "Livistona chinensis": 0.00616,
+    "Livistona speciosa": 0.00399,
+    "Corypha umbraculifera": 0.00202,
+    "Trevesia palmata": 0.00169,
+    "Corypha utan": 0.00156,
+    "Licuala spinosa": 0.0015
+  }
+}

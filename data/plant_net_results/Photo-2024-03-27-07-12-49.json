@@ -1,0 +1,25 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-12-49",
+  "species_name_to_score": {
+    "Madhuca longifolia": 0.03911,
+    "Dillenia indica": 0.02934,
+    "Terminalia arjuna": 0.02875,
+    "Cerbera manghas": 0.01511,
+    "Cerbera odollam": 0.00519,
+    "Schizolobium parahyba": 0.00495,
+    "Adansonia digitata": 0.0042,
+    "Syzygium jambos": 0.0041,
+    "Syzygium cumini": 0.00374,
+    "Manilkara zapota": 0.00348,
+    "Elaeocarpus angustifolius": 0.00283,
+    "Osmanthus fragrans": 0.00264,
+    "Artocarpus heterophyllus": 0.00196,
+    "Ficus tinctoria": 0.00152,
+    "Mangifera indica": 0.00142,
+    "Couroupita guianensis": 0.00127,
+    "Bruguiera sexangula": 0.00107,
+    "Magnolia champaca": 0.00107,
+    "Garcinia indica": 0.00107
+  }
+}

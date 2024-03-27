@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-12-59",
+  "species_name_to_score": {
+    "Terminalia arjuna": 0.0365,
+    "Toona ciliata": 0.02137,
+    "Corymbia citriodora": 0.01958,
+    "Ficus microcarpa": 0.00863,
+    "Platanus orientalis": 0.00592,
+    "Ficus racemosa": 0.00527,
+    "Corymbia maculata": 0.00503,
+    "Hymenaea courbaril": 0.00381,
+    "Harpullia cupanioides": 0.0037,
+    "Eucalyptus tereticornis": 0.00313,
+    "Khaya senegalensis": 0.0028,
+    "Cassia grandis": 0.00279,
+    "Elaeocarpus angustifolius": 0.00262,
+    "Ceiba pentandra": 0.00238,
+    "Sapindus saponaria": 0.00233,
+    "Eucalyptus camaldulensis": 0.00168,
+    "Albizia niopoides": 0.0015,
+    "Libidibia ferrea": 0.00136,
+    "Beilschmiedia roxburghiana": 0.00118,
+    "Eucalyptus saligna": 0.0011,
+    "Ficus variegata": 0.00108
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-11-09",
+  "species_name_to_score": {
+    "Dillenia indica": 0.06041,
+    "Rhaphiolepis bibas": 0.02896,
+    "Diospyros chloroxylon": 0.00488,
+    "Ficus callosa": 0.00434,
+    "Couroupita guianensis": 0.00424,
+    "Catunaregam spinosa": 0.00381,
+    "Dillenia pentagyna": 0.00339,
+    "Theobroma cacao": 0.00321,
+    "Meliosma simplicifolia": 0.00307,
+    "Acrotrema costatum": 0.00216,
+    "Barringtonia acutangula": 0.0021,
+    "Guettarda speciosa": 0.002,
+    "Baccaurea ramiflora": 0.0019,
+    "Chaenomeles speciosa": 0.00172,
+    "Elaeocarpus serratus": 0.00157,
+    "Manilkara zapota": 0.00153,
+    "Persea americana": 0.00149,
+    "Myristica fragrans": 0.00118,
+    "Phyllanthus emblica": 0.00106,
+    "Quercus glauca": 0.00104
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-40-52",
+  "species_name_to_score": {
+    "Flacourtia montana": 0.06447,
+    "Flacourtia jangomas": 0.02353,
+    "Camellia sinensis": 0.0233,
+    "Ximenia americana": 0.01499,
+    "Flacourtia indica": 0.01433,
+    "Commiphora mukul": 0.01128,
+    "Flacourtia rukam": 0.0105,
+    "Flacourtia inermis": 0.00964,
+    "Petiveria alliacea": 0.00296,
+    "Guazuma ulmifolia": 0.00273,
+    "Ehretia acuminata": 0.00268,
+    "Sida acuta": 0.00267,
+    "Peltophorum pterocarpum": 0.00137,
+    "Theobroma cacao": 0.00125
+  }
+}

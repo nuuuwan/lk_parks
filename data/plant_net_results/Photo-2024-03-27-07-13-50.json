@@ -1,0 +1,18 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-13-50",
+  "species_name_to_score": {
+    "Mangifera indica": 0.56371,
+    "Elaeocarpus angustifolius": 0.00401,
+    "Saraca asoca": 0.00335,
+    "Khaya senegalensis": 0.00273,
+    "Mangifera zeylanica": 0.00193,
+    "Cerbera manghas": 0.00156,
+    "Magnolia champaca": 0.00145,
+    "Chionanthus ramiflorus": 0.00133,
+    "Quercus acutissima": 0.00119,
+    "Schleichera oleosa": 0.00116,
+    "Madhuca longifolia": 0.00112,
+    "Monoon longifolium": 0.00111
+  }
+}

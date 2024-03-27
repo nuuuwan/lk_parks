@@ -1,0 +1,28 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-06-55-21",
+  "species_name_to_score": {
+    "Eucalyptus robusta": 0.14542,
+    "Ceiba pentandra": 0.02024,
+    "Swietenia mahagoni": 0.01834,
+    "Swietenia macrophylla": 0.00855,
+    "Pyrrosia lanceolata": 0.00707,
+    "Toona ciliata": 0.00497,
+    "Cedrela odorata": 0.00425,
+    "Erythrina crista-galli": 0.00406,
+    "Radermachera sinica": 0.00332,
+    "Ehretia acuminata": 0.00321,
+    "Robinia pseudoacacia": 0.00274,
+    "Cinnamomum camphora": 0.00229,
+    "Cryptostylis arachnites": 0.0021,
+    "Populus deltoides": 0.00194,
+    "Shorea roxburghii": 0.0018,
+    "Pittosporum ferrugineum": 0.00163,
+    "Bischofia javanica": 0.00135,
+    "Vitex pinnata": 0.0013,
+    "Vitex glabrata": 0.00125,
+    "Hopea odorata": 0.00114,
+    "Peltophorum dubium": 0.00112,
+    "Samanea saman": 0.001
+  }
+}

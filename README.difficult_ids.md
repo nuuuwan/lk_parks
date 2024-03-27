@@ -2,21 +2,25 @@
 
 Photos where the identification confidence is **< 20%**.
 
-### Photo-2024-03-08-06-55-50
+### Photo-2024-03-13-07-09-26
 
-* 12.9% *Hibiscus rosa-sinensis*
-* 5.6% *Hibiscus fragilis*
-* 4.4% *Hibiscus schizopetalus*
+* 0.4% *Syngonium podophyllum*
 
-<img src="data/images/Photo-2024-03-08-06-55-50.jpg" alt="Photo-2024-03-08-06-55-50"  width="50%" />
+<img src="data/images/Photo-2024-03-13-07-09-26.jpg" alt="Photo-2024-03-13-07-09-26"  width="50%" />
 
-### Photo-2024-03-13-07-39-09
+### Photo-2024-03-13-07-38-46
 
-* 10.4% *Ficus benghalensis*
-* 7.5% *Ficus elastica*
-* 3.6% *Rhaphidophora decursiva*
+* 18.0% *Ficus altissima*
+* 11.6% *Ficus virens*
+* 10.5% *Ficus benghalensis*
 
-<img src="data/images/Photo-2024-03-13-07-39-09.jpg" alt="Photo-2024-03-13-07-39-09"  width="50%" />
+<img src="data/images/Photo-2024-03-13-07-38-46.jpg" alt="Photo-2024-03-13-07-38-46"  width="50%" />
+
+### Photo-2024-03-17-08-09-15
+
+* 0.1% *Elaeis guineensis*
+
+<img src="data/images/Photo-2024-03-17-08-09-15.jpg" alt="Photo-2024-03-17-08-09-15"  width="50%" />
 
 ### Photo-2024-03-08-07-06-50
 
@@ -26,77 +30,37 @@ Photos where the identification confidence is **< 20%**.
 
 <img src="data/images/Photo-2024-03-08-07-06-50.jpg" alt="Photo-2024-03-08-07-06-50"  width="50%" />
 
-### Photo-2024-03-11-07-47-15
+### Photo-2024-03-08-07-04-14
 
-* 8.2% *Aspidosperma pyrifolium*
-* 7.4% *Rauvolfia viridis*
-* 6.7% *Vangueria madagascariensis*
+* 11.8% *Terminalia mantaly*
+* 10.4% *Ficus microcarpa*
+* 6.3% *Ficus elastica*
 
-<img src="data/images/Photo-2024-03-11-07-47-15.jpg" alt="Photo-2024-03-11-07-47-15"  width="50%" />
+<img src="data/images/Photo-2024-03-08-07-04-14.jpg" alt="Photo-2024-03-08-07-04-14"  width="50%" />
 
-### Photo-2024-03-21-08-12-00
+### Photo-2024-03-17-08-11-40
 
-* 3.0% *Ceiba pentandra*
-* 2.4% *Tectona grandis*
-* 1.8% *Ficus religiosa*
+* 7.9% *Bischofia javanica*
+* 2.9% *Ficus religiosa*
+* 1.6% *Brachychiton populneus*
 
-<img src="data/images/Photo-2024-03-21-08-12-00.jpg" alt="Photo-2024-03-21-08-12-00"  width="50%" />
+<img src="data/images/Photo-2024-03-17-08-11-40.jpg" alt="Photo-2024-03-17-08-11-40"  width="50%" />
 
-### Photo-2024-03-12-07-09-27
+### Photo-2024-03-15-07-41-20
 
-* 12.3% *Ficus hispida*
-* 5.7% *Bridelia micrantha*
-* 3.8% *Holarrhena pubescens*
+* 5.6% *Ficus virens*
+* 3.4% *Ficus altissima*
+* 3.2% *Castilla elastica*
 
-<img src="data/images/Photo-2024-03-12-07-09-27.jpg" alt="Photo-2024-03-12-07-09-27"  width="50%" />
+<img src="data/images/Photo-2024-03-15-07-41-20.jpg" alt="Photo-2024-03-15-07-41-20"  width="50%" />
 
-### Photo-2024-03-14-08-02-59
+### Photo-2024-03-12-07-04-02
 
-* 3.2% *Ficus altissima*
-* 0.7% *Ficus racemosa*
-* 0.6% *Ficus retusa*
+* 17.3% *Elaeis guineensis*
+* 7.2% *Butia capitata*
+* 4.8% *Phoenix reclinata*
 
-<img src="data/images/Photo-2024-03-14-08-02-59.jpg" alt="Photo-2024-03-14-08-02-59"  width="50%" />
-
-### Photo-2024-03-10-07-58-29
-
-* 12.4% *Peltophorum pterocarpum*
-* 6.7% *Jacaranda mimosifolia*
-* 3.8% *Pterocarya stenoptera*
-
-<img src="data/images/Photo-2024-03-10-07-58-29.jpg" alt="Photo-2024-03-10-07-58-29"  width="50%" />
-
-### Photo-2024-03-15-07-35-27
-
-* 11.8% *Ficus religiosa*
-* 4.9% *Pterocarpus indicus*
-* 2.6% *Tipuana tipu*
-
-<img src="data/images/Photo-2024-03-15-07-35-27.jpg" alt="Photo-2024-03-15-07-35-27"  width="50%" />
-
-### Photo-2024-03-17-08-02-43
-
-* 1.0% *Cascabela thevetia*
-* 0.9% *Melaleuca viminalis*
-* 0.8% *Taxus wallichiana*
-
-<img src="data/images/Photo-2024-03-17-08-02-43.jpg" alt="Photo-2024-03-17-08-02-43"  width="50%" />
-
-### Photo-2024-03-21-07-35-19
-
-* 1.1% *Ficus virens*
-* 0.9% *Cassia fistula*
-* 0.9% *Toona ciliata*
-
-<img src="data/images/Photo-2024-03-21-07-35-19.jpg" alt="Photo-2024-03-21-07-35-19"  width="50%" />
-
-### Photo-2024-03-23-07-55-17
-
-* 2.4% *Viburnum odoratissimum*
-* 1.2% *Ficus altissima*
-* 0.9% *Ficus tinctoria*
-
-<img src="data/images/Photo-2024-03-23-07-55-17.jpg" alt="Photo-2024-03-23-07-55-17"  width="50%" />
+<img src="data/images/Photo-2024-03-12-07-04-02.jpg" alt="Photo-2024-03-12-07-04-02"  width="50%" />
 
 ### Photo-2024-03-08-07-06-01
 
@@ -106,53 +70,77 @@ Photos where the identification confidence is **< 20%**.
 
 <img src="data/images/Photo-2024-03-08-07-06-01.jpg" alt="Photo-2024-03-08-07-06-01"  width="50%" />
 
-### Photo-2024-03-08-07-01-24
+### Photo-2024-03-20-07-36-53
 
-* 7.5% *Mimusops elengi*
-* 5.9% *Ligustrum lucidum*
-* 5.6% *Syzygium cumini*
+* 13.5% *Samanea saman*
+* 9.8% *Juglans nigra*
+* 8.8% *Robinia pseudoacacia*
 
-<img src="data/images/Photo-2024-03-08-07-01-24.jpg" alt="Photo-2024-03-08-07-01-24"  width="50%" />
+<img src="data/images/Photo-2024-03-20-07-36-53.jpg" alt="Photo-2024-03-20-07-36-53"  width="50%" />
 
-### Photo-2024-03-21-08-17-10
+### Photo-2024-03-23-07-55-44
 
-* 3.1% *Syzygium jambos*
-* 2.4% *Prunus persica*
-* 1.7% *Cerbera odollam*
+* 13.5% *Tamarindus indica*
+* 5.4% *Gleditsia triacanthos*
+* 3.7% *Jacaranda mimosifolia*
 
-<img src="data/images/Photo-2024-03-21-08-17-10.jpg" alt="Photo-2024-03-21-08-17-10"  width="50%" />
+<img src="data/images/Photo-2024-03-23-07-55-44.jpg" alt="Photo-2024-03-23-07-55-44"  width="50%" />
 
-### Photo-2024-03-21-07-52-04
+### Photo-2024-03-27-06-55-14
 
-* 1.5% *Ficus benghalensis*
-* 1.3% *Ficus religiosa*
-* 1.0% *Diospyros melanoxylon*
+* 6.0% *Eucalyptus robusta*
+* 1.2% *Bischofia javanica*
+* 0.8% *Erythrina crista-galli*
 
-<img src="data/images/Photo-2024-03-21-07-52-04.jpg" alt="Photo-2024-03-21-07-52-04"  width="50%" />
+<img src="data/images/Photo-2024-03-27-06-55-14.jpg" alt="Photo-2024-03-27-06-55-14"  width="50%" />
 
-### Photo-2024-03-26-07-41-36
+### Photo-2024-03-13-07-35-21
 
-* 2.5% *Populus deltoides*
-* 2.0% *Populus nigra*
-* 1.4% *Symplocos paniculata*
+* 0.4% *Zea mays*
+* 0.2% *Coix lacryma-jobi*
+* 0.2% *Zingiber officinale*
 
-<img src="data/images/Photo-2024-03-26-07-41-36.jpg" alt="Photo-2024-03-26-07-41-36"  width="50%" />
+<img src="data/images/Photo-2024-03-13-07-35-21.jpg" alt="Photo-2024-03-13-07-35-21"  width="50%" />
 
-### Photo-2024-03-14-07-44-39
+### Photo-2024-03-11-06-48-33
 
-* 17.2% *Euonymus japonicus*
-* 3.9% *Euonymus fortunei*
-* 1.9% *Cleyera japonica*
+* 6.4% *Averrhoa bilimbi*
+* 4.7% *Tipuana tipu*
+* 4.0% *Koelreuteria bipinnata*
 
-<img src="data/images/Photo-2024-03-14-07-44-39.jpg" alt="Photo-2024-03-14-07-44-39"  width="50%" />
+<img src="data/images/Photo-2024-03-11-06-48-33.jpg" alt="Photo-2024-03-11-06-48-33"  width="50%" />
 
-### Photo-2024-03-20-07-39-05
+### Photo-2024-03-20-07-03-36
 
-* 3.9% *Acacia melanoxylon*
-* 3.8% *Terminalia arjuna*
-* 2.9% *Vitex altissima*
+* 9.2% *Dimocarpus longan*
+* 9.1% *Saraca indica*
+* 7.4% *Saraca asoca*
 
-<img src="data/images/Photo-2024-03-20-07-39-05.jpg" alt="Photo-2024-03-20-07-39-05"  width="50%" />
+<img src="data/images/Photo-2024-03-20-07-03-36.jpg" alt="Photo-2024-03-20-07-03-36"  width="50%" />
+
+### Photo-2024-03-22-08-07-01
+
+* 17.0% *Adenanthera pavonina*
+* 15.6% *Caesalpinia pulcherrima*
+* 8.4% *Biancaea sappan*
+
+<img src="data/images/Photo-2024-03-22-08-07-01.jpg" alt="Photo-2024-03-22-08-07-01"  width="50%" />
+
+### Photo-2024-03-08-06-55-50
+
+* 12.9% *Hibiscus rosa-sinensis*
+* 5.6% *Hibiscus fragilis*
+* 4.4% *Hibiscus schizopetalus*
+
+<img src="data/images/Photo-2024-03-08-06-55-50.jpg" alt="Photo-2024-03-08-06-55-50"  width="50%" />
+
+### Photo-2024-03-12-07-19-28
+
+* 11.4% *Psidium cattleyanum*
+* 3.7% *Ficus microcarpa*
+* 3.1% *Baloghia inophylla*
+
+<img src="data/images/Photo-2024-03-12-07-19-28.jpg" alt="Photo-2024-03-12-07-19-28"  width="50%" />
 
 ### Photo-2024-03-13-07-21-24
 
@@ -161,3 +149,11 @@ Photos where the identification confidence is **< 20%**.
 * 1.4% *Spondias mombin*
 
 <img src="data/images/Photo-2024-03-13-07-21-24.jpg" alt="Photo-2024-03-13-07-21-24"  width="50%" />
+
+### Photo-2024-03-15-07-29-35
+
+* 4.4% *Juglans regia*
+* 4.1% *Lagerstroemia speciosa*
+* 1.7% *Hovenia dulcis*
+
+<img src="data/images/Photo-2024-03-15-07-29-35.jpg" alt="Photo-2024-03-15-07-29-35"  width="50%" />

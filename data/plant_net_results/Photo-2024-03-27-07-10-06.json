@@ -1,0 +1,26 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-10-06",
+  "species_name_to_score": {
+    "Mangifera indica": 0.51317,
+    "Cerbera manghas": 0.01977,
+    "Quercus acutissima": 0.01446,
+    "Acacia auriculiformis": 0.01203,
+    "Cocculus laurifolius": 0.0106,
+    "Sapindus saponaria": 0.00736,
+    "Vitex agnus-castus": 0.00629,
+    "Monoon longifolium": 0.00626,
+    "Phytolacca dioica": 0.00388,
+    "Vitex negundo": 0.00207,
+    "Diospyros blancoi": 0.00207,
+    "Magnolia champaca": 0.00205,
+    "Artabotrys hexapetalus": 0.00195,
+    "Saraca indica": 0.0019,
+    "Morinda citrifolia": 0.00178,
+    "Annona reticulata": 0.00175,
+    "Annona squamosa": 0.00169,
+    "Manilkara zapota": 0.00157,
+    "Syzygium jambos": 0.00133,
+    "Plumeria alba": 0.00131
+  }
+}

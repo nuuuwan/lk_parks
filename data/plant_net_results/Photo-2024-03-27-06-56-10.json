@@ -1,0 +1,18 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-06-56-10",
+  "species_name_to_score": {
+    "Plumeria rubra": 0.18912,
+    "Plumeria alba": 0.0368,
+    "Dillenia pentagyna": 0.0263,
+    "Barringtonia asiatica": 0.00866,
+    "Terminalia catappa": 0.00826,
+    "Dillenia indica": 0.00406,
+    "Tabernaemontana alternifolia": 0.00351,
+    "Tectona grandis": 0.00296,
+    "Cerbera manghas": 0.00257,
+    "Tabernaemontana divaricata": 0.00249,
+    "Anacardium occidentale": 0.00195,
+    "Osmanthus fragrans": 0.00123
+  }
+}

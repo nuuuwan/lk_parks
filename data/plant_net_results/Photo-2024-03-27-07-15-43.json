@@ -1,0 +1,26 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-15-43",
+  "species_name_to_score": {
+    "Tamarindus indica": 0.29091,
+    "Tipuana tipu": 0.09116,
+    "Juglans nigra": 0.07784,
+    "Pistacia atlantica": 0.01506,
+    "Styphnolobium japonicum": 0.0096,
+    "Gleditsia triacanthos": 0.00894,
+    "Gleditsia sinensis": 0.00425,
+    "Spondias mombin": 0.00413,
+    "Ailanthus altissima": 0.00401,
+    "Samanea saman": 0.00393,
+    "Fraxinus angustifolia": 0.00389,
+    "Jacaranda mimosifolia": 0.00361,
+    "Vachellia farnesiana": 0.00335,
+    "Senna siamea": 0.00325,
+    "Azadirachta indica": 0.00251,
+    "Hopea odorata": 0.00184,
+    "Toona ciliata": 0.00125,
+    "Robinia pseudoacacia": 0.00118,
+    "Gleditsia japonica": 0.00116,
+    "Guazuma ulmifolia": 0.00113
+  }
+}

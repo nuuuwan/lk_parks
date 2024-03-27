@@ -1,0 +1,15 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-15-33",
+  "species_name_to_score": {
+    "Madhuca longifolia": 0.03534,
+    "Ceiba pentandra": 0.02359,
+    "Rhododendron arboreum": 0.01674,
+    "Syzygium jambos": 0.00735,
+    "Pyrrosia lanceolata": 0.00697,
+    "Mangifera indica": 0.0025,
+    "Syncarpia glomulifera": 0.00205,
+    "Mesua ferrea": 0.00167,
+    "Syzygium cumini": 0.00132
+  }
+}

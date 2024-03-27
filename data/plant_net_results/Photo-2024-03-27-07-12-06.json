@@ -1,0 +1,21 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-12-06",
+  "species_name_to_score": {
+    "Mangifera indica": 0.02283,
+    "Ceiba pentandra": 0.01086,
+    "Elaeocarpus angustifolius": 0.00754,
+    "Rhizophora apiculata": 0.00696,
+    "Diospyros blancoi": 0.00485,
+    "Fraxinus angustifolia": 0.00399,
+    "Madhuca longifolia": 0.00299,
+    "Alstonia macrophylla": 0.0028,
+    "Magnolia champaca": 0.00241,
+    "Acacia auriculiformis": 0.002,
+    "Aquilaria malaccensis": 0.00195,
+    "Acacia confusa": 0.00138,
+    "Alstonia scholaris": 0.00134,
+    "Quercus acutissima": 0.00118,
+    "Salix alba": 0.00109
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-11-18",
+  "species_name_to_score": {
+    "Mangifera indica": 0.17235,
+    "Syzygium jambos": 0.01071,
+    "Cerbera manghas": 0.00894,
+    "Mangifera zeylanica": 0.00644,
+    "Podocarpus neriifolius": 0.00624,
+    "Artabotrys hexapetalus": 0.00441,
+    "Garcinia atroviridis": 0.00252,
+    "Garcinia xanthochymus": 0.00228,
+    "Barringtonia acutangula": 0.00228,
+    "Tabernaemontana divaricata": 0.00133,
+    "Saraca indica": 0.00127,
+    "Rhododendron arboreum": 0.00119,
+    "Plumeria alba": 0.00102
+  }
+}

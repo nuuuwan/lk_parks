@@ -1,0 +1,33 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-00-40",
+  "species_name_to_score": {
+    "Pongamia pinnata": 0.23133,
+    "Aegle marmelos": 0.06025,
+    "Pterocarpus macrocarpus": 0.00946,
+    "Radermachera sinica": 0.00863,
+    "Strychnos nux-vomica": 0.00576,
+    "Hymenaea courbaril": 0.00547,
+    "Milicia excelsa": 0.00431,
+    "Ficus virens": 0.0041,
+    "Citrus maxima": 0.00406,
+    "Schotia brachypetala": 0.00383,
+    "Morus nigra": 0.00308,
+    "Schleichera oleosa": 0.00245,
+    "Bischofia javanica": 0.00221,
+    "Sandoricum koetjape": 0.00217,
+    "Sapindus saponaria": 0.00189,
+    "Ficus racemosa": 0.00176,
+    "Ficus rumphii": 0.00169,
+    "Cassia fistula": 0.00167,
+    "Toona ciliata": 0.00159,
+    "Pterocarpus indicus": 0.00154,
+    "Citrus hystrix": 0.00146,
+    "Lonchocarpus sericeus": 0.00136,
+    "Ficus religiosa": 0.00136,
+    "Strychnos potatorum": 0.00127,
+    "Gleditsia sinensis": 0.00116,
+    "Pithecellobium dulce": 0.00112,
+    "Mayodendron igneum": 0.00107
+  }
+}

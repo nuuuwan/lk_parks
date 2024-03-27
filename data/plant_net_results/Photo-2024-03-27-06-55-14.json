@@ -1,0 +1,30 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-06-55-14",
+  "species_name_to_score": {
+    "Eucalyptus robusta": 0.05987,
+    "Bischofia javanica": 0.01189,
+    "Erythrina crista-galli": 0.00824,
+    "Fraxinus griffithii": 0.00738,
+    "Shorea roxburghii": 0.00672,
+    "Ehretia acuminata": 0.00667,
+    "Hopea odorata": 0.00561,
+    "Cinnamomum camphora": 0.00416,
+    "Swietenia macrophylla": 0.00412,
+    "Swietenia mahagoni": 0.00286,
+    "Erythrina stricta": 0.0028,
+    "Cedrela odorata": 0.00223,
+    "Vitex pinnata": 0.00212,
+    "Chukrasia tabularis": 0.00192,
+    "Gliricidia sepium": 0.00178,
+    "Citharexylum spinosum": 0.00173,
+    "Bombax ceiba": 0.00172,
+    "Tecoma stans": 0.00165,
+    "Strychnos nux-vomica": 0.00139,
+    "Populus deltoides": 0.00122,
+    "Lyonia villosa": 0.0012,
+    "Persea americana": 0.00113,
+    "Symplocos paniculata": 0.0011,
+    "Neolamarckia cadamba": 0.0011
+  }
+}

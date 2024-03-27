@@ -1,0 +1,33 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-13-30",
+  "species_name_to_score": {
+    "Toona ciliata": 0.30793,
+    "Peltophorum dubium": 0.04356,
+    "Senna siamea": 0.02437,
+    "Samanea saman": 0.01644,
+    "Cedrela odorata": 0.01282,
+    "Styphnolobium japonicum": 0.00617,
+    "Fraxinus angustifolia": 0.0061,
+    "Ceiba pentandra": 0.00416,
+    "Spathodea campanulata": 0.00398,
+    "Magnolia champaca": 0.00308,
+    "Swietenia mahagoni": 0.00247,
+    "Elaeocarpus angustifolius": 0.00243,
+    "Libidibia ferrea": 0.0023,
+    "Quercus serrata": 0.00216,
+    "Senna spectabilis": 0.00186,
+    "Grevillea robusta": 0.00166,
+    "Albizia lebbeck": 0.00165,
+    "Swietenia macrophylla": 0.00163,
+    "Spondias mombin": 0.00161,
+    "Schizolobium parahyba": 0.00158,
+    "Cassia grandis": 0.00152,
+    "Schotia brachypetala": 0.00152,
+    "Juglans nigra": 0.00123,
+    "Hopea odorata": 0.00119,
+    "Cananga odorata": 0.00119,
+    "Spondias purpurea": 0.00115,
+    "Pittosporum ferrugineum": 0.00101
+  }
+}

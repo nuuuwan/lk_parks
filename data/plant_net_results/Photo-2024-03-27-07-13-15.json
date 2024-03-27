@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-13-15",
+  "species_name_to_score": {
+    "Pyrrosia lanceolata": 0.17409,
+    "Garcinia gummi-gutta": 0.00796,
+    "Samanea saman": 0.00641,
+    "Asplenium nidus": 0.00417,
+    "Borassus flabellifer": 0.00399,
+    "Furcraea foetida": 0.00344,
+    "Bombax ceiba": 0.00334,
+    "Furcraea selloana": 0.00321,
+    "Ceiba pentandra": 0.00316,
+    "Khaya senegalensis": 0.00312,
+    "Arenga pinnata": 0.00292,
+    "Toona ciliata": 0.00215,
+    "Annona glabra": 0.00192,
+    "Swietenia mahagoni": 0.00179,
+    "Senna siamea": 0.00155,
+    "Schnella glabra": 0.00152,
+    "Corypha umbraculifera": 0.00126,
+    "Elaeis guineensis": 0.0012,
+    "Caryota obtusa": 0.00112,
+    "Swietenia macrophylla": 0.00102,
+    "Cassia grandis": 0.00101
+  }
+}

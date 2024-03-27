@@ -1,0 +1,25 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-09-51",
+  "species_name_to_score": {
+    "Mangifera indica": 0.11338,
+    "Acacia auriculiformis": 0.02879,
+    "Quercus acutissima": 0.01622,
+    "Cerbera manghas": 0.00939,
+    "Acacia mangium": 0.00649,
+    "Eucalyptus robusta": 0.00596,
+    "Barringtonia acutangula": 0.0049,
+    "Plumeria alba": 0.0041,
+    "Vitex agnus-castus": 0.003,
+    "Acacia longifolia": 0.00239,
+    "Manilkara zapota": 0.00239,
+    "Dimocarpus longan": 0.00231,
+    "Rhododendron veitchianum": 0.00231,
+    "Acacia confusa": 0.00227,
+    "Heliotropium arboreum": 0.00216,
+    "Acacia melanoxylon": 0.00172,
+    "Syzygium jambos": 0.00145,
+    "Erythrina crista-galli": 0.0013,
+    "Mimusops elengi": 0.00109
+  }
+}

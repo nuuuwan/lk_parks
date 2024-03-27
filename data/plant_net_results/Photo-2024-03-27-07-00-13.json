@@ -1,0 +1,33 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-00-13",
+  "species_name_to_score": {
+    "Hopea odorata": 0.10227,
+    "Toona ciliata": 0.0174,
+    "Eucalyptus robusta": 0.00924,
+    "Copaifera langsdorffii": 0.00726,
+    "Schotia brachypetala": 0.00668,
+    "Strychnos nux-vomica": 0.00535,
+    "Bischofia javanica": 0.00534,
+    "Hymenaea courbaril": 0.00519,
+    "Swietenia mahagoni": 0.00506,
+    "Eucalyptus botryoides": 0.00462,
+    "Pterocarpus indicus": 0.00414,
+    "Tipuana tipu": 0.00382,
+    "Dipterocarpus retusus": 0.00313,
+    "Shorea roxburghii": 0.00297,
+    "Cinnamomum camphora": 0.00263,
+    "Ficus racemosa": 0.00262,
+    "Swietenia macrophylla": 0.00251,
+    "Chukrasia tabularis": 0.00238,
+    "Cedrela odorata": 0.0021,
+    "Tectona grandis": 0.00172,
+    "Santalum album": 0.00158,
+    "Casuarina equisetifolia": 0.00153,
+    "Neolamarckia cadamba": 0.00151,
+    "Peltophorum dubium": 0.00132,
+    "Dalbergia latifolia": 0.0012,
+    "Choerospondias axillaris": 0.00114,
+    "Dipterocarpus grandiflorus": 0.00105
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-06-55-08",
+  "species_name_to_score": {
+    "Melia azedarach": 0.05109,
+    "Eucalyptus robusta": 0.02813,
+    "Cinnamomum camphora": 0.01926,
+    "Erythrina crista-galli": 0.00924,
+    "Cedrela odorata": 0.00581,
+    "Quercus serrata": 0.0051,
+    "Salix acmophylla": 0.00471,
+    "Hopea odorata": 0.00468,
+    "Bombax ceiba": 0.00367,
+    "Populus deltoides": 0.00214,
+    "Persea americana": 0.00187,
+    "Mimusops elengi": 0.00107,
+    "Hovenia dulcis": 0.00104,
+    "Vitex negundo": 0.00104
+  }
+}

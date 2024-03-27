@@ -1,0 +1,18 @@
+{
+  "ut_api_call": 0,
+  "plant_photo_id": "Photo-2024-03-27-07-38-38",
+  "species_name_to_score": {
+    "Areca triandra": 0.188,
+    "Areca catechu": 0.08076,
+    "Cocos nucifera": 0.05322,
+    "Curculigo capitulata": 0.01602,
+    "Spathoglottis plicata": 0.00328,
+    "Elaeis guineensis": 0.00179,
+    "Dypsis lutescens": 0.00159,
+    "Curcuma zedoaria": 0.00155,
+    "Livistona chinensis": 0.00153,
+    "Loxococcus rupicola": 0.0012,
+    "Pinanga dicksonii": 0.00109,
+    "Nypa fruticans": 0.00102
+  }
+}
