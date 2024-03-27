@@ -6,6 +6,8 @@ from lk_plants.core.plant_net.PlantNetResult import PlantNetResult
 from lk_plants.core.plant_photo.PlantPhoto import PlantPhoto
 from utils_future import Markdown, MarkdownPage
 
+random.seed(0)
+
 
 class ReadMeDifficultIds(MarkdownPage, InfoReadMe):
     MIN_CONFIDENCE = 0.2
