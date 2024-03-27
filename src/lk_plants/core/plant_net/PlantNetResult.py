@@ -27,6 +27,7 @@ class PlantNetResult:
     DEFAULT_PROJECT = 'all'
 
     FORCE_RETRY = True
+    MIN_SCORE = 0.2
 
     DEFAULT_ORGANS = ['auto']
     DIR_DATA_PLANT_NET_RESULTS = os.path.join(
@@ -116,9 +117,9 @@ class PlantNetResult:
 
             if i < 5:
                 emoji = ''
-                if score > 0.2:
+                if score >= PlantNetResult.MIN_SCORE:
                     emoji = '✅'
-                log.debug(f'\t{score:.0%}: {species.name}{emoji}')
+                log.debug(f'\t{score:.1%}: {species.name}{emoji}')
         return species_name_to_score
 
     @staticmethod
@@ -136,9 +137,9 @@ class PlantNetResult:
                 return plant_net_result
             
             top_score = plant_net_result.top_score
-            if top_score and top_score > 0.2:
+            if top_score and top_score > PlantNetResult.MIN_SCORE:
                 return plant_net_result
-            log.debug(f'Re-trying {plant_photo.id}')
+            log.warn(f'Re-trying {plant_photo.id} ({top_score:.1%})')
             
         ut_api_call = time.time()
         results = PlantNetResult.identify(plant_photo.image_path)
