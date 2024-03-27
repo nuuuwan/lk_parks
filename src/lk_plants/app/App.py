@@ -28,3 +28,4 @@ class App:
         driver.save_screenshot(image_path)
         log.info(f'Wrote {image_path}')
         driver.quit()
+        os.startfile(image_path)
