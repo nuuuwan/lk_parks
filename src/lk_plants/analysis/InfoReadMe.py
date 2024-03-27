@@ -33,22 +33,30 @@ class InfoReadMe:
         return score and score >= conf
 
     @staticmethod
-    def should_analyze(plant_photo):
+    def dedupe(plant_photo_list: list[PlantPhoto]):
+        idx = {}
+        for plant_photo in plant_photo_list:
+            key = str(plant_photo.latlng)
+            idx[key] = plant_photo
+        return list(idx.values())
+
+    @staticmethod
+    def is_in_final_analysis(plant_photo):
         return InfoReadMe.is_in_geo(plant_photo) and InfoReadMe.has_conf(
             plant_photo
         )
 
     @cached_property
-    def data_list(self):
+    def plant_photo_list(self):
         data_list = PlantPhoto.list_all()
         data_vmd_park_list = [
-            data for data in data_list if self.should_analyze(data)
+            data for data in data_list if self.is_in_final_analysis(data)
         ]
         return data_vmd_park_list
 
     @cached_property
     def n_plant_photos(self):
-        return len(self.data_list)
+        return len(self.plant_photo_list)
 
     @cached_property
     def time_str(self):
@@ -56,15 +64,16 @@ class InfoReadMe:
 
     @cached_property
     def funnel(self) -> dict:
-        raw = [plant_photo for plant_photo in PlantPhoto.list_all_raw()]
+        raw = [plant_photo for plant_photo in PlantPhoto.list_all()]
         in_geo = [
             plant_photo for plant_photo in raw if self.is_in_geo(plant_photo)
         ]
+        deduped = InfoReadMe.dedupe(in_geo)
 
         def get_conf(min_conf):
             return [
                 plant_photo
-                for plant_photo in in_geo
+                for plant_photo in deduped
                 if self.has_conf(plant_photo, min_conf)
             ]
 
@@ -72,13 +81,11 @@ class InfoReadMe:
         pct10_or_more = get_conf(0.1)
         pct20_or_more = get_conf(0.2)
 
-        deduped = self.data_list
-
         return {
             "All": len(raw),
             "In Geo": len(in_geo),
+            "Deduped": len(deduped),
             "≥ 5%": len(pct5_or_more),
             "≥ 10%": len(pct10_or_more),
             "≥ 20%": len(pct20_or_more),
-            "Deduped": len(deduped),
         }
