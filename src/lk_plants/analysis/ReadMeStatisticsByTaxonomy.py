@@ -16,7 +16,7 @@ class ReadMeStatisticsByTaxonomy(MarkdownPage, InfoReadMe):
     @cache
     def get_key_to_data_list(self, get_key):
         key_to_data_list = {}
-        for data in self.data_list:
+        for data in self.plant_photo_list:
             key = get_key(data)
             if key is None:
                 continue
