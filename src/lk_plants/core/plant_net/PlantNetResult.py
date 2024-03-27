@@ -29,7 +29,8 @@ class PlantNetResult:
     FORCE_RETRY = True
     MIN_SCORE = 0.2
 
-    DEFAULT_ORGANS = ['auto']
+    # leaf, flower, fruit, bark, auto.
+    DEFAULT_ORGAN = 'auto'    
     DIR_DATA_PLANT_NET_RESULTS = os.path.join(
         'data',
         'plant_net_results',
@@ -95,7 +96,7 @@ class PlantNetResult:
                 files=[
                     ('images', (image_path, fin)),
                 ],
-                data={'organs': PlantNetResult.DEFAULT_ORGANS},
+                data={'organs': [PlantNetResult.DEFAULT_ORGAN]},
             )
 
             prepared = request.prepare()
