@@ -141,21 +141,11 @@ class ReadMeIdentification(MarkdownPage, InfoReadMe):
         return self.get_lines_for_key('date', get_key)
 
     @cached_property
-    def lines_lat(self):
+    def lines_latlng(self):
         def get_key(plant_photo):
-            Q = 0.0001
-
-            return round(plant_photo.latlng.lat / Q) * Q
-
-        return self.get_lines_for_key('lat', get_key)
-
-    @cached_property
-    def lines_lng(self):
-        def get_key(plant_photo):
-            Q = 0.0002
-            return round(plant_photo.latlng.lng / Q) * Q
-
-        return self.get_lines_for_key('lng', get_key)
+            lat, lng = plant_photo.latlng.tuple
+            
+            return self.get_lines_for_key('latlng', get_key)
 
     @cached_property
     def lines_by_species(self):
