@@ -1,7 +1,8 @@
+from functools import cached_property
 import os
 from dataclasses import dataclass
 
-from utils import JSONFile, Log
+from utils import JSONFile, Log, TIME_FORMAT_DATE, Time
 
 from utils_future import LatLng
 
@@ -20,6 +21,10 @@ class PlantPhotoBase:
 
     def __hash__(self):
         return hash(self.id)
+    
+    @cached_property 
+    def date_str(self) -> str:
+        return TIME_FORMAT_DATE.stringify(Time(self.ut))
 
     @classmethod
     def get_dir_data(cls):

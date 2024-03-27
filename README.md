@@ -4,7 +4,7 @@
 
 This project aims to use Computer Vision and Artificial Intelligence to identify plants in Sri Lanka's public parks, beginning with Viharamahadevi Park, Colombo.
 
-🤖 *This report was automatically generated on  **Mar 27, 2024 (09:25 AM)**, and is based on **590** plant photos.*
+🤖 *This report was automatically generated on  **Mar 27, 2024 (09:58 AM)**, and is based on **590** plant photos.*
 
 ## [PlantNet](https://plantnet.org)
 
@@ -352,3 +352,7 @@ Photos where the identification confidence is **< 20%**.
 * 1.4% *Spondias mombin*
 
 <img src="data/images/Photo-2024-03-13-07-21-24.jpg" alt="Photo-2024-03-13-07-21-24"  width="50%" />
+
+## Duplicates
+
+![Duplicates by Date](images/duplicates_by_date.png)
