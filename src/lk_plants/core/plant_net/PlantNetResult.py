@@ -26,6 +26,8 @@ class PlantNetResult:
     # DEFAULT_PROJECT = 'k-world-flora'
     DEFAULT_PROJECT = 'all'
 
+    FORCE_RETRY = True
+
     DEFAULT_ORGANS = ['auto']
     DIR_DATA_PLANT_NET_RESULTS = os.path.join(
         'data',
@@ -113,7 +115,10 @@ class PlantNetResult:
             species_name_to_score[species.name] = score
 
             if i < 5:
-                log.debug(f'\t{score:.0%}: {species.name}')
+                emoji = ''
+                if score > 0.2:
+                    emoji = '✅'
+                log.debug(f'\t{score:.0%}: {species.name}{emoji}')
         return species_name_to_score
 
     @staticmethod
@@ -125,9 +130,17 @@ class PlantNetResult:
     @staticmethod
     def from_plant_photo(plant_photo: PlantPhoto) -> 'PlantNetResult':
         if os.path.exists(PlantNetResult.get_data_path(plant_photo.id)):
-            return PlantNetResult.from_plant_photo_id(plant_photo.id)
-
-        ut_api_call = 0
+            plant_net_result = PlantNetResult.from_plant_photo_id(plant_photo.id)
+            
+            if not plant_net_result.FORCE_RETRY:
+                return plant_net_result
+            
+            top_score = plant_net_result.top_score
+            if top_score and top_score > 0.2:
+                return plant_net_result
+            log.debug(f'Re-trying {plant_photo.id}')
+            
+        ut_api_call = time.time()
         results = PlantNetResult.identify(plant_photo.image_path)
         species_name_to_score = PlantNetResult.get_species_name_to_score(
             results
