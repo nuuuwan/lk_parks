@@ -1,4 +1,4 @@
-import random
+
 from functools import cached_property
 
 from lk_plants.analysis.InfoReadMe import InfoReadMe
@@ -6,7 +6,6 @@ from lk_plants.core.plant_net.PlantNetResult import PlantNetResult
 from lk_plants.core.plant_photo.PlantPhoto import PlantPhoto
 from utils_future import Markdown, MarkdownPage
 
-random.seed(0)
 
 
 class ReadMeDifficultIds(MarkdownPage, InfoReadMe):
@@ -33,11 +32,10 @@ class ReadMeDifficultIds(MarkdownPage, InfoReadMe):
             for plant_photo in plant_photos
             if ReadMeDifficultIds.is_difficult(plant_photo)
         ]
-        random.shuffle(plant_photos_difficult)
         MAX_DISPLAY_PHOTOS = 20
         MAX_DISPLAY_SCORES = 3
 
-        plant_photos_difficult = plant_photos_difficult[:MAX_DISPLAY_PHOTOS]
+        plant_photos_difficult = plant_photos_difficult[-MAX_DISPLAY_PHOTOS:]
         image_lines = []
         for plant_photo in plant_photos_difficult:
             plant_net_result = PlantNetResult.from_plant_photo(plant_photo)
@@ -68,7 +66,7 @@ class ReadMeDifficultIds(MarkdownPage, InfoReadMe):
     @cached_property
     def lines(self) -> list[str]:
         return [
-            '## Sample of Plant Photos difficult to Identify',
+            '## Sample of Recent Plant Photos difficult to Identify',
             '',
             'Photos where the identification confidence '
             + f'is **< {ReadMeDifficultIds.MIN_CONFIDENCE:.0%}**.',
