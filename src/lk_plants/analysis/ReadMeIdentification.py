@@ -23,7 +23,7 @@ class ReadMeIdentification(MarkdownPage, InfoReadMe):
         plant_photo_list = PlantPhoto.list_all()
         idx = {}
         for plant_photo in plant_photo_list:
-            key = get_key(plant_photo)
+            key = str(get_key(plant_photo))
             plant_net_result = PlantNetResult.from_plant_photo(plant_photo)
             confidence = plant_net_result.top_confidence
             if not confidence:
@@ -119,7 +119,7 @@ class ReadMeIdentification(MarkdownPage, InfoReadMe):
             if plant_photo.direction is None:
                 return 0
             Q = 22.5
-            return str(round(plant_photo.direction / Q) * Q)
+            return round(plant_photo.direction / Q) * Q
 
         return self.get_lines_for_key('camera direction', get_key)
 
