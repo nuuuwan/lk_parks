@@ -1,8 +1,8 @@
-from lk_plants.analysis.ReadMeIdentification import ReadMeIdentification
+from lk_plants import ReadMe
 
 
 def test_main():
-    ReadMeIdentification().write()
+    ReadMe().write()
 
 
 if __name__ == "__main__":
