@@ -80,7 +80,7 @@ class ReadMeIdentification(MarkdownPage, InfoReadMe):
 
         plt.close()
         plt.tight_layout(pad=2.0)
-        plt.figure(figsize=(16,9))
+        plt.figure(figsize=(16, 9))
         plt.xticks(rotation='vertical')
 
         plt.scatter(x, y, color=color, alpha=0.3, s=100, edgecolors='none')
