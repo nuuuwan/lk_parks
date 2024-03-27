@@ -7,6 +7,10 @@ class LatLng:
     lat: float
     lng: float
 
+    def __str__(self) -> str:
+        lat, lng = self.normalize.tuple
+        return f'{lat:.6f},{lng:.6f}'
+
     def to_dict(self) -> dict:
         return {
             'lat': self.lat,
@@ -19,6 +23,16 @@ class LatLng:
             lat=d['lat'],
             lng=d['lng'],
         )
+
+    @cached_property
+    def normalize(self):
+        lat, lng = self.tuple
+
+        def norm(x):
+            Q = 0.00001
+            return round(x / Q) * Q
+
+        return LatLng(norm(lat), norm(lng))
 
     @cached_property
     def tuple(self) -> tuple[float, float]:
