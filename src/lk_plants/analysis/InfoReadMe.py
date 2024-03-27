@@ -27,7 +27,7 @@ class InfoReadMe:
     @staticmethod
     def has_conf(plant_photo, conf):
         plant_net_result = PlantNetResult.from_plant_photo(plant_photo)
-        score = plant_net_result.top_score
+        score = plant_net_result.top_confidence
         return score and score >= conf
 
     @staticmethod

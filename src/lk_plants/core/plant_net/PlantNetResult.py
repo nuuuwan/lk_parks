@@ -139,10 +139,10 @@ class PlantNetResult:
             if not plant_net_result.FORCE_RETRY:
                 return plant_net_result
 
-            top_score = plant_net_result.top_score
-            if top_score and top_score > PlantNetResult.MIN_SCORE:
+            top_confidence = plant_net_result.top_confidence
+            if top_confidence and top_confidence > PlantNetResult.MIN_SCORE:
                 return plant_net_result
-            log.warn(f'Re-trying {plant_photo.id} ({top_score:.1%})')
+            log.warn(f'Re-trying {plant_photo.id} ({top_confidence:.1%})')
 
         ut_api_call = time.time()
         results = PlantNetResult.identify(plant_photo.image_path)
@@ -179,7 +179,7 @@ class PlantNetResult:
         return list(self.species_name_to_score.keys())[0]
 
     @cached_property
-    def top_score(self):
+    def top_confidence(self):
         if not self.species_name_to_score:
             return None
         return list(self.species_name_to_score.values())[0]

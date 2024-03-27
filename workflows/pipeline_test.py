@@ -1,8 +1,8 @@
-from lk_plants.analysis.ReadMeFunnel import ReadMeFunnel
+from lk_plants.analysis.ReadMeIdentification import ReadMeIdentification
 
 
 def test_main():
-    ReadMeFunnel().write()
+    ReadMeIdentification().write()
 
 
 if __name__ == "__main__":
