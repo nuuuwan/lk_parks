@@ -24,7 +24,7 @@ class DataApp:
                 break
             content += word + ' '
         return content.strip()
-    
+
     @staticmethod
     def get_data_long(plant_photo):
         d = plant_photo.to_dict()
@@ -40,7 +40,7 @@ class DataApp:
             d['wiki_page'] = WikiPage.from_wiki_page_name(
                 species.wiki_page_name).to_dict()
         return d
-    
+
     @staticmethod
     def get_data_short(plant_photo):
         d = DataApp.get_data_long(plant_photo)
@@ -65,15 +65,13 @@ class DataApp:
             del d['species']['powo_id']
             del d['species']['iucn_id']
             # del d['species']['iucn_category']
-        
+
         if 'wiki_page' in d:
             del d['wiki_page']['wiki_page_name']
             d['wiki_page']['summary_short'] = DataApp.get_summary_short(
                 d['wiki_page']['summary'])
             del d['wiki_page']['summary']
         return d
-
-
 
     @staticmethod
     def get_ext_plant_photo_idx(func_get_data):
