@@ -4,7 +4,7 @@
 
 This project aims to use Computer Vision and Artificial Intelligence to identify plants in Sri Lanka's public parks, beginning with Viharamahadevi Park, Colombo.
 
-🤖 *This report was automatically generated on  **Mar 27, 2024 (10:07 AM)**, and is based on **627** plant photos.*
+🤖 *This report was automatically generated on  **Mar 27, 2024 (10:24 AM)**, and is based on **627** plant photos.*
 
 ## [PlantNet](https://plantnet.org)
 
@@ -30,7 +30,20 @@ Viharamahadevi Park is 24.27ha, and has an estimated [green cover](https://en.wi
 
 ## Plant Photo Funnel
 
+Of all the photos taken (**All**)
+ we filter photos that are
+ within the desired geographical area (**In Geo**)
+
+Next we filter out photos that might be 
+duplicates (**Deduped**).
+
+Finally, we only consider identifications
+ where the model confidence is at least 
+20% (**Conf 20**). 
+We list statistics for 5% and 10% as well.
+
 ![funnel](images/funnel.png)
+
 ## Most Common Species
 
 ### [*Mesua ferrea*](https://en.wikipedia.org/wiki/Mesua_ferrea) ([*Calophyllaceae*](https://en.wikipedia.org/wiki/Calophyllaceae))
@@ -350,5 +363,7 @@ Photos where the identification confidence is **< 20%**.
 <img src="data/images/Photo-2024-03-15-07-29-35.jpg" alt="Photo-2024-03-15-07-29-35"  width="50%" />
 
 ## Duplicates
+
+If the location of two plant photos is very close to each other, we tag these as *duplicates* and exclude them from our analysis.
 
 ![Duplicates by Date](images/duplicates_by_date.png)

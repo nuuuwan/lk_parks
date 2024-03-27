@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 from utils import Log
 
 from lk_plants.analysis.InfoReadMe import InfoReadMe
+from lk_plants.core.plant_photo.PlantPhoto import PlantPhoto
 from utils_future import Markdown, MarkdownPage
 
 log = Log('ReadMeDuplicates')
@@ -18,7 +19,7 @@ class ReadMeDuplicates(MarkdownPage, InfoReadMe):
 
     @cached_property
     def duplicates_by_date_stats(self) -> list[str]:
-        plant_photo_list = self.plant_photo_list
+        plant_photo_list = PlantPhoto.list_all()
         idx = {}
         for plant_photo in plant_photo_list:
             date_str = plant_photo.date_str
@@ -50,9 +51,11 @@ class ReadMeDuplicates(MarkdownPage, InfoReadMe):
     @cached_property
     def lines_duplicates_by_date(self) -> list[str]:
         plt.close()
-        stats_all = self.duplicates_by_date_stats
-        MIN_PHOTOS_IN_DATE = 10
-        stats = [s for s in stats_all if s['n_total'] >= MIN_PHOTOS_IN_DATE]
+        stats = self.duplicates_by_date_stats
+        MIN_DAYS_DISPLAY = 14
+        if len(stats) > MIN_DAYS_DISPLAY:
+            stats = stats[-MIN_DAYS_DISPLAY:]
+
         x = [datetime.strptime(s['date_str'], '%Y-%m-%d') for s in stats]
         y_duplicates = [s['n_total'] for s in stats]
         y_new = [s['n_new'] for s in stats]
@@ -64,10 +67,7 @@ class ReadMeDuplicates(MarkdownPage, InfoReadMe):
         plt.bar(x, y_duplicates, label='Duplicates', color="red")
         plt.bar(x, y_new, label='New', color="green")
         plt.legend()
-        plt.title(
-            'Duplicates by Date '
-            + f'(with ≥{MIN_PHOTOS_IN_DATE} Plant Photos)'
-        )
+        plt.title('Duplicates by Date ' + f'(Last {MIN_DAYS_DISPLAY})')
 
         chart_path = os.path.join('images', 'duplicates_by_date.png')
         plt.savefig(chart_path)
@@ -83,6 +83,9 @@ class ReadMeDuplicates(MarkdownPage, InfoReadMe):
     def lines(self) -> list[str]:
         return [
             '## Duplicates',
+            '',
+            'If the location of two plant photos is very close to each other, '
+            'we tag these as *duplicates* and exclude them from our analysis.',
             '',
             self.lines_duplicates_by_date,
             '',

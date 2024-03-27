@@ -1,8 +1,8 @@
-from lk_plants import ReadMe
+from lk_plants.analysis.ReadMeDuplicates import ReadMeDuplicates
 
 
 def test_main():
-    ReadMe().write()
+    ReadMeDuplicates().write()
 
 
 if __name__ == "__main__":
