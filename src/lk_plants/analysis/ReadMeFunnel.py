@@ -28,9 +28,14 @@ class ReadMeFunnel(MarkdownPage, InfoReadMe):
             spine.set_visible(False)
 
         plt.title('Plant Photo Funnel')
+        prev_value = None
         for bar, value in zip(bars, y):
-            plt.text(bar.get_width() + 10, bar.get_y() + 0.3, str(value))
-
+            text = f'{value:,}'
+            if prev_value is not None:
+                d_value = value - prev_value
+                text += f' (+{d_value:,})'
+            plt.text(bar.get_width() + 10, bar.get_y() + 0.3, text)
+            prev_value = value
         chart_path = os.path.join('images', 'funnel.png')
         plt.savefig(chart_path)
         plt.close()

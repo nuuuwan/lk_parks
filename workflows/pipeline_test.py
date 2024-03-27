@@ -1,8 +1,8 @@
-from lk_plants.analysis.ReadMeDuplicates import ReadMeDuplicates
+from lk_plants.analysis.ReadMeFunnel import ReadMeFunnel
 
 
 def test_main():
-    ReadMeDuplicates().write()
+    ReadMeFunnel().write()
 
 
 if __name__ == "__main__":
