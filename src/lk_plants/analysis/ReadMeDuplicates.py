@@ -1,21 +1,21 @@
-from functools import cached_property
-from datetime import datetime
 import os
+from datetime import datetime
+from functools import cached_property
 
 import matplotlib.pyplot as plt
-
 from utils import Log
-from utils_future import Markdown, MarkdownPage
 
 from lk_plants.analysis.InfoReadMe import InfoReadMe
+from utils_future import Markdown, MarkdownPage
 
 log = Log('ReadMeDuplicates')
+
 
 class ReadMeDuplicates(MarkdownPage, InfoReadMe):
     @cached_property
     def file_path(self):
         return 'README.duplicates.md'
-    
+
     @cached_property
     def duplicates_by_date_stats(self) -> list[str]:
         plant_photo_list = self.plant_photo_list
@@ -46,7 +46,7 @@ class ReadMeDuplicates(MarkdownPage, InfoReadMe):
             )
 
         return list(stats.values())
-    
+
     @cached_property
     def lines_duplicates_by_date(self) -> list[str]:
         plt.close()
@@ -54,9 +54,9 @@ class ReadMeDuplicates(MarkdownPage, InfoReadMe):
         MIN_PHOTOS_IN_DATE = 10
         stats = [s for s in stats_all if s['n_total'] >= MIN_PHOTOS_IN_DATE]
         x = [datetime.strptime(s['date_str'], '%Y-%m-%d') for s in stats]
-        y_duplicates = [s['n_total']  for s in stats]
+        y_duplicates = [s['n_total'] for s in stats]
         y_new = [s['n_new'] for s in stats]
-        
+
         plt.figure(figsize=(16, 9))
         plt.tight_layout(pad=2.0)
 
@@ -64,18 +64,20 @@ class ReadMeDuplicates(MarkdownPage, InfoReadMe):
         plt.bar(x, y_duplicates, label='Duplicates', color="red")
         plt.bar(x, y_new, label='New', color="green")
         plt.legend()
-        plt.title('Duplicates by Date '+f'(with ≥{MIN_PHOTOS_IN_DATE} Plant Photos)')
+        plt.title(
+            'Duplicates by Date '
+            + f'(with ≥{MIN_PHOTOS_IN_DATE} Plant Photos)'
+        )
 
         chart_path = os.path.join('images', 'duplicates_by_date.png')
         plt.savefig(chart_path)
         plt.close()
-        
+
         log.info(f'Wrote {chart_path}')
         os.startfile(chart_path)
 
         chart_path_unix = chart_path.replace('\\', '/')
         return Markdown.image('Duplicates by Date', chart_path_unix)
-
 
     @cached_property
     def lines(self) -> list[str]:
