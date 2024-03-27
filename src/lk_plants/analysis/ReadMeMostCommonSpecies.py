@@ -3,9 +3,8 @@ from functools import cached_property
 
 from utils import Log
 
-from lk_plants.analysis.ReadMeStatisticsByTaxonomy import (
-    ReadMeStatisticsByTaxonomy,
-)
+from lk_plants.analysis.ReadMeStatisticsByTaxonomy import \
+    ReadMeStatisticsByTaxonomy
 from lk_plants.core.plant_net.PlantNetResult import PlantNetResult
 from lk_plants.core.taxonomy.Species import Species
 from lk_plants.core.wiki.WikiPage import WikiPage
