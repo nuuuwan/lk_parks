@@ -119,7 +119,7 @@ class ReadMeIdentification(MarkdownPage, InfoReadMe):
             if plant_photo.direction is None:
                 return 0
             Q = 22.5
-            return round(plant_photo.direction / Q) * Q
+            return str(round(plant_photo.direction / Q) * Q)
 
         return self.get_lines_for_key('camera direction', get_key)
 
