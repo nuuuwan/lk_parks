@@ -1,10 +1,10 @@
 ## Plant Photo Funnel
 
-Of all the photos taken (**All**)
+Of all the photos taken (**All**),
  we filter photos that are
  within the desired geographical area (**In Geo**)
 
-Next we filter out photos that might be 
+Next, we filter photos that are likely not 
 duplicates (**Deduped**).
 
 Finally, we only consider identifications
