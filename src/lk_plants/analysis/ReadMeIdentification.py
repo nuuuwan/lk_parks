@@ -79,8 +79,8 @@ class ReadMeIdentification(MarkdownPage, InfoReadMe):
                 color.append(COLORS_LIST[int(len(COLORS_LIST) * i / n)])
 
         plt.close()
-        plt.figure(figsize=(16, 9))
         plt.tight_layout(pad=2.0)
+        plt.figure(figsize=(16,9))
         plt.xticks(rotation='vertical')
 
         plt.scatter(x, y, color=color, alpha=0.3, s=100, edgecolors='none')
@@ -144,8 +144,9 @@ class ReadMeIdentification(MarkdownPage, InfoReadMe):
     def lines_latlng(self):
         def get_key(plant_photo):
             lat, lng = plant_photo.latlng.tuple
-            
-            return self.get_lines_for_key('latlng', get_key)
+            return f'{lat:.3f},{lng:.3f}'
+
+        return self.get_lines_for_key('latlng', get_key)
 
     @cached_property
     def lines_by_species(self):
@@ -183,7 +184,6 @@ class ReadMeIdentification(MarkdownPage, InfoReadMe):
             + self.lines_direction
             + self.lines_by_species
             + self.lines_by_family
-            + self.lines_lat
-            + self.lines_lng
+            + self.lines_latlng
             + ['']
         )

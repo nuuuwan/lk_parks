@@ -20,11 +20,7 @@
 
 ![images/identification.family.png](images/identification.family.png)
 
-### Lat
+### Latlng
 
-![images/identification.lat.png](images/identification.lat.png)
-
-### Lng
-
-![images/identification.lng.png](images/identification.lng.png)
+![images/identification.latlng.png](images/identification.latlng.png)
 
