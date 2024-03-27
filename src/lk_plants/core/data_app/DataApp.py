@@ -60,16 +60,17 @@ class DataApp:
         del d['plant_net_result']['ut_api_call']
         del d['plant_net_result']['plant_photo_id']
 
-        # del d['species']['gbif_id']
-        # del d['species']['powo_id']
-        # del d['species']['iucn_id']
-        del d['species']['iucn_category']
-
-        del d['wiki_page']['wiki_page_name']
-
-        d['wiki_page']['summary_short'] = DataApp.get_summary_short(
-            d['wiki_page']['summary'])
-        del d['wiki_page']['summary']
+        if 'species' in d:
+            del d['species']['gbif_id']
+            del d['species']['powo_id']
+            del d['species']['iucn_id']
+            # del d['species']['iucn_category']
+        
+        if 'wiki_page' in d:
+            del d['wiki_page']['wiki_page_name']
+            d['wiki_page']['summary_short'] = DataApp.get_summary_short(
+                d['wiki_page']['summary'])
+            del d['wiki_page']['summary']
         return d
 
 

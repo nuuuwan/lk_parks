@@ -23051,6 +23051,40 @@
       "summary": "Bambusa vulgaris,  common bamboo, is an open-clump type bamboo species. It is native to Indochina and to the province of Yunnan in southern China, but it has been widely cultivated in many other places and has become naturalized in several regions. Among bamboo species, it is one of the largest and most easily recognized."
     }
   },
+  "Photo-2024-03-11-07-43-02": {
+    "id": "Photo-2024-03-11-07-43-02",
+    "ut": 1710123182,
+    "latlng": {
+      "lat": 6.913372,
+      "lng": 79.861581
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-11, 07 43 02.jpg",
+    "image_path": "data\\images\\Photo-2024-03-11-07-43-02.jpg",
+    "alt": 7.405699745547074,
+    "direction": 267.53506493506495,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-11-07-43-02",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-03-11-07-43-05": {
+    "id": "Photo-2024-03-11-07-43-05",
+    "ut": 1710123185,
+    "latlng": {
+      "lat": 6.913369,
+      "lng": 79.861589
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-11, 07 43 05.jpg",
+    "image_path": "data\\images\\Photo-2024-03-11-07-43-05.jpg",
+    "alt": 7.459438803362812,
+    "direction": 273.2738951695786,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-11-07-43-05",
+      "species_name_to_score": {}
+    }
+  },
   "Photo-2024-03-11-07-45-41": {
     "id": "Photo-2024-03-11-07-45-41",
     "ut": 1710123341,
@@ -38560,6 +38594,40 @@
       "summary": "Peltophorum pterocarpum (commonly known as copperpod, yellow-flamboyant, yellow flametree, yellow poinciana or yellow-flame) is a species of Peltophorum, native to tropical southeastern Asia and a popular ornamental tree grown around the world."
     }
   },
+  "Photo-2024-03-17-08-07-42": {
+    "id": "Photo-2024-03-17-08-07-42",
+    "ut": 1710643062,
+    "latlng": {
+      "lat": 6.912128,
+      "lng": 79.861678
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-17, 08 07 42.jpg",
+    "image_path": "data\\images\\Photo-2024-03-17-08-07-42.jpg",
+    "alt": 11.662593346911066,
+    "direction": 110.48217007010058,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-17-08-07-42",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-03-17-08-07-57": {
+    "id": "Photo-2024-03-17-08-07-57",
+    "ut": 1710643077,
+    "latlng": {
+      "lat": 6.912181,
+      "lng": 79.861647
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-17, 08 07 57.jpg",
+    "image_path": "data\\images\\Photo-2024-03-17-08-07-57.jpg",
+    "alt": 8.739319759915265,
+    "direction": 291.938995215311,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-17-08-07-57",
+      "species_name_to_score": {}
+    }
+  },
   "Photo-2024-03-17-08-08-12": {
     "id": "Photo-2024-03-17-08-08-12",
     "ut": 1710643092,
@@ -53712,6 +53780,23 @@
     "wiki_page": {
       "wiki_page_name": "Mangifera_indica",
       "summary": "Mangifera indica, commonly known as mango, is a species of flowering plant in the family Anacardiaceae. It is a large fruit tree, capable of growing to a height of 30 metres (100 feet). There are two distinct genetic populations in modern mangoes \u2013 the \"Indian type\" and the \"Southeast Asian type\"."
+    }
+  },
+  "Photo-2024-03-21-07-34-30": {
+    "id": "Photo-2024-03-21-07-34-30",
+    "ut": 1710986670,
+    "latlng": {
+      "lat": 6.914789,
+      "lng": 79.861917
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-21, 07 34 30.jpg",
+    "image_path": "data\\images\\Photo-2024-03-21-07-34-30.jpg",
+    "alt": 10.113658407547835,
+    "direction": 254.5287474332649,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-21-07-34-30",
+      "species_name_to_score": {}
     }
   },
   "Photo-2024-03-21-07-34-39": {
@@ -69491,6 +69576,23 @@
     "wiki_page": {
       "wiki_page_name": "Eucalyptus_robusta",
       "summary": "Eucalyptus robusta, commonly known as swamp mahogany or swamp messmate, is a tree native to eastern Australia. Growing in swampy or waterlogged soils, it is up to 30 m (100 ft) high with thick spongy reddish-brown bark and dark green broad leaves, which help form a dense canopy. The white to cream flowers appear in autumn and winter. The leaves are commonly eaten by insects and are a food item for the koala. It is an important autumn-winter flowering species in eastern Australia and has been planted extensively in many countries around the world. Its timber is used for firewood and in general construction."
+    }
+  },
+  "Photo-2024-03-27-06-55-30": {
+    "id": "Photo-2024-03-27-06-55-30",
+    "ut": 1711502730,
+    "latlng": {
+      "lat": 6.914822,
+      "lng": 79.862336
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-03-27, 06 55 30.jpg",
+    "image_path": "data\\images\\Photo-2024-03-27-06-55-30.jpg",
+    "alt": 10.476682282793867,
+    "direction": 275.13232421875,
+    "plant_net_result": {
+      "ut_api_call": 0,
+      "plant_photo_id": "Photo-2024-03-27-06-55-30",
+      "species_name_to_score": {}
     }
   },
   "Photo-2024-03-27-06-55-36": {
