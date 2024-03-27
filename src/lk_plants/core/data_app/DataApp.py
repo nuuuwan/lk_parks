@@ -24,7 +24,23 @@ class DataApp:
                 break
             content += word + ' '
         return content.strip()
+    
+    @staticmethod
+    def get_data_long(plant_photo):
+        d = plant_photo.to_dict()
+        plant_new_result = PlantNetResult.from_plant_photo(plant_photo)
+        d['plant_net_result'] = plant_new_result.to_dict()
 
+        species_names = list(plant_new_result.species_name_to_score.keys())
+        if species_names:
+            species_name = species_names[0]
+            species = Species.from_name(species_name)
+            d['species'] = species.to_dict()
+
+            d['wiki_page'] = WikiPage.from_wiki_page_name(
+                species.wiki_page_name).to_dict()
+        return d
+    
     @staticmethod
     def get_data_short(plant_photo):
         d = DataApp.get_data_long(plant_photo)
@@ -56,22 +72,7 @@ class DataApp:
         del d['wiki_page']['summary']
         return d
 
-    @staticmethod
-    def get_data_long(plant_photo):
-        d = plant_photo.to_dict()
-        plant_new_result = PlantNetResult.from_plant_photo(plant_photo)
-        d['plant_net_result'] = plant_new_result.to_dict()
 
-        species_names = list(plant_new_result.species_name_to_score.keys())
-        if not species_names:
-            return None
-        species_name = species_names[0]
-        species = Species.from_name(species_name)
-        d['species'] = species.to_dict()
-
-        d['wiki_page'] = WikiPage.from_wiki_page_name(
-            species.wiki_page_name).to_dict()
-        return d
 
     @staticmethod
     def get_ext_plant_photo_idx(func_get_data):
