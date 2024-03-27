@@ -62,20 +62,13 @@ class PlantPhotoBase:
         )
 
     @classmethod
-    def list_all(cls) -> list:
-        def get_key(plant_photo):
-            lat, lng = plant_photo.latlng.lat, plant_photo.latlng.lng
-            return f'{lat:.5f},{lng:.5f}'
-
-        raw_list = cls.list_all_raw()
-        idx = {}
-        for plant_photo in raw_list:
-            key = get_key(plant_photo)
-            idx[key] = plant_photo
-        return list(idx.values())
+    def from_file(cls, file_path: str):
+        d = JSONFile(file_path).read()
+        plant_photo = cls.from_dict(d)
+        return plant_photo
 
     @classmethod
-    def list_all_raw(cls) -> list:
+    def list_all(cls) -> list:
         plant_photo_list = []
         for file_name in os.listdir(
             os.path.join(
@@ -91,8 +84,7 @@ class PlantPhotoBase:
                 'plant_photos',
                 file_name,
             )
-            d = JSONFile(data_path).read()
-            plant_photo = cls.from_dict(d)
+            plant_photo = cls.from_file(data_path)
             plant_photo_list.append(plant_photo)
         return plant_photo_list
 
