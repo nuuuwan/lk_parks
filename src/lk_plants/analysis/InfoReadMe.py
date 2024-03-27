@@ -52,7 +52,7 @@ class InfoReadMe:
         data_vmd_park_list = [
             data for data in data_list if self.is_in_final_analysis(data)
         ]
-        return data_vmd_park_list
+        return InfoReadMe.dedupe(data_vmd_park_list)
 
     @cached_property
     def n_plant_photos(self):
