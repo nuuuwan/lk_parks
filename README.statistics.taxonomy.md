@@ -6,7 +6,7 @@
 
 | # | Species | n(Photos) | % |
 | ---: | :--- | ---: | ---: |
-| 1 | [*Mesua ferrea*](https://en.wikipedia.org/wiki/Mesua_ferrea) | 46 | 7.6% |
+| 1 | [*Mesua ferrea*](https://en.wikipedia.org/wiki/Mesua_ferrea) | 46 | 7.5% |
 | 2 | [*Mangifera indica*](https://en.wikipedia.org/wiki/Mangifera_indica) | 31 | 5.1% |
 | 3 | [*Terminalia arjuna*](https://en.wikipedia.org/wiki/Terminalia_arjuna) | 29 | 4.8% |
 | 4 | [*Artocarpus heterophyllus*](https://en.wikipedia.org/wiki/Artocarpus_heterophyllus) | 22 | 3.6% |
@@ -16,7 +16,7 @@
 | 8 | [*Tecoma stans*](https://en.wikipedia.org/wiki/Tecoma_stans) | 16 | 2.6% |
 | 9 | [*Tabernaemontana divaricata*](https://en.wikipedia.org/wiki/Tabernaemontana_divaricata) | 16 | 2.6% |
 | 10 | [*Peltophorum pterocarpum*](https://en.wikipedia.org/wiki/Peltophorum_pterocarpum) | 15 | 2.5% |
-|  | *(All Others)* | 310 | 50.9% |
+|  | *(All Others)* | 310 | 50.8% |
 
 ### Genera
 
@@ -25,7 +25,7 @@
 | # | Genera | n(Photos) | % |
 | ---: | :--- | ---: | ---: |
 | 1 | [*Terminalia*](https://en.wikipedia.org/wiki/Terminalia) | 47 | 7.7% |
-| 2 | [*Mesua*](https://en.wikipedia.org/wiki/Mesua) | 46 | 7.6% |
+| 2 | [*Mesua*](https://en.wikipedia.org/wiki/Mesua) | 46 | 7.5% |
 | 3 | [*Mangifera*](https://en.wikipedia.org/wiki/Mangifera) | 31 | 5.1% |
 | 4 | [*Ficus*](https://en.wikipedia.org/wiki/Ficus) | 30 | 4.9% |
 | 5 | [*Artocarpus*](https://en.wikipedia.org/wiki/Artocarpus) | 22 | 3.6% |
@@ -42,7 +42,7 @@
 
 | # | Families | n(Photos) | % |
 | ---: | :--- | ---: | ---: |
-| 1 | [*Fabaceae*](https://en.wikipedia.org/wiki/Fabaceae) | 118 | 19.4% |
+| 1 | [*Fabaceae*](https://en.wikipedia.org/wiki/Fabaceae) | 118 | 19.3% |
 | 2 | [*Moraceae*](https://en.wikipedia.org/wiki/Moraceae) | 52 | 8.5% |
 | 3 | [*Calophyllaceae*](https://en.wikipedia.org/wiki/Calophyllaceae) | 50 | 8.2% |
 | 4 | [*Combretaceae*](https://en.wikipedia.org/wiki/Combretaceae) | 49 | 8.0% |
@@ -52,4 +52,4 @@
 | 8 | [*Myrtaceae*](https://en.wikipedia.org/wiki/Myrtaceae) | 23 | 3.8% |
 | 9 | [*Meliaceae*](https://en.wikipedia.org/wiki/Meliaceae) | 21 | 3.4% |
 | 10 | [*Lamiaceae*](https://en.wikipedia.org/wiki/Lamiaceae) | 21 | 3.4% |
-|  | *(All Others)* | 96 | 15.8% |
+|  | *(All Others)* | 96 | 15.7% |

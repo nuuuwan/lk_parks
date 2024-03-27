@@ -4,7 +4,7 @@
 
 This project aims to use Computer Vision and Artificial Intelligence to identify plants in Sri Lanka's public parks, beginning with Viharamahadevi Park, Colombo.
 
-🤖 *This report was automatically generated on  **Mar 27, 2024 (10:37 AM)**, and is based on **609** plant photos.*
+🤖 *This report was automatically generated on  **Mar 27, 2024 (12:47 PM)**, and is based on **610** plant photos.*
 
 ## [PlantNet](https://plantnet.org)
 
@@ -154,7 +154,7 @@ Peltophorum pterocarpum (commonly known as copperpod, yellow-flamboyant, yellow 
 
 | # | Species | n(Photos) | % |
 | ---: | :--- | ---: | ---: |
-| 1 | [*Mesua ferrea*](https://en.wikipedia.org/wiki/Mesua_ferrea) | 46 | 7.6% |
+| 1 | [*Mesua ferrea*](https://en.wikipedia.org/wiki/Mesua_ferrea) | 46 | 7.5% |
 | 2 | [*Mangifera indica*](https://en.wikipedia.org/wiki/Mangifera_indica) | 31 | 5.1% |
 | 3 | [*Terminalia arjuna*](https://en.wikipedia.org/wiki/Terminalia_arjuna) | 29 | 4.8% |
 | 4 | [*Artocarpus heterophyllus*](https://en.wikipedia.org/wiki/Artocarpus_heterophyllus) | 22 | 3.6% |
@@ -164,7 +164,7 @@ Peltophorum pterocarpum (commonly known as copperpod, yellow-flamboyant, yellow 
 | 8 | [*Tecoma stans*](https://en.wikipedia.org/wiki/Tecoma_stans) | 16 | 2.6% |
 | 9 | [*Tabernaemontana divaricata*](https://en.wikipedia.org/wiki/Tabernaemontana_divaricata) | 16 | 2.6% |
 | 10 | [*Peltophorum pterocarpum*](https://en.wikipedia.org/wiki/Peltophorum_pterocarpum) | 15 | 2.5% |
-|  | *(All Others)* | 310 | 50.9% |
+|  | *(All Others)* | 310 | 50.8% |
 
 ### Genera
 
@@ -173,7 +173,7 @@ Peltophorum pterocarpum (commonly known as copperpod, yellow-flamboyant, yellow 
 | # | Genera | n(Photos) | % |
 | ---: | :--- | ---: | ---: |
 | 1 | [*Terminalia*](https://en.wikipedia.org/wiki/Terminalia) | 47 | 7.7% |
-| 2 | [*Mesua*](https://en.wikipedia.org/wiki/Mesua) | 46 | 7.6% |
+| 2 | [*Mesua*](https://en.wikipedia.org/wiki/Mesua) | 46 | 7.5% |
 | 3 | [*Mangifera*](https://en.wikipedia.org/wiki/Mangifera) | 31 | 5.1% |
 | 4 | [*Ficus*](https://en.wikipedia.org/wiki/Ficus) | 30 | 4.9% |
 | 5 | [*Artocarpus*](https://en.wikipedia.org/wiki/Artocarpus) | 22 | 3.6% |
@@ -190,7 +190,7 @@ Peltophorum pterocarpum (commonly known as copperpod, yellow-flamboyant, yellow 
 
 | # | Families | n(Photos) | % |
 | ---: | :--- | ---: | ---: |
-| 1 | [*Fabaceae*](https://en.wikipedia.org/wiki/Fabaceae) | 118 | 19.4% |
+| 1 | [*Fabaceae*](https://en.wikipedia.org/wiki/Fabaceae) | 118 | 19.3% |
 | 2 | [*Moraceae*](https://en.wikipedia.org/wiki/Moraceae) | 52 | 8.5% |
 | 3 | [*Calophyllaceae*](https://en.wikipedia.org/wiki/Calophyllaceae) | 50 | 8.2% |
 | 4 | [*Combretaceae*](https://en.wikipedia.org/wiki/Combretaceae) | 49 | 8.0% |
@@ -200,169 +200,171 @@ Peltophorum pterocarpum (commonly known as copperpod, yellow-flamboyant, yellow 
 | 8 | [*Myrtaceae*](https://en.wikipedia.org/wiki/Myrtaceae) | 23 | 3.8% |
 | 9 | [*Meliaceae*](https://en.wikipedia.org/wiki/Meliaceae) | 21 | 3.4% |
 | 10 | [*Lamiaceae*](https://en.wikipedia.org/wiki/Lamiaceae) | 21 | 3.4% |
-|  | *(All Others)* | 96 | 15.8% |
+|  | *(All Others)* | 96 | 15.7% |
 
 ## Sample of Plant Photos difficult to Identify
 
 Photos where the identification confidence is **< 20%**.
 
-### Photo-2024-03-15-07-01-10
+### Photo-2024-03-15-07-01-27
 
-* 3.5% *Melaleuca viminalis*
-* 3.4% *Bambusa vulgaris*
-* 2.0% *Dendrocalamus giganteus*
+* 6.0% *Podocarpus neriifolius*
+* 1.1% *Cascabela thevetia*
+* 0.7% *Melaleuca viminalis*
 
-<img src="data/images/Photo-2024-03-15-07-01-10.jpg" alt="Photo-2024-03-15-07-01-10"  width="50%" />
+<img src="data/images/Photo-2024-03-15-07-01-27.jpg" alt="Photo-2024-03-15-07-01-27"  width="50%" />
 
-### Photo-2024-03-08-07-06-01
+### Photo-2024-03-08-07-06-50
 
-* 11.3% *Bunchosia armeniaca*
-* 10.4% *Ehretia anacua*
-* 3.4% *Flacourtia jangomas*
+* 17.5% *Mangifera indica*
+* 5.0% *Chitalpa tashkentensis*
+* 4.9% *Mimusops elengi*
 
-<img src="data/images/Photo-2024-03-08-07-06-01.jpg" alt="Photo-2024-03-08-07-06-01"  width="50%" />
+<img src="data/images/Photo-2024-03-08-07-06-50.jpg" alt="Photo-2024-03-08-07-06-50"  width="50%" />
 
-### Photo-2024-03-15-07-19-26
+### Photo-2024-03-15-07-19-33
 
-* 8.7% *Eucalyptus globulus*
-* 7.3% *Mesua ferrea*
-* 2.4% *Eucalyptus sideroxylon*
+* 13.1% *Mesua ferrea*
+* 2.5% *Eucalyptus globulus*
+* 2.2% *Syzygium cumini*
 
-<img src="data/images/Photo-2024-03-15-07-19-26.jpg" alt="Photo-2024-03-15-07-19-26"  width="50%" />
+<img src="data/images/Photo-2024-03-15-07-19-33.jpg" alt="Photo-2024-03-15-07-19-33"  width="50%" />
 
-### Photo-2024-03-27-07-40-31
+### Photo-2024-03-21-07-53-53
 
-* 19.6% *Cassia javanica*
-* 3.8% *Pterocarpus indicus*
-* 3.2% *Cassia moschata*
+* 2.1% *Cinnamomum camphora*
+* 1.6% *Pterocarpus macrocarpus*
+* 0.9% *Quercus serrata*
 
-<img src="data/images/Photo-2024-03-27-07-40-31.jpg" alt="Photo-2024-03-27-07-40-31"  width="50%" />
+<img src="data/images/Photo-2024-03-21-07-53-53.jpg" alt="Photo-2024-03-21-07-53-53"  width="50%" />
 
-### Photo-2024-03-20-07-39-52
+### Photo-2024-03-20-07-40-12
 
-* 5.6% *Morus nigra*
-* 3.6% *Pyrus calleryana*
-* 2.9% *Ziziphus mauritiana*
+* 16.7% *Bauhinia purpurea*
+* 7.0% *Bauhinia tomentosa*
+* 5.4% *Kleinhovia hospita*
 
-<img src="data/images/Photo-2024-03-20-07-39-52.jpg" alt="Photo-2024-03-20-07-39-52"  width="50%" />
+<img src="data/images/Photo-2024-03-20-07-40-12.jpg" alt="Photo-2024-03-20-07-40-12"  width="50%" />
 
-### Photo-2024-03-17-08-04-11
+### Photo-2024-03-17-08-04-33
 
-* 1.1% *Melaleuca viminalis*
-* 0.9% *Chamaecytisus prolifer*
-* 0.9% *Podocarpus neriifolius*
+* 2.9% *Melaleuca viminalis*
+* 2.5% *Acacia confusa*
+* 1.4% *Cascabela thevetia*
 
-<img src="data/images/Photo-2024-03-17-08-04-11.jpg" alt="Photo-2024-03-17-08-04-11"  width="50%" />
+<img src="data/images/Photo-2024-03-17-08-04-33.jpg" alt="Photo-2024-03-17-08-04-33"  width="50%" />
 
-### Photo-2024-03-08-06-55-50
+### Photo-2024-03-08-06-57-03
 
-* 12.9% *Hibiscus rosa-sinensis*
-* 5.6% *Hibiscus fragilis*
-* 4.4% *Hibiscus schizopetalus*
+* 11.1% *Tabebuia rosea*
+* 10.7% *Handroanthus heptaphyllus*
+* 8.5% *Celtis australis*
 
-<img src="data/images/Photo-2024-03-08-06-55-50.jpg" alt="Photo-2024-03-08-06-55-50"  width="50%" />
+<img src="data/images/Photo-2024-03-08-06-57-03.jpg" alt="Photo-2024-03-08-06-57-03"  width="50%" />
 
-### Photo-2024-03-17-08-08-35
+### Photo-2024-03-17-08-09-01
 
-* 0.1% *Schizolobium parahyba*
+* 0.4% *Acacia confusa*
+* 0.2% *Schizolobium parahyba*
+* 0.2% *Elaeocarpus angustifolius*
 
-<img src="data/images/Photo-2024-03-17-08-08-35.jpg" alt="Photo-2024-03-17-08-08-35"  width="50%" />
+<img src="data/images/Photo-2024-03-17-08-09-01.jpg" alt="Photo-2024-03-17-08-09-01"  width="50%" />
 
-### Photo-2024-03-20-07-46-15
+### Photo-2024-03-20-07-46-33
 
-* 11.5% *Peltophorum pterocarpum*
-* 6.2% *Delonix regia*
-* 3.4% *Jacaranda mimosifolia*
+* 12.0% *Toona ciliata*
+* 6.4% *Dimocarpus longan*
+* 3.1% *Pongamia pinnata*
 
-<img src="data/images/Photo-2024-03-20-07-46-15.jpg" alt="Photo-2024-03-20-07-46-15"  width="50%" />
+<img src="data/images/Photo-2024-03-20-07-46-33.jpg" alt="Photo-2024-03-20-07-46-33"  width="50%" />
 
-### Photo-2024-03-21-08-11-20
+### Photo-2024-03-21-08-11-43
 
-* 12.8% *Madhuca longifolia*
-* 1.6% *Cestrum parqui*
-* 1.4% *Asclepias curassavica*
+* 6.0% *Hymenaea courbaril*
+* 4.0% *Bombax ceiba*
+* 4.0% *Ceiba pentandra*
 
-<img src="data/images/Photo-2024-03-21-08-11-20.jpg" alt="Photo-2024-03-21-08-11-20"  width="50%" />
+<img src="data/images/Photo-2024-03-21-08-11-43.jpg" alt="Photo-2024-03-21-08-11-43"  width="50%" />
 
-### Photo-2024-03-20-07-03-23
+### Photo-2024-03-20-07-03-29
 
-* 7.8% *Cordia dichotoma*
-* 7.4% *Pterocarpus santalinus*
-* 3.9% *Dalbergia latifolia*
+* 7.5% *Bougainvillea glabra*
+* 4.4% *Citrus aurantium*
+* 2.9% *Pongamia pinnata*
 
-<img src="data/images/Photo-2024-03-20-07-03-23.jpg" alt="Photo-2024-03-20-07-03-23"  width="50%" />
+<img src="data/images/Photo-2024-03-20-07-03-29.jpg" alt="Photo-2024-03-20-07-03-29"  width="50%" />
 
-### Photo-2024-03-17-08-13-55
+### Photo-2024-03-17-08-15-08
 
-* 3.9% *Holarrhena pubescens*
-* 2.8% *Annona squamosa*
-* 2.4% *Citharexylum spinosum*
+* 15.4% *Mesua ferrea*
+* 4.1% *Senna siamea*
+* 3.3% *Fraxinus angustifolia*
 
-<img src="data/images/Photo-2024-03-17-08-13-55.jpg" alt="Photo-2024-03-17-08-13-55"  width="50%" />
+<img src="data/images/Photo-2024-03-17-08-15-08.jpg" alt="Photo-2024-03-17-08-15-08"  width="50%" />
 
-### Photo-2024-03-22-08-04-50
+### Photo-2024-03-22-08-04-59
 
-* 6.0% *Tabernaemontana divaricata*
-* 3.4% *Syzygium jambos*
-* 1.1% *Ludwigia octovalvis*
+* 4.5% *Cerbera odollam*
+* 2.7% *Cerbera manghas*
+* 1.7% *Manilkara zapota*
 
-<img src="data/images/Photo-2024-03-22-08-04-50.jpg" alt="Photo-2024-03-22-08-04-50"  width="50%" />
+<img src="data/images/Photo-2024-03-22-08-04-59.jpg" alt="Photo-2024-03-22-08-04-59"  width="50%" />
 
-### Photo-2024-03-20-07-03-36
+### Photo-2024-03-20-07-04-16
 
-* 9.2% *Dimocarpus longan*
-* 9.1% *Saraca indica*
-* 7.4% *Saraca asoca*
+* 13.4% *Moringa oleifera*
+* 9.5% *Libidibia ferrea*
+* 5.4% *Albizia procera*
 
-<img src="data/images/Photo-2024-03-20-07-03-36.jpg" alt="Photo-2024-03-20-07-03-36"  width="50%" />
+<img src="data/images/Photo-2024-03-20-07-04-16.jpg" alt="Photo-2024-03-20-07-04-16"  width="50%" />
 
-### Photo-2024-03-20-07-38-35
+### Photo-2024-03-20-07-38-47
 
-* 3.1% *Quercus acutissima*
-* 1.3% *Santalum album*
-* 1.2% *Persea americana*
+* 3.7% *Pterocarpus indicus*
+* 3.2% *Cassia fistula*
+* 3.2% *Holarrhena pubescens*
 
-<img src="data/images/Photo-2024-03-20-07-38-35.jpg" alt="Photo-2024-03-20-07-38-35"  width="50%" />
+<img src="data/images/Photo-2024-03-20-07-38-47.jpg" alt="Photo-2024-03-20-07-38-47"  width="50%" />
 
-### Photo-2024-03-11-06-37-43
+### Photo-2024-03-11-06-38-04
 
-* 11.8% *Alnus formosana*
-* 10.0% *Quercus humboldtii*
-* 7.7% *Santalum album*
+* 15.2% *Quercus humboldtii*
+* 5.1% *Prunus serrulata*
+* 3.0% *Tabebuia rosea*
 
-<img src="data/images/Photo-2024-03-11-06-37-43.jpg" alt="Photo-2024-03-11-06-37-43"  width="50%" />
+<img src="data/images/Photo-2024-03-11-06-38-04.jpg" alt="Photo-2024-03-11-06-38-04"  width="50%" />
 
 ### Photo-2024-02-10-08-03-25
 
-* 5.3% *Pittosporum undulatum*
-* 3.4% *Melaleuca alternifolia*
-* 3.2% *Camellia sinensis*
+* 5.4% *Pittosporum undulatum*
+* 3.3% *Melaleuca alternifolia*
+* 2.6% *Camellia sinensis*
 
 <img src="data/images/Photo-2024-02-10-08-03-25.jpg" alt="Photo-2024-02-10-08-03-25"  width="50%" />
 
-### Photo-2024-03-14-07-50-17
+### Photo-2024-03-14-07-50-26
 
-* 13.5% *Ficus religiosa*
-* 1.9% *Strychnos nux-vomica*
-* 1.8% *Spondias mombin*
+* 2.3% *Aegle marmelos*
+* 0.6% *Nephelium lappaceum*
+* 0.4% *Pisonia aculeata*
 
-<img src="data/images/Photo-2024-03-14-07-50-17.jpg" alt="Photo-2024-03-14-07-50-17"  width="50%" />
+<img src="data/images/Photo-2024-03-14-07-50-26.jpg" alt="Photo-2024-03-14-07-50-26"  width="50%" />
 
-### Photo-2024-03-22-08-03-23
+### Photo-2024-03-22-08-04-08
 
-* 17.3% *Mesua ferrea*
-* 2.7% *Eucalyptus robusta*
-* 2.2% *Toona ciliata*
+* 1.2% *Prunus avium*
+* 1.0% *Prunus persica*
+* 0.5% *Elaeocarpus floribundus*
 
-<img src="data/images/Photo-2024-03-22-08-03-23.jpg" alt="Photo-2024-03-22-08-03-23"  width="50%" />
+<img src="data/images/Photo-2024-03-22-08-04-08.jpg" alt="Photo-2024-03-22-08-04-08"  width="50%" />
 
-### Photo-2024-03-12-07-19-55
+### Photo-2024-03-12-07-31-52
 
-* 11.8% *Calophyllum inophyllum*
-* 11.0% *Tabebuia pallida*
-* 4.2% *Ficus rubiginosa*
+* 11.1% *Mesua ferrea*
+* 5.0% *Eucalyptus globulus*
+* 4.9% *Tipuana tipu*
 
-<img src="data/images/Photo-2024-03-12-07-19-55.jpg" alt="Photo-2024-03-12-07-19-55"  width="50%" />
+<img src="data/images/Photo-2024-03-12-07-31-52.jpg" alt="Photo-2024-03-12-07-31-52"  width="50%" />
 
 ## Duplicates
 
