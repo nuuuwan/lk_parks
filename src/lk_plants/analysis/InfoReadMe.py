@@ -38,8 +38,6 @@ class InfoReadMe:
             idx[key] = plant_photo
         return list(idx.values())
 
-
-
     @cached_property
     def plant_photo_list(self):
         raw = [plant_photo for plant_photo in PlantPhoto.list_all()]
