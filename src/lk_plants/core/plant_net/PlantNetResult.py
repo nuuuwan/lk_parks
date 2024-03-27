@@ -26,11 +26,11 @@ class PlantNetResult:
     # DEFAULT_PROJECT = 'k-world-flora'
     DEFAULT_PROJECT = 'all'
 
-    FORCE_RETRY = True
+    FORCE_RETRY = False
     MIN_SCORE = 0.2
 
     # leaf, flower, fruit, bark, auto.
-    DEFAULT_ORGAN = 'auto'    
+    DEFAULT_ORGAN = 'auto'
     DIR_DATA_PLANT_NET_RESULTS = os.path.join(
         'data',
         'plant_net_results',
@@ -132,16 +132,18 @@ class PlantNetResult:
     @staticmethod
     def from_plant_photo(plant_photo: PlantPhoto) -> 'PlantNetResult':
         if os.path.exists(PlantNetResult.get_data_path(plant_photo.id)):
-            plant_net_result = PlantNetResult.from_plant_photo_id(plant_photo.id)
-            
+            plant_net_result = PlantNetResult.from_plant_photo_id(
+                plant_photo.id
+            )
+
             if not plant_net_result.FORCE_RETRY:
                 return plant_net_result
-            
+
             top_score = plant_net_result.top_score
             if top_score and top_score > PlantNetResult.MIN_SCORE:
                 return plant_net_result
             log.warn(f'Re-trying {plant_photo.id} ({top_score:.1%})')
-            
+
         ut_api_call = time.time()
         results = PlantNetResult.identify(plant_photo.image_path)
         species_name_to_score = PlantNetResult.get_species_name_to_score(

@@ -8,8 +8,9 @@ from lk_plants.analysis.ReadMeDuplicates import ReadMeDuplicates
 from lk_plants.analysis.ReadMeFunnel import ReadMeFunnel
 from lk_plants.analysis.ReadMeMostCommonSpecies import ReadMeMostCommonSpecies
 from lk_plants.analysis.ReadMePlantNet import ReadMePlantNet
-from lk_plants.analysis.ReadMeStatisticsByTaxonomy import \
-    ReadMeStatisticsByTaxonomy
+from lk_plants.analysis.ReadMeStatisticsByTaxonomy import (
+    ReadMeStatisticsByTaxonomy,
+)
 from lk_plants.analysis.ReadMeVMDPark import ReadMeVMDPark
 from utils_future import MarkdownPage
 
