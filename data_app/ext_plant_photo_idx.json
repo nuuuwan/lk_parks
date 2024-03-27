@@ -86,11 +86,11 @@
     "direction": 46.417739887538545,
     "plant_net_result": {
       "species_name_to_score": {
-        "Erythrina poeppigiana": 0.11861,
-        "Erythrina fusca": 0.10644,
-        "Ficus benghalensis": 0.04565,
-        "Erythrina speciosa": 0.0207,
-        "Erythrina amazonica": 0.02011
+        "Erythrina poeppigiana": 0.11335,
+        "Erythrina fusca": 0.09136,
+        "Ficus benghalensis": 0.04688,
+        "Erythrina speciosa": 0.02019,
+        "Erythrina senegalensis": 0.01786
       }
     },
     "species": {
@@ -122,11 +122,11 @@
     "direction": 271.5167693360712,
     "plant_net_result": {
       "species_name_to_score": {
-        "Juglans regia": 0.07832,
-        "Carya illinoinensis": 0.04867,
-        "Fraxinus excelsior": 0.04844,
-        "Alnus japonica": 0.01951,
-        "Pterodon emarginatus": 0.01533
+        "Juglans regia": 0.07259,
+        "Fraxinus excelsior": 0.05151,
+        "Carya illinoinensis": 0.04237,
+        "Pterodon emarginatus": 0.01783,
+        "Alnus japonica": 0.01705
       }
     },
     "species": {
@@ -198,11 +198,11 @@
     "direction": 230.6875612144956,
     "plant_net_result": {
       "species_name_to_score": {
-        "Monodora tenuifolia": 0.01185,
-        "Chamaedorea elegans": 0.01023,
-        "Mangifera indica": 0.00942,
-        "Vanda coerulea": 0.00906,
-        "Cerbera manghas": 0.00872
+        "Monodora tenuifolia": 0.01107,
+        "Vanda coerulea": 0.0101,
+        "Vanilla planifolia": 0.00987,
+        "Cerbera manghas": 0.0097,
+        "Mangifera indica": 0.00934
       }
     },
     "species": {
@@ -269,11 +269,11 @@
     "direction": 358.22860712054967,
     "plant_net_result": {
       "species_name_to_score": {
-        "Paubrasilia echinata": 0.09851,
-        "Diospyros buxifolia": 0.05447,
-        "Senna siamea": 0.03487,
-        "Pterocarya stenoptera": 0.01784,
-        "Tipuana tipu": 0.01596
+        "Paubrasilia echinata": 0.14617,
+        "Diospyros buxifolia": 0.0461,
+        "Senna siamea": 0.04193,
+        "Pterocarya stenoptera": 0.01578,
+        "Tipuana tipu": 0.01441
       }
     },
     "species": {
@@ -304,11 +304,11 @@
     "direction": 345.7876588021779,
     "plant_net_result": {
       "species_name_to_score": {
-        "Diospyros buxifolia": 0.08592,
-        "Zanthoxylum rhoifolium": 0.03022,
-        "Lagerstroemia speciosa": 0.02181,
-        "Inga edulis": 0.02137,
-        "Pterocarpus indicus": 0.01993
+        "Diospyros buxifolia": 0.09303,
+        "Pterocarpus indicus": 0.0231,
+        "Zanthoxylum rhoifolium": 0.01982,
+        "Paubrasilia echinata": 0.01931,
+        "Inga edulis": 0.01766
       }
     },
     "species": {
@@ -338,11 +338,11 @@
     "direction": 306.22265625,
     "plant_net_result": {
       "species_name_to_score": {
-        "Carissa carandas": 0.12739,
-        "Eugenia brasiliensis": 0.08934,
-        "Myrsine guianensis": 0.07145,
-        "Quercus humboldtii": 0.06945,
-        "Ixora chinensis": 0.03919
+        "Carissa carandas": 0.14217,
+        "Eugenia brasiliensis": 0.08975,
+        "Quercus humboldtii": 0.0668,
+        "Myrsine guianensis": 0.06426,
+        "Pimenta racemosa": 0.03862
       }
     },
     "species": {
@@ -1093,11 +1093,11 @@
     "direction": 90.47325894574837,
     "plant_net_result": {
       "species_name_to_score": {
-        "Pittosporum undulatum": 0.05301,
-        "Melaleuca alternifolia": 0.03412,
-        "Camellia sinensis": 0.03181,
-        "Pittosporum senacia": 0.02335,
-        "Cornus florida": 0.02106
+        "Pittosporum undulatum": 0.05358,
+        "Melaleuca alternifolia": 0.0332,
+        "Camellia sinensis": 0.02604,
+        "Eucalyptus lehmannii": 0.02486,
+        "Pittosporum senacia": 0.0246
       }
     },
     "species": {
@@ -1206,11 +1206,11 @@
     "direction": 278.62155172413793,
     "plant_net_result": {
       "species_name_to_score": {
-        "Averrhoa bilimbi": 0.10931,
-        "Lagerstroemia speciosa": 0.07684,
-        "Brownea grandiceps": 0.05711,
-        "Phyllanthus acidus": 0.04942,
-        "Koelreuteria bipinnata": 0.04445
+        "Averrhoa bilimbi": 0.10731,
+        "Lagerstroemia speciosa": 0.07785,
+        "Phyllanthus acidus": 0.052,
+        "Brownea grandiceps": 0.04705,
+        "Averrhoa carambola": 0.04433
       }
     },
     "species": {
@@ -1358,11 +1358,11 @@
     "direction": 162.9469298245614,
     "plant_net_result": {
       "species_name_to_score": {
-        "Toona ciliata": 0.15763,
-        "Lagerstroemia speciosa": 0.13176,
-        "Casimiroa edulis": 0.04304,
-        "Bridelia micrantha": 0.03564,
-        "Cassia fistula": 0.03433
+        "Toona ciliata": 0.18822,
+        "Lagerstroemia speciosa": 0.11384,
+        "Casimiroa edulis": 0.07815,
+        "Bridelia micrantha": 0.03298,
+        "Cassia fistula": 0.03032
       }
     },
     "species": {
@@ -1394,11 +1394,11 @@
     "direction": 178.96989447548106,
     "plant_net_result": {
       "species_name_to_score": {
-        "Roystonea regia": 0.17809,
-        "Phoenix reclinata": 0.15282,
-        "Roystonea oleracea": 0.05598,
-        "Archontophoenix cunninghamiana": 0.04288,
-        "Syagrus romanzoffiana": 0.04212
+        "Roystonea regia": 0.20209,
+        "Phoenix reclinata": 0.15236,
+        "Roystonea oleracea": 0.06364,
+        "Syagrus romanzoffiana": 0.04072,
+        "Archontophoenix cunninghamiana": 0.03639
       }
     },
     "species": {
@@ -1462,11 +1462,11 @@
     "direction": 109.79014586709887,
     "plant_net_result": {
       "species_name_to_score": {
-        "Cordia dichotoma": 0.17042,
-        "Bauhinia blakeana": 0.09103,
-        "Cordia sebestena": 0.05531,
-        "Celtis sinensis": 0.04844,
-        "Bauhinia variegata": 0.04437
+        "Cordia dichotoma": 0.14854,
+        "Bauhinia blakeana": 0.09458,
+        "Cordia sebestena": 0.06363,
+        "Bauhinia variegata": 0.04887,
+        "Celtis sinensis": 0.04614
       }
     },
     "species": {
@@ -1499,11 +1499,11 @@
     "direction": 182.68186936936937,
     "plant_net_result": {
       "species_name_to_score": {
-        "Terminalia arjuna": 0.16221,
-        "Quercus phellos": 0.10398,
-        "Polyalthia suberosa": 0.09021,
-        "Brownea grandiceps": 0.04564,
-        "Syzygium jambos": 0.02597
+        "Terminalia arjuna": 0.15991,
+        "Quercus phellos": 0.10161,
+        "Polyalthia suberosa": 0.08776,
+        "Brownea grandiceps": 0.05035,
+        "Syzygium jambos": 0.02537
       }
     },
     "species": {
@@ -1645,11 +1645,11 @@
     "direction": 337.2604369879048,
     "plant_net_result": {
       "species_name_to_score": {
-        "Melaleuca leucadendra": 0.06443,
-        "Celtis australis": 0.05576,
-        "Eucalyptus robusta": 0.04274,
-        "Mesua ferrea": 0.02317,
-        "Eucalyptus globulus": 0.02314
+        "Melaleuca leucadendra": 0.06315,
+        "Celtis australis": 0.05004,
+        "Eucalyptus robusta": 0.04371,
+        "Mesua ferrea": 0.028,
+        "Fraxinus angustifolia": 0.02362
       }
     },
     "species": {
@@ -1861,11 +1861,11 @@
     "direction": 54.768962848297214,
     "plant_net_result": {
       "species_name_to_score": {
-        "Tabebuia rosea": 0.09867,
-        "Tabebuia pallida": 0.05224,
-        "Phytolacca dioica": 0.04412,
-        "Swietenia macrophylla": 0.02459,
-        "Cinnamomum camphora": 0.02034
+        "Tabebuia rosea": 0.09857,
+        "Tabebuia pallida": 0.0427,
+        "Phytolacca dioica": 0.03995,
+        "Swietenia macrophylla": 0.02864,
+        "Hymenaea courbaril": 0.02584
       }
     },
     "species": {
@@ -1968,11 +1968,11 @@
     "direction": 24.693960204261312,
     "plant_net_result": {
       "species_name_to_score": {
-        "Phillyrea latifolia": 0.08539,
-        "Terminalia mantaly": 0.03526,
-        "Quercus suber": 0.02935,
-        "Sloanea terniflora": 0.0228,
-        "Ulmus pumila": 0.01857
+        "Phillyrea latifolia": 0.09698,
+        "Quercus suber": 0.03478,
+        "Terminalia mantaly": 0.03444,
+        "Sloanea terniflora": 0.02395,
+        "Sequoia sempervirens": 0.02216
       }
     },
     "species": {
@@ -2003,11 +2003,11 @@
     "direction": 284.884430176565,
     "plant_net_result": {
       "species_name_to_score": {
-        "Betula nigra": 0.14911,
-        "Platanus occidentalis": 0.05295,
-        "Ulmus americana": 0.03889,
-        "Liriodendron tulipifera": 0.03198,
-        "Morus nigra": 0.02977
+        "Betula nigra": 0.13784,
+        "Platanus occidentalis": 0.04309,
+        "Ulmus americana": 0.03708,
+        "Morus nigra": 0.03242,
+        "Liriodendron tulipifera": 0.0293
       }
     },
     "species": {
@@ -2124,37 +2124,36 @@
     "direction": 207.0890961724027,
     "plant_net_result": {
       "species_name_to_score": {
-        "Mangifera indica": 0.0731,
-        "Aegle marmelos": 0.06567,
-        "Qualea parviflora": 0.04141,
-        "Phytolacca dioica": 0.0413,
-        "Quercus humboldtii": 0.03188
+        "Aegle marmelos": 0.07363,
+        "Mangifera indica": 0.07034,
+        "Phytolacca dioica": 0.04652,
+        "Qualea parviflora": 0.04192,
+        "Citrus aurantium": 0.0345
       }
     },
     "species": {
-      "name": "Mangifera indica",
-      "authorship": "L.",
-      "genus_name": "Mangifera",
-      "family_name": "Anacardiaceae",
-      "gbif_id": "3190638",
-      "powo_id": "69913-1",
-      "iucn_id": "31389",
+      "name": "Aegle marmelos",
+      "authorship": "(L.) Corr\u00eaa",
+      "genus_name": "Aegle",
+      "family_name": "Rutaceae",
+      "gbif_id": "5421195",
+      "powo_id": "770819-1",
+      "iucn_id": "156233789",
       "common_names": [
-        "Amba",
-        "Amiram",
-        "Amra",
-        "Ma",
-        "Mamaram",
-        "Mangai",
-        "Mango",
-        "Mango Tree",
-        "Mee Amba",
-        "Sahakara",
-        "\u0906\u092e"
+        "Adhararuha",
+        "Beli",
+        "Bila",
+        "Indian bael",
+        "Kuvilam",
+        "Shreephal",
+        "Sivadrumah",
+        "Tripatre",
+        "Vilvam",
+        "\u0c2e\u0c3e\u0c30\u0c47\u0c21\u0c41"
       ]
     },
     "wiki_page": {
-      "summary_short": "Mangifera indica, commonly known as mango, is a species of flowering plant in the family Anacardiaceae. It is a large fruit tree, capable of growing to a height of 30 metres (100 feet). There are two distinct genetic populations in modern mangoes \u2013 the \"Indian type\" and the \"Southeast Asian type\"."
+      "summary_short": "Aegle marmelos, commonly known as bael (or bili or bhel), also Bengal quince, golden apple, Japanese bitter orange, stone apple or wood apple, is a species of tree native to the Indian subcontinent and Southeast Asia. It is present in India, Pakistan, Bangladesh, Sri Lanka, and Nepal as a naturalized species. The tree is considered to be sacred by Hindus and Buddhists."
     }
   },
   "Photo-2024-03-08-06-55-50": {
@@ -2168,11 +2167,11 @@
     "direction": 213.00190718372536,
     "plant_net_result": {
       "species_name_to_score": {
-        "Hibiscus rosa-sinensis": 0.12885,
-        "Hibiscus fragilis": 0.05566,
-        "Hibiscus schizopetalus": 0.04377,
-        "Lantana camara": 0.02462,
-        "Crataegus persimilis": 0.00837
+        "Hibiscus rosa-sinensis": 0.12659,
+        "Hibiscus fragilis": 0.05419,
+        "Hibiscus schizopetalus": 0.04754,
+        "Lantana camara": 0.02418,
+        "Crataegus persimilis": 0.00886
       }
     },
     "species": {
@@ -2251,11 +2250,11 @@
     "direction": 96.67762753534112,
     "plant_net_result": {
       "species_name_to_score": {
-        "Tabebuia rosea": 0.1153,
-        "Handroanthus heptaphyllus": 0.09153,
-        "Celtis australis": 0.08235,
-        "Ficus virens": 0.04288,
-        "Quercus glauca": 0.03664
+        "Tabebuia rosea": 0.11139,
+        "Handroanthus heptaphyllus": 0.1071,
+        "Celtis australis": 0.08461,
+        "Quercus glauca": 0.0435,
+        "Ficus virens": 0.03611
       }
     },
     "species": {
@@ -2287,11 +2286,11 @@
     "direction": 292.25085440874915,
     "plant_net_result": {
       "species_name_to_score": {
-        "Tabebuia rosea": 0.09665,
-        "Melicoccus bijugatus": 0.02632,
-        "Inga edulis": 0.0252,
-        "Licania ternatensis": 0.02322,
-        "Inga laurina": 0.02094
+        "Tabebuia rosea": 0.09967,
+        "Inga edulis": 0.02796,
+        "Melicoccus bijugatus": 0.0232,
+        "Licania ternatensis": 0.02193,
+        "Inga laurina": 0.01962
       }
     },
     "species": {
@@ -2359,11 +2358,11 @@
     "direction": 302.54788213627995,
     "plant_net_result": {
       "species_name_to_score": {
-        "Melaleuca quinquenervia": 0.12604,
-        "Olea europaea": 0.09133,
-        "Melaleuca citrina": 0.06006,
-        "Melaleuca viminalis": 0.02605,
-        "Tristaniopsis laurina": 0.02486
+        "Melaleuca quinquenervia": 0.13696,
+        "Olea europaea": 0.10309,
+        "Melaleuca citrina": 0.06777,
+        "Melaleuca viminalis": 0.02402,
+        "Tristaniopsis laurina": 0.02207
       }
     },
     "species": {
@@ -2395,38 +2394,29 @@
     "direction": 4.545019149736356,
     "plant_net_result": {
       "species_name_to_score": {
-        "Tectona grandis": 0.0779,
-        "Lagerstroemia speciosa": 0.07244,
-        "Magnolia kobus": 0.05372,
-        "Magnolia acuminata": 0.03766,
-        "Holarrhena pubescens": 0.03375
+        "Lagerstroemia speciosa": 0.09807,
+        "Tectona grandis": 0.07413,
+        "Magnolia kobus": 0.0459,
+        "Holarrhena pubescens": 0.04488,
+        "Syzygium samarangense": 0.0341
       }
     },
     "species": {
-      "name": "Tectona grandis",
-      "authorship": "L.f.",
-      "genus_name": "Tectona",
-      "family_name": "Lamiaceae",
-      "gbif_id": "2925649",
-      "powo_id": "864923-1",
-      "iucn_id": "62019830",
+      "name": "Lagerstroemia speciosa",
+      "authorship": "(L.) Pers.",
+      "genus_name": "Lagerstroemia",
+      "family_name": "Lythraceae",
+      "gbif_id": "3188724",
+      "powo_id": "553618-1",
+      "iucn_id": "61780249",
       "common_names": [
-        "Bankok teak",
-        "Bardaru",
-        "Bhumisah",
-        "Dwardaru",
-        "Indian-oak",
-        "Kharchchada",
-        "Kolaphala",
-        "Saaka",
-        "Sabarasaara",
-        "Teak",
-        "The Kka Signify Long Sound",
-        "Thekku"
+        "Pride-of-India",
+        "Queen's crape-myrtle",
+        "Queen's-flower"
       ]
     },
     "wiki_page": {
-      "summary_short": "Teak (Tectona grandis) is a tropical hardwood tree species in the family Lamiaceae. It is a large, deciduous tree that occurs in mixed hardwood forests. Tectona grandis has small, fragrant white flowers arranged in dense clusters (panicles) at the end of the branches. These flowers contain both types of reproductive organs (perfect flowers). The large, papery leaves of teak trees are often hairy on the lower surface. Teak wood has a leather-like smell when it is freshly milled and is ..."
+      "summary_short": "Lagerstroemia speciosa (giant crepe-myrtle, Queen's crepe-myrtle, banab\u00e1 plant, or pride of India, or \"Queen's Flower\" or \"Jarul\") is a species of Lagerstroemia native to tropical southern Asia. It is a deciduous tree with bright pink to light purple flowers.The name \"Queen's Flower\" is derived from the specific epithet 'reginae' or 'flosreginae', which means \"imperial or flower of the queen\". The tree bears beautiful attractive flowers in profusion in purple, lilac or pinkish-violet colours, ..."
     }
   },
   "Photo-2024-03-08-06-58-10": {
@@ -2440,11 +2430,11 @@
     "direction": 311.68994140625,
     "plant_net_result": {
       "species_name_to_score": {
-        "Anacardium occidentale": 0.16534,
-        "Kigelia africana": 0.12037,
-        "Schleichera oleosa": 0.11621,
-        "Psidium guajava": 0.09825,
-        "Trichilia dregeana": 0.04607
+        "Anacardium occidentale": 0.15893,
+        "Kigelia africana": 0.14124,
+        "Schleichera oleosa": 0.11065,
+        "Psidium guajava": 0.09267,
+        "Trichilia dregeana": 0.05024
       }
     },
     "species": {
@@ -2554,11 +2544,11 @@
     "direction": 266.46368390470656,
     "plant_net_result": {
       "species_name_to_score": {
-        "Filicium decipiens": 0.12492,
-        "Myrica faya": 0.05901,
-        "Banksia integrifolia": 0.0437,
-        "Acacia longifolia": 0.03005,
-        "Licania ternatensis": 0.0271
+        "Filicium decipiens": 0.1115,
+        "Myrica faya": 0.05582,
+        "Banksia integrifolia": 0.04998,
+        "Acacia longifolia": 0.03409,
+        "Podocarpus lambertii": 0.03138
       }
     },
     "species": {
@@ -2588,11 +2578,11 @@
     "direction": 266.93707250342,
     "plant_net_result": {
       "species_name_to_score": {
-        "Spondias purpurea": 0.19967,
-        "Filicium decipiens": 0.11096,
-        "Samanea saman": 0.04709,
-        "Schinus terebinthifolia": 0.04242,
-        "Kigelia africana": 0.0402
+        "Spondias purpurea": 0.19686,
+        "Filicium decipiens": 0.12724,
+        "Samanea saman": 0.04708,
+        "Kigelia africana": 0.0404,
+        "Schinus terebinthifolia": 0.03984
       }
     },
     "species": {
@@ -2665,11 +2655,11 @@
     "direction": 334.22125256673513,
     "plant_net_result": {
       "species_name_to_score": {
-        "Syzygium cumini": 0.17154,
-        "Annona purpurea": 0.0783,
-        "Juglans regia": 0.04911,
-        "Diospyros blancoi": 0.029,
-        "Eugenia jambosoides": 0.02624
+        "Syzygium cumini": 0.17216,
+        "Annona purpurea": 0.07742,
+        "Juglans regia": 0.05354,
+        "Terminalia arjuna": 0.02748,
+        "Diospyros blancoi": 0.02384
       }
     },
     "species": {
@@ -2706,11 +2696,11 @@
     "direction": 334.66400152293926,
     "plant_net_result": {
       "species_name_to_score": {
-        "Moquilea tomentosa": 0.07868,
-        "Guarea guidonia": 0.04727,
-        "Syzygium cumini": 0.04514,
-        "Lagerstroemia speciosa": 0.0382,
-        "Carpinus betulus": 0.02748
+        "Moquilea tomentosa": 0.07965,
+        "Syzygium cumini": 0.05019,
+        "Guarea guidonia": 0.04781,
+        "Lagerstroemia speciosa": 0.04298,
+        "Carpinus betulus": 0.02745
       }
     },
     "species": {
@@ -2740,11 +2730,11 @@
     "direction": 311.0154416306362,
     "plant_net_result": {
       "species_name_to_score": {
-        "Cinnamomum camphora": 0.08624,
-        "Mimusops elengi": 0.07705,
-        "Syzygium cumini": 0.07139,
-        "Phytolacca dioica": 0.0628,
-        "Ligustrum lucidum": 0.03361
+        "Cinnamomum camphora": 0.0939,
+        "Syzygium cumini": 0.07993,
+        "Phytolacca dioica": 0.06467,
+        "Mimusops elengi": 0.05801,
+        "Ligustrum lucidum": 0.03631
       }
     },
     "species": {
@@ -2814,11 +2804,11 @@
     "direction": 299.67205800334636,
     "plant_net_result": {
       "species_name_to_score": {
-        "Mimusops elengi": 0.07508,
-        "Ligustrum lucidum": 0.05895,
-        "Syzygium cumini": 0.05598,
-        "Plinia cauliflora": 0.04734,
-        "Quercus glauca": 0.03544
+        "Mimusops elengi": 0.07276,
+        "Ligustrum lucidum": 0.06707,
+        "Syzygium cumini": 0.05713,
+        "Plinia cauliflora": 0.05392,
+        "Mouriri guianensis": 0.03711
       }
     },
     "species": {
