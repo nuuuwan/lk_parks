@@ -1,0 +1,17 @@
+{
+  "ut_api_call": 1711770666.4143417,
+  "plant_photo_id": "Photo-2024-03-29-07-57-08",
+  "species_name_to_score": {
+    "Acacia auriculiformis": 0.72929,
+    "Acacia melanoxylon": 0.04945,
+    "Eustrephus latifolius": 0.00573,
+    "Melaleuca leucadendra": 0.00286,
+    "Acacia mangium": 0.00198,
+    "Acacia implexa": 0.00184,
+    "Phyllostachys sulphurea": 0.00128,
+    "Fraxinus americana": 0.00117,
+    "Acacia denticulosa": 0.00115,
+    "Melaleuca quinquenervia": 0.00106,
+    "Fraxinus angustifolia": 0.00102
+  }
+}

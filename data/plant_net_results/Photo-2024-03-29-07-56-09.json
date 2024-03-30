@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 1711770631.20825,
+  "plant_photo_id": "Photo-2024-03-29-07-56-09",
+  "species_name_to_score": {
+    "Delonix regia": 0.41123,
+    "Albizia julibrissin": 0.02257,
+    "Enterolobium cyclocarpum": 0.01047,
+    "Cassia grandis": 0.00265,
+    "Acacia dealbata": 0.00245,
+    "Bombax ceiba": 0.00238,
+    "Sorbus aucuparia": 0.00222,
+    "Jacaranda mimosifolia": 0.00209,
+    "Erythrina fusca": 0.00194,
+    "Ipomoea x multifida": 0.00167,
+    "Sterculia foetida": 0.00157,
+    "Spondias purpurea": 0.00139,
+    "Brachychiton acerifolius": 0.00138
+  }
+}

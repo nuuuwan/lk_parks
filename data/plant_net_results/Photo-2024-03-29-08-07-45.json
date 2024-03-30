@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 1711770967.2559333,
+  "plant_photo_id": "Photo-2024-03-29-08-07-45",
+  "species_name_to_score": {
+    "Bambusa vulgaris": 0.29685,
+    "Dendrocalamus giganteus": 0.20819,
+    "Dendrocalamus asper": 0.02995,
+    "Phyllostachys aurea": 0.0186,
+    "Dendrocalamus latiflorus": 0.00794,
+    "Phyllostachys aureosulcata": 0.00589,
+    "Bambusa oldhamii": 0.00324,
+    "Phyllostachys vivax": 0.00323,
+    "Dendrocalamus strictus": 0.00227,
+    "Bambusa multiplex": 0.00218,
+    "Bambusa bambos": 0.00207,
+    "Dendrocalamus hamiltonii": 0.00127,
+    "Schizostachyum brachycladum": 0.00119
+  }
+}

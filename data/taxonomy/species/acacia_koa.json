@@ -1,0 +1,15 @@
+{
+  "name": "Acacia koa",
+  "authorship": "A.Gray",
+  "genus_name": "Acacia",
+  "family_name": "Fabaceae",
+  "gbif_id": "2980514",
+  "powo_id": "470659-1",
+  "iucn_id": "19891713",
+  "iucn_category": "LC",
+  "common_names": [
+    "Gray Koa",
+    "Koa",
+    "Koa acacia"
+  ]
+}

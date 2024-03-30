@@ -1,0 +1,29 @@
+{
+  "ut_api_call": 1711771007.76495,
+  "plant_photo_id": "Photo-2024-03-29-08-09-05",
+  "species_name_to_score": {
+    "Elaeis oleifera": 0.41896,
+    "Elaeis guineensis": 0.41283,
+    "Nypa fruticans": 0.0071,
+    "Corypha lecomtei": 0.00407,
+    "Attalea phalerata": 0.00338,
+    "Syagrus coronata": 0.00295,
+    "Butia capitata": 0.00288,
+    "Phoenix roebelenii": 0.00281,
+    "Syagrus romanzoffiana": 0.0026,
+    "Dypsis decaryi": 0.00218,
+    "Phoenix dactylifera": 0.00215,
+    "Attalea maripa": 0.00213,
+    "Dicksonia antarctica": 0.002,
+    "Attalea rostrata": 0.00191,
+    "Phoenix sylvestris": 0.00176,
+    "Livistona decora": 0.0016,
+    "Phytelephas macrocarpa": 0.00159,
+    "Phoenix reclinata": 0.00138,
+    "Sabal palmetto": 0.0013,
+    "Tillandsia utriculata": 0.00107,
+    "Raphia farinifera": 0.00105,
+    "Arenga pinnata": 0.00104,
+    "Cycas circinalis": 0.00104
+  }
+}

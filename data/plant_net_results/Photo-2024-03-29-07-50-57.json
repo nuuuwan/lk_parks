@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 1711770607.0607247,
+  "plant_photo_id": "Photo-2024-03-29-07-50-57",
+  "species_name_to_score": {
+    "Cassia fistula": 0.91883,
+    "Cassia sieberiana": 0.0389,
+    "Pterocarpus indicus": 0.00518,
+    "Pterocarpus rotundifolius": 0.00294,
+    "Laburnum anagyroides": 0.00181,
+    "Laburnum alpinum": 0.00168,
+    "Cassia leiandra": 0.00123,
+    "Koelreuteria paniculata": 0.00107
+  }
+}

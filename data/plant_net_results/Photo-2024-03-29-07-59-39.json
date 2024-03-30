@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 1711770722.5183616,
+  "plant_photo_id": "Photo-2024-03-29-07-59-39",
+  "species_name_to_score": {
+    "Calophyllum inophyllum": 0.77568,
+    "Mammea americana": 0.08202,
+    "Calophyllum calaba": 0.04256,
+    "Clusia major": 0.00859,
+    "Calophyllum brasiliense": 0.00732,
+    "Mimusops coriacea": 0.00466,
+    "Garcinia anjouanensis": 0.00219,
+    "Garcinia livingstonei": 0.00207,
+    "Barringtonia asiatica": 0.0016,
+    "Syzygium cumini": 0.00157,
+    "Ochrosia oppositifolia": 0.00139,
+    "Ochrosia elliptica": 0.00104,
+    "Pachystroma longifolium": 0.00103
+  }
+}

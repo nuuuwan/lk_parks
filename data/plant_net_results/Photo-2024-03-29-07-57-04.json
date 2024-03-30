@@ -1,0 +1,15 @@
+{
+  "ut_api_call": 1711770662.3815837,
+  "plant_photo_id": "Photo-2024-03-29-07-57-04",
+  "species_name_to_score": {
+    "Syngonium auritum": 0.84508,
+    "Syngonium podophyllum": 0.04544,
+    "Philodendron tripartitum": 0.01204,
+    "Syngonium angustatum": 0.00981,
+    "Aesculus californica": 0.00192,
+    "Syngonium hoffmannii": 0.00182,
+    "Syngonium rayi": 0.00171,
+    "Sauromatum venosum": 0.0016,
+    "Anthurium bonplandii": 0.00104
+  }
+}

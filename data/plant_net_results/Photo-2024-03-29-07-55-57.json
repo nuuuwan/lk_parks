@@ -1,0 +1,21 @@
+{
+  "ut_api_call": 1711770624.803071,
+  "plant_photo_id": "Photo-2024-03-29-07-55-57",
+  "species_name_to_score": {
+    "Terminalia catappa": 0.86544,
+    "Anacardium occidentale": 0.01339,
+    "Careya arborea": 0.00633,
+    "Tectona grandis": 0.00508,
+    "Barringtonia acutangula": 0.00489,
+    "Pseudobombax ellipticum": 0.00374,
+    "Barringtonia racemosa": 0.00338,
+    "Coccoloba caracasana": 0.00321,
+    "Terminalia oblonga": 0.00306,
+    "Magnolia obovata": 0.00251,
+    "Cinchona pubescens": 0.00225,
+    "Magnolia macrophylla": 0.00185,
+    "Magnolia officinalis": 0.00171,
+    "Triplaris americana": 0.00148,
+    "Barringtonia asiatica": 0.0014
+  }
+}

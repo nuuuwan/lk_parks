@@ -1,0 +1,22 @@
+{
+  "ut_api_call": 1711770645.7135348,
+  "plant_photo_id": "Photo-2024-03-29-07-56-37",
+  "species_name_to_score": {
+    "Monoon longifolium": 0.72926,
+    "Saraca asoca": 0.00498,
+    "Blepharocalyx salicifolius": 0.00466,
+    "Quercus phellos": 0.0043,
+    "Xylopia aethiopica": 0.00418,
+    "Macadamia integrifolia": 0.00259,
+    "Putranjiva roxburghii": 0.00228,
+    "Diospyros mespiliformis": 0.00191,
+    "Macadamia ternifolia": 0.00188,
+    "Geissospermum laeve": 0.00179,
+    "Lecythis zabucajo": 0.0017,
+    "Chrysophyllum argenteum": 0.00138,
+    "Lepidocupania gracilipes": 0.00134,
+    "Moquilea tomentosa": 0.00127,
+    "Hopea odorata": 0.00104,
+    "Polyalthia longipedicellata": 0.00103
+  }
+}

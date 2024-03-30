@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1711770791.8217704,
+  "plant_photo_id": "Photo-2024-03-29-08-01-02",
+  "species_name_to_score": {
+    "Dypsis lutescens": 0.94587,
+    "Euterpe oleracea": 0.00945,
+    "Dypsis baronii": 0.00532,
+    "Hyophorbe indica": 0.00268,
+    "Phoenix roebelenii": 0.00204,
+    "Pinanga dicksonii": 0.00149,
+    "Dypsis cabadae": 0.0014,
+    "Howea forsteriana": 0.00139,
+    "Areca triandra": 0.0013,
+    "Phoenix reclinata": 0.00115
+  }
+}

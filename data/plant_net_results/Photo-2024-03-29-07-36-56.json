@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 1711770565.1505759,
+  "plant_photo_id": "Photo-2024-03-29-07-36-56",
+  "species_name_to_score": {
+    "Podocarpus neriifolius": 0.39568,
+    "Podocarpus macrophyllus": 0.30745,
+    "Podocarpus latifolius": 0.05432,
+    "Podocarpus elatus": 0.02526,
+    "Podocarpus lambertii": 0.00997,
+    "Podocarpus salignus": 0.00542,
+    "Podocarpus milanjianus": 0.00537,
+    "Cascabela thevetia": 0.00464,
+    "Melaleuca viminalis": 0.00397,
+    "Taxus cuspidata": 0.00372,
+    "Podocarpus urbanii": 0.00313,
+    "Afrocarpus falcatus": 0.00286,
+    "Secamone volubilis": 0.00231,
+    "Podocarpus costalis": 0.00185,
+    "Afrocarpus gracilior": 0.00183,
+    "Elaeodendron orientale": 0.00173,
+    "Podocarpus nubigenus": 0.00171,
+    "Podocarpus elongatus": 0.00166,
+    "Banksia integrifolia": 0.00163,
+    "Lathyrus tremolsianus": 0.00142,
+    "Afrocarpus mannii": 0.00138
+  }
+}

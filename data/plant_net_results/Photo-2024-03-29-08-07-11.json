@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 1711770944.4654346,
+  "plant_photo_id": "Photo-2024-03-29-08-07-11",
+  "species_name_to_score": {
+    "Bambusa vulgaris": 0.54878,
+    "Bambusa eutuldoides": 0.07043,
+    "Dendrocalamus giganteus": 0.05846,
+    "Bambusa tuldoides": 0.02078,
+    "Pseudosasa japonica": 0.00652,
+    "Schizostachyum glaucifolium": 0.0031,
+    "Bambusa multiplex": 0.00234,
+    "Phyllostachys aurea": 0.00181,
+    "Bambusa tulda": 0.00169,
+    "Bambusa bambos": 0.00157,
+    "Bambusa oldhamii": 0.00135,
+    "Dendrocalamus strictus": 0.00113,
+    "Phyllostachys aureosulcata": 0.00107
+  }
+}

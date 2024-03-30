@@ -1,0 +1,17 @@
+{
+  "ut_api_call": 1711770828.2919958,
+  "plant_photo_id": "Photo-2024-03-29-08-01-58",
+  "species_name_to_score": {
+    "Dypsis lutescens": 0.90432,
+    "Hyophorbe indica": 0.01568,
+    "Dypsis cabadae": 0.01074,
+    "Dypsis baronii": 0.00798,
+    "Euterpe oleracea": 0.00316,
+    "Phoenix roebelenii": 0.0027,
+    "Cyphophoenix alba": 0.00241,
+    "Chamaedorea tepejilote": 0.00206,
+    "Phoenix reclinata": 0.00147,
+    "Pigafetta filaris": 0.00126,
+    "Dypsis lanceolata": 0.00124
+  }
+}

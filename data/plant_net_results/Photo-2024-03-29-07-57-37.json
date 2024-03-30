@@ -1,0 +1,18 @@
+{
+  "ut_api_call": 1711770678.9590313,
+  "plant_photo_id": "Photo-2024-03-29-07-57-37",
+  "species_name_to_score": {
+    "Mangifera indica": 0.85022,
+    "Pouteria campechiana": 0.068,
+    "Manilkara zapota": 0.00702,
+    "Pouteria caimito": 0.00378,
+    "Buchanania arborescens": 0.00331,
+    "Ceodes brunoniana": 0.0027,
+    "Cerbera manghas": 0.0022,
+    "Rauvolfia caffra": 0.00196,
+    "Alstonia macrophylla": 0.00174,
+    "Bouea oppositifolia": 0.00164,
+    "Himatanthus articulatus": 0.00161,
+    "Sideroxylon foetidissimum": 0.00124
+  }
+}

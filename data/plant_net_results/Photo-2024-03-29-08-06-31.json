@@ -1,0 +1,33 @@
+{
+  "ut_api_call": 1711770930.4473705,
+  "plant_photo_id": "Photo-2024-03-29-08-06-31",
+  "species_name_to_score": {
+    "Bambusa multiplex": 0.19858,
+    "Bambusa vulgaris": 0.13424,
+    "Phyllostachys aurea": 0.05178,
+    "Dendrocalamus giganteus": 0.02578,
+    "Bambusa tuldoides": 0.01839,
+    "Phyllostachys nigra": 0.01468,
+    "Phyllostachys sulphurea": 0.00957,
+    "Salix viminalis": 0.00825,
+    "Callistemon viminalis": 0.00615,
+    "Podocarpus macrophyllus": 0.00337,
+    "Osmoxylon lineare": 0.00275,
+    "Chimonobambusa marmorea": 0.00267,
+    "Acer japonicum": 0.00166,
+    "Salix exigua": 0.00166,
+    "Podocarpus neriifolius": 0.00163,
+    "Phyllostachys aureosulcata": 0.00152,
+    "Brachychiton rupestris": 0.00137,
+    "Grevillea banksii": 0.00131,
+    "Salix rosmarinifolia": 0.00127,
+    "Sinobambusa tootsik": 0.00126,
+    "Cassine orientalis": 0.00126,
+    "Chimonobambusa tumidissinoda": 0.00126,
+    "Searsia lancea": 0.0012,
+    "Bambusa tulda": 0.00117,
+    "Grevillea robusta": 0.00104,
+    "Himalayacalamus hookerianus": 0.00103,
+    "Pleioblastus viridistriatus": 0.00103
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 1711770853.6711552,
+  "plant_photo_id": "Photo-2024-03-29-08-03-17",
+  "species_name_to_score": {
+    "Terminalia arjuna": 0.86694,
+    "Quercus phellos": 0.04571,
+    "Syzygium jambos": 0.00728,
+    "Lagerstroemia parviflora": 0.00281,
+    "Corymbia citriodora": 0.00271,
+    "Psidium guajava": 0.0015,
+    "Ochna integerrima": 0.00138,
+    "Lagerstroemia speciosa": 0.00112
+  }
+}

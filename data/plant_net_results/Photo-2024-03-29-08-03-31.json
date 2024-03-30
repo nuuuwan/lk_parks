@@ -1,0 +1,21 @@
+{
+  "ut_api_call": 1711770857.3958364,
+  "plant_photo_id": "Photo-2024-03-29-08-03-31",
+  "species_name_to_score": {
+    "Mangifera indica": 0.7408,
+    "Casimiroa edulis": 0.00706,
+    "Cerbera manghas": 0.00633,
+    "Prunus persica": 0.00524,
+    "Arbutus canariensis": 0.0048,
+    "Elaeocarpus serratus": 0.00449,
+    "Sapindus oahuensis": 0.00373,
+    "Lepisanthes senegalensis": 0.0025,
+    "Mangifera caesia": 0.00248,
+    "Garcinia xishuanbannaensis": 0.00193,
+    "Cerbera odollam": 0.00191,
+    "Elateriospermum tapos": 0.00136,
+    "Pouteria campechiana": 0.00122,
+    "Dischidia platyphylla": 0.00109,
+    "Monoon longifolium": 0.00101
+  }
+}

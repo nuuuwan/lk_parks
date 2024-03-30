@@ -1,0 +1,33 @@
+{
+  "ut_api_call": 1711770994.826958,
+  "plant_photo_id": "Photo-2024-03-29-08-08-38",
+  "species_name_to_score": {
+    "Acrocomia aculeata": 0.18221,
+    "Euterpe oleracea": 0.07614,
+    "Elaeis guineensis": 0.05567,
+    "Phoenix reclinata": 0.03577,
+    "Elaeis oleifera": 0.01674,
+    "Dictyosperma album": 0.01505,
+    "Archontophoenix cunninghamiana": 0.01266,
+    "Raphia farinifera": 0.01126,
+    "Phoenix roebelenii": 0.01029,
+    "Attalea maripa": 0.00851,
+    "Cocos nucifera": 0.006,
+    "Arenga pinnata": 0.00372,
+    "Acanthophoenix rubra": 0.00335,
+    "Howea forsteriana": 0.00294,
+    "Pteris vittata": 0.00259,
+    "Syagrus coronata": 0.00209,
+    "Euterpe edulis": 0.00149,
+    "Phoenix canariensis": 0.00136,
+    "Dypsis lutescens": 0.00132,
+    "Syagrus romanzoffiana": 0.00122,
+    "Phoenix paludosa": 0.00118,
+    "Roystonea oleracea": 0.0011,
+    "Sterculia foetida": 0.00109,
+    "Archontophoenix alexandrae": 0.00104,
+    "Bactris gasipaes": 0.00103,
+    "Macrozamia communis": 0.00102,
+    "Phoenix dactylifera": 0.00102
+  }
+}

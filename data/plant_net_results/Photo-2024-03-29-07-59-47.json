@@ -1,0 +1,28 @@
+{
+  "ut_api_call": 1711770726.286255,
+  "plant_photo_id": "Photo-2024-03-29-07-59-47",
+  "species_name_to_score": {
+    "Terminalia catappa": 0.68613,
+    "Barringtonia asiatica": 0.08811,
+    "Barringtonia acutangula": 0.01013,
+    "Anacardium occidentale": 0.00961,
+    "Laurus azorica": 0.00461,
+    "Terminalia bellirica": 0.00251,
+    "Careya arborea": 0.00249,
+    "Barringtonia macrocarpa": 0.00225,
+    "Madhuca longifolia": 0.00193,
+    "Ficus glumosa": 0.00175,
+    "Barringtonia racemosa": 0.00174,
+    "Quercus imbricaria": 0.00166,
+    "Persea barbujana": 0.00166,
+    "Mimusops coriacea": 0.00165,
+    "Juanulloa mexicana": 0.00159,
+    "Ficus lutea": 0.00136,
+    "Terminalia oblonga": 0.00119,
+    "Calotropis procera": 0.00119,
+    "Nicotiana sylvestris": 0.00112,
+    "Solandra guttata": 0.00111,
+    "Ficus septica": 0.00107,
+    "Synsepalum brevipes": 0.00103
+  }
+}

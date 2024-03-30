@@ -1,0 +1,15 @@
+{
+  "ut_api_call": 1711770846.5130186,
+  "plant_photo_id": "Photo-2024-03-29-08-03-03",
+  "species_name_to_score": {
+    "Terminalia arjuna": 0.9311,
+    "Lagerstroemia parviflora": 0.00612,
+    "Hexalobus monopetalus": 0.00303,
+    "Guarea macrophylla": 0.003,
+    "Syzygium jambos": 0.00193,
+    "Salacia elliptica": 0.00114,
+    "Qualea parviflora": 0.00107,
+    "Myrospermum frutescens": 0.00104,
+    "Guarea guidonia": 0.001
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ut_api_call": 1711770718.8100073,
+  "plant_photo_id": "Photo-2024-03-29-07-59-22",
+  "species_name_to_score": {
+    "Acacia mangium": 0.93633,
+    "Acacia auriculiformis": 0.0104,
+    "Acacia melanoxylon": 0.00342,
+    "Grevillea exul": 0.00258
+  }
+}

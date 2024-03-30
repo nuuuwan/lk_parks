@@ -1,0 +1,17 @@
+{
+  "ut_api_call": 1711770698.3296237,
+  "plant_photo_id": "Photo-2024-03-29-07-58-22",
+  "species_name_to_score": {
+    "Terminalia catappa": 0.89168,
+    "Tectona grandis": 0.02545,
+    "Pouteria torta": 0.01232,
+    "Terminalia bellirica": 0.00493,
+    "Clethra mexicana": 0.00326,
+    "Anacardium occidentale": 0.00289,
+    "Magnolia obovata": 0.00276,
+    "Dillenia pentagyna": 0.00227,
+    "Triplaris americana": 0.00155,
+    "Pseudobombax ellipticum": 0.0015,
+    "Barringtonia acutangula": 0.0011
+  }
+}

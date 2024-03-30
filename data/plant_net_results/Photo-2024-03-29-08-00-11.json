@@ -1,0 +1,26 @@
+{
+  "ut_api_call": 1711770735.4309669,
+  "plant_photo_id": "Photo-2024-03-29-08-00-11",
+  "species_name_to_score": {
+    "Dypsis lutescens": 0.69633,
+    "Euterpe oleracea": 0.03631,
+    "Hyophorbe indica": 0.02884,
+    "Archontophoenix cunninghamiana": 0.02562,
+    "Dypsis baronii": 0.02556,
+    "Dictyosperma album": 0.02556,
+    "Adonidia merrillii": 0.00789,
+    "Acanthophoenix rubra": 0.00489,
+    "Pinanga dicksonii": 0.00438,
+    "Dypsis lanceolata": 0.00431,
+    "Euterpe edulis": 0.00415,
+    "Phoenix reclinata": 0.00395,
+    "Archontophoenix alexandrae": 0.00302,
+    "Basselinia glabrata": 0.00217,
+    "Phoenix roebelenii": 0.00215,
+    "Howea forsteriana": 0.0019,
+    "Ptychosperma salomonense": 0.00179,
+    "Basselinia tomentosa": 0.00173,
+    "Geonoma deversa": 0.00161,
+    "Dypsis cabadae": 0.00152
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "ut_api_call": 1711770811.0714123,
+  "plant_photo_id": "Photo-2024-03-29-08-01-25",
+  "species_name_to_score": {
+    "Dypsis lutescens": 0.69161,
+    "Hyophorbe indica": 0.14371,
+    "Dictyosperma album": 0.01204,
+    "Dypsis cabadae": 0.01013,
+    "Chamaedorea tepejilote": 0.00814,
+    "Howea forsteriana": 0.00743,
+    "Dypsis baronii": 0.00659,
+    "Adonidia merrillii": 0.00395,
+    "Dypsis pembana": 0.00339,
+    "Dypsis lanceolata": 0.00223,
+    "Areca triandra": 0.00212,
+    "Dypsis scottiana": 0.00209,
+    "Euterpe oleracea": 0.00207,
+    "Pigafetta filaris": 0.00204,
+    "Prestoea decurrens": 0.00185,
+    "Chambeyronia macrocarpa": 0.00185,
+    "Howea belmoreana": 0.00167,
+    "Ptychosperma macarthurii": 0.00139,
+    "Dypsis decaryi": 0.00138,
+    "Dypsis madagascariensis": 0.00137,
+    "Basselinia velutina": 0.00122,
+    "Rhopalostylis baueri": 0.00114,
+    "Areca catechu": 0.001
+  }
+}

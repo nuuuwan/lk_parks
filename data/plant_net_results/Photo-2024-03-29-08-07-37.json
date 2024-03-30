@@ -1,0 +1,31 @@
+{
+  "ut_api_call": 1711770962.9505663,
+  "plant_photo_id": "Photo-2024-03-29-08-07-37",
+  "species_name_to_score": {
+    "Cocos nucifera": 0.67727,
+    "Beccariophoenix madagascariensis": 0.0259,
+    "Acanthophoenix rubra": 0.01349,
+    "Beccariophoenix alfredii": 0.00922,
+    "Archontophoenix cunninghamiana": 0.00868,
+    "Pritchardia pacifica": 0.00806,
+    "Dictyosperma album": 0.00787,
+    "Dypsis lastelliana": 0.00706,
+    "Dypsis leptocheilos": 0.00567,
+    "Oncosperma horridum": 0.00512,
+    "Hyophorbe lagenicaulis": 0.00464,
+    "Rhopalostylis baueri": 0.0042,
+    "Phoenicophorium borsigianum": 0.00316,
+    "Latania lontaroides": 0.00295,
+    "Attalea phalerata": 0.00289,
+    "Corypha umbraculifera": 0.00247,
+    "Ravenea rivularis": 0.00218,
+    "Livistona chinensis": 0.00165,
+    "Latania verschaffeltii": 0.00163,
+    "Chambeyronia oliviformis": 0.00159,
+    "Areca catechu": 0.00153,
+    "Syagrus romanzoffiana": 0.00148,
+    "Ravenala madagascariensis": 0.0011,
+    "Satakentia liukiuensis": 0.0011,
+    "Attalea maripa": 0.00102
+  }
+}

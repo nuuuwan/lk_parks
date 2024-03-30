@@ -1,0 +1,13 @@
+{
+  "ut_api_call": 1711770544.2653475,
+  "plant_photo_id": "Photo-2024-03-29-07-29-46",
+  "species_name_to_score": {
+    "Tabebuia heterophylla": 0.56347,
+    "Tabebuia rosea": 0.3067,
+    "Handroanthus impetiginosus": 0.02376,
+    "Tabebuia pallida": 0.01717,
+    "Handroanthus heptaphyllus": 0.00329,
+    "Lagerstroemia speciosa": 0.00293,
+    "Bignonia magnifica": 0.00158
+  }
+}

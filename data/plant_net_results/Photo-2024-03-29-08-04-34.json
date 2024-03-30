@@ -1,0 +1,26 @@
+{
+  "ut_api_call": 1711770879.0220985,
+  "plant_photo_id": "Photo-2024-03-29-08-04-34",
+  "species_name_to_score": {
+    "Combretum indicum": 0.52401,
+    "Clerodendrum indicum": 0.01853,
+    "Berberidopsis corallina": 0.00561,
+    "Robinia hispida": 0.00469,
+    "Lonicera sempervirens": 0.00279,
+    "Clerodendrum umbellatum": 0.00272,
+    "Epidendrum radicans": 0.00271,
+    "Jasminum beesianum": 0.00211,
+    "Odontonema cuspidatum": 0.00191,
+    "Cissus erosa": 0.00183,
+    "Guettarda elliptica": 0.00183,
+    "Fuchsia boliviana": 0.00169,
+    "Cestrum elegans": 0.00167,
+    "Valeriana nevadensis": 0.00166,
+    "Idesia polycarpa": 0.00163,
+    "Holarrhena pubescens": 0.0016,
+    "Periploca graeca": 0.00154,
+    "Prunus campanulata": 0.00135,
+    "Sorbus aucuparia": 0.00127,
+    "Mussaenda erythrophylla": 0.00125
+  }
+}

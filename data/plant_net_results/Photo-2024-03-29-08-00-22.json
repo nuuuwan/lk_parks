@@ -1,0 +1,15 @@
+{
+  "ut_api_call": 1711770752.358554,
+  "plant_photo_id": "Photo-2024-03-29-08-00-22",
+  "species_name_to_score": {
+    "Dypsis lutescens": 0.79899,
+    "Hyophorbe indica": 0.14956,
+    "Euterpe oleracea": 0.01217,
+    "Dypsis cabadae": 0.00269,
+    "Dypsis baronii": 0.00202,
+    "Pinanga dicksonii": 0.00168,
+    "Phoenix reclinata": 0.00165,
+    "Hyophorbe lagenicaulis": 0.00111,
+    "Dypsis lanceolata": 0.00109
+  }
+}

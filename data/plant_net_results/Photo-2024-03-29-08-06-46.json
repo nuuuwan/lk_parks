@@ -1,0 +1,17 @@
+{
+  "ut_api_call": 1711770935.0362036,
+  "plant_photo_id": "Photo-2024-03-29-08-06-46",
+  "species_name_to_score": {
+    "Cocos nucifera": 0.90589,
+    "Dictyosperma album": 0.01543,
+    "Archontophoenix cunninghamiana": 0.00602,
+    "Chambeyronia oliviformis": 0.00508,
+    "Acanthophoenix rubra": 0.0042,
+    "Heterospathe elata": 0.00411,
+    "Howea belmoreana": 0.0022,
+    "Rhopaloblaste ceramica": 0.002,
+    "Euterpe oleracea": 0.00168,
+    "Archontophoenix tuckeri": 0.00147,
+    "Archontophoenix alexandrae": 0.00123
+  }
+}

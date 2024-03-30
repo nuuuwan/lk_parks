@@ -1,0 +1,31 @@
+{
+  "ut_api_call": 1711770602.563871,
+  "plant_photo_id": "Photo-2024-03-29-07-48-53",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.57455,
+    "Luehea divaricata": 0.018,
+    "Rosa sempervirens": 0.00789,
+    "Oncoba spinosa": 0.00692,
+    "Camellia yunnanensis": 0.0063,
+    "Cistus laurifolius": 0.00504,
+    "Polyspora axillaris": 0.00479,
+    "Eugenia myrcianthes": 0.0047,
+    "Rosa moschata": 0.00366,
+    "Durio zibethinus": 0.0022,
+    "Eucalyptus gomphocephala": 0.00214,
+    "Apeiba membranacea": 0.00181,
+    "Camellia crapnelliana": 0.00171,
+    "Calophyllum caledonicum": 0.00168,
+    "Camellia sasanqua": 0.00165,
+    "Eucalyptus camaldulensis": 0.00163,
+    "Clusia grandiflora": 0.00154,
+    "Luehea speciosa": 0.00148,
+    "Camellia sinensis": 0.00137,
+    "Amphilophium crucigerum": 0.00135,
+    "Eucalyptus globulus": 0.00128,
+    "Stewartia monadelpha": 0.00118,
+    "Gordonia fruticosa": 0.00116,
+    "Atherosperma moschatum": 0.00101,
+    "Tipuana tipu": 0.00101
+  }
+}

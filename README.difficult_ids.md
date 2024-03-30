@@ -2,162 +2,162 @@
 
 Photos where the identification confidence is **< 20%**.
 
-### Photo-2024-03-27-07-14-28
+### Photo-2024-03-29-07-55-41
 
-* 5.8% *Albizia procera*
-* 3.9% *Cassia javanica*
-* 2.6% *Toona ciliata*
+* 14.8% *Cedrela odorata*
+* 3.8% *Juglans cinerea*
+* 3.0% *Melia azedarach*
 
-<img src="data/images/Photo-2024-03-27-07-14-28.jpg" alt="Photo-2024-03-27-07-14-28"  width="50%" />
+<img src="data/images/Photo-2024-03-29-07-55-41.jpg" alt="Photo-2024-03-29-07-55-41"  width="50%" />
 
-### Photo-2024-03-27-07-14-57
+### Photo-2024-03-29-07-55-51
 
-* 3.9% *Cassia fistula*
-* 2.2% *Pterocarpus indicus*
-* 1.7% *Oroxylum indicum*
+* 9.1% *Terminalia oblonga*
+* 8.5% *Nyssa sylvatica*
+* 5.6% *Ilex paraguariensis*
 
-<img src="data/images/Photo-2024-03-27-07-14-57.jpg" alt="Photo-2024-03-27-07-14-57"  width="50%" />
+<img src="data/images/Photo-2024-03-29-07-55-51.jpg" alt="Photo-2024-03-29-07-55-51"  width="50%" />
 
-### Photo-2024-03-27-07-15-33
+### Photo-2024-03-29-07-56-55
 
-* 3.5% *Madhuca longifolia*
-* 2.4% *Ceiba pentandra*
-* 1.7% *Rhododendron arboreum*
+* 14.2% *Vitex altissima*
+* 7.1% *Quassia amara*
+* 6.3% *Inga edulis*
 
-<img src="data/images/Photo-2024-03-27-07-15-33.jpg" alt="Photo-2024-03-27-07-15-33"  width="50%" />
+<img src="data/images/Photo-2024-03-29-07-56-55.jpg" alt="Photo-2024-03-29-07-56-55"  width="50%" />
 
-### Photo-2024-03-27-07-15-55
+### Photo-2024-03-29-07-58-06
 
-* 11.3% *Azadirachta indica*
-* 3.5% *Toona ciliata*
-* 3.5% *Tipuana tipu*
+* 8.4% *Peltophorum pterocarpum*
+* 6.4% *Jacaranda mimosifolia*
+* 4.5% *Jacaranda caucana*
 
-<img src="data/images/Photo-2024-03-27-07-15-55.jpg" alt="Photo-2024-03-27-07-15-55"  width="50%" />
+<img src="data/images/Photo-2024-03-29-07-58-06.jpg" alt="Photo-2024-03-29-07-58-06"  width="50%" />
 
-### Photo-2024-03-27-07-16-03
+### Photo-2024-03-29-07-59-11
 
-* 9.1% *Corymbia citriodora*
-* 3.1% *Bombax ceiba*
-* 2.8% *Terminalia arjuna*
+* 8.6% *Dictyosperma album*
+* 5.9% *Dypsis lutescens*
+* 5.1% *Dypsis cabadae*
 
-<img src="data/images/Photo-2024-03-27-07-16-03.jpg" alt="Photo-2024-03-27-07-16-03"  width="50%" />
+<img src="data/images/Photo-2024-03-29-07-59-11.jpg" alt="Photo-2024-03-29-07-59-11"  width="50%" />
 
-### Photo-2024-03-27-07-37-48
+### Photo-2024-03-29-08-00-27
 
-* 11.7% *Madhuca longifolia*
-* 2.6% *Dillenia indica*
-* 1.2% *Manilkara zapota*
+* 15.3% *Lagerstroemia speciosa*
+* 4.8% *Markhamia lutea*
+* 4.0% *Swietenia macrophylla*
 
-<img src="data/images/Photo-2024-03-27-07-37-48.jpg" alt="Photo-2024-03-27-07-37-48"  width="50%" />
+<img src="data/images/Photo-2024-03-29-08-00-27.jpg" alt="Photo-2024-03-29-08-00-27"  width="50%" />
 
-### Photo-2024-03-27-07-38-08
+### Photo-2024-03-29-08-02-48
 
-* 0.3% *Adansonia digitata*
-* 0.3% *Manilkara zapota*
-* 0.2% *Ceiba pentandra*
+* 18.2% *Peltophorum pterocarpum*
+* 12.4% *Samanea saman*
+* 10.6% *Parasenegalia visco*
 
-<img src="data/images/Photo-2024-03-27-07-38-08.jpg" alt="Photo-2024-03-27-07-38-08"  width="50%" />
+<img src="data/images/Photo-2024-03-29-08-02-48.jpg" alt="Photo-2024-03-29-08-02-48"  width="50%" />
 
-### Photo-2024-03-27-07-38-38
+### Photo-2024-03-29-08-03-38
 
-* 18.8% *Areca triandra*
-* 8.1% *Areca catechu*
-* 5.3% *Cocos nucifera*
+* 14.0% *Bambusa multiplex*
+* 10.1% *Bambusa vulgaris*
+* 9.9% *Salix viminalis*
 
-<img src="data/images/Photo-2024-03-27-07-38-38.jpg" alt="Photo-2024-03-27-07-38-38"  width="50%" />
+<img src="data/images/Photo-2024-03-29-08-03-38.jpg" alt="Photo-2024-03-29-08-03-38"  width="50%" />
 
-### Photo-2024-03-27-07-39-10
+### Photo-2024-03-29-08-04-12
 
-* 12.3% *Artocarpus heterophyllus*
-* 5.0% *Petrea volubilis*
-* 3.5% *Vangueria madagascariensis*
+* 19.5% *Nauclea orientalis*
+* 12.5% *Campomanesia xanthocarpa*
+* 5.8% *Premna serratifolia*
 
-<img src="data/images/Photo-2024-03-27-07-39-10.jpg" alt="Photo-2024-03-27-07-39-10"  width="50%" />
+<img src="data/images/Photo-2024-03-29-08-04-12.jpg" alt="Photo-2024-03-29-08-04-12"  width="50%" />
 
-### Photo-2024-03-27-07-39-56
+### Photo-2024-03-29-08-04-51
 
-* 1.3% *Plumeria alba*
-* 0.7% *Mangifera indica*
-* 0.6% *Annona reticulata*
+* 8.3% *Quercus castaneifolia*
+* 3.2% *Sterculia foetida*
+* 2.5% *Vitex altissima*
 
-<img src="data/images/Photo-2024-03-27-07-39-56.jpg" alt="Photo-2024-03-27-07-39-56"  width="50%" />
+<img src="data/images/Photo-2024-03-29-08-04-51.jpg" alt="Photo-2024-03-29-08-04-51"  width="50%" />
 
-### Photo-2024-03-27-07-40-18
+### Photo-2024-03-29-08-05-01
 
-* 2.5% *Manilkara zapota*
-* 1.4% *Quercus acutissima*
-* 1.2% *Durio zibethinus*
+* 9.1% *Muntingia calabura*
+* 6.9% *Carya illinoinensis*
+* 6.0% *Pterocarpus officinalis*
 
-<img src="data/images/Photo-2024-03-27-07-40-18.jpg" alt="Photo-2024-03-27-07-40-18"  width="50%" />
+<img src="data/images/Photo-2024-03-29-08-05-01.jpg" alt="Photo-2024-03-29-08-05-01"  width="50%" />
 
-### Photo-2024-03-27-07-40-31
+### Photo-2024-03-29-08-06-31
 
-* 19.6% *Cassia javanica*
-* 3.8% *Pterocarpus indicus*
-* 3.2% *Cassia moschata*
+* 19.9% *Bambusa multiplex*
+* 13.4% *Bambusa vulgaris*
+* 5.2% *Phyllostachys aurea*
 
-<img src="data/images/Photo-2024-03-27-07-40-31.jpg" alt="Photo-2024-03-27-07-40-31"  width="50%" />
+<img src="data/images/Photo-2024-03-29-08-06-31.jpg" alt="Photo-2024-03-29-08-06-31"  width="50%" />
 
-### Photo-2024-03-27-07-40-39
+### Photo-2024-03-29-08-06-57
 
-* 5.4% *Citharexylum spinosum*
-* 4.1% *Leycesteria formosa*
-* 1.0% *Malpighia glabra*
+* 18.3% *Nauclea orientalis*
+* 7.8% *Nauclea latifolia*
+* 2.3% *Coccoloba diversifolia*
 
-<img src="data/images/Photo-2024-03-27-07-40-39.jpg" alt="Photo-2024-03-27-07-40-39"  width="50%" />
+<img src="data/images/Photo-2024-03-29-08-06-57.jpg" alt="Photo-2024-03-29-08-06-57"  width="50%" />
 
-### Photo-2024-03-27-07-40-52
+### Photo-2024-03-29-08-07-25
 
-* 6.4% *Flacourtia montana*
-* 2.4% *Flacourtia jangomas*
-* 2.3% *Camellia sinensis*
+* 9.8% *Ficus virens*
+* 9.1% *Ficus citrifolia*
+* 7.7% *Ficus luschnathiana*
 
-<img src="data/images/Photo-2024-03-27-07-40-52.jpg" alt="Photo-2024-03-27-07-40-52"  width="50%" />
+<img src="data/images/Photo-2024-03-29-08-07-25.jpg" alt="Photo-2024-03-29-08-07-25"  width="50%" />
 
-### Photo-2024-03-27-07-41-02
+### Photo-2024-03-29-08-07-28
 
-* 11.6% *Elaeocarpus angustifolius*
-* 3.1% *Cerbera manghas*
-* 1.8% *Syzygium jambos*
+* 14.7% *Jacaranda cuspidifolia*
+* 8.5% *Jacaranda mimosifolia*
+* 7.3% *Peltophorum dubium*
 
-<img src="data/images/Photo-2024-03-27-07-41-02.jpg" alt="Photo-2024-03-27-07-41-02"  width="50%" />
+<img src="data/images/Photo-2024-03-29-08-07-28.jpg" alt="Photo-2024-03-29-08-07-28"  width="50%" />
 
-### Photo-2024-03-27-07-41-21
+### Photo-2024-03-29-08-08-28
 
-* 5.6% *Borassus flabellifer*
-* 0.6% *Livistona chinensis*
-* 0.4% *Livistona speciosa*
+* 8.3% *Magnolia champaca*
+* 3.6% *Tabernaemontana stapfiana*
+* 2.4% *Justicia adhatoda*
 
-<img src="data/images/Photo-2024-03-27-07-41-21.jpg" alt="Photo-2024-03-27-07-41-21"  width="50%" />
+<img src="data/images/Photo-2024-03-29-08-08-28.jpg" alt="Photo-2024-03-29-08-08-28"  width="50%" />
 
-### Photo-2024-03-27-07-41-30
+### Photo-2024-03-29-08-08-38
 
-* 8.5% *Madhuca longifolia*
-* 5.3% *Elaeocarpus angustifolius*
-* 1.0% *Cestrum parqui*
+* 18.2% *Acrocomia aculeata*
+* 7.6% *Euterpe oleracea*
+* 5.6% *Elaeis guineensis*
 
-<img src="data/images/Photo-2024-03-27-07-41-30.jpg" alt="Photo-2024-03-27-07-41-30"  width="50%" />
+<img src="data/images/Photo-2024-03-29-08-08-38.jpg" alt="Photo-2024-03-29-08-08-38"  width="50%" />
 
-### Photo-2024-03-27-07-41-38
+### Photo-2024-03-29-08-08-45
 
-* 9.6% *Dillenia indica*
-* 1.1% *Manilkara zapota*
-* 1.0% *Plumeria alba*
+* 8.7% *Artocarpus heterophyllus*
+* 2.2% *Terminalia catappa*
+* 2.0% *Persea barbujana*
 
-<img src="data/images/Photo-2024-03-27-07-41-38.jpg" alt="Photo-2024-03-27-07-41-38"  width="50%" />
+<img src="data/images/Photo-2024-03-29-08-08-45.jpg" alt="Photo-2024-03-29-08-08-45"  width="50%" />
 
-### Photo-2024-03-27-07-41-43
+### Photo-2024-03-29-08-09-21
 
-* 3.6% *Manilkara zapota*
-* 2.7% *Milicia excelsa*
-* 2.2% *Dillenia indica*
+* 7.4% *Ficus virens*
+* 5.2% *Alnus incana*
+* 4.9% *Alnus nepalensis*
 
-<img src="data/images/Photo-2024-03-27-07-41-43.jpg" alt="Photo-2024-03-27-07-41-43"  width="50%" />
+<img src="data/images/Photo-2024-03-29-08-09-21.jpg" alt="Photo-2024-03-29-08-09-21"  width="50%" />
 
-### Photo-2024-03-27-07-41-59
+### Photo-2024-03-29-08-09-30
 
-* 2.4% *Borassus flabellifer*
-* 0.6% *Livistona speciosa*
-* 0.4% *Corypha umbraculifera*
+* 6.7% *Eucalyptus microcorys*
+* 5.1% *Eucalyptus pilularis*
+* 3.9% *Eucalyptus robusta*
 
-<img src="data/images/Photo-2024-03-27-07-41-59.jpg" alt="Photo-2024-03-27-07-41-59"  width="50%" />
+<img src="data/images/Photo-2024-03-29-08-09-30.jpg" alt="Photo-2024-03-29-08-09-30"  width="50%" />

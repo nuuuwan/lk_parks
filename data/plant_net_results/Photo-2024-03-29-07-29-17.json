@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1711770535.5902178,
+  "plant_photo_id": "Photo-2024-03-29-07-29-17",
+  "species_name_to_score": {
+    "Tabebuia rosea": 0.59448,
+    "Handroanthus impetiginosus": 0.09064,
+    "Tabebuia heterophylla": 0.05777,
+    "Handroanthus heptaphyllus": 0.01303,
+    "Podranea ricasoliana": 0.00676,
+    "Ceiba speciosa": 0.00204,
+    "Tabebuia pallida": 0.00199,
+    "Limonium tuberculatum": 0.00139,
+    "Robinia hispida": 0.00131,
+    "Lagerstroemia speciosa": 0.00109
+  }
+}

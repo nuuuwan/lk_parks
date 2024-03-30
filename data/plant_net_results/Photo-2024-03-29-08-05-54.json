@@ -1,0 +1,15 @@
+{
+  "ut_api_call": 1711770915.4499674,
+  "plant_photo_id": "Photo-2024-03-29-08-05-54",
+  "species_name_to_score": {
+    "Terminalia catappa": 0.83497,
+    "Tectona grandis": 0.09331,
+    "Careya arborea": 0.00848,
+    "Anacardium occidentale": 0.00511,
+    "Terminalia buceras": 0.00434,
+    "Guettarda speciosa": 0.00305,
+    "Pseudobombax ellipticum": 0.00142,
+    "Coccoloba caracasana": 0.00132,
+    "Barringtonia acutangula": 0.00109
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "ut_api_call": 1711770783.8783412,
+  "plant_photo_id": "Photo-2024-03-29-08-00-57",
+  "species_name_to_score": {
+    "Dypsis lutescens": 0.77969,
+    "Dypsis cabadae": 0.04118,
+    "Euterpe oleracea": 0.02557,
+    "Dypsis baronii": 0.02386,
+    "Dictyosperma album": 0.00813,
+    "Hyophorbe indica": 0.00777,
+    "Howea forsteriana": 0.0036,
+    "Pigafetta filaris": 0.00241,
+    "Archontophoenix cunninghamiana": 0.00232,
+    "Chamaedorea tepejilote": 0.00219,
+    "Phoenix roebelenii": 0.0021,
+    "Chamaedorea costaricana": 0.00209,
+    "Phoenix reclinata": 0.00139,
+    "Areca triandra": 0.0013,
+    "Ptychosperma macarthurii": 0.00107,
+    "Pinanga dicksonii": 0.00101
+  }
+}
