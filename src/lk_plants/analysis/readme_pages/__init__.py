@@ -1,3 +1,5 @@
+# lk_plants.analysis.readme_pages (auto generate by build_inits.py)
+
 from lk_plants.analysis.readme_pages.ReadMeAbout import ReadMeAbout
 from lk_plants.analysis.readme_pages.ReadMeApp import ReadMeApp
 from lk_plants.analysis.readme_pages.ReadMeDifficultIds import \

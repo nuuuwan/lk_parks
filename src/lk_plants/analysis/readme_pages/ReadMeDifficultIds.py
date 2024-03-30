@@ -1,11 +1,9 @@
-
 from functools import cached_property
 
 from lk_plants.analysis.InfoReadMe import InfoReadMe
 from lk_plants.core.plant_net.PlantNetResult import PlantNetResult
 from lk_plants.core.plant_photo.PlantPhoto import PlantPhoto
 from utils_future import Markdown, MarkdownPage
-
 
 
 class ReadMeDifficultIds(MarkdownPage, InfoReadMe):
