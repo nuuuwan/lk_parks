@@ -1,0 +1,23 @@
+{
+  "ut_api_call": 1711964055.885077,
+  "plant_photo_id": "Photo-2024-04-01-07-42-46",
+  "species_name_to_score": {
+    "Plumeria obtusa": 0.60608,
+    "Plumeria alba": 0.25474,
+    "Plumeria rubra": 0.02626,
+    "Pachypodium decaryi": 0.00745,
+    "Plumeria pudica": 0.00512,
+    "Tabernaemontana cerifera": 0.004,
+    "Tabernaemontana amygdalifolia": 0.00307,
+    "Genipa americana": 0.00242,
+    "Gardenia urvillei": 0.00183,
+    "Holarrhena pubescens": 0.00156,
+    "Pachypodium lamerei": 0.00154,
+    "Tabernaemontana laeta": 0.00141,
+    "Fagraea berteroana": 0.00119,
+    "Ochrosia borbonica": 0.00119,
+    "Cerbera manghas": 0.00114,
+    "Tabernaemontana catharinensis": 0.0011,
+    "Plumeria magna": 0.00108
+  }
+}

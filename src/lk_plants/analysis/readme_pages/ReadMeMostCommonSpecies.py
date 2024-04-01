@@ -11,7 +11,6 @@ from lk_plants.core.wiki.WikiPage import WikiPage
 from utils_future import Markdown
 
 log = Log('ReadMeMostCommonSpecies')
-random.seed(0)
 
 
 class ReadMeMostCommonSpecies(ReadMeStatisticsByTaxonomy):
@@ -88,6 +87,7 @@ class ReadMeMostCommonSpecies(ReadMeStatisticsByTaxonomy):
 
     @cached_property
     def lines(self) -> list[str]:
+        random.seed(0)
         return [
             '## Most Common Species',
             '',

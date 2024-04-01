@@ -1,0 +1,33 @@
+{
+  "ut_api_call": 1711964092.133988,
+  "plant_photo_id": "Photo-2024-04-01-08-11-28",
+  "species_name_to_score": {
+    "Blepharocalyx salicifolius": 0.34421,
+    "Mesua ferrea": 0.3037,
+    "Nectandra angustifolia": 0.05173,
+    "Umbellularia californica": 0.02043,
+    "Eugenia myrcianthes": 0.01444,
+    "Syzygium jambos": 0.01416,
+    "Eucalyptus camaldulensis": 0.01203,
+    "Syzygium zeylanicum": 0.00556,
+    "Maytenus boaria": 0.00553,
+    "Phillyrea angustifolia": 0.00367,
+    "Eucalyptus globulus": 0.00341,
+    "Myrcia selloi": 0.00296,
+    "Secamone elliptica": 0.00253,
+    "Xylopia frutescens": 0.00242,
+    "Eucalyptus tereticornis": 0.00217,
+    "Quercus myrsinifolia": 0.00198,
+    "Eucalyptus leucoxylon": 0.00191,
+    "Myrcia splendens": 0.00181,
+    "Maytenus acuminata": 0.00167,
+    "Salix acmophylla": 0.00145,
+    "Olea lancea": 0.00135,
+    "Ocotea acutifolia": 0.00128,
+    "Salix bonplandiana": 0.00126,
+    "Xylopia brasiliensis": 0.00123,
+    "Lindera aggregata": 0.00114,
+    "Secamone ligustrifolia": 0.00105,
+    "Brachychiton rupestris": 0.00104
+  }
+}

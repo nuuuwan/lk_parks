@@ -45797,5 +45797,452 @@
     "wiki_page": {
       "summary_short": "Eucalyptus microcorys, commonly known as tallowwood, is a species of medium to tall tree that is endemic to eastern Australia. It has rough, fibrous or string bark on the trunk and branches, lance-shaped to egg-shaped adult leaves, flower buds in groups of seven or nine, white to lemon-yellow flowers and conical fruit. It grows in forests near the coast of Queensland and New South Wales."
     }
+  },
+  "Photo-2024-04-01-07-35-50": {
+    "id": "Photo-2024-04-01-07-35-50",
+    "ut": 1711937150,
+    "latlng": {
+      "lat": 6.914853,
+      "lng": 79.862244
+    },
+    "image_path": "data\\images\\Photo-2024-04-01-07-35-50.jpg",
+    "direction": 59.43166731745412,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Cleistanthus collinus": 0.29843,
+        "Cordia dichotoma": 0.05546,
+        "Breynia vitis-idaea": 0.03323,
+        "Erythroxylum coca": 0.03287,
+        "Pseudolachnostylis maprouneifolia": 0.024
+      }
+    },
+    "species": {
+      "name": "Cleistanthus collinus",
+      "authorship": "(Roxb.) Benth. ex Hook.f.",
+      "genus_name": "Cleistanthus",
+      "family_name": "Phyllanthaceae",
+      "iucn_category": "VU",
+      "common_names": [
+        "Indrayava",
+        "Madara",
+        "Nilaippalai",
+        "Odugu",
+        "Oduppai"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Cleistanthus collinus is a plant species first described by Roxburgh, with its current name after Bentham and Hooker; it is included in the family Phyllanthaceae.  The IUCN categorizes this species as vulnerable.  No subspecies are listed in the Catalogue of Life."
+    }
+  },
+  "Photo-2024-04-01-07-38-14": {
+    "id": "Photo-2024-04-01-07-38-14",
+    "ut": 1711937294,
+    "latlng": {
+      "lat": 6.915619,
+      "lng": 79.862161
+    },
+    "image_path": "data\\images\\Photo-2024-04-01-07-38-14.jpg",
+    "direction": 328.52645861601087,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Tabebuia rosea": 0.69467,
+        "Tabebuia heterophylla": 0.04267,
+        "Handroanthus heptaphyllus": 0.01605,
+        "Tabebuia pallida": 0.01137,
+        "Handroanthus impetiginosus": 0.0036
+      }
+    },
+    "species": {
+      "name": "Tabebuia rosea",
+      "authorship": "(Bertol.) Bertero ex A.DC.",
+      "genus_name": "Tabebuia",
+      "family_name": "Bignoniaceae",
+      "iucn_category": "LC",
+      "common_names": [
+        "Pink poui",
+        "Pink trumpet-tree",
+        "Rosy trumpet-tree"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Tabebuia rosea, also called pink poui, and rosy trumpet tree is a neotropical tree that grows up to 30 m (98 ft) and can reach a diameter at breast height of up to 100 cm (3 ft). The Spanish name roble de sabana, meaning \"savannah oak\", is widely used in Costa Rica, probably because it often remains in heavily deforested areas and because of the resemblance of its wood to that of oak trees. It is the national tree of El Salvador, where it is called \"Maquil\u00edshuat\"."
+    }
+  },
+  "Photo-2024-04-01-07-39-09": {
+    "id": "Photo-2024-04-01-07-39-09",
+    "ut": 1711937349,
+    "latlng": {
+      "lat": 6.915661,
+      "lng": 79.861861
+    },
+    "image_path": "data\\images\\Photo-2024-04-01-07-39-09.jpg",
+    "direction": 193.40444951511694,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Averrhoa carambola": 0.96208
+      }
+    },
+    "species": {
+      "name": "Averrhoa carambola",
+      "authorship": "L.",
+      "genus_name": "Averrhoa",
+      "family_name": "Oxalidaceae",
+      "iucn_category": null,
+      "common_names": [
+        "Carambola",
+        "Five-corner",
+        "Kaamaranka",
+        "Kamaranga",
+        "Starfruit"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Averrhoa carambola is a species of tree in the family Oxalidaceae native to tropical Southeast Asia; it has a number of common names, including carambola, star fruit and five-corner. It is a small tree or shrub that grows 5 to 12 m (16 to 39 ft) tall, with rose to red-purple flowers. The flowers are small and bell-shaped, with five petals that have whitish edges. The flowers are often produced year round under tropical conditions. The tree is cultivated in tropical and semitropical regions for ..."
+    }
+  },
+  "Photo-2024-04-01-07-42-46": {
+    "id": "Photo-2024-04-01-07-42-46",
+    "ut": 1711937566,
+    "latlng": {
+      "lat": 6.915794,
+      "lng": 79.862069
+    },
+    "image_path": "data\\images\\Photo-2024-04-01-07-42-46.jpg",
+    "direction": 207.776886035313,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Plumeria obtusa": 0.60608,
+        "Plumeria alba": 0.25474,
+        "Plumeria rubra": 0.02626,
+        "Pachypodium decaryi": 0.00745,
+        "Plumeria pudica": 0.00512
+      }
+    },
+    "species": {
+      "name": "Plumeria obtusa",
+      "authorship": "L.",
+      "genus_name": "Plumeria",
+      "family_name": "Apocynaceae",
+      "iucn_category": "LC",
+      "common_names": [
+        "Frangipani",
+        "Singapore graveyard flower",
+        "\u0c26\u0c47\u0c35 \u0c17\u0c28\u0c4d\u0c28\u0c47\u0c30\u0c41"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Plumeria obtusa, the Singapore graveyard flower, is a species of the genus Plumeria (Apocynaceae). It is native to the Neotropics, but widely cultivated for its ornamental and fragrant flowers around the world, where suitably warm climate exists."
+    }
+  },
+  "Photo-2024-04-01-07-44-52": {
+    "id": "Photo-2024-04-01-07-44-52",
+    "ut": 1711937692,
+    "latlng": {
+      "lat": 6.912731,
+      "lng": 79.860161
+    },
+    "image_path": "data\\images\\Photo-2024-04-01-07-44-52.jpg",
+    "direction": 340.4561462919065,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Tecoma stans": 0.90331,
+        "Roseodendron donnell-smithii": 0.0037,
+        "Handroanthus chrysanthus": 0.00342,
+        "Roseodendron chryseum": 0.00167,
+        "Handroanthus ochraceus": 0.00146
+      }
+    },
+    "species": {
+      "name": "Tecoma stans",
+      "authorship": "(L.) Juss. ex Kunth",
+      "genus_name": "Tecoma",
+      "family_name": "Bignoniaceae",
+      "iucn_category": "LC",
+      "common_names": [
+        "Kaelanitissa",
+        "Kelantissa",
+        "Rankaerali",
+        "Swarnaptti",
+        "Tankarali",
+        "Trumpet-flower",
+        "Yellow trumpet flower",
+        "Yellow-bells"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Tecoma stans is a species of flowering perennial shrub in the trumpet vine family, Bignoniaceae, that is native to the Americas.  Common names include yellow trumpetbush, yellow bells, yellow elder, ginger Thomas. Tecoma stans is the official flower of the United States Virgin Islands and the floral emblem of The Bahamas."
+    }
+  },
+  "Photo-2024-04-01-07-58-49": {
+    "id": "Photo-2024-04-01-07-58-49",
+    "ut": 1711938529,
+    "latlng": {
+      "lat": 6.913842,
+      "lng": 79.863664
+    },
+    "image_path": "data\\images\\Photo-2024-04-01-07-58-49.jpg",
+    "direction": 304.50888062783974,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Mesua ferrea": 0.72349,
+        "Luehea divaricata": 0.02175,
+        "Eugenia myrcianthes": 0.01553,
+        "Oncoba spinosa": 0.01478,
+        "Atherosperma moschatum": 0.01049
+      }
+    },
+    "species": {
+      "name": "Mesua ferrea",
+      "authorship": "L.",
+      "genus_name": "Mesua",
+      "family_name": "Calophyllaceae",
+      "iucn_category": null,
+      "common_names": [
+        "Ceylon Ironwood",
+        "Cirunakappu",
+        "Iron Wood Tree",
+        "Mesua",
+        "Na",
+        "Naa",
+        "Nagakesarah Nagapuspa",
+        "Nangu"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Mesua ferrea, the Ceylon ironwood,  or cobra saffron, is a species in the family Calophyllaceae native to the Indomalayan realm. This slow-growing tree is named after the heaviness and hardness of its timber. It is widely cultivated as an ornamental for its graceful shape, grayish-green foliage with a beautiful pink to red flush of drooping young leaves, and large, fragrant white flowers. It is the national tree of Sri Lanka, as well as the state tree of Mizoram and state flower of Tripura in ..."
+    }
+  },
+  "Photo-2024-04-01-08-02-38": {
+    "id": "Photo-2024-04-01-08-02-38",
+    "ut": 1711938758,
+    "latlng": {
+      "lat": 6.914292,
+      "lng": 79.863494
+    },
+    "image_path": "data\\images\\Photo-2024-04-01-08-02-38.jpg",
+    "direction": 197.4296264118158,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Diospyros mespiliformis": 0.32931,
+        "Diospyros blancoi": 0.13358,
+        "Salix pentandra": 0.05599,
+        "Elaeodendron buchananii": 0.03095,
+        "Diospyros malabarica": 0.02898
+      }
+    },
+    "species": {
+      "name": "Diospyros mespiliformis",
+      "authorship": "Hochst. ex A.DC.",
+      "genus_name": "Diospyros",
+      "family_name": "Ebenaceae",
+      "iucn_category": "LC",
+      "common_names": [
+        "Ebony diospyros",
+        "Kalum",
+        "West African Ebony"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Diospyros mespiliformis, the jackalberry (also known as African ebony and by its Afrikaans name jakkalsbessie), is a large dioecious evergreen tree found mostly in the savannas of Africa. Jackals are fond of the fruit, hence the common names. It is a member of the family Ebenaceae, and is related to the true ebony (D. ebenum) and edible persimmon (D. kaki)."
+    }
+  },
+  "Photo-2024-04-01-08-02-48": {
+    "id": "Photo-2024-04-01-08-02-48",
+    "ut": 1711938768,
+    "latlng": {
+      "lat": 6.914364,
+      "lng": 79.863511
+    },
+    "image_path": "data\\images\\Photo-2024-04-01-08-02-48.jpg",
+    "direction": 178.91467268623026,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Diospyros malabarica": 0.48974,
+        "Diospyros mespiliformis": 0.23349,
+        "Diospyros blancoi": 0.01625,
+        "Salix pentandra": 0.01485,
+        "Diospyros maritima": 0.0079
+      }
+    },
+    "species": {
+      "name": "Diospyros malabarica",
+      "authorship": "(Desr.) Kostel.",
+      "genus_name": "Diospyros",
+      "family_name": "Ebenaceae",
+      "iucn_category": null,
+      "common_names": [
+        "Indian persimmon",
+        "Mountain ebony",
+        "Thinduka",
+        "Thumbai",
+        "Timbiri"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Diospyros malabarica, the gaub tree, Malabar ebony, black-and-white ebony or pale moon ebony, is a species of flowering tree in the family Ebenaceae that is native to the Indian Subcontinent and South East Asia.\nIt is a long-lived, very slow-growing tree, which can reach up to 35 m in height with a black trunk up to 70 cm in diameter. It is an evergreen tree with white or green flowers. The tree is found in lowland rainforests, primarily along rivers and streams."
+    }
+  },
+  "Photo-2024-04-01-08-05-46": {
+    "id": "Photo-2024-04-01-08-05-46",
+    "ut": 1711938946,
+    "latlng": {
+      "lat": 6.913647,
+      "lng": 79.862358
+    },
+    "image_path": "data\\images\\Photo-2024-04-01-08-05-46.jpg",
+    "direction": 199.19314571039493,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Lepisorus thunbergianus": 0.09154,
+        "Pyrrosia lanceolata": 0.05866,
+        "Laelia gloriosa": 0.05318,
+        "Pyrrosia adnascens": 0.04468,
+        "Pyrrosia lingua": 0.03879
+      }
+    },
+    "species": {
+      "name": "Lepisorus thunbergianus",
+      "authorship": "(Kaulf.) Ching",
+      "genus_name": "Lepisorus",
+      "family_name": "Polypodiaceae",
+      "iucn_category": null,
+      "common_names": [
+        "Weeping Fern"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": ""
+    }
+  },
+  "Photo-2024-04-01-08-05-52": {
+    "id": "Photo-2024-04-01-08-05-52",
+    "ut": 1711938952,
+    "latlng": {
+      "lat": 6.91365,
+      "lng": 79.862358
+    },
+    "image_path": "data\\images\\Photo-2024-04-01-08-05-52.jpg",
+    "direction": 192.46896355353076,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Pyrrosia lanceolata": 0.37977,
+        "Lepisorus thunbergianus": 0.11102,
+        "Pyrrosia adnascens": 0.01585,
+        "Eucalyptus globulus": 0.01293,
+        "Pyrrosia lingua": 0.01144
+      }
+    },
+    "species": {
+      "name": "Pyrrosia lanceolata",
+      "authorship": "(L.) Farw.",
+      "genus_name": "Pyrrosia",
+      "family_name": "Polypodiaceae",
+      "iucn_category": null,
+      "common_names": [
+        "Lanceleaf tongue fern"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": ""
+    }
+  },
+  "Photo-2024-04-01-08-06-07": {
+    "id": "Photo-2024-04-01-08-06-07",
+    "ut": 1711938967,
+    "latlng": {
+      "lat": 6.913572,
+      "lng": 79.862267
+    },
+    "image_path": "data\\images\\Photo-2024-04-01-08-06-07.jpg",
+    "direction": 64.16871637202152,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Ceiba pentandra": 0.20364,
+        "Cariniana legalis": 0.20184,
+        "Ficus luschnathiana": 0.07219,
+        "Mangifera indica": 0.06445,
+        "Phytolacca dioica": 0.03265
+      }
+    },
+    "species": {
+      "name": "Ceiba pentandra",
+      "authorship": "(L.) Gaertn.",
+      "genus_name": "Ceiba",
+      "family_name": "Malvaceae",
+      "iucn_category": "LC",
+      "common_names": [
+        "Himbul",
+        "Ilavu",
+        "Imbul",
+        "Kapok",
+        "Kapoktree",
+        "Kotta",
+        "White silk cottontree"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Ceiba pentandra is a tropical tree of the order Malvales and the family Malvaceae (previously emplaced in the family Bombacaceae), native to Mexico, Central America and the Caribbean, northern South America, and (as the variety C. pentandra var guineensis) West Africa. A somewhat smaller variety has been introduced to South and Southeast Asia, where it is cultivated.\nThe tree and the cotton-like fluff obtained from its seed pods are commonly known in English as kapok, a Malay-derived name which ..."
+    }
+  },
+  "Photo-2024-04-01-08-11-28": {
+    "id": "Photo-2024-04-01-08-11-28",
+    "ut": 1711939288,
+    "latlng": {
+      "lat": 6.912075,
+      "lng": 79.861642
+    },
+    "image_path": "data\\images\\Photo-2024-04-01-08-11-28.jpg",
+    "direction": 311.8319091796875,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Blepharocalyx salicifolius": 0.34421,
+        "Mesua ferrea": 0.3037,
+        "Nectandra angustifolia": 0.05173,
+        "Umbellularia californica": 0.02043,
+        "Eugenia myrcianthes": 0.01444
+      }
+    },
+    "species": {
+      "name": "Blepharocalyx salicifolius",
+      "authorship": "(Kunth) O.Berg",
+      "genus_name": "Blepharocalyx",
+      "family_name": "Myrtaceae",
+      "iucn_category": null,
+      "common_names": []
+    },
+    "wiki_page": {
+      "summary_short": ""
+    }
+  },
+  "Photo-2024-04-01-08-16-34": {
+    "id": "Photo-2024-04-01-08-16-34",
+    "ut": 1711939594,
+    "latlng": {
+      "lat": 6.914844,
+      "lng": 79.860353
+    },
+    "image_path": "data\\images\\Photo-2024-04-01-08-16-34.jpg",
+    "direction": 146.01959216313475,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Muntingia calabura": 0.98761,
+        "Grewia laevigata": 0.0036
+      }
+    },
+    "species": {
+      "name": "Muntingia calabura",
+      "authorship": "L.",
+      "genus_name": "Muntingia",
+      "family_name": "Muntingiaceae",
+      "iucn_category": "LC",
+      "common_names": [
+        "Calabur-tree",
+        "Capulin",
+        "Panama-berry"
+      ]
+    },
+    "wiki_page": {
+      "summary_short": "Muntingia is a genus of plants in the family Muntingiaceae, comprising only one species, Muntingia calabura, and was named in honour of Abraham Munting. It is native to the Neotropics, from Mexico south to Bolivia and Argentina, with edible fruit, and has been widely introduced in other tropical areas."
+    }
   }
 }

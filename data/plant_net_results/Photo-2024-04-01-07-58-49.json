@@ -1,0 +1,18 @@
+{
+  "ut_api_call": 1711964064.0164661,
+  "plant_photo_id": "Photo-2024-04-01-07-58-49",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.72349,
+    "Luehea divaricata": 0.02175,
+    "Eugenia myrcianthes": 0.01553,
+    "Oncoba spinosa": 0.01478,
+    "Atherosperma moschatum": 0.01049,
+    "Camellia sinensis": 0.00353,
+    "Camellia fraterna": 0.00296,
+    "Camellia yunnanensis": 0.00292,
+    "Durio zibethinus": 0.00236,
+    "Stewartia sinensis": 0.00205,
+    "Grewia bicolor": 0.0012,
+    "Polyspora axillaris": 0.00104
+  }
+}

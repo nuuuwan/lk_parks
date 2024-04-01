@@ -81248,5 +81248,852 @@
       "wiki_page_name": "Eucalyptus_microcorys",
       "summary": "Eucalyptus microcorys, commonly known as tallowwood, is a species of medium to tall tree that is endemic to eastern Australia. It has rough, fibrous or string bark on the trunk and branches, lance-shaped to egg-shaped adult leaves, flower buds in groups of seven or nine, white to lemon-yellow flowers and conical fruit. It grows in forests near the coast of Queensland and New South Wales."
     }
+  },
+  "Photo-2024-04-01-07-35-50": {
+    "id": "Photo-2024-04-01-07-35-50",
+    "ut": 1711937150,
+    "latlng": {
+      "lat": 6.914853,
+      "lng": 79.862244
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-01, 07 35 50.jpg",
+    "image_path": "data\\images\\Photo-2024-04-01-07-35-50.jpg",
+    "alt": 13.36970476823873,
+    "direction": 59.43166731745412,
+    "plant_net_result": {
+      "ut_api_call": 1711964045.355873,
+      "plant_photo_id": "Photo-2024-04-01-07-35-50",
+      "species_name_to_score": {
+        "Cleistanthus collinus": 0.29843,
+        "Cordia dichotoma": 0.05546,
+        "Breynia vitis-idaea": 0.03323,
+        "Erythroxylum coca": 0.03287,
+        "Pseudolachnostylis maprouneifolia": 0.024,
+        "Breynia oblongifolia": 0.01023,
+        "Breynia retusa": 0.01005,
+        "Ximenia americana": 0.00604,
+        "Lindera benzoin": 0.00548,
+        "Bridelia tomentosa": 0.00523,
+        "Tapinanthus belvisii": 0.00517,
+        "Ehretia acuminata": 0.00486,
+        "Dalbergia latifolia": 0.00422,
+        "Stegnosperma cubense": 0.00353,
+        "Ximenia caffra": 0.00349,
+        "Chrysobalanus icaco": 0.00313,
+        "Flueggea virosa": 0.00311,
+        "Margaritaria discoidea": 0.0029,
+        "Gymnosporia emarginata": 0.00284,
+        "Bridelia stipularis": 0.00258,
+        "Santalum album": 0.00249,
+        "Diospyros maritima": 0.00242,
+        "Annona senegalensis": 0.00232,
+        "Terminalia chebula": 0.00228,
+        "Dalbergia hupeana": 0.00215,
+        "Cratoxylum cochinchinense": 0.00215,
+        "Diospyros fasciculosa": 0.00208,
+        "Thermopsis lanceolata": 0.00197,
+        "Diospyros mespiliformis": 0.00195,
+        "Diospyros melanoxylon": 0.00194,
+        "Bridelia micrantha": 0.00179,
+        "Semialarium mexicanum": 0.00176,
+        "Dalbergia candenatensis": 0.00176,
+        "Psidium guineense": 0.00175,
+        "Cordia myxa": 0.0017,
+        "Diospyros lotus": 0.00162,
+        "Bridelia taitensis": 0.00159,
+        "Erythroxylum havanense": 0.00155,
+        "Annona cherimola": 0.00154,
+        "Celtis philippensis": 0.00151,
+        "Diospyros virginiana": 0.00148,
+        "Acranthera ceylanica": 0.00143,
+        "Bridelia mollis": 0.00143,
+        "Glochidion billardierei": 0.0013,
+        "Maerua angolensis": 0.00122,
+        "Sonneratia alba": 0.0012,
+        "Cordia sinensis": 0.0012,
+        "Arctostaphylos mewukka": 0.00117,
+        "Celastrus scandens": 0.0011,
+        "Olax dissitiflora": 0.00103
+      }
+    },
+    "species": {
+      "name": "Cleistanthus collinus",
+      "authorship": "(Roxb.) Benth. ex Hook.f.",
+      "genus_name": "Cleistanthus",
+      "family_name": "Phyllanthaceae",
+      "gbif_id": "4940432",
+      "powo_id": "341327-1",
+      "iucn_id": "34271",
+      "iucn_category": "VU",
+      "common_names": [
+        "Indrayava",
+        "Madara",
+        "Nilaippalai",
+        "Odugu",
+        "Oduppai"
+      ]
+    },
+    "wiki_page": {
+      "wiki_page_name": "Cleistanthus_collinus",
+      "summary": "Cleistanthus collinus is a plant species first described by Roxburgh, with its current name after Bentham and Hooker; it is included in the family Phyllanthaceae.  The IUCN categorizes this species as vulnerable.  No subspecies are listed in the Catalogue of Life."
+    }
+  },
+  "Photo-2024-04-01-07-38-14": {
+    "id": "Photo-2024-04-01-07-38-14",
+    "ut": 1711937294,
+    "latlng": {
+      "lat": 6.915619,
+      "lng": 79.862161
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-01, 07 38 14.jpg",
+    "image_path": "data\\images\\Photo-2024-04-01-07-38-14.jpg",
+    "alt": 12.223431073371367,
+    "direction": 328.52645861601087,
+    "plant_net_result": {
+      "ut_api_call": 1711964049.7183592,
+      "plant_photo_id": "Photo-2024-04-01-07-38-14",
+      "species_name_to_score": {
+        "Tabebuia rosea": 0.69467,
+        "Tabebuia heterophylla": 0.04267,
+        "Handroanthus heptaphyllus": 0.01605,
+        "Tabebuia pallida": 0.01137,
+        "Handroanthus impetiginosus": 0.0036,
+        "Aspidosperma pyrifolium": 0.00154,
+        "Podranea ricasoliana": 0.00103
+      }
+    },
+    "species": {
+      "name": "Tabebuia rosea",
+      "authorship": "(Bertol.) Bertero ex A.DC.",
+      "genus_name": "Tabebuia",
+      "family_name": "Bignoniaceae",
+      "gbif_id": "3172537",
+      "powo_id": "111027-1",
+      "iucn_id": "61986278",
+      "iucn_category": "LC",
+      "common_names": [
+        "Pink poui",
+        "Pink trumpet-tree",
+        "Rosy trumpet-tree"
+      ]
+    },
+    "wiki_page": {
+      "wiki_page_name": "Tabebuia_rosea",
+      "summary": "Tabebuia rosea, also called pink poui, and rosy trumpet tree is a neotropical tree that grows up to 30 m (98 ft) and can reach a diameter at breast height of up to 100 cm (3 ft). The Spanish name roble de sabana, meaning \"savannah oak\", is widely used in Costa Rica, probably because it often remains in heavily deforested areas and because of the resemblance of its wood to that of oak trees. It is the national tree of El Salvador, where it is called \"Maquil\u00edshuat\"."
+    }
+  },
+  "Photo-2024-04-01-07-39-09": {
+    "id": "Photo-2024-04-01-07-39-09",
+    "ut": 1711937349,
+    "latlng": {
+      "lat": 6.915661,
+      "lng": 79.861861
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-01, 07 39 09.jpg",
+    "image_path": "data\\images\\Photo-2024-04-01-07-39-09.jpg",
+    "alt": 11.880825688073395,
+    "direction": 193.40444951511694,
+    "plant_net_result": {
+      "ut_api_call": 1711964052.9388924,
+      "plant_photo_id": "Photo-2024-04-01-07-39-09",
+      "species_name_to_score": {
+        "Averrhoa carambola": 0.96208
+      }
+    },
+    "species": {
+      "name": "Averrhoa carambola",
+      "authorship": "L.",
+      "genus_name": "Averrhoa",
+      "family_name": "Oxalidaceae",
+      "gbif_id": "2891641",
+      "powo_id": "371870-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Carambola",
+        "Five-corner",
+        "Kaamaranka",
+        "Kamaranga",
+        "Starfruit"
+      ]
+    },
+    "wiki_page": {
+      "wiki_page_name": "Averrhoa_carambola",
+      "summary": "Averrhoa carambola is a species of tree in the family Oxalidaceae native to tropical Southeast Asia; it has a number of common names, including carambola, star fruit and five-corner. It is a small tree or shrub that grows 5 to 12 m (16 to 39 ft) tall, with rose to red-purple flowers. The flowers are small and bell-shaped, with five petals that have whitish edges. The flowers are often produced year round under tropical conditions. The tree is cultivated in tropical and semitropical regions for its edible fruits."
+    }
+  },
+  "Photo-2024-04-01-07-42-46": {
+    "id": "Photo-2024-04-01-07-42-46",
+    "ut": 1711937566,
+    "latlng": {
+      "lat": 6.915794,
+      "lng": 79.862069
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-01, 07 42 46.jpg",
+    "image_path": "data\\images\\Photo-2024-04-01-07-42-46.jpg",
+    "alt": 11.46335506452047,
+    "direction": 207.776886035313,
+    "plant_net_result": {
+      "ut_api_call": 1711964055.885077,
+      "plant_photo_id": "Photo-2024-04-01-07-42-46",
+      "species_name_to_score": {
+        "Plumeria obtusa": 0.60608,
+        "Plumeria alba": 0.25474,
+        "Plumeria rubra": 0.02626,
+        "Pachypodium decaryi": 0.00745,
+        "Plumeria pudica": 0.00512,
+        "Tabernaemontana cerifera": 0.004,
+        "Tabernaemontana amygdalifolia": 0.00307,
+        "Genipa americana": 0.00242,
+        "Gardenia urvillei": 0.00183,
+        "Holarrhena pubescens": 0.00156,
+        "Pachypodium lamerei": 0.00154,
+        "Tabernaemontana laeta": 0.00141,
+        "Fagraea berteroana": 0.00119,
+        "Ochrosia borbonica": 0.00119,
+        "Cerbera manghas": 0.00114,
+        "Tabernaemontana catharinensis": 0.0011,
+        "Plumeria magna": 0.00108
+      }
+    },
+    "species": {
+      "name": "Plumeria obtusa",
+      "authorship": "L.",
+      "genus_name": "Plumeria",
+      "family_name": "Apocynaceae",
+      "gbif_id": "3169677",
+      "powo_id": "81256-1",
+      "iucn_id": "156770956",
+      "iucn_category": "LC",
+      "common_names": [
+        "Frangipani",
+        "Singapore graveyard flower",
+        "\u0c26\u0c47\u0c35 \u0c17\u0c28\u0c4d\u0c28\u0c47\u0c30\u0c41"
+      ]
+    },
+    "wiki_page": {
+      "wiki_page_name": "Plumeria_obtusa",
+      "summary": "Plumeria obtusa, the Singapore graveyard flower, is a species of the genus Plumeria (Apocynaceae). It is native to the Neotropics, but widely cultivated for its ornamental and fragrant flowers around the world, where suitably warm climate exists."
+    }
+  },
+  "Photo-2024-04-01-07-44-52": {
+    "id": "Photo-2024-04-01-07-44-52",
+    "ut": 1711937692,
+    "latlng": {
+      "lat": 6.912731,
+      "lng": 79.860161
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-01, 07 44 52.jpg",
+    "image_path": "data\\images\\Photo-2024-04-01-07-44-52.jpg",
+    "alt": 11.129296304030069,
+    "direction": 340.4561462919065,
+    "plant_net_result": {
+      "ut_api_call": 1711964060.8723302,
+      "plant_photo_id": "Photo-2024-04-01-07-44-52",
+      "species_name_to_score": {
+        "Tecoma stans": 0.90331,
+        "Roseodendron donnell-smithii": 0.0037,
+        "Handroanthus chrysanthus": 0.00342,
+        "Roseodendron chryseum": 0.00167,
+        "Handroanthus ochraceus": 0.00146,
+        "Tecoma fulva": 0.0014
+      }
+    },
+    "species": {
+      "name": "Tecoma stans",
+      "authorship": "(L.) Juss. ex Kunth",
+      "genus_name": "Tecoma",
+      "family_name": "Bignoniaceae",
+      "gbif_id": "3172492",
+      "powo_id": "111284-1",
+      "iucn_id": "82858855",
+      "iucn_category": "LC",
+      "common_names": [
+        "Kaelanitissa",
+        "Kelantissa",
+        "Rankaerali",
+        "Swarnaptti",
+        "Tankarali",
+        "Trumpet-flower",
+        "Yellow trumpet flower",
+        "Yellow-bells"
+      ]
+    },
+    "wiki_page": {
+      "wiki_page_name": "Tecoma_stans",
+      "summary": "Tecoma stans is a species of flowering perennial shrub in the trumpet vine family, Bignoniaceae, that is native to the Americas.  Common names include yellow trumpetbush, yellow bells, yellow elder, ginger Thomas. Tecoma stans is the official flower of the United States Virgin Islands and the floral emblem of The Bahamas."
+    }
+  },
+  "Photo-2024-04-01-07-58-49": {
+    "id": "Photo-2024-04-01-07-58-49",
+    "ut": 1711938529,
+    "latlng": {
+      "lat": 6.913842,
+      "lng": 79.863664
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-01, 07 58 49.jpg",
+    "image_path": "data\\images\\Photo-2024-04-01-07-58-49.jpg",
+    "alt": 12.143531598513011,
+    "direction": 304.50888062783974,
+    "plant_net_result": {
+      "ut_api_call": 1711964064.0164661,
+      "plant_photo_id": "Photo-2024-04-01-07-58-49",
+      "species_name_to_score": {
+        "Mesua ferrea": 0.72349,
+        "Luehea divaricata": 0.02175,
+        "Eugenia myrcianthes": 0.01553,
+        "Oncoba spinosa": 0.01478,
+        "Atherosperma moschatum": 0.01049,
+        "Camellia sinensis": 0.00353,
+        "Camellia fraterna": 0.00296,
+        "Camellia yunnanensis": 0.00292,
+        "Durio zibethinus": 0.00236,
+        "Stewartia sinensis": 0.00205,
+        "Grewia bicolor": 0.0012,
+        "Polyspora axillaris": 0.00104
+      }
+    },
+    "species": {
+      "name": "Mesua ferrea",
+      "authorship": "L.",
+      "genus_name": "Mesua",
+      "family_name": "Calophyllaceae",
+      "gbif_id": "7330039",
+      "powo_id": "428832-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Ceylon Ironwood",
+        "Cirunakappu",
+        "Iron Wood Tree",
+        "Mesua",
+        "Na",
+        "Naa",
+        "Nagakesarah Nagapuspa",
+        "Nangu"
+      ]
+    },
+    "wiki_page": {
+      "wiki_page_name": "Mesua_ferrea",
+      "summary": "Mesua ferrea, the Ceylon ironwood,  or cobra saffron, is a species in the family Calophyllaceae native to the Indomalayan realm. This slow-growing tree is named after the heaviness and hardness of its timber. It is widely cultivated as an ornamental for its graceful shape, grayish-green foliage with a beautiful pink to red flush of drooping young leaves, and large, fragrant white flowers. It is the national tree of Sri Lanka, as well as the state tree of Mizoram and state flower of Tripura in India."
+    }
+  },
+  "Photo-2024-04-01-08-02-38": {
+    "id": "Photo-2024-04-01-08-02-38",
+    "ut": 1711938758,
+    "latlng": {
+      "lat": 6.914292,
+      "lng": 79.863494
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-01, 08 02 38.jpg",
+    "image_path": "data\\images\\Photo-2024-04-01-08-02-38.jpg",
+    "alt": 12.220068210375157,
+    "direction": 197.4296264118158,
+    "plant_net_result": {
+      "ut_api_call": 1711964068.755716,
+      "plant_photo_id": "Photo-2024-04-01-08-02-38",
+      "species_name_to_score": {
+        "Diospyros mespiliformis": 0.32931,
+        "Diospyros blancoi": 0.13358,
+        "Salix pentandra": 0.05599,
+        "Elaeodendron buchananii": 0.03095,
+        "Diospyros malabarica": 0.02898,
+        "Inga laurina": 0.02432,
+        "Combretum kraussii": 0.02255,
+        "Combretum collinum": 0.02218,
+        "Laurus novocanariensis": 0.0088,
+        "Ocotea foetens": 0.00748,
+        "Umbellularia californica": 0.00735,
+        "Salix euxina": 0.00425,
+        "Combretum apiculatum": 0.00417,
+        "Arbutus andrachne": 0.00398,
+        "Brachystegia spiciformis": 0.0039,
+        "Visnea mocanera": 0.00385,
+        "Nectandra angustifolia": 0.00331,
+        "Ocotea diospyrifolia": 0.0033,
+        "Laurus azorica": 0.00322,
+        "Terminalia arjuna": 0.00297,
+        "Syzygium jambos": 0.00295,
+        "Hydnocarpus castaneus": 0.00284,
+        "Euclea natalensis": 0.00209,
+        "Warburgia salutaris": 0.00196,
+        "Moquilea tomentosa": 0.00192,
+        "Diospyros virginiana": 0.00187,
+        "Salix bebbiana": 0.00186,
+        "Cynometra ramiflora": 0.00178,
+        "Platymiscium parviflorum": 0.00177,
+        "Syzygium samarangense": 0.00154,
+        "Bridelia micrantha": 0.00143,
+        "Diospyros lotus": 0.00134,
+        "Combretum nigricans": 0.00133,
+        "Litchi chinensis": 0.00132,
+        "Flacourtia jangomas": 0.00123,
+        "Persea barbujana": 0.00121,
+        "Celtis laevigata": 0.00119,
+        "Machilus thunbergii": 0.00116,
+        "Salix atrocinerea": 0.00116,
+        "Afzelia quanzensis": 0.00115,
+        "Conocarpus erectus": 0.00112,
+        "Castanospermum australe": 0.00105,
+        "Inga marginata": 0.00102
+      }
+    },
+    "species": {
+      "name": "Diospyros mespiliformis",
+      "authorship": "Hochst. ex A.DC.",
+      "genus_name": "Diospyros",
+      "family_name": "Ebenaceae",
+      "gbif_id": "4071204",
+      "powo_id": "322702-1",
+      "iucn_id": "173967",
+      "iucn_category": "LC",
+      "common_names": [
+        "Ebony diospyros",
+        "Kalum",
+        "West African Ebony"
+      ]
+    },
+    "wiki_page": {
+      "wiki_page_name": "Diospyros_mespiliformis",
+      "summary": "Diospyros mespiliformis, the jackalberry (also known as African ebony and by its Afrikaans name jakkalsbessie), is a large dioecious evergreen tree found mostly in the savannas of Africa. Jackals are fond of the fruit, hence the common names. It is a member of the family Ebenaceae, and is related to the true ebony (D. ebenum) and edible persimmon (D. kaki)."
+    }
+  },
+  "Photo-2024-04-01-08-02-48": {
+    "id": "Photo-2024-04-01-08-02-48",
+    "ut": 1711938768,
+    "latlng": {
+      "lat": 6.914364,
+      "lng": 79.863511
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-01, 08 02 48.jpg",
+    "image_path": "data\\images\\Photo-2024-04-01-08-02-48.jpg",
+    "alt": 11.24518317503392,
+    "direction": 178.91467268623026,
+    "plant_net_result": {
+      "ut_api_call": 1711964072.8854063,
+      "plant_photo_id": "Photo-2024-04-01-08-02-48",
+      "species_name_to_score": {
+        "Diospyros malabarica": 0.48974,
+        "Diospyros mespiliformis": 0.23349,
+        "Diospyros blancoi": 0.01625,
+        "Salix pentandra": 0.01485,
+        "Diospyros maritima": 0.0079,
+        "Arbutus andrachne": 0.00357,
+        "Diospyros decandra": 0.00261,
+        "Ocotea foetens": 0.00242,
+        "Umbellularia californica": 0.00225,
+        "Rothmannia capensis": 0.00204,
+        "Elaeodendron buchananii": 0.00195,
+        "Euclea natalensis": 0.00165,
+        "Drypetes deplanchei": 0.00159,
+        "Magnolia virginiana": 0.00158,
+        "Diospyros ebenum": 0.00155,
+        "Machilus thunbergii": 0.00144,
+        "Ficus thonningii": 0.0013,
+        "Manilkara mochisia": 0.00124,
+        "Casasia clusiifolia": 0.00116
+      }
+    },
+    "species": {
+      "name": "Diospyros malabarica",
+      "authorship": "(Desr.) Kostel.",
+      "genus_name": "Diospyros",
+      "family_name": "Ebenaceae",
+      "gbif_id": "7295796",
+      "powo_id": "322658-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Indian persimmon",
+        "Mountain ebony",
+        "Thinduka",
+        "Thumbai",
+        "Timbiri"
+      ]
+    },
+    "wiki_page": {
+      "wiki_page_name": "Diospyros_malabarica",
+      "summary": "Diospyros malabarica, the gaub tree, Malabar ebony, black-and-white ebony or pale moon ebony, is a species of flowering tree in the family Ebenaceae that is native to the Indian Subcontinent and South East Asia.\nIt is a long-lived, very slow-growing tree, which can reach up to 35 m in height with a black trunk up to 70 cm in diameter. It is an evergreen tree with white or green flowers. The tree is found in lowland rainforests, primarily along rivers and streams."
+    }
+  },
+  "Photo-2024-04-01-08-05-46": {
+    "id": "Photo-2024-04-01-08-05-46",
+    "ut": 1711938946,
+    "latlng": {
+      "lat": 6.913647,
+      "lng": 79.862358
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-01, 08 05 46.jpg",
+    "image_path": "data\\images\\Photo-2024-04-01-08-05-46.jpg",
+    "alt": 13.287917103558872,
+    "direction": 199.19314571039493,
+    "plant_net_result": {
+      "ut_api_call": 1711964077.7181306,
+      "plant_photo_id": "Photo-2024-04-01-08-05-46",
+      "species_name_to_score": {
+        "Lepisorus thunbergianus": 0.09154,
+        "Pyrrosia lanceolata": 0.05866,
+        "Laelia gloriosa": 0.05318,
+        "Pyrrosia adnascens": 0.04468,
+        "Pyrrosia lingua": 0.03879,
+        "Dendrobium speciosum": 0.03117,
+        "Pleopeltis macrocarpa": 0.01746,
+        "Tillandsia recurvata": 0.0134,
+        "Niphidium crassifolium": 0.01283,
+        "Platycerium bifurcatum": 0.01108,
+        "Cryptostylis arachnites": 0.01066,
+        "Philenoptera violacea": 0.01022,
+        "Acampe pachyglossa": 0.00761,
+        "Fascicularia bicolor": 0.00671,
+        "Dendrobium crumenatum": 0.00573,
+        "Hedera nepalensis": 0.00421,
+        "Lonchocarpus capassa": 0.00368,
+        "Ansellia africana": 0.00367,
+        "Aechmea setigera": 0.00359,
+        "Elaphoglossum proximum": 0.00325,
+        "Catopsis floribunda": 0.0032,
+        "Lepisorus spicatus": 0.00319,
+        "Microgramma mortoniana": 0.00297,
+        "Buckinghamia celsissima": 0.00283,
+        "Aerides odorata": 0.0027,
+        "Mespilodaphne morae": 0.00252,
+        "Guarianthe aurantiaca": 0.00244,
+        "Magnolia delavayi": 0.00241,
+        "Pycnandra sarlinii": 0.00234,
+        "Tillandsia leiboldiana": 0.00232,
+        "Aechmea bracteata": 0.0021,
+        "Hernandia mascarenensis": 0.0021,
+        "Tabebuia aurea": 0.00202,
+        "Microgramma squamulosa": 0.00194,
+        "Erythrina falcata": 0.00194,
+        "Basselinia pancheri": 0.00187,
+        "Aechmea aquilega": 0.00187,
+        "Tillandsia schiedeana": 0.0018,
+        "Pelagodoxa henryana": 0.00174,
+        "Dendrobium linguiforme": 0.00173,
+        "Thymbra spicata": 0.00171,
+        "Phlebodium aureum": 0.00166,
+        "Searsia lancea": 0.00166,
+        "Faurea saligna": 0.00164,
+        "Aechmea distichantha": 0.00161,
+        "Phoradendron quadrangulare": 0.00156,
+        "Speirantha gardenii": 0.00155,
+        "Mediocalcar decoratum": 0.00153,
+        "Prosthechea radiata": 0.00152,
+        "Tillandsia lorentziana": 0.0015,
+        "Tillandsia pseudobaileyi": 0.00149,
+        "Pseudospondias microcarpa": 0.00147,
+        "Billbergia buchholtzii": 0.00146,
+        "Tillandsia gymnobotrya": 0.00146,
+        "Elaphoglossum acrostichoides": 0.00146,
+        "Eucalyptus siderophloia": 0.00135,
+        "Axonopus fissifolius": 0.00135,
+        "Amorphophallus dracontioides": 0.00131,
+        "Ficus cordata": 0.0013,
+        "Ficus dammaropsis": 0.00128,
+        "Campyloneurum phyllitidis": 0.00128,
+        "Dendrobium aemulum": 0.00122,
+        "Podocarpus macrophyllus": 0.00122,
+        "Hancea integrifolia": 0.00119,
+        "Mayodendron igneum": 0.00119,
+        "Nasa triphylla": 0.00115,
+        "Tillandsia argentina": 0.00108,
+        "Dianthus uniflorus": 0.00108,
+        "Microgramma percussa": 0.00105,
+        "Oreopanax dactylifolius": 0.00104,
+        "Persea indica": 0.00102,
+        "Guioa microsepala": 0.00101
+      }
+    },
+    "species": {
+      "name": "Lepisorus thunbergianus",
+      "authorship": "(Kaulf.) Ching",
+      "genus_name": "Lepisorus",
+      "family_name": "Polypodiaceae",
+      "gbif_id": "2650524",
+      "powo_id": "17336830-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Weeping Fern"
+      ]
+    },
+    "wiki_page": {
+      "wiki_page_name": "Lepisorus_thunbergianus",
+      "summary": ""
+    }
+  },
+  "Photo-2024-04-01-08-05-52": {
+    "id": "Photo-2024-04-01-08-05-52",
+    "ut": 1711938952,
+    "latlng": {
+      "lat": 6.91365,
+      "lng": 79.862358
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-01, 08 05 52.jpg",
+    "image_path": "data\\images\\Photo-2024-04-01-08-05-52.jpg",
+    "alt": 13.333199639025368,
+    "direction": 192.46896355353076,
+    "plant_net_result": {
+      "ut_api_call": 1711964081.998895,
+      "plant_photo_id": "Photo-2024-04-01-08-05-52",
+      "species_name_to_score": {
+        "Pyrrosia lanceolata": 0.37977,
+        "Lepisorus thunbergianus": 0.11102,
+        "Pyrrosia adnascens": 0.01585,
+        "Eucalyptus globulus": 0.01293,
+        "Pyrrosia lingua": 0.01144,
+        "Eucalyptus camaldulensis": 0.01142,
+        "Pleopeltis macrocarpa": 0.0113,
+        "Laelia autumnalis": 0.00953,
+        "Platycerium bifurcatum": 0.00484,
+        "Dianella tasmanica": 0.00454,
+        "Encyclia tampensis": 0.0044,
+        "Oncidium altissimum": 0.00298,
+        "Gomesa bifolia": 0.00298,
+        "Buckinghamia celsissima": 0.00297,
+        "Nidema boothii": 0.00231,
+        "Eucalyptus gomphocephala": 0.00225,
+        "Ansellia africana": 0.00223,
+        "Dendrobium speciosum": 0.00188,
+        "Microgramma squamulosa": 0.00184,
+        "Ipomoea aquatica": 0.00183,
+        "Guzmania nicaraguensis": 0.00177,
+        "Paspalum dilatatum": 0.00173,
+        "Maxillaria scorpioidea": 0.00172,
+        "Maxillaria egertoniana": 0.00171,
+        "Hedera nepalensis": 0.00154,
+        "Niphidium crassifolium": 0.0015,
+        "Coelogyne cristata": 0.0015,
+        "Stenotaphrum secundatum": 0.00145,
+        "Acacia heterophylla": 0.00141,
+        "Cryptostylis arachnites": 0.00141,
+        "Laelia albida": 0.0014,
+        "Elaphoglossum tonduzii": 0.00139,
+        "Maxillaria variabilis": 0.00138,
+        "Epidendrum ciliare": 0.00137,
+        "Haplopteris ensiformis": 0.00128,
+        "Dendrobium crumenatum": 0.00124,
+        "Coelogyne nitida": 0.00121,
+        "Barbosella gardneri": 0.00119,
+        "Eucalyptus tereticornis": 0.00118,
+        "Bulbophyllum careyanum": 0.00117,
+        "Laelia gloriosa": 0.00115,
+        "Pleopeltis pleopeltifolia": 0.00114,
+        "Axonopus fissifolius": 0.0011,
+        "Dendrobium casuarinae": 0.00108,
+        "Sporobolus africanus": 0.00102
+      }
+    },
+    "species": {
+      "name": "Pyrrosia lanceolata",
+      "authorship": "(L.) Farw.",
+      "genus_name": "Pyrrosia",
+      "family_name": "Polypodiaceae",
+      "gbif_id": "5648124",
+      "powo_id": "1015191-2",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": [
+        "Lanceleaf tongue fern"
+      ]
+    },
+    "wiki_page": {
+      "wiki_page_name": "Pyrrosia_lanceolata",
+      "summary": ""
+    }
+  },
+  "Photo-2024-04-01-08-06-07": {
+    "id": "Photo-2024-04-01-08-06-07",
+    "ut": 1711938967,
+    "latlng": {
+      "lat": 6.913572,
+      "lng": 79.862267
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-01, 08 06 07.jpg",
+    "image_path": "data\\images\\Photo-2024-04-01-08-06-07.jpg",
+    "alt": 11.990887394228682,
+    "direction": 64.16871637202152,
+    "plant_net_result": {
+      "ut_api_call": 1711964086.0345967,
+      "plant_photo_id": "Photo-2024-04-01-08-06-07",
+      "species_name_to_score": {
+        "Ceiba pentandra": 0.20364,
+        "Cariniana legalis": 0.20184,
+        "Ficus luschnathiana": 0.07219,
+        "Mangifera indica": 0.06445,
+        "Phytolacca dioica": 0.03265,
+        "Carya illinoinensis": 0.03,
+        "Castanea crenata": 0.0286,
+        "Castanea sativa": 0.02816,
+        "Pouteria sapota": 0.01397,
+        "Cedrela odorata": 0.01059,
+        "Samanea saman": 0.00866,
+        "Casimiroa edulis": 0.00842,
+        "Faurea saligna": 0.00742,
+        "Diospyros lotus": 0.00736,
+        "Rauvolfia caffra": 0.00678,
+        "Tabebuia rosea": 0.00491,
+        "Pyrrosia lanceolata": 0.0044,
+        "Tabebuia aurea": 0.00422,
+        "Combretum collinum": 0.00404,
+        "Quercus acutissima": 0.00324,
+        "Cyrtophyllum fragrans": 0.00312,
+        "Balfourodendron riedelianum": 0.00301,
+        "Salix babylonica": 0.00285,
+        "Podocarpus neriifolius": 0.00283,
+        "Fraxinus angustifolia": 0.0027,
+        "Eucalyptus microcarpa": 0.0026,
+        "Fraxinus americana": 0.00249,
+        "Swietenia macrophylla": 0.00227,
+        "Manilkara zapota": 0.00224,
+        "Sterculia foetida": 0.00213,
+        "Swietenia mahagoni": 0.00194,
+        "Toona ciliata": 0.00193,
+        "Handroanthus chrysanthus": 0.00183,
+        "Mangifera caesia": 0.00177,
+        "Acacia auriculiformis": 0.00161,
+        "Cedrela fissilis": 0.00158,
+        "Tambourissa elliptica": 0.00154,
+        "Fraxinus excelsior": 0.00149,
+        "Vitellaria paradoxa": 0.00135,
+        "Cecropia obtusifolia": 0.00135,
+        "Sapium glandulosum": 0.00132,
+        "Rhododendron arboreum": 0.00132,
+        "Bertholletia excelsa": 0.0013,
+        "Persea americana": 0.00127,
+        "Tecoma stans": 0.00124,
+        "Lecythis pisonis": 0.00122,
+        "Terminalia elliptica": 0.00119,
+        "Eucalyptus robusta": 0.00114,
+        "Ceiba glaziovii": 0.00105,
+        "Pilosocereus machrisii": 0.00104,
+        "Cuphea aequipetala": 0.00101,
+        "Bombax ceiba": 0.00101,
+        "Albizia adinocephala": 0.001
+      }
+    },
+    "species": {
+      "name": "Ceiba pentandra",
+      "authorship": "(L.) Gaertn.",
+      "genus_name": "Ceiba",
+      "family_name": "Malvaceae",
+      "gbif_id": "5406697",
+      "powo_id": "1166232-2",
+      "iucn_id": "61782438",
+      "iucn_category": "LC",
+      "common_names": [
+        "Himbul",
+        "Ilavu",
+        "Imbul",
+        "Kapok",
+        "Kapoktree",
+        "Kotta",
+        "White silk cottontree"
+      ]
+    },
+    "wiki_page": {
+      "wiki_page_name": "Ceiba_pentandra",
+      "summary": "Ceiba pentandra is a tropical tree of the order Malvales and the family Malvaceae (previously emplaced in the family Bombacaceae), native to Mexico, Central America and the Caribbean, northern South America, and (as the variety C. pentandra var guineensis) West Africa. A somewhat smaller variety has been introduced to South and Southeast Asia, where it is cultivated.\nThe tree and the cotton-like fluff obtained from its seed pods are commonly known in English as kapok, a Malay-derived name which originally applied to Bombax ceiba, a native of tropical Asia. In Spanish-speaking countries the tree is commonly known as \"ceiba\" and in French-speaking countries as fromager. The tree is cultivated for its cottonlike seed fibre, particularly in south-east Asia, and is also known as the Java cotton, Java kapok, silk-cotton or samauma."
+    }
+  },
+  "Photo-2024-04-01-08-11-28": {
+    "id": "Photo-2024-04-01-08-11-28",
+    "ut": 1711939288,
+    "latlng": {
+      "lat": 6.912075,
+      "lng": 79.861642
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-01, 08 11 28.jpg",
+    "image_path": "data\\images\\Photo-2024-04-01-08-11-28.jpg",
+    "alt": 26.0818059901654,
+    "direction": 311.8319091796875,
+    "plant_net_result": {
+      "ut_api_call": 1711964092.133988,
+      "plant_photo_id": "Photo-2024-04-01-08-11-28",
+      "species_name_to_score": {
+        "Blepharocalyx salicifolius": 0.34421,
+        "Mesua ferrea": 0.3037,
+        "Nectandra angustifolia": 0.05173,
+        "Umbellularia californica": 0.02043,
+        "Eugenia myrcianthes": 0.01444,
+        "Syzygium jambos": 0.01416,
+        "Eucalyptus camaldulensis": 0.01203,
+        "Syzygium zeylanicum": 0.00556,
+        "Maytenus boaria": 0.00553,
+        "Phillyrea angustifolia": 0.00367,
+        "Eucalyptus globulus": 0.00341,
+        "Myrcia selloi": 0.00296,
+        "Secamone elliptica": 0.00253,
+        "Xylopia frutescens": 0.00242,
+        "Eucalyptus tereticornis": 0.00217,
+        "Quercus myrsinifolia": 0.00198,
+        "Eucalyptus leucoxylon": 0.00191,
+        "Myrcia splendens": 0.00181,
+        "Maytenus acuminata": 0.00167,
+        "Salix acmophylla": 0.00145,
+        "Olea lancea": 0.00135,
+        "Ocotea acutifolia": 0.00128,
+        "Salix bonplandiana": 0.00126,
+        "Xylopia brasiliensis": 0.00123,
+        "Lindera aggregata": 0.00114,
+        "Secamone ligustrifolia": 0.00105,
+        "Brachychiton rupestris": 0.00104
+      }
+    },
+    "species": {
+      "name": "Blepharocalyx salicifolius",
+      "authorship": "(Kunth) O.Berg",
+      "genus_name": "Blepharocalyx",
+      "family_name": "Myrtaceae",
+      "gbif_id": "3187875",
+      "powo_id": "591309-1",
+      "iucn_id": null,
+      "iucn_category": null,
+      "common_names": []
+    },
+    "wiki_page": {
+      "wiki_page_name": "Blepharocalyx_salicifolius",
+      "summary": ""
+    }
+  },
+  "Photo-2024-04-01-08-16-34": {
+    "id": "Photo-2024-04-01-08-16-34",
+    "ut": 1711939594,
+    "latlng": {
+      "lat": 6.914844,
+      "lng": 79.860353
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-01, 08 16 34.jpg",
+    "image_path": "data\\images\\Photo-2024-04-01-08-16-34.jpg",
+    "alt": 11.255281242046323,
+    "direction": 146.01959216313475,
+    "plant_net_result": {
+      "ut_api_call": 1711964095.7543852,
+      "plant_photo_id": "Photo-2024-04-01-08-16-34",
+      "species_name_to_score": {
+        "Muntingia calabura": 0.98761,
+        "Grewia laevigata": 0.0036
+      }
+    },
+    "species": {
+      "name": "Muntingia calabura",
+      "authorship": "L.",
+      "genus_name": "Muntingia",
+      "family_name": "Muntingiaceae",
+      "gbif_id": "3152036",
+      "powo_id": "320779-2",
+      "iucn_id": "153671335",
+      "iucn_category": "LC",
+      "common_names": [
+        "Calabur-tree",
+        "Capulin",
+        "Panama-berry"
+      ]
+    },
+    "wiki_page": {
+      "wiki_page_name": "Muntingia_calabura",
+      "summary": "Muntingia is a genus of plants in the family Muntingiaceae, comprising only one species, Muntingia calabura, and was named in honour of Abraham Munting. It is native to the Neotropics, from Mexico south to Bolivia and Argentina, with edible fruit, and has been widely introduced in other tropical areas."
+    }
   }
 }

@@ -1,0 +1,25 @@
+{
+  "ut_api_call": 1711964072.8854063,
+  "plant_photo_id": "Photo-2024-04-01-08-02-48",
+  "species_name_to_score": {
+    "Diospyros malabarica": 0.48974,
+    "Diospyros mespiliformis": 0.23349,
+    "Diospyros blancoi": 0.01625,
+    "Salix pentandra": 0.01485,
+    "Diospyros maritima": 0.0079,
+    "Arbutus andrachne": 0.00357,
+    "Diospyros decandra": 0.00261,
+    "Ocotea foetens": 0.00242,
+    "Umbellularia californica": 0.00225,
+    "Rothmannia capensis": 0.00204,
+    "Elaeodendron buchananii": 0.00195,
+    "Euclea natalensis": 0.00165,
+    "Drypetes deplanchei": 0.00159,
+    "Magnolia virginiana": 0.00158,
+    "Diospyros ebenum": 0.00155,
+    "Machilus thunbergii": 0.00144,
+    "Ficus thonningii": 0.0013,
+    "Manilkara mochisia": 0.00124,
+    "Casasia clusiifolia": 0.00116
+  }
+}

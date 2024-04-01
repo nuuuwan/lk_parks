@@ -9,3 +9,4 @@ from lk_plants.app import App
 from lk_plants.core import (DataApp, Family, Genus, NameTranslator,
                             PlantNetResult, PlantPhoto, PlantPhotoBase,
                             PlantPhotoOriginalImage, Species, Taxon, WikiPage)
+from lk_plants.twtr import Twtr

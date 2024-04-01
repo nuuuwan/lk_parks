@@ -2,14 +2,6 @@
 
 Photos where the identification confidence is **< 20%**.
 
-### Photo-2024-03-29-07-55-41
-
-* 14.8% *Cedrela odorata*
-* 3.8% *Juglans cinerea*
-* 3.0% *Melia azedarach*
-
-<img src="data/images/Photo-2024-03-29-07-55-41.jpg" alt="Photo-2024-03-29-07-55-41"  width="50%" />
-
 ### Photo-2024-03-29-07-55-51
 
 * 9.1% *Terminalia oblonga*
@@ -161,3 +153,11 @@ Photos where the identification confidence is **< 20%**.
 * 3.9% *Eucalyptus robusta*
 
 <img src="data/images/Photo-2024-03-29-08-09-30.jpg" alt="Photo-2024-03-29-08-09-30"  width="50%" />
+
+### Photo-2024-04-01-08-05-46
+
+* 9.2% *Lepisorus thunbergianus*
+* 5.9% *Pyrrosia lanceolata*
+* 5.3% *Laelia gloriosa*
+
+<img src="data/images/Photo-2024-04-01-08-05-46.jpg" alt="Photo-2024-04-01-08-05-46"  width="50%" />

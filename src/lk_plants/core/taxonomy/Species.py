@@ -1,5 +1,6 @@
 import os
 from dataclasses import dataclass
+from functools import cache, cached_property
 
 from lk_plants.core.misc.NameTranslator import NameTranslator
 from lk_plants.core.taxonomy.Genus import Genus
@@ -82,3 +83,21 @@ class Species(Taxon):
         )
         species.write()
         return species
+
+    @cached_property
+    def full_name(self):
+        return f'{self.name} ({self.genus.family.name})'
+
+    @cache
+    def get_common_names_str(self, delim=', ', max_len=None):
+        if not max_len:
+            return delim.join(self.common_names)
+
+        common_names = []
+        for common_name in self.common_names:
+            if not common_name.isascii():
+                continue
+            if len(delim.join(common_names + [common_name])) > max_len:
+                break
+            common_names.append(common_name)
+        return delim.join(common_names)
