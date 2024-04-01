@@ -91,7 +91,7 @@ class Twtr:
 
     @cached_property
     def tweet_image_path(self):
-        return self.plant_photo.image_path
+        return self.plant_photo.image_path.replace('\\', '/')
 
     def tweet(self):
         text = self.tweet_text
@@ -103,3 +103,5 @@ class Twtr:
         tweet = Tweet(text).add_image(image_path)
         tweet_id = twitter.send(tweet)
         log.debug(f'{tweet_id=}')
+        if not tweet_id:
+            raise Exception('Null tweet_id')
