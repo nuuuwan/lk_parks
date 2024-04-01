@@ -2,3 +2,4 @@ utils-nuuuwan
 exif
 selenium
 twtr-nuuuwan
+wikipediaapi
