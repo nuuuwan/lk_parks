@@ -4,4 +4,4 @@ selenium
 twtr-nuuuwan
 Wikipedia-API
 matplotlib
-Pillow
+pillow==9.5.0
