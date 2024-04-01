@@ -3,7 +3,7 @@ name: pipeline_tweet
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '*/15 6-18 * * *'
 
 jobs:
   pipeline_tweet:
