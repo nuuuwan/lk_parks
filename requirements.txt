@@ -4,3 +4,4 @@ selenium
 twtr-nuuuwan
 Wikipedia-API
 matplotlib
+Pillow

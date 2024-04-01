@@ -1,5 +1,8 @@
+import os
 import random
 from functools import cached_property
+import tempfile
+from PIL import Image, ImageDraw, ImageFont
 
 from twtr import Tweet, Twitter
 from utils import Log
@@ -89,14 +92,55 @@ class Twtr:
         assert n_tweet_text <= 280, f'{n_tweet_text=}'
         return tweet_text
 
-    @cached_property
-    def tweet_image_path(self):
-        return self.plant_photo.image_path.replace('\\', '/')
+    def get_labelled_image_path(self):
+        image_path = image_path = self.plant_photo.image_path
+        if os.name != 'nt':
+            image_path = image_path.replace('\\', '/')
+        with Image.open(image_path) as img:
+            img = img.convert('RGBA')
+            
+            width, height = img.size
+            draw = ImageDraw.Draw(img)
+            font = ImageFont.truetype('arial.ttf', 30)
+
+            PADDING = 5
+            text = self.species.name
+            text_width, text_height = draw.textsize(text, font)
+
+            rectangle_color = (128, 128,128,128)  # semi-transparent black
+            draw.rectangle(
+                [
+                    (
+                        width - text_width - PADDING * 3,
+                        height - text_height - PADDING * 3,
+                    ),
+                    (width - PADDING, height - PADDING),
+                ],
+                fill=rectangle_color,
+            )
+
+            text_color = (255, 255, 255, 255)
+            draw.text(
+                (
+                    width - text_width - PADDING * 2,
+                    height - text_height - PADDING * 2,
+                ),
+                text,
+                font=font,
+                fill=text_color,
+            )
+
+            tmp_image_path = tempfile.mktemp(suffix='.png')
+            img.save(tmp_image_path)
+            log.debug(f'{tmp_image_path=}')
+            # os.startfile(tmp_image_path)
+            return tmp_image_path
+        raise Exception('Failed to label image')
 
     def tweet(self):
         text = self.tweet_text
         log.debug(text)
-        image_path = self.tweet_image_path
+        image_path = self.get_labelled_image_path()
         log.debug(f'{image_path=}')
 
         twitter = Twitter()
