@@ -3,3 +3,4 @@ exif
 selenium
 twtr-nuuuwan
 Wikipedia-API
+matplotlib
