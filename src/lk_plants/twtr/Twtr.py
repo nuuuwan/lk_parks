@@ -1,9 +1,9 @@
 import os
 import random
-from functools import cached_property
 import tempfile
-from PIL import Image, ImageDraw, ImageFont
+from functools import cached_property
 
+from PIL import Image, ImageDraw, ImageFont
 from twtr import Tweet, Twitter
 from utils import Log
 
@@ -98,7 +98,7 @@ class Twtr:
             image_path = image_path.replace('\\', '/')
         with Image.open(image_path) as img:
             img = img.convert('RGBA')
-            
+
             width, height = img.size
             draw = ImageDraw.Draw(img)
             font = ImageFont.truetype('arial.ttf', 30)
@@ -107,7 +107,7 @@ class Twtr:
             text = self.species.name
             text_width, text_height = draw.textsize(text, font)
 
-            rectangle_color = (128, 128,128,128)  # semi-transparent black
+            rectangle_color = (128, 128, 128, 128)  # semi-transparent black
             draw.rectangle(
                 [
                     (

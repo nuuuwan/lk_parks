@@ -1,11 +1,5 @@
-from lk_plants import (
-    App,
-    DataApp,
-    PlantNetResult,
-    PlantPhoto,
-    ReadMe,
-    WikiPage,
-)
+from lk_plants import (App, DataApp, PlantNetResult, PlantPhoto, ReadMe,
+                       WikiPage)
 
 
 def main():
