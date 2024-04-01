@@ -101,9 +101,9 @@ class Twtr:
 
             width, height = img.size
             draw = ImageDraw.Draw(img)
-            font = ImageFont.truetype('arial.ttf', 30)
+            font = ImageFont.truetype('arial.ttf', 33)
 
-            PADDING = 5
+            PADDING = 10
             text = self.species.name
             text_width, text_height = draw.textsize(text, font)
 
