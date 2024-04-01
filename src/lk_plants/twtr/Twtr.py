@@ -101,13 +101,16 @@ class Twtr:
 
             width, height = img.size
             draw = ImageDraw.Draw(img)
-            font = ImageFont.truetype('arial.ttf', 33)
+            font_path = os.path.join('fonts', 'p22.ttf')
+            font = ImageFont.truetype(font_path, 48)
 
             PADDING = 10
             text = self.species.name
             text_width, text_height = draw.textsize(text, font)
 
-            rectangle_color = (128, 128, 128, 128)  # semi-transparent black
+            img_overlay = Image.new('RGBA', img.size)
+            draw = ImageDraw.Draw(img_overlay)
+            rectangle_color = (0, 0, 0, 128)  # semi-transparent black
             draw.rectangle(
                 [
                     (
@@ -118,7 +121,9 @@ class Twtr:
                 ],
                 fill=rectangle_color,
             )
+            img = Image.alpha_composite(img, img_overlay)
 
+            draw = ImageDraw.Draw(img)
             text_color = (255, 255, 255, 255)
             draw.text(
                 (
@@ -133,7 +138,8 @@ class Twtr:
             tmp_image_path = tempfile.mktemp(suffix='.png')
             img.save(tmp_image_path)
             log.debug(f'{tmp_image_path=}')
-            # os.startfile(tmp_image_path)
+            if os.name == 'nt':
+                os.startfile(tmp_image_path)
             return tmp_image_path
         raise Exception('Failed to label image')
 
