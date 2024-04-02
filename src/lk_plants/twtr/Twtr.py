@@ -65,20 +65,11 @@ class Twtr:
         return WikiPage.from_wiki_page_name(self.species.wiki_page_name)
 
     @cached_property
-    def tweet_text(self):
+    def tweet_text_fixed(self):
         full_name = self.species.full_name
-        n_full_name = len(full_name)
-
-        n_common_names_str_max = 279 - 78 - n_full_name
-        common_names_str = self.species.get_common_names_str(
-            max_len=n_common_names_str_max
-        )
-
         tweet_text = '\n'.join(
             [
                 full_name,
-                '',
-                common_names_str,
                 '',
                 '#ViharamahadeviPark, ' + '#SriLanka 🇱🇰',
                 '',
@@ -86,10 +77,31 @@ class Twtr:
                 + self.wiki_page.wiki_page_name,
             ]
         )
+        return tweet_text
 
-        len(common_names_str)
+    @cached_property
+    def tweet_text(self):
+        tweet_text_fixed = self.tweet_text_fixed
+        n_tweet_text_fixed = len(tweet_text_fixed)
+
+        n_common_names_str_max = 280 - n_tweet_text_fixed - 2
+        common_names_str = self.species.get_common_names_str(
+            max_len=n_common_names_str_max
+        )
+
+        tweet_text = '\n'.join(
+            [
+                common_names_str,
+                '',
+                tweet_text_fixed,
+            ]
+        )
+
         n_tweet_text = len(tweet_text)
-        assert n_tweet_text <= 280, f'{n_tweet_text=}'
+        n_common_names_str = len(common_names_str)
+        assert (
+            n_tweet_text <= 280
+        ), f'{n_tweet_text=} = {n_tweet_text_fixed=} + {n_common_names_str=}'
         return tweet_text
 
     def get_labelled_image_path(self):
