@@ -34,8 +34,8 @@ class ReadMe(MarkdownPage, InfoReadMe):
             ReadMeFunnel(),
             ReadMeFunnelByDay(),
             ReadMeSunburst(),
-            ReadMeMostCommonSpecies(),
             ReadMeStatisticsByTaxonomy(),
-            ReadMeDifficultIds(),
             ReadMeIdentification(),
+            ReadMeMostCommonSpecies(),
+            ReadMeDifficultIds(),
         ]
