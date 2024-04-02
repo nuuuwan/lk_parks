@@ -4,7 +4,7 @@
 
 This project aims to use Computer Vision and Artificial Intelligence to identify plants in Sri Lanka's public parks, beginning with Viharamahadevi Park, Colombo.
 
-🤖 *This report was automatically generated on  **Apr 02, 2024 (03:14 PM)**, and is based on **719** plant photos.*
+🤖 *This report was automatically generated on  **Apr 02, 2024 (03:17 PM)**, and is based on **719** plant photos.*
 
 You can also follow us on our Twitter/X page [@lk_plants](https://twitter.com/lk_plants)
 
@@ -50,9 +50,94 @@ We list statistics for 5%, 10% and 50% as well.
 
 ![Duplicates by Date](images/duplicates_by_date.png)
 
-## Sun-Burst Chart
+## Overview of Taxonomies
+
+This sunburst chart shows the distribution of plant photos, by family, genus and species, weighted by number of trees.
 
 ![images\sunburst.png](images/sunburst.png)
+
+## Statistics by Taxonomy
+
+### Species
+
+**185** unique Species.
+
+| # | Species | n(Photos) | % |
+| ---: | :--- | ---: | ---: |
+| 1 | [*Mesua ferrea*](https://en.wikipedia.org/wiki/Mesua_ferrea) | 48 | 6.7% |
+| 2 | [*Mangifera indica*](https://en.wikipedia.org/wiki/Mangifera_indica) | 36 | 5.0% |
+| 3 | [*Terminalia arjuna*](https://en.wikipedia.org/wiki/Terminalia_arjuna) | 33 | 4.6% |
+| 4 | [*Terminalia catappa*](https://en.wikipedia.org/wiki/Terminalia_catappa) | 24 | 3.3% |
+| 5 | [*Artocarpus heterophyllus*](https://en.wikipedia.org/wiki/Artocarpus_heterophyllus) | 22 | 3.1% |
+| 6 | [*Tectona grandis*](https://en.wikipedia.org/wiki/Tectona_grandis) | 21 | 2.9% |
+| 7 | [*Pongamia pinnata*](https://en.wikipedia.org/wiki/Pongamia_pinnata) | 19 | 2.6% |
+| 8 | [*Cassia fistula*](https://en.wikipedia.org/wiki/Cassia_fistula) | 18 | 2.5% |
+| 9 | [*Tabernaemontana divaricata*](https://en.wikipedia.org/wiki/Tabernaemontana_divaricata) | 17 | 2.4% |
+| 10 | [*Peltophorum pterocarpum*](https://en.wikipedia.org/wiki/Peltophorum_pterocarpum) | 16 | 2.2% |
+|  | *(All Others)* | 350 | 48.7% |
+
+### Genera
+
+**141** unique Genera.
+
+| # | Genera | n(Photos) | % |
+| ---: | :--- | ---: | ---: |
+| 1 | [*Terminalia*](https://en.wikipedia.org/wiki/Terminalia) | 60 | 8.3% |
+| 2 | [*Mesua*](https://en.wikipedia.org/wiki/Mesua) | 48 | 6.7% |
+| 3 | [*Mangifera*](https://en.wikipedia.org/wiki/Mangifera) | 36 | 5.0% |
+| 4 | [*Ficus*](https://en.wikipedia.org/wiki/Ficus) | 30 | 4.2% |
+| 5 | [*Cassia*](https://en.wikipedia.org/wiki/Cassia) | 22 | 3.1% |
+| 6 | [*Artocarpus*](https://en.wikipedia.org/wiki/Artocarpus) | 22 | 3.1% |
+| 7 | [*Tectona*](https://en.wikipedia.org/wiki/Tectona) | 21 | 2.9% |
+| 8 | [*Pongamia*](https://en.wikipedia.org/wiki/Pongamia) | 19 | 2.6% |
+| 9 | [*Peltophorum*](https://en.wikipedia.org/wiki/Peltophorum) | 19 | 2.6% |
+| 10 | [*Tabernaemontana*](https://en.wikipedia.org/wiki/Tabernaemontana) | 18 | 2.5% |
+|  | *(All Others)* | 262 | 36.4% |
+
+### Families
+
+**60** unique Families.
+
+| # | Families | n(Photos) | % |
+| ---: | :--- | ---: | ---: |
+| 1 | [*Fabaceae*](https://en.wikipedia.org/wiki/Fabaceae) | 136 | 18.9% |
+| 2 | [*Combretaceae*](https://en.wikipedia.org/wiki/Combretaceae) | 64 | 8.9% |
+| 3 | [*Calophyllaceae*](https://en.wikipedia.org/wiki/Calophyllaceae) | 52 | 7.2% |
+| 4 | [*Moraceae*](https://en.wikipedia.org/wiki/Moraceae) | 52 | 7.2% |
+| 5 | [*Anacardiaceae*](https://en.wikipedia.org/wiki/Anacardiaceae) | 48 | 6.7% |
+| 6 | [*Bignoniaceae*](https://en.wikipedia.org/wiki/Bignoniaceae) | 40 | 5.6% |
+| 7 | [*Apocynaceae*](https://en.wikipedia.org/wiki/Apocynaceae) | 40 | 5.6% |
+| 8 | [*Arecaceae*](https://en.wikipedia.org/wiki/Arecaceae) | 34 | 4.7% |
+| 9 | [*Myrtaceae*](https://en.wikipedia.org/wiki/Myrtaceae) | 26 | 3.6% |
+| 10 | [*Lamiaceae*](https://en.wikipedia.org/wiki/Lamiaceae) | 22 | 3.1% |
+|  | *(All Others)* | 100 | 13.9% |
+
+## Identification Confidence
+
+### Time Of Day
+
+![images\identification.time-of-day.png](images/identification.time-of-day.png)
+
+### Date
+
+![images\identification.date.png](images/identification.date.png)
+
+### Camera Direction
+
+![images\identification.camera-direction.png](images/identification.camera-direction.png)
+
+### Species
+
+![images\identification.species.png](images/identification.species.png)
+
+### Family
+
+![images\identification.family.png](images/identification.family.png)
+
+### Latlng
+
+![images\identification.latlng.png](images/identification.latlng.png)
+
 
 ## Most Common Species
 
@@ -155,62 +240,6 @@ Tabernaemontana divaricata, commonly called pinwheel flower, crape jasmine, East
 *Copperpod, Kaha Maara, Kona Maram, Maara, Nilalvakai, Yellow flame, Yellow flametree*
 
 Peltophorum pterocarpum (commonly known as copperpod, yellow-flamboyant, yellow flametree, yellow poinciana or yellow-flame) is a species of Peltophorum, native to tropical southeastern Asia and a popular ornamental tree grown around the world. [[Wikipedia](https://en.wikipedia.org/wiki/Peltophorum_pterocarpum)]
-
-## Statistics by Taxonomy
-
-### Species
-
-**185** unique Species.
-
-| # | Species | n(Photos) | % |
-| ---: | :--- | ---: | ---: |
-| 1 | [*Mesua ferrea*](https://en.wikipedia.org/wiki/Mesua_ferrea) | 48 | 6.7% |
-| 2 | [*Mangifera indica*](https://en.wikipedia.org/wiki/Mangifera_indica) | 36 | 5.0% |
-| 3 | [*Terminalia arjuna*](https://en.wikipedia.org/wiki/Terminalia_arjuna) | 33 | 4.6% |
-| 4 | [*Terminalia catappa*](https://en.wikipedia.org/wiki/Terminalia_catappa) | 24 | 3.3% |
-| 5 | [*Artocarpus heterophyllus*](https://en.wikipedia.org/wiki/Artocarpus_heterophyllus) | 22 | 3.1% |
-| 6 | [*Tectona grandis*](https://en.wikipedia.org/wiki/Tectona_grandis) | 21 | 2.9% |
-| 7 | [*Pongamia pinnata*](https://en.wikipedia.org/wiki/Pongamia_pinnata) | 19 | 2.6% |
-| 8 | [*Cassia fistula*](https://en.wikipedia.org/wiki/Cassia_fistula) | 18 | 2.5% |
-| 9 | [*Tabernaemontana divaricata*](https://en.wikipedia.org/wiki/Tabernaemontana_divaricata) | 17 | 2.4% |
-| 10 | [*Peltophorum pterocarpum*](https://en.wikipedia.org/wiki/Peltophorum_pterocarpum) | 16 | 2.2% |
-|  | *(All Others)* | 350 | 48.7% |
-
-### Genera
-
-**141** unique Genera.
-
-| # | Genera | n(Photos) | % |
-| ---: | :--- | ---: | ---: |
-| 1 | [*Terminalia*](https://en.wikipedia.org/wiki/Terminalia) | 60 | 8.3% |
-| 2 | [*Mesua*](https://en.wikipedia.org/wiki/Mesua) | 48 | 6.7% |
-| 3 | [*Mangifera*](https://en.wikipedia.org/wiki/Mangifera) | 36 | 5.0% |
-| 4 | [*Ficus*](https://en.wikipedia.org/wiki/Ficus) | 30 | 4.2% |
-| 5 | [*Cassia*](https://en.wikipedia.org/wiki/Cassia) | 22 | 3.1% |
-| 6 | [*Artocarpus*](https://en.wikipedia.org/wiki/Artocarpus) | 22 | 3.1% |
-| 7 | [*Tectona*](https://en.wikipedia.org/wiki/Tectona) | 21 | 2.9% |
-| 8 | [*Pongamia*](https://en.wikipedia.org/wiki/Pongamia) | 19 | 2.6% |
-| 9 | [*Peltophorum*](https://en.wikipedia.org/wiki/Peltophorum) | 19 | 2.6% |
-| 10 | [*Tabernaemontana*](https://en.wikipedia.org/wiki/Tabernaemontana) | 18 | 2.5% |
-|  | *(All Others)* | 262 | 36.4% |
-
-### Families
-
-**60** unique Families.
-
-| # | Families | n(Photos) | % |
-| ---: | :--- | ---: | ---: |
-| 1 | [*Fabaceae*](https://en.wikipedia.org/wiki/Fabaceae) | 136 | 18.9% |
-| 2 | [*Combretaceae*](https://en.wikipedia.org/wiki/Combretaceae) | 64 | 8.9% |
-| 3 | [*Calophyllaceae*](https://en.wikipedia.org/wiki/Calophyllaceae) | 52 | 7.2% |
-| 4 | [*Moraceae*](https://en.wikipedia.org/wiki/Moraceae) | 52 | 7.2% |
-| 5 | [*Anacardiaceae*](https://en.wikipedia.org/wiki/Anacardiaceae) | 48 | 6.7% |
-| 6 | [*Bignoniaceae*](https://en.wikipedia.org/wiki/Bignoniaceae) | 40 | 5.6% |
-| 7 | [*Apocynaceae*](https://en.wikipedia.org/wiki/Apocynaceae) | 40 | 5.6% |
-| 8 | [*Arecaceae*](https://en.wikipedia.org/wiki/Arecaceae) | 34 | 4.7% |
-| 9 | [*Myrtaceae*](https://en.wikipedia.org/wiki/Myrtaceae) | 26 | 3.6% |
-| 10 | [*Lamiaceae*](https://en.wikipedia.org/wiki/Lamiaceae) | 22 | 3.1% |
-|  | *(All Others)* | 100 | 13.9% |
 
 ## Sample of Recent Plant Photos difficult to Identify
 
@@ -375,30 +404,3 @@ Photos where the identification confidence is **< 20%**.
 * 2.5% *Cordia alliodora*
 
 <img src="data/images/Photo-2024-04-02-08-39-11.jpg" alt="Photo-2024-04-02-08-39-11"  width="50%" />
-
-## Identification Confidence
-
-### Time Of Day
-
-![images\identification.time-of-day.png](images/identification.time-of-day.png)
-
-### Date
-
-![images\identification.date.png](images/identification.date.png)
-
-### Camera Direction
-
-![images\identification.camera-direction.png](images/identification.camera-direction.png)
-
-### Species
-
-![images\identification.species.png](images/identification.species.png)
-
-### Family
-
-![images\identification.family.png](images/identification.family.png)
-
-### Latlng
-
-![images\identification.latlng.png](images/identification.latlng.png)
-

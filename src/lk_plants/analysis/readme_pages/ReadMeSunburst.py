@@ -118,7 +118,9 @@ class ReadMeSunburst(MarkdownPage, InfoReadMe):
     @cached_property
     def lines(self) -> list[str]:
         return [
-            '## Sun-Burst Chart',
+            '## Overview of Taxonomies',
+            '',
+            'This sunburst chart shows the distribution of plant photos,' + ' by family, genus and species, weighted by number of trees.',
             '',
             self.line_chart,
             '',
