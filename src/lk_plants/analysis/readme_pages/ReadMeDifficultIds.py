@@ -8,6 +8,8 @@ from utils_future import Markdown, MarkdownPage
 
 class ReadMeDifficultIds(MarkdownPage, InfoReadMe):
     MIN_CONFIDENCE = 0.2
+    MAX_DISPLAY_PHOTOS = 20
+    MAX_DISPLAY_SCORES = 3
 
     @cached_property
     def file_path(self):
@@ -23,24 +25,27 @@ class ReadMeDifficultIds(MarkdownPage, InfoReadMe):
         return score < ReadMeDifficultIds.MIN_CONFIDENCE
 
     @cached_property
-    def lines_inner(self) -> list[str]:
+    def plant_photos_difficult(self):
         plant_photos = PlantPhoto.list_all()
         plant_photos_difficult = [
             plant_photo
             for plant_photo in plant_photos
             if ReadMeDifficultIds.is_difficult(plant_photo)
         ]
-        MAX_DISPLAY_PHOTOS = 20
-        MAX_DISPLAY_SCORES = 3
+        plant_photos_difficult = plant_photos_difficult[
+            -ReadMeDifficultIds.MAX_DISPLAY_PHOTOS:
+        ]
+        return plant_photos_difficult
 
-        plant_photos_difficult = plant_photos_difficult[-MAX_DISPLAY_PHOTOS:]
+    @cached_property
+    def lines_inner(self) -> list[str]:
         image_lines = []
-        for plant_photo in plant_photos_difficult:
+        for plant_photo in self.plant_photos_difficult:
             plant_net_result = PlantNetResult.from_plant_photo(plant_photo)
             species_name_to_score = plant_net_result.species_name_to_score
             score_lines = []
             for species_name, score in list(species_name_to_score.items())[
-                :MAX_DISPLAY_SCORES
+                : ReadMeDifficultIds.MAX_DISPLAY_SCORES
             ]:
                 score_lines.append(f'* {score:.1%} *{species_name}*')
 
