@@ -54,8 +54,10 @@ class ReadMeIdentification(MarkdownPage, InfoReadMe):
         idx = ReadMeIdentification.get_analysis_by_key(get_key)
         func_key = ReadMeIdentification.get_func_key(label)
         sorted_idx_items = sorted(idx.items(), key=func_key)
-        
-        x, y, x_mean, y_mean, y_mean_q1, y_mean_q3, color = [[] for _ in range(7)]
+
+        x, y, x_mean, y_mean, y_mean_q1, y_mean_q3, color = [
+            [] for _ in range(7)
+        ]
 
         for key, conf_list in sorted_idx_items:
             sorted_conf_list = sorted(conf_list)
