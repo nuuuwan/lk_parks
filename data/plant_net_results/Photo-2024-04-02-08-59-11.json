@@ -1,0 +1,10 @@
+{
+  "ut_api_call": 1712038563.0979757,
+  "plant_photo_id": "Photo-2024-04-02-08-59-11",
+  "species_name_to_score": {
+    "Plumeria obtusa": 0.83655,
+    "Plumeria alba": 0.07371,
+    "Plumeria rubra": 0.01766,
+    "Plumeria filifolia": 0.00167
+  }
+}

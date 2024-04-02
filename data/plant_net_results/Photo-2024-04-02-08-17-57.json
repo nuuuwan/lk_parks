@@ -1,0 +1,21 @@
+{
+  "ut_api_call": 1712038366.9202328,
+  "plant_photo_id": "Photo-2024-04-02-08-17-57",
+  "species_name_to_score": {
+    "Cassia fistula": 0.83069,
+    "Cassia abbreviata": 0.00745,
+    "Cassia sieberiana": 0.00691,
+    "Senna multijuga": 0.00475,
+    "Cassia leiandra": 0.00394,
+    "Pterolobium hexapetalum": 0.00282,
+    "Cassia afrofistula": 0.00227,
+    "Senna spectabilis": 0.0019,
+    "Senna singueana": 0.00179,
+    "Parkinsonia aculeata": 0.00174,
+    "Senna pendula": 0.00168,
+    "Senna petersiana": 0.00157,
+    "Haematoxylum brasiletto": 0.00144,
+    "Cassia leptophylla": 0.00122,
+    "Biancaea decapetala": 0.00111
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 1712038556.9343798,
+  "plant_photo_id": "Photo-2024-04-02-08-42-29",
+  "species_name_to_score": {
+    "Murraya paniculata": 0.29463,
+    "Citrus aurantium": 0.04104,
+    "Jasminum grandiflorum": 0.02052,
+    "Citrus japonica": 0.00436,
+    "Citrus limon": 0.0043,
+    "Ornithogalum lanceolatum": 0.00392,
+    "Wrightia religiosa": 0.00282,
+    "Philadelphus pubescens": 0.00263,
+    "Magnolia figo": 0.00249,
+    "Styrax japonicus": 0.00212,
+    "Lilium longiflorum": 0.00207,
+    "Trachelospermum jasminoides": 0.00192,
+    "Citrus maxima": 0.00191,
+    "Jasminum officinale": 0.00184,
+    "Ceiba insignis": 0.0016,
+    "Jasminum multiflorum": 0.00142,
+    "Asparagus asparagoides": 0.0014,
+    "Jasminum tortuosum": 0.00125,
+    "Fontainea pancheri": 0.00124,
+    "Dendrobium crumenatum": 0.00122,
+    "Lapageria rosea": 0.00109
+  }
+}

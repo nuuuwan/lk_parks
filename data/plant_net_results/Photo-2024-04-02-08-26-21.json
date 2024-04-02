@@ -1,0 +1,17 @@
+{
+  "ut_api_call": 1712038469.2697504,
+  "plant_photo_id": "Photo-2024-04-02-08-26-21",
+  "species_name_to_score": {
+    "Alternanthera philoxeroides": 0.91012,
+    "Dicliptera peruviana": 0.01112,
+    "Vinca minor": 0.0059,
+    "Persicaria amphibia": 0.00564,
+    "Rubia tinctorum": 0.00397,
+    "Ixora ferrea": 0.00237,
+    "Eclipta prostrata": 0.00143,
+    "Alternanthera sessilis": 0.00137,
+    "Persicaria pensylvanica": 0.00132,
+    "Vigna vexillata": 0.00127,
+    "Oldenlandia corymbosa": 0.00115
+  }
+}

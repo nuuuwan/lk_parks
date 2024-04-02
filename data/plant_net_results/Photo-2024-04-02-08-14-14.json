@@ -1,0 +1,18 @@
+{
+  "ut_api_call": 1712038304.7418375,
+  "plant_photo_id": "Photo-2024-04-02-08-14-14",
+  "species_name_to_score": {
+    "Pterocarpus indicus": 0.89105,
+    "Pterocarpus macrocarpus": 0.02498,
+    "Robinia hispida": 0.00852,
+    "Gymnocladus dioicus": 0.00363,
+    "Pongamia pinnata": 0.00253,
+    "Pterocarpus rohrii": 0.0024,
+    "Cordyla africana": 0.00223,
+    "Styphnolobium japonicum": 0.0021,
+    "Tipuana tipu": 0.00156,
+    "Cassia fistula": 0.00141,
+    "Guazuma ulmifolia": 0.00118,
+    "Celtis sinensis": 0.00106
+  }
+}

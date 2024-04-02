@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 1712038420.3551025,
+  "plant_photo_id": "Photo-2024-04-02-08-23-57",
+  "species_name_to_score": {
+    "Cyperus aromaticus": 0.8391,
+    "Cyperus melanospermus": 0.04337,
+    "Cyperus richardii": 0.01314,
+    "Cyperus brevifolius": 0.00419,
+    "Cyperus aggregatus": 0.00226,
+    "Cyperus sesquiflorus": 0.00168,
+    "Cyperus hortensis": 0.00118,
+    "Cyperus eragrostis": 0.00108
+  }
+}

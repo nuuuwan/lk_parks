@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1712038498.1850526,
+  "plant_photo_id": "Photo-2024-04-02-08-34-07",
+  "species_name_to_score": {
+    "Samanea saman": 0.90677,
+    "Albizia lebbeck": 0.00662,
+    "Samanea tubulosa": 0.003,
+    "Calliandra surinamensis": 0.00136,
+    "Pararchidendron pruinosum": 0.00112
+  }
+}

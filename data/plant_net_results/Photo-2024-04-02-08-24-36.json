@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1712038431.1186364,
+  "plant_photo_id": "Photo-2024-04-02-08-24-36",
+  "species_name_to_score": {
+    "Pyrrosia lanceolata": 0.92845,
+    "Pyrrosia adnascens": 0.02377,
+    "Pleopeltis macrocarpa": 0.01712,
+    "Pyrrosia eleagnifolia": 0.00292,
+    "Elaphoglossum tonduzii": 0.00205
+  }
+}

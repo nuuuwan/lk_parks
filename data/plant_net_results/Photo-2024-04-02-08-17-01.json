@@ -1,0 +1,33 @@
+{
+  "ut_api_call": 1712038351.9190454,
+  "plant_photo_id": "Photo-2024-04-02-08-17-01",
+  "species_name_to_score": {
+    "Cassia fistula": 0.7853,
+    "Senna spectabilis": 0.01472,
+    "Pterocarpus indicus": 0.01302,
+    "Sapindus saponaria": 0.00833,
+    "Gliricidia sepium": 0.00788,
+    "Myroxylon balsamum": 0.00372,
+    "Swartzia langsdorffii": 0.0031,
+    "Andira inermis": 0.00275,
+    "Bolusanthus speciosus": 0.00271,
+    "Erythrina mitis": 0.0024,
+    "Plinia cauliflora": 0.00235,
+    "Melicoccus bijugatus": 0.00225,
+    "Pterocarpus rohrii": 0.00218,
+    "Cassia leptophylla": 0.0021,
+    "Lonchocarpus punctatus": 0.00197,
+    "Schotia brachypetala": 0.00196,
+    "Fraxinus pennsylvanica": 0.00168,
+    "Cassia sieberiana": 0.00165,
+    "Spondias dulcis": 0.0016,
+    "Albizia adinocephala": 0.00149,
+    "Fraxinus americana": 0.00143,
+    "Ekebergia capensis": 0.00141,
+    "Platymiscium floribundum": 0.0013,
+    "Cassia javanica": 0.00125,
+    "Fraxinus ornus": 0.00119,
+    "Poecilanthe parviflora": 0.0011,
+    "Clitoria fairchildiana": 0.00107
+  }
+}

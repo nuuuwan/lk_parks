@@ -1,0 +1,21 @@
+{
+  "ut_api_call": 1712038501.2607772,
+  "plant_photo_id": "Photo-2024-04-02-08-35-13",
+  "species_name_to_score": {
+    "Costus spiralis": 0.50667,
+    "Costus woodsonii": 0.25598,
+    "Costus spicatus": 0.0644,
+    "Zingiber zerumbet": 0.0399,
+    "Costus barbatus": 0.01203,
+    "Hellenia speciosa": 0.00705,
+    "Costus scaber": 0.00315,
+    "Costus sprucei": 0.00313,
+    "Costus comosus": 0.00296,
+    "Costus pulverulentus": 0.00236,
+    "Costus elegans": 0.00176,
+    "Costus guanaiensis": 0.00148,
+    "Costus curvibracteatus": 0.00124,
+    "Costus dubius": 0.00116,
+    "Costus osae": 0.00108
+  }
+}

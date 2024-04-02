@@ -1,0 +1,30 @@
+{
+  "ut_api_call": 1712038403.5061646,
+  "plant_photo_id": "Photo-2024-04-02-08-22-11",
+  "species_name_to_score": {
+    "Pyrrosia lanceolata": 0.76257,
+    "Microgramma squamulosa": 0.01032,
+    "Eucalyptus gomphocephala": 0.0069,
+    "Pyrrosia adnascens": 0.0054,
+    "Lepisorus thunbergianus": 0.0039,
+    "Acacia pycnantha": 0.00361,
+    "Pleopeltis macrocarpa": 0.0034,
+    "Eucalyptus camaldulensis": 0.00317,
+    "Pyrrosia eleagnifolia": 0.00316,
+    "Buckinghamia celsissima": 0.00302,
+    "Pyrrosia lingua": 0.00245,
+    "Elaphoglossum tonduzii": 0.00229,
+    "Parapiptadenia excelsa": 0.00192,
+    "Encyclia tampensis": 0.00191,
+    "Elaphoglossum proximum": 0.00184,
+    "Salix euxina": 0.00168,
+    "Acacia retinodes": 0.00151,
+    "Calystegia occidentalis": 0.00134,
+    "Eucalyptus globulus": 0.00133,
+    "Schismatoglottis wallichii": 0.00109,
+    "Launaea lanifera": 0.00103,
+    "Asplenium rhizophyllum": 0.00103,
+    "Salix gooddingii": 0.00101,
+    "Elaphoglossum amygdalifolium": 0.001
+  }
+}

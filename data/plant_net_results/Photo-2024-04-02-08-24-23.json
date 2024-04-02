@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 1712038426.5339508,
+  "plant_photo_id": "Photo-2024-04-02-08-24-23",
+  "species_name_to_score": {
+    "Synedrella nodiflora": 0.852,
+    "Galinsoga parviflora": 0.01186,
+    "Eleutheranthera ruderalis": 0.01038,
+    "Calyptocarpus vialis": 0.00411,
+    "Acalypha virginica": 0.00322,
+    "Parietaria pensylvanica": 0.00294,
+    "Thunbergia battiscombei": 0.00162,
+    "Clinacanthus nutans": 0.00125,
+    "Helianthus divaricatus": 0.00124,
+    "Andrographis paniculata": 0.00123,
+    "Chromolaena odorata": 0.00123,
+    "Ruellia geminiflora": 0.0012,
+    "Acmella uliginosa": 0.00119
+  }
+}

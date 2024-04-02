@@ -1,0 +1,28 @@
+{
+  "ut_api_call": 1712038448.9488156,
+  "plant_photo_id": "Photo-2024-04-02-08-25-31",
+  "species_name_to_score": {
+    "Pongamia pinnata": 0.81527,
+    "Poecilanthe parviflora": 0.01804,
+    "Celtis laevigata": 0.00894,
+    "Pterocarpus indicus": 0.00688,
+    "Radermachera sinica": 0.00541,
+    "Pterocarpus officinalis": 0.00509,
+    "Casearia decandra": 0.00343,
+    "Aegle marmelos": 0.00321,
+    "Pterocarpus rohrii": 0.0025,
+    "Flacourtia jangomas": 0.00221,
+    "Wrightia religiosa": 0.00208,
+    "Platymiscium pinnatum": 0.00205,
+    "Dolichandra unguis-cati": 0.00145,
+    "Melicoccus bijugatus": 0.00126,
+    "Podranea ricasoliana": 0.00116,
+    "Wisteria floribunda": 0.00116,
+    "Strongylodon macrobotrys": 0.00114,
+    "Parmentiera cereifera": 0.00114,
+    "Chloroleucon tortum": 0.00104,
+    "Strychnos potatorum": 0.00102,
+    "Koompassia malaccensis": 0.00101,
+    "Antidesma montanum": 0.00101
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1712038458.864104,
+  "plant_photo_id": "Photo-2024-04-02-08-26-05",
+  "species_name_to_score": {
+    "Stachytarpheta jamaicensis": 0.45605,
+    "Stachytarpheta indica": 0.41893,
+    "Stachytarpheta cayennensis": 0.05097,
+    "Stachytarpheta urticifolia": 0.01766,
+    "Stachytarpheta frantzii": 0.00947
+  }
+}
