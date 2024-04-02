@@ -120,7 +120,8 @@ class ReadMeSunburst(MarkdownPage, InfoReadMe):
         return [
             '## Overview of Taxonomies',
             '',
-            'This sunburst chart shows the distribution of plant photos,' + ' by family, genus and species, weighted by number of trees.',
+            'This sunburst chart shows the distribution of plant photos,'
+            + ' by family, genus and species, weighted by number of trees.',
             '',
             self.line_chart,
             '',
