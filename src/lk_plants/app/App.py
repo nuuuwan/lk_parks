@@ -22,7 +22,7 @@ class App:
         URL = 'https://nuuuwan.github.io/plants/' + f'?activeEPPId={eppId}'
         log.debug(f'Openning {URL}...')
         driver.get(URL)
-        time.sleep(3)
+        time.sleep(10)
 
         image_path = os.path.join('images', 'app.png')
         driver.save_screenshot(image_path)
