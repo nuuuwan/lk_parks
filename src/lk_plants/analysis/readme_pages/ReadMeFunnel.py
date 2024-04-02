@@ -11,7 +11,7 @@ log = Log('ReadMeFunnel')
 
 
 class ReadMeFunnel(MarkdownPage, InfoReadMe):
-    FUNNEL_COLORS = ['#ccc', '#888', '#c00', '#f80', '#0808', '#080', '#040']
+    FUNNEL_COLORS = ['#ccc', '#888', '#c00', '#f80', '#fc0', '#080', '#040']
 
     @cached_property
     def file_path(self):
