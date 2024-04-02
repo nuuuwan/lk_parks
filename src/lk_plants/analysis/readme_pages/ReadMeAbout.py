@@ -1,7 +1,7 @@
 from functools import cached_property
 
 from lk_plants.analysis.InfoReadMe import InfoReadMe
-from utils_future import MarkdownPage, Markdown
+from utils_future import Markdown, MarkdownPage
 
 
 class ReadMeAbout(MarkdownPage, InfoReadMe):
@@ -23,9 +23,10 @@ class ReadMeAbout(MarkdownPage, InfoReadMe):
             + f'generated on  **{self.time_str}**, '
             + f'and is based on **{self.n_plant_photos}** plant photos.*',
             '',
-            'You can also follow us on our Twitter/X page ' + Markdown.link(
+            'You can also follow us on our Twitter/X page '
+            + Markdown.link(
                 '@lk_plants',
                 'https://twitter.com/lk_plants',
-            ), 
+            ),
             '',
         ]
