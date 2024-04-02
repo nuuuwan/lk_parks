@@ -110,7 +110,7 @@ class ReadMeSunburst(MarkdownPage, InfoReadMe):
         fig.update_layout(autosize=False, width=width, height=width )
 
         image_path = os.path.join('images', 'sunburst.png')
-        pio.write_image(fig, image_path)
+        pio.write_image(fig, image_path, scale=3)
         log.info(f'Wrote {image_path}')
 
         return Markdown.image(image_path, image_path)
