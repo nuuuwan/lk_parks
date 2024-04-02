@@ -88,7 +88,7 @@ class InfoReadMe:
         pct5_or_more = get_conf(0.05)
         pct10_or_more = get_conf(0.1)
         pct20_or_more = get_conf(0.2)
-
+        pct50_or_more = get_conf(0.5)
         return {
             "All": len(raw),
             "In Geo": len(in_geo),
@@ -96,6 +96,7 @@ class InfoReadMe:
             "≥ 5%": len(pct5_or_more),
             "≥ 10%": len(pct10_or_more),
             "≥ 20%": len(pct20_or_more),
+            "≥ 50%": len(pct50_or_more),
         }
 
     def get_funnel(self, func_get_key=None) -> dict:
