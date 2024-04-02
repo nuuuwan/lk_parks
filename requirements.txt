@@ -5,3 +5,5 @@ twtr-nuuuwan
 Wikipedia-API
 matplotlib
 pillow==9.5.0
+plotly
+plotly-express
