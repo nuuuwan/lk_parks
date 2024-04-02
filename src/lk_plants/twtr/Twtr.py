@@ -14,7 +14,7 @@ log = Log('Twtr')
 
 
 class Twtr:
-    MIN_SCORE = 0.505
+    MIN_SCORE = 0.2
 
     def __init__(self, plant_photo):
         self.plant_photo = plant_photo
