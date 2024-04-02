@@ -1,8 +1,8 @@
 # lk_plants (auto generate by build_inits.py)
 
 from lk_plants.analysis import (InfoReadMe, ReadMe, ReadMeAbout, ReadMeApp,
-                                ReadMeDifficultIds, ReadMeDuplicates,
-                                ReadMeFunnel, ReadMeIdentification,
+                                ReadMeDifficultIds, ReadMeFunnel,
+                                ReadMeFunnelByDay, ReadMeIdentification,
                                 ReadMeMostCommonSpecies, ReadMePlantNet,
                                 ReadMeStatisticsByTaxonomy, ReadMeVMDPark)
 from lk_plants.app import App

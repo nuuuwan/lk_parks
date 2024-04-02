@@ -11,16 +11,17 @@ log = Log('ReadMeFunnel')
 
 
 class ReadMeFunnel(MarkdownPage, InfoReadMe):
+    FUNNEL_COLORS = ['#ccc', '#888', '#c00', '#f80', '#0808', '#080']
     @cached_property
     def file_path(self):
         return 'README.funnel.md'
 
     def build_chart(self):
         plt.close()
-        funnel = self.funnel
+        funnel = self.get_funnel()['all']
         x = list(funnel.keys())[::-1]
         y = list(funnel.values())[::-1]
-        color = ['#ccc', '#888', '#c00', '#f80', '#0808', '#080'][::-1]
+        color =ReadMeFunnel.FUNNEL_COLORS[::-1]
         bars = plt.barh(x, y, color=color)
 
         plt.grid(False)

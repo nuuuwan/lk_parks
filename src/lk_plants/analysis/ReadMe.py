@@ -2,8 +2,8 @@ from functools import cached_property
 
 from lk_plants.analysis.InfoReadMe import InfoReadMe
 from lk_plants.analysis.readme_pages import (ReadMeAbout, ReadMeApp,
-                                             ReadMeDifficultIds,
-                                             ReadMeDuplicates, ReadMeFunnel,
+                                             ReadMeDifficultIds, ReadMeFunnel,
+                                             ReadMeFunnelByDay,
                                              ReadMeIdentification,
                                              ReadMeMostCommonSpecies,
                                              ReadMePlantNet,
@@ -32,9 +32,9 @@ class ReadMe(MarkdownPage, InfoReadMe):
             ReadMeApp(),
             ReadMeVMDPark(),
             ReadMeFunnel(),
+            ReadMeFunnelByDay(),
             ReadMeMostCommonSpecies(),
             ReadMeStatisticsByTaxonomy(),
             ReadMeDifficultIds(),
-            ReadMeDuplicates(),
             ReadMeIdentification(),
         ]

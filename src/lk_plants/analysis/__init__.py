@@ -3,8 +3,8 @@
 from lk_plants.analysis.InfoReadMe import InfoReadMe
 from lk_plants.analysis.ReadMe import ReadMe
 from lk_plants.analysis.readme_pages import (ReadMeAbout, ReadMeApp,
-                                             ReadMeDifficultIds,
-                                             ReadMeDuplicates, ReadMeFunnel,
+                                             ReadMeDifficultIds, ReadMeFunnel,
+                                             ReadMeFunnelByDay,
                                              ReadMeIdentification,
                                              ReadMeMostCommonSpecies,
                                              ReadMePlantNet,

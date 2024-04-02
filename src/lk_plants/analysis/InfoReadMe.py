@@ -31,12 +31,23 @@ class InfoReadMe:
         return score and score >= conf
 
     @staticmethod
-    def dedupe(plant_photo_list: list[PlantPhoto]):
-        idx = {}
+    def dedupe(
+        plant_photo_list: list[PlantPhoto],
+        previous_plant_photo_list: list[PlantPhoto],
+    ):
+        key_set = set()
+        for plant_photo in previous_plant_photo_list:
+            key = str(plant_photo.latlng)
+            key_set.add(key)
+
+        deduped_plant_photo_list = []
         for plant_photo in plant_photo_list:
             key = str(plant_photo.latlng)
-            idx[key] = plant_photo
-        return list(idx.values())
+            if key in key_set:
+                continue
+            key_set.add(key)
+            deduped_plant_photo_list.append(plant_photo)
+        return deduped_plant_photo_list
 
     @cached_property
     def plant_photo_list(self):
@@ -60,13 +71,12 @@ class InfoReadMe:
     def time_str(self):
         return TimeFormat('%b %d, %Y (%I:%M %p)').stringify(Time.now())
 
-    @cached_property
-    def funnel(self) -> dict:
-        raw = [plant_photo for plant_photo in PlantPhoto.list_all()]
+    def get_funnel_for_key(self, plant_photos, previous_plant_photos) -> dict:
+        raw = [plant_photo for plant_photo in plant_photos]
         in_geo = [
             plant_photo for plant_photo in raw if self.is_in_geo(plant_photo)
         ]
-        deduped = InfoReadMe.dedupe(in_geo)
+        deduped = InfoReadMe.dedupe(in_geo, previous_plant_photos)
 
         def get_conf(min_conf):
             return [
@@ -87,3 +97,24 @@ class InfoReadMe:
             "≥ 10%": len(pct10_or_more),
             "≥ 20%": len(pct20_or_more),
         }
+
+    def get_funnel(self, func_get_key=None) -> dict:
+        if func_get_key is None:
+            def func_get_key(_): return "all"
+
+        idx = {}
+        for plant_photo in PlantPhoto.list_all():
+            key = func_get_key(plant_photo)
+            if key not in idx:
+                idx[key] = []
+            idx[key].append(plant_photo)
+
+        funnel_idx = {}
+        previous_plant_photos = []
+        for key, plant_photos in idx.items():
+            funnel = self.get_funnel_for_key(
+                plant_photos, previous_plant_photos
+            )
+            funnel_idx[key] = funnel
+            previous_plant_photos.extend(plant_photos)
+        return funnel_idx
