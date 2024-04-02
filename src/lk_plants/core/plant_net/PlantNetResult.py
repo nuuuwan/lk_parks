@@ -23,8 +23,8 @@ class PlantNetResult:
 
     T_DELAY = 1
     # DEFAULT_PROJECT = 'k-indian-subcontinent'
-    # DEFAULT_PROJECT = 'k-world-flora'
-    DEFAULT_PROJECT = 'all'
+    DEFAULT_PROJECT = 'k-world-flora'
+    # DEFAULT_PROJECT = 'all'
 
     FORCE_RETRY = False
     MIN_SCORE = 0.2
@@ -84,7 +84,13 @@ class PlantNetResult:
             + f'/v2/identify/{PlantNetResult.DEFAULT_PROJECT}'
             + f'?api-key={PlantNetResult.get_api_key()}'
         )
-
+    @staticmethod
+    def get_test_url() -> str:
+        return (
+            PlantNetResult.URL_BASE
+            + f'/v2/projects'
+            + f'?lang=en&type=kt&api-key={PlantNetResult.get_api_key()}'
+        )
     @staticmethod
     def identify(image_path: str):
         time.sleep(PlantNetResult.T_DELAY)
@@ -105,7 +111,10 @@ class PlantNetResult:
             data = json.loads(response.text)
             results = data.get('results', [])
             n = len(results)
-            log.debug(f'🪴 Found {n} results with for {image_path}')
+            logger = log.debug if n > 0 else log.warn 
+            if n == 0:
+                log.debug(PlantNetResult.get_test_url())
+            logger(f'🪴 Found {n} results with for {image_path}')
             return results
 
     @staticmethod
