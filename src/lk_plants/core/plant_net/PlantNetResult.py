@@ -84,6 +84,7 @@ class PlantNetResult:
             + f'/v2/identify/{PlantNetResult.DEFAULT_PROJECT}'
             + f'?api-key={PlantNetResult.get_api_key()}'
         )
+
     @staticmethod
     def get_test_url() -> str:
         return (
@@ -91,6 +92,7 @@ class PlantNetResult:
             + f'/v2/projects'
             + f'?lang=en&type=kt&api-key={PlantNetResult.get_api_key()}'
         )
+
     @staticmethod
     def identify(image_path: str):
         time.sleep(PlantNetResult.T_DELAY)
@@ -104,14 +106,14 @@ class PlantNetResult:
                 ],
                 data={'organs': [PlantNetResult.DEFAULT_ORGAN]},
             )
-    
+
             prepared = request.prepare()
             s = requests.Session()
             response = s.send(prepared)
             data = json.loads(response.text)
             results = data.get('results', [])
             n = len(results)
-            logger = log.debug if n > 0 else log.warn 
+            logger = log.debug if n > 0 else log.warn
             if n == 0:
                 log.debug(PlantNetResult.get_test_url())
             logger(f'🪴 Found {n} results with for {image_path}')

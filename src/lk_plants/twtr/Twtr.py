@@ -26,9 +26,9 @@ class Twtr:
 
         try:
             plant_net_result = PlantNetResult.from_plant_photo(plant_photo)
-        except:
+        except BaseException:
             return False
-        
+
         top_score = plant_net_result.top_confidence
         if not top_score:
             return False
