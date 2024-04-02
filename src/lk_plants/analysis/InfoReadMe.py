@@ -55,7 +55,7 @@ class InfoReadMe:
         in_geo = [
             plant_photo for plant_photo in raw if self.is_in_geo(plant_photo)
         ]
-        deduped = InfoReadMe.dedupe(in_geo)
+        deduped = InfoReadMe.dedupe(in_geo, [])
         conf20 = [
             plant_photo
             for plant_photo in deduped
