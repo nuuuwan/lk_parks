@@ -1,10 +1,9 @@
 # from lk_plants import ReadMeFunnel
-from lk_plants import ReadMeFunnelByDay
-
+# from lk_plants import ReadMeFunnelByDay
+from lk_plants import ReadMeIdentification
 
 def test_main():
-    # ReadMeFunnel().write()
-    ReadMeFunnelByDay().write()
+    ReadMeIdentification().write()
 
 
 if __name__ == "__main__":

@@ -39,9 +39,11 @@ class Plot:
         color,
     ):
         plt.scatter(x, y, color=color, alpha=0.3, s=100, edgecolors='none')
+        
         plt.plot(
             x_mean, y_mean, color='black', linewidth=2, linestyle='dashed'
         )
+        
         plt.fill_between(
             x_mean, y_mean_q1, y_mean_q3, color='black', alpha=0.1
         )

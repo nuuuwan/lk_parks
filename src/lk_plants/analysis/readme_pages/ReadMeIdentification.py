@@ -39,44 +39,44 @@ class ReadMeIdentification(MarkdownPage, InfoReadMe):
     def get_func_key(label):
         if label in ['species', 'family']:
 
-            def key(x):
+            def func_key(x):
                 return sum(x[1]) / len(x[1])
 
-            return key
+            return func_key
 
-        def key(x):
+        def func_key(x):
             return x[0]
 
-        return key
+        return func_key
 
     @staticmethod
     def get_data_for_key(label, get_key):
         idx = ReadMeIdentification.get_analysis_by_key(get_key)
         func_key = ReadMeIdentification.get_func_key(label)
         sorted_idx_items = sorted(idx.items(), key=func_key)
-        x, y, x_mean, y_mean, y_mean_q1, y_mean_q3, color = [[]] * 7
+        
+        x, y, x_mean, y_mean, y_mean_q1, y_mean_q3, color = [[] for _ in range(7)]
 
-        for func_key, conf_list in sorted_idx_items:
+        for key, conf_list in sorted_idx_items:
             sorted_conf_list = sorted(conf_list)
             n = len(sorted_conf_list)
             if n < ReadMeIdentification.MIN_N:
                 continue
 
-            x_mean.append(func_key)
+            x_mean.append(key)
             mean = sum(sorted_conf_list) / n
             y_mean.append(mean)
             y_mean_q1.append(sorted_conf_list[n // 4])
             y_mean_q3.append(sorted_conf_list[3 * n // 4])
 
             for i, conf in enumerate(sorted_conf_list):
-                x.append(func_key)
+                x.append(key)
                 y.append(conf)
                 color.append(
                     ReadMeIdentification.COLORS_LIST[
                         int(len(ReadMeIdentification.COLORS_LIST) * i / n)
                     ]
                 )
-
         return x, y, x_mean, y_mean, y_mean_q1, y_mean_q3, color
 
     @staticmethod
