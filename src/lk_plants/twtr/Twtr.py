@@ -24,7 +24,11 @@ class Twtr:
         if not InfoReadMe.is_in_geo(plant_photo):
             return False
 
-        plant_net_result = PlantNetResult.from_plant_photo(plant_photo)
+        try:
+            plant_net_result = PlantNetResult.from_plant_photo(plant_photo)
+        except:
+            return False
+        
         top_score = plant_net_result.top_confidence
         if not top_score:
             return False
