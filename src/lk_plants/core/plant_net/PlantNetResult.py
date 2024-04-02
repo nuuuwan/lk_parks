@@ -98,7 +98,7 @@ class PlantNetResult:
                 ],
                 data={'organs': [PlantNetResult.DEFAULT_ORGAN]},
             )
-            log.debug(request.url)
+    
             prepared = request.prepare()
             s = requests.Session()
             response = s.send(prepared)
