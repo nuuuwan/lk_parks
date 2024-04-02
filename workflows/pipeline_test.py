@@ -1,6 +1,7 @@
 # from lk_plants import ReadMeFunnel
 from lk_plants import ReadMeFunnelByDay
 
+
 def test_main():
     # ReadMeFunnel().write()
     ReadMeFunnelByDay().write()

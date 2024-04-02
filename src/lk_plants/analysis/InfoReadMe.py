@@ -100,7 +100,9 @@ class InfoReadMe:
 
     def get_funnel(self, func_get_key=None) -> dict:
         if func_get_key is None:
-            def func_get_key(_): return "all"
+
+            def func_get_key(_):
+                return "all"
 
         idx = {}
         for plant_photo in PlantPhoto.list_all():
