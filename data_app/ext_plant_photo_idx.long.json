@@ -82095,5 +82095,991 @@
       "wiki_page_name": "Muntingia_calabura",
       "summary": "Muntingia is a genus of plants in the family Muntingiaceae, comprising only one species, Muntingia calabura, and was named in honour of Abraham Munting. It is native to the Neotropics, from Mexico south to Bolivia and Argentina, with edible fruit, and has been widely introduced in other tropical areas."
     }
+  },
+  "Photo-2024-04-02-07-47-33": {
+    "id": "Photo-2024-04-02-07-47-33",
+    "ut": 1712024253,
+    "latlng": {
+      "lat": 6.911936,
+      "lng": 79.861114
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 07 47 33.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-07-47-33.jpg",
+    "alt": 19.46457932482071,
+    "direction": 81.15962219598583,
+    "plant_net_result": {
+      "ut_api_call": 1712031700.2801697,
+      "plant_photo_id": "Photo-2024-04-02-07-47-33",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-10-01": {
+    "id": "Photo-2024-04-02-08-10-01",
+    "ut": 1712025601,
+    "latlng": {
+      "lat": 6.912319,
+      "lng": 79.861739
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 10 01.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-10-01.jpg",
+    "alt": 20.479271007234278,
+    "direction": 255.73138444567016,
+    "plant_net_result": {
+      "ut_api_call": 1712031704.322215,
+      "plant_photo_id": "Photo-2024-04-02-08-10-01",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-12-43": {
+    "id": "Photo-2024-04-02-08-12-43",
+    "ut": 1712025763,
+    "latlng": {
+      "lat": 6.912989,
+      "lng": 79.861581
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 12 43.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-12-43.jpg",
+    "alt": 14.166400696358625,
+    "direction": 112.16640452972634,
+    "plant_net_result": {
+      "ut_api_call": 1712031707.023869,
+      "plant_photo_id": "Photo-2024-04-02-08-12-43",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-12-53": {
+    "id": "Photo-2024-04-02-08-12-53",
+    "ut": 1712025773,
+    "latlng": {
+      "lat": 6.912953,
+      "lng": 79.86155
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 12 53.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-12-53.jpg",
+    "alt": 12.426078926905133,
+    "direction": 4.352472304782491,
+    "plant_net_result": {
+      "ut_api_call": 1712031709.748,
+      "plant_photo_id": "Photo-2024-04-02-08-12-53",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-13-09": {
+    "id": "Photo-2024-04-02-08-13-09",
+    "ut": 1712025789,
+    "latlng": {
+      "lat": 6.913039,
+      "lng": 79.861694
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 13 09.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-13-09.jpg",
+    "alt": 11.750747607655502,
+    "direction": 102.88468930172967,
+    "plant_net_result": {
+      "ut_api_call": 1712031712.6695516,
+      "plant_photo_id": "Photo-2024-04-02-08-13-09",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-13-18": {
+    "id": "Photo-2024-04-02-08-13-18",
+    "ut": 1712025798,
+    "latlng": {
+      "lat": 6.913089,
+      "lng": 79.861703
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 13 18.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-13-18.jpg",
+    "alt": 8.783675289919714,
+    "direction": 177.79107648725213,
+    "plant_net_result": {
+      "ut_api_call": 1712031715.6385708,
+      "plant_photo_id": "Photo-2024-04-02-08-13-18",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-13-30": {
+    "id": "Photo-2024-04-02-08-13-30",
+    "ut": 1712025810,
+    "latlng": {
+      "lat": 6.913117,
+      "lng": 79.861739
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 13 30.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-13-30.jpg",
+    "alt": 10.96209295291864,
+    "direction": 353.1721804511278,
+    "plant_net_result": {
+      "ut_api_call": 1712031718.51292,
+      "plant_photo_id": "Photo-2024-04-02-08-13-30",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-13-36": {
+    "id": "Photo-2024-04-02-08-13-36",
+    "ut": 1712025816,
+    "latlng": {
+      "lat": 6.913167,
+      "lng": 79.861756
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 13 36.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-13-36.jpg",
+    "alt": 10.65215675960021,
+    "direction": 0.07952141772004681,
+    "plant_net_result": {
+      "ut_api_call": 1712031721.4238863,
+      "plant_photo_id": "Photo-2024-04-02-08-13-36",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-13-56": {
+    "id": "Photo-2024-04-02-08-13-56",
+    "ut": 1712025836,
+    "latlng": {
+      "lat": 6.913175,
+      "lng": 79.861917
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 13 56.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-13-56.jpg",
+    "alt": 10.37256335282651,
+    "direction": 266.1376037959668,
+    "plant_net_result": {
+      "ut_api_call": 1712031724.3456545,
+      "plant_photo_id": "Photo-2024-04-02-08-13-56",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-14-14": {
+    "id": "Photo-2024-04-02-08-14-14",
+    "ut": 1712025854,
+    "latlng": {
+      "lat": 6.913144,
+      "lng": 79.861917
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 14 14.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-14-14.jpg",
+    "alt": 10.692882818116463,
+    "direction": 169.847519160952,
+    "plant_net_result": {
+      "ut_api_call": 1712031727.48318,
+      "plant_photo_id": "Photo-2024-04-02-08-14-14",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-14-43": {
+    "id": "Photo-2024-04-02-08-14-43",
+    "ut": 1712025883,
+    "latlng": {
+      "lat": 6.912992,
+      "lng": 79.861808
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 14 43.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-14-43.jpg",
+    "alt": 10.958880795152835,
+    "direction": 225.47671507260893,
+    "plant_net_result": {
+      "ut_api_call": 1712031730.3775067,
+      "plant_photo_id": "Photo-2024-04-02-08-14-43",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-15-19": {
+    "id": "Photo-2024-04-02-08-15-19",
+    "ut": 1712025919,
+    "latlng": {
+      "lat": 6.913353,
+      "lng": 79.861983
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 15 19.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-15-19.jpg",
+    "alt": 11.952730236348819,
+    "direction": 45.05971143174251,
+    "plant_net_result": {
+      "ut_api_call": 1712031733.5052624,
+      "plant_photo_id": "Photo-2024-04-02-08-15-19",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-15-42": {
+    "id": "Photo-2024-04-02-08-15-42",
+    "ut": 1712025942,
+    "latlng": {
+      "lat": 6.913431,
+      "lng": 79.862061
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 15 42.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-15-42.jpg",
+    "alt": 10.420518235724149,
+    "direction": 319.32470703125,
+    "plant_net_result": {
+      "ut_api_call": 1712031736.3841834,
+      "plant_photo_id": "Photo-2024-04-02-08-15-42",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-15-48": {
+    "id": "Photo-2024-04-02-08-15-48",
+    "ut": 1712025948,
+    "latlng": {
+      "lat": 6.913408,
+      "lng": 79.862053
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 15 48.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-15-48.jpg",
+    "alt": 9.766015434489486,
+    "direction": 28.17897987191217,
+    "plant_net_result": {
+      "ut_api_call": 1712031739.0411339,
+      "plant_photo_id": "Photo-2024-04-02-08-15-48",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-16-07": {
+    "id": "Photo-2024-04-02-08-16-07",
+    "ut": 1712025967,
+    "latlng": {
+      "lat": 6.913514,
+      "lng": 79.862131
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 16 07.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-16-07.jpg",
+    "alt": 10.760024057738573,
+    "direction": 348.6570738579191,
+    "plant_net_result": {
+      "ut_api_call": 1712031742.2500916,
+      "plant_photo_id": "Photo-2024-04-02-08-16-07",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-16-45": {
+    "id": "Photo-2024-04-02-08-16-45",
+    "ut": 1712026005,
+    "latlng": {
+      "lat": 6.913561,
+      "lng": 79.862175
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 16 45.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-16-45.jpg",
+    "alt": 10.900443412162161,
+    "direction": 342.56103515625,
+    "plant_net_result": {
+      "ut_api_call": 1712031744.970502,
+      "plant_photo_id": "Photo-2024-04-02-08-16-45",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-17-01": {
+    "id": "Photo-2024-04-02-08-17-01",
+    "ut": 1712026021,
+    "latlng": {
+      "lat": 6.913611,
+      "lng": 79.862214
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 17 01.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-17-01.jpg",
+    "alt": 10.82202085826637,
+    "direction": 293.93017578125,
+    "plant_net_result": {
+      "ut_api_call": 1712031747.8383176,
+      "plant_photo_id": "Photo-2024-04-02-08-17-01",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-17-13": {
+    "id": "Photo-2024-04-02-08-17-13",
+    "ut": 1712026033,
+    "latlng": {
+      "lat": 6.913639,
+      "lng": 79.862258
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 17 13.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-17-13.jpg",
+    "alt": 10.083467691926081,
+    "direction": 275.3522947640595,
+    "plant_net_result": {
+      "ut_api_call": 1712031750.5410168,
+      "plant_photo_id": "Photo-2024-04-02-08-17-13",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-17-28": {
+    "id": "Photo-2024-04-02-08-17-28",
+    "ut": 1712026048,
+    "latlng": {
+      "lat": 6.913661,
+      "lng": 79.862267
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 17 28.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-17-28.jpg",
+    "alt": 10.089119877311068,
+    "direction": 336.69482421875,
+    "plant_net_result": {
+      "ut_api_call": 1712031753.1590192,
+      "plant_photo_id": "Photo-2024-04-02-08-17-28",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-17-57": {
+    "id": "Photo-2024-04-02-08-17-57",
+    "ut": 1712026077,
+    "latlng": {
+      "lat": 6.913719,
+      "lng": 79.862342
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 17 57.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-17-57.jpg",
+    "alt": 10.856599925843529,
+    "direction": 346.51937865272225,
+    "plant_net_result": {
+      "ut_api_call": 1712031756.1327016,
+      "plant_photo_id": "Photo-2024-04-02-08-17-57",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-18-55": {
+    "id": "Photo-2024-04-02-08-18-55",
+    "ut": 1712026135,
+    "latlng": {
+      "lat": 6.913853,
+      "lng": 79.862403
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 18 55.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-18-55.jpg",
+    "alt": 10.543536349396481,
+    "direction": 239.05361930294907,
+    "plant_net_result": {
+      "ut_api_call": 1712031759.020816,
+      "plant_photo_id": "Photo-2024-04-02-08-18-55",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-19-08": {
+    "id": "Photo-2024-04-02-08-19-08",
+    "ut": 1712026148,
+    "latlng": {
+      "lat": 6.913889,
+      "lng": 79.862442
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 19 08.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-19-08.jpg",
+    "alt": 10.116872180451129,
+    "direction": 225.62855517633673,
+    "plant_net_result": {
+      "ut_api_call": 1712031761.9024627,
+      "plant_photo_id": "Photo-2024-04-02-08-19-08",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-19-18": {
+    "id": "Photo-2024-04-02-08-19-18",
+    "ut": 1712026158,
+    "latlng": {
+      "lat": 6.913853,
+      "lng": 79.862464
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 19 18.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-19-18.jpg",
+    "alt": 10.552780347414945,
+    "direction": 154.96037296037295,
+    "plant_net_result": {
+      "ut_api_call": 1712031764.8226478,
+      "plant_photo_id": "Photo-2024-04-02-08-19-18",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-21-41": {
+    "id": "Photo-2024-04-02-08-21-41",
+    "ut": 1712026301,
+    "latlng": {
+      "lat": 6.914072,
+      "lng": 79.863175
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 21 41.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-21-41.jpg",
+    "alt": 23.623809197450484,
+    "direction": 119.78643036161833,
+    "plant_net_result": {
+      "ut_api_call": 1712031767.775456,
+      "plant_photo_id": "Photo-2024-04-02-08-21-41",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-22-03": {
+    "id": "Photo-2024-04-02-08-22-03",
+    "ut": 1712026323,
+    "latlng": {
+      "lat": 6.914008,
+      "lng": 79.863236
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 22 03.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-22-03.jpg",
+    "alt": 11.780229288340903,
+    "direction": 70.6537933401991,
+    "plant_net_result": {
+      "ut_api_call": 1712031770.7406588,
+      "plant_photo_id": "Photo-2024-04-02-08-22-03",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-22-11": {
+    "id": "Photo-2024-04-02-08-22-11",
+    "ut": 1712026331,
+    "latlng": {
+      "lat": 6.914047,
+      "lng": 79.863219
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 22 11.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-22-11.jpg",
+    "alt": 11.29359207036158,
+    "direction": 189.56591796875,
+    "plant_net_result": {
+      "ut_api_call": 1712031773.626553,
+      "plant_photo_id": "Photo-2024-04-02-08-22-11",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-22-16": {
+    "id": "Photo-2024-04-02-08-22-16",
+    "ut": 1712026336,
+    "latlng": {
+      "lat": 6.914067,
+      "lng": 79.863236
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 22 16.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-22-16.jpg",
+    "alt": 10.094506866416978,
+    "direction": 63.026554137505144,
+    "plant_net_result": {
+      "ut_api_call": 1712031776.5471776,
+      "plant_photo_id": "Photo-2024-04-02-08-22-16",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-23-10": {
+    "id": "Photo-2024-04-02-08-23-10",
+    "ut": 1712026390,
+    "latlng": {
+      "lat": 6.913997,
+      "lng": 79.863297
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 23 10.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-23-10.jpg",
+    "alt": 10.182046847979878,
+    "direction": 49.50618361705224,
+    "plant_net_result": {
+      "ut_api_call": 1712031779.445187,
+      "plant_photo_id": "Photo-2024-04-02-08-23-10",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-23-46": {
+    "id": "Photo-2024-04-02-08-23-46",
+    "ut": 1712026426,
+    "latlng": {
+      "lat": 6.91385,
+      "lng": 79.863342
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 23 46.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-23-46.jpg",
+    "alt": 10.953270833766396,
+    "direction": 262.972625698324,
+    "plant_net_result": {
+      "ut_api_call": 1712031782.5399053,
+      "plant_photo_id": "Photo-2024-04-02-08-23-46",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-23-57": {
+    "id": "Photo-2024-04-02-08-23-57",
+    "ut": 1712026437,
+    "latlng": {
+      "lat": 6.913778,
+      "lng": 79.863358
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 23 57.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-23-57.jpg",
+    "alt": 12.6110244147999,
+    "direction": 152.8524934383202,
+    "plant_net_result": {
+      "ut_api_call": 1712031785.7053287,
+      "plant_photo_id": "Photo-2024-04-02-08-23-57",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-24-20": {
+    "id": "Photo-2024-04-02-08-24-20",
+    "ut": 1712026460,
+    "latlng": {
+      "lat": 6.913614,
+      "lng": 79.863403
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 24 20.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-24-20.jpg",
+    "alt": 9.100146914789422,
+    "direction": 180.2029876977153,
+    "plant_net_result": {
+      "ut_api_call": 1712031788.5432003,
+      "plant_photo_id": "Photo-2024-04-02-08-24-20",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-24-23": {
+    "id": "Photo-2024-04-02-08-24-23",
+    "ut": 1712026463,
+    "latlng": {
+      "lat": 6.913614,
+      "lng": 79.863411
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 24 23.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-24-23.jpg",
+    "alt": 8.688451483930494,
+    "direction": 182.4711302211302,
+    "plant_net_result": {
+      "ut_api_call": 1712031791.1966505,
+      "plant_photo_id": "Photo-2024-04-02-08-24-23",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-24-36": {
+    "id": "Photo-2024-04-02-08-24-36",
+    "ut": 1712026476,
+    "latlng": {
+      "lat": 6.913614,
+      "lng": 79.863389
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 24 36.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-24-36.jpg",
+    "alt": 9.767855121675156,
+    "direction": 6.38942718723283,
+    "plant_net_result": {
+      "ut_api_call": 1712031793.8126473,
+      "plant_photo_id": "Photo-2024-04-02-08-24-36",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-24-46": {
+    "id": "Photo-2024-04-02-08-24-46",
+    "ut": 1712026486,
+    "latlng": {
+      "lat": 6.913611,
+      "lng": 79.863411
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 24 46.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-24-46.jpg",
+    "alt": 10.619518749236594,
+    "direction": 83.67730720606826,
+    "plant_net_result": {
+      "ut_api_call": 1712031796.646366,
+      "plant_photo_id": "Photo-2024-04-02-08-24-46",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-25-13": {
+    "id": "Photo-2024-04-02-08-25-13",
+    "ut": 1712026513,
+    "latlng": {
+      "lat": 6.913403,
+      "lng": 79.863394
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 25 13.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-25-13.jpg",
+    "alt": 11.349996561919824,
+    "direction": 242.4636383489845,
+    "plant_net_result": {
+      "ut_api_call": 1712031799.4813578,
+      "plant_photo_id": "Photo-2024-04-02-08-25-13",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-25-31": {
+    "id": "Photo-2024-04-02-08-25-31",
+    "ut": 1712026531,
+    "latlng": {
+      "lat": 6.913317,
+      "lng": 79.86345
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 25 31.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-25-31.jpg",
+    "alt": 10.303654223968566,
+    "direction": 283.28649921507065,
+    "plant_net_result": {
+      "ut_api_call": 1712031802.3571155,
+      "plant_photo_id": "Photo-2024-04-02-08-25-31",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-25-43": {
+    "id": "Photo-2024-04-02-08-25-43",
+    "ut": 1712026543,
+    "latlng": {
+      "lat": 6.913239,
+      "lng": 79.863481
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 25 43.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-25-43.jpg",
+    "alt": 10.16572074202533,
+    "direction": 119.59601593625499,
+    "plant_net_result": {
+      "ut_api_call": 1712031805.292431,
+      "plant_photo_id": "Photo-2024-04-02-08-25-43",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-26-05": {
+    "id": "Photo-2024-04-02-08-26-05",
+    "ut": 1712026565,
+    "latlng": {
+      "lat": 6.913414,
+      "lng": 79.863503
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 26 05.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-26-05.jpg",
+    "alt": 9.545966688438929,
+    "direction": 224.4632415554925,
+    "plant_net_result": {
+      "ut_api_call": 1712031808.2141361,
+      "plant_photo_id": "Photo-2024-04-02-08-26-05",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-26-18": {
+    "id": "Photo-2024-04-02-08-26-18",
+    "ut": 1712026578,
+    "latlng": {
+      "lat": 6.913475,
+      "lng": 79.863572
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 26 18.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-26-18.jpg",
+    "alt": 10.783056300268097,
+    "direction": 115.84232330064255,
+    "plant_net_result": {
+      "ut_api_call": 1712031811.1368256,
+      "plant_photo_id": "Photo-2024-04-02-08-26-18",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-26-21": {
+    "id": "Photo-2024-04-02-08-26-21",
+    "ut": 1712026581,
+    "latlng": {
+      "lat": 6.913481,
+      "lng": 79.863572
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 26 21.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-26-21.jpg",
+    "alt": 11.08864830099689,
+    "direction": 134.40786749482402,
+    "plant_net_result": {
+      "ut_api_call": 1712031813.9923081,
+      "plant_photo_id": "Photo-2024-04-02-08-26-21",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-26-25": {
+    "id": "Photo-2024-04-02-08-26-25",
+    "ut": 1712026585,
+    "latlng": {
+      "lat": 6.913486,
+      "lng": 79.863578
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 26 25.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-26-25.jpg",
+    "alt": 12.096552878179384,
+    "direction": 80.16739659367397,
+    "plant_net_result": {
+      "ut_api_call": 1712031816.996289,
+      "plant_photo_id": "Photo-2024-04-02-08-26-25",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-26-33": {
+    "id": "Photo-2024-04-02-08-26-33",
+    "ut": 1712026593,
+    "latlng": {
+      "lat": 6.913483,
+      "lng": 79.863594
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 26 33.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-26-33.jpg",
+    "alt": 10.086795146324054,
+    "direction": 217.00712589073635,
+    "plant_net_result": {
+      "ut_api_call": 1712031819.611554,
+      "plant_photo_id": "Photo-2024-04-02-08-26-33",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-26-58": {
+    "id": "Photo-2024-04-02-08-26-58",
+    "ut": 1712026618,
+    "latlng": {
+      "lat": 6.913558,
+      "lng": 79.863603
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 26 58.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-26-58.jpg",
+    "alt": 10.792760858711931,
+    "direction": 189.94743351886208,
+    "plant_net_result": {
+      "ut_api_call": 1712031822.522049,
+      "plant_photo_id": "Photo-2024-04-02-08-26-58",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-32-19": {
+    "id": "Photo-2024-04-02-08-32-19",
+    "ut": 1712026939,
+    "latlng": {
+      "lat": 6.91315,
+      "lng": 79.862611
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 32 19.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-32-19.jpg",
+    "alt": 13.894493921861795,
+    "direction": 269.42614770459085,
+    "plant_net_result": {
+      "ut_api_call": 1712031825.6836183,
+      "plant_photo_id": "Photo-2024-04-02-08-32-19",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-34-07": {
+    "id": "Photo-2024-04-02-08-34-07",
+    "ut": 1712027047,
+    "latlng": {
+      "lat": 6.913206,
+      "lng": 79.862008
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 34 07.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-34-07.jpg",
+    "alt": 11.599628137589091,
+    "direction": 322.04211395540875,
+    "plant_net_result": {
+      "ut_api_call": 1712031828.5934067,
+      "plant_photo_id": "Photo-2024-04-02-08-34-07",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-35-13": {
+    "id": "Photo-2024-04-02-08-35-13",
+    "ut": 1712027113,
+    "latlng": {
+      "lat": 6.913431,
+      "lng": 79.862511
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 35 13.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-35-13.jpg",
+    "alt": 11.927340507842723,
+    "direction": 42.931221020092735,
+    "plant_net_result": {
+      "ut_api_call": 1712031831.226888,
+      "plant_photo_id": "Photo-2024-04-02-08-35-13",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-36-26": {
+    "id": "Photo-2024-04-02-08-36-26",
+    "ut": 1712027186,
+    "latlng": {
+      "lat": 6.913711,
+      "lng": 79.861664
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 36 26.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-36-26.jpg",
+    "alt": 14.370238565968103,
+    "direction": 161.82463080168776,
+    "plant_net_result": {
+      "ut_api_call": 1712031833.8332837,
+      "plant_photo_id": "Photo-2024-04-02-08-36-26",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-36-55": {
+    "id": "Photo-2024-04-02-08-36-55",
+    "ut": 1712027215,
+    "latlng": {
+      "lat": 6.913433,
+      "lng": 79.86245
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 36 55.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-36-55.jpg",
+    "alt": 12.063210493441598,
+    "direction": 327.67565910484365,
+    "plant_net_result": {
+      "ut_api_call": 1712031836.8696613,
+      "plant_photo_id": "Photo-2024-04-02-08-36-55",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-37-12": {
+    "id": "Photo-2024-04-02-08-37-12",
+    "ut": 1712027232,
+    "latlng": {
+      "lat": 6.91395,
+      "lng": 79.861717
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 37 12.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-37-12.jpg",
+    "alt": 13.0726318359375,
+    "direction": 17.26557541339569,
+    "plant_net_result": {
+      "ut_api_call": 1712031839.8117013,
+      "plant_photo_id": "Photo-2024-04-02-08-37-12",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-38-26": {
+    "id": "Photo-2024-04-02-08-38-26",
+    "ut": 1712027306,
+    "latlng": {
+      "lat": 6.915061,
+      "lng": 79.861267
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 38 26.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-38-26.jpg",
+    "alt": 11.742812157721795,
+    "direction": 355.0281676960509,
+    "plant_net_result": {
+      "ut_api_call": 1712031842.744127,
+      "plant_photo_id": "Photo-2024-04-02-08-38-26",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-38-58": {
+    "id": "Photo-2024-04-02-08-38-58",
+    "ut": 1712027338,
+    "latlng": {
+      "lat": 6.914611,
+      "lng": 79.861075
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 38 58.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-38-58.jpg",
+    "alt": 10.524873306443272,
+    "direction": 196.41217038539554,
+    "plant_net_result": {
+      "ut_api_call": 1712031845.7743974,
+      "plant_photo_id": "Photo-2024-04-02-08-38-58",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-39-11": {
+    "id": "Photo-2024-04-02-08-39-11",
+    "ut": 1712027351,
+    "latlng": {
+      "lat": 6.914575,
+      "lng": 79.860978
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 39 11.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-39-11.jpg",
+    "alt": 11.18818138726497,
+    "direction": 192.3466033601169,
+    "plant_net_result": {
+      "ut_api_call": 1712031848.6516745,
+      "plant_photo_id": "Photo-2024-04-02-08-39-11",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-39-19": {
+    "id": "Photo-2024-04-02-08-39-19",
+    "ut": 1712027359,
+    "latlng": {
+      "lat": 6.914536,
+      "lng": 79.860978
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 39 19.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-39-19.jpg",
+    "alt": 11.614149659863946,
+    "direction": 153.63204951856946,
+    "plant_net_result": {
+      "ut_api_call": 1712031851.3198903,
+      "plant_photo_id": "Photo-2024-04-02-08-39-19",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-41-51": {
+    "id": "Photo-2024-04-02-08-41-51",
+    "ut": 1712027511,
+    "latlng": {
+      "lat": 6.915275,
+      "lng": 79.860039
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 41 51.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-41-51.jpg",
+    "alt": 11.59499263622975,
+    "direction": 154.15109251510924,
+    "plant_net_result": {
+      "ut_api_call": 1712031854.2464616,
+      "plant_photo_id": "Photo-2024-04-02-08-41-51",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-42-02": {
+    "id": "Photo-2024-04-02-08-42-02",
+    "ut": 1712027522,
+    "latlng": {
+      "lat": 6.915672,
+      "lng": 79.859886
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 42 02.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-42-02.jpg",
+    "alt": 12.254709321208184,
+    "direction": 352.3261410788382,
+    "plant_net_result": {
+      "ut_api_call": 1712031856.8962684,
+      "plant_photo_id": "Photo-2024-04-02-08-42-02",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-42-29": {
+    "id": "Photo-2024-04-02-08-42-29",
+    "ut": 1712027549,
+    "latlng": {
+      "lat": 6.915897,
+      "lng": 79.859694
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 42 29.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-42-29.jpg",
+    "alt": 13.479164150259693,
+    "direction": 322.6707762557078,
+    "plant_net_result": {
+      "ut_api_call": 1712031859.6026537,
+      "plant_photo_id": "Photo-2024-04-02-08-42-29",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-08-59-11": {
+    "id": "Photo-2024-04-02-08-59-11",
+    "ut": 1712028551,
+    "latlng": {
+      "lat": 6.919,
+      "lng": 79.860619
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 08 59 11.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-08-59-11.jpg",
+    "alt": 12.206698407486455,
+    "direction": 81.40589906643214,
+    "plant_net_result": {
+      "ut_api_call": 1712031862.4658384,
+      "plant_photo_id": "Photo-2024-04-02-08-59-11",
+      "species_name_to_score": {}
+    }
+  },
+  "Photo-2024-04-02-09-01-22": {
+    "id": "Photo-2024-04-02-09-01-22",
+    "ut": 1712028682,
+    "latlng": {
+      "lat": 6.918694,
+      "lng": 79.858658
+    },
+    "original_image_path": "data\\original_images\\Photo 2024-04-02, 09 01 22.jpg",
+    "image_path": "data\\images\\Photo-2024-04-02-09-01-22.jpg",
+    "alt": 14.847835529173302,
+    "direction": 176.77969348659005,
+    "plant_net_result": {
+      "ut_api_call": 1712031865.0988352,
+      "plant_photo_id": "Photo-2024-04-02-09-01-22",
+      "species_name_to_score": {}
+    }
   }
 }
