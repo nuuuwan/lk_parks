@@ -13,7 +13,7 @@ log = Log('ReadMeSunburst')
 
 
 class ReadMeSunburst(MarkdownPage, InfoReadMe):
-    IMAGE_WIDTH = 1600
+    IMAGE_WIDTH = 1000
 
     @cached_property
     def file_path(self):
