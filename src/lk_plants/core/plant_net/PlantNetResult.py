@@ -89,7 +89,7 @@ class PlantNetResult:
     def get_test_url() -> str:
         return (
             PlantNetResult.URL_BASE
-            + f'/v2/projects'
+            + '/v2/projects'
             + f'?lang=en&type=kt&api-key={PlantNetResult.get_api_key()}'
         )
 

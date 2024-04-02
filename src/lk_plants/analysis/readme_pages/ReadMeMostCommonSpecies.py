@@ -14,23 +14,33 @@ log = Log('ReadMeMostCommonSpecies')
 
 
 class ReadMeMostCommonSpecies(ReadMeStatisticsByTaxonomy):
-    @staticmethod
-    def get_lines_for_species(species_name, plant_photo_list):
-        MAX_PLANT_PHOTOS = 3
-        random.shuffle(plant_photo_list)
-        best_plant_photos = plant_photo_list[:MAX_PLANT_PHOTOS]
+    MAX_PLANT_PHOTOS = 3
 
+    @staticmethod
+    def get_image_all_md(species_name, best_plant_photos):
         image_md_list = []
         for plant_photo in best_plant_photos:
             image_path = plant_photo.image_path
             image_path_unix = image_path.replace('\\', '/')
-            p_dim = 1.0 / MAX_PLANT_PHOTOS - 0.01
+            p_dim = 1.0 / ReadMeMostCommonSpecies.MAX_PLANT_PHOTOS - 0.01
             dim = f'{p_dim:.0%}'
             image_md = Markdown.image_html(
                 species_name, image_path_unix, width=dim, height=dim
             )
             image_md_list.append(image_md)
         image_all_md = ' '.join(image_md_list)
+        return image_all_md
+
+    @staticmethod
+    def get_lines_for_species(species_name, plant_photo_list):
+        random.shuffle(plant_photo_list)
+        best_plant_photos = plant_photo_list[
+            : ReadMeMostCommonSpecies.MAX_PLANT_PHOTOS
+        ]
+
+        image_all_md = ReadMeMostCommonSpecies.get_image_all_md(
+            species_name, best_plant_photos
+        )
 
         plant_net_result = PlantNetResult.from_plant_photo(
             best_plant_photos[0]

@@ -24,7 +24,8 @@ class Markdown:
 
     @staticmethod
     def image(alt, url):
-        return f'![{alt}]({url})'
+        url_unix = url.replace('\\', '/')
+        return f'![{alt}]({url_unix})'
 
     @staticmethod
     def image_html(alt, url, width=None, height=None):

@@ -1,19 +1,21 @@
 import os
 from functools import cached_property
 
-import matplotlib.pyplot as plt
 from utils import Log, Time, TimeFormat
 
 from lk_plants.analysis.InfoReadMe import InfoReadMe
 from lk_plants.core.plant_net.PlantNetResult import PlantNetResult
 from lk_plants.core.plant_photo.PlantPhoto import PlantPhoto
 from lk_plants.core.taxonomy.Species import Species
-from utils_future import Markdown, MarkdownPage
+from utils_future import Markdown, MarkdownPage, Plot
 
 log = Log('ReadMeIdentification')
 
 
 class ReadMeIdentification(MarkdownPage, InfoReadMe):
+    COLORS_LIST = ['brown', 'red', 'orange', 'green']
+    MIN_N = 15
+
     @cached_property
     def file_path(self):
         return 'README.identification.md'
@@ -34,81 +36,85 @@ class ReadMeIdentification(MarkdownPage, InfoReadMe):
         return idx
 
     @staticmethod
-    def get_lines_for_key(label, get_key):
-        COLORS_LIST = ['brown', 'red', 'orange', 'green']
-        MIN_N = 15
-
-        idx = ReadMeIdentification.get_analysis_by_key(get_key)
-
+    def get_func_key(label):
         if label in ['species', 'family']:
 
             def key(x):
                 return sum(x[1]) / len(x[1])
 
-        else:
+            return key
 
-            def key(x):
-                return x[0]
+        def key(x):
+            return x[0]
 
-        sorted_idx_items = sorted(idx.items(), key=key)
+        return key
 
-        x = []
-        y = []
-        x_mean = []
-        y_mean = []
-        y_mean_q1 = []
-        y_mean_q3 = []
-        color = []
+    @staticmethod
+    def get_data_for_key(label, get_key):
+        idx = ReadMeIdentification.get_analysis_by_key(get_key)
+        func_key = ReadMeIdentification.get_func_key(label)
+        sorted_idx_items = sorted(idx.items(), key=func_key)
+        x, y, x_mean, y_mean, y_mean_q1, y_mean_q3, color = [[]] * 7
 
-        for key, conf_list in sorted_idx_items:
+        for func_key, conf_list in sorted_idx_items:
             sorted_conf_list = sorted(conf_list)
             n = len(sorted_conf_list)
-            if n < MIN_N:
+            if n < ReadMeIdentification.MIN_N:
                 continue
 
-            x_mean.append(key)
+            x_mean.append(func_key)
             mean = sum(sorted_conf_list) / n
-
             y_mean.append(mean)
             y_mean_q1.append(sorted_conf_list[n // 4])
             y_mean_q3.append(sorted_conf_list[3 * n // 4])
 
             for i, conf in enumerate(sorted_conf_list):
-                x.append(key)
+                x.append(func_key)
                 y.append(conf)
-                color.append(COLORS_LIST[int(len(COLORS_LIST) * i / n)])
+                color.append(
+                    ReadMeIdentification.COLORS_LIST[
+                        int(len(ReadMeIdentification.COLORS_LIST) * i / n)
+                    ]
+                )
 
-        plt.close()
-        plt.tight_layout(pad=2.0)
-        plt.figure(figsize=(16, 9))
-        plt.xticks(rotation='vertical')
+        return x, y, x_mean, y_mean, y_mean_q1, y_mean_q3, color
 
-        plt.scatter(x, y, color=color, alpha=0.3, s=100, edgecolors='none')
-        plt.plot(
-            x_mean, y_mean, color='black', linewidth=2, linestyle='dashed'
+    @staticmethod
+    def get_lines_for_key(label, get_key):
+        (
+            x,
+            y,
+            x_mean,
+            y_mean,
+            y_mean_q1,
+            y_mean_q3,
+            color,
+        ) = ReadMeIdentification.get_data_for_key(label, get_key)
+
+        Plot.before()
+        Plot.scatter_with_fill(
+            x,
+            y,
+            x_mean,
+            y_mean,
+            y_mean_q1,
+            y_mean_q3,
+            color,
         )
-        plt.fill_between(
-            x_mean, y_mean_q1, y_mean_q3, color='black', alpha=0.1
-        )
 
-        plt.xlabel(label.title())
-        plt.ylabel('Confidence')
-        plt.title(f'Plant Identification Confidence by {label.title()}')
+        Plot.set_text(
+            f'Plant Identification Confidence by {label.title()}',
+            label.title(),
+            'Confidence',
+        )
 
         id = label.replace(' ', '-')
         chart_path = os.path.join('images', f'identification.{id}.png')
-        plt.savefig(chart_path)
-        plt.close()
-
-        log.debug(f'Wrote {chart_path}')
-        os.startfile(chart_path)
-
-        chart_path_unix = chart_path.replace('\\', '/')
-
+        Plot.write(chart_path)
         lines = [
             '### ' + label.title(),
             '',
-            Markdown.image(chart_path_unix, chart_path_unix),
+            Markdown.image(chart_path, chart_path),
             '',
         ]
         return lines

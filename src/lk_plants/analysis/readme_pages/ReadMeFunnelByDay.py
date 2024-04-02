@@ -13,16 +13,17 @@ log = Log('ReadMeFunnelByDay')
 
 
 class ReadMeFunnelByDay(MarkdownPage, InfoReadMe):
+    MIN_DAYS_DISPLAY = 14
+
     @cached_property
     def file_path(self):
         return 'README.funnel_by_day.md'
 
-    @cached_property
-    def lines_duplicates_by_date(self) -> list[str]:
-        plt.close()
+    def get_data(self):
         funnel_idx = self.get_funnel(func_get_key=lambda x: x.date_str)
-        MIN_DAYS_DISPLAY = 14
-        key_and_stats = list(funnel_idx.items())[-MIN_DAYS_DISPLAY:]
+        key_and_stats = list(funnel_idx.items())[
+            -ReadMeFunnelByDay.MIN_DAYS_DISPLAY:
+        ]
 
         x = [datetime.strptime(item[0], '%Y-%m-%d') for item in key_and_stats]
 
@@ -32,6 +33,13 @@ class ReadMeFunnelByDay(MarkdownPage, InfoReadMe):
                 if k not in ys:
                     ys[k] = []
                 ys[k].append(v)
+        return x, ys
+
+    @cached_property
+    def lines_chart(self) -> list[str]:
+        plt.close()
+
+        x, ys = self.get_data()
 
         plt.figure(figsize=(16, 9))
         plt.tight_layout(pad=2.0)
@@ -42,7 +50,10 @@ class ReadMeFunnelByDay(MarkdownPage, InfoReadMe):
             plt.bar(x, y, label=k, color=ReadMeFunnel.FUNNEL_COLORS[i])
 
         plt.legend()
-        plt.title('Duplicates by Date ' + f'(Last {MIN_DAYS_DISPLAY})')
+        plt.title(
+            'Duplicates by Date '
+            + f'(Last {ReadMeFunnelByDay.MIN_DAYS_DISPLAY})'
+        )
 
         chart_path = os.path.join('images', 'duplicates_by_date.png')
         plt.savefig(chart_path)
@@ -59,6 +70,6 @@ class ReadMeFunnelByDay(MarkdownPage, InfoReadMe):
         return [
             '## Funnel by Day',
             '',
-            self.lines_duplicates_by_date,
+            self.lines_chart,
             '',
         ]
