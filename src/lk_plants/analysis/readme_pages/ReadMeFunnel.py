@@ -62,7 +62,7 @@ class ReadMeFunnel(MarkdownPage, InfoReadMe):
             'Finally, we only consider identifications',
             ' where the model confidence is at least ',
             '20% (**≥ 20%**). ',
-            'We list statistics for 5% and 10% as well.',
+            'We list statistics for 5%, 10% and 50% as well.',
             '',
             self.build_chart(),
             '',
