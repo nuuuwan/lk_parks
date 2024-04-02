@@ -27,4 +27,5 @@ class ReadMeAbout(MarkdownPage, InfoReadMe):
                 '@lk_plants',
                 'https://twitter.com/lk_plants',
             ), 
+            '',
         ]
