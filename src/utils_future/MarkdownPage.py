@@ -22,7 +22,7 @@ class MarkdownPage:
         lines = self.lines
         for child_page in self.child_pages:
             lines.extend(child_page.lines)
-            child_page.write()
+
         content = '\n'.join(lines)
         File(self.file_path).write(content)
         log.info(f'Wrote {self.file_path}')
