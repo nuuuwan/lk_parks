@@ -4,7 +4,8 @@ from lk_plants.analysis import (InfoReadMe, ReadMe, ReadMeAbout, ReadMeApp,
                                 ReadMeDifficultIds, ReadMeFunnel,
                                 ReadMeFunnelByDay, ReadMeIdentification,
                                 ReadMeMostCommonSpecies, ReadMePlantNet,
-                                ReadMeStatisticsByTaxonomy, ReadMeVMDPark)
+                                ReadMeStatisticsByTaxonomy, ReadMeSunburst,
+                                ReadMeVMDPark)
 from lk_plants.app import App
 from lk_plants.core import (DataApp, Family, Genus, NameTranslator,
                             PlantNetResult, PlantPhoto, PlantPhotoBase,

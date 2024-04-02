@@ -8,7 +8,7 @@ from lk_plants.analysis.readme_pages import (ReadMeAbout, ReadMeApp,
                                              ReadMeMostCommonSpecies,
                                              ReadMePlantNet,
                                              ReadMeStatisticsByTaxonomy,
-                                             ReadMeVMDPark)
+                                             ReadMeSunburst, ReadMeVMDPark)
 from utils_future import MarkdownPage
 
 
@@ -33,6 +33,7 @@ class ReadMe(MarkdownPage, InfoReadMe):
             ReadMeVMDPark(),
             ReadMeFunnel(),
             ReadMeFunnelByDay(),
+            ReadMeSunburst(),
             ReadMeMostCommonSpecies(),
             ReadMeStatisticsByTaxonomy(),
             ReadMeDifficultIds(),

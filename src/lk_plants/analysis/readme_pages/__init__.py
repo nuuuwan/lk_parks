@@ -13,4 +13,5 @@ from lk_plants.analysis.readme_pages.ReadMeMostCommonSpecies import \
 from lk_plants.analysis.readme_pages.ReadMePlantNet import ReadMePlantNet
 from lk_plants.analysis.readme_pages.ReadMeStatisticsByTaxonomy import \
     ReadMeStatisticsByTaxonomy
+from lk_plants.analysis.readme_pages.ReadMeSunburst import ReadMeSunburst
 from lk_plants.analysis.readme_pages.ReadMeVMDPark import ReadMeVMDPark

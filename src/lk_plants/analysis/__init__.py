@@ -9,4 +9,4 @@ from lk_plants.analysis.readme_pages import (ReadMeAbout, ReadMeApp,
                                              ReadMeMostCommonSpecies,
                                              ReadMePlantNet,
                                              ReadMeStatisticsByTaxonomy,
-                                             ReadMeVMDPark)
+                                             ReadMeSunburst, ReadMeVMDPark)
