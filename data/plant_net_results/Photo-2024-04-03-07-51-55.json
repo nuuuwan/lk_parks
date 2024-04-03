@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1712116006.4426904,
+  "plant_photo_id": "Photo-2024-04-03-07-51-55",
+  "species_name_to_score": {
+    "Ochna integerrima": 0.27842,
+    "Ochna multiflora": 0.076,
+    "Ochna serrulata": 0.01279,
+    "Ochna pulchra": 0.00446,
+    "Ochna natalitia": 0.00381,
+    "Ochna atropurpurea": 0.00217,
+    "Azara dentata": 0.00171,
+    "Camellia sinensis": 0.00159,
+    "Cochlospermum tinctorium": 0.00108,
+    "Ochna insculpta": 0.00103
+  }
+}

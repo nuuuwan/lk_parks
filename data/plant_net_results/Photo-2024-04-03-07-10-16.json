@@ -1,0 +1,13 @@
+{
+  "ut_api_call": 1712115560.2755415,
+  "plant_photo_id": "Photo-2024-04-03-07-10-16",
+  "species_name_to_score": {
+    "Syzygium samarangense": 0.73306,
+    "Syzygium aqueum": 0.13194,
+    "Syzygium jambos": 0.06842,
+    "Syzygium malaccense": 0.01151,
+    "Syzygium polyanthum": 0.0036,
+    "Campomanesia xanthocarpa": 0.0026,
+    "Lagerstroemia parviflora": 0.00154
+  }
+}

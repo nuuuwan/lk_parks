@@ -1,0 +1,31 @@
+{
+  "ut_api_call": 1712115956.56093,
+  "plant_photo_id": "Photo-2024-04-03-07-39-53",
+  "species_name_to_score": {
+    "Quercus phellos": 0.54849,
+    "Terminalia arjuna": 0.20796,
+    "Quercus laurifolia": 0.02821,
+    "Quercus nigra": 0.00827,
+    "Quercus virginiana": 0.00738,
+    "Myrrhinium atropurpureum": 0.0064,
+    "Cordia americana": 0.0063,
+    "Hexalobus monopetalus": 0.0047,
+    "Terminalia bentzoe": 0.00437,
+    "Eugenia pyriformis": 0.00388,
+    "Ochna integerrima": 0.00358,
+    "Diospyros mespiliformis": 0.0031,
+    "Syzygium jambos": 0.00238,
+    "Salix lasiolepis": 0.00215,
+    "Nectandra angustifolia": 0.00206,
+    "Pyracantha koidzumii": 0.00193,
+    "Dodonaea viscosa": 0.00183,
+    "Salix triandra": 0.00165,
+    "Psidium guajava": 0.00164,
+    "Elaeodendron orientale": 0.00154,
+    "Umbellularia californica": 0.00152,
+    "Quercus fusiformis": 0.00126,
+    "Crescentia cujete": 0.00122,
+    "Quercus humboldtii": 0.00118,
+    "Cossinia pinnata": 0.00105
+  }
+}

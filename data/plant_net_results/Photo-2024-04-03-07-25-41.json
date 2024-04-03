@@ -1,0 +1,26 @@
+{
+  "ut_api_call": 1712115721.1333523,
+  "plant_photo_id": "Photo-2024-04-03-07-25-41",
+  "species_name_to_score": {
+    "Pandanus tectorius": 0.28735,
+    "Chlorophytum capense": 0.23335,
+    "Furcraea foetida": 0.15737,
+    "Chlorophytum comosum": 0.13986,
+    "Phalaris arundinacea": 0.01928,
+    "Yucca flaccida": 0.01388,
+    "Yucca filamentosa": 0.01232,
+    "Phormium tenax": 0.01111,
+    "Ananas comosus": 0.00423,
+    "Carex ornithopoda": 0.00412,
+    "Dracaena reflexa": 0.00325,
+    "Pandanus pygmaeus": 0.00245,
+    "Carex hachijoensis": 0.00198,
+    "Yucca gloriosa": 0.00137,
+    "Cordyline australis": 0.00133,
+    "Crinum asiaticum": 0.00132,
+    "Pandanus utilis": 0.00125,
+    "Hymenocallis caribaea": 0.00124,
+    "Carex morrowii": 0.00115,
+    "Beschorneria yuccoides": 0.00101
+  }
+}

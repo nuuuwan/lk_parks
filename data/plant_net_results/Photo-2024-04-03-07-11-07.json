@@ -1,0 +1,21 @@
+{
+  "ut_api_call": 1712115564.3312287,
+  "plant_photo_id": "Photo-2024-04-03-07-11-07",
+  "species_name_to_score": {
+    "Tabebuia rosea": 0.42309,
+    "Tabebuia heterophylla": 0.05136,
+    "Jacaranda mimosifolia": 0.01355,
+    "Tabebuia pallida": 0.00938,
+    "Handroanthus impetiginosus": 0.00867,
+    "Ceiba crispiflora": 0.00515,
+    "Handroanthus heptaphyllus": 0.00451,
+    "Gliricidia sepium": 0.00212,
+    "Paulownia tomentosa": 0.00183,
+    "Pterodon emarginatus": 0.00167,
+    "Robinia hispida": 0.00149,
+    "Jacaranda macrantha": 0.00134,
+    "Dolichandrone serrulata": 0.00111,
+    "Lonchocarpus nitidus": 0.00104,
+    "Lecythis pisonis": 0.00102
+  }
+}

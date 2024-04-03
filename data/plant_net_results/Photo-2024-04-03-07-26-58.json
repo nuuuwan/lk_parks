@@ -1,0 +1,15 @@
+{
+  "ut_api_call": 1712115748.3378553,
+  "plant_photo_id": "Photo-2024-04-03-07-26-58",
+  "species_name_to_score": {
+    "Pandanus tectorius": 0.79235,
+    "Chlorophytum capense": 0.05244,
+    "Dracaena reflexa": 0.02339,
+    "Pandanus pygmaeus": 0.018,
+    "Furcraea foetida": 0.01087,
+    "Chlorophytum comosum": 0.00819,
+    "Phalaris arundinacea": 0.0026,
+    "Dracaena cochinchinensis": 0.00124,
+    "Pandanus utilis": 0.00103
+  }
+}

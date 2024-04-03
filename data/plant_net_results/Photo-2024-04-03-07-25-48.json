@@ -1,0 +1,23 @@
+{
+  "ut_api_call": 1712115730.0212681,
+  "plant_photo_id": "Photo-2024-04-03-07-25-48",
+  "species_name_to_score": {
+    "Pleroma urvilleanum": 0.23087,
+    "Melastoma malabathricum": 0.0624,
+    "Pleroma semidecandrum": 0.04975,
+    "Pleroma granulosum": 0.03219,
+    "Pleroma heteromallum": 0.01675,
+    "Rhynchanthera grandiflora": 0.01607,
+    "Pleroma clavatum": 0.01505,
+    "Tibouchina bipenicillata": 0.00295,
+    "Osbeckia stellata": 0.00206,
+    "Tibouchina aegopogon": 0.00201,
+    "Pleroma mutabile": 0.00182,
+    "Rourea microphylla": 0.00172,
+    "Rhexia virginica": 0.00151,
+    "Rhododendron yedoense": 0.00128,
+    "Pilocosta oerstedii": 0.00123,
+    "Rhodomyrtus tomentosa": 0.00122,
+    "Cinnamomum burmanni": 0.00113
+  }
+}

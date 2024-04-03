@@ -1,0 +1,13 @@
+{
+  "ut_api_call": 1712115715.6579597,
+  "plant_photo_id": "Photo-2024-04-03-07-25-32",
+  "species_name_to_score": {
+    "Tridax procumbens": 0.46624,
+    "Galinsoga quadriradiata": 0.0092,
+    "Galinsoga parviflora": 0.00137,
+    "Sphagneticola trilobata": 0.00137,
+    "Melampodium cinereum": 0.00131,
+    "Bellis annua": 0.00119,
+    "Coldenia procumbens": 0.00115
+  }
+}

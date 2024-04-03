@@ -1,0 +1,17 @@
+{
+  "ut_api_call": 1712115548.6941562,
+  "plant_photo_id": "Photo-2024-04-03-06-44-27",
+  "species_name_to_score": {
+    "Plumeria rubra": 0.45181,
+    "Plumeria obtusa": 0.16857,
+    "Plumeria alba": 0.04186,
+    "Cerbera odollam": 0.00451,
+    "Magnolia sargentiana": 0.00192,
+    "Allamanda blanchetii": 0.00154,
+    "Pritchardia munroi": 0.0014,
+    "Plumeria magna": 0.0013,
+    "Aspidosperma tomentosum": 0.00112,
+    "Adenium obesum": 0.00102,
+    "Cerbera manghas": 0.00101
+  }
+}

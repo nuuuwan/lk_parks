@@ -1,0 +1,31 @@
+{
+  "ut_api_call": 1712115987.594681,
+  "plant_photo_id": "Photo-2024-04-03-07-49-53",
+  "species_name_to_score": {
+    "Roystonea oleracea": 0.39671,
+    "Roystonea regia": 0.35669,
+    "Dictyosperma album": 0.0307,
+    "Roystonea borinquena": 0.02472,
+    "Archontophoenix cunninghamiana": 0.01759,
+    "Archontophoenix alexandrae": 0.01446,
+    "Veitchia winin": 0.00514,
+    "Adonidia merrillii": 0.00375,
+    "Chambeyronia macrocarpa": 0.00329,
+    "Acanthophoenix rubra": 0.00285,
+    "Areca catechu": 0.00277,
+    "Pigafetta filaris": 0.00267,
+    "Schizolobium parahyba": 0.00267,
+    "Roystonea princeps": 0.00265,
+    "Archontophoenix tuckeri": 0.00253,
+    "Hyophorbe lagenicaulis": 0.00213,
+    "Dypsis madagascariensis": 0.00195,
+    "Wodyetia bifurcata": 0.00171,
+    "Syagrus romanzoffiana": 0.00151,
+    "Veitchia arecina": 0.0014,
+    "Roystonea altissima": 0.00122,
+    "Satakentia liukiuensis": 0.0012,
+    "Euterpe precatoria": 0.0012,
+    "Veitchia joannis": 0.00107,
+    "Pinanga caesia": 0.001
+  }
+}

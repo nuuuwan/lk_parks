@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1712115740.5430832,
+  "plant_photo_id": "Photo-2024-04-03-07-26-21",
+  "species_name_to_score": {
+    "Pleroma urvilleanum": 0.34053,
+    "Pleroma semidecandrum": 0.13347,
+    "Rhynchanthera grandiflora": 0.03423,
+    "Pleroma granulosum": 0.02049,
+    "Melastoma malabathricum": 0.0128,
+    "Pleroma heteromallum": 0.00716,
+    "Pleroma mutabile": 0.00237,
+    "Huberia semiserrata": 0.00177,
+    "Meriania speciosa": 0.00159,
+    "Pleroma clavatum": 0.00138
+  }
+}

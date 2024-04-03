@@ -1,0 +1,26 @@
+{
+  "ut_api_call": 1712115792.9610069,
+  "plant_photo_id": "Photo-2024-04-03-07-34-11",
+  "species_name_to_score": {
+    "Pyrrosia lanceolata": 0.65638,
+    "Pleopeltis macrocarpa": 0.07811,
+    "Phymatosorus scolopendria": 0.01584,
+    "Pleopeltis pleopeltifolia": 0.01343,
+    "Ophioglossum pendulum": 0.00758,
+    "Lepisorus thunbergianus": 0.00719,
+    "Microgramma squamulosa": 0.00409,
+    "Pyrrosia lingua": 0.0032,
+    "Lygodium hians": 0.00286,
+    "Quercus phellos": 0.00261,
+    "Pyrrosia adnascens": 0.00187,
+    "Eucalyptus cornuta": 0.00153,
+    "Microsorum punctatum": 0.00152,
+    "Prosthechea cochleata": 0.00135,
+    "Lepisorus spicatus": 0.00135,
+    "Platycerium bifurcatum": 0.00129,
+    "Polytaenium feei": 0.0012,
+    "Hedera nepalensis": 0.0011,
+    "Pyrrosia confluens": 0.00107,
+    "Tillandsia recurvata": 0.00101
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ut_api_call": 1712115744.6397927,
+  "plant_photo_id": "Photo-2024-04-03-07-26-41",
+  "species_name_to_score": {
+    "Areca triandra": 0.70997,
+    "Ptychosperma macarthurii": 0.12998,
+    "Areca catechu": 0.03056,
+    "Chambeyronia macrocarpa": 0.02407,
+    "Dypsis lutescens": 0.00479,
+    "Chamaedorea costaricana": 0.00419,
+    "Chamaedorea tepejilote": 0.00409,
+    "Dendrocalamus giganteus": 0.00305,
+    "Ptychosperma microcarpum": 0.00232,
+    "Chamaedorea seifrizii": 0.00191,
+    "Arenga engleri": 0.00187,
+    "Cyrtostachys renda": 0.00186,
+    "Ptychosperma schefferi": 0.00156,
+    "Ptychosperma salomonense": 0.00147,
+    "Bactris setosa": 0.00145,
+    "Ptychosperma elegans": 0.00136,
+    "Bactris gasipaes": 0.00129,
+    "Chamaedorea elegans": 0.00128,
+    "Etlingera elatior": 0.00124,
+    "Pinanga dicksonii": 0.00116
+  }
+}

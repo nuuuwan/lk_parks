@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 1712115886.3687456,
+  "plant_photo_id": "Photo-2024-04-03-07-37-59",
+  "species_name_to_score": {
+    "Pongamia pinnata": 0.92223,
+    "Pterocarpus rohrii": 0.01908,
+    "Poecilanthe parviflora": 0.00706,
+    "Piscidia carthagenensis": 0.00405,
+    "Lonchocarpus sericeus": 0.00226,
+    "Erythrina poeppigiana": 0.00152,
+    "Cladrastis kentukea": 0.00103,
+    "Piscidia piscipula": 0.00102
+  }
+}

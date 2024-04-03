@@ -1,0 +1,29 @@
+{
+  "ut_api_call": 1712115979.318306,
+  "plant_photo_id": "Photo-2024-04-03-07-49-29",
+  "species_name_to_score": {
+    "Cassia fistula": 0.55923,
+    "Cassia sieberiana": 0.02995,
+    "Cladrastis kentukea": 0.01173,
+    "Moringa oleifera": 0.01142,
+    "Styphnolobium japonicum": 0.00918,
+    "Senna spectabilis": 0.00411,
+    "Euonymus maackii": 0.00372,
+    "Laburnum alpinum": 0.00332,
+    "Vigna luteola": 0.0022,
+    "Cassia abbreviata": 0.00218,
+    "Azadirachta indica": 0.0017,
+    "Wisteria floribunda": 0.00166,
+    "Crateva adansonii": 0.00165,
+    "Cassia leiandra": 0.00163,
+    "Laburnum anagyroides": 0.00153,
+    "Euonymus macropterus": 0.00146,
+    "Dalbergia latifolia": 0.00131,
+    "Ptelea trifoliata": 0.00131,
+    "Crateva religiosa": 0.00121,
+    "Cassia arereh": 0.0011,
+    "Arthroclianthus cuneatus": 0.00109,
+    "Lonchocarpus punctatus": 0.00106,
+    "Bougainvillea buttiana": 0.00104
+  }
+}

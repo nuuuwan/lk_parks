@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1712115334.9477894,
+  "plant_photo_id": "Photo-2024-04-03-06-36-45",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.89308,
+    "Myrcia splendens": 0.00442,
+    "Xylopia frutescens": 0.00124,
+    "Eucalyptus globulus": 0.00112,
+    "Satyria panurensis": 0.00104
+  }
+}

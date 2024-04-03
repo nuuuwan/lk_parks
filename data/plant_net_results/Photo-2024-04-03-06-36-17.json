@@ -1,0 +1,18 @@
+{
+  "ut_api_call": 1712115321.5469596,
+  "plant_photo_id": "Photo-2024-04-03-06-36-17",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.83526,
+    "Ficus maclellandii": 0.01601,
+    "Lepechinia meyenii": 0.00471,
+    "Myrcia splendens": 0.00329,
+    "Xylopia frutescens": 0.00247,
+    "Azadirachta indica": 0.00231,
+    "Quercus myrsinifolia": 0.00183,
+    "Monoon longifolium": 0.00177,
+    "Eucalyptus camaldulensis": 0.00159,
+    "Eucalyptus globulus": 0.00142,
+    "Syzygium jambos": 0.00116,
+    "Backhousia citriodora": 0.00103
+  }
+}

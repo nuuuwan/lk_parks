@@ -1,0 +1,28 @@
+{
+  "ut_api_call": 1712115983.6343162,
+  "plant_photo_id": "Photo-2024-04-03-07-49-45",
+  "species_name_to_score": {
+    "Roystonea regia": 0.78359,
+    "Roystonea borinquena": 0.04694,
+    "Roystonea oleracea": 0.0337,
+    "Dypsis madagascariensis": 0.00771,
+    "Acrocomia crispa": 0.00734,
+    "Cocos nucifera": 0.005,
+    "Syagrus romanzoffiana": 0.00458,
+    "Archontophoenix cunninghamiana": 0.00376,
+    "Chambeyronia oliviformis": 0.00373,
+    "Jubaea chilensis": 0.00362,
+    "Phoenix reclinata": 0.00316,
+    "Roystonea altissima": 0.00296,
+    "Wodyetia bifurcata": 0.0025,
+    "Chambeyronia magnifica": 0.0023,
+    "Satakentia liukiuensis": 0.00175,
+    "Euterpe edulis": 0.00169,
+    "Syagrus oleracea": 0.00166,
+    "Areca catechu": 0.00153,
+    "Euterpe oleracea": 0.00145,
+    "Euterpe precatoria": 0.00131,
+    "Archontophoenix tuckeri": 0.00128,
+    "Phoenix dactylifera": 0.00115
+  }
+}

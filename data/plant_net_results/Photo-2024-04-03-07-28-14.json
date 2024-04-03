@@ -1,0 +1,26 @@
+{
+  "ut_api_call": 1712115765.3861053,
+  "plant_photo_id": "Photo-2024-04-03-07-28-14",
+  "species_name_to_score": {
+    "Hibiscus arnottianus": 0.30809,
+    "Hibiscus fragilis": 0.10678,
+    "Hibiscus rosa-sinensis": 0.06918,
+    "Hibiscus ovalifolius": 0.01388,
+    "Pavonia missionum": 0.00639,
+    "Malvaviscus penduliflorus": 0.00376,
+    "Hibiscus micranthus": 0.00308,
+    "Hibiscus panduriformis": 0.00238,
+    "Hibiscus moscheutos": 0.00214,
+    "Hibiscus brackenridgei": 0.00188,
+    "Hibiscus tiliaceus": 0.00186,
+    "Lysimachia ciliata": 0.00178,
+    "Hibiscus elatus": 0.00172,
+    "Hibiscus radiatus": 0.00165,
+    "Hibiscus schizopetalus": 0.00159,
+    "Hibiscus grandiflorus": 0.0014,
+    "Hibiscus liliiflorus": 0.00139,
+    "Hibiscus boryanus": 0.00138,
+    "Hibiscus sabdariffa": 0.00122,
+    "Zanthoxylum caribaeum": 0.00109
+  }
+}

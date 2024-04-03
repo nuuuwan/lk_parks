@@ -1,0 +1,28 @@
+{
+  "ut_api_call": 1712115358.5402076,
+  "plant_photo_id": "Photo-2024-04-03-06-37-19",
+  "species_name_to_score": {
+    "Syzygium jambos": 0.6879,
+    "Syzygium myrtifolium": 0.02085,
+    "Syzygium paniculatum": 0.02021,
+    "Syzygium rehderianum": 0.01135,
+    "Blepharocalyx salicifolius": 0.00847,
+    "Plinia cauliflora": 0.00841,
+    "Syzygium pondoense": 0.00713,
+    "Backhousia citriodora": 0.00701,
+    "Umbellularia californica": 0.00652,
+    "Eugenia pyriformis": 0.0033,
+    "Carya illinoinensis": 0.00198,
+    "Eugenia rhombea": 0.00194,
+    "Myrcia splendens": 0.00192,
+    "Dryobalanops oblongifolia": 0.00164,
+    "Erythrophleum fordii": 0.00163,
+    "Sarcococca hookeriana": 0.00147,
+    "Amesiodendron chinense": 0.00144,
+    "Psidium striatulum": 0.0014,
+    "Thouinidium decandrum": 0.00134,
+    "Ficus polyphlebia": 0.00131,
+    "Eugenia involucrata": 0.00121,
+    "Sapindus saponaria": 0.00114
+  }
+}

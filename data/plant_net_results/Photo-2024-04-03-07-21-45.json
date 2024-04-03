@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 1712115658.5305357,
+  "plant_photo_id": "Photo-2024-04-03-07-21-45",
+  "species_name_to_score": {
+    "Jasminum multiflorum": 0.62136,
+    "Jasminum sambac": 0.20458,
+    "Jasminum grandiflorum": 0.02875,
+    "Jasminum auriculatum": 0.02367,
+    "Ligustrum sinense": 0.0043,
+    "Wrightia religiosa": 0.00416,
+    "Sageretia thea": 0.00276,
+    "Ligustrum ovalifolium": 0.00255,
+    "Jasminum fluminense": 0.00208,
+    "Carissa spinarum": 0.00139,
+    "Jasminum neocaledonicum": 0.00131,
+    "Jasminum noumeense": 0.00129,
+    "Jasminum multipartitum": 0.00117
+  }
+}

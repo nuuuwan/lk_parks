@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1712115464.5115547,
+  "plant_photo_id": "Photo-2024-04-03-06-38-34",
+  "species_name_to_score": {
+    "Syzygium jambos": 0.01874,
+    "Syzygium rehderianum": 0.01016,
+    "Syzygium paniculatum": 0.00454,
+    "Eugenia uniflora": 0.00395,
+    "Ixora chinensis": 0.00253,
+    "Syzygium myrtifolium": 0.00179,
+    "Photinia serratifolia": 0.00142,
+    "Ligustrum japonicum": 0.00126,
+    "Eugenia brasiliensis": 0.00124,
+    "Trachelospermum asiaticum": 0.00121
+  }
+}

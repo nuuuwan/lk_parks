@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 1712115761.8142567,
+  "plant_photo_id": "Photo-2024-04-03-07-27-37",
+  "species_name_to_score": {
+    "Hibiscus rosa-sinensis": 0.32603,
+    "Hibiscus clayii": 0.0103,
+    "Hibiscus schizopetalus": 0.00865,
+    "Hibiscus boryanus": 0.00451,
+    "Malvaviscus penduliflorus": 0.00405,
+    "Hibiscus moscheutos": 0.00356,
+    "Malvaviscus arboreus": 0.00313,
+    "Gustavia longifolia": 0.00309,
+    "Hibiscus fragilis": 0.00299,
+    "Hibiscus sabdariffa": 0.00233,
+    "Hibiscus arnottianus": 0.0016,
+    "Hibiscus poeppigii": 0.00141,
+    "Hibiscus acetosella": 0.00117
+  }
+}

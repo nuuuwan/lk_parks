@@ -1,0 +1,33 @@
+{
+  "ut_api_call": 1712115373.176747,
+  "plant_photo_id": "Photo-2024-04-03-06-37-30",
+  "species_name_to_score": {
+    "Syzygium jambos": 0.45097,
+    "Syzygium paniculatum": 0.04714,
+    "Syzygium myrtifolium": 0.03683,
+    "Backhousia citriodora": 0.01953,
+    "Blepharocalyx salicifolius": 0.01306,
+    "Syzygium rehderianum": 0.01157,
+    "Mesua ferrea": 0.00911,
+    "Eugenia rhombea": 0.00877,
+    "Myrcia splendens": 0.00628,
+    "Syzygium australe": 0.0032,
+    "Syzygium floribundum": 0.00312,
+    "Eucalyptus robusta": 0.00235,
+    "Umbellularia californica": 0.00228,
+    "Syzygium polyanthum": 0.00226,
+    "Cinnamomum burmanni": 0.00215,
+    "Eugenia brasiliensis": 0.00207,
+    "Doratoxylon apetalum": 0.00203,
+    "Mauria heterophylla": 0.00167,
+    "Quercus phellos": 0.00151,
+    "Eugenia monticola": 0.00143,
+    "Syzygium smithii": 0.00135,
+    "Erythrophleum fordii": 0.00135,
+    "Plinia cauliflora": 0.00122,
+    "Baloghia inophylla": 0.0012,
+    "Syzygium buxifolium": 0.00114,
+    "Manilkara zapota": 0.00113,
+    "Myrcia selloi": 0.00113
+  }
+}

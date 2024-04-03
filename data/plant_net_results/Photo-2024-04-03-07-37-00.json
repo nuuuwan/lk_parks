@@ -1,0 +1,17 @@
+{
+  "ut_api_call": 1712115850.1060503,
+  "plant_photo_id": "Photo-2024-04-03-07-37-00",
+  "species_name_to_score": {
+    "Terminalia arjuna": 0.83545,
+    "Quercus phellos": 0.01836,
+    "Psidium guajava": 0.00485,
+    "Salix triandra": 0.00384,
+    "Eucryphia cordifolia": 0.00294,
+    "Corymbia citriodora": 0.00284,
+    "Pterocarya stenoptera": 0.00171,
+    "Qualea parviflora": 0.00147,
+    "Ochna integerrima": 0.00145,
+    "Polyalthia suberosa": 0.00129,
+    "Myrrhinium atropurpureum": 0.00111
+  }
+}

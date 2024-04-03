@@ -1,0 +1,25 @@
+{
+  "ut_api_call": 1712115770.0355885,
+  "plant_photo_id": "Photo-2024-04-03-07-29-22",
+  "species_name_to_score": {
+    "Hibiscus rosa-sinensis": 0.1433,
+    "Hibiscus fragilis": 0.13599,
+    "Hibiscus sabdariffa": 0.08256,
+    "Hibiscus radiatus": 0.02538,
+    "Hibiscus acetosella": 0.0198,
+    "Hibiscus arnottianus": 0.00612,
+    "Hibiscus poeppigii": 0.00534,
+    "Hibiscus clayii": 0.00368,
+    "Hibiscus boryanus": 0.00302,
+    "Hibiscus ovalifolius": 0.00287,
+    "Hibiscus schizopetalus": 0.00242,
+    "Hibiscus cannabinus": 0.00206,
+    "Ipomoea hederifolia": 0.00196,
+    "Malvaviscus penduliflorus": 0.0019,
+    "Malvaviscus arboreus": 0.00144,
+    "Ipomoea rubriflora": 0.00133,
+    "Hibiscus moscheutos": 0.00118,
+    "Hibiscus micranthus": 0.00112,
+    "Zanthoxylum caribaeum": 0.00111
+  }
+}

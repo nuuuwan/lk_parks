@@ -1,0 +1,25 @@
+{
+  "ut_api_call": 1712115710.5115426,
+  "plant_photo_id": "Photo-2024-04-03-07-25-21",
+  "species_name_to_score": {
+    "Paubrasilia echinata": 0.52385,
+    "Coriaria ruscifolia": 0.00507,
+    "Anisophyllea disticha": 0.00486,
+    "Gleditsia sinensis": 0.0035,
+    "Cenostigma pluviosum": 0.00335,
+    "Adenanthera pavonina": 0.00313,
+    "Gleditsia triacanthos": 0.00305,
+    "Cojoba arborea": 0.00266,
+    "Cordyla africana": 0.00237,
+    "Diospyros buxifolia": 0.00231,
+    "Osteomeles anthyllidifolia": 0.00196,
+    "Cojoba costaricensis": 0.00163,
+    "Gleditsia caspica": 0.00124,
+    "Comptonia peregrina": 0.00124,
+    "Adiantum hispidulum": 0.00123,
+    "Adiantum latifolium": 0.00122,
+    "Senna spectabilis": 0.00119,
+    "Osmundastrum cinnamomeum": 0.00114,
+    "Nephrolepis abrupta": 0.00109
+  }
+}

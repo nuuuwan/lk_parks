@@ -1,0 +1,24 @@
+{
+  "ut_api_call": 1712115596.758042,
+  "plant_photo_id": "Photo-2024-04-03-07-19-18",
+  "species_name_to_score": {
+    "Monoon longifolium": 0.78817,
+    "Putranjiva roxburghii": 0.0299,
+    "Ocotea puberula": 0.01932,
+    "Lepidocupania gracilipes": 0.00732,
+    "Azadirachta indica": 0.007,
+    "Mangifera indica": 0.00662,
+    "Hopea odorata": 0.00483,
+    "Diospyros mespiliformis": 0.0045,
+    "Harpephyllum caffrum": 0.00352,
+    "Dimocarpus longan": 0.00315,
+    "Quercus canbyi": 0.00231,
+    "Toona ciliata": 0.00215,
+    "Acrostichum aureum": 0.00215,
+    "Casearia sylvestris": 0.0021,
+    "Sapindus saponaria": 0.00183,
+    "Geissospermum laeve": 0.00123,
+    "Saraca asoca": 0.00111,
+    "Ocotea acutifolia": 0.001
+  }
+}

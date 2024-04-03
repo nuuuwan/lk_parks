@@ -1,0 +1,17 @@
+{
+  "ut_api_call": 1712115326.875877,
+  "plant_photo_id": "Photo-2024-04-03-06-36-26",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.85863,
+    "Myrcia splendens": 0.03698,
+    "Satyria panurensis": 0.00358,
+    "Eucalyptus camaldulensis": 0.0028,
+    "Syzygium jambos": 0.002,
+    "Leucothoe fontanesiana": 0.00189,
+    "Xylopia frutescens": 0.00139,
+    "Eucalyptus globulus": 0.00135,
+    "Syzygium abbreviatum": 0.00135,
+    "Rourea microphylla": 0.00113,
+    "Cinnamomum verum": 0.0011
+  }
+}

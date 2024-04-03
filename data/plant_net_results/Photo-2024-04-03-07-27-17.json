@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 1712115758.1687336,
+  "plant_photo_id": "Photo-2024-04-03-07-27-17",
+  "species_name_to_score": {
+    "Artocarpus heterophyllus": 0.87576,
+    "Artocarpus integer": 0.05868,
+    "Citrus medica": 0.0018,
+    "Artocarpus rigidus": 0.00144,
+    "Theobroma cacao": 0.0013,
+    "Citrus maxima": 0.00124,
+    "Artocarpus lacucha": 0.00122,
+    "Neolamarckia cadamba": 0.00107
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ut_api_call": 1712115778.1219661,
+  "plant_photo_id": "Photo-2024-04-03-07-30-22",
+  "species_name_to_score": {
+    "Cycas circinalis": 0.66309,
+    "Cycas rumphii": 0.08025,
+    "Cycas thouarsii": 0.07077,
+    "Cycas edentata": 0.039,
+    "Lepidozamia peroffskyana": 0.02045,
+    "Phoenix roebelenii": 0.01159,
+    "Cycas pectinata": 0.00763,
+    "Cycas zeylanica": 0.00579,
+    "Dioon spinulosum": 0.00443,
+    "Cycas seemannii": 0.00337,
+    "Encephalartos laurentianus": 0.0027,
+    "Cycas revoluta": 0.00233,
+    "Cycas media": 0.00227,
+    "Cycas bougainvilleana": 0.00179,
+    "Cycas riuminiana": 0.00152,
+    "Dicksonia sellowiana": 0.00147,
+    "Cycas clivicola": 0.00135,
+    "Encephalartos tegulaneus": 0.00111
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ut_api_call": 1712115609.7602952,
+  "plant_photo_id": "Photo-2024-04-03-07-19-20",
+  "species_name_to_score": {
+    "Monoon longifolium": 0.7404,
+    "Polyalthia longipedicellata": 0.03369,
+    "Mesua ferrea": 0.00865,
+    "Garcinia xishuanbannaensis": 0.00547,
+    "Sapindus saponaria": 0.00476,
+    "Diospyros mespiliformis": 0.0036,
+    "Ficus maclellandii": 0.00345,
+    "Lepechinia meyenii": 0.00248,
+    "Quercus acutissima": 0.00241,
+    "Cananga odorata": 0.00184,
+    "Castanea crenata": 0.00156,
+    "Dryobalanops oblongifolia": 0.00155,
+    "Azadirachta indica": 0.00137,
+    "Corymbia citriodora": 0.00134,
+    "Myroxylon balsamum": 0.00125,
+    "Hopea odorata": 0.00119,
+    "Cassia fistula": 0.00108,
+    "Lophira lanceolata": 0.00104
+  }
+}
