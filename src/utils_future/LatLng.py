@@ -29,7 +29,7 @@ class LatLng:
         lat, lng = self.tuple
 
         def norm(x):
-            Q = 0.00001
+            Q = 0.1 ** 5
             return round(x / Q) * Q
 
         return LatLng(norm(lat), norm(lng))

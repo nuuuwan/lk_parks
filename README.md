@@ -4,7 +4,7 @@
 
 This project aims to use Computer Vision and Artificial Intelligence to identify plants in Sri Lanka's public parks, beginning with Viharamahadevi Park, Colombo.
 
-🤖 *This report was automatically generated on  **Apr 03, 2024 (09:18 AM)**, and is based on **813** plant photos.*
+🤖 *This report was automatically generated on  **Apr 03, 2024 (12:52 PM)**, and is based on **828** plant photos.*
 
 You can also follow us on our Twitter/X page [@lk_plants](https://twitter.com/lk_plants)
 
@@ -60,57 +60,57 @@ This sunburst chart shows the distribution of plant photos, by family, genus and
 
 ### Species
 
-**204** unique Species.
+**208** unique Species.
 
 | # | Species | n(Photos) | % |
 | ---: | :--- | ---: | ---: |
-| 1 | [*Mesua ferrea*](https://en.wikipedia.org/wiki/Mesua_ferrea) | 53 | 6.5% |
-| 2 | [*Terminalia arjuna*](https://en.wikipedia.org/wiki/Terminalia_arjuna) | 44 | 5.4% |
-| 3 | [*Mangifera indica*](https://en.wikipedia.org/wiki/Mangifera_indica) | 36 | 4.4% |
-| 4 | [*Terminalia catappa*](https://en.wikipedia.org/wiki/Terminalia_catappa) | 24 | 3.0% |
+| 1 | [*Mesua ferrea*](https://en.wikipedia.org/wiki/Mesua_ferrea) | 53 | 6.4% |
+| 2 | [*Terminalia arjuna*](https://en.wikipedia.org/wiki/Terminalia_arjuna) | 44 | 5.3% |
+| 3 | [*Mangifera indica*](https://en.wikipedia.org/wiki/Mangifera_indica) | 36 | 4.3% |
+| 4 | [*Terminalia catappa*](https://en.wikipedia.org/wiki/Terminalia_catappa) | 24 | 2.9% |
 | 5 | [*Artocarpus heterophyllus*](https://en.wikipedia.org/wiki/Artocarpus_heterophyllus) | 23 | 2.8% |
 | 6 | [*Pongamia pinnata*](https://en.wikipedia.org/wiki/Pongamia_pinnata) | 22 | 2.7% |
-| 7 | [*Cassia fistula*](https://en.wikipedia.org/wiki/Cassia_fistula) | 21 | 2.6% |
-| 8 | [*Tectona grandis*](https://en.wikipedia.org/wiki/Tectona_grandis) | 21 | 2.6% |
-| 9 | [*Peltophorum pterocarpum*](https://en.wikipedia.org/wiki/Peltophorum_pterocarpum) | 18 | 2.2% |
-| 10 | [*Tabernaemontana divaricata*](https://en.wikipedia.org/wiki/Tabernaemontana_divaricata) | 17 | 2.1% |
-|  | *(All Others)* | 388 | 47.7% |
+| 7 | [*Cassia fistula*](https://en.wikipedia.org/wiki/Cassia_fistula) | 21 | 2.5% |
+| 8 | [*Tectona grandis*](https://en.wikipedia.org/wiki/Tectona_grandis) | 21 | 2.5% |
+| 9 | [*Peltophorum pterocarpum*](https://en.wikipedia.org/wiki/Peltophorum_pterocarpum) | 19 | 2.3% |
+| 10 | [*Tecoma stans*](https://en.wikipedia.org/wiki/Tecoma_stans) | 17 | 2.1% |
+|  | *(All Others)* | 396 | 47.8% |
 
 ### Genera
 
-**154** unique Genera.
+**156** unique Genera.
 
 | # | Genera | n(Photos) | % |
 | ---: | :--- | ---: | ---: |
-| 1 | [*Terminalia*](https://en.wikipedia.org/wiki/Terminalia) | 71 | 8.7% |
-| 2 | [*Mesua*](https://en.wikipedia.org/wiki/Mesua) | 53 | 6.5% |
-| 3 | [*Ficus*](https://en.wikipedia.org/wiki/Ficus) | 42 | 5.2% |
-| 4 | [*Mangifera*](https://en.wikipedia.org/wiki/Mangifera) | 36 | 4.4% |
-| 5 | [*Cassia*](https://en.wikipedia.org/wiki/Cassia) | 25 | 3.1% |
-| 6 | [*Syzygium*](https://en.wikipedia.org/wiki/Syzygium) | 24 | 3.0% |
+| 1 | [*Terminalia*](https://en.wikipedia.org/wiki/Terminalia) | 71 | 8.6% |
+| 2 | [*Mesua*](https://en.wikipedia.org/wiki/Mesua) | 53 | 6.4% |
+| 3 | [*Ficus*](https://en.wikipedia.org/wiki/Ficus) | 43 | 5.2% |
+| 4 | [*Mangifera*](https://en.wikipedia.org/wiki/Mangifera) | 36 | 4.3% |
+| 5 | [*Cassia*](https://en.wikipedia.org/wiki/Cassia) | 25 | 3.0% |
+| 6 | [*Syzygium*](https://en.wikipedia.org/wiki/Syzygium) | 25 | 3.0% |
 | 7 | [*Artocarpus*](https://en.wikipedia.org/wiki/Artocarpus) | 23 | 2.8% |
 | 8 | [*Pongamia*](https://en.wikipedia.org/wiki/Pongamia) | 22 | 2.7% |
-| 9 | [*Peltophorum*](https://en.wikipedia.org/wiki/Peltophorum) | 21 | 2.6% |
-| 10 | [*Tectona*](https://en.wikipedia.org/wiki/Tectona) | 21 | 2.6% |
-|  | *(All Others)* | 288 | 35.4% |
+| 9 | [*Peltophorum*](https://en.wikipedia.org/wiki/Peltophorum) | 22 | 2.7% |
+| 10 | [*Tectona*](https://en.wikipedia.org/wiki/Tectona) | 21 | 2.5% |
+|  | *(All Others)* | 292 | 35.3% |
 
 ### Families
 
-**66** unique Families.
+**67** unique Families.
 
 | # | Families | n(Photos) | % |
 | ---: | :--- | ---: | ---: |
-| 1 | [*Fabaceae*](https://en.wikipedia.org/wiki/Fabaceae) | 149 | 18.3% |
-| 2 | [*Combretaceae*](https://en.wikipedia.org/wiki/Combretaceae) | 75 | 9.2% |
-| 3 | [*Moraceae*](https://en.wikipedia.org/wiki/Moraceae) | 65 | 8.0% |
-| 4 | [*Calophyllaceae*](https://en.wikipedia.org/wiki/Calophyllaceae) | 57 | 7.0% |
-| 5 | [*Anacardiaceae*](https://en.wikipedia.org/wiki/Anacardiaceae) | 48 | 5.9% |
-| 6 | [*Bignoniaceae*](https://en.wikipedia.org/wiki/Bignoniaceae) | 44 | 5.4% |
+| 1 | [*Fabaceae*](https://en.wikipedia.org/wiki/Fabaceae) | 152 | 18.4% |
+| 2 | [*Combretaceae*](https://en.wikipedia.org/wiki/Combretaceae) | 75 | 9.1% |
+| 3 | [*Moraceae*](https://en.wikipedia.org/wiki/Moraceae) | 66 | 8.0% |
+| 4 | [*Calophyllaceae*](https://en.wikipedia.org/wiki/Calophyllaceae) | 58 | 7.0% |
+| 5 | [*Anacardiaceae*](https://en.wikipedia.org/wiki/Anacardiaceae) | 48 | 5.8% |
+| 6 | [*Bignoniaceae*](https://en.wikipedia.org/wiki/Bignoniaceae) | 46 | 5.6% |
 | 7 | [*Apocynaceae*](https://en.wikipedia.org/wiki/Apocynaceae) | 41 | 5.0% |
-| 8 | [*Arecaceae*](https://en.wikipedia.org/wiki/Arecaceae) | 40 | 4.9% |
-| 9 | [*Myrtaceae*](https://en.wikipedia.org/wiki/Myrtaceae) | 36 | 4.4% |
+| 8 | [*Arecaceae*](https://en.wikipedia.org/wiki/Arecaceae) | 41 | 5.0% |
+| 9 | [*Myrtaceae*](https://en.wikipedia.org/wiki/Myrtaceae) | 37 | 4.5% |
 | 10 | [*Lamiaceae*](https://en.wikipedia.org/wiki/Lamiaceae) | 22 | 2.7% |
-|  | *(All Others)* | 112 | 13.8% |
+|  | *(All Others)* | 114 | 13.8% |
 
 ## Identification Confidence
 
@@ -155,7 +155,7 @@ Mesua ferrea, the Ceylon ironwood,  or cobra saffron, is a species in the family
 
 *44 Photos*
 
-<img src="data/images/Photo-2024-03-21-08-15-21.jpg" alt="Terminalia arjuna"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-12-07-01-21.jpg" alt="Terminalia arjuna"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-13-07-10-03.jpg" alt="Terminalia arjuna"  width="32%" height="32%" />
+<img src="data/images/Photo-2024-03-21-08-15-21.jpg" alt="Terminalia arjuna"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-12-07-01-24.jpg" alt="Terminalia arjuna"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-13-07-10-08.jpg" alt="Terminalia arjuna"  width="32%" height="32%" />
 
 *Arjun, Kakubha, Kumbuk, Maruthu, Marutu, White murdh*
 
@@ -223,23 +223,23 @@ Teak (Tectona grandis) is a tropical hardwood tree species in the family Lamiace
 
 ### [*Peltophorum pterocarpum*](https://en.wikipedia.org/wiki/Peltophorum_pterocarpum) ([*Fabaceae*](https://en.wikipedia.org/wiki/Fabaceae))
 
-*18 Photos*
+*19 Photos*
 
-<img src="data/images/Photo-2024-04-03-07-19-45.jpg" alt="Peltophorum pterocarpum"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-11-06-55-06.jpg" alt="Peltophorum pterocarpum"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-26-08-00-43.jpg" alt="Peltophorum pterocarpum"  width="32%" height="32%" />
+<img src="data/images/Photo-2024-03-21-07-47-43.jpg" alt="Peltophorum pterocarpum"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-11-06-55-06.jpg" alt="Peltophorum pterocarpum"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-26-08-00-43.jpg" alt="Peltophorum pterocarpum"  width="32%" height="32%" />
 
 *Copperpod, Kaha Maara, Kona Maram, Maara, Nilalvakai, Yellow flame, Yellow flametree*
 
 Peltophorum pterocarpum (commonly known as copperpod, yellow-flamboyant, yellow flametree, yellow poinciana or yellow-flame) is a species of Peltophorum, native to tropical southeastern Asia and a popular ornamental tree grown around the world. [[Wikipedia](https://en.wikipedia.org/wiki/Peltophorum_pterocarpum)]
 
-### [*Tabernaemontana divaricata*](https://en.wikipedia.org/wiki/Tabernaemontana_divaricata) ([*Apocynaceae*](https://en.wikipedia.org/wiki/Apocynaceae))
+### [*Tecoma stans*](https://en.wikipedia.org/wiki/Tecoma_stans) ([*Bignoniaceae*](https://en.wikipedia.org/wiki/Bignoniaceae))
 
 *17 Photos*
 
-<img src="data/images/Photo-2024-03-11-06-27-14.jpg" alt="Tabernaemontana divaricata"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-21-07-34-39.jpg" alt="Tabernaemontana divaricata"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-23-08-55-44.jpg" alt="Tabernaemontana divaricata"  width="32%" height="32%" />
+<img src="data/images/Photo-2024-03-11-06-39-41.jpg" alt="Tecoma stans"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-11-06-40-37.jpg" alt="Tecoma stans"  width="32%" height="32%" /> <img src="data/images/Photo-2024-03-11-06-40-46.jpg" alt="Tecoma stans"  width="32%" height="32%" />
 
-*Adukkunandiyavattai, Butterfly-gardenia, Crape-jasmine, Nandi Battai, Nandiar Vattai, Nandivrksah, Vathu Sudda, Wathu Sudda, Watu Sudda, Watusudda, నందివర్ధనం*
+*Kaelanitissa, Kelantissa, Rankaerali, Swarnaptti, Tankarali, Trumpet-flower, Yellow trumpet flower, Yellow-bells*
 
-Tabernaemontana divaricata, commonly called pinwheel flower, crape jasmine, East India rosebay, and Nero's crown, is an evergreen shrub or small tree native to South Asia, Southeast Asia and China. In zones where it is not hardy it is grown as a house/glasshouse plant for its attractive flowers and foliage. The stem exudes a milky latex when broken, whence comes the name milk flower [[Wikipedia](https://en.wikipedia.org/wiki/Tabernaemontana_divaricata)]
+Tecoma stans is a species of flowering perennial shrub in the trumpet vine family, Bignoniaceae, that is native to the Americas.  Common names include yellow trumpetbush, yellow bells, yellow elder, ginger Thomas. Tecoma stans is the official flower of the United States Virgin Islands and the floral emblem of The Bahamas. [[Wikipedia](https://en.wikipedia.org/wiki/Tecoma_stans)]
 
 ## Sample of Recent Plant Photos difficult to Identify
 

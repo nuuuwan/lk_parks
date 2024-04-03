@@ -1,8 +1,10 @@
-from lk_plants import ReadMeSunburst
+from lk_plants import ReadMeAbout, ReadMeFunnel, ReadMeFunnelByDay
 
 
 def test_main():
-    ReadMeSunburst().write()
+    ReadMeAbout().write()
+    ReadMeFunnel().write()
+    ReadMeFunnelByDay().write()
 
 
 if __name__ == "__main__":

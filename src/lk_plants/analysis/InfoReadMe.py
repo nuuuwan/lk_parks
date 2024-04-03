@@ -35,18 +35,33 @@ class InfoReadMe:
         plant_photo_list: list[PlantPhoto],
         previous_plant_photo_list: list[PlantPhoto],
     ):
-        key_set = set()
-        for plant_photo in previous_plant_photo_list:
-            key = str(plant_photo.latlng)
-            key_set.add(key)
-
-        deduped_plant_photo_list = []
-        for plant_photo in plant_photo_list:
-            key = str(plant_photo.latlng)
-            if key in key_set:
+        key_to_info_list = {}
+        for plant_photo in plant_photo_list + previous_plant_photo_list:
+            plant_net_result = PlantNetResult.from_plant_photo(plant_photo)
+            if not plant_net_result:
                 continue
-            key_set.add(key)
-            deduped_plant_photo_list.append(plant_photo)
+            top_species_name = plant_net_result.top_species_name
+            if not top_species_name:
+                continue
+            top_confidence = plant_net_result.top_confidence
+
+            key = str(plant_photo.latlng) + top_species_name
+            if key not in key_to_info_list:
+                key_to_info_list[key] = []
+            key_to_info_list[key].append((plant_photo, top_confidence))
+
+        deduped_plant_photo_id_set = set()
+        for key, info_list in key_to_info_list.items():
+            sorted_info_list = sorted(info_list, key=lambda x: x[1])
+            best_info = sorted_info_list[-1]
+            best_plant_photo = best_info[0]
+            deduped_plant_photo_id_set.add(best_plant_photo.id)
+
+        deduped_plant_photo_list = [
+            plant_photo
+            for plant_photo in plant_photo_list
+            if plant_photo.id in deduped_plant_photo_id_set
+        ]
         return deduped_plant_photo_list
 
     @cached_property
