@@ -2,7 +2,6 @@ from lk_plants import GBIF
 
 
 def main():
-   
     GBIF.build()
 
 

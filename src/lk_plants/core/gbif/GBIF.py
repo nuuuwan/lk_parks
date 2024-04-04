@@ -50,9 +50,19 @@ class GBIF:
             genus=gbif_data['genus'],
             species=gbif_data['species'],
         )
-        assert data['canonical_name'] == self.species_name, f"{data['canonical_name']} != {self.species_name}"
+
+        observed_species = data['canonical_name']
+        if observed_species != self.species_name:
+            raise Exception(
+                "Species name mismatch: "
+                + f'"{observed_species}" != "{self.species_name}"'
+            )
         expected_genus = self.species_name.split(' ')[0]
-        assert data['genus'] == expected_genus, f"{data['genus']} != {expected_genus}"
+        observed_genus = data['genus']
+        if data['genus'] != expected_genus:
+            raise Exception(
+                f'"Genus mismatch: {observed_genus}" != "{expected_genus}"'
+            )
         return data
 
     @cached_property
