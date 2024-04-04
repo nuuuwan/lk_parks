@@ -20,12 +20,11 @@ class Family(Taxon):
 
     @staticmethod
     def from_dict(d):
+
         return Family(
             name=d['name'],
             authorship=d['authorship'],
-            order=Order.from_name(d['order_name'])
-            if 'order_name ' in d
-            else '',
+            order=Order.from_name(d.get('order_name'))
         )
 
     @staticmethod

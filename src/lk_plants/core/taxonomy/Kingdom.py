@@ -9,6 +9,9 @@ from lk_plants.core.taxonomy.Taxon import Taxon
 class Kingdom(Taxon):
     domain: Domain
 
+    @classmethod
+    def unknown(cls):
+        return cls(name='unknown', domain=Domain.EUKARYOTA)
     def to_dict(self):
         return dict(
             name=self.name,
@@ -17,8 +20,8 @@ class Kingdom(Taxon):
 
     @staticmethod
     def from_dict(d):
-        return Domain(
-            name=d['name'], domain=Domain.from_name(d['domain_name'])
+        return Kingdom(
+            name=d['name'], domain=Domain.EUKARYOTA
         )
 
     @staticmethod

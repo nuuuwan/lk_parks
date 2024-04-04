@@ -52,7 +52,7 @@ class GBIF:
                 species=gbif_data['species'],
             )
         except Exception as e:
-            print(gbif_data)
+
             raise Exception(f"Failed to get data: {e}")
         observed_species = data['canonical_name']
         if observed_species != self.species_name:

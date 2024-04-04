@@ -36,22 +36,32 @@ class ReadMeSunburst(MarkdownPage, InfoReadMe):
             species_name = species.name
             genus_name = species.genus.name
             family_name = species.genus.family.name
+            order_name = species.genus.family.order.name
+            classis_name = species.genus.family.order.classis.name
 
             n_total += 1
             if species_name not in species_name_to_info:
-                species_name_to_info[species_name] = [genus_name, family_name]
+                species_name_to_info[species_name] = [genus_name, family_name, order_name, classis_name]
 
             if species_name not in taxon_to_n:
                 taxon_to_n[species_name] = 0
             taxon_to_n[species_name] += 1
 
+            if genus_name not in taxon_to_n:
+                taxon_to_n[genus_name] = 0
+            taxon_to_n[genus_name] += 1
+
             if family_name not in taxon_to_n:
                 taxon_to_n[family_name] = 0
             taxon_to_n[family_name] += 1
 
-            if genus_name not in taxon_to_n:
-                taxon_to_n[genus_name] = 0
-            taxon_to_n[genus_name] += 1
+            if order_name not in taxon_to_n:
+                taxon_to_n[order_name] = 0  
+            taxon_to_n[order_name] += 1
+            
+            if classis_name not in taxon_to_n:
+                taxon_to_n[classis_name] = 0  
+            taxon_to_n[classis_name] += 1
 
         categories = []
         parents = []
@@ -63,17 +73,36 @@ class ReadMeSunburst(MarkdownPage, InfoReadMe):
         values.append(n_total)
 
         parse_set = set()
+
         for species_name, info in species_name_to_info.items():
-            [genus_name, family_name] = info
+            [genus_name, family_name, order_name, classis_name] = info
+            if classis_name in parse_set:
+                continue
+            parse_set.add(classis_name)
+            categories.append(classis_name)
+            parents.append(ROOT_CATEGORY_NAME)
+            values.append(taxon_to_n[classis_name])
+
+        for species_name, info in species_name_to_info.items():
+            [genus_name, family_name, order_name, classis_name] = info
+            if order_name in parse_set:
+                continue
+            parse_set.add(order_name)
+            categories.append(order_name)
+            parents.append(classis_name)
+            values.append(taxon_to_n[order_name])
+
+        for species_name, info in species_name_to_info.items():
+            [genus_name, family_name, order_name, classis_name] = info
             if family_name in parse_set:
                 continue
             parse_set.add(family_name)
             categories.append(family_name)
-            parents.append(ROOT_CATEGORY_NAME)
+            parents.append(order_name)
             values.append(taxon_to_n[family_name])
 
         for species_name, info in species_name_to_info.items():
-            [genus_name, family_name] = info
+            [genus_name, family_name, order_name, classis_name] = info
             if genus_name in parse_set:
                 continue
             parse_set.add(genus_name)
@@ -82,7 +111,7 @@ class ReadMeSunburst(MarkdownPage, InfoReadMe):
             values.append(taxon_to_n[genus_name])
 
         for species_name, info in species_name_to_info.items():
-            [genus_name, family_name] = info
+            [genus_name, family_name, order_name, classis_name] = info
             categories.append(species_name)
             parents.append(genus_name)
             values.append(taxon_to_n[species_name])
@@ -102,7 +131,7 @@ class ReadMeSunburst(MarkdownPage, InfoReadMe):
             names='categories',
             parents='parent',
             values='value',
-            color_discrete_sequence=['#800', '#f80', '#fc0', '#080'],
+            # color_discrete_sequence=['#800', '#f80', '#fc0', '#080'],
             branchvalues='total',
         )
 
@@ -112,6 +141,7 @@ class ReadMeSunburst(MarkdownPage, InfoReadMe):
         image_path = os.path.join('images', 'sunburst.png')
         pio.write_image(fig, image_path, scale=3)
         log.info(f'Wrote {image_path}')
+        os.startfile(image_path)
 
         return Markdown.image(image_path, image_path)
 

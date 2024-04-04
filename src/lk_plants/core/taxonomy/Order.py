@@ -9,6 +9,10 @@ from lk_plants.core.taxonomy.Taxon import Taxon
 class Order(Taxon):
     classis: Classis
 
+    @classmethod
+    def unknown(cls):
+        return cls(name='unknown-order', classis=Classis.unknown())
+
     def to_dict(self):
         return dict(
             name=self.name,

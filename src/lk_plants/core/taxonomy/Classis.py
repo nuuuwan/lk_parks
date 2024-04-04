@@ -9,6 +9,9 @@ from lk_plants.core.taxonomy.Taxon import Taxon
 class Classis(Taxon):
     phylum: Phylum
 
+    @classmethod
+    def unknown(cls):
+        return cls(name='unknown-classis', phylum=Phylum.unknown())
     def to_dict(self):
         return dict(
             name=self.name,
@@ -17,7 +20,7 @@ class Classis(Taxon):
 
     @staticmethod
     def from_dict(d):
-        return Phylum(
+        return Classis(
             name=d['name'], phylum=Phylum.from_name(d['phylum_name'])
         )
 

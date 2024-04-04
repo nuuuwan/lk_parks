@@ -41,13 +41,15 @@ class Taxon:
     def write(self):
         if (
             not os.path.exists(self.data_path)
-            or self.__class__.__name__ == 'Family'
+     
         ):
             JSONFile(self.data_path).write(self.to_dict())
             log.info(f'Wrote {self.data_path}')
 
     @classmethod
     def from_name(cls, name: str):
+        if name is None:
+            return cls.unknown()
         data_path = cls.get_data_path(name)
         d = JSONFile(data_path).read()
         return cls.from_dict(d)
@@ -75,3 +77,4 @@ class Taxon:
     @cached_property
     def wiki_page_name(self) -> str:
         return self.name.replace(' ', '_')
+
