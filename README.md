@@ -4,7 +4,7 @@
 
 This project aims to use Computer Vision and Artificial Intelligence to identify plants in Sri Lanka's public parks, beginning with Viharamahadevi Park, Colombo.
 
-🤖 *This report was automatically generated on  **Apr 04, 2024 (10:10 AM)**, and is based on **864** plant photos.*
+🤖 *This report was automatically generated on  **Apr 04, 2024 (10:04 PM)**, and is based on **864** plant photos.*
 
 You can also follow us on our Twitter/X page [@lk_plants](https://twitter.com/lk_plants)
 
