@@ -25,7 +25,7 @@ class Order(Taxon):
     def from_species_name(species_name):
         gbif = GBIF(species_name)
         order = Order(
-            name=gbif['order'],
+            name=gbif.data['order'],
             classis=Classis.from_species_name(species_name),
         )
         order.write()

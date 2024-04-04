@@ -9,6 +9,7 @@ from lk_plants.core.taxonomy.Taxon import Taxon
 
 @dataclass
 class Species(Taxon):
+    authorship: str
     genus: Genus
     gbif_id: str
     powo_id: str

@@ -25,7 +25,7 @@ class Classis(Taxon):
     def from_species_name(species_name):
         gbif = GBIF(species_name)
         classis = Classis(
-            name=gbif['class'],
+            name=gbif.data['class_'],
             phylum=Phylum.from_species_name(species_name),
         )
         classis.write()

@@ -7,6 +7,7 @@ from lk_plants.core.taxonomy.Taxon import Taxon
 
 @dataclass
 class Family(Taxon):
+    authorship: str
     order: Order
 
     def to_dict(self):

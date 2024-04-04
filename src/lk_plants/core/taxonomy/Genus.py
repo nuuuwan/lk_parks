@@ -7,6 +7,7 @@ from lk_plants.core.taxonomy.Taxon import Taxon
 
 @dataclass
 class Genus(Taxon):
+    authorship: str
     family: Family
 
     def to_dict(self) -> dict:

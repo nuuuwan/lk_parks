@@ -25,7 +25,7 @@ class Kingdom(Taxon):
     def from_species_name(species_name):
         gbif = GBIF(species_name)
         kingdom = Kingdom(
-            name=gbif['kingdom'],
+            name=gbif.data['kingdom'],
             domain=Domain.EUKARYOTA,
         )
         kingdom.write()

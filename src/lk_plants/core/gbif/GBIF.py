@@ -3,9 +3,7 @@ from functools import cached_property
 
 import pygbif
 from pygbif import species as pygbif_species
-from utils import JSONFile, Log, Parallel
-
-from lk_plants.core.taxonomy import Species
+from utils import JSONFile, Log
 
 pygbif.caching(True)
 
@@ -15,6 +13,7 @@ log = Log('GBIF')
 
 class GBIF:
     DIR_DATA_GBIF = os.path.join('data', 'gbif')
+    DIR_TAXONOMY_SPECIES = os.path.join('data', 'taxonomy', 'species')
     MAX_THREADS = 4
 
     def __init__(self, species_name):
@@ -72,19 +71,24 @@ class GBIF:
         return os.path.join(GBIF.DIR_DATA_GBIF, f"{id}.json")
 
     @staticmethod
+    def get_species_name_list():
+        species_name_list = []
+        for file_name in os.listdir(GBIF.DIR_TAXONOMY_SPECIES):
+            species_name = (
+                file_name.replace('.json', '').title().replace('_', ' ')
+            )
+            species_name_list.append(species_name)
+        return species_name_list
+
+    @staticmethod
     def build():
-        species_list = Species.list_all()
-        n = len(species_list)
-        workers = []
-        for i, species in enumerate(species_list):
+        species_name_list = GBIF.get_species_name_list()
+        n = len(species_name_list)
 
-            def worker(i=i, species=species):
-                log.debug(f'{i+1}/{n}) {species.name}')
-                try:
-                    GBIF(species.name).data
-                except Exception as e:
-                    log.error(f"{species.name}: {e}")
+        for i, species_name in enumerate(species_name_list):
+            log.debug(f'{i+1}/{n}) {species_name}')
+            try:
+                GBIF(species_name).data
 
-            workers.append(worker)
-
-        Parallel.run(workers, max_threads=GBIF.MAX_THREADS)
+            except Exception as e:
+                log.error(f"{species_name}: {e}")

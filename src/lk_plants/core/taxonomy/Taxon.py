@@ -11,7 +11,6 @@ log = Log('Taxon')
 @dataclass
 class Taxon:
     name: str
-    authorship: str
 
     @classmethod
     def get_dir_data(cls) -> str:
@@ -40,8 +39,9 @@ class Taxon:
         return self.get_data_path(self.name)
 
     def write(self):
-        JSONFile(self.data_path).write(self.to_dict())
-        log.info(f'Wrote {self.data_path}')
+        if not os.path.exists(self.data_path):
+            JSONFile(self.data_path).write(self.to_dict())
+            log.info(f'Wrote {self.data_path}')
 
     @classmethod
     def from_name(cls, name: str):
