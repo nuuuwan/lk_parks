@@ -62,7 +62,7 @@ class GBIF:
         observed_genus = data['genus']
         if data['genus'] != expected_genus:
             raise Exception(
-                f'"Genus mismatch: {observed_genus}" != "{expected_genus}"'
+                f'Genus mismatch: "{observed_genus}" != "{expected_genus}"'
             )
         return data
 
