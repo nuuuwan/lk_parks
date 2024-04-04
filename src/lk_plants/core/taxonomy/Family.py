@@ -3,7 +3,7 @@ from dataclasses import dataclass
 
 from lk_plants.core.taxonomy.Order import Order
 from lk_plants.core.taxonomy.Taxon import Taxon
-
+from lk_plants.core.gbif import GBIF
 
 @dataclass
 class Family(Taxon):
@@ -40,6 +40,17 @@ class Family(Taxon):
             name=name,
             authorship=d_family['scientificNameAuthorship'],
             order=Order.from_species_name(name),
+        )
+        family.write()
+        return family
+
+    @staticmethod
+    def from_species_name(species_name):
+        gbif = GBIF(species_name)
+        family = Family(
+            name=gbif.data['family'],
+            authorship="",
+            order=Order.from_species_name(species_name),
         )
         family.write()
         return family
