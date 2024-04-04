@@ -37,20 +37,23 @@ class GBIF:
             name=self.species_name, rank="species", limit=1, strict=True
         )
 
-        data = dict(
-            species_key=gbif_data['speciesKey'],
-            scientific_name=gbif_data['scientificName'],
-            canonical_name=gbif_data['canonicalName'],
-            domain="Eukaryota",
-            kingdom=gbif_data['kingdom'],
-            phylum=gbif_data['phylum'],
-            class_=gbif_data['class'],
-            order=gbif_data['order'],
-            family=gbif_data['family'],
-            genus=gbif_data['genus'],
-            species=gbif_data['species'],
-        )
-
+        try:
+            data = dict(
+                species_key=gbif_data['speciesKey'],
+                scientific_name=gbif_data['scientificName'],
+                canonical_name=gbif_data['canonicalName'],
+                domain="Eukaryota",
+                kingdom=gbif_data['kingdom'],
+                phylum=gbif_data['phylum'],
+                class_=gbif_data['class'],
+                order=gbif_data['order'],
+                family=gbif_data['family'],
+                genus=gbif_data['genus'],
+                species=gbif_data['species'],
+            )
+        except Exception as e:
+            print(gbif_data)
+            raise Exception(f"Failed to get data: {e}")    
         observed_species = data['canonical_name']
         if observed_species != self.species_name:
             raise Exception(
@@ -74,9 +77,10 @@ class GBIF:
     def get_species_name_list():
         species_name_list = []
         for file_name in os.listdir(GBIF.DIR_TAXONOMY_SPECIES):
-            species_name = (
-                file_name.replace('.json', '').title().replace('_', ' ')
-            )
+            tokens = file_name.replace('.json', '').replace('_', ' ').split(' ')
+            species_name = tokens[0].title() + ' ' + tokens[1]
+            
+            
             species_name_list.append(species_name)
         return species_name_list
 
