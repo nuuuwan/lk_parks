@@ -35,12 +35,10 @@ class Family(Taxon):
         if os.path.exists(data_path):
             return Family.from_name(name)
 
-        order = Order.from_family_name(name)
-
         family = Family(
             name=name,
             authorship=d_family['scientificNameAuthorship'],
-            order=order,
+            order=Order.from_species_name(name),
         )
         family.write()
         return family

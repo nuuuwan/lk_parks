@@ -6,5 +6,6 @@ from lk_plants.core.misc import NameTranslator
 from lk_plants.core.plant_net import PlantNetResult
 from lk_plants.core.plant_photo import (PlantPhoto, PlantPhotoBase,
                                         PlantPhotoOriginalImage)
-from lk_plants.core.taxonomy import Family, Genus, Order, Species, Taxon
+from lk_plants.core.taxonomy import (Classis, Domain, Family, Genus, Kingdom,
+                                     Order, Phylum, Species, Taxon)
 from lk_plants.core.wiki import WikiPage
