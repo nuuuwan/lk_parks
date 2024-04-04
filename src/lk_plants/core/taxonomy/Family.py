@@ -1,9 +1,10 @@
 import os
 from dataclasses import dataclass
 
+from lk_plants.core.gbif import GBIF
 from lk_plants.core.taxonomy.Order import Order
 from lk_plants.core.taxonomy.Taxon import Taxon
-from lk_plants.core.gbif import GBIF
+
 
 @dataclass
 class Family(Taxon):

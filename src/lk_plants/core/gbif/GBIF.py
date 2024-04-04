@@ -53,7 +53,7 @@ class GBIF:
             )
         except Exception as e:
             print(gbif_data)
-            raise Exception(f"Failed to get data: {e}")    
+            raise Exception(f"Failed to get data: {e}")
         observed_species = data['canonical_name']
         if observed_species != self.species_name:
             raise Exception(
@@ -77,10 +77,11 @@ class GBIF:
     def get_species_name_list():
         species_name_list = []
         for file_name in os.listdir(GBIF.DIR_TAXONOMY_SPECIES):
-            tokens = file_name.replace('.json', '').replace('_', ' ').split(' ')
+            tokens = (
+                file_name.replace('.json', '').replace('_', ' ').split(' ')
+            )
             species_name = tokens[0].title() + ' ' + tokens[1]
-            
-            
+
             species_name_list.append(species_name)
         return species_name_list
 

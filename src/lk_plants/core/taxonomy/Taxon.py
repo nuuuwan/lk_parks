@@ -39,7 +39,10 @@ class Taxon:
         return self.get_data_path(self.name)
 
     def write(self):
-        if not os.path.exists(self.data_path) or self.__class__.__name__ == 'Family':
+        if (
+            not os.path.exists(self.data_path)
+            or self.__class__.__name__ == 'Family'
+        ):
             JSONFile(self.data_path).write(self.to_dict())
             log.info(f'Wrote {self.data_path}')
 
