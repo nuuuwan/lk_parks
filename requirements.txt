@@ -7,3 +7,4 @@ matplotlib
 pillow==9.5.0
 plotly
 plotly-express
+pygbif
