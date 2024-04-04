@@ -2,7 +2,7 @@ import os
 from dataclasses import dataclass
 from functools import cached_property
 
-from utils import TimeFormat, JSONFile, Log, Time
+from utils import JSONFile, Log, Time, TimeFormat
 
 from utils_future import LatLng
 
