@@ -3,7 +3,7 @@ from functools import cached_property
 
 import pygbif
 from pygbif import species as pygbif_species
-from utils import JSONFile, Log
+from utils import JSONFile, Log, Parallel
 
 from lk_plants.core.taxonomy import Species
 
@@ -15,6 +15,7 @@ log = Log('GBIF')
 
 class GBIF:
     DIR_DATA_GBIF = os.path.join('data', 'gbif')
+    MAX_THREADS = 4
 
     def __init__(self, species_name):
         self.species_name = species_name
@@ -34,7 +35,7 @@ class GBIF:
     @cached_property
     def data_nocache(self):
         gbif_data = pygbif_species.name_backbone(
-            name=self.species_name, rank="species", limit=1
+            name=self.species_name, rank="species", limit=1,strict=True
         )
 
         data = dict(
@@ -74,10 +75,14 @@ class GBIF:
     def build():
         species_list = Species.list_all()
         n = len(species_list)
+        workers = []
         for i, species in enumerate(species_list):
-            log.debug(f'{i+1}/{n}) {species.name}')
-            try:
-                GBIF(species.name).data
-            except Exception as e:
-                log.error(f"{species.name}: {e}")
-                continue
+            def worker(i=i, species=species):
+                log.debug(f'{i+1}/{n}) {species.name}')
+                try:
+                    GBIF(species.name).data
+                except Exception as e:
+                    log.error(f"{species.name}: {e}")
+            workers.append(worker)
+        
+        Parallel.run(workers, max_threads=GBIF.MAX_THREADS)
