@@ -1,4 +1,4 @@
-from lk_plants import (App, DataApp, PlantNetResult, PlantPhoto, ReadMe,
+from lk_plants import (App, DataApp, Kew, PlantNetResult, PlantPhoto, ReadMe,
                        WikiPage)
 
 
@@ -7,6 +7,7 @@ def main():
     PlantNetResult.build_from_plant_photos()
     PlantPhoto.build_contents()
     WikiPage.build()
+    Kew.build()
     DataApp.write_all()
 
     ReadMe().write()

@@ -7,7 +7,7 @@ from lk_plants.analysis import (InfoReadMe, ReadMe, ReadMeAbout, ReadMeApp,
                                 ReadMeStatisticsByTaxonomy, ReadMeSunburst,
                                 ReadMeVMDPark)
 from lk_plants.app import App
-from lk_plants.core import (DataApp, Family, Genus, Kew, NameTranslator, Order,
-                            PlantNetResult, PlantPhoto, PlantPhotoBase,
+from lk_plants.core import (GBIF, DataApp, Family, Genus, NameTranslator,
+                            Order, PlantNetResult, PlantPhoto, PlantPhotoBase,
                             PlantPhotoOriginalImage, Species, Taxon, WikiPage)
 from lk_plants.twtr import Twtr

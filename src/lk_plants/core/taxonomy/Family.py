@@ -1,9 +1,11 @@
 import os
+from dataclasses import dataclass
 
 from lk_plants.core.taxonomy.Order import Order
 from lk_plants.core.taxonomy.Taxon import Taxon
 
 
+@dataclass
 class Family(Taxon):
     order: Order
 
@@ -19,7 +21,9 @@ class Family(Taxon):
         return Family(
             name=d['name'],
             authorship=d['authorship'],
-            order=Order.from_name(d['order_name']),
+            order=Order.from_name(d['order_name'])
+            if 'order_name ' in d
+            else '',
         )
 
     @staticmethod
