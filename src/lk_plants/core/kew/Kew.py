@@ -5,7 +5,7 @@ from functools import cached_property
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
-from utils import Log, JSONFile
+from utils import JSONFile, Log
 
 log = Log('Kew')
 
@@ -15,6 +15,7 @@ class Kew:
         'data',
         'kew',
     )
+
     def __init__(self, powo_id: str):
         self.powo_id = powo_id
 
@@ -35,6 +36,7 @@ class Kew:
             Kew.DIR_DATA_KEW,
             f'{self.powo_id}.json',
         )
+
     @cached_property
     def classification_nocache(self) -> dict:
         options = Options()
@@ -63,7 +65,7 @@ class Kew:
     def data(self) -> dict:
         if os.path.exists(self.file_path):
             return JSONFile(self.file_path).read()
-        
+
         classification = self.classification_nocache
         data = dict(
             powo_id=self.powo_id,
