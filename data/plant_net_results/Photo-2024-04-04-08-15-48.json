@@ -1,0 +1,23 @@
+{
+  "ut_api_call": 1712203718.1220927,
+  "plant_photo_id": "Photo-2024-04-04-08-15-48",
+  "species_name_to_score": {
+    "Syzygium rehderianum": 0.22596,
+    "Syzygium jambos": 0.14187,
+    "Syzygium myrtifolium": 0.01388,
+    "Leucothoe fontanesiana": 0.01096,
+    "Syzygium paniculatum": 0.00673,
+    "Myrtus communis": 0.00505,
+    "Eugenia uniflora": 0.00494,
+    "Syzygium smithii": 0.00409,
+    "Syzygium pondoense": 0.00192,
+    "Myrcia splendens": 0.00179,
+    "Metrosideros umbellata": 0.00169,
+    "Syzygium australe": 0.00147,
+    "Umbellularia californica": 0.00137,
+    "Eugenia rhombea": 0.00136,
+    "Combretum erythrophyllum": 0.00127,
+    "Backhousia citriodora": 0.00101,
+    "Plinia cauliflora": 0.00101
+  }
+}

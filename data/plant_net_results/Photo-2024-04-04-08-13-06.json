@@ -1,0 +1,15 @@
+{
+  "ut_api_call": 1712203673.6287308,
+  "plant_photo_id": "Photo-2024-04-04-08-13-06",
+  "species_name_to_score": {
+    "Pyrrosia lanceolata": 0.48062,
+    "Pleopeltis macrocarpa": 0.40944,
+    "Microgramma squamulosa": 0.01659,
+    "Pyrrosia adnascens": 0.00342,
+    "Acacia heterophylla": 0.00186,
+    "Elaphoglossum tonduzii": 0.00176,
+    "Aeranthes arachnites": 0.00156,
+    "Pleopeltis polypodioides": 0.00147,
+    "Acacia melanoxylon": 0.00125
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1712203632.588543,
+  "plant_photo_id": "Photo-2024-04-04-08-05-11",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.96793,
+    "Eucalyptus camaldulensis": 0.00258,
+    "Eucalyptus globulus": 0.00176,
+    "Syzygium cumini": 0.00128,
+    "Syzygium guineense": 0.00115
+  }
+}

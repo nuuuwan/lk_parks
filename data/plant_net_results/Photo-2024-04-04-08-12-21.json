@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1712203657.5220964,
+  "plant_photo_id": "Photo-2024-04-04-08-12-21",
+  "species_name_to_score": {
+    "Terminalia catappa": 0.91613,
+    "Tectona grandis": 0.03462,
+    "Pouteria torta": 0.02059,
+    "Mimusops coriacea": 0.00189,
+    "Ficus lyrata": 0.00108
+  }
+}

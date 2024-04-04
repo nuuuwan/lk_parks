@@ -1,0 +1,18 @@
+{
+  "ut_api_call": 1712203654.0530212,
+  "plant_photo_id": "Photo-2024-04-04-08-12-04",
+  "species_name_to_score": {
+    "Terminalia catappa": 0.84175,
+    "Barringtonia acutangula": 0.07177,
+    "Terminalia buceras": 0.01242,
+    "Ficus lutea": 0.00901,
+    "Barringtonia asiatica": 0.00668,
+    "Terminalia mantaly": 0.0026,
+    "Careya arborea": 0.00239,
+    "Pseudobombax ellipticum": 0.00238,
+    "Dillenia philippinensis": 0.00183,
+    "Terminalia ivorensis": 0.00168,
+    "Barringtonia racemosa": 0.00142,
+    "Pouteria torta": 0.0011
+  }
+}

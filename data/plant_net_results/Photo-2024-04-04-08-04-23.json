@@ -1,0 +1,17 @@
+{
+  "ut_api_call": 1712203628.5167506,
+  "plant_photo_id": "Photo-2024-04-04-08-04-23",
+  "species_name_to_score": {
+    "Schleichera oleosa": 0.90996,
+    "Pistacia terebinthus": 0.00679,
+    "Kigelia africana": 0.00219,
+    "Paullinia trigonia": 0.00169,
+    "Schotia brachypetala": 0.00158,
+    "Pistacia atlantica": 0.00154,
+    "Geissois racemosa": 0.00138,
+    "Astronium graveolens": 0.00132,
+    "Schinus terebinthifolia": 0.00127,
+    "Cojoba rufescens": 0.00121,
+    "Toxicodendron diversilobum": 0.00113
+  }
+}

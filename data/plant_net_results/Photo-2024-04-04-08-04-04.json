@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1712203624.4760697,
+  "plant_photo_id": "Photo-2024-04-04-08-04-04",
+  "species_name_to_score": {
+    "Melaleuca quinquenervia": 0.79638,
+    "Melaleuca leucadendra": 0.11939,
+    "Tristaniopsis laurina": 0.01381,
+    "Melaleuca viridiflora": 0.01347,
+    "Melaleuca linariifolia": 0.00292,
+    "Maytenus boaria": 0.00224,
+    "Olea europaea": 0.00208,
+    "Phillyrea angustifolia": 0.00205,
+    "Melaleuca saligna": 0.00143,
+    "Acacia confusa": 0.00141
+  }
+}

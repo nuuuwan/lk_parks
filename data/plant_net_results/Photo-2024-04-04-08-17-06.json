@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1712203752.9793634,
+  "plant_photo_id": "Photo-2024-04-04-08-17-06",
+  "species_name_to_score": {
+    "Dracaena angustifolia": 0.71927,
+    "Dracaena reflexa": 0.1831,
+    "Dracaena fragrans": 0.01951,
+    "Yucca gigantea": 0.00408,
+    "Yucca aloifolia": 0.00315,
+    "Dracaena steudneri": 0.00261,
+    "Dracaena cambodiana": 0.00244,
+    "Callisia fragrans": 0.00191,
+    "Dracaena arborea": 0.00171,
+    "Dracaena braunii": 0.00147
+  }
+}

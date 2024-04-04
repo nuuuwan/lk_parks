@@ -1,0 +1,17 @@
+{
+  "ut_api_call": 1712203664.347045,
+  "plant_photo_id": "Photo-2024-04-04-08-12-46",
+  "species_name_to_score": {
+    "Terminalia catappa": 0.90756,
+    "Barringtonia acutangula": 0.03652,
+    "Madhuca longifolia": 0.0101,
+    "Quercus imbricaria": 0.00507,
+    "Artocarpus heterophyllus": 0.00271,
+    "Persea barbujana": 0.00251,
+    "Laurus azorica": 0.0017,
+    "Nyssa sylvatica": 0.00158,
+    "Careya arborea": 0.0013,
+    "Terminalia oblonga": 0.00112,
+    "Anacardium occidentale": 0.00111
+  }
+}

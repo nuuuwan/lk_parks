@@ -1,0 +1,29 @@
+{
+  "ut_api_call": 1712203789.244216,
+  "plant_photo_id": "Photo-2024-04-04-08-20-30",
+  "species_name_to_score": {
+    "Quercus phellos": 0.47804,
+    "Terminalia arjuna": 0.33848,
+    "Syzygium jambos": 0.03467,
+    "Quercus laurifolia": 0.00801,
+    "Corymbia citriodora": 0.0064,
+    "Diospyros mespiliformis": 0.00594,
+    "Saraca asoca": 0.0028,
+    "Salix gmelinii": 0.00272,
+    "Persea indica": 0.00215,
+    "Umbellularia californica": 0.00208,
+    "Salix integra": 0.00206,
+    "Buckinghamia celsissima": 0.00161,
+    "Salix schwerinii": 0.00161,
+    "Elaeocarpus grandiflorus": 0.00154,
+    "Elaeocarpus reticulatus": 0.00145,
+    "Quercus imbricaria": 0.00145,
+    "Syzygium longifolium": 0.00126,
+    "Syzygium floribundum": 0.00118,
+    "Quercus humboldtii": 0.00114,
+    "Triplaris americana": 0.00114,
+    "Diospyros blancoi": 0.00111,
+    "Salix euxina": 0.0011,
+    "Cestrum parqui": 0.00102
+  }
+}

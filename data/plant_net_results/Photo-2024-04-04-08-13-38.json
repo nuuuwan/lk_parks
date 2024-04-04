@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1712203687.702362,
+  "plant_photo_id": "Photo-2024-04-04-08-13-38",
+  "species_name_to_score": {
+    "Artocarpus heterophyllus": 0.96871,
+    "Artocarpus integer": 0.01122,
+    "Ficus septica": 0.00433,
+    "Gardenia taitensis": 0.00164,
+    "Ficus racemosa": 0.0012
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ut_api_call": 1712203764.933539,
+  "plant_photo_id": "Photo-2024-04-04-08-18-07",
+  "species_name_to_score": {
+    "Dypsis lutescens": 0.80547,
+    "Dypsis cabadae": 0.01617,
+    "Hyophorbe indica": 0.00539,
+    "Rhopalostylis baueri": 0.00386,
+    "Ptychosperma macarthurii": 0.00356,
+    "Areca triandra": 0.00355,
+    "Ptychosperma schefferi": 0.00335,
+    "Dictyosperma album": 0.00259,
+    "Archontophoenix myolensis": 0.00256,
+    "Dypsis decaryi": 0.00231,
+    "Archontophoenix cunninghamiana": 0.00225,
+    "Chambeyronia macrocarpa": 0.00198,
+    "Basselinia velutina": 0.0018,
+    "Carpoxylon macrospermum": 0.00165,
+    "Dypsis scottiana": 0.00152,
+    "Dypsis baronii": 0.00145,
+    "Cyphosperma balansae": 0.00142,
+    "Adonidia merrillii": 0.00113
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 1712203703.1715312,
+  "plant_photo_id": "Photo-2024-04-04-08-14-53",
+  "species_name_to_score": {
+    "Dypsis lutescens": 0.93752,
+    "Hyophorbe indica": 0.00836,
+    "Phoenix roebelenii": 0.00371,
+    "Dypsis scottiana": 0.00234,
+    "Phoenix reclinata": 0.00147,
+    "Astrocaryum vulgare": 0.00138,
+    "Dypsis cabadae": 0.0011,
+    "Euterpe oleracea": 0.00102
+  }
+}

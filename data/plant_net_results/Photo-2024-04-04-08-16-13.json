@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1712203727.0841959,
+  "plant_photo_id": "Photo-2024-04-04-08-16-13",
+  "species_name_to_score": {
+    "Cordyline fruticosa": 0.91527,
+    "Cordyline australis": 0.01929,
+    "Cordyline rubra": 0.01548,
+    "Cenchrus americanus": 0.00327,
+    "Cordyline sellowiana": 0.00109
+  }
+}

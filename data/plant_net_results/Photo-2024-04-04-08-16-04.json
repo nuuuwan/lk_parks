@@ -1,0 +1,20 @@
+{
+  "ut_api_call": 1712203722.1154191,
+  "plant_photo_id": "Photo-2024-04-04-08-16-04",
+  "species_name_to_score": {
+    "Ixora chinensis": 0.43054,
+    "Ixora coccinea": 0.30934,
+    "Cestrum parqui": 0.00443,
+    "Ixora javanica": 0.00398,
+    "Ixora finlaysoniana": 0.00183,
+    "Trachelospermum asiaticum": 0.00173,
+    "Malacothamnus davidsonii": 0.00164,
+    "Berberis julianae": 0.00157,
+    "Tabernaemontana divaricata": 0.00154,
+    "Pseudomussaenda flava": 0.00143,
+    "Rhododendron luteum": 0.00143,
+    "Pittosporum heterophyllum": 0.00119,
+    "Rhododendron calendulaceum": 0.00108,
+    "Tabernaemontana pandacaqui": 0.00104
+  }
+}

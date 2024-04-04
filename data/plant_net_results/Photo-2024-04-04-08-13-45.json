@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 1712203690.687678,
+  "plant_photo_id": "Photo-2024-04-04-08-13-45",
+  "species_name_to_score": {
+    "Artocarpus heterophyllus": 0.64036,
+    "Artocarpus integer": 0.09918,
+    "Pyrus communis": 0.02705,
+    "Sloanea synandra": 0.00419,
+    "Pyrus cordata": 0.00335,
+    "Malus domestica": 0.00305,
+    "Theobroma cacao": 0.00297,
+    "Persea americana": 0.00296,
+    "Artocarpus hirsutus": 0.00248,
+    "Saba comorensis": 0.00217,
+    "Neolamarckia cadamba": 0.00191,
+    "Citrus maxima": 0.00176,
+    "Cydonia oblonga": 0.00159,
+    "Juglans regia": 0.00149,
+    "Pseudocydonia sinensis": 0.00146,
+    "Xylocarpus moluccensis": 0.00139,
+    "Malus sylvestris": 0.00129,
+    "Caryocar brasiliense": 0.00124,
+    "Aegle marmelos": 0.00105,
+    "Panda oleosa": 0.00104,
+    "Mammea americana": 0.00101
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 1712203602.908951,
+  "plant_photo_id": "Photo-2024-04-04-07-47-58",
+  "species_name_to_score": {
+    "Ochna serrulata": 0.06516,
+    "Ochna integerrima": 0.0499,
+    "Camellia sasanqua": 0.00507,
+    "Ochna multiflora": 0.00447,
+    "Eugenia brasiliensis": 0.00274,
+    "Eugenia uniflora": 0.0024,
+    "Camellia sinensis": 0.00215,
+    "Ixanthus viscosus": 0.00208,
+    "Hypericum calycinum": 0.00199,
+    "Ochna insculpta": 0.00189,
+    "Dillenia suffruticosa": 0.00184,
+    "Arbutus andrachne": 0.00181,
+    "Jasminum mesnyi": 0.00175,
+    "Ochna natalitia": 0.00175,
+    "Stigmaphyllon diversifolium": 0.00144,
+    "Hibbertia scandens": 0.00137,
+    "Hypericum beanii": 0.00134,
+    "Hypericum frondosum": 0.00128,
+    "Chaenomeles speciosa": 0.00127,
+    "Xylotheca kraussiana": 0.00126,
+    "Dillenia alata": 0.00126
+  }
+}

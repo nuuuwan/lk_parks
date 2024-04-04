@@ -1,0 +1,14 @@
+{
+  "ut_api_call": 1712203730.5598044,
+  "plant_photo_id": "Photo-2024-04-04-08-16-21",
+  "species_name_to_score": {
+    "Pseuderanthemum maculatum": 0.51883,
+    "Graptophyllum pictum": 0.01458,
+    "Viburnum odoratissimum": 0.007,
+    "Brunfelsia uniflora": 0.00257,
+    "Tabernaemontana divaricata": 0.00227,
+    "Coffea arabica": 0.00179,
+    "Gardenia jasminoides": 0.00143,
+    "Brunfelsia pauciflora": 0.00107
+  }
+}

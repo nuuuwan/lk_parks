@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1712203642.0654175,
+  "plant_photo_id": "Photo-2024-04-04-08-09-13",
+  "species_name_to_score": {
+    "Mimusops elengi": 0.90046,
+    "Manilkara zapota": 0.0069,
+    "Sideroxylon foetidissimum": 0.00305,
+    "Pittosporum undulatum": 0.0015,
+    "Mimusops zeyheri": 0.00134
+  }
+}

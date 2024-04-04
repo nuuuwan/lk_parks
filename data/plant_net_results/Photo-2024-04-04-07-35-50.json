@@ -1,0 +1,32 @@
+{
+  "ut_api_call": 1712203594.6755378,
+  "plant_photo_id": "Photo-2024-04-04-07-35-50",
+  "species_name_to_score": {
+    "Mimusops elengi": 0.75585,
+    "Elaeocarpus serratus": 0.01536,
+    "Searsia chirindensis": 0.0131,
+    "Flacourtia jangomas": 0.00633,
+    "Eugenia myrcianthes": 0.0052,
+    "Myristica fragrans": 0.004,
+    "Mangifera indica": 0.00365,
+    "Shorea roxburghii": 0.00332,
+    "Prunus umbellata": 0.00326,
+    "Cariniana legalis": 0.00286,
+    "Capparis artensis": 0.0024,
+    "Barringtonia acutangula": 0.0022,
+    "Drypetes deplanchei": 0.00197,
+    "Ficus citrifolia": 0.00174,
+    "Irvingia gabonensis": 0.00154,
+    "Hippomane mancinella": 0.00144,
+    "Spondias mombin": 0.00143,
+    "Capparis quiniflora": 0.00127,
+    "Sapindus oahuensis": 0.00122,
+    "Pouteria eugeniifolia": 0.00111,
+    "Campomanesia xanthocarpa": 0.0011,
+    "Platymiscium pinnatum": 0.00106,
+    "Aphanamixis polystachya": 0.00104,
+    "Putranjiva roxburghii": 0.00103,
+    "Pleiogynium timoriense": 0.00102,
+    "Alyxia rubricaulis": 0.00101
+  }
+}

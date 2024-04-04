@@ -1,0 +1,25 @@
+{
+  "ut_api_call": 1712203695.443059,
+  "plant_photo_id": "Photo-2024-04-04-08-13-57",
+  "species_name_to_score": {
+    "Cocos nucifera": 0.85011,
+    "Acanthophoenix rubra": 0.01272,
+    "Dictyosperma album": 0.0081,
+    "Oncosperma horridum": 0.00384,
+    "Euterpe edulis": 0.00246,
+    "Phoenix reclinata": 0.00231,
+    "Bactris gasipaes": 0.0019,
+    "Rhopaloblaste ceramica": 0.00177,
+    "Syagrus botryophora": 0.00155,
+    "Heterospathe elata": 0.00155,
+    "Parajubaea torallyi": 0.00142,
+    "Jubaea chilensis": 0.00142,
+    "Cycas pectinata": 0.00136,
+    "Dypsis lastelliana": 0.00133,
+    "Syagrus amara": 0.00114,
+    "Phoenix roebelenii": 0.00107,
+    "Ravenea rivularis": 0.00107,
+    "Attalea rostrata": 0.00104,
+    "Acrocomia aculeata": 0.00101
+  }
+}

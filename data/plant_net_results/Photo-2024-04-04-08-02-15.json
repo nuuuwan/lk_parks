@@ -1,0 +1,26 @@
+{
+  "ut_api_call": 1712203620.0971406,
+  "plant_photo_id": "Photo-2024-04-04-08-02-15",
+  "species_name_to_score": {
+    "Ficus benghalensis": 0.693,
+    "Ficus altissima": 0.05475,
+    "Ficus septica": 0.04237,
+    "Ficus lutea": 0.03485,
+    "Ficus aurea": 0.03003,
+    "Ficus thonningii": 0.02343,
+    "Ficus callosa": 0.01953,
+    "Ficus luschnathiana": 0.01179,
+    "Ficus ingens": 0.00941,
+    "Ficus insipida": 0.00568,
+    "Artocarpus heterophyllus": 0.00359,
+    "Ficus nymphaeifolia": 0.00347,
+    "Ficus petiolaris": 0.00268,
+    "Magnolia delavayi": 0.00239,
+    "Ficus abutilifolia": 0.00235,
+    "Ficus rubiginosa": 0.00227,
+    "Populus balsamifera": 0.00181,
+    "Ficus lyrata": 0.00156,
+    "Populus simonii": 0.00122,
+    "Ficus racemosa": 0.0011
+  }
+}

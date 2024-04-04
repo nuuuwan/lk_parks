@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 1712203669.299182,
+  "plant_photo_id": "Photo-2024-04-04-08-12-58",
+  "species_name_to_score": {
+    "Terminalia catappa": 0.80471,
+    "Pouteria torta": 0.02553,
+    "Tectona grandis": 0.01855,
+    "Terminalia buceras": 0.00965,
+    "Cordia dodecandra": 0.00486,
+    "Pseudobombax ellipticum": 0.00426,
+    "Coccoloba pubescens": 0.00399,
+    "Ficus lyrata": 0.00384,
+    "Caryocar brasiliense": 0.00315,
+    "Handroanthus ochraceus": 0.00267,
+    "Barringtonia acutangula": 0.00215,
+    "Cybistax antisyphilitica": 0.0021,
+    "Zeyheria tuberculosa": 0.00198,
+    "Terminalia amazonia": 0.00157,
+    "Magnolia obovata": 0.0013,
+    "Piliostigma thonningii": 0.00126,
+    "Ficus lutea": 0.00124,
+    "Vitex lucens": 0.00115,
+    "Terminalia rubricarpa": 0.00112,
+    "Godmania aesculifolia": 0.00109,
+    "Careya arborea": 0.00104
+  }
+}

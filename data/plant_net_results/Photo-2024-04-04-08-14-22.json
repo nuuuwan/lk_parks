@@ -1,0 +1,19 @@
+{
+  "ut_api_call": 1712203699.032005,
+  "plant_photo_id": "Photo-2024-04-04-08-14-22",
+  "species_name_to_score": {
+    "Citrus aurantiifolia": 0.41432,
+    "Citrus maxima": 0.22809,
+    "Citrus limon": 0.10595,
+    "Citrus aurantium": 0.04835,
+    "Citrus hystrix": 0.03509,
+    "Citrus medica": 0.02318,
+    "Citrus latifolia": 0.01113,
+    "Aegle marmelos": 0.00502,
+    "Citrus trifoliata": 0.00366,
+    "Swinglea glutinosa": 0.00276,
+    "Annona glabra": 0.00184,
+    "Maclura pomifera": 0.00153,
+    "Psidium guajava": 0.00109
+  }
+}

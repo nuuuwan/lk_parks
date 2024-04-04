@@ -1,0 +1,26 @@
+{
+  "ut_api_call": 1712203645.8589444,
+  "plant_photo_id": "Photo-2024-04-04-08-11-34",
+  "species_name_to_score": {
+    "Morinda citrifolia": 0.56569,
+    "Morinda panamensis": 0.00806,
+    "Gardenia taitensis": 0.00552,
+    "Psychotria punctata": 0.00367,
+    "Anacardium occidentale": 0.00263,
+    "Gardenia aubryi": 0.0025,
+    "Psychotria nervosa": 0.00234,
+    "Genipa americana": 0.00199,
+    "Calotropis procera": 0.00193,
+    "Ficus septica": 0.00169,
+    "Dendrocnide latifolia": 0.00164,
+    "Lophanthera lactescens": 0.00131,
+    "Coffea canephora": 0.00127,
+    "Gardenia jasminoides": 0.00124,
+    "Chimarrhis cymosa": 0.00116,
+    "Tabernaemontana divaricata": 0.00116,
+    "Gynochthodes billardierei": 0.00113,
+    "Coffea arabica": 0.00111,
+    "Alibertia patinoi": 0.00108,
+    "Coccoloba venosa": 0.00107
+  }
+}
