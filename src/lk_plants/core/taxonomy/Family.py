@@ -1,6 +1,6 @@
 import os
 
-from lk_plants.core.taxonomy.Order import Order
+from lk_plants.core.taxonomy.higher.Order import Order
 from lk_plants.core.taxonomy.Taxon import Taxon
 
 

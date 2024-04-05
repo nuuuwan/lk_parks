@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 
-from lk_plants.core.taxonomy.Phylum import Phylum
+from lk_plants.core.taxonomy.higher.Phylum import Phylum
 from lk_plants.core.taxonomy.Taxon import Taxon
 
 

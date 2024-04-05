@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 
-from lk_plants.core.taxonomy.Domain import Domain
+from lk_plants.core.taxonomy.higher.Domain import Domain
 from lk_plants.core.taxonomy.Taxon import Taxon
 
 
