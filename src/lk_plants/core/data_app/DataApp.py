@@ -40,7 +40,6 @@ class DataApp:
             d['species']['family_name'] = species.genus.family.name
             del d['species']['parent_name']
 
-
             d['wiki_page'] = WikiPage.from_wiki_page_name(
                 species.wiki_page_name
             ).to_dict()
