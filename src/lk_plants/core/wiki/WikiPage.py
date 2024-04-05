@@ -123,7 +123,7 @@ class WikiPage:
         for k in ['()', '( or )']:
             text = text.replace(k, '')
         text = re.sub(f'\\s+', ' ', text).strip()
-        if 'may refer to' in text:
+        if 'may refer to' in text or 'may also refer' in text:
             return 'See ' + Markdown.wiki_link(self.wiki_page_name)
 
         if len(text) <= n_chars:
