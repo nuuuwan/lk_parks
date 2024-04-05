@@ -8,6 +8,8 @@ from lk_plants.analysis.readme_pages.ReadMeFunnel import ReadMeFunnel
 from lk_plants.analysis.readme_pages.ReadMeFunnelByDay import ReadMeFunnelByDay
 from lk_plants.analysis.readme_pages.ReadMeIdentification import \
     ReadMeIdentification
+from lk_plants.analysis.readme_pages.ReadMeIdentificationCommon import \
+    ReadMeIdentificationCommon
 from lk_plants.analysis.readme_pages.ReadMeMostCommonSpecies import \
     ReadMeMostCommonSpecies
 from lk_plants.analysis.readme_pages.ReadMePlantNet import ReadMePlantNet

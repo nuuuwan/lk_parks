@@ -3,6 +3,7 @@
 from lk_plants.analysis import (InfoReadMe, ReadMe, ReadMeAbout, ReadMeApp,
                                 ReadMeDifficultIds, ReadMeFunnel,
                                 ReadMeFunnelByDay, ReadMeIdentification,
+                                ReadMeIdentificationCommon,
                                 ReadMeMostCommonSpecies, ReadMePlantNet,
                                 ReadMeStatisticsByTaxonomy, ReadMeSunburst,
                                 ReadMeVMDPark)
