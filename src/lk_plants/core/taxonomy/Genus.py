@@ -1,7 +1,7 @@
 import os
 
 from lk_plants.core.taxonomy.Family import Family
-from lk_plants.core.taxonomy.Taxon import Taxon
+from lk_plants.core.taxonomy.taxon.Taxon import Taxon
 
 
 class Genus(Taxon):

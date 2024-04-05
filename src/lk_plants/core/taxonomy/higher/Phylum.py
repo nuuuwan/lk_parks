@@ -1,7 +1,7 @@
 from dataclasses import dataclass
 
 from lk_plants.core.taxonomy.higher.Kingdom import Kingdom
-from lk_plants.core.taxonomy.Taxon import Taxon
+from lk_plants.core.taxonomy.taxon.Taxon import Taxon
 
 
 @dataclass

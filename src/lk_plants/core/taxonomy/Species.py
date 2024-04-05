@@ -4,7 +4,7 @@ from functools import cache, cached_property
 
 from lk_plants.core.misc.NameTranslator import NameTranslator
 from lk_plants.core.taxonomy.Genus import Genus
-from lk_plants.core.taxonomy.Taxon import Taxon
+from lk_plants.core.taxonomy.taxon.Taxon import Taxon
 
 
 @dataclass
@@ -17,7 +17,7 @@ class Species(Taxon):
 
     def __hash__(self):
         return hash(self.__class__.__name__ + '.' + self.name)
-    
+
     @property
     def genus(self):
         return self.parent
@@ -41,8 +41,6 @@ class Species(Taxon):
 
     @staticmethod
     def from_dict(d):
-        
-
         parent = None
         needs_update = False
         if 'parent_name' in d:
@@ -50,7 +48,7 @@ class Species(Taxon):
         elif 'genus_name' in d:
             parent = Genus.from_name(d['genus_name'])
             needs_update = True
-        
+
         species = Species(
             name=d['name'],
             authorship=d['authorship'],
@@ -65,6 +63,7 @@ class Species(Taxon):
         if needs_update:
             species.write(force=True)
         return species
+
     @staticmethod
     def from_plant_net_raw_result(d: dict) -> 'Species':
         d_species = d['species']

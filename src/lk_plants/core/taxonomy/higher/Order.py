@@ -1,5 +1,5 @@
 from lk_plants.core.taxonomy.higher.Classis import Classis
-from lk_plants.core.taxonomy.Taxon import Taxon
+from lk_plants.core.taxonomy.taxon.Taxon import Taxon
 
 
 class Order(Taxon):

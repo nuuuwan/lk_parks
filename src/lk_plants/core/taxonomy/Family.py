@@ -1,7 +1,7 @@
 import os
 
 from lk_plants.core.taxonomy.higher.Order import Order
-from lk_plants.core.taxonomy.Taxon import Taxon
+from lk_plants.core.taxonomy.taxon.Taxon import Taxon
 
 
 class Family(Taxon):

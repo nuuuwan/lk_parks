@@ -12,7 +12,6 @@ log = Log('PlantNetResultIdentify')
 
 
 class PlantNetResultIdentify:
-   
     URL_BASE = 'https://my-api.plantnet.org'
 
     T_DELAY = 1
@@ -94,18 +93,12 @@ class PlantNetResultIdentify:
 
     @classmethod
     def filter_with_no_results(cls, plant_photo: PlantPhoto):
-        return not os.path.exists(
-            cls.get_data_path(plant_photo.id)
-        )
+        return not os.path.exists(cls.get_data_path(plant_photo.id))
 
     @classmethod
     def from_plant_photo(cls, plant_photo: PlantPhoto):
-        if os.path.exists(
-            cls.get_data_path(plant_photo.id)
-        ):
-            plant_net_result = cls.from_plant_photo_id(
-                plant_photo.id
-            )
+        if os.path.exists(cls.get_data_path(plant_photo.id)):
+            plant_net_result = cls.from_plant_photo_id(plant_photo.id)
 
             return plant_net_result
 
