@@ -1,8 +1,7 @@
 {
   "name": "Pseudobombax grandiflorum",
   "authorship": "(Cav.) A.Robyns",
-  "genus_name": "Pseudobombax",
-  "family_name": "Malvaceae",
+  "parent_name": "Pseudobombax",
   "gbif_id": "7296187",
   "powo_id": "211230-2",
   "iucn_id": "218545367",

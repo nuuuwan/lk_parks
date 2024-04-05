@@ -1,8 +1,7 @@
 {
   "name": "Syzygium paniculatum",
   "authorship": "Gaertn.",
-  "genus_name": "Syzygium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syzygium",
   "gbif_id": "3184108",
   "powo_id": "602052-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Cordia dichotoma",
   "authorship": "G.Forst.",
-  "genus_name": "Cordia",
-  "family_name": "Boraginaceae",
+  "parent_name": "Cordia",
   "gbif_id": "5341270",
   "powo_id": "114098-1",
   "iucn_id": "61986401",

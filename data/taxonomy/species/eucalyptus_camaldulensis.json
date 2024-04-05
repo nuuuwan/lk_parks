@@ -1,8 +1,7 @@
 {
   "name": "Eucalyptus camaldulensis",
   "authorship": "Dehnh.",
-  "genus_name": "Eucalyptus",
-  "family_name": "Myrtaceae",
+  "parent_name": "Eucalyptus",
   "gbif_id": "3176197",
   "powo_id": "592777-1",
   "iucn_id": "61909812",

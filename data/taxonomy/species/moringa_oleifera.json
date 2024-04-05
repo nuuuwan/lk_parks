@@ -1,8 +1,7 @@
 {
   "name": "Moringa oleifera",
   "authorship": "Lam.",
-  "genus_name": "Moringa",
-  "family_name": "Moringaceae",
+  "parent_name": "Moringa",
   "gbif_id": "3054181",
   "powo_id": "584736-1",
   "iucn_id": "61890232",

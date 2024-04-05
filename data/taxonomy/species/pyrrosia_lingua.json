@@ -1,8 +1,7 @@
 {
   "name": "Pyrrosia lingua",
   "authorship": "(Thunb.) Farw.",
-  "genus_name": "Pyrrosia",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Pyrrosia",
   "gbif_id": "7290072",
   "powo_id": "60445932-2",
   "iucn_id": null,

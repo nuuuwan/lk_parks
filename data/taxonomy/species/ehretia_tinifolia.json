@@ -1,8 +1,7 @@
 {
   "name": "Ehretia tinifolia",
   "authorship": "L.",
-  "genus_name": "Ehretia",
-  "family_name": "Boraginaceae",
+  "parent_name": "Ehretia",
   "gbif_id": "7751398",
   "powo_id": "116139-1",
   "iucn_id": "204784326",

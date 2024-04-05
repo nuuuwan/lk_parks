@@ -1,8 +1,7 @@
 {
   "name": "Osmoxylon lineare",
   "authorship": "(Merr.) Philipson",
-  "genus_name": "Osmoxylon",
-  "family_name": "Araliaceae",
+  "parent_name": "Osmoxylon",
   "gbif_id": "3037188",
   "powo_id": "91363-1",
   "iucn_id": null,

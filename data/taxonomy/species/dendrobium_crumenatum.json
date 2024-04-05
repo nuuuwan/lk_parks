@@ -1,8 +1,7 @@
 {
   "name": "Dendrobium crumenatum",
   "authorship": "Sw.",
-  "genus_name": "Dendrobium",
-  "family_name": "Orchidaceae",
+  "parent_name": "Dendrobium",
   "gbif_id": "5316744",
   "powo_id": "627202-1",
   "iucn_id": null,

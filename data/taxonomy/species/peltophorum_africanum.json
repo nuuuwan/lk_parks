@@ -1,8 +1,7 @@
 {
   "name": "Peltophorum africanum",
   "authorship": "Sond.",
-  "genus_name": "Peltophorum",
-  "family_name": "Fabaceae",
+  "parent_name": "Peltophorum",
   "gbif_id": "2952780",
   "powo_id": "513010-1",
   "iucn_id": "47608213",

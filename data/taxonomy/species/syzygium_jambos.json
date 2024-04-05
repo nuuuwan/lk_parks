@@ -1,8 +1,7 @@
 {
   "name": "Syzygium jambos",
   "authorship": "(L.) Alston",
-  "genus_name": "Syzygium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syzygium",
   "gbif_id": "3183534",
   "powo_id": "601802-1",
   "iucn_id": "49487025",

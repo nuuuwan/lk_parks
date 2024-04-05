@@ -1,8 +1,7 @@
 {
   "name": "Dillenia indica",
   "authorship": "L.",
-  "genus_name": "Dillenia",
-  "family_name": "Dilleniaceae",
+  "parent_name": "Dillenia",
   "gbif_id": "5383898",
   "powo_id": "316684-1",
   "iucn_id": "61994577",

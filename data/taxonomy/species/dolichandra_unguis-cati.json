@@ -1,8 +1,7 @@
 {
   "name": "Dolichandra unguis-cati",
   "authorship": "(L.) L.G.Lohmann",
-  "genus_name": "Dolichandra",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Dolichandra",
   "gbif_id": "5830619",
   "powo_id": "77100466-1",
   "iucn_id": null,

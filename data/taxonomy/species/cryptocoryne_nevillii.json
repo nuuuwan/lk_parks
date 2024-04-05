@@ -1,8 +1,7 @@
 {
   "name": "Cryptocoryne nevillii",
   "authorship": "Trimen",
-  "genus_name": "Cryptocoryne",
-  "family_name": "Araceae",
+  "parent_name": "Cryptocoryne",
   "gbif_id": "2869133",
   "powo_id": "86716-1",
   "iucn_id": "175654238",

@@ -1,8 +1,7 @@
 {
   "name": "Spathodea campanulata",
   "authorship": "P.Beauv.",
-  "genus_name": "Spathodea",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Spathodea",
   "gbif_id": "3172574",
   "powo_id": "110661-1",
   "iucn_id": "49196213",

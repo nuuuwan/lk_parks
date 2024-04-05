@@ -1,8 +1,7 @@
 {
   "name": "Premna serratifolia",
   "authorship": "L.",
-  "genus_name": "Premna",
-  "family_name": "Lamiaceae",
+  "parent_name": "Premna",
   "gbif_id": "6411486",
   "powo_id": "864424-1",
   "iucn_id": "66295794",

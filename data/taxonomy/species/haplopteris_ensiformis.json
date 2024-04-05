@@ -1,8 +1,7 @@
 {
   "name": "Haplopteris ensiformis",
   "authorship": "(Sw.) E.H.Crane",
-  "genus_name": "Haplopteris",
-  "family_name": "Pteridaceae",
+  "parent_name": "Haplopteris",
   "gbif_id": "4047677",
   "powo_id": "1133878-2",
   "iucn_id": null,

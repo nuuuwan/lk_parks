@@ -1,8 +1,7 @@
 {
   "name": "Flacourtia montana",
   "authorship": "J.Graham",
-  "genus_name": "Flacourtia",
-  "family_name": "Salicaceae",
+  "parent_name": "Flacourtia",
   "gbif_id": "5603911",
   "powo_id": "111663-1",
   "iucn_id": null,

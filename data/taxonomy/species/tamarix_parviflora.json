@@ -1,8 +1,7 @@
 {
   "name": "Tamarix parviflora",
   "authorship": "DC.",
-  "genus_name": "Tamarix",
-  "family_name": "Tamaricaceae",
+  "parent_name": "Tamarix",
   "gbif_id": "2874706",
   "powo_id": "828188-1",
   "iucn_id": "19179463",

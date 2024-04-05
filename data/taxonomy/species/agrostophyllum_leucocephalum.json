@@ -1,8 +1,7 @@
 {
   "name": "Agrostophyllum leucocephalum",
   "authorship": "Schltr.",
-  "genus_name": "Agrostophyllum",
-  "family_name": "Orchidaceae",
+  "parent_name": "Agrostophyllum",
   "gbif_id": "2802915",
   "powo_id": "615465-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Syzygium samarangense",
   "authorship": "(Blume) Merr. & L.M.Perry",
-  "genus_name": "Syzygium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syzygium",
   "gbif_id": "3183180",
   "powo_id": "602209-1",
   "iucn_id": "136144075",

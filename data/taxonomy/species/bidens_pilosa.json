@@ -1,8 +1,7 @@
 {
   "name": "Bidens pilosa",
   "authorship": "L.",
-  "genus_name": "Bidens",
-  "family_name": "Asteraceae",
+  "parent_name": "Bidens",
   "gbif_id": "5391845",
   "powo_id": "32564-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Barringtonia acutangula",
   "authorship": "(L.) Gaertn.",
-  "genus_name": "Barringtonia",
-  "family_name": "Lecythidaceae",
+  "parent_name": "Barringtonia",
   "gbif_id": "3082835",
   "powo_id": "591177-1",
   "iucn_id": "61533369",

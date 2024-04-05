@@ -1,8 +1,7 @@
 {
   "name": "Celtis laevigata",
   "authorship": "Willd.",
-  "genus_name": "Celtis",
-  "family_name": "Cannabaceae",
+  "parent_name": "Celtis",
   "gbif_id": "2984491",
   "powo_id": "836997-1",
   "iucn_id": "61987968",

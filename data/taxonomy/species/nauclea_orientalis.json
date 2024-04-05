@@ -1,8 +1,7 @@
 {
   "name": "Nauclea orientalis",
   "authorship": "(L.) L.",
-  "genus_name": "Nauclea",
-  "family_name": "Rubiaceae",
+  "parent_name": "Nauclea",
   "gbif_id": "5339133",
   "powo_id": "757181-1",
   "iucn_id": "61958275",

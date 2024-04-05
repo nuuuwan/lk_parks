@@ -1,8 +1,7 @@
 {
   "name": "Jacaranda cuspidifolia",
   "authorship": "Mart.",
-  "genus_name": "Jacaranda",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Jacaranda",
   "gbif_id": "8273148",
   "powo_id": "109795-1",
   "iucn_id": "61985705",

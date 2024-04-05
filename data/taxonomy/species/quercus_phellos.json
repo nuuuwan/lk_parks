@@ -1,8 +1,7 @@
 {
   "name": "Quercus phellos",
   "authorship": "L.",
-  "genus_name": "Quercus",
-  "family_name": "Fagaceae",
+  "parent_name": "Quercus",
   "gbif_id": "2880652",
   "powo_id": "284113-2",
   "iucn_id": "194220",

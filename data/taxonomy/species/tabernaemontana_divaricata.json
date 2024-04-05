@@ -1,8 +1,7 @@
 {
   "name": "Tabernaemontana divaricata",
   "authorship": "(L.) R.Br. ex Roem. & Schult.",
-  "genus_name": "Tabernaemontana",
-  "family_name": "Apocynaceae",
+  "parent_name": "Tabernaemontana",
   "gbif_id": "3169625",
   "powo_id": "82097-1",
   "iucn_id": "149853146",

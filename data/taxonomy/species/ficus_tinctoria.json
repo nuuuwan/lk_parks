@@ -1,8 +1,7 @@
 {
   "name": "Ficus tinctoria",
   "authorship": "G.Forst.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "3767426",
   "powo_id": "853840-1",
   "iucn_id": "143277299",

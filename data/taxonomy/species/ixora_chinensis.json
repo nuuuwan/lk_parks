@@ -1,8 +1,7 @@
 {
   "name": "Ixora chinensis",
   "authorship": "Lam.",
-  "genus_name": "Ixora",
-  "family_name": "Rubiaceae",
+  "parent_name": "Ixora",
   "gbif_id": "2905600",
   "powo_id": "753834-1",
   "iucn_id": null,

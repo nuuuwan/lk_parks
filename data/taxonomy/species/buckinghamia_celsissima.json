@@ -1,8 +1,7 @@
 {
   "name": "Buckinghamia celsissima",
   "authorship": "F.Muell.",
-  "genus_name": "Buckinghamia",
-  "family_name": "Proteaceae",
+  "parent_name": "Buckinghamia",
   "gbif_id": "8278148",
   "powo_id": "703236-1",
   "iucn_id": null,

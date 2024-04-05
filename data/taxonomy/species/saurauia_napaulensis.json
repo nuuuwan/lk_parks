@@ -1,8 +1,7 @@
 {
   "name": "Saurauia napaulensis",
   "authorship": "DC.",
-  "genus_name": "Saurauia",
-  "family_name": "Actinidiaceae",
+  "parent_name": "Saurauia",
   "gbif_id": "7270803",
   "powo_id": "829373-1",
   "iucn_id": "147632550",

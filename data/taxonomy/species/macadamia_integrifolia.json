@@ -1,8 +1,7 @@
 {
   "name": "Macadamia integrifolia",
   "authorship": "Maiden & Betche",
-  "genus_name": "Macadamia",
-  "family_name": "Proteaceae",
+  "parent_name": "Macadamia",
   "gbif_id": "2891785",
   "powo_id": "705192-1",
   "iucn_id": "113180064",

@@ -1,8 +1,7 @@
 {
   "name": "Eria rostriflora",
   "authorship": "Rchb.f.",
-  "genus_name": "Eria",
-  "family_name": "Orchidaceae",
+  "parent_name": "Eria",
   "gbif_id": "2815166",
   "powo_id": "634054-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Erythroxylum coca",
   "authorship": "Lam.",
-  "genus_name": "Erythroxylum",
-  "family_name": "Erythroxylaceae",
+  "parent_name": "Erythroxylum",
   "gbif_id": "2873939",
   "powo_id": "330132-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Phoradendron quadrangulare",
   "authorship": "(Kunth) Griseb.",
-  "genus_name": "Phoradendron",
-  "family_name": "Santalaceae",
+  "parent_name": "Phoradendron",
   "gbif_id": "2889874",
   "powo_id": "60443757-2",
   "iucn_id": null,

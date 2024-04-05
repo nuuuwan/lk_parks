@@ -1,8 +1,7 @@
 {
   "name": "Fraxinus velutina",
   "authorship": "Torr.",
-  "genus_name": "Fraxinus",
-  "family_name": "Oleaceae",
+  "parent_name": "Fraxinus",
   "gbif_id": "3172334",
   "powo_id": "609264-1",
   "iucn_id": "96444728",

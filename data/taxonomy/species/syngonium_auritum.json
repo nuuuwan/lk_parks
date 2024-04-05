@@ -1,8 +1,7 @@
 {
   "name": "Syngonium auritum",
   "authorship": "(L.) Schott",
-  "genus_name": "Syngonium",
-  "family_name": "Araceae",
+  "parent_name": "Syngonium",
   "gbif_id": "2867841",
   "powo_id": "89130-1",
   "iucn_id": null,

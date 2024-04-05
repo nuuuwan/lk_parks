@@ -1,8 +1,7 @@
 {
   "name": "Cattleya forbesii",
   "authorship": "Lindl.",
-  "genus_name": "Cattleya",
-  "family_name": "Orchidaceae",
+  "parent_name": "Cattleya",
   "gbif_id": "2800871",
   "powo_id": "622082-1",
   "iucn_id": null,

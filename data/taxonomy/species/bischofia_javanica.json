@@ -1,8 +1,7 @@
 {
   "name": "Bischofia javanica",
   "authorship": "Blume",
-  "genus_name": "Bischofia",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Bischofia",
   "gbif_id": "5383085",
   "powo_id": "339921-1",
   "iucn_id": "61956399",

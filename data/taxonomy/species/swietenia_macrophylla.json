@@ -1,8 +1,7 @@
 {
   "name": "Swietenia macrophylla",
   "authorship": "King",
-  "genus_name": "Swietenia",
-  "family_name": "Meliaceae",
+  "parent_name": "Swietenia",
   "gbif_id": "3190484",
   "powo_id": "246905-2",
   "iucn_id": "32293",

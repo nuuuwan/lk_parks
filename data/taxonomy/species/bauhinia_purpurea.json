@@ -1,8 +1,7 @@
 {
   "name": "Bauhinia purpurea",
   "authorship": "L.",
-  "genus_name": "Bauhinia",
-  "family_name": "Fabaceae",
+  "parent_name": "Bauhinia",
   "gbif_id": "2953871",
   "powo_id": "481605-1",
   "iucn_id": "19891953",

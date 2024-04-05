@@ -1,8 +1,7 @@
 {
   "name": "Dimocarpus longan",
   "authorship": "Lour.",
-  "genus_name": "Dimocarpus",
-  "family_name": "Sapindaceae",
+  "parent_name": "Dimocarpus",
   "gbif_id": "3190008",
   "powo_id": "782795-1",
   "iucn_id": "32399",

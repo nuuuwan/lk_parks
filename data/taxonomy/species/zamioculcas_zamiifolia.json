@@ -1,8 +1,7 @@
 {
   "name": "Zamioculcas zamiifolia",
   "authorship": "(G.Lodd.) Engl.",
-  "genus_name": "Zamioculcas",
-  "family_name": "Araceae",
+  "parent_name": "Zamioculcas",
   "gbif_id": "2869014",
   "powo_id": "89402-1",
   "iucn_id": null,

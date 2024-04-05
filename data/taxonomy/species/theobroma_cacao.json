@@ -1,8 +1,7 @@
 {
   "name": "Theobroma cacao",
   "authorship": "L.",
-  "genus_name": "Theobroma",
-  "family_name": "Malvaceae",
+  "parent_name": "Theobroma",
   "gbif_id": "3152205",
   "powo_id": "320783-2",
   "iucn_id": null,

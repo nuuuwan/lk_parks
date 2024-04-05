@@ -1,8 +1,7 @@
 {
   "name": "Radermachera sinica",
   "authorship": "(Hance) Hemsl.",
-  "genus_name": "Radermachera",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Radermachera",
   "gbif_id": "4092178",
   "powo_id": "110522-1",
   "iucn_id": "147648895",

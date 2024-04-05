@@ -1,8 +1,7 @@
 {
   "name": "Dianella ensifolia",
   "authorship": "(L.) DC.",
-  "genus_name": "Dianella",
-  "family_name": "Xanthorrhoeaceae",
+  "parent_name": "Dianella",
   "gbif_id": "5305224",
   "powo_id": null,
   "iucn_id": null,

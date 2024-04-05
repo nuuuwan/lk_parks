@@ -1,8 +1,7 @@
 {
   "name": "Combretum indicum",
   "authorship": "(L.) DeFilipps",
-  "genus_name": "Combretum",
-  "family_name": "Combretaceae",
+  "parent_name": "Combretum",
   "gbif_id": "8040307",
   "powo_id": "77101543-1",
   "iucn_id": null,

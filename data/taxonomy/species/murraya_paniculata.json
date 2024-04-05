@@ -1,8 +1,7 @@
 {
   "name": "Murraya paniculata",
   "authorship": "(L.) Jack",
-  "genus_name": "Murraya",
-  "family_name": "Rutaceae",
+  "parent_name": "Murraya",
   "gbif_id": "5421335",
   "powo_id": "774441-1",
   "iucn_id": null,

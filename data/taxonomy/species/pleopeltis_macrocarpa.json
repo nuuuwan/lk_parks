@@ -1,8 +1,7 @@
 {
   "name": "Pleopeltis macrocarpa",
   "authorship": "(Willd.) Kaulf.",
-  "genus_name": "Pleopeltis",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Pleopeltis",
   "gbif_id": "7290349",
   "powo_id": "17448650-1",
   "iucn_id": null,

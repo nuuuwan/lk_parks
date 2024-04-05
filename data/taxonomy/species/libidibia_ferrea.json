@@ -1,8 +1,7 @@
 {
   "name": "Libidibia ferrea",
   "authorship": "(Mart. ex Tul.) L.P.Queiroz",
-  "genus_name": "Libidibia",
-  "family_name": "Fabaceae",
+  "parent_name": "Libidibia",
   "gbif_id": "5832783",
   "powo_id": "77100755-1",
   "iucn_id": "62021470",

@@ -1,8 +1,7 @@
 {
   "name": "Adenanthera pavonina",
   "authorship": "L.",
-  "genus_name": "Adenanthera",
-  "family_name": "Fabaceae",
+  "parent_name": "Adenanthera",
   "gbif_id": "2951846",
   "powo_id": "317691-2",
   "iucn_id": "18435896",

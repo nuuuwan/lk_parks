@@ -1,8 +1,7 @@
 {
   "name": "Quercus suber",
   "authorship": "L.",
-  "genus_name": "Quercus",
-  "family_name": "Fagaceae",
+  "parent_name": "Quercus",
   "gbif_id": "2879411",
   "powo_id": "296785-1",
   "iucn_id": "194237",

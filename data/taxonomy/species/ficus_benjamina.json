@@ -1,8 +1,7 @@
 {
   "name": "Ficus benjamina",
   "authorship": "L.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5361932",
   "powo_id": "852486-1",
   "iucn_id": "145362709",

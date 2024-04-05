@@ -1,8 +1,7 @@
 {
   "name": "Melaleuca alternifolia",
   "authorship": "(Maiden & Betche) Cheel",
-  "genus_name": "Melaleuca",
-  "family_name": "Myrtaceae",
+  "parent_name": "Melaleuca",
   "gbif_id": "5416091",
   "powo_id": "597833-1",
   "iucn_id": null,

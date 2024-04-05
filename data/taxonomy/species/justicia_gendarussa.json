@@ -1,8 +1,7 @@
 {
   "name": "Justicia gendarussa",
   "authorship": "Burm.f.",
-  "genus_name": "Justicia",
-  "family_name": "Acanthaceae",
+  "parent_name": "Justicia",
   "gbif_id": "7447231",
   "powo_id": "50766-1",
   "iucn_id": null,

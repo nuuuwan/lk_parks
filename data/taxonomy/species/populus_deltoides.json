@@ -1,8 +1,7 @@
 {
   "name": "Populus deltoides",
   "authorship": "W.Bartram ex Marshall",
-  "genus_name": "Populus",
-  "family_name": "Salicaceae",
+  "parent_name": "Populus",
   "gbif_id": "3040232",
   "powo_id": "30102841-2",
   "iucn_id": "61959821",

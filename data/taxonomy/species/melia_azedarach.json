@@ -1,8 +1,7 @@
 {
   "name": "Melia azedarach",
   "authorship": "L.",
-  "genus_name": "Melia",
-  "family_name": "Meliaceae",
+  "parent_name": "Melia",
   "gbif_id": "5914287",
   "powo_id": "578949-1",
   "iucn_id": "61801956",

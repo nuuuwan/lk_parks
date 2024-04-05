@@ -1,8 +1,7 @@
 {
   "name": "Camellia sasanqua",
   "authorship": "Thunb.",
-  "genus_name": "Camellia",
-  "family_name": "Theaceae",
+  "parent_name": "Camellia",
   "gbif_id": "3189637",
   "powo_id": "927409-1",
   "iucn_id": "62057947",

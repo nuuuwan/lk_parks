@@ -1,8 +1,7 @@
 {
   "name": "Heritiera littoralis",
   "authorship": "Aiton",
-  "genus_name": "Heritiera",
-  "family_name": "Malvaceae",
+  "parent_name": "Heritiera",
   "gbif_id": "7725132",
   "powo_id": "823569-1",
   "iucn_id": "178852",

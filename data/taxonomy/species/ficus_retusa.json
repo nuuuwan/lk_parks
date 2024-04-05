@@ -1,8 +1,7 @@
 {
   "name": "Ficus retusa",
   "authorship": "L.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "3765871",
   "powo_id": "853577-1",
   "iucn_id": "72278682",

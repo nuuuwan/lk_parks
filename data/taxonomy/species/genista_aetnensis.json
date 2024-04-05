@@ -1,8 +1,7 @@
 {
   "name": "Genista aetnensis",
   "authorship": "(Biv.) DC.",
-  "genus_name": "Genista",
-  "family_name": "Fabaceae",
+  "parent_name": "Genista",
   "gbif_id": "5347587",
   "powo_id": "495862-1",
   "iucn_id": "79727282",

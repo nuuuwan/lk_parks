@@ -1,8 +1,7 @@
 {
   "name": "Tecoma stans",
   "authorship": "(L.) Juss. ex Kunth",
-  "genus_name": "Tecoma",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Tecoma",
   "gbif_id": "3172492",
   "powo_id": "111284-1",
   "iucn_id": "82858855",

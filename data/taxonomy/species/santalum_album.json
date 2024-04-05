@@ -1,8 +1,7 @@
 {
   "name": "Santalum album",
   "authorship": "L.",
-  "genus_name": "Santalum",
-  "family_name": "Santalaceae",
+  "parent_name": "Santalum",
   "gbif_id": "2889785",
   "powo_id": "780592-1",
   "iucn_id": "31852",

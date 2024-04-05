@@ -1,8 +1,7 @@
 {
   "name": "Ficus hispida",
   "authorship": "L.f.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "7879404",
   "powo_id": "852981-1",
   "iucn_id": "147494318",

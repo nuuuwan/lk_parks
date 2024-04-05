@@ -1,8 +1,7 @@
 {
   "name": "Pongamia pinnata",
   "authorship": "(L.) Pierre",
-  "genus_name": "Pongamia",
-  "family_name": "Fabaceae",
+  "parent_name": "Pongamia",
   "gbif_id": "2965911",
   "powo_id": "515679-1",
   "iucn_id": "168724",

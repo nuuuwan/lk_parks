@@ -1,8 +1,7 @@
 {
   "name": "Hamelia patens",
   "authorship": "Jacq.",
-  "genus_name": "Hamelia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Hamelia",
   "gbif_id": "2902066",
   "powo_id": "752194-1",
   "iucn_id": "136789578",

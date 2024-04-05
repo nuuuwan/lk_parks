@@ -1,8 +1,7 @@
 {
   "name": "Ulmus parvifolia",
   "authorship": "Jacq.",
-  "genus_name": "Ulmus",
-  "family_name": "Ulmaceae",
+  "parent_name": "Ulmus",
   "gbif_id": "5361869",
   "powo_id": "302296-2",
   "iucn_id": "147481874",

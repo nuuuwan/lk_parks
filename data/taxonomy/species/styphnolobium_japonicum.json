@@ -1,8 +1,7 @@
 {
   "name": "Styphnolobium japonicum",
   "authorship": "(L.) Schott",
-  "genus_name": "Styphnolobium",
-  "family_name": "Fabaceae",
+  "parent_name": "Styphnolobium",
   "gbif_id": "2963569",
   "powo_id": "1119529-2",
   "iucn_id": null,

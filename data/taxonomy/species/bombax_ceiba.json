@@ -1,8 +1,7 @@
 {
   "name": "Bombax ceiba",
   "authorship": "L.",
-  "genus_name": "Bombax",
-  "family_name": "Malvaceae",
+  "parent_name": "Bombax",
   "gbif_id": "3152226",
   "powo_id": "559120-1",
   "iucn_id": "61781914",

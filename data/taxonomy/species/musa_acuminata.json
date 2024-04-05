@@ -1,8 +1,7 @@
 {
   "name": "Musa acuminata",
   "authorship": "Colla",
-  "genus_name": "Musa",
-  "family_name": "Musaceae",
+  "parent_name": "Musa",
   "gbif_id": "2762680",
   "powo_id": "797527-1",
   "iucn_id": "22486320",

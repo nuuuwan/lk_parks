@@ -1,8 +1,7 @@
 {
   "name": "Morus nigra",
   "authorship": "L.",
-  "genus_name": "Morus",
-  "family_name": "Moraceae",
+  "parent_name": "Morus",
   "gbif_id": "5361888",
   "powo_id": "854688-1",
   "iucn_id": null,

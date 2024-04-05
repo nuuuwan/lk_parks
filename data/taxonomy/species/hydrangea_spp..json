@@ -1,8 +1,7 @@
 {
   "name": "Hydrangea spp.",
   "authorship": "",
-  "genus_name": "Hydrangea",
-  "family_name": "Hydrangeaceae",
+  "parent_name": "Hydrangea",
   "gbif_id": null,
   "powo_id": null,
   "iucn_id": null,

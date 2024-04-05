@@ -1,8 +1,7 @@
 {
   "name": "Cyrtorchis ringens",
   "authorship": "(Rchb.f.) Summerh.",
-  "genus_name": "Cyrtorchis",
-  "family_name": "Orchidaceae",
+  "parent_name": "Cyrtorchis",
   "gbif_id": "2786061",
   "powo_id": "626418-1",
   "iucn_id": null,

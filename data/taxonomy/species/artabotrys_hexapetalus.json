@@ -1,8 +1,7 @@
 {
   "name": "Artabotrys hexapetalus",
   "authorship": "(L.f.) Bhandari",
-  "genus_name": "Artabotrys",
-  "family_name": "Annonaceae",
+  "parent_name": "Artabotrys",
   "gbif_id": "3154909",
   "powo_id": "72395-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Dipterocarpus alatus",
   "authorship": "Roxb. ex G.Don",
-  "genus_name": "Dipterocarpus",
-  "family_name": "Dipterocarpaceae",
+  "parent_name": "Dipterocarpus",
   "gbif_id": "7804561",
   "powo_id": "320626-1",
   "iucn_id": "33007",

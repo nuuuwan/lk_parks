@@ -1,8 +1,7 @@
 {
   "name": "Khaya anthotheca",
   "authorship": "(Welw.) C.DC.",
-  "genus_name": "Khaya",
-  "family_name": "Meliaceae",
+  "parent_name": "Khaya",
   "gbif_id": "3852095",
   "powo_id": "578847-1",
   "iucn_id": "32235",

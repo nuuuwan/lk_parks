@@ -1,8 +1,7 @@
 {
   "name": "Flueggea leucopyrus",
   "authorship": "Willd.",
-  "genus_name": "Flueggea",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Flueggea",
   "gbif_id": "5382877",
   "powo_id": "348996-1",
   "iucn_id": "169273845",

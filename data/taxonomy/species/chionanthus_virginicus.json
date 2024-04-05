@@ -1,8 +1,7 @@
 {
   "name": "Chionanthus virginicus",
   "authorship": "L.",
-  "genus_name": "Chionanthus",
-  "family_name": "Oleaceae",
+  "parent_name": "Chionanthus",
   "gbif_id": "3172303",
   "powo_id": "319141-2",
   "iucn_id": "153739948",

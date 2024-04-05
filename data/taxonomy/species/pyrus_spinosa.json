@@ -1,8 +1,7 @@
 {
   "name": "Pyrus spinosa",
   "authorship": "Forssk.",
-  "genus_name": "Pyrus",
-  "family_name": "Rosaceae",
+  "parent_name": "Pyrus",
   "gbif_id": "5362560",
   "powo_id": "731262-1",
   "iucn_id": "173015",

@@ -1,8 +1,7 @@
 {
   "name": "Pinus nigra",
   "authorship": "J.F.Arnold",
-  "genus_name": "Pinus",
-  "family_name": "Pinaceae",
+  "parent_name": "Pinus",
   "gbif_id": "5284809",
   "powo_id": "677088-1",
   "iucn_id": "42386",

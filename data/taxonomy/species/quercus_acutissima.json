@@ -1,8 +1,7 @@
 {
   "name": "Quercus acutissima",
   "authorship": "Carruth.",
-  "genus_name": "Quercus",
-  "family_name": "Fagaceae",
+  "parent_name": "Quercus",
   "gbif_id": "2877959",
   "powo_id": "295743-1",
   "iucn_id": "194048",

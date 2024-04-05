@@ -41,10 +41,20 @@ class Species(Taxon):
 
     @staticmethod
     def from_dict(d):
-        return Species(
+        
+
+        parent = None
+        needs_update = False
+        if 'parent_name' in d:
+            parent = Genus.from_name(d['parent_name'])
+        elif 'genus_name' in d:
+            parent = Genus.from_name(d['genus_name'])
+            needs_update = True
+        
+        species = Species(
             name=d['name'],
             authorship=d['authorship'],
-            parent=Genus.from_name(d['genus_name']),
+            parent=parent,
             #
             gbif_id=d['gbif_id'],
             powo_id=d['powo_id'],
@@ -52,7 +62,9 @@ class Species(Taxon):
             iucn_category=d['iucn_category'],
             common_names=d['common_names'],
         )
-
+        if needs_update:
+            species.write(force=True)
+        return species
     @staticmethod
     def from_plant_net_raw_result(d: dict) -> 'Species':
         d_species = d['species']

@@ -1,8 +1,7 @@
 {
   "name": "Albizia lebbeck",
   "authorship": "(L.) Benth.",
-  "genus_name": "Albizia",
-  "family_name": "Fabaceae",
+  "parent_name": "Albizia",
   "gbif_id": "2973215",
   "powo_id": "99109-3",
   "iucn_id": "18435916",

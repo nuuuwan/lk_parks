@@ -1,8 +1,7 @@
 {
   "name": "Arenga pinnata",
   "authorship": "(Wurmb) Merr.",
-  "genus_name": "Arenga",
-  "family_name": "Arecaceae",
+  "parent_name": "Arenga",
   "gbif_id": "2733997",
   "powo_id": "664261-1",
   "iucn_id": "111452869",

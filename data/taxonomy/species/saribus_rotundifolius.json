@@ -1,8 +1,7 @@
 {
   "name": "Saribus rotundifolius",
   "authorship": "(Lam.) Blume",
-  "genus_name": "Saribus",
-  "family_name": "Arecaceae",
+  "parent_name": "Saribus",
   "gbif_id": "2733431",
   "powo_id": "669832-1",
   "iucn_id": null,

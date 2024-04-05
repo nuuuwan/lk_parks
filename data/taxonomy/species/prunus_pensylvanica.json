@@ -1,8 +1,7 @@
 {
   "name": "Prunus pensylvanica",
   "authorship": "L.f.",
-  "genus_name": "Prunus",
-  "family_name": "Rosaceae",
+  "parent_name": "Prunus",
   "gbif_id": "8202030",
   "powo_id": "30291523-2",
   "iucn_id": "50631663",

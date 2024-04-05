@@ -1,8 +1,7 @@
 {
   "name": "Sideroxylon borbonicum",
   "authorship": "A.DC.",
-  "genus_name": "Sideroxylon",
-  "family_name": "Sapotaceae",
+  "parent_name": "Sideroxylon",
   "gbif_id": "2887227",
   "powo_id": "789572-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Bocconia frutescens",
   "authorship": "L.",
-  "genus_name": "Bocconia",
-  "family_name": "Papaveraceae",
+  "parent_name": "Bocconia",
   "gbif_id": "2888374",
   "powo_id": "316358-2",
   "iucn_id": "85556702",

@@ -1,8 +1,7 @@
 {
   "name": "Ochna serrulata",
   "authorship": "(Hochst.) Walp.",
-  "genus_name": "Ochna",
-  "family_name": "Ochnaceae",
+  "parent_name": "Ochna",
   "gbif_id": "3189680",
   "powo_id": "606778-1",
   "iucn_id": "82889634",

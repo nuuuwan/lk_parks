@@ -1,8 +1,7 @@
 {
   "name": "Mitracarpus hirtus",
   "authorship": "(L.) DC.",
-  "genus_name": "Mitracarpus",
-  "family_name": "Rubiaceae",
+  "parent_name": "Mitracarpus",
   "gbif_id": "2912993",
   "powo_id": "756228-1",
   "iucn_id": null,

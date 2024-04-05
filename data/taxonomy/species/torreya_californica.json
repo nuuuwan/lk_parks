@@ -1,8 +1,7 @@
 {
   "name": "Torreya californica",
   "authorship": "Torr.",
-  "genus_name": "Torreya",
-  "family_name": "Taxaceae",
+  "parent_name": "Torreya",
   "gbif_id": "5284508",
   "powo_id": "263993-1",
   "iucn_id": "34026",

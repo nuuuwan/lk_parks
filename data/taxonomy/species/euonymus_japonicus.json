@@ -1,8 +1,7 @@
 {
   "name": "Euonymus japonicus",
   "authorship": "Thunb.",
-  "genus_name": "Euonymus",
-  "family_name": "Celastraceae",
+  "parent_name": "Euonymus",
   "gbif_id": "7102937",
   "powo_id": "160944-1",
   "iucn_id": null,

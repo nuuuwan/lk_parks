@@ -1,8 +1,7 @@
 {
   "name": "Leea guineensis",
   "authorship": "G.Don",
-  "genus_name": "Leea",
-  "family_name": "Vitaceae",
+  "parent_name": "Leea",
   "gbif_id": "4160417",
   "powo_id": "68307-1",
   "iucn_id": null,

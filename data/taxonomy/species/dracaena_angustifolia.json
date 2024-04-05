@@ -1,8 +1,7 @@
 {
   "name": "Dracaena angustifolia",
   "authorship": "(Medik.) Roxb.",
-  "genus_name": "Dracaena",
-  "family_name": "Asparagaceae",
+  "parent_name": "Dracaena",
   "gbif_id": "5304502",
   "powo_id": "534103-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Polystachya concreta",
   "authorship": "(Jacq.) Garay & H.R.Sweet",
-  "genus_name": "Polystachya",
-  "family_name": "Orchidaceae",
+  "parent_name": "Polystachya",
   "gbif_id": "2792457",
   "powo_id": "654273-1",
   "iucn_id": null,

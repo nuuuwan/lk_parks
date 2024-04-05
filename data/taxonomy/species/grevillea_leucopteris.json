@@ -1,8 +1,7 @@
 {
   "name": "Grevillea leucopteris",
   "authorship": "Meisn.",
-  "genus_name": "Grevillea",
-  "family_name": "Proteaceae",
+  "parent_name": "Grevillea",
   "gbif_id": "3996482",
   "powo_id": "703889-1",
   "iucn_id": "113029708",

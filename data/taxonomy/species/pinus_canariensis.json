@@ -1,8 +1,7 @@
 {
   "name": "Pinus canariensis",
   "authorship": "C.Sm. ex DC.",
-  "genus_name": "Pinus",
-  "family_name": "Pinaceae",
+  "parent_name": "Pinus",
   "gbif_id": "8005106",
   "powo_id": "262832-1",
   "iucn_id": "39603",

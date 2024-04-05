@@ -1,8 +1,7 @@
 {
   "name": "Lonicera japonica",
   "authorship": "Thunb.",
-  "genus_name": "Lonicera",
-  "family_name": "Caprifoliaceae",
+  "parent_name": "Lonicera",
   "gbif_id": "5334240",
   "powo_id": "148850-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Podocarpus macrophyllus",
   "authorship": "(Thunb.) Sweet",
-  "genus_name": "Podocarpus",
-  "family_name": "Podocarpaceae",
+  "parent_name": "Podocarpus",
   "gbif_id": "5285930",
   "powo_id": "263522-1",
   "iucn_id": "42517",

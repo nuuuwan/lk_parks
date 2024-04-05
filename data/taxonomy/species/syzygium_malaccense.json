@@ -1,8 +1,7 @@
 {
   "name": "Syzygium malaccense",
   "authorship": "(L.) Merr. & L.M.Perry",
-  "genus_name": "Syzygium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syzygium",
   "gbif_id": "3184509",
   "powo_id": "601907-1",
   "iucn_id": "136055196",

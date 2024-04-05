@@ -1,8 +1,7 @@
 {
   "name": "Diospyros malabarica",
   "authorship": "(Desr.) Kostel.",
-  "genus_name": "Diospyros",
-  "family_name": "Ebenaceae",
+  "parent_name": "Diospyros",
   "gbif_id": "7295796",
   "powo_id": "322658-1",
   "iucn_id": null,

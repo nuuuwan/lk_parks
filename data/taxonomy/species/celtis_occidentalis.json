@@ -1,8 +1,7 @@
 {
   "name": "Celtis occidentalis",
   "authorship": "L.",
-  "genus_name": "Celtis",
-  "family_name": "Cannabaceae",
+  "parent_name": "Celtis",
   "gbif_id": "2984481",
   "powo_id": "301424-2",
   "iucn_id": "61987996",

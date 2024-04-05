@@ -1,8 +1,7 @@
 {
   "name": "Jacaranda mimosifolia",
   "authorship": "D.Don",
-  "genus_name": "Jacaranda",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Jacaranda",
   "gbif_id": "3172499",
   "powo_id": "130936-2",
   "iucn_id": "32027",

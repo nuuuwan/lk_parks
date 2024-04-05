@@ -1,8 +1,7 @@
 {
   "name": "Dendrobium crassifolium",
   "authorship": "Schltr.",
-  "genus_name": "Dendrobium",
-  "family_name": "Orchidaceae",
+  "parent_name": "Dendrobium",
   "gbif_id": "5317500",
   "powo_id": "627176-1",
   "iucn_id": "157893014",

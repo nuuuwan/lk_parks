@@ -1,0 +1,27 @@
+{
+  "ut_api_call": 1712301087.5720963,
+  "plant_photo_id": "Photo-2024-04-05-08-00-00",
+  "species_name_to_score": {
+    "Casuarina equisetifolia": 0.37735,
+    "Casuarina cunninghamiana": 0.37453,
+    "Pinus pinea": 0.0105,
+    "Tamarix gallica": 0.00822,
+    "Parkinsonia aculeata": 0.00584,
+    "Retama monosperma": 0.00578,
+    "Pinus brutia": 0.00572,
+    "Tamarix ramosissima": 0.00498,
+    "Pinus canariensis": 0.00485,
+    "Gymnostoma nodiflorum": 0.00321,
+    "Pinus strobus": 0.00258,
+    "Melaleuca armillaris": 0.00245,
+    "Viminaria juncea": 0.0021,
+    "Genista aetnensis": 0.00178,
+    "Grevillea leucopteris": 0.00169,
+    "Elegia capensis": 0.00159,
+    "Tamarix parviflora": 0.00152,
+    "Tamarix aphylla": 0.00148,
+    "Pinus pinaster": 0.00132,
+    "Tamarix africana": 0.0013,
+    "Cortaderia speciosa": 0.00124
+  }
+}

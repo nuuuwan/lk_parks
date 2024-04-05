@@ -1,8 +1,7 @@
 {
   "name": "Prosopis chilensis",
   "authorship": "(Molina) Stuntz",
-  "genus_name": "Prosopis",
-  "family_name": "Fabaceae",
+  "parent_name": "Prosopis",
   "gbif_id": "5358466",
   "powo_id": "210426-2",
   "iucn_id": "73513653",

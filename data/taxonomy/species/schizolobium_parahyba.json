@@ -1,8 +1,7 @@
 {
   "name": "Schizolobium parahyba",
   "authorship": "(Vell.) S.F.Blake",
-  "genus_name": "Schizolobium",
-  "family_name": "Fabaceae",
+  "parent_name": "Schizolobium",
   "gbif_id": "2945453",
   "powo_id": "517988-1",
   "iucn_id": "62027898",

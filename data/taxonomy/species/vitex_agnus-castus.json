@@ -1,8 +1,7 @@
 {
   "name": "Vitex agnus-castus",
   "authorship": "L.",
-  "genus_name": "Vitex",
-  "family_name": "Lamiaceae",
+  "parent_name": "Vitex",
   "gbif_id": "2925562",
   "powo_id": "865568-1",
   "iucn_id": "203350",

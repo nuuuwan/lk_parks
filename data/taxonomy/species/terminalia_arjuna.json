@@ -1,8 +1,7 @@
 {
   "name": "Terminalia arjuna",
   "authorship": "(Roxb. ex DC.) Wight & Arn.",
-  "genus_name": "Terminalia",
-  "family_name": "Combretaceae",
+  "parent_name": "Terminalia",
   "gbif_id": "3699548",
   "powo_id": "170962-1",
   "iucn_id": null,

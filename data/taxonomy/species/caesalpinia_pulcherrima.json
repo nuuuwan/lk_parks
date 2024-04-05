@@ -1,8 +1,7 @@
 {
   "name": "Caesalpinia pulcherrima",
   "authorship": "(L.) Sw.",
-  "genus_name": "Caesalpinia",
-  "family_name": "Fabaceae",
+  "parent_name": "Caesalpinia",
   "gbif_id": "2958715",
   "powo_id": "1164658-2",
   "iucn_id": "130102665",

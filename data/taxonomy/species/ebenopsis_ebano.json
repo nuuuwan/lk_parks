@@ -1,8 +1,7 @@
 {
   "name": "Ebenopsis ebano",
   "authorship": "(Berland.) Barneby & J.W.Grimes",
-  "genus_name": "Ebenopsis",
-  "family_name": "Fabaceae",
+  "parent_name": "Ebenopsis",
   "gbif_id": "2976481",
   "powo_id": "989425-1",
   "iucn_id": "19891615",

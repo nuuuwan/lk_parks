@@ -1,8 +1,7 @@
 {
   "name": "Casuarina equisetifolia",
   "authorship": "L.",
-  "genus_name": "Casuarina",
-  "family_name": "Casuarinaceae",
+  "parent_name": "Casuarina",
   "gbif_id": "2891930",
   "powo_id": "159856-1",
   "iucn_id": "16728404",

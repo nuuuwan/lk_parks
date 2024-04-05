@@ -1,8 +1,7 @@
 {
   "name": "Bougainvillea glabra",
   "authorship": "Choisy",
-  "genus_name": "Bougainvillea",
-  "family_name": "Nyctaginaceae",
+  "parent_name": "Bougainvillea",
   "gbif_id": "5384862",
   "powo_id": "35444-2",
   "iucn_id": "149207944",

@@ -1,8 +1,7 @@
 {
   "name": "Alnus cordata",
   "authorship": "(Loisel.) Duby",
-  "genus_name": "Alnus",
-  "family_name": "Betulaceae",
+  "parent_name": "Alnus",
   "gbif_id": "2876607",
   "powo_id": "294902-1",
   "iucn_id": "194657",

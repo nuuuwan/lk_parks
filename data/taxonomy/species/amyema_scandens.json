@@ -1,8 +1,7 @@
 {
   "name": "Amyema scandens",
   "authorship": "(Tiegh.) Danser",
-  "genus_name": "Amyema",
-  "family_name": "Loranthaceae",
+  "parent_name": "Amyema",
   "gbif_id": "7288227",
   "powo_id": "547793-1",
   "iucn_id": null,

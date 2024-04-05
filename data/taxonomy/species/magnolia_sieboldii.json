@@ -1,8 +1,7 @@
 {
   "name": "Magnolia sieboldii",
   "authorship": "K.Koch",
-  "genus_name": "Magnolia",
-  "family_name": "Magnoliaceae",
+  "parent_name": "Magnolia",
   "gbif_id": "3152959",
   "powo_id": "554840-1",
   "iucn_id": "194003",

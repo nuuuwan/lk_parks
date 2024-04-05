@@ -1,8 +1,7 @@
 {
   "name": "Euphorbia tithymaloides",
   "authorship": "L.",
-  "genus_name": "Euphorbia",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Euphorbia",
   "gbif_id": "3069168",
   "powo_id": "102036-2",
   "iucn_id": "135836706",

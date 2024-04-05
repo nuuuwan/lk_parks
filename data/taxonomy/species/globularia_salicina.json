@@ -1,8 +1,7 @@
 {
   "name": "Globularia salicina",
   "authorship": "Lam.",
-  "genus_name": "Globularia",
-  "family_name": "Plantaginaceae",
+  "parent_name": "Globularia",
   "gbif_id": "5578501",
   "powo_id": "813091-1",
   "iucn_id": "102818794",

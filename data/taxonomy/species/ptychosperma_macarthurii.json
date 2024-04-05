@@ -1,8 +1,7 @@
 {
   "name": "Ptychosperma macarthurii",
   "authorship": "(H.Wendl. ex H.J.Veitch) H.Wendl. ex Hook.f.",
-  "genus_name": "Ptychosperma",
-  "family_name": "Arecaceae",
+  "parent_name": "Ptychosperma",
   "gbif_id": "2733897",
   "powo_id": "55245-3",
   "iucn_id": "64375",

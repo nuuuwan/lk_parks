@@ -1,8 +1,7 @@
 {
   "name": "Plumeria obtusa",
   "authorship": "L.",
-  "genus_name": "Plumeria",
-  "family_name": "Apocynaceae",
+  "parent_name": "Plumeria",
   "gbif_id": "3169677",
   "powo_id": "81256-1",
   "iucn_id": "156770956",

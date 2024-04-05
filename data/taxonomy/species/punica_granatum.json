@@ -1,8 +1,7 @@
 {
   "name": "Punica granatum",
   "authorship": "L.",
-  "genus_name": "Punica",
-  "family_name": "Lythraceae",
+  "parent_name": "Punica",
   "gbif_id": "5420901",
   "powo_id": "554129-1",
   "iucn_id": "63531",

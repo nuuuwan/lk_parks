@@ -1,8 +1,7 @@
 {
   "name": "Grona triflora",
   "authorship": "(L.) H.Ohashi & K.Ohashi",
-  "genus_name": "Grona",
-  "family_name": "Fabaceae",
+  "parent_name": "Grona",
   "gbif_id": "10833216",
   "powo_id": "77187443-1",
   "iucn_id": null,

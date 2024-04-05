@@ -16,6 +16,10 @@ class Taxon:
     authorship: str
     parent: 'Taxon'
 
+    @classmethod 
+    def unknown_name(cls):
+        return 'Unknown-' + cls.__name__
+
     @classmethod
     def unknown(cls):
         parent_cls = cls.get_parent_class()
@@ -23,7 +27,7 @@ class Taxon:
         if parent_cls is not None:
             parent = parent_cls.unknown()
         return cls(
-            name='Unknown-' + cls.__name__, authorship='', parent=parent
+            name=cls.unknown_name(), authorship='', parent=parent
         )
 
     @classmethod
@@ -67,7 +71,7 @@ class Taxon:
             parent=parent,
         )
         if needs_update:
-            taxon.write()
+            taxon.write(force=True)
         return taxon
     def __hash__(self):
         return hash(self.__class__.__name__ + '.' + self.name)
@@ -80,8 +84,8 @@ class Taxon:
     def data_path(self) -> str:
         return self.get_data_path(self.name)
 
-    def write(self):
-        if not os.path.exists(self.data_path):
+    def write(self, force=False):
+        if not os.path.exists(self.data_path) or force:
             JSONFile(self.data_path).write(self.to_dict())
             log.info(f'Wrote {self.data_path}')
 
@@ -115,7 +119,7 @@ class Taxon:
     def from_name(cls, name: str):
         if name == "Eukaryota":
             return cls.SINGLETON
-        if name is None:
+        if name is None or name == cls.unknown_name():
             return cls.unknown()
         data_path = cls.get_data_path(name)
         d = JSONFile(data_path).read()

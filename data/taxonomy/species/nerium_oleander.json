@@ -1,8 +1,7 @@
 {
   "name": "Nerium oleander",
   "authorship": "L.",
-  "genus_name": "Nerium",
-  "family_name": "Apocynaceae",
+  "parent_name": "Nerium",
   "gbif_id": "3169756",
   "powo_id": "80460-1",
   "iucn_id": "202961",

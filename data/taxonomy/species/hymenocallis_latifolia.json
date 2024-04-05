@@ -1,8 +1,7 @@
 {
   "name": "Hymenocallis latifolia",
   "authorship": "(Mill.) M.Roem.",
-  "genus_name": "Hymenocallis",
-  "family_name": "Amaryllidaceae",
+  "parent_name": "Hymenocallis",
   "gbif_id": "2860272",
   "powo_id": "1144159-2",
   "iucn_id": null,

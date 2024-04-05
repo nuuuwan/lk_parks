@@ -1,8 +1,7 @@
 {
   "name": "Syngonium podophyllum",
   "authorship": "Schott",
-  "genus_name": "Syngonium",
-  "family_name": "Araceae",
+  "parent_name": "Syngonium",
   "gbif_id": "2867866",
   "powo_id": "89152-1",
   "iucn_id": null,

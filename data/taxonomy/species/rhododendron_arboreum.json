@@ -1,8 +1,7 @@
 {
   "name": "Rhododendron arboreum",
   "authorship": "Sm.",
-  "genus_name": "Rhododendron",
-  "family_name": "Ericaceae",
+  "parent_name": "Rhododendron",
   "gbif_id": "7328114",
   "powo_id": "331945-1",
   "iucn_id": "136143885",

@@ -1,8 +1,7 @@
 {
   "name": "Heptapleurum actinophyllum",
   "authorship": "(Endl.) Lowry & G.M.Plunkett",
-  "genus_name": "Heptapleurum",
-  "family_name": "Araliaceae",
+  "parent_name": "Heptapleurum",
   "gbif_id": "11008739",
   "powo_id": "77213393-1",
   "iucn_id": "13507130",

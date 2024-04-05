@@ -1,8 +1,7 @@
 {
   "name": "Corypha umbraculifera",
   "authorship": "L.",
-  "genus_name": "Corypha",
-  "family_name": "Arecaceae",
+  "parent_name": "Corypha",
   "gbif_id": "5293281",
   "powo_id": "666347-1",
   "iucn_id": "38494",

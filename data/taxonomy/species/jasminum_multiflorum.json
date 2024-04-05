@@ -1,8 +1,7 @@
 {
   "name": "Jasminum multiflorum",
   "authorship": "(Burm.f.) Andrews",
-  "genus_name": "Jasminum",
-  "family_name": "Oleaceae",
+  "parent_name": "Jasminum",
   "gbif_id": "3172267",
   "powo_id": "609641-1",
   "iucn_id": null,

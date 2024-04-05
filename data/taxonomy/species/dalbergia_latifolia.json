@@ -1,8 +1,7 @@
 {
   "name": "Dalbergia latifolia",
   "authorship": "Roxb.",
-  "genus_name": "Dalbergia",
-  "family_name": "Fabaceae",
+  "parent_name": "Dalbergia",
   "gbif_id": "2968662",
   "powo_id": "490295-1",
   "iucn_id": "32098",

@@ -1,8 +1,7 @@
 {
   "name": "Mimosa pudica",
   "authorship": "L.",
-  "genus_name": "Mimosa",
-  "family_name": "Fabaceae",
+  "parent_name": "Mimosa",
   "gbif_id": "2969284",
   "powo_id": "313242-2",
   "iucn_id": "175208",

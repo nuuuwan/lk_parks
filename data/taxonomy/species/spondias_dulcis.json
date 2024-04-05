@@ -1,8 +1,7 @@
 {
   "name": "Spondias dulcis",
   "authorship": "Parkinson",
-  "genus_name": "Spondias",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Spondias",
   "gbif_id": "3190595",
   "powo_id": "71455-1",
   "iucn_id": null,

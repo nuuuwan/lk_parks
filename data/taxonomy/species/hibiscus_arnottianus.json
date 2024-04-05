@@ -1,8 +1,7 @@
 {
   "name": "Hibiscus arnottianus",
   "authorship": "A.Gray",
-  "genus_name": "Hibiscus",
-  "family_name": "Malvaceae",
+  "parent_name": "Hibiscus",
   "gbif_id": "3152543",
   "powo_id": "559958-1",
   "iucn_id": "62742",

@@ -1,8 +1,7 @@
 {
   "name": "Viminaria juncea",
   "authorship": "(Schrad.) Hoffmanns.",
-  "genus_name": "Viminaria",
-  "family_name": "Fabaceae",
+  "parent_name": "Viminaria",
   "gbif_id": "2946422",
   "powo_id": "525575-1",
   "iucn_id": null,

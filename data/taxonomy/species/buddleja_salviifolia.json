@@ -1,8 +1,7 @@
 {
   "name": "Buddleja salviifolia",
   "authorship": "(L.) Lam.",
-  "genus_name": "Buddleja",
-  "family_name": "Scrophulariaceae",
+  "parent_name": "Buddleja",
   "gbif_id": "4055797",
   "powo_id": "545879-1",
   "iucn_id": "146452200",

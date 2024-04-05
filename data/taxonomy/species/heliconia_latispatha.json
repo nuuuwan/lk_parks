@@ -1,8 +1,7 @@
 {
   "name": "Heliconia latispatha",
   "authorship": "Benth.",
-  "genus_name": "Heliconia",
-  "family_name": "Heliconiaceae",
+  "parent_name": "Heliconia",
   "gbif_id": "2760940",
   "powo_id": "796959-1",
   "iucn_id": null,

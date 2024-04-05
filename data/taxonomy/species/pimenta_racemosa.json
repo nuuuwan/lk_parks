@@ -1,8 +1,7 @@
 {
   "name": "Pimenta racemosa",
   "authorship": "(Mill.) J.W.Moore",
-  "genus_name": "Pimenta",
-  "family_name": "Myrtaceae",
+  "parent_name": "Pimenta",
   "gbif_id": "3186096",
   "powo_id": "196820-2",
   "iucn_id": "62783",

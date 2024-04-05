@@ -1,8 +1,7 @@
 {
   "name": "Ziziphus mauritiana",
   "authorship": "Lam.",
-  "genus_name": "Ziziphus",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Ziziphus",
   "gbif_id": "3039424",
   "powo_id": "719349-1",
   "iucn_id": "147482710",

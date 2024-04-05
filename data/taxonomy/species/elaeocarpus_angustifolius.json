@@ -1,8 +1,7 @@
 {
   "name": "Elaeocarpus angustifolius",
   "authorship": "Blume",
-  "genus_name": "Elaeocarpus",
-  "family_name": "Elaeocarpaceae",
+  "parent_name": "Elaeocarpus",
   "gbif_id": "7426040",
   "powo_id": "833771-1",
   "iucn_id": "145371284",

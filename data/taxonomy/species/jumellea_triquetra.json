@@ -1,8 +1,7 @@
 {
   "name": "Jumellea triquetra",
   "authorship": "(Thouars) Schltr.",
-  "genus_name": "Jumellea",
-  "family_name": "Orchidaceae",
+  "parent_name": "Jumellea",
   "gbif_id": "2833715",
   "powo_id": "639413-1",
   "iucn_id": null,

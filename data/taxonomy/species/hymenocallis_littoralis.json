@@ -1,8 +1,7 @@
 {
   "name": "Hymenocallis littoralis",
   "authorship": "(Jacq.) Salisb.",
-  "genus_name": "Hymenocallis",
-  "family_name": "Amaryllidaceae",
+  "parent_name": "Hymenocallis",
   "gbif_id": "2860119",
   "powo_id": "30048918-2",
   "iucn_id": null,

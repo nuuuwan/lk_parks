@@ -1,8 +1,7 @@
 {
   "name": "Stachytarpheta jamaicensis",
   "authorship": "(L.) Vahl",
-  "genus_name": "Stachytarpheta",
-  "family_name": "Verbenaceae",
+  "parent_name": "Stachytarpheta",
   "gbif_id": "2925463",
   "powo_id": "1092351-2",
   "iucn_id": "96816126",

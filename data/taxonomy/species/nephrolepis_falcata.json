@@ -1,8 +1,7 @@
 {
   "name": "Nephrolepis falcata",
   "authorship": "(Cav.) C.Chr.",
-  "genus_name": "Nephrolepis",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Nephrolepis",
   "gbif_id": "2650928",
   "powo_id": "17408170-1",
   "iucn_id": null,

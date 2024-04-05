@@ -1,8 +1,7 @@
 {
   "name": "Garcinia indica",
   "authorship": "(Thouars) Choisy",
-  "genus_name": "Garcinia",
-  "family_name": "Clusiaceae",
+  "parent_name": "Garcinia",
   "gbif_id": "3189566",
   "powo_id": "428006-1",
   "iucn_id": "50126592",

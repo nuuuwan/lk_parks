@@ -1,8 +1,7 @@
 {
   "name": "Amorpha fruticosa",
   "authorship": "L.",
-  "genus_name": "Amorpha",
-  "family_name": "Fabaceae",
+  "parent_name": "Amorpha",
   "gbif_id": "5357407",
   "powo_id": "11421-2",
   "iucn_id": null,

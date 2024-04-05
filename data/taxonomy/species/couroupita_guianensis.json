@@ -1,8 +1,7 @@
 {
   "name": "Couroupita guianensis",
   "authorship": "Aubl.",
-  "genus_name": "Couroupita",
-  "family_name": "Lecythidaceae",
+  "parent_name": "Couroupita",
   "gbif_id": "3082562",
   "powo_id": "592385-1",
   "iucn_id": "33969",

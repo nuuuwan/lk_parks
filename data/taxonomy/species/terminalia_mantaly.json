@@ -1,8 +1,7 @@
 {
   "name": "Terminalia mantaly",
   "authorship": "H.Perrier",
-  "genus_name": "Terminalia",
-  "family_name": "Combretaceae",
+  "parent_name": "Terminalia",
   "gbif_id": "3699873",
   "powo_id": "171229-1",
   "iucn_id": "128091369",

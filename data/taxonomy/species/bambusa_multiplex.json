@@ -1,8 +1,7 @@
 {
   "name": "Bambusa multiplex",
   "authorship": "(Lour.) Raeusch. ex Schult.",
-  "genus_name": "Bambusa",
-  "family_name": "Poaceae",
+  "parent_name": "Bambusa",
   "gbif_id": "2705757",
   "powo_id": null,
   "iucn_id": null,

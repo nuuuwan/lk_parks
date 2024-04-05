@@ -1,8 +1,7 @@
 {
   "name": "Dictyosperma album",
   "authorship": "(Bory) Scheff.",
-  "genus_name": "Dictyosperma",
-  "family_name": "Arecaceae",
+  "parent_name": "Dictyosperma",
   "gbif_id": "5293187",
   "powo_id": "666678-1",
   "iucn_id": null,

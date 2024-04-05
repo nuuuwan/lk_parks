@@ -1,8 +1,7 @@
 {
   "name": "Eucalyptus globulus",
   "authorship": "Labill.",
-  "genus_name": "Eucalyptus",
-  "family_name": "Myrtaceae",
+  "parent_name": "Eucalyptus",
   "gbif_id": "3176787",
   "powo_id": "592965-1",
   "iucn_id": "61912929",

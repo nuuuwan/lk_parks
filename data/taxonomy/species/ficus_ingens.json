@@ -1,8 +1,7 @@
 {
   "name": "Ficus ingens",
   "authorship": "(Miq.) Miq.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5570086",
   "powo_id": "853021-1",
   "iucn_id": "146188374",

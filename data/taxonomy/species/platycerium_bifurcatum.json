@@ -1,8 +1,7 @@
 {
   "name": "Platycerium bifurcatum",
   "authorship": "(Cav.) C.Chr.",
-  "genus_name": "Platycerium",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Platycerium",
   "gbif_id": "7126767",
   "powo_id": "17177460-1",
   "iucn_id": null,

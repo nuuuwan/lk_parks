@@ -1,8 +1,7 @@
 {
   "name": "Erythrina crista-galli",
   "authorship": "L.",
-  "genus_name": "Erythrina",
-  "family_name": "Fabaceae",
+  "parent_name": "Erythrina",
   "gbif_id": "5349719",
   "powo_id": "494400-1",
   "iucn_id": "144285016",

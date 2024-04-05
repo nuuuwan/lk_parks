@@ -1,8 +1,7 @@
 {
   "name": "Gymnostoma nodiflorum",
   "authorship": "(Thunb.) L.A.S.Johnson",
-  "genus_name": "Gymnostoma",
-  "family_name": "Casuarinaceae",
+  "parent_name": "Gymnostoma",
   "gbif_id": "2891796",
   "powo_id": "159952-1",
   "iucn_id": null,

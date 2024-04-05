@@ -1,8 +1,7 @@
 {
   "name": "Nageia nagi",
   "authorship": "(Thunb.) Kuntze",
-  "genus_name": "Nageia",
-  "family_name": "Podocarpaceae",
+  "parent_name": "Nageia",
   "gbif_id": "2687779",
   "powo_id": "262544-1",
   "iucn_id": "46347417",

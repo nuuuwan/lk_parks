@@ -1,8 +1,7 @@
 {
   "name": "Adansonia digitata",
   "authorship": "L.",
-  "genus_name": "Adansonia",
-  "family_name": "Malvaceae",
+  "parent_name": "Adansonia",
   "gbif_id": "5406695",
   "powo_id": "558628-1",
   "iucn_id": null,

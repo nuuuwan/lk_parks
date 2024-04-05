@@ -1,8 +1,7 @@
 {
   "name": "Dypsis lutescens",
   "authorship": "(H.Wendl.) Beentje & J.Dransf.",
-  "genus_name": "Dypsis",
-  "family_name": "Arecaceae",
+  "parent_name": "Dypsis",
   "gbif_id": "2735935",
   "powo_id": "985360-1",
   "iucn_id": "195960",

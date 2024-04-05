@@ -1,8 +1,7 @@
 {
   "name": "Hellenia speciosa",
   "authorship": "(J.Koenig) S.R.Dutta",
-  "genus_name": "Hellenia",
-  "family_name": "Costaceae",
+  "parent_name": "Hellenia",
   "gbif_id": "7584507",
   "powo_id": "60469691-2",
   "iucn_id": null,

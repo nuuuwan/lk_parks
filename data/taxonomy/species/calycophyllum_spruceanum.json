@@ -1,8 +1,7 @@
 {
   "name": "Calycophyllum spruceanum",
   "authorship": "(Benth.) Hook.f. ex K.Schum.",
-  "genus_name": "Calycophyllum",
-  "family_name": "Rubiaceae",
+  "parent_name": "Calycophyllum",
   "gbif_id": "2904000",
   "powo_id": "745249-1",
   "iucn_id": null,

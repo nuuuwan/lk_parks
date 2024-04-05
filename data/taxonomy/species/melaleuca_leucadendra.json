@@ -1,8 +1,7 @@
 {
   "name": "Melaleuca leucadendra",
   "authorship": "(L.) L.",
-  "genus_name": "Melaleuca",
-  "family_name": "Myrtaceae",
+  "parent_name": "Melaleuca",
   "gbif_id": "5415976",
   "powo_id": "598002-1",
   "iucn_id": "61917032",

@@ -1,8 +1,7 @@
 {
   "name": "Cerbera manghas",
   "authorship": "L.",
-  "genus_name": "Cerbera",
-  "family_name": "Apocynaceae",
+  "parent_name": "Cerbera",
   "gbif_id": "7155766",
   "powo_id": "77906-1",
   "iucn_id": "147649572",

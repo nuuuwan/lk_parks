@@ -1,8 +1,7 @@
 {
   "name": "Pleopeltis polypodioides",
   "authorship": "(L.) E.G.Andrews & Windham",
-  "genus_name": "Pleopeltis",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Pleopeltis",
   "gbif_id": "2650496",
   "powo_id": "1039912-2",
   "iucn_id": null,

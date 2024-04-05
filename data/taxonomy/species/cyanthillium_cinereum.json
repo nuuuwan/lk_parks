@@ -1,8 +1,7 @@
 {
   "name": "Cyanthillium cinereum",
   "authorship": "(L.) H.Rob.",
-  "genus_name": "Cyanthillium",
-  "family_name": "Asteraceae",
+  "parent_name": "Cyanthillium",
   "gbif_id": "6445734",
   "powo_id": "962413-1",
   "iucn_id": null,

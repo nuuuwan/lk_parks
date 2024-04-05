@@ -1,8 +1,7 @@
 {
   "name": "Salvia splendens",
   "authorship": "Sellow ex Nees",
-  "genus_name": "Salvia",
-  "family_name": "Lamiaceae",
+  "parent_name": "Salvia",
   "gbif_id": "8249932",
   "powo_id": "60466516-2",
   "iucn_id": null,

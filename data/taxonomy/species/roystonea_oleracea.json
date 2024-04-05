@@ -1,8 +1,7 @@
 {
   "name": "Roystonea oleracea",
   "authorship": "(Jacq.) O.F.Cook",
-  "genus_name": "Roystonea",
-  "family_name": "Arecaceae",
+  "parent_name": "Roystonea",
   "gbif_id": "2733738",
   "powo_id": "222805-2",
   "iucn_id": null,

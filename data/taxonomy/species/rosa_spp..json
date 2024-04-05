@@ -1,8 +1,7 @@
 {
   "name": "Rosa spp.",
   "authorship": "",
-  "genus_name": "Rosa",
-  "family_name": "Rosaceae",
+  "parent_name": "Rosa",
   "gbif_id": null,
   "powo_id": null,
   "iucn_id": null,

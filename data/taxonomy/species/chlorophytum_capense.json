@@ -1,8 +1,7 @@
 {
   "name": "Chlorophytum capense",
   "authorship": "(L.) Voss",
-  "genus_name": "Chlorophytum",
-  "family_name": "Asparagaceae",
+  "parent_name": "Chlorophytum",
   "gbif_id": "2774721",
   "powo_id": "532792-1",
   "iucn_id": null,

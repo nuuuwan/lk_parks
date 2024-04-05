@@ -1,8 +1,7 @@
 {
   "name": "Robinia viscosa",
   "authorship": "Michx. ex Vent.",
-  "genus_name": "Robinia",
-  "family_name": "Fabaceae",
+  "parent_name": "Robinia",
   "gbif_id": "5352245",
   "powo_id": "517799-1",
   "iucn_id": null,

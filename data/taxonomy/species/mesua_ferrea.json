@@ -1,8 +1,7 @@
 {
   "name": "Mesua ferrea",
   "authorship": "L.",
-  "genus_name": "Mesua",
-  "family_name": "Calophyllaceae",
+  "parent_name": "Mesua",
   "gbif_id": "7330039",
   "powo_id": "428832-1",
   "iucn_id": null,

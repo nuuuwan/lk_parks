@@ -1,8 +1,7 @@
 {
   "name": "Cananga odorata",
   "authorship": "(Lam.) Hook.f. & Thomson",
-  "genus_name": "Cananga",
-  "family_name": "Annonaceae",
+  "parent_name": "Cananga",
   "gbif_id": "5407583",
   "powo_id": "72580-1",
   "iucn_id": "61984545",

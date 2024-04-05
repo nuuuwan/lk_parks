@@ -1,8 +1,7 @@
 {
   "name": "Tabebuia rosea",
   "authorship": "(Bertol.) Bertero ex A.DC.",
-  "genus_name": "Tabebuia",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Tabebuia",
   "gbif_id": "3172537",
   "powo_id": "111027-1",
   "iucn_id": "61986278",

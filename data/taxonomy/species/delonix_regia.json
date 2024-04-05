@@ -1,8 +1,7 @@
 {
   "name": "Delonix regia",
   "authorship": "(Bojer) Raf.",
-  "genus_name": "Delonix",
-  "family_name": "Fabaceae",
+  "parent_name": "Delonix",
   "gbif_id": "2956176",
   "powo_id": null,
   "iucn_id": "32947",

@@ -1,8 +1,7 @@
 {
   "name": "Oroxylum indicum",
   "authorship": "(L.) Kurz",
-  "genus_name": "Oroxylum",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Oroxylum",
   "gbif_id": "7414934",
   "powo_id": "110175-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Hopea odorata",
   "authorship": "Roxb.",
-  "genus_name": "Hopea",
-  "family_name": "Dipterocarpaceae",
+  "parent_name": "Hopea",
   "gbif_id": "5669231",
   "powo_id": "320965-1",
   "iucn_id": "32305",

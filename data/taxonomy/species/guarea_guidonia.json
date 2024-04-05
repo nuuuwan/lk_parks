@@ -1,8 +1,7 @@
 {
   "name": "Guarea guidonia",
   "authorship": "(L.) Sleumer",
-  "genus_name": "Guarea",
-  "family_name": "Meliaceae",
+  "parent_name": "Guarea",
   "gbif_id": "3190500",
   "powo_id": "114060-2",
   "iucn_id": "61798180",

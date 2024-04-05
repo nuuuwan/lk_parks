@@ -1,8 +1,7 @@
 {
   "name": "Ficus virens",
   "authorship": "Aiton",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "9512597",
   "powo_id": "853954-1",
   "iucn_id": "147495192",

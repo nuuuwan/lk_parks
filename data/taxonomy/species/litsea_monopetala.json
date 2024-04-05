@@ -1,8 +1,7 @@
 {
   "name": "Litsea monopetala",
   "authorship": "(Roxb.) Pers.",
-  "genus_name": "Litsea",
-  "family_name": "Lauraceae",
+  "parent_name": "Litsea",
   "gbif_id": "4182444",
   "powo_id": "465855-1",
   "iucn_id": "150218025",

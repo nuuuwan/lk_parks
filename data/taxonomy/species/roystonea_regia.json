@@ -1,8 +1,7 @@
 {
   "name": "Roystonea regia",
   "authorship": "(Kunth) O.F.Cook",
-  "genus_name": "Roystonea",
-  "family_name": "Arecaceae",
+  "parent_name": "Roystonea",
   "gbif_id": "2733755",
   "powo_id": "222809-2",
   "iucn_id": "62329",

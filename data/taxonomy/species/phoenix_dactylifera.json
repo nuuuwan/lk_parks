@@ -1,8 +1,7 @@
 {
   "name": "Phoenix dactylifera",
   "authorship": "L.",
-  "genus_name": "Phoenix",
-  "family_name": "Arecaceae",
+  "parent_name": "Phoenix",
   "gbif_id": "6109699",
   "powo_id": "668912-1",
   "iucn_id": null,

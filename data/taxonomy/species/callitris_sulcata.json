@@ -1,8 +1,7 @@
 {
   "name": "Callitris sulcata",
   "authorship": "(Parl.) Schltr.",
-  "genus_name": "Callitris",
-  "family_name": "Cupressaceae",
+  "parent_name": "Callitris",
   "gbif_id": "2684314",
   "powo_id": "676689-1",
   "iucn_id": "30993",

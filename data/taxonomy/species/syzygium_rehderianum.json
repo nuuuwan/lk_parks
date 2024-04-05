@@ -1,8 +1,7 @@
 {
   "name": "Syzygium rehderianum",
   "authorship": "Merr. & L.M.Perry",
-  "genus_name": "Syzygium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syzygium",
   "gbif_id": "3182709",
   "powo_id": "602148-1",
   "iucn_id": "147655343",

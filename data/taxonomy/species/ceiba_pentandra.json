@@ -1,8 +1,7 @@
 {
   "name": "Ceiba pentandra",
   "authorship": "(L.) Gaertn.",
-  "genus_name": "Ceiba",
-  "family_name": "Malvaceae",
+  "parent_name": "Ceiba",
   "gbif_id": "5406697",
   "powo_id": "1166232-2",
   "iucn_id": "61782438",

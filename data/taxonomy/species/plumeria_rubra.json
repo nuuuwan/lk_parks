@@ -1,8 +1,7 @@
 {
   "name": "Plumeria rubra",
   "authorship": "L.",
-  "genus_name": "Plumeria",
-  "family_name": "Apocynaceae",
+  "parent_name": "Plumeria",
   "gbif_id": "3169674",
   "powo_id": "81275-1",
   "iucn_id": "144270910",

@@ -1,8 +1,7 @@
 {
   "name": "Oncidium leleui",
   "authorship": "R.Jim\u00e9nez & Soto Arenas",
-  "genus_name": "Oncidium",
-  "family_name": "Orchidaceae",
+  "parent_name": "Oncidium",
   "gbif_id": "5322357",
   "powo_id": "281586-2",
   "iucn_id": null,

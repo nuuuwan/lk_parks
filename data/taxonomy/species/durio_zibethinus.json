@@ -1,8 +1,7 @@
 {
   "name": "Durio zibethinus",
   "authorship": "L.",
-  "genus_name": "Durio",
-  "family_name": "Malvaceae",
+  "parent_name": "Durio",
   "gbif_id": "7502854",
   "powo_id": "559531-1",
   "iucn_id": null,

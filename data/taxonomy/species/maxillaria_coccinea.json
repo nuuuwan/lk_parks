@@ -1,8 +1,7 @@
 {
   "name": "Maxillaria coccinea",
   "authorship": "(Jacq.) L.O.Williams",
-  "genus_name": "Maxillaria",
-  "family_name": "Orchidaceae",
+  "parent_name": "Maxillaria",
   "gbif_id": "7698303",
   "powo_id": "154999-2",
   "iucn_id": null,

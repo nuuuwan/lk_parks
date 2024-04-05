@@ -1,8 +1,7 @@
 {
   "name": "Terminalia catappa",
   "authorship": "L.",
-  "genus_name": "Terminalia",
-  "family_name": "Combretaceae",
+  "parent_name": "Terminalia",
   "gbif_id": "3189394",
   "powo_id": "171034-1",
   "iucn_id": "61989853",

@@ -1,8 +1,7 @@
 {
   "name": "Cedrela odorata",
   "authorship": "L.",
-  "genus_name": "Cedrela",
-  "family_name": "Meliaceae",
+  "parent_name": "Cedrela",
   "gbif_id": "3190511",
   "powo_id": "51010-2",
   "iucn_id": "32292",

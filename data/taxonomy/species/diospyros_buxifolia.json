@@ -1,8 +1,7 @@
 {
   "name": "Diospyros buxifolia",
   "authorship": "(Blume) Hiern",
-  "genus_name": "Diospyros",
-  "family_name": "Ebenaceae",
+  "parent_name": "Diospyros",
   "gbif_id": "4070235",
   "powo_id": "322176-1",
   "iucn_id": "173387",

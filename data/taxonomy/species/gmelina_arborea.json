@@ -1,8 +1,7 @@
 {
   "name": "Gmelina arborea",
   "authorship": "Roxb.",
-  "genus_name": "Gmelina",
-  "family_name": "Lamiaceae",
+  "parent_name": "Gmelina",
   "gbif_id": "5341167",
   "powo_id": null,
   "iucn_id": "32354",

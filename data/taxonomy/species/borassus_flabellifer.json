@@ -1,8 +1,7 @@
 {
   "name": "Borassus flabellifer",
   "authorship": "L.",
-  "genus_name": "Borassus",
-  "family_name": "Arecaceae",
+  "parent_name": "Borassus",
   "gbif_id": "2733934",
   "powo_id": "664873-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Prunus scoparia",
   "authorship": "(Spach) C.K.Schneid.",
-  "genus_name": "Prunus",
-  "family_name": "Rosaceae",
+  "parent_name": "Prunus",
   "gbif_id": "3022108",
   "powo_id": "730249-1",
   "iucn_id": null,

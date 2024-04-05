@@ -1,8 +1,7 @@
 {
   "name": "Zea mays",
   "authorship": "L.",
-  "genus_name": "Zea",
-  "family_name": "Poaceae",
+  "parent_name": "Zea",
   "gbif_id": "5290052",
   "powo_id": "426810-1",
   "iucn_id": "77726273",

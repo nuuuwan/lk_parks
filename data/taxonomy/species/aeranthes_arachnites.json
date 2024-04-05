@@ -1,8 +1,7 @@
 {
   "name": "Aeranthes arachnites",
   "authorship": "(Thouars) Lindl.",
-  "genus_name": "Aeranthes",
-  "family_name": "Orchidaceae",
+  "parent_name": "Aeranthes",
   "gbif_id": "5826523",
   "powo_id": "615075-1",
   "iucn_id": null,

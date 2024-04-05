@@ -1,8 +1,7 @@
 {
   "name": "Melaleuca ericifolia",
   "authorship": "Sm.",
-  "genus_name": "Melaleuca",
-  "family_name": "Myrtaceae",
+  "parent_name": "Melaleuca",
   "gbif_id": "5415723",
   "powo_id": "597937-1",
   "iucn_id": "177374613",

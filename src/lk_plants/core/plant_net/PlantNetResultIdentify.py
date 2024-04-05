@@ -127,7 +127,7 @@ class PlantNetResultIdentify:
         plant_photo_list_filtered = [
             plant_photo
             for plant_photo in plant_photo_list
-            if PlantNetResultIdentify.filter_with_no_results(plant_photo)
+            if cls.filter_with_no_results(plant_photo)
         ]
         n_filtered = len(plant_photo_list_filtered)
         log.debug(f'{n_filtered=}')

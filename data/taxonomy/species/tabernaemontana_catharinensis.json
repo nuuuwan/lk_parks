@@ -1,8 +1,7 @@
 {
   "name": "Tabernaemontana catharinensis",
   "authorship": "A.DC.",
-  "genus_name": "Tabernaemontana",
-  "family_name": "Apocynaceae",
+  "parent_name": "Tabernaemontana",
   "gbif_id": "3618496",
   "powo_id": "82043-1",
   "iucn_id": "58920120",

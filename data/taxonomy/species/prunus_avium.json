@@ -1,8 +1,7 @@
 {
   "name": "Prunus avium",
   "authorship": "(L.) L.",
-  "genus_name": "Prunus",
-  "family_name": "Rosaceae",
+  "parent_name": "Prunus",
   "gbif_id": "3020791",
   "powo_id": "30093848-2",
   "iucn_id": "172064",

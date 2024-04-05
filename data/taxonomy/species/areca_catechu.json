@@ -1,8 +1,7 @@
 {
   "name": "Areca catechu",
   "authorship": "L.",
-  "genus_name": "Areca",
-  "family_name": "Arecaceae",
+  "parent_name": "Areca",
   "gbif_id": "2736531",
   "powo_id": "664107-1",
   "iucn_id": null,

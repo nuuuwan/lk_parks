@@ -1,8 +1,7 @@
 {
   "name": "Sapindus saponaria",
   "authorship": "L.",
-  "genus_name": "Sapindus",
-  "family_name": "Sapindaceae",
+  "parent_name": "Sapindus",
   "gbif_id": "8017915",
   "powo_id": "30035906-2",
   "iucn_id": "156771087",

@@ -1,8 +1,7 @@
 {
   "name": "Metrosideros robusta",
   "authorship": "A.Cunn.",
-  "genus_name": "Metrosideros",
-  "family_name": "Myrtaceae",
+  "parent_name": "Metrosideros",
   "gbif_id": "3185294",
   "powo_id": "598308-1",
   "iucn_id": null,

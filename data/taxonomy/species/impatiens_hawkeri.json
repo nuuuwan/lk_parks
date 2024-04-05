@@ -1,8 +1,7 @@
 {
   "name": "Impatiens hawkeri",
   "authorship": "W.Bull",
-  "genus_name": "Impatiens",
-  "family_name": "Balsaminaceae",
+  "parent_name": "Impatiens",
   "gbif_id": "4193702",
   "powo_id": "374127-1",
   "iucn_id": null,

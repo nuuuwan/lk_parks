@@ -1,8 +1,7 @@
 {
   "name": "Albizia procera",
   "authorship": "(Roxb.) Benth.",
-  "genus_name": "Albizia",
-  "family_name": "Fabaceae",
+  "parent_name": "Albizia",
   "gbif_id": "2973167",
   "powo_id": "473360-1",
   "iucn_id": "60757956",

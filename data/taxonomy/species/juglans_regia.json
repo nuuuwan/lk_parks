@@ -1,8 +1,7 @@
 {
   "name": "Juglans regia",
   "authorship": "L.",
-  "genus_name": "Juglans",
-  "family_name": "Juglandaceae",
+  "parent_name": "Juglans",
   "gbif_id": "3054368",
   "powo_id": "442427-1",
   "iucn_id": "63495",

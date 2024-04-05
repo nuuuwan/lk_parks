@@ -1,8 +1,7 @@
 {
   "name": "Bulbophyllum apodum",
   "authorship": "Hook.f.",
-  "genus_name": "Bulbophyllum",
-  "family_name": "Orchidaceae",
+  "parent_name": "Bulbophyllum",
   "gbif_id": "2846187",
   "powo_id": "618337-1",
   "iucn_id": null,

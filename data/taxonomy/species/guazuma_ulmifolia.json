@@ -1,8 +1,7 @@
 {
   "name": "Guazuma ulmifolia",
   "authorship": "Lam.",
-  "genus_name": "Guazuma",
-  "family_name": "Malvaceae",
+  "parent_name": "Guazuma",
   "gbif_id": "3152195",
   "powo_id": "823393-1",
   "iucn_id": "61785778",

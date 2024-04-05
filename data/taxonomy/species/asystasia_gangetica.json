@@ -1,8 +1,7 @@
 {
   "name": "Asystasia gangetica",
   "authorship": "(L.) T.Anderson",
-  "genus_name": "Asystasia",
-  "family_name": "Acanthaceae",
+  "parent_name": "Asystasia",
   "gbif_id": "3173254",
   "powo_id": "45742-1",
   "iucn_id": null,

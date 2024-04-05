@@ -1,8 +1,7 @@
 {
   "name": "Podocarpus latifolius",
   "authorship": "(Thunb.) R.Br. ex Mirb.",
-  "genus_name": "Podocarpus",
-  "family_name": "Podocarpaceae",
+  "parent_name": "Podocarpus",
   "gbif_id": "5285951",
   "powo_id": "828314-1",
   "iucn_id": "42510",

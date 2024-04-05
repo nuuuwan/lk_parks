@@ -1,8 +1,7 @@
 {
   "name": "Pterocarpus santalinus",
   "authorship": "L.f.",
-  "genus_name": "Pterocarpus",
-  "family_name": "Fabaceae",
+  "parent_name": "Pterocarpus",
   "gbif_id": "5708628",
   "powo_id": "516570-1",
   "iucn_id": "32104",

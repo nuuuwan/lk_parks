@@ -1,8 +1,7 @@
 {
   "name": "Melastoma malabathricum",
   "authorship": "L.",
-  "genus_name": "Melastoma",
-  "family_name": "Melastomataceae",
+  "parent_name": "Melastoma",
   "gbif_id": "3188511",
   "powo_id": "570989-1",
   "iucn_id": null,

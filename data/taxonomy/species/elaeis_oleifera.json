@@ -1,8 +1,7 @@
 {
   "name": "Elaeis oleifera",
   "authorship": "(Kunth) Cort\u00e9s",
-  "genus_name": "Elaeis",
-  "family_name": "Arecaceae",
+  "parent_name": "Elaeis",
   "gbif_id": "8791596",
   "powo_id": "88982-2",
   "iucn_id": null,

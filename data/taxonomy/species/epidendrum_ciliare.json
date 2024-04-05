@@ -1,8 +1,7 @@
 {
   "name": "Epidendrum ciliare",
   "authorship": "L.",
-  "genus_name": "Epidendrum",
-  "family_name": "Orchidaceae",
+  "parent_name": "Epidendrum",
   "gbif_id": "5320796",
   "powo_id": "631578-1",
   "iucn_id": null,

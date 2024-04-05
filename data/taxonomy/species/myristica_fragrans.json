@@ -1,8 +1,7 @@
 {
   "name": "Myristica fragrans",
   "authorship": "Houtt.",
-  "genus_name": "Myristica",
-  "family_name": "Myristicaceae",
+  "parent_name": "Myristica",
   "gbif_id": "5406817",
   "powo_id": "586076-1",
   "iucn_id": "33986",

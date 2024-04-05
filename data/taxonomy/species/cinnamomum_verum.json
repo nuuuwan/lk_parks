@@ -1,8 +1,7 @@
 {
   "name": "Cinnamomum verum",
   "authorship": "J.Presl",
-  "genus_name": "Cinnamomum",
-  "family_name": "Lauraceae",
+  "parent_name": "Cinnamomum",
   "gbif_id": "3033987",
   "powo_id": "463752-1",
   "iucn_id": null,

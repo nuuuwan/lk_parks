@@ -1,8 +1,7 @@
 {
   "name": "Zantedeschia aethiopica",
   "authorship": "(L.) Spreng.",
-  "genus_name": "Zantedeschia",
-  "family_name": "Araceae",
+  "parent_name": "Zantedeschia",
   "gbif_id": "2868827",
   "powo_id": "89403-1",
   "iucn_id": "164507",

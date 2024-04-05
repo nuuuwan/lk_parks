@@ -1,8 +1,7 @@
 {
   "name": "Avicennia marina",
   "authorship": "(Forssk.) Vierh.",
-  "genus_name": "Avicennia",
-  "family_name": "Acanthaceae",
+  "parent_name": "Avicennia",
   "gbif_id": "2925403",
   "powo_id": "861130-1",
   "iucn_id": "178828",

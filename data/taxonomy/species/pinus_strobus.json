@@ -1,8 +1,7 @@
 {
   "name": "Pinus strobus",
   "authorship": "L.",
-  "genus_name": "Pinus",
-  "family_name": "Pinaceae",
+  "parent_name": "Pinus",
   "gbif_id": "5284982",
   "powo_id": "197100-2",
   "iucn_id": "42417",

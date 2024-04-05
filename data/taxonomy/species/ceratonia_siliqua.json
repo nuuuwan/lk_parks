@@ -1,8 +1,7 @@
 {
   "name": "Ceratonia siliqua",
   "authorship": "L.",
-  "genus_name": "Ceratonia",
-  "family_name": "Fabaceae",
+  "parent_name": "Ceratonia",
   "gbif_id": "5356354",
   "powo_id": "485647-1",
   "iucn_id": "202951",

@@ -1,8 +1,7 @@
 {
   "name": "Livistona chinensis",
   "authorship": "(Jacq.) R.Br. ex Mart.",
-  "genus_name": "Livistona",
-  "family_name": "Arecaceae",
+  "parent_name": "Livistona",
   "gbif_id": "2733469",
   "powo_id": "668021-1",
   "iucn_id": null,

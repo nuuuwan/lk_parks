@@ -1,8 +1,7 @@
 {
   "name": "Coccoloba uvifera",
   "authorship": "(L.) L.",
-  "genus_name": "Coccoloba",
-  "family_name": "Polygonaceae",
+  "parent_name": "Coccoloba",
   "gbif_id": "2888831",
   "powo_id": "693918-1",
   "iucn_id": "156770168",

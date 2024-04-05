@@ -1,8 +1,7 @@
 {
   "name": "Ravenala madagascariensis",
   "authorship": "Sonn.",
-  "genus_name": "Ravenala",
-  "family_name": "Strelitziaceae",
+  "parent_name": "Ravenala",
   "gbif_id": "2763095",
   "powo_id": "60466138-2",
   "iucn_id": "137831330",

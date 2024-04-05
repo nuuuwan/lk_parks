@@ -1,8 +1,7 @@
 {
   "name": "Bauhinia variegata",
   "authorship": "L.",
-  "genus_name": "Bauhinia",
-  "family_name": "Fabaceae",
+  "parent_name": "Bauhinia",
   "gbif_id": "2953251",
   "powo_id": "481756-1",
   "iucn_id": "19893142",

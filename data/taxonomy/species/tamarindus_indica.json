@@ -1,8 +1,7 @@
 {
   "name": "Tamarindus indica",
   "authorship": "L.",
-  "genus_name": "Tamarindus",
-  "family_name": "Fabaceae",
+  "parent_name": "Tamarindus",
   "gbif_id": "2975768",
   "powo_id": "520167-1",
   "iucn_id": "62020997",

@@ -1,8 +1,7 @@
 {
   "name": "Phyllanthus emblica",
   "authorship": "L.",
-  "genus_name": "Phyllanthus",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Phyllanthus",
   "gbif_id": "5381660",
   "powo_id": "353838-1",
   "iucn_id": "149444430",

@@ -1,8 +1,7 @@
 {
   "name": "Saraca asoca",
   "authorship": "(Roxb.) W.J.de Wilde",
-  "genus_name": "Saraca",
-  "family_name": "Fabaceae",
+  "parent_name": "Saraca",
   "gbif_id": "7458904",
   "powo_id": "517883-1",
   "iucn_id": "34623",

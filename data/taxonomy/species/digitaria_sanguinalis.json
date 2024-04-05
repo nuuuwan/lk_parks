@@ -1,8 +1,7 @@
 {
   "name": "Digitaria sanguinalis",
   "authorship": "(L.) Scop.",
-  "genus_name": "Digitaria",
-  "family_name": "Poaceae",
+  "parent_name": "Digitaria",
   "gbif_id": "5289972",
   "powo_id": "399115-1",
   "iucn_id": null,

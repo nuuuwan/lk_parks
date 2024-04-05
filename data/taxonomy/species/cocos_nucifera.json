@@ -1,8 +1,7 @@
 {
   "name": "Cocos nucifera",
   "authorship": "L.",
-  "genus_name": "Cocos",
-  "family_name": "Arecaceae",
+  "parent_name": "Cocos",
   "gbif_id": "2735117",
   "powo_id": "666160-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Drynaria rigidula",
   "authorship": "(Sw.) Bedd.",
-  "genus_name": "Drynaria",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Drynaria",
   "gbif_id": "7126699",
   "powo_id": "17091820-1",
   "iucn_id": null,

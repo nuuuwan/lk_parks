@@ -1,8 +1,7 @@
 {
   "name": "Monodora tenuifolia",
   "authorship": "Benth.",
-  "genus_name": "Monodora",
-  "family_name": "Annonaceae",
+  "parent_name": "Monodora",
   "gbif_id": "3154093",
   "powo_id": "74147-1",
   "iucn_id": "132683676",

@@ -1,8 +1,7 @@
 {
   "name": "Areca triandra",
   "authorship": "Roxb. ex Buch.-Ham.",
-  "genus_name": "Areca",
-  "family_name": "Arecaceae",
+  "parent_name": "Areca",
   "gbif_id": "2736565",
   "powo_id": "664230-1",
   "iucn_id": "111452558",

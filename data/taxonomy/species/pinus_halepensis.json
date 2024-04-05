@@ -1,8 +1,7 @@
 {
   "name": "Pinus halepensis",
   "authorship": "Mill.",
-  "genus_name": "Pinus",
-  "family_name": "Pinaceae",
+  "parent_name": "Pinus",
   "gbif_id": "5285604",
   "powo_id": "262982-1",
   "iucn_id": "42366",

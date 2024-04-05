@@ -1,8 +1,7 @@
 {
   "name": "Artocarpus altilis",
   "authorship": "(Parkinson) Fosberg",
-  "genus_name": "Artocarpus",
-  "family_name": "Moraceae",
+  "parent_name": "Artocarpus",
   "gbif_id": "2984573",
   "powo_id": "582598-1",
   "iucn_id": null,

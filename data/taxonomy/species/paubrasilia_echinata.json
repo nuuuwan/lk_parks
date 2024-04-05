@@ -1,8 +1,7 @@
 {
   "name": "Paubrasilia echinata",
   "authorship": "(Lam.) Gagnon, H.C.Lima & G.P.Lewis",
-  "genus_name": "Paubrasilia",
-  "family_name": "Fabaceae",
+  "parent_name": "Paubrasilia",
   "gbif_id": "9119360",
   "powo_id": "77158012-1",
   "iucn_id": "33974",

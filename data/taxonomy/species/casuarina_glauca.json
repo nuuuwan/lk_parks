@@ -1,8 +1,7 @@
 {
   "name": "Casuarina glauca",
   "authorship": "Sieber ex Spreng.",
-  "genus_name": "Casuarina",
-  "family_name": "Casuarinaceae",
+  "parent_name": "Casuarina",
   "gbif_id": "2891926",
   "powo_id": "52191-3",
   "iucn_id": "177363793",

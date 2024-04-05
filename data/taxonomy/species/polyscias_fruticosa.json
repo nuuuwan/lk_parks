@@ -1,8 +1,7 @@
 {
   "name": "Polyscias fruticosa",
   "authorship": "(L.) Harms",
-  "genus_name": "Polyscias",
-  "family_name": "Araliaceae",
+  "parent_name": "Polyscias",
   "gbif_id": "3035652",
   "powo_id": "847351-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Populus lasiocarpa",
   "authorship": "Oliv.",
-  "genus_name": "Populus",
-  "family_name": "Salicaceae",
+  "parent_name": "Populus",
   "gbif_id": "7266360",
   "powo_id": "776745-1",
   "iucn_id": null,

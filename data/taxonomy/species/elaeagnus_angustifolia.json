@@ -1,8 +1,7 @@
 {
   "name": "Elaeagnus angustifolia",
   "authorship": "L.",
-  "genus_name": "Elaeagnus",
-  "family_name": "Elaeagnaceae",
+  "parent_name": "Elaeagnus",
   "gbif_id": "3039269",
   "powo_id": "323646-1",
   "iucn_id": "62002626",

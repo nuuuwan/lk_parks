@@ -1,8 +1,7 @@
 {
   "name": "Elaeocarpus grandiflorus",
   "authorship": "Sm.",
-  "genus_name": "Elaeocarpus",
-  "family_name": "Elaeocarpaceae",
+  "parent_name": "Elaeocarpus",
   "gbif_id": "8368501",
   "powo_id": "833832-1",
   "iucn_id": null,

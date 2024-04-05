@@ -1,8 +1,7 @@
 {
   "name": "Laelia autumnalis",
   "authorship": "(Lex.) Lindl.",
-  "genus_name": "Laelia",
-  "family_name": "Orchidaceae",
+  "parent_name": "Laelia",
   "gbif_id": "5314551",
   "powo_id": "639553-1",
   "iucn_id": null,

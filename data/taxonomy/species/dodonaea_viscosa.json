@@ -1,8 +1,7 @@
 {
   "name": "Dodonaea viscosa",
   "authorship": "Jacq.",
-  "genus_name": "Dodonaea",
-  "family_name": "Sapindaceae",
+  "parent_name": "Dodonaea",
   "gbif_id": "5421144",
   "powo_id": "30058367-2",
   "iucn_id": "66292425",

@@ -1,8 +1,7 @@
 {
   "name": "Encyclia tampensis",
   "authorship": "(Lindl.) Small",
-  "genus_name": "Encyclia",
-  "family_name": "Orchidaceae",
+  "parent_name": "Encyclia",
   "gbif_id": "2827342",
   "powo_id": "631078-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Millingtonia hortensis",
   "authorship": "L.f.",
-  "genus_name": "Millingtonia",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Millingtonia",
   "gbif_id": "7629955",
   "powo_id": "110118-1",
   "iucn_id": null,

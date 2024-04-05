@@ -1,8 +1,7 @@
 {
   "name": "Acacia auriculiformis",
   "authorship": "A.Cunn. ex Benth.",
-  "genus_name": "Acacia",
-  "family_name": "Fabaceae",
+  "parent_name": "Acacia",
   "gbif_id": "2981001",
   "powo_id": "469784-1",
   "iucn_id": "19891902",

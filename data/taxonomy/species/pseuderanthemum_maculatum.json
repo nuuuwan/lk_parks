@@ -1,8 +1,7 @@
 {
   "name": "Pseuderanthemum maculatum",
   "authorship": "(G.Lodd.) I.M.Turner",
-  "genus_name": "Pseuderanthemum",
-  "family_name": "Acanthaceae",
+  "parent_name": "Pseuderanthemum",
   "gbif_id": "9450473",
   "powo_id": "77158889-1",
   "iucn_id": null,

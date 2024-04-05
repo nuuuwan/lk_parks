@@ -1,8 +1,7 @@
 {
   "name": "Nuxia floribunda",
   "authorship": "Benth.",
-  "genus_name": "Nuxia",
-  "family_name": "Stilbaceae",
+  "parent_name": "Nuxia",
   "gbif_id": "4055807",
   "powo_id": "546825-1",
   "iucn_id": "146221137",

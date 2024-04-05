@@ -1,8 +1,7 @@
 {
   "name": "Pterocarpus indicus",
   "authorship": "Willd.",
-  "genus_name": "Pterocarpus",
-  "family_name": "Fabaceae",
+  "parent_name": "Pterocarpus",
   "gbif_id": "5349242",
   "powo_id": "516487-1",
   "iucn_id": "33241",

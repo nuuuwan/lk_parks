@@ -1,8 +1,7 @@
 {
   "name": "Bougainvillea buttiana",
   "authorship": "Holttum & Standl.",
-  "genus_name": "Bougainvillea",
-  "family_name": "Nyctaginaceae",
+  "parent_name": "Bougainvillea",
   "gbif_id": "5553651",
   "powo_id": "35442-2",
   "iucn_id": null,

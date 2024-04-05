@@ -1,8 +1,7 @@
 {
   "name": "Tecoma fulva",
   "authorship": "(Cav.) G.Don",
-  "genus_name": "Tecoma",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Tecoma",
   "gbif_id": "7298537",
   "powo_id": "111166-1",
   "iucn_id": null,

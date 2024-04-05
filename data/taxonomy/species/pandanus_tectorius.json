@@ -1,8 +1,7 @@
 {
   "name": "Pandanus tectorius",
   "authorship": "Parkinson ex Du Roi",
-  "genus_name": "Pandanus",
-  "family_name": "Pandanaceae",
+  "parent_name": "Pandanus",
   "gbif_id": "8023236",
   "powo_id": "895770-1",
   "iucn_id": "62335",

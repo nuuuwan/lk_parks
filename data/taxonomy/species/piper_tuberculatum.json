@@ -1,8 +1,7 @@
 {
   "name": "Piper tuberculatum",
   "authorship": "Jacq.",
-  "genus_name": "Piper",
-  "family_name": "Piperaceae",
+  "parent_name": "Piper",
   "gbif_id": "3086328",
   "powo_id": "683806-1",
   "iucn_id": "205474850",

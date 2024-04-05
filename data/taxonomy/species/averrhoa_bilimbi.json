@@ -1,8 +1,7 @@
 {
   "name": "Averrhoa bilimbi",
   "authorship": "L.",
-  "genus_name": "Averrhoa",
-  "family_name": "Oxalidaceae",
+  "parent_name": "Averrhoa",
   "gbif_id": "2891640",
   "powo_id": "371869-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Manilkara zapota",
   "authorship": "(L.) P.Royen",
-  "genus_name": "Manilkara",
-  "family_name": "Sapotaceae",
+  "parent_name": "Manilkara",
   "gbif_id": "2885158",
   "powo_id": "152641-2",
   "iucn_id": "61964429",

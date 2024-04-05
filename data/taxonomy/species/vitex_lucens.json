@@ -1,8 +1,7 @@
 {
   "name": "Vitex lucens",
   "authorship": "Kirk",
-  "genus_name": "Vitex",
-  "family_name": "Lamiaceae",
+  "parent_name": "Vitex",
   "gbif_id": "3904526",
   "powo_id": "865843-1",
   "iucn_id": "158843357",

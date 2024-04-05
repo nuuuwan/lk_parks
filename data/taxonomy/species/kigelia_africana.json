@@ -1,8 +1,7 @@
 {
   "name": "Kigelia africana",
   "authorship": "(Lam.) Benth.",
-  "genus_name": "Kigelia",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Kigelia",
   "gbif_id": "3172561",
   "powo_id": "109874-1",
   "iucn_id": "61986013",

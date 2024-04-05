@@ -1,8 +1,7 @@
 {
   "name": "Monoon longifolium",
   "authorship": "(Sonn.) B.Xue & R.M.K.Saunders",
-  "genus_name": "Monoon",
-  "family_name": "Annonaceae",
+  "parent_name": "Monoon",
   "gbif_id": "11001249",
   "powo_id": "77123022-1",
   "iucn_id": null,

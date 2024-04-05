@@ -1,8 +1,7 @@
 {
   "name": "Tabebuia heterophylla",
   "authorship": "(DC.) Britton",
-  "genus_name": "Tabebuia",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Tabebuia",
   "gbif_id": "3172526",
   "powo_id": "248689-2",
   "iucn_id": "157815878",

@@ -1,8 +1,7 @@
 {
   "name": "Rosa damascena",
   "authorship": "Herrm.",
-  "genus_name": "Rosa",
-  "family_name": "Rosaceae",
+  "parent_name": "Rosa",
   "gbif_id": "3008478",
   "powo_id": "2968261-4",
   "iucn_id": null,

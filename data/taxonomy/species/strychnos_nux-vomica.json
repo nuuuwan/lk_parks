@@ -1,8 +1,7 @@
 {
   "name": "Strychnos nux-vomica",
   "authorship": "L.",
-  "genus_name": "Strychnos",
-  "family_name": "Loganiaceae",
+  "parent_name": "Strychnos",
   "gbif_id": "5414399",
   "powo_id": "547371-1",
   "iucn_id": null,

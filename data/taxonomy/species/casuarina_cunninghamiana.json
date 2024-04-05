@@ -1,8 +1,7 @@
 {
   "name": "Casuarina cunninghamiana",
   "authorship": "Miq.",
-  "genus_name": "Casuarina",
-  "family_name": "Casuarinaceae",
+  "parent_name": "Casuarina",
   "gbif_id": "2891932",
   "powo_id": "159845-1",
   "iucn_id": "61988221",

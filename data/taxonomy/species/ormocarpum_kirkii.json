@@ -1,8 +1,7 @@
 {
   "name": "Ormocarpum kirkii",
   "authorship": "S.Moore",
-  "genus_name": "Ormocarpum",
-  "family_name": "Fabaceae",
+  "parent_name": "Ormocarpum",
   "gbif_id": "2954031",
   "powo_id": "510628-1",
   "iucn_id": "149508535",

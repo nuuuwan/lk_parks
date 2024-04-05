@@ -1,8 +1,7 @@
 {
   "name": "Antidesma montanum",
   "authorship": "Blume",
-  "genus_name": "Antidesma",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Antidesma",
   "gbif_id": "3076595",
   "powo_id": "339006-1",
   "iucn_id": "135813344",

@@ -1,8 +1,7 @@
 {
   "name": "Citharexylum spinosum",
   "authorship": "L.",
-  "genus_name": "Citharexylum",
-  "family_name": "Verbenaceae",
+  "parent_name": "Citharexylum",
   "gbif_id": "2925396",
   "powo_id": "322339-2",
   "iucn_id": "60330342",

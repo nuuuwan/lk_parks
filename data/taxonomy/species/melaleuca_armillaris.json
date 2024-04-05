@@ -1,8 +1,7 @@
 {
   "name": "Melaleuca armillaris",
   "authorship": "(Sol. ex Gaertn.) Sm.",
-  "genus_name": "Melaleuca",
-  "family_name": "Myrtaceae",
+  "parent_name": "Melaleuca",
   "gbif_id": "5415719",
   "powo_id": "597845-1",
   "iucn_id": "177373967",

@@ -1,8 +1,7 @@
 {
   "name": "Calophyllum inophyllum",
   "authorship": "L.",
-  "genus_name": "Calophyllum",
-  "family_name": "Calophyllaceae",
+  "parent_name": "Calophyllum",
   "gbif_id": "9531830",
   "powo_id": "427190-1",
   "iucn_id": "33196",

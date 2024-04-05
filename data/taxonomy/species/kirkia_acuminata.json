@@ -1,8 +1,7 @@
 {
   "name": "Kirkia acuminata",
   "authorship": "Oliv.",
-  "genus_name": "Kirkia",
-  "family_name": "Kirkiaceae",
+  "parent_name": "Kirkia",
   "gbif_id": "5555218",
   "powo_id": "813789-1",
   "iucn_id": "146205655",

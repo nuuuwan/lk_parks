@@ -1,8 +1,7 @@
 {
   "name": "Harpullia arborea",
   "authorship": "(Blanco) Radlk.",
-  "genus_name": "Harpullia",
-  "family_name": "Sapindaceae",
+  "parent_name": "Harpullia",
   "gbif_id": "3190016",
   "powo_id": "783304-1",
   "iucn_id": "61961543",

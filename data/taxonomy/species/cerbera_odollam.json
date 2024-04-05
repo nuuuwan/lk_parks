@@ -1,8 +1,7 @@
 {
   "name": "Cerbera odollam",
   "authorship": "Gaertn.",
-  "genus_name": "Cerbera",
-  "family_name": "Apocynaceae",
+  "parent_name": "Cerbera",
   "gbif_id": "7155753",
   "powo_id": "77913-1",
   "iucn_id": "61984781",

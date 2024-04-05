@@ -1,8 +1,7 @@
 {
   "name": "Ageratina riparia",
   "authorship": "(Regel) R.M.King & H.Rob.",
-  "genus_name": "Ageratina",
-  "family_name": "Asteraceae",
+  "parent_name": "Ageratina",
   "gbif_id": "5400790",
   "powo_id": "7013-2",
   "iucn_id": null,

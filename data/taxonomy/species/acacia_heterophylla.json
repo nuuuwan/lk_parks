@@ -1,8 +1,7 @@
 {
   "name": "Acacia heterophylla",
   "authorship": "(Lam.) Willd.",
-  "genus_name": "Acacia",
-  "family_name": "Fabaceae",
+  "parent_name": "Acacia",
   "gbif_id": "2979641",
   "powo_id": "470519-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Pyrrosia eleagnifolia",
   "authorship": "(Bory) Hovenkamp",
-  "genus_name": "Pyrrosia",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Pyrrosia",
   "gbif_id": "5648235",
   "powo_id": "17516110-1",
   "iucn_id": null,

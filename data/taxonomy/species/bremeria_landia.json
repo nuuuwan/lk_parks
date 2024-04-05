@@ -1,8 +1,7 @@
 {
   "name": "Bremeria landia",
   "authorship": "(Poir.) Razafim. & Alejandro",
-  "genus_name": "Bremeria",
-  "family_name": "Rubiaceae",
+  "parent_name": "Bremeria",
   "gbif_id": "5336434",
   "powo_id": "77111445-1",
   "iucn_id": null,

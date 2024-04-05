@@ -1,8 +1,7 @@
 {
   "name": "Pinus pinaster",
   "authorship": "Aiton",
-  "genus_name": "Pinus",
-  "family_name": "Pinaceae",
+  "parent_name": "Pinus",
   "gbif_id": "5285565",
   "powo_id": "263216-1",
   "iucn_id": "42390",
