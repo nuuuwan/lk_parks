@@ -128,7 +128,7 @@ class WikiPage:
 
         key = self.wiki_page_name.replace("_", " ")
 
-        text = text.replace(f' {key} ', Markdown.bold(key))
+        text = text.replace(f' {key} ',' ' +  Markdown.bold(key) + ' ')
 
         if len(text) <= n_chars:
             return text
