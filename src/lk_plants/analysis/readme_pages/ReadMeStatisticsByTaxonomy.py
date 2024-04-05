@@ -61,7 +61,7 @@ class ReadMeStatisticsByTaxonomy(MarkdownPage, InfoReadMe):
                 Markdown.ALIGN_LEFT,
                 Markdown.ALIGN_RIGHT,
                 Markdown.ALIGN_RIGHT,
-                 Markdown.ALIGN_LEFT,
+                Markdown.ALIGN_LEFT,
             ],
         )
 
@@ -77,11 +77,19 @@ class ReadMeStatisticsByTaxonomy(MarkdownPage, InfoReadMe):
             wiki_page_name = Taxon.get_wiki_page_name(key)
             description = ''
             if 'Others' not in key and 'Unknown-' not in key:
-                description = WikiPage.from_wiki_page_name(wiki_page_name).get_summary_truncated(LEN_DESCRIPTION)
+                description = WikiPage.from_wiki_page_name(
+                    wiki_page_name
+                ).get_summary_truncated(LEN_DESCRIPTION)
 
             lines.extend(
                 Markdown.table(
-                    [row_str, Markdown.wiki_link(key), f'{n:,}', f'{p:.1%}', description],
+                    [
+                        row_str,
+                        Markdown.wiki_link(key),
+                        f'{n:,}',
+                        f'{p:.1%}',
+                        description,
+                    ],
                 )
             )
 

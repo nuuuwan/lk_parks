@@ -1,4 +1,4 @@
-from lk_plants import ReadMeSunburst, ReadMeStatisticsByTaxonomy
+from lk_plants import ReadMeStatisticsByTaxonomy
 
 
 def test_main():

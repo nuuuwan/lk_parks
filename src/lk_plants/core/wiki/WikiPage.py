@@ -117,6 +117,8 @@ class WikiPage:
         log.info('build_from_plant_photos: done')
 
     def get_summary_truncated(self, n_chars: int) -> str:
-        if len(self.summary) <= n_chars:
-            return self.summary
-        return self.summary[:(n_chars-3)] + '...'
+        text = self.summary
+        text = text.replace('()', '')
+        if len(text) <= n_chars:
+            return text
+        return text[:(n_chars-3)] + '...'
