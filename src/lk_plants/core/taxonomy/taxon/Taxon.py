@@ -89,8 +89,7 @@ class Taxon(TaxonSerialize, TaxonList):
     def get_parent_class(cls):
         raise NotImplementedError
 
-
-    @cached_property 
+    @cached_property
     def rank_idx(self):
         return {self.__class__.get_class_key(): self.name} | (
             self.parent.rank_idx if self.parent else {}
