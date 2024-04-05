@@ -112,7 +112,7 @@ class ReadMeStatisticsByTaxonomy(MarkdownPage, InfoReadMe):
             'family',
             'order',
             'classis',
-            'phyllum',
+            'phylum',
         ]:
             lines_for_rank =   self.get_lines_analysis_by_rank(rank)
             lines.extend(lines_for_rank)
