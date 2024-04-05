@@ -3,8 +3,9 @@ from functools import cached_property
 from utils import Log, Time, TimeFormat
 
 from lk_plants.analysis.InfoReadMe import InfoReadMe
-from lk_plants.analysis.readme_pages.ReadMeIdentificationCommon import \
-    ReadMeIdentificationCommon
+from lk_plants.analysis.readme_pages.ReadMeIdentificationCommon import (
+    ReadMeIdentificationCommon,
+)
 from lk_plants.core.plant_net.PlantNetResult import PlantNetResult
 from lk_plants.core.taxonomy.Species import Species
 from utils_future import MarkdownPage

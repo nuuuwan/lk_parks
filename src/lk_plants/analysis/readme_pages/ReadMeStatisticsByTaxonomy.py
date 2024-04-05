@@ -122,7 +122,7 @@ class ReadMeStatisticsByTaxonomy(MarkdownPage, InfoReadMe):
     @cached_property
     def lines_for_ranks(self):
         lines = []
-        ranks = reversed(RankClass.list_all_keys()[3:])
+        ranks = reversed(RankClass.list_all_keys()[2:])
         for rank in ranks:
             lines_for_rank = self.get_lines_analysis_by_rank(rank)
             lines.extend(lines_for_rank)

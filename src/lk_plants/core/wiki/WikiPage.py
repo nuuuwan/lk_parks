@@ -1,4 +1,5 @@
 import os
+import re
 import time
 from dataclasses import dataclass
 from functools import cache
@@ -121,9 +122,10 @@ class WikiPage:
         text = self.summary
         for k in ['()', '( or )']:
             text = text.replace(k, '')
+        text = re.sub(f'\\s+', ' ', text).strip()
         if 'may refer to' in text:
             return Markdown.wiki_link(self.wiki_page_name)
 
         if len(text) <= n_chars:
             return text
-        return text[:(n_chars-3)] + '...'
+        return text[: (n_chars - 3)] + '...'
