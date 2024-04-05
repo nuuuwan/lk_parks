@@ -11,6 +11,6 @@ from lk_plants.core import (GBIF, Classis, DataApp, Domain, Family, Genus,
                             Kingdom, NameTranslator, Order, Phylum,
                             PlantNetResult, PlantNetResultBase,
                             PlantNetResultIdentify, PlantPhoto, PlantPhotoBase,
-                            PlantPhotoOriginalImage, Species, Taxon, TaxonList,
-                            TaxonSerialize, WikiPage)
+                            PlantPhotoOriginalImage, RankClass, Species, Taxon,
+                            TaxonList, TaxonSerialize, WikiPage)
 from lk_plants.twtr import AnnotatedImage, Twtr

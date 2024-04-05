@@ -8,6 +8,7 @@ from utils import Log
 
 from lk_plants.analysis.InfoReadMe import InfoReadMe
 from lk_plants.core import PlantNetResult, Species
+from lk_plants.core.taxonomy import RankClass
 from utils_future import Markdown, MarkdownPage
 
 log = Log('ReadMeSunburst')
@@ -66,22 +67,9 @@ class ReadMeSunburst(MarkdownPage, InfoReadMe):
     def line_chart_data(self):
         d_list = self.d_list
 
-        rank_type_list = [
-            'domain',
-            'kingdom',
-            'phylum',
-            'classis',
-            'order',
-            'family',
-            'genus',
-            'species',
-        ]
+        rank_type_list = RankClass.list_all_keys()
 
-        names = []
-        parents = []
-        values = []
-        colors = []
-
+        names, parents, values, colors = [], [], [], []
         color_rank_type = "genus"
 
         for i, rank_type in enumerate(rank_type_list[1:], start=1):

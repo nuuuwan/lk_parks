@@ -4,6 +4,7 @@ from utils import Log
 
 from lk_plants.analysis.InfoReadMe import InfoReadMe
 from lk_plants.core.plant_net.PlantNetResult import PlantNetResult
+from lk_plants.core.taxonomy import RankClass
 from lk_plants.core.taxonomy.Species import Species
 from utils_future import Markdown, MarkdownPage
 
@@ -104,14 +105,8 @@ class ReadMeStatisticsByTaxonomy(MarkdownPage, InfoReadMe):
     @cached_property
     def lines_for_ranks(self):
         lines = []
-        for rank in [
-            'species',
-            'genus',
-            'family',
-            'order',
-            'classis',
-            'phylum',
-        ]:
+        ranks = reversed(RankClass.list_all_keys()[3:])
+        for rank in ranks:
             lines_for_rank = self.get_lines_analysis_by_rank(rank)
             lines.extend(lines_for_rank)
         return lines

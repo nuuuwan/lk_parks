@@ -85,13 +85,3 @@
 | 5 | *Unknown-Classis* | 1 | 0.1% |
 | 6 | [*Cycadopsida*](https://en.wikipedia.org/wiki/Cycadopsida) | 1 | 0.1% |
 | 7 | *(All Others)* | 0 | 0.0% |
-
-### Phylum
-
-**2** unique Phylum(s).
-
-| # | Phylum | n(Photos) | % |
-| ---: | :--- | ---: | ---: |
-| 1 | [*Tracheophyta*](https://en.wikipedia.org/wiki/Tracheophyta) | 917 | 99.9% |
-| 2 | *Unknown-Phylum* | 1 | 0.1% |
-| 3 | *(All Others)* | 0 | 0.0% |
