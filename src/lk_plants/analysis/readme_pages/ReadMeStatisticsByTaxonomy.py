@@ -85,10 +85,10 @@ class ReadMeStatisticsByTaxonomy(MarkdownPage, InfoReadMe):
                     species = Species.from_name(key)
                     common_names = species.common_names
                     description = Markdown.bold(
-                        'Common Names: '
-                    ) + Markdown.italic(
-                        ', '.join(common_names) + '. ' + description
-                    )
+                        'Common Names:'
+                    ) + ' ' + Markdown.italic(
+                        ', '.join(common_names)) + '. ' + description
+                    
 
             lines.extend(
                 Markdown.table(
