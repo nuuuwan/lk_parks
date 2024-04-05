@@ -1,12 +1,14 @@
 import os
 from functools import cached_property
-
+import pandas
+import plotly
 import plotly.express as px
 import plotly.io as pio
 from utils import Log
 
 from lk_plants.analysis.InfoReadMe import InfoReadMe
 from lk_plants.core import PlantNetResult, Species
+from lk_plants.core.taxonomy import Domain, Kingdom, Phylum, Classis, Order, Family, Genus
 from utils_future import Markdown, MarkdownPage
 
 log = Log('ReadMeSunburst')
@@ -18,14 +20,13 @@ class ReadMeSunburst(MarkdownPage, InfoReadMe):
     @cached_property
     def file_path(self):
         return 'README.sunburst.md'
+    
 
-    def get_data(self):
-        plant_photos = self.plant_photo_list
-        species_name_to_info = {}
-        taxon_to_n = {}
-
-        n_total = 0
-        for plant_photo in plant_photos:
+    @cached_property
+    def df(self):
+        species_to_rank_idx = {}
+        species_to_n = {}
+        for plant_photo in self.plant_photo_list:
             plant_net_result = PlantNetResult.from_plant_photo(plant_photo)
             if not plant_net_result:
                 continue
@@ -33,109 +34,45 @@ class ReadMeSunburst(MarkdownPage, InfoReadMe):
             if not top_species_name:
                 continue
             species = Species.from_name(top_species_name)
-          
-            rank_names = species.rank_names
-            species_name = rank_names[0]
+            species_name = species.name
+            if species_name not in species_to_n:
+                species_to_rank_idx[species_name] = species.rank_idx
+                species_to_n[species_name] = 0
+            species_to_n[species_name] += 1
 
-            n_total += 1
-            if species_name not in species_name_to_info:
-                species_name_to_info[species_name] = [
-                    genus_name,
-                    family_name,
-                    order_name,
-                    classis_name,
-                ]
+        d_list = []
+        for species_name, n in sorted(
+            species_to_n.items(), 
+            key=lambda x: x[1],
+  
+        ):
+            rank_idx = species_to_rank_idx[species_name]
+            d_list.append(rank_idx | dict(n=n) | dict(color="red"))
+        return pandas.DataFrame(d_list)
 
-            if species_name not in taxon_to_n:
-                taxon_to_n[species_name] = 0
-            taxon_to_n[species_name] += 1
+    @staticmethod
+    def get_color_sequence():
+        sequence = []
+        for h in range(0, 160, 5):
+            color = f'hsl({h},100%,30%)'
+            sequence.append(color)
 
-            if genus_name not in taxon_to_n:
-                taxon_to_n[genus_name] = 0
-            taxon_to_n[genus_name] += 1
-
-            if family_name not in taxon_to_n:
-                taxon_to_n[family_name] = 0
-            taxon_to_n[family_name] += 1
-
-            if order_name not in taxon_to_n:
-                taxon_to_n[order_name] = 0
-            taxon_to_n[order_name] += 1
-
-            if classis_name not in taxon_to_n:
-                taxon_to_n[classis_name] = 0
-            taxon_to_n[classis_name] += 1
-
-        categories = []
-        parents = []
-        values = []
-
-        ROOT_CATEGORY_NAME = 'Plants'
-        categories.append(ROOT_CATEGORY_NAME)
-        parents.append('')
-        values.append(n_total)
-
-        parse_set = set()
-
-        for species_name, info in species_name_to_info.items():
-            [genus_name, family_name, order_name, classis_name] = info
-            if classis_name in parse_set:
-                continue
-            parse_set.add(classis_name)
-            categories.append(classis_name)
-            parents.append(ROOT_CATEGORY_NAME)
-            values.append(taxon_to_n[classis_name])
-
-        for species_name, info in species_name_to_info.items():
-            [genus_name, family_name, order_name, classis_name] = info
-            if order_name in parse_set:
-                continue
-            parse_set.add(order_name)
-            categories.append(order_name)
-            parents.append(classis_name)
-            values.append(taxon_to_n[order_name])
-
-        for species_name, info in species_name_to_info.items():
-            [genus_name, family_name, order_name, classis_name] = info
-            if family_name in parse_set:
-                continue
-            parse_set.add(family_name)
-            categories.append(family_name)
-            parents.append(order_name)
-            values.append(taxon_to_n[family_name])
-
-        for species_name, info in species_name_to_info.items():
-            [genus_name, family_name, order_name, classis_name] = info
-            if genus_name in parse_set:
-                continue
-            parse_set.add(genus_name)
-            categories.append(genus_name)
-            parents.append(family_name)
-            values.append(taxon_to_n[genus_name])
-
-        for species_name, info in species_name_to_info.items():
-            [genus_name, family_name, order_name, classis_name] = info
-            categories.append(species_name)
-            parents.append(genus_name)
-            values.append(taxon_to_n[species_name])
-
-        data = dict(
-            categories=categories,
-            parent=parents,
-            value=values,
-        )
-        return data
+        return sequence
+        
 
     @cached_property
     def line_chart(self):
-        data = self.get_data()
+        df = self.df
+        
+
         fig = px.sunburst(
-            data,
-            names='categories',
-            parents='parent',
-            values='value',
-            # color_discrete_sequence=['#800', '#f80', '#fc0', '#080'],
-            branchvalues='total',
+            df,
+
+            path=['domain', 'kingdom', 'phylum', 'classis', 'order', 'family', 'genus', 'species'],
+            values='n',
+            color="order",
+            color_discrete_sequence=ReadMeSunburst.get_color_sequence(),
+        
         )
 
         width = ReadMeSunburst.IMAGE_WIDTH
@@ -156,4 +93,6 @@ class ReadMeSunburst(MarkdownPage, InfoReadMe):
             'This sunburst chart shows the distribution of plant photos,'
             + ' by family, genus and species, weighted by number of trees.',
             '',
-            self
+            self.line_chart,
+            '',
+        ]
