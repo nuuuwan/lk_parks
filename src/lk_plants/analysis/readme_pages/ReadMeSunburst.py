@@ -52,7 +52,7 @@ class ReadMeSunburst(MarkdownPage, InfoReadMe):
         sequence = []
 
         for s in [100]:
-            for l in [25, 30,35]:
+            for l in range(20, 35,5):
                 for h in range(0, 150, 10):
                     color = f'hsl({h},{s}%,{l}%)'
                     sequence.append(color)
@@ -81,7 +81,7 @@ class ReadMeSunburst(MarkdownPage, InfoReadMe):
         colors = []
 
 
-        color_rank_type = "species"
+        color_rank_type = "genus"
 
         for i, rank_type in enumerate(rank_type_list[1:], start=1):
             parent_rank_type = rank_type_list[i - 1]
