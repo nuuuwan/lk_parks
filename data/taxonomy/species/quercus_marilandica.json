@@ -1,8 +1,7 @@
 {
   "name": "Quercus marilandica",
   "authorship": "(L.) M\u00fcnchh.",
-  "genus_name": "Quercus",
-  "family_name": "Fagaceae",
+  "parent_name": "Quercus",
   "gbif_id": "2881630",
   "powo_id": "284111-2",
   "iucn_id": "194195",

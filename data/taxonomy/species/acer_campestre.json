@@ -1,8 +1,7 @@
 {
   "name": "Acer campestre",
   "authorship": "L.",
-  "genus_name": "Acer",
-  "family_name": "Sapindaceae",
+  "parent_name": "Acer",
   "gbif_id": "3189863",
   "powo_id": "781250-1",
   "iucn_id": "193523",

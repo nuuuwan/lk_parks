@@ -1,8 +1,7 @@
 {
   "name": "Euryops linearis",
   "authorship": "Harv.",
-  "genus_name": "Euryops",
-  "family_name": "Asteraceae",
+  "parent_name": "Euryops",
   "gbif_id": "5394993",
   "powo_id": "207444-1",
   "iucn_id": null,

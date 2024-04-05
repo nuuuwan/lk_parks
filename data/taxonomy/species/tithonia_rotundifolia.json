@@ -1,8 +1,7 @@
 {
   "name": "Tithonia rotundifolia",
   "authorship": "(Mill.) S.F.Blake",
-  "genus_name": "Tithonia",
-  "family_name": "Asteraceae",
+  "parent_name": "Tithonia",
   "gbif_id": "5396551",
   "powo_id": "254724-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Podocarpus costalis",
   "authorship": "C.Presl",
-  "genus_name": "Podocarpus",
-  "family_name": "Podocarpaceae",
+  "parent_name": "Podocarpus",
   "gbif_id": "5285927",
   "powo_id": "263463-1",
   "iucn_id": "31351",

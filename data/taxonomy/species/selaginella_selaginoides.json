@@ -1,8 +1,7 @@
 {
   "name": "Selaginella selaginoides",
   "authorship": "(L.) P.Beauv. ex Schrank & Mart.",
-  "genus_name": "Selaginella",
-  "family_name": "Selaginellaceae",
+  "parent_name": "Selaginella",
   "gbif_id": "2688197",
   "powo_id": "60452842-2",
   "iucn_id": null,

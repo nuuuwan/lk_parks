@@ -1,8 +1,7 @@
 {
   "name": "Rubus argutus",
   "authorship": "Link",
-  "genus_name": "Rubus",
-  "family_name": "Rosaceae",
+  "parent_name": "Rubus",
   "gbif_id": "2990801",
   "powo_id": "30046614-2",
   "iucn_id": null,

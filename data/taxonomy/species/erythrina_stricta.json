@@ -1,8 +1,7 @@
 {
   "name": "Erythrina stricta",
   "authorship": "Roxb.",
-  "genus_name": "Erythrina",
-  "family_name": "Fabaceae",
+  "parent_name": "Erythrina",
   "gbif_id": "5349642",
   "powo_id": "494596-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Heteromorpha arborescens",
   "authorship": "(Spreng.) Cham. & Schltdl.",
-  "genus_name": "Heteromorpha",
-  "family_name": "Apiaceae",
+  "parent_name": "Heteromorpha",
   "gbif_id": "6027321",
   "powo_id": "843258-1",
   "iucn_id": "146215240",

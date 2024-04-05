@@ -1,8 +1,7 @@
 {
   "name": "Conophytum obscurum",
   "authorship": "N.E.Br.",
-  "genus_name": "Conophytum",
-  "family_name": "Aizoaceae",
+  "parent_name": "Conophytum",
   "gbif_id": "7329287",
   "powo_id": "361238-1",
   "iucn_id": "202849700",

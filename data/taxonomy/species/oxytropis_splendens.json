@@ -1,8 +1,7 @@
 {
   "name": "Oxytropis splendens",
   "authorship": "Douglas",
-  "genus_name": "Oxytropis",
-  "family_name": "Fabaceae",
+  "parent_name": "Oxytropis",
   "gbif_id": "5361392",
   "powo_id": "511886-1",
   "iucn_id": null,

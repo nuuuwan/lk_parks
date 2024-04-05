@@ -1,8 +1,7 @@
 {
   "name": "Magnolia campbellii",
   "authorship": "Hook.f. & Thomson",
-  "genus_name": "Magnolia",
-  "family_name": "Magnoliaceae",
+  "parent_name": "Magnolia",
   "gbif_id": "3152974",
   "powo_id": "554655-1",
   "iucn_id": "193912",

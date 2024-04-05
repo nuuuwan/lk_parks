@@ -1,8 +1,7 @@
 {
   "name": "Gnetum africanum",
   "authorship": "Welw.",
-  "genus_name": "Gnetum",
-  "family_name": "Gnetaceae",
+  "parent_name": "Gnetum",
   "gbif_id": "2653226",
   "powo_id": "383499-1",
   "iucn_id": "194958",

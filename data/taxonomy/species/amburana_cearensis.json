@@ -1,8 +1,7 @@
 {
   "name": "Amburana cearensis",
   "authorship": "(Allem\u00e3o) A.C.Sm.",
-  "genus_name": "Amburana",
-  "family_name": "Fabaceae",
+  "parent_name": "Amburana",
   "gbif_id": "2945821",
   "powo_id": "11101-2",
   "iucn_id": "32291",

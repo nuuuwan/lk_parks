@@ -1,8 +1,7 @@
 {
   "name": "Rhododendron trichocladum",
   "authorship": "Franch.",
-  "genus_name": "Rhododendron",
-  "family_name": "Ericaceae",
+  "parent_name": "Rhododendron",
   "gbif_id": "7328974",
   "powo_id": "333495-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Pteris vittata",
   "authorship": "L.",
-  "genus_name": "Pteris",
-  "family_name": "Pteridaceae",
+  "parent_name": "Pteris",
   "gbif_id": "5275398",
   "powo_id": "17217500-1",
   "iucn_id": "177137",

@@ -1,8 +1,7 @@
 {
   "name": "Ficus glumosa",
   "authorship": "Delile",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5571065",
   "powo_id": "852908-1",
   "iucn_id": "146435264",

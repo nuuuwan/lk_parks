@@ -1,8 +1,7 @@
 {
   "name": "Taxus mairei",
   "authorship": "(Lem\u00e9e & H.L\u00e9v.) S.Y.Hu",
-  "genus_name": "Taxus",
-  "family_name": "Taxaceae",
+  "parent_name": "Taxus",
   "gbif_id": "7641361",
   "powo_id": "828365-1",
   "iucn_id": "191659",

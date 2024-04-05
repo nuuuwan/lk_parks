@@ -1,8 +1,7 @@
 {
   "name": "Cyperus melanospermus",
   "authorship": "(Nees) Valck.Sur.",
-  "genus_name": "Cyperus",
-  "family_name": "Cyperaceae",
+  "parent_name": "Cyperus",
   "gbif_id": "8644383",
   "powo_id": "305145-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Phyllanthus arbuscula",
   "authorship": "(Sw.) J.F.Gmel.",
-  "genus_name": "Phyllanthus",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Phyllanthus",
   "gbif_id": "5381309",
   "powo_id": "353521-1",
   "iucn_id": "35739",

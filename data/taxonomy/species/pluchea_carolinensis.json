@@ -1,8 +1,7 @@
 {
   "name": "Pluchea carolinensis",
   "authorship": "(Jacq.) G.Don",
-  "genus_name": "Pluchea",
-  "family_name": "Asteraceae",
+  "parent_name": "Pluchea",
   "gbif_id": "3132710",
   "powo_id": "238803-1",
   "iucn_id": "13542412",

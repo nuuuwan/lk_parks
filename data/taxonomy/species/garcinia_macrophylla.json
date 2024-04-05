@@ -1,8 +1,7 @@
 {
   "name": "Garcinia macrophylla",
   "authorship": "Mart.",
-  "genus_name": "Garcinia",
-  "family_name": "Clusiaceae",
+  "parent_name": "Garcinia",
   "gbif_id": "7727026",
   "powo_id": "428065-1",
   "iucn_id": "147302480",

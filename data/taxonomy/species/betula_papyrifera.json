@@ -1,8 +1,7 @@
 {
   "name": "Betula papyrifera",
   "authorship": "Marshall",
-  "genus_name": "Betula",
-  "family_name": "Betulaceae",
+  "parent_name": "Betula",
   "gbif_id": "5332120",
   "powo_id": "32197-2",
   "iucn_id": "194502",

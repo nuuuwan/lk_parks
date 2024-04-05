@@ -1,8 +1,7 @@
 {
   "name": "Glycyrrhiza glabra",
   "authorship": "L.",
-  "genus_name": "Glycyrrhiza",
-  "family_name": "Fabaceae",
+  "parent_name": "Glycyrrhiza",
   "gbif_id": "2965732",
   "powo_id": "496941-1",
   "iucn_id": "203353",

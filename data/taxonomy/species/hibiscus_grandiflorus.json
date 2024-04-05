@@ -1,8 +1,7 @@
 {
   "name": "Hibiscus grandiflorus",
   "authorship": "Michx.",
-  "genus_name": "Hibiscus",
-  "family_name": "Malvaceae",
+  "parent_name": "Hibiscus",
   "gbif_id": "3152592",
   "powo_id": "1188401-2",
   "iucn_id": null,

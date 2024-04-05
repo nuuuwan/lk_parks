@@ -1,8 +1,7 @@
 {
   "name": "Erythrina madagascariensis",
   "authorship": "D.J.Du Puy & Labat",
-  "genus_name": "Erythrina",
-  "family_name": "Fabaceae",
+  "parent_name": "Erythrina",
   "gbif_id": "5349768",
   "powo_id": "993190-1",
   "iucn_id": "36229",

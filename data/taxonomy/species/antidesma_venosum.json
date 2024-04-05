@@ -1,8 +1,7 @@
 {
   "name": "Antidesma venosum",
   "authorship": "E.Mey. ex Tul.",
-  "genus_name": "Antidesma",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Antidesma",
   "gbif_id": "3076520",
   "powo_id": "339151-1",
   "iucn_id": "146217455",

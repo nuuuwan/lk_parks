@@ -1,8 +1,7 @@
 {
   "name": "Chamaedorea klotzschiana",
   "authorship": "H.Wendl.",
-  "genus_name": "Chamaedorea",
-  "family_name": "Arecaceae",
+  "parent_name": "Chamaedorea",
   "gbif_id": "2734735",
   "powo_id": "54890-2",
   "iucn_id": "44393453",

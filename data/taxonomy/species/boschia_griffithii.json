@@ -1,8 +1,7 @@
 {
   "name": "Boschia griffithii",
   "authorship": "Mast.",
-  "genus_name": "Boschia",
-  "family_name": "Malvaceae",
+  "parent_name": "Boschia",
   "gbif_id": "8110153",
   "powo_id": "559207-1",
   "iucn_id": "223603910",

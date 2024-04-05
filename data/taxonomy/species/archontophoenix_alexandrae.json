@@ -1,8 +1,7 @@
 {
   "name": "Archontophoenix alexandrae",
   "authorship": "(F.Muell.) H.Wendl. & Drude",
-  "genus_name": "Archontophoenix",
-  "family_name": "Arecaceae",
+  "parent_name": "Archontophoenix",
   "gbif_id": "2732609",
   "powo_id": "664083-1",
   "iucn_id": "67530447",

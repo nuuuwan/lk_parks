@@ -1,8 +1,7 @@
 {
   "name": "Elaeocarpus hainanensis",
   "authorship": "Oliv.",
-  "genus_name": "Elaeocarpus",
-  "family_name": "Elaeocarpaceae",
+  "parent_name": "Elaeocarpus",
   "gbif_id": "4032315",
   "powo_id": "833840-1",
   "iucn_id": null,

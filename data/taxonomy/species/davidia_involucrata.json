@@ -1,8 +1,7 @@
 {
   "name": "Davidia involucrata",
   "authorship": "Baill.",
-  "genus_name": "Davidia",
-  "family_name": "Nyssaceae",
+  "parent_name": "Davidia",
   "gbif_id": "7322122",
   "powo_id": "430593-1",
   "iucn_id": null,

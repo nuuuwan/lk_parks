@@ -1,8 +1,7 @@
 {
   "name": "Inga ingoides",
   "authorship": "(Rich.) Willd.",
-  "genus_name": "Inga",
-  "family_name": "Fabaceae",
+  "parent_name": "Inga",
   "gbif_id": "5357586",
   "powo_id": "1131764-2",
   "iucn_id": "142674422",

@@ -1,8 +1,7 @@
 {
   "name": "Thrinax radiata",
   "authorship": "Lodd. ex Schult. & Schult.f.",
-  "genus_name": "Thrinax",
-  "family_name": "Arecaceae",
+  "parent_name": "Thrinax",
   "gbif_id": "6109608",
   "powo_id": "670162-1",
   "iucn_id": "201645",

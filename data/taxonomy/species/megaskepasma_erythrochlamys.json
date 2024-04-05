@@ -1,8 +1,7 @@
 {
   "name": "Megaskepasma erythrochlamys",
   "authorship": "Lindau",
-  "genus_name": "Megaskepasma",
-  "family_name": "Acanthaceae",
+  "parent_name": "Megaskepasma",
   "gbif_id": "3773061",
   "powo_id": "155854-2",
   "iucn_id": null,

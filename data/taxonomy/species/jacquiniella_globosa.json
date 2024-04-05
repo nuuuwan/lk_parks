@@ -1,8 +1,7 @@
 {
   "name": "Jacquiniella globosa",
   "authorship": "(Jacq.) Schltr.",
-  "genus_name": "Jacquiniella",
-  "family_name": "Orchidaceae",
+  "parent_name": "Jacquiniella",
   "gbif_id": "2808855",
   "powo_id": "131282-2",
   "iucn_id": null,

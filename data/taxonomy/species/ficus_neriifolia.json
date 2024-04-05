@@ -1,8 +1,7 @@
 {
   "name": "Ficus neriifolia",
   "authorship": "Sm.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "8007516",
   "powo_id": "77094094-1",
   "iucn_id": null,

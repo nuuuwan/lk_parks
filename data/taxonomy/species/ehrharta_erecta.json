@@ -1,8 +1,7 @@
 {
   "name": "Ehrharta erecta",
   "authorship": "Lam.",
-  "genus_name": "Ehrharta",
-  "family_name": "Poaceae",
+  "parent_name": "Ehrharta",
   "gbif_id": "2702863",
   "powo_id": "399848-1",
   "iucn_id": null,

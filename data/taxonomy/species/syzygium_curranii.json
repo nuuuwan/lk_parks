@@ -1,8 +1,7 @@
 {
   "name": "Syzygium curranii",
   "authorship": "(C.B.Rob.) Merr.",
-  "genus_name": "Syzygium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syzygium",
   "gbif_id": "3183685",
   "powo_id": "601607-1",
   "iucn_id": "154364305",

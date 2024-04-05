@@ -1,8 +1,7 @@
 {
   "name": "Aextoxicon punctatum",
   "authorship": "Ruiz & Pav.",
-  "genus_name": "Aextoxicon",
-  "family_name": "Aextoxicaceae",
+  "parent_name": "Aextoxicon",
   "gbif_id": "4195638",
   "powo_id": "338257-1",
   "iucn_id": "34616",

@@ -1,8 +1,7 @@
 {
   "name": "Laureliopsis philippiana",
   "authorship": "(Looser) Schodde",
-  "genus_name": "Laureliopsis",
-  "family_name": "Monimiaceae",
+  "parent_name": "Laureliopsis",
   "gbif_id": "3783047",
   "powo_id": "136261-2",
   "iucn_id": "61985339",

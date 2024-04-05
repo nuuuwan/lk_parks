@@ -1,8 +1,7 @@
 {
   "name": "Pistacia terebinthus",
   "authorship": "L.",
-  "genus_name": "Pistacia",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Pistacia",
   "gbif_id": "3190580",
   "powo_id": "70274-1",
   "iucn_id": "20678342",

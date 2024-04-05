@@ -1,8 +1,7 @@
 {
   "name": "Abelmoschus moschatus",
   "authorship": "Medik.",
-  "genus_name": "Abelmoschus",
-  "family_name": "Malvaceae",
+  "parent_name": "Abelmoschus",
   "gbif_id": "8312665",
   "powo_id": "558023-1",
   "iucn_id": "123707530",

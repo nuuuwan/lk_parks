@@ -1,8 +1,7 @@
 {
   "name": "Celtis iguanaea",
   "authorship": "(Jacq.) Sarg.",
-  "genus_name": "Celtis",
-  "family_name": "Cannabaceae",
+  "parent_name": "Celtis",
   "gbif_id": "2984498",
   "powo_id": "1213898-2",
   "iucn_id": "126373348",

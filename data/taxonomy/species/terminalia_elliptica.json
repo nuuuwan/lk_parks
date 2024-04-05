@@ -1,8 +1,7 @@
 {
   "name": "Terminalia elliptica",
   "authorship": "Willd.",
-  "genus_name": "Terminalia",
-  "family_name": "Combretaceae",
+  "parent_name": "Terminalia",
   "gbif_id": "7810338",
   "powo_id": "171100-1",
   "iucn_id": null,

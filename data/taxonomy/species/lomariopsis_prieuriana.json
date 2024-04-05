@@ -1,8 +1,7 @@
 {
   "name": "Lomariopsis prieuriana",
   "authorship": "F\u00e9e",
-  "genus_name": "Lomariopsis",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Lomariopsis",
   "gbif_id": "4011355",
   "powo_id": "17141460-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Arbutus andrachnoides",
   "authorship": "Link",
-  "genus_name": "Arbutus",
-  "family_name": "Ericaceae",
+  "parent_name": "Arbutus",
   "gbif_id": "4170894",
   "powo_id": "326436-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Azara dentata",
   "authorship": "Ruiz & Pav.",
-  "genus_name": "Azara",
-  "family_name": "Salicaceae",
+  "parent_name": "Azara",
   "gbif_id": "7882497",
   "powo_id": "111459-1",
   "iucn_id": null,

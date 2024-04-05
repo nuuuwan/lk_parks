@@ -1,8 +1,7 @@
 {
   "name": "Vachellia farnesiana",
   "authorship": "(L.) Wight & Arn.",
-  "genus_name": "Vachellia",
-  "family_name": "Fabaceae",
+  "parent_name": "Vachellia",
   "gbif_id": "2979265",
   "powo_id": "1099713-2",
   "iucn_id": "18435792",

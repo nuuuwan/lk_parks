@@ -1,8 +1,7 @@
 {
   "name": "Carpinus turczaninovii",
   "authorship": "Hance",
-  "genus_name": "Carpinus",
-  "family_name": "Betulaceae",
+  "parent_name": "Carpinus",
   "gbif_id": "7327453",
   "powo_id": "295286-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Serianthes grandiflora",
   "authorship": "Benth.",
-  "genus_name": "Serianthes",
-  "family_name": "Fabaceae",
+  "parent_name": "Serianthes",
   "gbif_id": "2944264",
   "powo_id": "518385-1",
   "iucn_id": "149618093",

@@ -1,8 +1,7 @@
 {
   "name": "Turnera ulmifolia",
   "authorship": "L.",
-  "genus_name": "Turnera",
-  "family_name": "Passifloraceae",
+  "parent_name": "Turnera",
   "gbif_id": "2874852",
   "powo_id": "836702-1",
   "iucn_id": "131292920",

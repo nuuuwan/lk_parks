@@ -1,8 +1,7 @@
 {
   "name": "Myrica pubescens",
   "authorship": "Humb. & Bonpl. ex Willd.",
-  "genus_name": "Myrica",
-  "family_name": "Myricaceae",
+  "parent_name": "Myrica",
   "gbif_id": "7335102",
   "powo_id": "326827-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Syngonium angustatum",
   "authorship": "Schott",
-  "genus_name": "Syngonium",
-  "family_name": "Araceae",
+  "parent_name": "Syngonium",
   "gbif_id": "2867888",
   "powo_id": "89127-1",
   "iucn_id": null,

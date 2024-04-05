@@ -1,8 +1,7 @@
 {
   "name": "Ruellia geminiflora",
   "authorship": "Kunth",
-  "genus_name": "Ruellia",
-  "family_name": "Acanthaceae",
+  "parent_name": "Ruellia",
   "gbif_id": "7263854",
   "powo_id": "54085-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Amaranthus hybridus",
   "authorship": "L.",
-  "genus_name": "Amaranthus",
-  "family_name": "Amaranthaceae",
+  "parent_name": "Amaranthus",
   "gbif_id": "5384364",
   "powo_id": "10648-2",
   "iucn_id": null,

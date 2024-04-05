@@ -1,8 +1,7 @@
 {
   "name": "Celtis sinensis",
   "authorship": "Pers.",
-  "genus_name": "Celtis",
-  "family_name": "Cannabaceae",
+  "parent_name": "Celtis",
   "gbif_id": "4159594",
   "powo_id": "851171-1",
   "iucn_id": "147509048",

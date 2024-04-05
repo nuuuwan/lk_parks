@@ -1,8 +1,7 @@
 {
   "name": "Ligustrum vulgare",
   "authorship": "L.",
-  "genus_name": "Ligustrum",
-  "family_name": "Oleaceae",
+  "parent_name": "Ligustrum",
   "gbif_id": "3172300",
   "powo_id": "610130-1",
   "iucn_id": null,

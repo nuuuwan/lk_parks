@@ -1,8 +1,7 @@
 {
   "name": "Caladenia catenata",
   "authorship": "(Sm.) Druce",
-  "genus_name": "Caladenia",
-  "family_name": "Orchidaceae",
+  "parent_name": "Caladenia",
   "gbif_id": "2842021",
   "powo_id": "119571-3",
   "iucn_id": "44392379",

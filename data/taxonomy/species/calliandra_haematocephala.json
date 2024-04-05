@@ -1,8 +1,7 @@
 {
   "name": "Calliandra haematocephala",
   "authorship": "Hassk.",
-  "genus_name": "Calliandra",
-  "family_name": "Fabaceae",
+  "parent_name": "Calliandra",
   "gbif_id": "2982155",
   "powo_id": "42180-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Rhaphiolepis indica",
   "authorship": "(L.) Lindl.",
-  "genus_name": "Rhaphiolepis",
-  "family_name": "Rosaceae",
+  "parent_name": "Rhaphiolepis",
   "gbif_id": "5371542",
   "powo_id": "731389-1",
   "iucn_id": "147638075",

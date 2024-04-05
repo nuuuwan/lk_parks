@@ -1,8 +1,7 @@
 {
   "name": "Epidendrum radicans",
   "authorship": "Pav. ex Lindl.",
-  "genus_name": "Epidendrum",
-  "family_name": "Orchidaceae",
+  "parent_name": "Epidendrum",
   "gbif_id": "5320619",
   "powo_id": "632612-1",
   "iucn_id": null,

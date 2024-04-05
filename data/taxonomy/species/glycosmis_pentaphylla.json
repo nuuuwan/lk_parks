@@ -1,8 +1,7 @@
 {
   "name": "Glycosmis pentaphylla",
   "authorship": "(Retz.) DC.",
-  "genus_name": "Glycosmis",
-  "family_name": "Rutaceae",
+  "parent_name": "Glycosmis",
   "gbif_id": "3832728",
   "powo_id": "773786-1",
   "iucn_id": "147636355",

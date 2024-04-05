@@ -1,8 +1,7 @@
 {
   "name": "Lonicera acuminata",
   "authorship": "Wall.",
-  "genus_name": "Lonicera",
-  "family_name": "Caprifoliaceae",
+  "parent_name": "Lonicera",
   "gbif_id": "5598598",
   "powo_id": "148587-1",
   "iucn_id": null,

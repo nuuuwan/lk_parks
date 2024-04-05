@@ -1,8 +1,7 @@
 {
   "name": "Aristotelia serrata",
   "authorship": "(J.R.Forst. & G.Forst.) Oliv.",
-  "genus_name": "Aristotelia",
-  "family_name": "Elaeocarpaceae",
+  "parent_name": "Aristotelia",
   "gbif_id": "5651040",
   "powo_id": "323917-1",
   "iucn_id": null,

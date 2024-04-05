@@ -1,8 +1,7 @@
 {
   "name": "Ailanthus triphysa",
   "authorship": "(Dennst.) Alston",
-  "genus_name": "Ailanthus",
-  "family_name": "Simaroubaceae",
+  "parent_name": "Ailanthus",
   "gbif_id": "3708775",
   "powo_id": "813557-1",
   "iucn_id": null,

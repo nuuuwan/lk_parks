@@ -1,8 +1,7 @@
 {
   "name": "Barringtonia macrocarpa",
   "authorship": "Hassk.",
-  "genus_name": "Barringtonia",
-  "family_name": "Lecythidaceae",
+  "parent_name": "Barringtonia",
   "gbif_id": "3082833",
   "powo_id": "77306599-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Cornus nuttallii",
   "authorship": "Audubon ex Torr. & A.Gray",
-  "genus_name": "Cornus",
-  "family_name": "Cornaceae",
+  "parent_name": "Cornus",
   "gbif_id": "8288790",
   "powo_id": "66154-2",
   "iucn_id": "130048880",

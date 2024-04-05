@@ -1,8 +1,7 @@
 {
   "name": "Foetidia comorensis",
   "authorship": "Labat, E.Bidault & Viscardi",
-  "genus_name": "Foetidia",
-  "family_name": "Lecythidaceae",
+  "parent_name": "Foetidia",
   "gbif_id": "7824863",
   "powo_id": "77117462-1",
   "iucn_id": "212210928",

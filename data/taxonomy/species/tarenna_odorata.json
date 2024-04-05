@@ -1,8 +1,7 @@
 {
   "name": "Tarenna odorata",
   "authorship": "(Roxb.) B.L.Rob.",
-  "genus_name": "Tarenna",
-  "family_name": "Rubiaceae",
+  "parent_name": "Tarenna",
   "gbif_id": "2896107",
   "powo_id": "767552-1",
   "iucn_id": null,

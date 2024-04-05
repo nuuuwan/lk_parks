@@ -1,8 +1,7 @@
 {
   "name": "Geissois polyphylla",
   "authorship": "Lecard ex Guillaumin",
-  "genus_name": "Geissois",
-  "family_name": "Cunoniaceae",
+  "parent_name": "Geissois",
   "gbif_id": "3613350",
   "powo_id": "294583-1",
   "iucn_id": "116164327",

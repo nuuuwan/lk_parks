@@ -1,8 +1,7 @@
 {
   "name": "Galinsoga quadriradiata",
   "authorship": "Ruiz & Pav.",
-  "genus_name": "Galinsoga",
-  "family_name": "Asteraceae",
+  "parent_name": "Galinsoga",
   "gbif_id": "8298495",
   "powo_id": "208557-1",
   "iucn_id": null,

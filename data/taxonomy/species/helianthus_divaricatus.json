@@ -1,8 +1,7 @@
 {
   "name": "Helianthus divaricatus",
   "authorship": "L.",
-  "genus_name": "Helianthus",
-  "family_name": "Asteraceae",
+  "parent_name": "Helianthus",
   "gbif_id": "3119249",
   "powo_id": "329245-2",
   "iucn_id": "20694288",

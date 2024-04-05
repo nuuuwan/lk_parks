@@ -1,8 +1,7 @@
 {
   "name": "Cyclanthus bipartitus",
   "authorship": "Poit. ex A.Rich.",
-  "genus_name": "Cyclanthus",
-  "family_name": "Cyclanthaceae",
+  "parent_name": "Cyclanthus",
   "gbif_id": "2861108",
   "powo_id": "30336798-2",
   "iucn_id": null,

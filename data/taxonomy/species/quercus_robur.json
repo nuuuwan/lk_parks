@@ -1,8 +1,7 @@
 {
   "name": "Quercus robur",
   "authorship": "L.",
-  "genus_name": "Quercus",
-  "family_name": "Fagaceae",
+  "parent_name": "Quercus",
   "gbif_id": "2878688",
   "powo_id": "304293-2",
   "iucn_id": "63532",

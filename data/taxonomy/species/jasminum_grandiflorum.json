@@ -1,8 +1,7 @@
 {
   "name": "Jasminum grandiflorum",
   "authorship": "L.",
-  "genus_name": "Jasminum",
-  "family_name": "Oleaceae",
+  "parent_name": "Jasminum",
   "gbif_id": "3172262",
   "powo_id": "328130-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Camellia cuspidata",
   "authorship": "(Kochs) Bean",
-  "genus_name": "Camellia",
-  "family_name": "Theaceae",
+  "parent_name": "Camellia",
   "gbif_id": "8105068",
   "powo_id": "829896-1",
   "iucn_id": "62051812",

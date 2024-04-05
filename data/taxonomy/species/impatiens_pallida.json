@@ -1,8 +1,7 @@
 {
   "name": "Impatiens pallida",
   "authorship": "Nutt.",
-  "genus_name": "Impatiens",
-  "family_name": "Balsaminaceae",
+  "parent_name": "Impatiens",
   "gbif_id": "2891767",
   "powo_id": "30051366-2",
   "iucn_id": null,

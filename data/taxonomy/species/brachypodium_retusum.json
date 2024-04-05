@@ -1,8 +1,7 @@
 {
   "name": "Brachypodium retusum",
   "authorship": "(Pers.) P.Beauv.",
-  "genus_name": "Brachypodium",
-  "family_name": "Poaceae",
+  "parent_name": "Brachypodium",
   "gbif_id": "5676053",
   "powo_id": "393178-1",
   "iucn_id": "44393494",

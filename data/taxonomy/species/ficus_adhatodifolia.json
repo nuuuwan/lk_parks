@@ -1,8 +1,7 @@
 {
   "name": "Ficus adhatodifolia",
   "authorship": "Schott",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "8102807",
   "powo_id": "852347-1",
   "iucn_id": null,

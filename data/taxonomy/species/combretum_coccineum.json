@@ -1,8 +1,7 @@
 {
   "name": "Combretum coccineum",
   "authorship": "(Sonn.) Lam.",
-  "genus_name": "Combretum",
-  "family_name": "Combretaceae",
+  "parent_name": "Combretum",
   "gbif_id": "3699496",
   "powo_id": "170002-1",
   "iucn_id": null,

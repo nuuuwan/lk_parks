@@ -1,8 +1,7 @@
 {
   "name": "Specklinia grobyi",
   "authorship": "(Bateman ex Lindl.) F.Barros",
-  "genus_name": "Specklinia",
-  "family_name": "Orchidaceae",
+  "parent_name": "Specklinia",
   "gbif_id": "2835608",
   "powo_id": "1069121-2",
   "iucn_id": null,

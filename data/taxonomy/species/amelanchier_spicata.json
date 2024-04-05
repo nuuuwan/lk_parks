@@ -1,8 +1,7 @@
 {
   "name": "Amelanchier spicata",
   "authorship": "(Lam.) K.Koch",
-  "genus_name": "Amelanchier",
-  "family_name": "Rosaceae",
+  "parent_name": "Amelanchier",
   "gbif_id": "3023852",
   "powo_id": "1184240-2",
   "iucn_id": null,

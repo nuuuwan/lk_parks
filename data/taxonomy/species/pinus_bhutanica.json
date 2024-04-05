@@ -1,8 +1,7 @@
 {
   "name": "Pinus bhutanica",
   "authorship": "Grierson, D.G.Long & C.N.Page",
-  "genus_name": "Pinus",
-  "family_name": "Pinaceae",
+  "parent_name": "Pinus",
   "gbif_id": "5285050",
   "powo_id": "677006-1",
   "iucn_id": "42555",

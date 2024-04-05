@@ -1,8 +1,7 @@
 {
   "name": "Chimonobambusa tumidissinoda",
   "authorship": "Ohrnb.",
-  "genus_name": "Chimonobambusa",
-  "family_name": "Poaceae",
+  "parent_name": "Chimonobambusa",
   "gbif_id": "4153914",
   "powo_id": "939878-1",
   "iucn_id": null,

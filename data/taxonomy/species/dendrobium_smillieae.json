@@ -1,8 +1,7 @@
 {
   "name": "Dendrobium smillieae",
   "authorship": "F.Muell.",
-  "genus_name": "Dendrobium",
-  "family_name": "Orchidaceae",
+  "parent_name": "Dendrobium",
   "gbif_id": "5315566",
   "powo_id": "110951-3",
   "iucn_id": null,

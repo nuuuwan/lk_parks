@@ -1,8 +1,7 @@
 {
   "name": "Kleinia neriifolia",
   "authorship": "Haw.",
-  "genus_name": "Kleinia",
-  "family_name": "Asteraceae",
+  "parent_name": "Kleinia",
   "gbif_id": "5405673",
   "powo_id": "227408-1",
   "iucn_id": "79728152",

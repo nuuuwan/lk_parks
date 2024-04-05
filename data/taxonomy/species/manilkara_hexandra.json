@@ -1,8 +1,7 @@
 {
   "name": "Manilkara hexandra",
   "authorship": "(Roxb.) Dubard",
-  "genus_name": "Manilkara",
-  "family_name": "Sapotaceae",
+  "parent_name": "Manilkara",
   "gbif_id": "2885079",
   "powo_id": "787644-1",
   "iucn_id": "61964318",

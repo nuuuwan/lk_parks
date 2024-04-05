@@ -1,8 +1,7 @@
 {
   "name": "Sterculia lanceolata",
   "authorship": "Cav.",
-  "genus_name": "Sterculia",
-  "family_name": "Malvaceae",
+  "parent_name": "Sterculia",
   "gbif_id": "6029583",
   "powo_id": "825305-1",
   "iucn_id": "147648208",

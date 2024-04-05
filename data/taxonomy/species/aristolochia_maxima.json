@@ -1,8 +1,7 @@
 {
   "name": "Aristolochia maxima",
   "authorship": "Jacq.",
-  "genus_name": "Aristolochia",
-  "family_name": "Aristolochiaceae",
+  "parent_name": "Aristolochia",
   "gbif_id": "2873997",
   "powo_id": "316426-2",
   "iucn_id": null,

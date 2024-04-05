@@ -1,8 +1,7 @@
 {
   "name": "Melaleuca rugulosa",
   "authorship": "(Link) Craven",
-  "genus_name": "Melaleuca",
-  "family_name": "Myrtaceae",
+  "parent_name": "Melaleuca",
   "gbif_id": "5415477",
   "powo_id": "77085525-1",
   "iucn_id": null,

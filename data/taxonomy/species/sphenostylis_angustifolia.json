@@ -1,8 +1,7 @@
 {
   "name": "Sphenostylis angustifolia",
   "authorship": "Sond.",
-  "genus_name": "Sphenostylis",
-  "family_name": "Fabaceae",
+  "parent_name": "Sphenostylis",
   "gbif_id": "2977771",
   "powo_id": "519218-1",
   "iucn_id": null,

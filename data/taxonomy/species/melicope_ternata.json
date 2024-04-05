@@ -1,8 +1,7 @@
 {
   "name": "Melicope ternata",
   "authorship": "J.R.Forst. & G.Forst.",
-  "genus_name": "Melicope",
-  "family_name": "Rutaceae",
+  "parent_name": "Melicope",
   "gbif_id": "3190202",
   "powo_id": "774342-1",
   "iucn_id": null,

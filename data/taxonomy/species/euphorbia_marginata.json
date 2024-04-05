@@ -1,8 +1,7 @@
 {
   "name": "Euphorbia marginata",
   "authorship": "Pursh",
-  "genus_name": "Euphorbia",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Euphorbia",
   "gbif_id": "3064943",
   "powo_id": "101724-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Fraxinus quadrangulata",
   "authorship": "Michx.",
-  "genus_name": "Fraxinus",
-  "family_name": "Oleaceae",
+  "parent_name": "Fraxinus",
   "gbif_id": "3172370",
   "powo_id": "609183-1",
   "iucn_id": "61919112",

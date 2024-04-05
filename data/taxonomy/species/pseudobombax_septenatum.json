@@ -1,8 +1,7 @@
 {
   "name": "Pseudobombax septenatum",
   "authorship": "(Jacq.) Dugand",
-  "genus_name": "Pseudobombax",
-  "family_name": "Malvaceae",
+  "parent_name": "Pseudobombax",
   "gbif_id": "4073614",
   "powo_id": "211241-2",
   "iucn_id": "176099194",

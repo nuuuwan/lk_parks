@@ -1,8 +1,7 @@
 {
   "name": "Picea orientalis",
   "authorship": "(L.) Peterm.",
-  "genus_name": "Picea",
-  "family_name": "Pinaceae",
+  "parent_name": "Picea",
   "gbif_id": "5284794",
   "powo_id": "60440465-2",
   "iucn_id": "42332",

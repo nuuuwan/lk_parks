@@ -1,8 +1,7 @@
 {
   "name": "Vitex pinnata",
   "authorship": "L.",
-  "genus_name": "Vitex",
-  "family_name": "Lamiaceae",
+  "parent_name": "Vitex",
   "gbif_id": "7309306",
   "powo_id": "865935-1",
   "iucn_id": "62019896",

@@ -1,8 +1,7 @@
 {
   "name": "Lobelia oligophylla",
   "authorship": "(Wedd.) Lammers",
-  "genus_name": "Lobelia",
-  "family_name": "Campanulaceae",
+  "parent_name": "Lobelia",
   "gbif_id": "5408819",
   "powo_id": "1006664-1",
   "iucn_id": null,

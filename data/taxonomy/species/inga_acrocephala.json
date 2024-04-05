@@ -1,8 +1,7 @@
 {
   "name": "Inga acrocephala",
   "authorship": "Steud.",
-  "genus_name": "Inga",
-  "family_name": "Fabaceae",
+  "parent_name": "Inga",
   "gbif_id": "5357674",
   "powo_id": "128354-2",
   "iucn_id": "142673415",

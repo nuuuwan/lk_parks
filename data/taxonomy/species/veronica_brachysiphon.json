@@ -1,8 +1,7 @@
 {
   "name": "Veronica brachysiphon",
   "authorship": "(Summerh.) Bean",
-  "genus_name": "Veronica",
-  "family_name": "Plantaginaceae",
+  "parent_name": "Veronica",
   "gbif_id": "3733590",
   "powo_id": "811720-1",
   "iucn_id": null,

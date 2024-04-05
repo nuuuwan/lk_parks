@@ -1,8 +1,7 @@
 {
   "name": "Aiphanes minima",
   "authorship": "(Gaertn.) Burret",
-  "genus_name": "Aiphanes",
-  "family_name": "Arecaceae",
+  "parent_name": "Aiphanes",
   "gbif_id": "2738701",
   "powo_id": "7917-2",
   "iucn_id": null,

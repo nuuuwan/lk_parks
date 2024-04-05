@@ -1,8 +1,7 @@
 {
   "name": "Morinda panamensis",
   "authorship": "Seem.",
-  "genus_name": "Morinda",
-  "family_name": "Rubiaceae",
+  "parent_name": "Morinda",
   "gbif_id": "5339925",
   "powo_id": "756446-1",
   "iucn_id": "146778008",

@@ -1,8 +1,7 @@
 {
   "name": "Chitalpa tashkentensis",
   "authorship": "T.S.Elias & Wisura",
-  "genus_name": "Chitalpa",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Chitalpa",
   "gbif_id": "4093332",
   "powo_id": "959182-1",
   "iucn_id": null,

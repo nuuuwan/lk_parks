@@ -1,8 +1,7 @@
 {
   "name": "Philadelphus coronarius",
   "authorship": "L.",
-  "genus_name": "Philadelphus",
-  "family_name": "Hydrangeaceae",
+  "parent_name": "Philadelphus",
   "gbif_id": "2986045",
   "powo_id": "792194-1",
   "iucn_id": null,

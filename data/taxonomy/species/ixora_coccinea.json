@@ -1,8 +1,7 @@
 {
   "name": "Ixora coccinea",
   "authorship": "L.",
-  "genus_name": "Ixora",
-  "family_name": "Rubiaceae",
+  "parent_name": "Ixora",
   "gbif_id": "2905493",
   "powo_id": "753844-1",
   "iucn_id": null,

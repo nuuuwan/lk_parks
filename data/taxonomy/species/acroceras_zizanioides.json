@@ -1,8 +1,7 @@
 {
   "name": "Acroceras zizanioides",
   "authorship": "(Kunth) Dandy",
-  "genus_name": "Acroceras",
-  "family_name": "Poaceae",
+  "parent_name": "Acroceras",
   "gbif_id": "4139637",
   "powo_id": "3538-2",
   "iucn_id": "44392329",

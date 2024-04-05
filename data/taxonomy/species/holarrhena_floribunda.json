@@ -1,8 +1,7 @@
 {
   "name": "Holarrhena floribunda",
   "authorship": "(G.Don) T.Durand & Schinz",
-  "genus_name": "Holarrhena",
-  "family_name": "Apocynaceae",
+  "parent_name": "Holarrhena",
   "gbif_id": "3169751",
   "powo_id": "79302-1",
   "iucn_id": "144299547",

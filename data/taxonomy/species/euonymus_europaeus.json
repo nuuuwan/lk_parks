@@ -1,8 +1,7 @@
 {
   "name": "Euonymus europaeus",
   "authorship": "L.",
-  "genus_name": "Euonymus",
-  "family_name": "Celastraceae",
+  "parent_name": "Euonymus",
   "gbif_id": "3169131",
   "powo_id": "160876-1",
   "iucn_id": "79913822",

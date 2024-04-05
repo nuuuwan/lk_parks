@@ -1,8 +1,7 @@
 {
   "name": "Mandevilla subsagittata",
   "authorship": "(Ruiz & Pav.) Woodson",
-  "genus_name": "Mandevilla",
-  "family_name": "Apocynaceae",
+  "parent_name": "Mandevilla",
   "gbif_id": "3169662",
   "powo_id": "152067-2",
   "iucn_id": null,

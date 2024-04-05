@@ -1,8 +1,7 @@
 {
   "name": "Phyllostachys nigra",
   "authorship": "(Lodd. ex Lindl.) Munro",
-  "genus_name": "Phyllostachys",
-  "family_name": "Poaceae",
+  "parent_name": "Phyllostachys",
   "gbif_id": "5290171",
   "powo_id": "416031-1",
   "iucn_id": null,

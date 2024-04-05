@@ -1,8 +1,7 @@
 {
   "name": "Calystegia occidentalis",
   "authorship": "(A.Gray) Brummitt",
-  "genus_name": "Calystegia",
-  "family_name": "Convolvulaceae",
+  "parent_name": "Calystegia",
   "gbif_id": "2928432",
   "powo_id": "43580-2",
   "iucn_id": null,

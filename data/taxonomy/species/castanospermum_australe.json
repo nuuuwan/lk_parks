@@ -1,8 +1,7 @@
 {
   "name": "Castanospermum australe",
   "authorship": "A.Cunn. ex Mudie",
-  "genus_name": "Castanospermum",
-  "family_name": "Fabaceae",
+  "parent_name": "Castanospermum",
   "gbif_id": "7579806",
   "powo_id": "960752-1",
   "iucn_id": null,

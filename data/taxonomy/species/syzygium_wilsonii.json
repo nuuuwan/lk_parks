@@ -1,8 +1,7 @@
 {
   "name": "Syzygium wilsonii",
   "authorship": "(F.Muell.) B.Hyland",
-  "genus_name": "Syzygium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syzygium",
   "gbif_id": "3183521",
   "powo_id": "913393-1",
   "iucn_id": null,

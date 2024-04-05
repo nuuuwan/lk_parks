@@ -1,8 +1,7 @@
 {
   "name": "Anneslea fragrans",
   "authorship": "Wall.",
-  "genus_name": "Anneslea",
-  "family_name": "Pentaphylacaceae",
+  "parent_name": "Anneslea",
   "gbif_id": "7342732",
   "powo_id": "828450-1",
   "iucn_id": "63074",

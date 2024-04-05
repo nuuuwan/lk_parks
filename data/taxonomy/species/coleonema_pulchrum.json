@@ -1,8 +1,7 @@
 {
   "name": "Coleonema pulchrum",
   "authorship": "Hook.",
-  "genus_name": "Coleonema",
-  "family_name": "Rutaceae",
+  "parent_name": "Coleonema",
   "gbif_id": "5594393",
   "powo_id": "772197-1",
   "iucn_id": null,

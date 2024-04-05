@@ -1,8 +1,7 @@
 {
   "name": "Dalbergia cochinchinensis",
   "authorship": "Pierre",
-  "genus_name": "Dalbergia",
-  "family_name": "Fabaceae",
+  "parent_name": "Dalbergia",
   "gbif_id": "2968506",
   "powo_id": "490142-1",
   "iucn_id": "215342548",

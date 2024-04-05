@@ -1,8 +1,7 @@
 {
   "name": "Citrus hystrix",
   "authorship": "DC.",
-  "genus_name": "Citrus",
-  "family_name": "Rutaceae",
+  "parent_name": "Citrus",
   "gbif_id": "6433679",
   "powo_id": "771927-1",
   "iucn_id": null,

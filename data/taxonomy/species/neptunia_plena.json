@@ -1,8 +1,7 @@
 {
   "name": "Neptunia plena",
   "authorship": "(L.) Benth.",
-  "genus_name": "Neptunia",
-  "family_name": "Fabaceae",
+  "parent_name": "Neptunia",
   "gbif_id": "5353568",
   "powo_id": "1056199-2",
   "iucn_id": "177356",

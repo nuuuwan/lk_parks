@@ -1,8 +1,7 @@
 {
   "name": "Uapaca bojeri",
   "authorship": "Baill.",
-  "genus_name": "Uapaca",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Uapaca",
   "gbif_id": "3079924",
   "powo_id": "358109-1",
   "iucn_id": "128420724",

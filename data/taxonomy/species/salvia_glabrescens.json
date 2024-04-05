@@ -1,8 +1,7 @@
 {
   "name": "Salvia glabrescens",
   "authorship": "Makino",
-  "genus_name": "Salvia",
-  "family_name": "Lamiaceae",
+  "parent_name": "Salvia",
   "gbif_id": "7309085",
   "powo_id": "456283-1",
   "iucn_id": null,

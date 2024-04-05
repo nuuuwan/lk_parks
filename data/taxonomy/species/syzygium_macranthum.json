@@ -1,8 +1,7 @@
 {
   "name": "Syzygium macranthum",
   "authorship": "Brongn. & Gris",
-  "genus_name": "Syzygium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syzygium",
   "gbif_id": "3182093",
   "powo_id": "601897-1",
   "iucn_id": "181019748",

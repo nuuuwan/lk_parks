@@ -1,8 +1,7 @@
 {
   "name": "Tillandsia recurvifolia",
   "authorship": "Hook.",
-  "genus_name": "Tillandsia",
-  "family_name": "Bromeliaceae",
+  "parent_name": "Tillandsia",
   "gbif_id": "2695059",
   "powo_id": "125563-1",
   "iucn_id": null,

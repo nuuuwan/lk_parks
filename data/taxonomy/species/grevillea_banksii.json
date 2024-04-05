@@ -1,8 +1,7 @@
 {
   "name": "Grevillea banksii",
   "authorship": "R.Br.",
-  "genus_name": "Grevillea",
-  "family_name": "Proteaceae",
+  "parent_name": "Grevillea",
   "gbif_id": "2891792",
   "powo_id": "703712-1",
   "iucn_id": "112646682",

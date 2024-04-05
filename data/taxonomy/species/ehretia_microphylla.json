@@ -1,8 +1,7 @@
 {
   "name": "Ehretia microphylla",
   "authorship": "Lam.",
-  "genus_name": "Ehretia",
-  "family_name": "Boraginaceae",
+  "parent_name": "Ehretia",
   "gbif_id": "4066311",
   "powo_id": "116079-1",
   "iucn_id": null,

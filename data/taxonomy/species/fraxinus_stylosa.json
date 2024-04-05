@@ -1,8 +1,7 @@
 {
   "name": "Fraxinus stylosa",
   "authorship": "Lingelsh.",
-  "genus_name": "Fraxinus",
-  "family_name": "Oleaceae",
+  "parent_name": "Fraxinus",
   "gbif_id": "3683999",
   "powo_id": "609233-1",
   "iucn_id": "96444585",

@@ -1,8 +1,7 @@
 {
   "name": "Saxifraga hypnoides",
   "authorship": "L.",
-  "genus_name": "Saxifraga",
-  "family_name": "Saxifragaceae",
+  "parent_name": "Saxifraga",
   "gbif_id": "8028512",
   "powo_id": "793841-1",
   "iucn_id": null,

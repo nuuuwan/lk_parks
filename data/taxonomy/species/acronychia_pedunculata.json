@@ -1,8 +1,7 @@
 {
   "name": "Acronychia pedunculata",
   "authorship": "(L.) Miq.",
-  "genus_name": "Acronychia",
-  "family_name": "Rutaceae",
+  "parent_name": "Acronychia",
   "gbif_id": "3836457",
   "powo_id": "770718-1",
   "iucn_id": "147652658",

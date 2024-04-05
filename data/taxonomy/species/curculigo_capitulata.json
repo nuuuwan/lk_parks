@@ -1,8 +1,7 @@
 {
   "name": "Curculigo capitulata",
   "authorship": "(Lour.) Kuntze",
-  "genus_name": "Curculigo",
-  "family_name": "Hypoxidaceae",
+  "parent_name": "Curculigo",
   "gbif_id": "2852556",
   "powo_id": "64141-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Picconia azorica",
   "authorship": "(Tutin) Knobl.",
-  "genus_name": "Picconia",
-  "family_name": "Oleaceae",
+  "parent_name": "Picconia",
   "gbif_id": "5549939",
   "powo_id": "611025-1",
   "iucn_id": "30330",

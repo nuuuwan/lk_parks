@@ -1,8 +1,7 @@
 {
   "name": "Andrographis paniculata",
   "authorship": "(Burm.f.) Nees",
-  "genus_name": "Andrographis",
-  "family_name": "Acanthaceae",
+  "parent_name": "Andrographis",
   "gbif_id": "3173178",
   "powo_id": "45226-1",
   "iucn_id": null,

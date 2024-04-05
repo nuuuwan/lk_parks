@@ -1,8 +1,7 @@
 {
   "name": "Dillenia suffruticosa",
   "authorship": "(Griff.) Martelli",
-  "genus_name": "Dillenia",
-  "family_name": "Dilleniaceae",
+  "parent_name": "Dillenia",
   "gbif_id": "5383897",
   "powo_id": "316765-1",
   "iucn_id": null,

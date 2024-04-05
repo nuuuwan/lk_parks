@@ -1,8 +1,7 @@
 {
   "name": "Tillandsia usneoides",
   "authorship": "(L.) L.",
-  "genus_name": "Tillandsia",
-  "family_name": "Bromeliaceae",
+  "parent_name": "Tillandsia",
   "gbif_id": "2695149",
   "powo_id": "1169665-2",
   "iucn_id": "131368905",

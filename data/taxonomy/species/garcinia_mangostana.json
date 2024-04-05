@@ -1,8 +1,7 @@
 {
   "name": "Garcinia mangostana",
   "authorship": "L.",
-  "genus_name": "Garcinia",
-  "family_name": "Clusiaceae",
+  "parent_name": "Garcinia",
   "gbif_id": "3189571",
   "powo_id": "428073-1",
   "iucn_id": null,

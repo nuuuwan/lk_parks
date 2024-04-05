@@ -1,8 +1,7 @@
 {
   "name": "Dalbergia sericea",
   "authorship": "G.Don",
-  "genus_name": "Dalbergia",
-  "family_name": "Fabaceae",
+  "parent_name": "Dalbergia",
   "gbif_id": "2933901",
   "powo_id": "490463-1",
   "iucn_id": "150284753",

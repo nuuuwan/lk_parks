@@ -1,8 +1,7 @@
 {
   "name": "Morus celtidifolia",
   "authorship": "Kunth",
-  "genus_name": "Morus",
-  "family_name": "Moraceae",
+  "parent_name": "Morus",
   "gbif_id": "5570117",
   "powo_id": "854634-1",
   "iucn_id": "192353028",

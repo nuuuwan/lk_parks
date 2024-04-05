@@ -1,8 +1,7 @@
 {
   "name": "Byrsonima lucida",
   "authorship": "(Mill.) DC.",
-  "genus_name": "Byrsonima",
-  "family_name": "Malpighiaceae",
+  "parent_name": "Byrsonima",
   "gbif_id": "3191356",
   "powo_id": "556111-1",
   "iucn_id": null,

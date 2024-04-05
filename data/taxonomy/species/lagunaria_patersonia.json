@@ -1,8 +1,7 @@
 {
   "name": "Lagunaria patersonia",
   "authorship": "(Andrews) G.Don",
-  "genus_name": "Lagunaria",
-  "family_name": "Malvaceae",
+  "parent_name": "Lagunaria",
   "gbif_id": "7279388",
   "powo_id": "561145-1",
   "iucn_id": null,

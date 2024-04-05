@@ -1,8 +1,7 @@
 {
   "name": "Convolvulus erubescens",
   "authorship": "Sims",
-  "genus_name": "Convolvulus",
-  "family_name": "Convolvulaceae",
+  "parent_name": "Convolvulus",
   "gbif_id": "2928389",
   "powo_id": "266179-1",
   "iucn_id": null,

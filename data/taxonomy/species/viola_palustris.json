@@ -1,8 +1,7 @@
 {
   "name": "Viola palustris",
   "authorship": "L.",
-  "genus_name": "Viola",
-  "family_name": "Violaceae",
+  "parent_name": "Viola",
   "gbif_id": "5331355",
   "powo_id": "868891-1",
   "iucn_id": "64326289",

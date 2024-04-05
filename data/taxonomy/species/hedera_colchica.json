@@ -1,8 +1,7 @@
 {
   "name": "Hedera colchica",
   "authorship": "(K.Koch) K.Koch",
-  "genus_name": "Hedera",
-  "family_name": "Araliaceae",
+  "parent_name": "Hedera",
   "gbif_id": "3036033",
   "powo_id": "90679-1",
   "iucn_id": null,

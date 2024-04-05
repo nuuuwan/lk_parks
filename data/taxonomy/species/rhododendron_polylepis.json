@@ -1,8 +1,7 @@
 {
   "name": "Rhododendron polylepis",
   "authorship": "Franch.",
-  "genus_name": "Rhododendron",
-  "family_name": "Ericaceae",
+  "parent_name": "Rhododendron",
   "gbif_id": "4167693",
   "powo_id": "333112-1",
   "iucn_id": "152841872",

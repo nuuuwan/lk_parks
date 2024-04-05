@@ -1,8 +1,7 @@
 {
   "name": "Galium pyrenaicum",
   "authorship": "Gouan",
-  "genus_name": "Galium",
-  "family_name": "Rubiaceae",
+  "parent_name": "Galium",
   "gbif_id": "2914055",
   "powo_id": "750513-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Miconia elata",
   "authorship": "(Sw.) DC.",
-  "genus_name": "Miconia",
-  "family_name": "Melastomataceae",
+  "parent_name": "Miconia",
   "gbif_id": "3866980",
   "powo_id": "1092872-2",
   "iucn_id": "205185126",

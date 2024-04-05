@@ -1,8 +1,7 @@
 {
   "name": "Raukaua valdiviensis",
   "authorship": "(Gay) Frodin",
-  "genus_name": "Raukaua",
-  "family_name": "Araliaceae",
+  "parent_name": "Raukaua",
   "gbif_id": "3037293",
   "powo_id": "60427966-2",
   "iucn_id": null,

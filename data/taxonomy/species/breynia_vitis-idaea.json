@@ -1,8 +1,7 @@
 {
   "name": "Breynia vitis-idaea",
   "authorship": "(Burm.f.) C.E.C.Fisch.",
-  "genus_name": "Breynia",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Breynia",
   "gbif_id": "5382985",
   "powo_id": "340112-1",
   "iucn_id": "147650197",

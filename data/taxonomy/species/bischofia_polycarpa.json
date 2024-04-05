@@ -1,8 +1,7 @@
 {
   "name": "Bischofia polycarpa",
   "authorship": "(H.L\u00e9v.) Airy Shaw",
-  "genus_name": "Bischofia",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Bischofia",
   "gbif_id": "5383083",
   "powo_id": "339924-1",
   "iucn_id": "147632489",

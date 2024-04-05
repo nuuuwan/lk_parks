@@ -1,8 +1,7 @@
 {
   "name": "Spiraea nipponica",
   "authorship": "Maxim.",
-  "genus_name": "Spiraea",
-  "family_name": "Rosaceae",
+  "parent_name": "Spiraea",
   "gbif_id": "3027341",
   "powo_id": "742405-1",
   "iucn_id": null,

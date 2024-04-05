@@ -1,8 +1,7 @@
 {
   "name": "Pinus coulteri",
   "authorship": "D.Don",
-  "genus_name": "Pinus",
-  "family_name": "Pinaceae",
+  "parent_name": "Pinus",
   "gbif_id": "5285113",
   "powo_id": "196961-2",
   "iucn_id": "42352",

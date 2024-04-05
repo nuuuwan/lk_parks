@@ -1,8 +1,7 @@
 {
   "name": "Carya glabra",
   "authorship": "(Mill.) Sweet",
-  "genus_name": "Carya",
-  "family_name": "Juglandaceae",
+  "parent_name": "Carya",
   "gbif_id": "3054325",
   "powo_id": "30055752-2",
   "iucn_id": "62019607",

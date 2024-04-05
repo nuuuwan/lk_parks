@@ -1,8 +1,7 @@
 {
   "name": "Hibiscus phoeniceus",
   "authorship": "Jacq.",
-  "genus_name": "Hibiscus",
-  "family_name": "Malvaceae",
+  "parent_name": "Hibiscus",
   "gbif_id": "3152556",
   "powo_id": "292502-2",
   "iucn_id": null,

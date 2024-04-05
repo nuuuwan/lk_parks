@@ -1,8 +1,7 @@
 {
   "name": "Distylium myricoides",
   "authorship": "Hemsl.",
-  "genus_name": "Distylium",
-  "family_name": "Hamamelidaceae",
+  "parent_name": "Distylium",
   "gbif_id": "7329093",
   "powo_id": "430633-1",
   "iucn_id": "147377387",

@@ -1,8 +1,7 @@
 {
   "name": "Paullinia rubiginosa",
   "authorship": "Cambess.",
-  "genus_name": "Paullinia",
-  "family_name": "Sapindaceae",
+  "parent_name": "Paullinia",
   "gbif_id": "7265113",
   "powo_id": "784268-1",
   "iucn_id": null,

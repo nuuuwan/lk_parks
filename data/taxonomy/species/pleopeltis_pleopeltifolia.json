@@ -1,8 +1,7 @@
 {
   "name": "Pleopeltis pleopeltifolia",
   "authorship": "(Raddi) Alston",
-  "genus_name": "Pleopeltis",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Pleopeltis",
   "gbif_id": "4028806",
   "powo_id": "17411360-1",
   "iucn_id": null,

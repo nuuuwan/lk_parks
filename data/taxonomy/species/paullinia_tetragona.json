@@ -1,8 +1,7 @@
 {
   "name": "Paullinia tetragona",
   "authorship": "Aubl.",
-  "genus_name": "Paullinia",
-  "family_name": "Sapindaceae",
+  "parent_name": "Paullinia",
   "gbif_id": "3787284",
   "powo_id": "784307-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Basselinia velutina",
   "authorship": "Becc.",
-  "genus_name": "Basselinia",
-  "family_name": "Arecaceae",
+  "parent_name": "Basselinia",
   "gbif_id": "2736209",
   "powo_id": "664844-1",
   "iucn_id": "38446",

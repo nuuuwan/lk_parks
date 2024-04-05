@@ -1,8 +1,7 @@
 {
   "name": "Aesculus chinensis",
   "authorship": "Bunge",
-  "genus_name": "Aesculus",
-  "family_name": "Sapindaceae",
+  "parent_name": "Aesculus",
   "gbif_id": "7323139",
   "powo_id": "781586-1",
   "iucn_id": null,

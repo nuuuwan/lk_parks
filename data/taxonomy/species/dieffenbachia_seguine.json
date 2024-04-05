@@ -1,8 +1,7 @@
 {
   "name": "Dieffenbachia seguine",
   "authorship": "(Jacq.) Schott",
-  "genus_name": "Dieffenbachia",
-  "family_name": "Araceae",
+  "parent_name": "Dieffenbachia",
   "gbif_id": "2869345",
   "powo_id": "86911-1",
   "iucn_id": null,

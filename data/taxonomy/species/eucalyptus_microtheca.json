@@ -1,8 +1,7 @@
 {
   "name": "Eucalyptus microtheca",
   "authorship": "F.Muell.",
-  "genus_name": "Eucalyptus",
-  "family_name": "Myrtaceae",
+  "parent_name": "Eucalyptus",
   "gbif_id": "3176810",
   "powo_id": "593129-1",
   "iucn_id": "133381039",

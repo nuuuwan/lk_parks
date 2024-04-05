@@ -1,8 +1,7 @@
 {
   "name": "Betula utilis",
   "authorship": "D.Don",
-  "genus_name": "Betula",
-  "family_name": "Betulaceae",
+  "parent_name": "Betula",
   "gbif_id": "5332157",
   "powo_id": "295229-1",
   "iucn_id": "194535",

@@ -1,8 +1,7 @@
 {
   "name": "Antennaria neglecta",
   "authorship": "Greene",
-  "genus_name": "Antennaria",
-  "family_name": "Asteraceae",
+  "parent_name": "Antennaria",
   "gbif_id": "5385488",
   "powo_id": "14759-2",
   "iucn_id": null,

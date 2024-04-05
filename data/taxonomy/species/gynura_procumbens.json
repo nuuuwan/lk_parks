@@ -1,8 +1,7 @@
 {
   "name": "Gynura procumbens",
   "authorship": "(Lour.) Merr.",
-  "genus_name": "Gynura",
-  "family_name": "Asteraceae",
+  "parent_name": "Gynura",
   "gbif_id": "3139818",
   "powo_id": "211304-1",
   "iucn_id": null,

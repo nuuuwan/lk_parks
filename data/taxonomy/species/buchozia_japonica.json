@@ -1,8 +1,7 @@
 {
   "name": "Buchozia japonica",
   "authorship": "(Thunb.) Callm.",
-  "genus_name": "Buchozia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Buchozia",
   "gbif_id": "12254482",
   "powo_id": "77219732-1",
   "iucn_id": null,

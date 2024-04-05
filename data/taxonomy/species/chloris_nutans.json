@@ -1,8 +1,7 @@
 {
   "name": "Chloris nutans",
   "authorship": "(Stapf) P.M.Peterson",
-  "genus_name": "Chloris",
-  "family_name": "Poaceae",
+  "parent_name": "Chloris",
   "gbif_id": "9403902",
   "powo_id": "60468989-2",
   "iucn_id": null,

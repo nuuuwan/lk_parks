@@ -1,8 +1,7 @@
 {
   "name": "Geissospermum laeve",
   "authorship": "(Vell.) Miers",
-  "genus_name": "Geissospermum",
-  "family_name": "Apocynaceae",
+  "parent_name": "Geissospermum",
   "gbif_id": "8371626",
   "powo_id": "79123-1",
   "iucn_id": null,

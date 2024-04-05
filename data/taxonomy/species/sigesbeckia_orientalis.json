@@ -1,8 +1,7 @@
 {
   "name": "Sigesbeckia orientalis",
   "authorship": "L.",
-  "genus_name": "Sigesbeckia",
-  "family_name": "Asteraceae",
+  "parent_name": "Sigesbeckia",
   "gbif_id": "3125901",
   "powo_id": "249084-1",
   "iucn_id": null,

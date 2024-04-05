@@ -1,8 +1,7 @@
 {
   "name": "Gymnostoma nobile",
   "authorship": "(Whitmore) L.A.S.Johnson",
-  "genus_name": "Gymnostoma",
-  "family_name": "Casuarinaceae",
+  "parent_name": "Gymnostoma",
   "gbif_id": "2891815",
   "powo_id": "910717-1",
   "iucn_id": null,

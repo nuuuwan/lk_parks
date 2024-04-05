@@ -1,8 +1,7 @@
 {
   "name": "Ludwigia perennis",
   "authorship": "L.",
-  "genus_name": "Ludwigia",
-  "family_name": "Onagraceae",
+  "parent_name": "Ludwigia",
   "gbif_id": "8129014",
   "powo_id": "613408-1",
   "iucn_id": "177025",

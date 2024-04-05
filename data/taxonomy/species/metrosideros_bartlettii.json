@@ -1,8 +1,7 @@
 {
   "name": "Metrosideros bartlettii",
   "authorship": "J.W.Dawson",
-  "genus_name": "Metrosideros",
-  "family_name": "Myrtaceae",
+  "parent_name": "Metrosideros",
   "gbif_id": "3185403",
   "powo_id": "929845-1",
   "iucn_id": "34295",

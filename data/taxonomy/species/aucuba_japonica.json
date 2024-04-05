@@ -1,8 +1,7 @@
 {
   "name": "Aucuba japonica",
   "authorship": "Thunb.",
-  "genus_name": "Aucuba",
-  "family_name": "Garryaceae",
+  "parent_name": "Aucuba",
   "gbif_id": "3033077",
   "powo_id": "271451-1",
   "iucn_id": null,

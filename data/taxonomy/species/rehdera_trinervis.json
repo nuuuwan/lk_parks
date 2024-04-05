@@ -1,8 +1,7 @@
 {
   "name": "Rehdera trinervis",
   "authorship": "(S.F.Blake) Moldenke",
-  "genus_name": "Rehdera",
-  "family_name": "Verbenaceae",
+  "parent_name": "Rehdera",
   "gbif_id": "7297561",
   "powo_id": "218430-2",
   "iucn_id": "145352054",

@@ -1,8 +1,7 @@
 {
   "name": "Laelia albida",
   "authorship": "Bateman ex Lindl.",
-  "genus_name": "Laelia",
-  "family_name": "Orchidaceae",
+  "parent_name": "Laelia",
   "gbif_id": "5314561",
   "powo_id": "639545-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Astrocaryum vulgare",
   "authorship": "Mart.",
-  "genus_name": "Astrocaryum",
-  "family_name": "Arecaceae",
+  "parent_name": "Astrocaryum",
   "gbif_id": "2738076",
   "powo_id": "664361-1",
   "iucn_id": "111453461",

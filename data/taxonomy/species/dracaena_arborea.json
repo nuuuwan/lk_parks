@@ -1,8 +1,7 @@
 {
   "name": "Dracaena arborea",
   "authorship": "(Willd.) Link",
-  "genus_name": "Dracaena",
-  "family_name": "Asparagaceae",
+  "parent_name": "Dracaena",
   "gbif_id": "5304485",
   "powo_id": "534104-1",
   "iucn_id": "147136700",

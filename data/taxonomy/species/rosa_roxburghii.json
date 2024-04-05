@@ -1,8 +1,7 @@
 {
   "name": "Rosa roxburghii",
   "authorship": "Tratt.",
-  "genus_name": "Rosa",
-  "family_name": "Rosaceae",
+  "parent_name": "Rosa",
   "gbif_id": "3008635",
   "powo_id": "734056-1",
   "iucn_id": null,

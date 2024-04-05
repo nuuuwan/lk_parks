@@ -1,8 +1,7 @@
 {
   "name": "Fritillaria reuteri",
   "authorship": "Boiss.",
-  "genus_name": "Fritillaria",
-  "family_name": "Liliaceae",
+  "parent_name": "Fritillaria",
   "gbif_id": "5300715",
   "powo_id": "535306-1",
   "iucn_id": null,

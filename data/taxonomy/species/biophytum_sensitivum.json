@@ -1,8 +1,7 @@
 {
   "name": "Biophytum sensitivum",
   "authorship": "(L.) DC.",
-  "genus_name": "Biophytum",
-  "family_name": "Oxalidaceae",
+  "parent_name": "Biophytum",
   "gbif_id": "3628231",
   "powo_id": "371965-1",
   "iucn_id": null,

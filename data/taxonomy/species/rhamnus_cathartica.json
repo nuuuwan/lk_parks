@@ -1,8 +1,7 @@
 {
   "name": "Rhamnus cathartica",
   "authorship": "L.",
-  "genus_name": "Rhamnus",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Rhamnus",
   "gbif_id": "3039491",
   "powo_id": "718256-1",
   "iucn_id": "61957125",

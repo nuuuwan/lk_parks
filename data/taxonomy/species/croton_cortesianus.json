@@ -1,8 +1,7 @@
 {
   "name": "Croton cortesianus",
   "authorship": "Kunth",
-  "genus_name": "Croton",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Croton",
   "gbif_id": "3059195",
   "powo_id": "342351-1",
   "iucn_id": "144302882",

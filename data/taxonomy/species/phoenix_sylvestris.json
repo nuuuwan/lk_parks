@@ -1,8 +1,7 @@
 {
   "name": "Phoenix sylvestris",
   "authorship": "(L.) Roxb.",
-  "genus_name": "Phoenix",
-  "family_name": "Arecaceae",
+  "parent_name": "Phoenix",
   "gbif_id": "5293177",
   "powo_id": "60458340-2",
   "iucn_id": null,

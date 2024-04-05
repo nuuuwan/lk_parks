@@ -1,8 +1,7 @@
 {
   "name": "Rhopalostylis baueri",
   "authorship": "(Hook.f.) H.Wendl. & Drude",
-  "genus_name": "Rhopalostylis",
-  "family_name": "Arecaceae",
+  "parent_name": "Rhopalostylis",
   "gbif_id": "2739138",
   "powo_id": "60468338-2",
   "iucn_id": null,

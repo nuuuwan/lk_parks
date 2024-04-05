@@ -1,8 +1,7 @@
 {
   "name": "Ficus triloba",
   "authorship": "Buch.-Ham. ex Voigt",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "8715736",
   "powo_id": "1004157-1",
   "iucn_id": null,

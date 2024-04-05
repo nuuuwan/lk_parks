@@ -1,8 +1,7 @@
 {
   "name": "Pentaspadon motleyi",
   "authorship": "Hook.f.",
-  "genus_name": "Pentaspadon",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Pentaspadon",
   "gbif_id": "5792409",
   "powo_id": "70221-1",
   "iucn_id": "33244",

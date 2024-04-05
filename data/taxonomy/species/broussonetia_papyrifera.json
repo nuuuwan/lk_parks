@@ -1,8 +1,7 @@
 {
   "name": "Broussonetia papyrifera",
   "authorship": "(L.) L'H\u00e9r. ex Vent.",
-  "genus_name": "Broussonetia",
-  "family_name": "Moraceae",
+  "parent_name": "Broussonetia",
   "gbif_id": "5361944",
   "powo_id": "850861-1",
   "iucn_id": "49834580",

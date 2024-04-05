@@ -1,8 +1,7 @@
 {
   "name": "Dracaena surculosa",
   "authorship": "Lindl.",
-  "genus_name": "Dracaena",
-  "family_name": "Asparagaceae",
+  "parent_name": "Dracaena",
   "gbif_id": "5304547",
   "powo_id": "534384-1",
   "iucn_id": null,

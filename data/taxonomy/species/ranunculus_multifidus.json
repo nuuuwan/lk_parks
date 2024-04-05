@@ -1,8 +1,7 @@
 {
   "name": "Ranunculus multifidus",
   "authorship": "Forssk.",
-  "genus_name": "Ranunculus",
-  "family_name": "Ranunculaceae",
+  "parent_name": "Ranunculus",
   "gbif_id": "7593736",
   "powo_id": "713278-1",
   "iucn_id": "13584786",

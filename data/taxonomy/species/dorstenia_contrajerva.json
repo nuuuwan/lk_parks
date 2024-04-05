@@ -1,8 +1,7 @@
 {
   "name": "Dorstenia contrajerva",
   "authorship": "L.",
-  "genus_name": "Dorstenia",
-  "family_name": "Moraceae",
+  "parent_name": "Dorstenia",
   "gbif_id": "2984541",
   "powo_id": "319180-2",
   "iucn_id": null,

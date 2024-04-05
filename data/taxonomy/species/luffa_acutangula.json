@@ -1,8 +1,7 @@
 {
   "name": "Luffa acutangula",
   "authorship": "(L.) Roxb.",
-  "genus_name": "Luffa",
-  "family_name": "Cucurbitaceae",
+  "parent_name": "Luffa",
   "gbif_id": "2874601",
   "powo_id": "105280-3",
   "iucn_id": null,

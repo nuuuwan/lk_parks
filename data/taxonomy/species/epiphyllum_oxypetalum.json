@@ -1,8 +1,7 @@
 {
   "name": "Epiphyllum oxypetalum",
   "authorship": "(DC.) Haw.",
-  "genus_name": "Epiphyllum",
-  "family_name": "Cactaceae",
+  "parent_name": "Epiphyllum",
   "gbif_id": "5384031",
   "powo_id": "132938-1",
   "iucn_id": "152393",

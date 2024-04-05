@@ -1,8 +1,7 @@
 {
   "name": "Celtis tenuifolia",
   "authorship": "Nutt.",
-  "genus_name": "Celtis",
-  "family_name": "Cannabaceae",
+  "parent_name": "Celtis",
   "gbif_id": "2984482",
   "powo_id": "51232-2",
   "iucn_id": "227581721",

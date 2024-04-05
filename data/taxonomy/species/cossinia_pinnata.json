@@ -1,8 +1,7 @@
 {
   "name": "Cossinia pinnata",
   "authorship": "Comm. ex Lam.",
-  "genus_name": "Cossinia",
-  "family_name": "Sapindaceae",
+  "parent_name": "Cossinia",
   "gbif_id": "3784907",
   "powo_id": "782321-1",
   "iucn_id": null,

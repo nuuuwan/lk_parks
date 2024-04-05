@@ -1,8 +1,7 @@
 {
   "name": "Metrosideros excelsa",
   "authorship": "Sol. ex Gaertn.",
-  "genus_name": "Metrosideros",
-  "family_name": "Myrtaceae",
+  "parent_name": "Metrosideros",
   "gbif_id": "3185393",
   "powo_id": "598207-1",
   "iucn_id": null,

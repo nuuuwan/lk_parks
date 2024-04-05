@@ -1,8 +1,7 @@
 {
   "name": "Costus elegans",
   "authorship": "Veitch ex J.Dix",
-  "genus_name": "Costus",
-  "family_name": "Costaceae",
+  "parent_name": "Costus",
   "gbif_id": "11135222",
   "powo_id": "796295-1",
   "iucn_id": null,

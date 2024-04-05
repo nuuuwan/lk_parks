@@ -1,8 +1,7 @@
 {
   "name": "Gaussia maya",
   "authorship": "(O.F.Cook) H.J.Quero & Read",
-  "genus_name": "Gaussia",
-  "family_name": "Arecaceae",
+  "parent_name": "Gaussia",
   "gbif_id": "5293087",
   "powo_id": "277352-2",
   "iucn_id": "38571",

@@ -1,8 +1,7 @@
 {
   "name": "Phyllostachys vivax",
   "authorship": "McClure",
-  "genus_name": "Phyllostachys",
-  "family_name": "Poaceae",
+  "parent_name": "Phyllostachys",
   "gbif_id": "4135448",
   "powo_id": "416061-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Pterolobium hexapetalum",
   "authorship": "(Roth) Santapau & Wagh",
-  "genus_name": "Pterolobium",
-  "family_name": "Fabaceae",
+  "parent_name": "Pterolobium",
   "gbif_id": "5357454",
   "powo_id": "516625-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Aspidosperma polyneuron",
   "authorship": "M\u00fcll.Arg.",
-  "genus_name": "Aspidosperma",
-  "family_name": "Apocynaceae",
+  "parent_name": "Aspidosperma",
   "gbif_id": "7316900",
   "powo_id": "77433-1",
   "iucn_id": "32023",

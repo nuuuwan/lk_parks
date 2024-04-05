@@ -1,8 +1,7 @@
 {
   "name": "Jacaranda obtusifolia",
   "authorship": "Bonpl.",
-  "genus_name": "Jacaranda",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Jacaranda",
   "gbif_id": "7298634",
   "powo_id": "109832-1",
   "iucn_id": "61985974",

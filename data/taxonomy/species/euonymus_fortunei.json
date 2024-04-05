@@ -1,8 +1,7 @@
 {
   "name": "Euonymus fortunei",
   "authorship": "(Turcz.) Hand.-Mazz.",
-  "genus_name": "Euonymus",
-  "family_name": "Celastraceae",
+  "parent_name": "Euonymus",
   "gbif_id": "3169137",
   "powo_id": "160893-1",
   "iucn_id": null,

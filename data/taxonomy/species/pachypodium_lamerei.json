@@ -1,8 +1,7 @@
 {
   "name": "Pachypodium lamerei",
   "authorship": "Drake",
-  "genus_name": "Pachypodium",
-  "family_name": "Apocynaceae",
+  "parent_name": "Pachypodium",
   "gbif_id": "5535474",
   "powo_id": "80705-1",
   "iucn_id": "69222038",

@@ -1,8 +1,7 @@
 {
   "name": "Epilobium canum",
   "authorship": "(Greene) P.H.Raven",
-  "genus_name": "Epilobium",
-  "family_name": "Onagraceae",
+  "parent_name": "Epilobium",
   "gbif_id": "3189132",
   "powo_id": "92449-2",
   "iucn_id": null,

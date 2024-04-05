@@ -1,8 +1,7 @@
 {
   "name": "Oenothera hartwegii",
   "authorship": "Benth.",
-  "genus_name": "Oenothera",
-  "family_name": "Onagraceae",
+  "parent_name": "Oenothera",
   "gbif_id": "6428151",
   "powo_id": "173039-2",
   "iucn_id": null,

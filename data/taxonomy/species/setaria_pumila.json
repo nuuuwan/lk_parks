@@ -1,8 +1,7 @@
 {
   "name": "Setaria pumila",
   "authorship": "(Poir.) Roem. & Schult.",
-  "genus_name": "Setaria",
-  "family_name": "Poaceae",
+  "parent_name": "Setaria",
   "gbif_id": "5289693",
   "powo_id": "421764-1",
   "iucn_id": null,

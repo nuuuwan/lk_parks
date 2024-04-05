@@ -1,8 +1,7 @@
 {
   "name": "Viburnum farreri",
   "authorship": "Stearn",
-  "genus_name": "Viburnum",
-  "family_name": "Viburnaceae",
+  "parent_name": "Viburnum",
   "gbif_id": "6369599",
   "powo_id": "149676-1",
   "iucn_id": null,

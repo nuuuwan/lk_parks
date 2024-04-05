@@ -1,8 +1,7 @@
 {
   "name": "Datura metel",
   "authorship": "L.",
-  "genus_name": "Datura",
-  "family_name": "Solanaceae",
+  "parent_name": "Datura",
   "gbif_id": "2928747",
   "powo_id": "314739-2",
   "iucn_id": null,

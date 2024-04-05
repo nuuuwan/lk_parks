@@ -1,8 +1,7 @@
 {
   "name": "Taxus cuspidata",
   "authorship": "Siebold & Zucc.",
-  "genus_name": "Taxus",
-  "family_name": "Taxaceae",
+  "parent_name": "Taxus",
   "gbif_id": "5284524",
   "powo_id": "324379-2",
   "iucn_id": "42549",

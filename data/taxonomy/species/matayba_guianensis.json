@@ -1,8 +1,7 @@
 {
   "name": "Matayba guianensis",
   "authorship": "Aubl.",
-  "genus_name": "Matayba",
-  "family_name": "Sapindaceae",
+  "parent_name": "Matayba",
   "gbif_id": "3784329",
   "powo_id": "783604-1",
   "iucn_id": "179310418",

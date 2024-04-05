@@ -1,8 +1,7 @@
 {
   "name": "Pera arborea",
   "authorship": "Mutis",
-  "genus_name": "Pera",
-  "family_name": "Peraceae",
+  "parent_name": "Pera",
   "gbif_id": "5614973",
   "powo_id": "353335-1",
   "iucn_id": "146793332",

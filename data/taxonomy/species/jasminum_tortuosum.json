@@ -1,8 +1,7 @@
 {
   "name": "Jasminum tortuosum",
   "authorship": "Willd.",
-  "genus_name": "Jasminum",
-  "family_name": "Oleaceae",
+  "parent_name": "Jasminum",
   "gbif_id": "3684644",
   "powo_id": "609826-1",
   "iucn_id": null,

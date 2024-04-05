@@ -1,8 +1,7 @@
 {
   "name": "Licuala ramsayi",
   "authorship": "(F.Muell.) Domin",
-  "genus_name": "Licuala",
-  "family_name": "Arecaceae",
+  "parent_name": "Licuala",
   "gbif_id": "2736328",
   "powo_id": "667948-1",
   "iucn_id": "192233186",

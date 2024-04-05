@@ -1,8 +1,7 @@
 {
   "name": "Drypetes pendula",
   "authorship": "Ridl.",
-  "genus_name": "Drypetes",
-  "family_name": "Putranjivaceae",
+  "parent_name": "Drypetes",
   "gbif_id": "3075764",
   "powo_id": "345140-1",
   "iucn_id": "218304753",

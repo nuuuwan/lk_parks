@@ -1,8 +1,7 @@
 {
   "name": "Ocotea atirrensis",
   "authorship": "Mez & Donn.Sm.",
-  "genus_name": "Ocotea",
-  "family_name": "Lauraceae",
+  "parent_name": "Ocotea",
   "gbif_id": "4177469",
   "powo_id": "171524-2",
   "iucn_id": "150002156",

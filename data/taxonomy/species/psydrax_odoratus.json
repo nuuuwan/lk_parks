@@ -1,8 +1,7 @@
 {
   "name": "Psydrax odoratus",
   "authorship": "(G.Forst.) A.C.Sm. & S.P.Darwin",
-  "genus_name": "Psydrax",
-  "family_name": "Rubiaceae",
+  "parent_name": "Psydrax",
   "gbif_id": "2893185",
   "powo_id": "945364-1",
   "iucn_id": null,

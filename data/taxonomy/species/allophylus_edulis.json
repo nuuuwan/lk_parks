@@ -1,8 +1,7 @@
 {
   "name": "Allophylus edulis",
   "authorship": "(A.St.-Hil., A.Juss. & Cambess.) Radlk.",
-  "genus_name": "Allophylus",
-  "family_name": "Sapindaceae",
+  "parent_name": "Allophylus",
   "gbif_id": "7883158",
   "powo_id": "781755-1",
   "iucn_id": "163032110",

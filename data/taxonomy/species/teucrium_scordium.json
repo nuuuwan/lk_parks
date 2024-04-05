@@ -1,8 +1,7 @@
 {
   "name": "Teucrium scordium",
   "authorship": "L.",
-  "genus_name": "Teucrium",
-  "family_name": "Lamiaceae",
+  "parent_name": "Teucrium",
   "gbif_id": "7945074",
   "powo_id": "460713-1",
   "iucn_id": null,

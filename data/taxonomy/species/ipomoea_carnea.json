@@ -1,8 +1,7 @@
 {
   "name": "Ipomoea carnea",
   "authorship": "Jacq.",
-  "genus_name": "Ipomoea",
-  "family_name": "Convolvulaceae",
+  "parent_name": "Ipomoea",
   "gbif_id": "2928590",
   "powo_id": "30299665-2",
   "iucn_id": null,

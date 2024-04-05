@@ -1,8 +1,7 @@
 {
   "name": "Pouteria decorticans",
   "authorship": "T.D.Penn.",
-  "genus_name": "Pouteria",
-  "family_name": "Sapotaceae",
+  "parent_name": "Pouteria",
   "gbif_id": "2884298",
   "powo_id": "283719-2",
   "iucn_id": null,

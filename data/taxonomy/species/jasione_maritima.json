@@ -1,8 +1,7 @@
 {
   "name": "Jasione maritima",
   "authorship": "(Duby) L.M.Dufour ex Merino",
-  "genus_name": "Jasione",
-  "family_name": "Campanulaceae",
+  "parent_name": "Jasione",
   "gbif_id": "3165764",
   "powo_id": "20002530-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Berberis vulgaris",
   "authorship": "L.",
-  "genus_name": "Berberis",
-  "family_name": "Berberidaceae",
+  "parent_name": "Berberis",
   "gbif_id": "3033894",
   "powo_id": "328527-2",
   "iucn_id": null,

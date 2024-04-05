@@ -1,8 +1,7 @@
 {
   "name": "Citronella mucronata",
   "authorship": "(Ruiz & Pav.) D.Don",
-  "genus_name": "Citronella",
-  "family_name": "Cardiopteridaceae",
+  "parent_name": "Citronella",
   "gbif_id": "3596997",
   "powo_id": "1143328-2",
   "iucn_id": "31358",

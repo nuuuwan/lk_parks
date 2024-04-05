@@ -1,8 +1,7 @@
 {
   "name": "Dalbergia melanoxylon",
   "authorship": "Guill. & Perr.",
-  "genus_name": "Dalbergia",
-  "family_name": "Fabaceae",
+  "parent_name": "Dalbergia",
   "gbif_id": "2968897",
   "powo_id": "490328-1",
   "iucn_id": "32504",

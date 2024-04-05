@@ -1,8 +1,7 @@
 {
   "name": "Phyllanthus bourgeoisii",
   "authorship": "Baill.",
-  "genus_name": "Phyllanthus",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Phyllanthus",
   "gbif_id": "5382702",
   "powo_id": "353605-1",
   "iucn_id": null,

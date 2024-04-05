@@ -1,8 +1,7 @@
 {
   "name": "Anthurium hookeri",
   "authorship": "Kunth",
-  "genus_name": "Anthurium",
-  "family_name": "Araceae",
+  "parent_name": "Anthurium",
   "gbif_id": "2872293",
   "powo_id": "84893-1",
   "iucn_id": null,

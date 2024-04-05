@@ -1,8 +1,7 @@
 {
   "name": "Tillandsia flexuosa",
   "authorship": "Sw.",
-  "genus_name": "Tillandsia",
-  "family_name": "Bromeliaceae",
+  "parent_name": "Tillandsia",
   "gbif_id": "2695344",
   "powo_id": "125147-1",
   "iucn_id": null,

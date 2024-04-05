@@ -1,8 +1,7 @@
 {
   "name": "Keteleeria evelyniana",
   "authorship": "Mast.",
-  "genus_name": "Keteleeria",
-  "family_name": "Pinaceae",
+  "parent_name": "Keteleeria",
   "gbif_id": "2685711",
   "powo_id": "262402-1",
   "iucn_id": "42307",

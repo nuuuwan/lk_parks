@@ -1,8 +1,7 @@
 {
   "name": "Ptaeroxylon obliquum",
   "authorship": "(Thunb.) Radlk.",
-  "genus_name": "Ptaeroxylon",
-  "family_name": "Rutaceae",
+  "parent_name": "Ptaeroxylon",
   "gbif_id": "3990253",
   "powo_id": "784511-1",
   "iucn_id": "61958830",

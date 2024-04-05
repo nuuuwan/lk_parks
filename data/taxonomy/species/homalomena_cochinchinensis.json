@@ -1,8 +1,7 @@
 {
   "name": "Homalomena cochinchinensis",
   "authorship": "Engl.",
-  "genus_name": "Homalomena",
-  "family_name": "Araceae",
+  "parent_name": "Homalomena",
   "gbif_id": "2868580",
   "powo_id": "87174-1",
   "iucn_id": null,

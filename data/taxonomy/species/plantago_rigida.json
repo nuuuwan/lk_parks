@@ -1,8 +1,7 @@
 {
   "name": "Plantago rigida",
   "authorship": "Kunth",
-  "genus_name": "Plantago",
-  "family_name": "Plantaginaceae",
+  "parent_name": "Plantago",
   "gbif_id": "7749255",
   "powo_id": "685595-1",
   "iucn_id": "133319030",

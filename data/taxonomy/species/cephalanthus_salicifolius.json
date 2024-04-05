@@ -1,8 +1,7 @@
 {
   "name": "Cephalanthus salicifolius",
   "authorship": "Humb. & Bonpl.",
-  "genus_name": "Cephalanthus",
-  "family_name": "Rubiaceae",
+  "parent_name": "Cephalanthus",
   "gbif_id": "2923965",
   "powo_id": "746233-1",
   "iucn_id": "138311656",

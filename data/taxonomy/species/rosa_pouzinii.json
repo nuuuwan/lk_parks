@@ -1,8 +1,7 @@
 {
   "name": "Rosa pouzinii",
   "authorship": "Tratt.",
-  "genus_name": "Rosa",
-  "family_name": "Rosaceae",
+  "parent_name": "Rosa",
   "gbif_id": "3008098",
   "powo_id": "733754-1",
   "iucn_id": null,

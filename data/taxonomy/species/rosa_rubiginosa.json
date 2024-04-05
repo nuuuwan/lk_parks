@@ -1,8 +1,7 @@
 {
   "name": "Rosa rubiginosa",
   "authorship": "L.",
-  "genus_name": "Rosa",
-  "family_name": "Rosaceae",
+  "parent_name": "Rosa",
   "gbif_id": "8174785",
   "powo_id": "734069-1",
   "iucn_id": null,

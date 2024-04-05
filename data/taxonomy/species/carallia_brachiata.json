@@ -1,8 +1,7 @@
 {
   "name": "Carallia brachiata",
   "authorship": "(Lour.) Merr.",
-  "genus_name": "Carallia",
-  "family_name": "Rhizophoraceae",
+  "parent_name": "Carallia",
   "gbif_id": "3873929",
   "powo_id": "719554-1",
   "iucn_id": "61957194",

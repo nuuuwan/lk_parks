@@ -1,8 +1,7 @@
 {
   "name": "Ficus geniculata",
   "authorship": "Kurz",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "7262657",
   "powo_id": "852882-1",
   "iucn_id": null,

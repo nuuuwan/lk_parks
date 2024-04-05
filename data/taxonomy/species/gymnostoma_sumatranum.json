@@ -1,8 +1,7 @@
 {
   "name": "Gymnostoma sumatranum",
   "authorship": "(Jungh. ex de Vriese) L.A.S.Johnson",
-  "genus_name": "Gymnostoma",
-  "family_name": "Casuarinaceae",
+  "parent_name": "Gymnostoma",
   "gbif_id": "2891804",
   "powo_id": "910721-1",
   "iucn_id": "168650564",

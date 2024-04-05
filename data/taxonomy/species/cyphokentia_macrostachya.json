@@ -1,8 +1,7 @@
 {
   "name": "Cyphokentia macrostachya",
   "authorship": "Brongn.",
-  "genus_name": "Cyphokentia",
-  "family_name": "Arecaceae",
+  "parent_name": "Cyphokentia",
   "gbif_id": "2739213",
   "powo_id": "666377-1",
   "iucn_id": "38500",

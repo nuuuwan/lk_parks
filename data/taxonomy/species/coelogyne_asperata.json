@@ -1,8 +1,7 @@
 {
   "name": "Coelogyne asperata",
   "authorship": "Lindl.",
-  "genus_name": "Coelogyne",
-  "family_name": "Orchidaceae",
+  "parent_name": "Coelogyne",
   "gbif_id": "2811710",
   "powo_id": "623770-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Mussaenda erythrophylla",
   "authorship": "Schumach. & Thonn.",
-  "genus_name": "Mussaenda",
-  "family_name": "Rubiaceae",
+  "parent_name": "Mussaenda",
   "gbif_id": "2892634",
   "powo_id": "756618-1",
   "iucn_id": "143713722",

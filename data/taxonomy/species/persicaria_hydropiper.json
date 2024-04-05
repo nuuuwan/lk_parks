@@ -1,8 +1,7 @@
 {
   "name": "Persicaria hydropiper",
   "authorship": "(L.) Delarbre",
-  "genus_name": "Persicaria",
-  "family_name": "Polygonaceae",
+  "parent_name": "Persicaria",
   "gbif_id": "7349477",
   "powo_id": "77069479-1",
   "iucn_id": "163977",

@@ -1,8 +1,7 @@
 {
   "name": "Thrinax excelsa",
   "authorship": "Lodd. ex Mart.",
-  "genus_name": "Thrinax",
-  "family_name": "Arecaceae",
+  "parent_name": "Thrinax",
   "gbif_id": "5293644",
   "powo_id": "670136-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Distimake tuberosus",
   "authorship": "(L.) A.R.Sim\u00f5es & Staples",
-  "genus_name": "Distimake",
-  "family_name": "Convolvulaceae",
+  "parent_name": "Distimake",
   "gbif_id": "9636531",
   "powo_id": "77163293-1",
   "iucn_id": null,

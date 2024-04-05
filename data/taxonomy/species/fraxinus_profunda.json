@@ -1,8 +1,7 @@
 {
   "name": "Fraxinus profunda",
   "authorship": "(Bush) Bush",
-  "genus_name": "Fraxinus",
-  "family_name": "Oleaceae",
+  "parent_name": "Fraxinus",
   "gbif_id": "3172363",
   "powo_id": "105892-2",
   "iucn_id": "61919022",

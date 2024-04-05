@@ -1,8 +1,7 @@
 {
   "name": "Ficus cahuitensis",
   "authorship": "C.C.Berg",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5571061",
   "powo_id": "104472-2",
   "iucn_id": "120058924",

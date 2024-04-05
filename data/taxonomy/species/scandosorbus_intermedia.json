@@ -1,8 +1,7 @@
 {
   "name": "Scandosorbus intermedia",
   "authorship": "(Ehrh.) Sennikov",
-  "genus_name": "Scandosorbus",
-  "family_name": "Rosaceae",
+  "parent_name": "Scandosorbus",
   "gbif_id": "10071055",
   "powo_id": "77193169-1",
   "iucn_id": null,

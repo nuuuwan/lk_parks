@@ -1,8 +1,7 @@
 {
   "name": "Artocarpus lamellosus",
   "authorship": "Blanco",
-  "genus_name": "Artocarpus",
-  "family_name": "Moraceae",
+  "parent_name": "Artocarpus",
   "gbif_id": "3764628",
   "powo_id": "850406-1",
   "iucn_id": null,

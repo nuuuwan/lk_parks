@@ -1,8 +1,7 @@
 {
   "name": "Actinidia chinensis",
   "authorship": "Planch.",
-  "genus_name": "Actinidia",
-  "family_name": "Actinidiaceae",
+  "parent_name": "Actinidia",
   "gbif_id": "3189694",
   "powo_id": "828396-1",
   "iucn_id": null,

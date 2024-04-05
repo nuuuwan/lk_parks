@@ -1,8 +1,7 @@
 {
   "name": "Mitchella repens",
   "authorship": "L.",
-  "genus_name": "Mitchella",
-  "family_name": "Rubiaceae",
+  "parent_name": "Mitchella",
   "gbif_id": "5338762",
   "powo_id": "280970-2",
   "iucn_id": null,

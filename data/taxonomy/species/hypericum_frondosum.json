@@ -1,8 +1,7 @@
 {
   "name": "Hypericum frondosum",
   "authorship": "Michx.",
-  "genus_name": "Hypericum",
-  "family_name": "Hypericaceae",
+  "parent_name": "Hypericum",
   "gbif_id": "3189521",
   "powo_id": "433443-1",
   "iucn_id": null,

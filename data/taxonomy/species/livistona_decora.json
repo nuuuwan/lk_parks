@@ -1,8 +1,7 @@
 {
   "name": "Livistona decora",
   "authorship": "(W.Bull) Dowe",
-  "genus_name": "Livistona",
-  "family_name": "Arecaceae",
+  "parent_name": "Livistona",
   "gbif_id": "2733446",
   "powo_id": "77063978-1",
   "iucn_id": "192228369",

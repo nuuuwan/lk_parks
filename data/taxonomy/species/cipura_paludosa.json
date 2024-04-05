@@ -1,8 +1,7 @@
 {
   "name": "Cipura paludosa",
   "authorship": "Aubl.",
-  "genus_name": "Cipura",
-  "family_name": "Iridaceae",
+  "parent_name": "Cipura",
   "gbif_id": "2744102",
   "powo_id": "274679-2",
   "iucn_id": null,

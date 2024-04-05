@@ -1,8 +1,7 @@
 {
   "name": "Celtis philippensis",
   "authorship": "Blanco",
-  "genus_name": "Celtis",
-  "family_name": "Cannabaceae",
+  "parent_name": "Celtis",
   "gbif_id": "7303643",
   "powo_id": "56400-3",
   "iucn_id": "61988008",

@@ -1,8 +1,7 @@
 {
   "name": "Sclerocarya birrea",
   "authorship": "(A.Rich.) Hochst.",
-  "genus_name": "Sclerocarya",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Sclerocarya",
   "gbif_id": "7160810",
   "powo_id": "71162-1",
   "iucn_id": null,

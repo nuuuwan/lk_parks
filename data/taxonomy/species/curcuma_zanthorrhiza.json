@@ -1,8 +1,7 @@
 {
   "name": "Curcuma zanthorrhiza",
   "authorship": "Roxb.",
-  "genus_name": "Curcuma",
-  "family_name": "Zingiberaceae",
+  "parent_name": "Curcuma",
   "gbif_id": "2757547",
   "powo_id": "796485-1",
   "iucn_id": "117233930",

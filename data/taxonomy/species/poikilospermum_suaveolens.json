@@ -1,8 +1,7 @@
 {
   "name": "Poikilospermum suaveolens",
   "authorship": "(Blume) Merr.",
-  "genus_name": "Poikilospermum",
-  "family_name": "Urticaceae",
+  "parent_name": "Poikilospermum",
   "gbif_id": "4013131",
   "powo_id": "856050-1",
   "iucn_id": null,

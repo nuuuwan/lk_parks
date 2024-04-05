@@ -1,8 +1,7 @@
 {
   "name": "Piper hispidum",
   "authorship": "Sw.",
-  "genus_name": "Piper",
-  "family_name": "Piperaceae",
+  "parent_name": "Piper",
   "gbif_id": "3086355",
   "powo_id": "681674-1",
   "iucn_id": "150117584",

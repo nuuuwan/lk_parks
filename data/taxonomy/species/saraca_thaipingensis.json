@@ -1,8 +1,7 @@
 {
   "name": "Saraca thaipingensis",
   "authorship": "Cantley ex Prain",
-  "genus_name": "Saraca",
-  "family_name": "Fabaceae",
+  "parent_name": "Saraca",
   "gbif_id": "5359531",
   "powo_id": "517910-1",
   "iucn_id": "170267704",

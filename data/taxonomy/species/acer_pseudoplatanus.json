@@ -1,8 +1,7 @@
 {
   "name": "Acer pseudoplatanus",
   "authorship": "L.",
-  "genus_name": "Acer",
-  "family_name": "Sapindaceae",
+  "parent_name": "Acer",
   "gbif_id": "3189870",
   "powo_id": "781462-1",
   "iucn_id": "193856",

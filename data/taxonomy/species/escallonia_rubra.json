@@ -1,8 +1,7 @@
 {
   "name": "Escallonia rubra",
   "authorship": "(Ruiz & Pav.) Pers.",
-  "genus_name": "Escallonia",
-  "family_name": "Escalloniaceae",
+  "parent_name": "Escallonia",
   "gbif_id": "8405971",
   "powo_id": "791101-1",
   "iucn_id": null,

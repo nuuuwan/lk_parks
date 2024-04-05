@@ -1,8 +1,7 @@
 {
   "name": "Rothmannia longiflora",
   "authorship": "Salisb.",
-  "genus_name": "Rothmannia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Rothmannia",
   "gbif_id": "2906247",
   "powo_id": "765136-1",
   "iucn_id": "153937774",

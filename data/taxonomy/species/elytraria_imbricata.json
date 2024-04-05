@@ -1,8 +1,7 @@
 {
   "name": "Elytraria imbricata",
   "authorship": "(Vahl) Pers.",
-  "genus_name": "Elytraria",
-  "family_name": "Acanthaceae",
+  "parent_name": "Elytraria",
   "gbif_id": "3173240",
   "powo_id": "1167021-2",
   "iucn_id": null,

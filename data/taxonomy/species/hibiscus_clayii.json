@@ -1,8 +1,7 @@
 {
   "name": "Hibiscus clayii",
   "authorship": "O.Deg. & I.Deg.",
-  "genus_name": "Hibiscus",
-  "family_name": "Malvaceae",
+  "parent_name": "Hibiscus",
   "gbif_id": null,
   "powo_id": "560097-1",
   "iucn_id": null,

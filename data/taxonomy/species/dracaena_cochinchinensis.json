@@ -1,8 +1,7 @@
 {
   "name": "Dracaena cochinchinensis",
   "authorship": "(Lour.) S.C.Chen",
-  "genus_name": "Dracaena",
-  "family_name": "Asparagaceae",
+  "parent_name": "Dracaena",
   "gbif_id": "5304529",
   "powo_id": "534147-1",
   "iucn_id": null,

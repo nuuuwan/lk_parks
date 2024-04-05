@@ -1,8 +1,7 @@
 {
   "name": "Ocotea porosa",
   "authorship": "(Nees & Mart.) Barroso",
-  "genus_name": "Ocotea",
-  "family_name": "Lauraceae",
+  "parent_name": "Ocotea",
   "gbif_id": "7427554",
   "powo_id": "467533-1",
   "iucn_id": "32978",

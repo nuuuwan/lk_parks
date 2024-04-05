@@ -1,8 +1,7 @@
 {
   "name": "Coccoloba acuminata",
   "authorship": "Kunth",
-  "genus_name": "Coccoloba",
-  "family_name": "Polygonaceae",
+  "parent_name": "Coccoloba",
   "gbif_id": "7291417",
   "powo_id": "693560-1",
   "iucn_id": "150112747",

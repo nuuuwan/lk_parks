@@ -1,8 +1,7 @@
 {
   "name": "Prunus yedoensis",
   "authorship": "Matsum.",
-  "genus_name": "Prunus",
-  "family_name": "Rosaceae",
+  "parent_name": "Prunus",
   "gbif_id": "3021335",
   "powo_id": "30119904-2",
   "iucn_id": null,

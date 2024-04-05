@@ -1,8 +1,7 @@
 {
   "name": "Clusia criuva",
   "authorship": "Cambess.",
-  "genus_name": "Clusia",
-  "family_name": "Clusiaceae",
+  "parent_name": "Clusia",
   "gbif_id": "7329873",
   "powo_id": "30074684-2",
   "iucn_id": "214229603",

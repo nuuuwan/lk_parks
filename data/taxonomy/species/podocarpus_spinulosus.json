@@ -1,8 +1,7 @@
 {
   "name": "Podocarpus spinulosus",
   "authorship": "(Sm.) R.Br. ex Mirb.",
-  "genus_name": "Podocarpus",
-  "family_name": "Podocarpaceae",
+  "parent_name": "Podocarpus",
   "gbif_id": "5286109",
   "powo_id": "263584-1",
   "iucn_id": "42531",

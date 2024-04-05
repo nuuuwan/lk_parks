@@ -1,8 +1,7 @@
 {
   "name": "Indigofera cylindracea",
   "authorship": "Graham ex Baker",
-  "genus_name": "Indigofera",
-  "family_name": "Fabaceae",
+  "parent_name": "Indigofera",
   "gbif_id": "2971533",
   "powo_id": "499204-1",
   "iucn_id": null,

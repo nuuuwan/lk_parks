@@ -1,8 +1,7 @@
 {
   "name": "Tilia dasystyla",
   "authorship": "Steven",
-  "genus_name": "Tilia",
-  "family_name": "Malvaceae",
+  "parent_name": "Tilia",
   "gbif_id": "8187982",
   "powo_id": "835288-1",
   "iucn_id": "79738009",

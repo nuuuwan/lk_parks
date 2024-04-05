@@ -1,8 +1,7 @@
 {
   "name": "Searsia pendulina",
   "authorship": "(Jacq.) Moffett",
-  "genus_name": "Searsia",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Searsia",
   "gbif_id": "5544263",
   "powo_id": "77088519-1",
   "iucn_id": "209829951",

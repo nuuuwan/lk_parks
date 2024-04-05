@@ -1,8 +1,7 @@
 {
   "name": "Stachytarpheta cayennensis",
   "authorship": "(Rich.) Vahl",
-  "genus_name": "Stachytarpheta",
-  "family_name": "Verbenaceae",
+  "parent_name": "Stachytarpheta",
   "gbif_id": "2925454",
   "powo_id": "1126344-2",
   "iucn_id": null,

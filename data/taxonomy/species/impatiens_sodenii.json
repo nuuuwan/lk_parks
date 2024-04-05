@@ -1,8 +1,7 @@
 {
   "name": "Impatiens sodenii",
   "authorship": "Engl. & Warb.",
-  "genus_name": "Impatiens",
-  "family_name": "Balsaminaceae",
+  "parent_name": "Impatiens",
   "gbif_id": "4193715",
   "powo_id": "374351-1",
   "iucn_id": null,

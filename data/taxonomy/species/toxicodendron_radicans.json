@@ -1,8 +1,7 @@
 {
   "name": "Toxicodendron radicans",
   "authorship": "(L.) Kuntze",
-  "genus_name": "Toxicodendron",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Toxicodendron",
   "gbif_id": "3190628",
   "powo_id": "255769-2",
   "iucn_id": "124270453",

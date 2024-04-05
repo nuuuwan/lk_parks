@@ -1,8 +1,7 @@
 {
   "name": "Alnus acuminata",
   "authorship": "Kunth",
-  "genus_name": "Alnus",
-  "family_name": "Betulaceae",
+  "parent_name": "Alnus",
   "gbif_id": "2876131",
   "powo_id": "294882-1",
   "iucn_id": "32025",

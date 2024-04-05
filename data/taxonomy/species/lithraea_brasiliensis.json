@@ -1,8 +1,7 @@
 {
   "name": "Lithraea brasiliensis",
   "authorship": "Marchand",
-  "genus_name": "Lithraea",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Lithraea",
   "gbif_id": "3660330",
   "powo_id": "69837-1",
   "iucn_id": null,

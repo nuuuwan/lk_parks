@@ -1,8 +1,7 @@
 {
   "name": "Picea abies",
   "authorship": "(L.) H.Karst.",
-  "genus_name": "Picea",
-  "family_name": "Pinaceae",
+  "parent_name": "Picea",
   "gbif_id": "5284884",
   "powo_id": "262609-1",
   "iucn_id": "42318",

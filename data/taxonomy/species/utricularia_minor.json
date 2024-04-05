@@ -1,8 +1,7 @@
 {
   "name": "Utricularia minor",
   "authorship": "L.",
-  "genus_name": "Utricularia",
-  "family_name": "Lentibulariaceae",
+  "parent_name": "Utricularia",
   "gbif_id": "3172414",
   "powo_id": "526922-1",
   "iucn_id": "164169",

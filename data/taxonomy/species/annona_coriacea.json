@@ -1,8 +1,7 @@
 {
   "name": "Annona coriacea",
   "authorship": "Mart.",
-  "genus_name": "Annona",
-  "family_name": "Annonaceae",
+  "parent_name": "Annona",
   "gbif_id": "5407300",
   "powo_id": "72183-1",
   "iucn_id": null,

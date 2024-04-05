@@ -1,8 +1,7 @@
 {
   "name": "Lithocarpus glaber",
   "authorship": "(Thunb.) Nakai",
-  "genus_name": "Lithocarpus",
-  "family_name": "Fagaceae",
+  "parent_name": "Lithocarpus",
   "gbif_id": "5332388",
   "powo_id": "358769-1",
   "iucn_id": "138595463",

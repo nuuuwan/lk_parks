@@ -1,8 +1,7 @@
 {
   "name": "Myrciaria delicatula",
   "authorship": "(DC.) O.Berg",
-  "genus_name": "Myrciaria",
-  "family_name": "Myrtaceae",
+  "parent_name": "Myrciaria",
   "gbif_id": "3186488",
   "powo_id": "599317-1",
   "iucn_id": "152941455",

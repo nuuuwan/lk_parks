@@ -1,8 +1,7 @@
 {
   "name": "Cyperus aggregatus",
   "authorship": "(Willd.) Endl.",
-  "genus_name": "Cyperus",
-  "family_name": "Cyperaceae",
+  "parent_name": "Cyperus",
   "gbif_id": "2713662",
   "powo_id": "303704-1",
   "iucn_id": null,

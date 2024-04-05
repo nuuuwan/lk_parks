@@ -1,8 +1,7 @@
 {
   "name": "Magnolia dawsoniana",
   "authorship": "Rehder & E.H.Wilson",
-  "genus_name": "Magnolia",
-  "family_name": "Magnoliaceae",
+  "parent_name": "Magnolia",
   "gbif_id": "3153760",
   "powo_id": "554673-1",
   "iucn_id": "191512",

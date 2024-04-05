@@ -1,8 +1,7 @@
 {
   "name": "Turraea floribunda",
   "authorship": "Hochst.",
-  "genus_name": "Turraea",
-  "family_name": "Meliaceae",
+  "parent_name": "Turraea",
   "gbif_id": "3849883",
   "powo_id": "579761-1",
   "iucn_id": "146446996",

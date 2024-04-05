@@ -1,8 +1,7 @@
 {
   "name": "Croton tiglium",
   "authorship": "L.",
-  "genus_name": "Croton",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Croton",
   "gbif_id": "3057656",
   "powo_id": "343631-1",
   "iucn_id": "147621493",

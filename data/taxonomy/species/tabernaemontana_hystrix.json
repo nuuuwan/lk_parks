@@ -1,8 +1,7 @@
 {
   "name": "Tabernaemontana hystrix",
   "authorship": "Steud.",
-  "genus_name": "Tabernaemontana",
-  "family_name": "Apocynaceae",
+  "parent_name": "Tabernaemontana",
   "gbif_id": "3616928",
   "powo_id": "82157-1",
   "iucn_id": "148766296",

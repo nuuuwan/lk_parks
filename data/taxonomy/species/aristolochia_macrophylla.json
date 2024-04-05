@@ -1,8 +1,7 @@
 {
   "name": "Aristolochia macrophylla",
   "authorship": "Lam.",
-  "genus_name": "Aristolochia",
-  "family_name": "Aristolochiaceae",
+  "parent_name": "Aristolochia",
   "gbif_id": "2873994",
   "powo_id": "93101-1",
   "iucn_id": null,

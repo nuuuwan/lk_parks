@@ -1,8 +1,7 @@
 {
   "name": "Epidendrum strobiliferum",
   "authorship": "Rchb.f.",
-  "genus_name": "Epidendrum",
-  "family_name": "Orchidaceae",
+  "parent_name": "Epidendrum",
   "gbif_id": "5321235",
   "powo_id": "92214-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Acridocarpus austrocaledonicus",
   "authorship": "Baill.",
-  "genus_name": "Acridocarpus",
-  "family_name": "Malpighiaceae",
+  "parent_name": "Acridocarpus",
   "gbif_id": "7621536",
   "powo_id": "555324-1",
   "iucn_id": null,

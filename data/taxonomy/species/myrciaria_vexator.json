@@ -1,8 +1,7 @@
 {
   "name": "Myrciaria vexator",
   "authorship": "McVaugh",
-  "genus_name": "Myrciaria",
-  "family_name": "Myrtaceae",
+  "parent_name": "Myrciaria",
   "gbif_id": "3186486",
   "powo_id": "166058-2",
   "iucn_id": "152000144",

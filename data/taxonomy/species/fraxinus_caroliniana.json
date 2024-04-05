@@ -1,8 +1,7 @@
 {
   "name": "Fraxinus caroliniana",
   "authorship": "Mill.",
-  "genus_name": "Fraxinus",
-  "family_name": "Oleaceae",
+  "parent_name": "Fraxinus",
   "gbif_id": "3172339",
   "powo_id": "608957-1",
   "iucn_id": "63004",

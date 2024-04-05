@@ -1,8 +1,7 @@
 {
   "name": "Solanum muricatum",
   "authorship": "Aiton",
-  "genus_name": "Solanum",
-  "family_name": "Solanaceae",
+  "parent_name": "Solanum",
   "gbif_id": "2931290",
   "powo_id": "820187-1",
   "iucn_id": null,

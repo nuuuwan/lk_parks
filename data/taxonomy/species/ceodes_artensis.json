@@ -1,8 +1,7 @@
 {
   "name": "Ceodes artensis",
   "authorship": "(Montrouz.) E.F.S.Rossetto & Caraballo",
-  "genus_name": "Ceodes",
-  "family_name": "Nyctaginaceae",
+  "parent_name": "Ceodes",
   "gbif_id": "10898754",
   "powo_id": "77210104-1",
   "iucn_id": "177822",

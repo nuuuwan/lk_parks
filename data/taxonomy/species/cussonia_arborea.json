@@ -1,8 +1,7 @@
 {
   "name": "Cussonia arborea",
   "authorship": "Hochst. ex A.Rich.",
-  "genus_name": "Cussonia",
-  "family_name": "Araliaceae",
+  "parent_name": "Cussonia",
   "gbif_id": "3035225",
   "powo_id": "90138-1",
   "iucn_id": "146215976",

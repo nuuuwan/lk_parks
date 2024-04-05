@@ -1,8 +1,7 @@
 {
   "name": "Ludwigia alternifolia",
   "authorship": "L.",
-  "genus_name": "Ludwigia",
-  "family_name": "Onagraceae",
+  "parent_name": "Ludwigia",
   "gbif_id": "5420992",
   "powo_id": "613307-1",
   "iucn_id": "64317439",

@@ -1,8 +1,7 @@
 {
   "name": "Casearia praecox",
   "authorship": "Griseb.",
-  "genus_name": "Casearia",
-  "family_name": "Salicaceae",
+  "parent_name": "Casearia",
   "gbif_id": "5604134",
   "powo_id": "48069-2",
   "iucn_id": "61959669",

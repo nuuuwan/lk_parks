@@ -1,8 +1,7 @@
 {
   "name": "Myoporum tenuifolium",
   "authorship": "G.Forst.",
-  "genus_name": "Myoporum",
-  "family_name": "Scrophulariaceae",
+  "parent_name": "Myoporum",
   "gbif_id": "7335194",
   "powo_id": "585324-1",
   "iucn_id": null,

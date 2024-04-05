@@ -1,8 +1,7 @@
 {
   "name": "Cyperus michelianus",
   "authorship": "(L.) Delile",
-  "genus_name": "Cyperus",
-  "family_name": "Cyperaceae",
+  "parent_name": "Cyperus",
   "gbif_id": "2714056",
   "powo_id": "1054019-2",
   "iucn_id": "164441",

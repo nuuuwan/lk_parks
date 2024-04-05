@@ -1,8 +1,7 @@
 {
   "name": "Paullinia latifolia",
   "authorship": "Benth. ex Radlk.",
-  "genus_name": "Paullinia",
-  "family_name": "Sapindaceae",
+  "parent_name": "Paullinia",
   "gbif_id": "3784052",
   "powo_id": "784184-1",
   "iucn_id": null,

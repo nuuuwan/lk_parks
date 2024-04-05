@@ -1,8 +1,7 @@
 {
   "name": "Cunonia balansae",
   "authorship": "Brongn. & Gris",
-  "genus_name": "Cunonia",
-  "family_name": "Cunoniaceae",
+  "parent_name": "Cunonia",
   "gbif_id": "5535293",
   "powo_id": "790732-1",
   "iucn_id": "116166340",

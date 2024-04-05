@@ -1,8 +1,7 @@
 {
   "name": "Castanopsis fargesii",
   "authorship": "Franch.",
-  "genus_name": "Castanopsis",
-  "family_name": "Fagaceae",
+  "parent_name": "Castanopsis",
   "gbif_id": "5332927",
   "powo_id": "295392-1",
   "iucn_id": "138592585",

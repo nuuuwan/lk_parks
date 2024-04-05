@@ -1,8 +1,7 @@
 {
   "name": "Picea morrisonicola",
   "authorship": "Hayata",
-  "genus_name": "Picea",
-  "family_name": "Pinaceae",
+  "parent_name": "Picea",
   "gbif_id": "5284840",
   "powo_id": "676975-1",
   "iucn_id": "34383",

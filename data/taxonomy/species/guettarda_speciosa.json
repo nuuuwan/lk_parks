@@ -1,8 +1,7 @@
 {
   "name": "Guettarda speciosa",
   "authorship": "L.",
-  "genus_name": "Guettarda",
-  "family_name": "Rubiaceae",
+  "parent_name": "Guettarda",
   "gbif_id": "2894828",
   "powo_id": "752069-1",
   "iucn_id": "160300944",

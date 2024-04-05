@@ -1,8 +1,7 @@
 {
   "name": "Clerodendrum indicum",
   "authorship": "(L.) Kuntze",
-  "genus_name": "Clerodendrum",
-  "family_name": "Lamiaceae",
+  "parent_name": "Clerodendrum",
   "gbif_id": "2925349",
   "powo_id": "862153-1",
   "iucn_id": null,

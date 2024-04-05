@@ -1,8 +1,7 @@
 {
   "name": "Nyctanthes arbor-tristis",
   "authorship": "L.",
-  "genus_name": "Nyctanthes",
-  "family_name": "Oleaceae",
+  "parent_name": "Nyctanthes",
   "gbif_id": "3683008",
   "powo_id": "610599-1",
   "iucn_id": "150224828",

@@ -1,8 +1,7 @@
 {
   "name": "Casasia clusiifolia",
   "authorship": "(Jacq.) Urb.",
-  "genus_name": "Casasia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Casasia",
   "gbif_id": "2904641",
   "powo_id": "47910-2",
   "iucn_id": "84939369",

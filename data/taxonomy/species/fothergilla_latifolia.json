@@ -1,8 +1,7 @@
 {
   "name": "Fothergilla latifolia",
   "authorship": "J.F.Mill.",
-  "genus_name": "Fothergilla",
-  "family_name": "Hamamelidaceae",
+  "parent_name": "Fothergilla",
   "gbif_id": "10865929",
   "powo_id": "60464405-2",
   "iucn_id": null,

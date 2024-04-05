@@ -1,8 +1,7 @@
 {
   "name": "Mayodendron igneum",
   "authorship": "(Kurz) Kurz",
-  "genus_name": "Mayodendron",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Mayodendron",
   "gbif_id": "4093794",
   "powo_id": "110042-1",
   "iucn_id": null,

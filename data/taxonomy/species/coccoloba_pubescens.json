@@ -1,8 +1,7 @@
 {
   "name": "Coccoloba pubescens",
   "authorship": "L.",
-  "genus_name": "Coccoloba",
-  "family_name": "Polygonaceae",
+  "parent_name": "Coccoloba",
   "gbif_id": "2888841",
   "powo_id": "62241-2",
   "iucn_id": null,

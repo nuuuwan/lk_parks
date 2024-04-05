@@ -1,8 +1,7 @@
 {
   "name": "Melochia corchorifolia",
   "authorship": "L.",
-  "genus_name": "Melochia",
-  "family_name": "Malvaceae",
+  "parent_name": "Melochia",
   "gbif_id": "3152125",
   "powo_id": "824444-1",
   "iucn_id": "168972",

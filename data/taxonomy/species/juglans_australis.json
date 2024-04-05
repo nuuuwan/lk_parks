@@ -1,8 +1,7 @@
 {
   "name": "Juglans australis",
   "authorship": "Griseb.",
-  "genus_name": "Juglans",
-  "family_name": "Juglandaceae",
+  "parent_name": "Juglans",
   "gbif_id": "4205676",
   "powo_id": "442323-1",
   "iucn_id": "34359",

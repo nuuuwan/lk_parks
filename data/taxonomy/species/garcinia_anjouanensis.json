@@ -1,8 +1,7 @@
 {
   "name": "Garcinia anjouanensis",
   "authorship": "(H.Perrier) P.W.Sweeney & Z.S.Rogers",
-  "genus_name": "Garcinia",
-  "family_name": "Clusiaceae",
+  "parent_name": "Garcinia",
   "gbif_id": "7860114",
   "powo_id": "77099043-1",
   "iucn_id": null,

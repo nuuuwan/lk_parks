@@ -1,8 +1,7 @@
 {
   "name": "Pycnanthus angolensis",
   "authorship": "(Welw.) Warb.",
-  "genus_name": "Pycnanthus",
-  "family_name": "Myristicaceae",
+  "parent_name": "Pycnanthus",
   "gbif_id": "7333726",
   "powo_id": "586520-1",
   "iucn_id": "61890778",

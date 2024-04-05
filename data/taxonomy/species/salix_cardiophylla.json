@@ -1,8 +1,7 @@
 {
   "name": "Salix cardiophylla",
   "authorship": "Trautv. & C.A.Mey.",
-  "genus_name": "Salix",
-  "family_name": "Salicaceae",
+  "parent_name": "Salix",
   "gbif_id": "5583150",
   "powo_id": "777265-1",
   "iucn_id": "159383081",

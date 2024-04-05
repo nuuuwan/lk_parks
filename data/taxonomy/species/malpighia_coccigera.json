@@ -1,8 +1,7 @@
 {
   "name": "Malpighia coccigera",
   "authorship": "L.",
-  "genus_name": "Malpighia",
-  "family_name": "Malpighiaceae",
+  "parent_name": "Malpighia",
   "gbif_id": "5421430",
   "powo_id": "323776-2",
   "iucn_id": null,

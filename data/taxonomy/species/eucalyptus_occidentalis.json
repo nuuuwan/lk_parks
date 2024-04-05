@@ -1,8 +1,7 @@
 {
   "name": "Eucalyptus occidentalis",
   "authorship": "Endl.",
-  "genus_name": "Eucalyptus",
-  "family_name": "Myrtaceae",
+  "parent_name": "Eucalyptus",
   "gbif_id": "3177146",
   "powo_id": "593180-1",
   "iucn_id": "133375958",

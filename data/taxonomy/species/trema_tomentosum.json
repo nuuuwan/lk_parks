@@ -1,8 +1,7 @@
 {
   "name": "Trema tomentosum",
   "authorship": "(Roxb.) H.Hara",
-  "genus_name": "Trema",
-  "family_name": "Cannabaceae",
+  "parent_name": "Trema",
   "gbif_id": "7303576",
   "powo_id": "837105-1",
   "iucn_id": "147480856",

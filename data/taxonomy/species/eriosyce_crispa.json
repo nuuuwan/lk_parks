@@ -1,8 +1,7 @@
 {
   "name": "Eriosyce crispa",
   "authorship": "(F.Ritter) Katt.",
-  "genus_name": "Eriosyce",
-  "family_name": "Cactaceae",
+  "parent_name": "Eriosyce",
   "gbif_id": "7280292",
   "powo_id": "976310-1",
   "iucn_id": "151748",

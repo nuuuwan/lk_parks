@@ -1,8 +1,7 @@
 {
   "name": "Dalbergia sissoo",
   "authorship": "DC.",
-  "genus_name": "Dalbergia",
-  "family_name": "Fabaceae",
+  "parent_name": "Dalbergia",
   "gbif_id": "2968532",
   "powo_id": null,
   "iucn_id": "62022617",

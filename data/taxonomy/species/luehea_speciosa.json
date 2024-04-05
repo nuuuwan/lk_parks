@@ -1,8 +1,7 @@
 {
   "name": "Luehea speciosa",
   "authorship": "Willd.",
-  "genus_name": "Luehea",
-  "family_name": "Malvaceae",
+  "parent_name": "Luehea",
   "gbif_id": "5406662",
   "powo_id": "834759-1",
   "iucn_id": "144302578",

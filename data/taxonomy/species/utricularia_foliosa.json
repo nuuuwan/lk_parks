@@ -1,8 +1,7 @@
 {
   "name": "Utricularia foliosa",
   "authorship": "L.",
-  "genus_name": "Utricularia",
-  "family_name": "Lentibulariaceae",
+  "parent_name": "Utricularia",
   "gbif_id": "3172439",
   "powo_id": "526759-1",
   "iucn_id": "99442744",

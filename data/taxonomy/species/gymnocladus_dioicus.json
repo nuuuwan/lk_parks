@@ -1,8 +1,7 @@
 {
   "name": "Gymnocladus dioicus",
   "authorship": "(L.) K.Koch",
-  "genus_name": "Gymnocladus",
-  "family_name": "Fabaceae",
+  "parent_name": "Gymnocladus",
   "gbif_id": "2944215",
   "powo_id": "1195073-2",
   "iucn_id": "62026160",

@@ -1,8 +1,7 @@
 {
   "name": "Erythroxylum squamatum",
   "authorship": "Sw.",
-  "genus_name": "Erythroxylum",
-  "family_name": "Erythroxylaceae",
+  "parent_name": "Erythroxylum",
   "gbif_id": "7284874",
   "powo_id": "276884-2",
   "iucn_id": "176401969",

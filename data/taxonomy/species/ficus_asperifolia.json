@@ -1,8 +1,7 @@
 {
   "name": "Ficus asperifolia",
   "authorship": "Miq.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5571887",
   "powo_id": "852431-1",
   "iucn_id": "136663116",

@@ -1,8 +1,7 @@
 {
   "name": "Aucoumea klaineana",
   "authorship": "Pierre",
-  "genus_name": "Aucoumea",
-  "family_name": "Burseraceae",
+  "parent_name": "Aucoumea",
   "gbif_id": "3992751",
   "powo_id": "126950-1",
   "iucn_id": "33213",

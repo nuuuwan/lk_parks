@@ -1,8 +1,7 @@
 {
   "name": "Paraserianthes lophantha",
   "authorship": "(Vent.) I.C.Nielsen",
-  "genus_name": "Paraserianthes",
-  "family_name": "Fabaceae",
+  "parent_name": "Paraserianthes",
   "gbif_id": "2943719",
   "powo_id": "912944-1",
   "iucn_id": "186000090",

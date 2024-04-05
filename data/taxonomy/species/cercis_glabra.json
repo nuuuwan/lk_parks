@@ -1,8 +1,7 @@
 {
   "name": "Cercis glabra",
   "authorship": "Pamp.",
-  "genus_name": "Cercis",
-  "family_name": "Fabaceae",
+  "parent_name": "Cercis",
   "gbif_id": "5353598",
   "powo_id": "485677-1",
   "iucn_id": null,

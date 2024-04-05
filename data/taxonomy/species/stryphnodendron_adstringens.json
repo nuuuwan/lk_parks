@@ -1,8 +1,7 @@
 {
   "name": "Stryphnodendron adstringens",
   "authorship": "(Mart.) Coville",
-  "genus_name": "Stryphnodendron",
-  "family_name": "Fabaceae",
+  "parent_name": "Stryphnodendron",
   "gbif_id": "2951737",
   "powo_id": "519615-1",
   "iucn_id": null,

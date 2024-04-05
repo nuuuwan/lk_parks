@@ -1,8 +1,7 @@
 {
   "name": "Erysimum scoparium",
   "authorship": "(Brouss. ex Willd.) Wettst.",
-  "genus_name": "Erysimum",
-  "family_name": "Brassicaceae",
+  "parent_name": "Erysimum",
   "gbif_id": "3048534",
   "powo_id": "284160-1",
   "iucn_id": null,

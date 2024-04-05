@@ -1,8 +1,7 @@
 {
   "name": "Osmanthus heterophyllus",
   "authorship": "(G.Don) P.S.Green",
-  "genus_name": "Osmanthus",
-  "family_name": "Oleaceae",
+  "parent_name": "Osmanthus",
   "gbif_id": "3172276",
   "powo_id": "610885-1",
   "iucn_id": null,

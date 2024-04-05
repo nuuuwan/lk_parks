@@ -1,8 +1,7 @@
 {
   "name": "Goeppertia louisae",
   "authorship": "(Gagnep.) Borchs. & S.Su\u00e1rez",
-  "genus_name": "Goeppertia",
-  "family_name": "Marantaceae",
+  "parent_name": "Goeppertia",
   "gbif_id": "9431418",
   "powo_id": "77128946-1",
   "iucn_id": null,

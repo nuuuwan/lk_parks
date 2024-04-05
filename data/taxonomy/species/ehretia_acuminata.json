@@ -1,8 +1,7 @@
 {
   "name": "Ehretia acuminata",
   "authorship": "R.Br.",
-  "genus_name": "Ehretia",
-  "family_name": "Boraginaceae",
+  "parent_name": "Ehretia",
   "gbif_id": "7132425",
   "powo_id": "115963-1",
   "iucn_id": "144117916",

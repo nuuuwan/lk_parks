@@ -1,8 +1,7 @@
 {
   "name": "Cordiera sessilis",
   "authorship": "(Vell.) Kuntze",
-  "genus_name": "Cordiera",
-  "family_name": "Rubiaceae",
+  "parent_name": "Cordiera",
   "gbif_id": "5335669",
   "powo_id": "65657-2",
   "iucn_id": null,

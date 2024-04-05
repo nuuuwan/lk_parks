@@ -1,8 +1,7 @@
 {
   "name": "Clathrotropis macrocarpa",
   "authorship": "Ducke",
-  "genus_name": "Clathrotropis",
-  "family_name": "Fabaceae",
+  "parent_name": "Clathrotropis",
   "gbif_id": "2939632",
   "powo_id": "59779-2",
   "iucn_id": "62021691",

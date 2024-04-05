@@ -1,8 +1,7 @@
 {
   "name": "Syringa josikaea",
   "authorship": "J.Jacq. ex Rchb.",
-  "genus_name": "Syringa",
-  "family_name": "Oleaceae",
+  "parent_name": "Syringa",
   "gbif_id": "7636833",
   "powo_id": "60466522-2",
   "iucn_id": "162267",

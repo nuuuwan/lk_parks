@@ -1,8 +1,7 @@
 {
   "name": "Fraxinus nigra",
   "authorship": "Marshall",
-  "genus_name": "Fraxinus",
-  "family_name": "Oleaceae",
+  "parent_name": "Fraxinus",
   "gbif_id": "3172369",
   "powo_id": "609112-1",
   "iucn_id": "61918683",

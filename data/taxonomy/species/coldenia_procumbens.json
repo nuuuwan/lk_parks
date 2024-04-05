@@ -1,8 +1,7 @@
 {
   "name": "Coldenia procumbens",
   "authorship": "L.",
-  "genus_name": "Coldenia",
-  "family_name": "Boraginaceae",
+  "parent_name": "Coldenia",
   "gbif_id": "4059906",
   "powo_id": "113918-1",
   "iucn_id": "164183",

@@ -1,8 +1,7 @@
 {
   "name": "Eugenia florida",
   "authorship": "DC.",
-  "genus_name": "Eugenia",
-  "family_name": "Myrtaceae",
+  "parent_name": "Eugenia",
   "gbif_id": "5417919",
   "powo_id": "594452-1",
   "iucn_id": "129105024",

@@ -1,8 +1,7 @@
 {
   "name": "Ptychosperma salomonense",
   "authorship": "Burret",
-  "genus_name": "Ptychosperma",
-  "family_name": "Arecaceae",
+  "parent_name": "Ptychosperma",
   "gbif_id": "2733827",
   "powo_id": "669446-1",
   "iucn_id": "214157929",

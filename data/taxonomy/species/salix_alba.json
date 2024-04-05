@@ -1,8 +1,7 @@
 {
   "name": "Salix alba",
   "authorship": "L.",
-  "genus_name": "Salix",
-  "family_name": "Salicaceae",
+  "parent_name": "Salix",
   "gbif_id": "5372513",
   "powo_id": "776974-1",
   "iucn_id": "203465",

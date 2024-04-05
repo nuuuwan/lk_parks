@@ -1,8 +1,7 @@
 {
   "name": "Ficus polyphlebia",
   "authorship": "Baker",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5572346",
   "powo_id": "853450-1",
   "iucn_id": "128419245",

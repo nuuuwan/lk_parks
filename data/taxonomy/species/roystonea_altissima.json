@@ -1,8 +1,7 @@
 {
   "name": "Roystonea altissima",
   "authorship": "(Mill.) H.E.Moore",
-  "genus_name": "Roystonea",
-  "family_name": "Arecaceae",
+  "parent_name": "Roystonea",
   "gbif_id": "2733735",
   "powo_id": "222795-2",
   "iucn_id": null,

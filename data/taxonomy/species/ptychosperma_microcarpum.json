@@ -1,8 +1,7 @@
 {
   "name": "Ptychosperma microcarpum",
   "authorship": "(Burret) Burret",
-  "genus_name": "Ptychosperma",
-  "family_name": "Arecaceae",
+  "parent_name": "Ptychosperma",
   "gbif_id": "2733856",
   "powo_id": "669414-1",
   "iucn_id": "44393508",

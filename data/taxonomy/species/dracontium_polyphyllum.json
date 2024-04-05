@@ -1,8 +1,7 @@
 {
   "name": "Dracontium polyphyllum",
   "authorship": "L.",
-  "genus_name": "Dracontium",
-  "family_name": "Araceae",
+  "parent_name": "Dracontium",
   "gbif_id": "5330699",
   "powo_id": "303027-2",
   "iucn_id": null,

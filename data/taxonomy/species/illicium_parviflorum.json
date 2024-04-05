@@ -1,8 +1,7 @@
 {
   "name": "Illicium parviflorum",
   "authorship": "Michx. ex Vent.",
-  "genus_name": "Illicium",
-  "family_name": "Schisandraceae",
+  "parent_name": "Illicium",
   "gbif_id": "2889757",
   "powo_id": "554530-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Calophyllum calaba",
   "authorship": "L.",
-  "genus_name": "Calophyllum",
-  "family_name": "Calophyllaceae",
+  "parent_name": "Calophyllum",
   "gbif_id": "5421070",
   "powo_id": "427119-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Aegiceras corniculatum",
   "authorship": "(L.) Blanco",
-  "genus_name": "Aegiceras",
-  "family_name": "Primulaceae",
+  "parent_name": "Aegiceras",
   "gbif_id": "3721362",
   "powo_id": "586618-1",
   "iucn_id": "178797",

@@ -1,8 +1,7 @@
 {
   "name": "Lavandula maroccana",
   "authorship": "Murb.",
-  "genus_name": "Lavandula",
-  "family_name": "Lamiaceae",
+  "parent_name": "Lavandula",
   "gbif_id": "3891247",
   "powo_id": "449058-1",
   "iucn_id": "139600541",

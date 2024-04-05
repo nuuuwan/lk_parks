@@ -1,8 +1,7 @@
 {
   "name": "Chlorophytum tuberosum",
   "authorship": "(Roxb.) Baker",
-  "genus_name": "Chlorophytum",
-  "family_name": "Asparagaceae",
+  "parent_name": "Chlorophytum",
   "gbif_id": "2774912",
   "powo_id": "533112-1",
   "iucn_id": "44393637",

@@ -1,8 +1,7 @@
 {
   "name": "Ficus kerkhovenii",
   "authorship": "Koord. & Valeton",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5569655",
   "powo_id": "583686-1",
   "iucn_id": null,

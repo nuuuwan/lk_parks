@@ -1,8 +1,7 @@
 {
   "name": "Wisteria floribunda",
   "authorship": "(Willd.) DC.",
-  "genus_name": "Wisteria",
-  "family_name": "Fabaceae",
+  "parent_name": "Wisteria",
   "gbif_id": "2977323",
   "powo_id": "525791-1",
   "iucn_id": null,

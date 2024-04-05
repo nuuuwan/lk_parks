@@ -1,8 +1,7 @@
 {
   "name": "Chambeyronia piersoniorum",
   "authorship": "(Pintaud & Hodel) Hodel & C.F.Barrett",
-  "genus_name": "Chambeyronia",
-  "family_name": "Arecaceae",
+  "parent_name": "Chambeyronia",
   "gbif_id": "12076525",
   "powo_id": "77220316-1",
   "iucn_id": null,

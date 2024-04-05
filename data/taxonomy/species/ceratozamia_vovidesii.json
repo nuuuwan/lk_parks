@@ -1,8 +1,7 @@
 {
   "name": "Ceratozamia vovidesii",
   "authorship": "P\u00e9rez-Farr. & Iglesias",
-  "genus_name": "Ceratozamia",
-  "family_name": "Zamiaceae",
+  "parent_name": "Ceratozamia",
   "gbif_id": "4000216",
   "powo_id": "77080309-1",
   "iucn_id": "178877",

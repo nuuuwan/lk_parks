@@ -1,8 +1,7 @@
 {
   "name": "Crataegus phaenopyrum",
   "authorship": "(L.f.) Medik.",
-  "genus_name": "Crataegus",
-  "family_name": "Rosaceae",
+  "parent_name": "Crataegus",
   "gbif_id": "8555468",
   "powo_id": "30065973-2",
   "iucn_id": "152905756",

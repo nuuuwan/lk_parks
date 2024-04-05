@@ -1,8 +1,7 @@
 {
   "name": "Crataegus germanica",
   "authorship": "(L.) Kuntze",
-  "genus_name": "Crataegus",
-  "family_name": "Rosaceae",
+  "parent_name": "Crataegus",
   "gbif_id": "3015106",
   "powo_id": "723452-1",
   "iucn_id": null,

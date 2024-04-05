@@ -1,8 +1,7 @@
 {
   "name": "Ceiba insignis",
   "authorship": "(Kunth) P.E.Gibbs & Semir",
-  "genus_name": "Ceiba",
-  "family_name": "Malvaceae",
+  "parent_name": "Ceiba",
   "gbif_id": "5663215",
   "powo_id": "945332-1",
   "iucn_id": null,

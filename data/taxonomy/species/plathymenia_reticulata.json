@@ -1,8 +1,7 @@
 {
   "name": "Plathymenia reticulata",
   "authorship": "Benth.",
-  "genus_name": "Plathymenia",
-  "family_name": "Fabaceae",
+  "parent_name": "Plathymenia",
   "gbif_id": "5355647",
   "powo_id": "328385-2",
   "iucn_id": "62027353",

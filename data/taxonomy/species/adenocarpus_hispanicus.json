@@ -1,8 +1,7 @@
 {
   "name": "Adenocarpus hispanicus",
   "authorship": "(Lam.) DC.",
-  "genus_name": "Adenocarpus",
-  "family_name": "Fabaceae",
+  "parent_name": "Adenocarpus",
   "gbif_id": "2951633",
   "powo_id": "472201-1",
   "iucn_id": null,

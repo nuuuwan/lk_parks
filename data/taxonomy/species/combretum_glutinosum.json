@@ -1,8 +1,7 @@
 {
   "name": "Combretum glutinosum",
   "authorship": "Perr. ex DC.",
-  "genus_name": "Combretum",
-  "family_name": "Combretaceae",
+  "parent_name": "Combretum",
   "gbif_id": "3698250",
   "powo_id": "170119-1",
   "iucn_id": "144270735",

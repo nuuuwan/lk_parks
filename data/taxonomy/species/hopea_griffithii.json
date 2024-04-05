@@ -1,8 +1,7 @@
 {
   "name": "Hopea griffithii",
   "authorship": "Kurz",
-  "genus_name": "Hopea",
-  "family_name": "Dipterocarpaceae",
+  "parent_name": "Hopea",
   "gbif_id": "5669074",
   "powo_id": "320905-1",
   "iucn_id": "33019",

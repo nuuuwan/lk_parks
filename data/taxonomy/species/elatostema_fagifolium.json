@@ -1,8 +1,7 @@
 {
   "name": "Elatostema fagifolium",
   "authorship": "(Poir.) Gaudich.",
-  "genus_name": "Elatostema",
-  "family_name": "Urticaceae",
+  "parent_name": "Elatostema",
   "gbif_id": "4100244",
   "powo_id": "851857-1",
   "iucn_id": null,

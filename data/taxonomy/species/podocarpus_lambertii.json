@@ -1,8 +1,7 @@
 {
   "name": "Podocarpus lambertii",
   "authorship": "Klotzsch ex Endl.",
-  "genus_name": "Podocarpus",
-  "family_name": "Podocarpaceae",
+  "parent_name": "Podocarpus",
   "gbif_id": "5285964",
   "powo_id": "204586-2",
   "iucn_id": "34086",

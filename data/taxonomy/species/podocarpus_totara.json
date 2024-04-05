@@ -1,8 +1,7 @@
 {
   "name": "Podocarpus totara",
   "authorship": "G.Benn. ex D.Don",
-  "genus_name": "Podocarpus",
-  "family_name": "Podocarpaceae",
+  "parent_name": "Podocarpus",
   "gbif_id": "5286079",
   "powo_id": "263597-1",
   "iucn_id": "42537",

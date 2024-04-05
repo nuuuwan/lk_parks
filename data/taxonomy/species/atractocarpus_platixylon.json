@@ -1,8 +1,7 @@
 {
   "name": "Atractocarpus platixylon",
   "authorship": "(Vieill. ex Pancher & Sebert) Guillaumin",
-  "genus_name": "Atractocarpus",
-  "family_name": "Rubiaceae",
+  "parent_name": "Atractocarpus",
   "gbif_id": "2898539",
   "powo_id": "744249-1",
   "iucn_id": null,

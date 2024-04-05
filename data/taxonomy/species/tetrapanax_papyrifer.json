@@ -1,8 +1,7 @@
 {
   "name": "Tetrapanax papyrifer",
   "authorship": "(Hook.) K.Koch",
-  "genus_name": "Tetrapanax",
-  "family_name": "Araliaceae",
+  "parent_name": "Tetrapanax",
   "gbif_id": "3035275",
   "powo_id": "86417-3",
   "iucn_id": "147626842",

@@ -1,8 +1,7 @@
 {
   "name": "Colvillea racemosa",
   "authorship": "Bojer ex Hook.",
-  "genus_name": "Colvillea",
-  "family_name": "Fabaceae",
+  "parent_name": "Colvillea",
   "gbif_id": "10704829",
   "powo_id": "486928-1",
   "iucn_id": "34885",

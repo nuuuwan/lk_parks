@@ -1,8 +1,7 @@
 {
   "name": "Achillea ligustica",
   "authorship": "All.",
-  "genus_name": "Achillea",
-  "family_name": "Asteraceae",
+  "parent_name": "Achillea",
   "gbif_id": "3120032",
   "powo_id": "174075-1",
   "iucn_id": null,

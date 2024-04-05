@@ -1,8 +1,7 @@
 {
   "name": "Globba marantina",
   "authorship": "L.",
-  "genus_name": "Globba",
-  "family_name": "Zingiberaceae",
+  "parent_name": "Globba",
   "gbif_id": "2757840",
   "powo_id": "796751-1",
   "iucn_id": "117234917",

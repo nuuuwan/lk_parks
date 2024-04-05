@@ -1,8 +1,7 @@
 {
   "name": "Taxus baccata",
   "authorship": "L.",
-  "genus_name": "Taxus",
-  "family_name": "Taxaceae",
+  "parent_name": "Taxus",
   "gbif_id": "5284517",
   "powo_id": "306036-2",
   "iucn_id": "42546",

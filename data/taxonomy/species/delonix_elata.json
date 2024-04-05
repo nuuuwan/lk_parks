@@ -1,8 +1,7 @@
 {
   "name": "Delonix elata",
   "authorship": "(L.) Gamble",
-  "genus_name": "Delonix",
-  "family_name": "Fabaceae",
+  "parent_name": "Delonix",
   "gbif_id": "2956174",
   "powo_id": "491229-1",
   "iucn_id": "201497",

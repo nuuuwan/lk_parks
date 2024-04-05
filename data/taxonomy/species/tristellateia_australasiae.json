@@ -1,8 +1,7 @@
 {
   "name": "Tristellateia australasiae",
   "authorship": "A.Rich.",
-  "genus_name": "Tristellateia",
-  "family_name": "Malpighiaceae",
+  "parent_name": "Tristellateia",
   "gbif_id": "3983468",
   "powo_id": "557928-1",
   "iucn_id": null,

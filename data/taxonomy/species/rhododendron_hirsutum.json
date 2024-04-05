@@ -1,8 +1,7 @@
 {
   "name": "Rhododendron hirsutum",
   "authorship": "L.",
-  "genus_name": "Rhododendron",
-  "family_name": "Ericaceae",
+  "parent_name": "Rhododendron",
   "gbif_id": "4174017",
   "powo_id": "326360-2",
   "iucn_id": "203008",

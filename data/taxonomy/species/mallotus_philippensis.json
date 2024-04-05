@@ -1,8 +1,7 @@
 {
   "name": "Mallotus philippensis",
   "authorship": "(Lam.) M\u00fcll.Arg.",
-  "genus_name": "Mallotus",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Mallotus",
   "gbif_id": "5378605",
   "powo_id": "351650-1",
   "iucn_id": "145363408",

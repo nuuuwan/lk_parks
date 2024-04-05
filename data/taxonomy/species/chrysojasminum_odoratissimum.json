@@ -1,8 +1,7 @@
 {
   "name": "Chrysojasminum odoratissimum",
   "authorship": "(L.) Banfi",
-  "genus_name": "Chrysojasminum",
-  "family_name": "Oleaceae",
+  "parent_name": "Chrysojasminum",
   "gbif_id": "9275304",
   "powo_id": "77144233-1",
   "iucn_id": null,

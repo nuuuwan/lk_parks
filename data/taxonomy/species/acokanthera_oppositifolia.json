@@ -1,8 +1,7 @@
 {
   "name": "Acokanthera oppositifolia",
   "authorship": "(Lam.) Codd",
-  "genus_name": "Acokanthera",
-  "family_name": "Apocynaceae",
+  "parent_name": "Acokanthera",
   "gbif_id": "3619546",
   "powo_id": "76349-1",
   "iucn_id": "146204148",

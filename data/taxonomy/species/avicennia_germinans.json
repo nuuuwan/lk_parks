@@ -1,8 +1,7 @@
 {
   "name": "Avicennia germinans",
   "authorship": "(L.) L.",
-  "genus_name": "Avicennia",
-  "family_name": "Acanthaceae",
+  "parent_name": "Avicennia",
   "gbif_id": "2925400",
   "powo_id": "861125-1",
   "iucn_id": "178811",

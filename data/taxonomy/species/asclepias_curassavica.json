@@ -1,8 +1,7 @@
 {
   "name": "Asclepias curassavica",
   "authorship": "L.",
-  "genus_name": "Asclepias",
-  "family_name": "Apocynaceae",
+  "parent_name": "Asclepias",
   "gbif_id": "3170241",
   "powo_id": "94213-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Tetranema roseum",
   "authorship": "(M.Martens & Galeotti) Standl. & Steyerm.",
-  "genus_name": "Tetranema",
-  "family_name": "Plantaginaceae",
+  "parent_name": "Tetranema",
   "gbif_id": "3726778",
   "powo_id": "251748-2",
   "iucn_id": null,

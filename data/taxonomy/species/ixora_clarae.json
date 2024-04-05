@@ -1,8 +1,7 @@
 {
   "name": "Ixora clarae",
   "authorship": "Mouly & Pisivin",
-  "genus_name": "Ixora",
-  "family_name": "Rubiaceae",
+  "parent_name": "Ixora",
   "gbif_id": "3847027",
   "powo_id": "77093836-1",
   "iucn_id": null,

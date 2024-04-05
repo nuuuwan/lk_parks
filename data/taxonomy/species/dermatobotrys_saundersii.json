@@ -1,8 +1,7 @@
 {
   "name": "Dermatobotrys saundersii",
   "authorship": "Bolus",
-  "genus_name": "Dermatobotrys",
-  "family_name": "Scrophulariaceae",
+  "parent_name": "Dermatobotrys",
   "gbif_id": "3726082",
   "powo_id": "801879-1",
   "iucn_id": null,

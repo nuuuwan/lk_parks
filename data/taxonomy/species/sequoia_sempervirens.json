@@ -1,8 +1,7 @@
 {
   "name": "Sequoia sempervirens",
   "authorship": "(D.Don) Endl.",
-  "genus_name": "Sequoia",
-  "family_name": "Cupressaceae",
+  "parent_name": "Sequoia",
   "gbif_id": "2683909",
   "powo_id": "263741-1",
   "iucn_id": "34051",

@@ -1,8 +1,7 @@
 {
   "name": "Tillandsia circinnatioides",
   "authorship": "Matuda",
-  "genus_name": "Tillandsia",
-  "family_name": "Bromeliaceae",
+  "parent_name": "Tillandsia",
   "gbif_id": "2695580",
   "powo_id": "253707-2",
   "iucn_id": null,

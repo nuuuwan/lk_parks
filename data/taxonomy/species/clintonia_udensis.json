@@ -1,8 +1,7 @@
 {
   "name": "Clintonia udensis",
   "authorship": "Trautv. & C.A.Mey.",
-  "genus_name": "Clintonia",
-  "family_name": "Liliaceae",
+  "parent_name": "Clintonia",
   "gbif_id": "2753567",
   "powo_id": "533176-1",
   "iucn_id": null,

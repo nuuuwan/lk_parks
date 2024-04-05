@@ -1,8 +1,7 @@
 {
   "name": "Weigela florida",
   "authorship": "(Bunge) A.DC.",
-  "genus_name": "Weigela",
-  "family_name": "Caprifoliaceae",
+  "parent_name": "Weigela",
   "gbif_id": "2888730",
   "powo_id": "150035-1",
   "iucn_id": null,

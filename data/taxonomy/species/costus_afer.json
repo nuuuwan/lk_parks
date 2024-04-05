@@ -1,8 +1,7 @@
 {
   "name": "Costus afer",
   "authorship": "Ker Gawl.",
-  "genus_name": "Costus",
-  "family_name": "Costaceae",
+  "parent_name": "Costus",
   "gbif_id": "2756876",
   "powo_id": "796260-1",
   "iucn_id": null,

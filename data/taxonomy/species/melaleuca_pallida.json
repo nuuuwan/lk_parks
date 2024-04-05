@@ -1,8 +1,7 @@
 {
   "name": "Melaleuca pallida",
   "authorship": "(Bonpl.) Craven",
-  "genus_name": "Melaleuca",
-  "family_name": "Myrtaceae",
+  "parent_name": "Melaleuca",
   "gbif_id": "5415482",
   "powo_id": "77085518-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Handroanthus capitatus",
   "authorship": "(Bureau & K.Schum.) Mattos",
-  "genus_name": "Handroanthus",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Handroanthus",
   "gbif_id": "4092487",
   "powo_id": "109688-1",
   "iucn_id": "61985445",

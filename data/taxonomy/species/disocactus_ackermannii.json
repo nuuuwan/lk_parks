@@ -1,8 +1,7 @@
 {
   "name": "Disocactus ackermannii",
   "authorship": "(Haw.) Ralf Bauer",
-  "genus_name": "Disocactus",
-  "family_name": "Cactaceae",
+  "parent_name": "Disocactus",
   "gbif_id": "7649247",
   "powo_id": "50425940-2",
   "iucn_id": "152413",

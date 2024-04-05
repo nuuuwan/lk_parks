@@ -1,8 +1,7 @@
 {
   "name": "Guarea rhopalocarpa",
   "authorship": "Radlk.",
-  "genus_name": "Guarea",
-  "family_name": "Meliaceae",
+  "parent_name": "Guarea",
   "gbif_id": "3850402",
   "powo_id": "114118-2",
   "iucn_id": "152000383",

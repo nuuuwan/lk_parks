@@ -1,8 +1,7 @@
 {
   "name": "Erythroxylum campinense",
   "authorship": "Amaral",
-  "genus_name": "Erythroxylum",
-  "family_name": "Erythroxylaceae",
+  "parent_name": "Erythroxylum",
   "gbif_id": "3694069",
   "powo_id": "96905-2",
   "iucn_id": null,

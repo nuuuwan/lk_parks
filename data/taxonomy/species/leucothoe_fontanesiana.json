@@ -1,8 +1,7 @@
 {
   "name": "Leucothoe fontanesiana",
   "authorship": "(Steud.) Sleumer",
-  "genus_name": "Leucothoe",
-  "family_name": "Ericaceae",
+  "parent_name": "Leucothoe",
   "gbif_id": "5333354",
   "powo_id": "139255-2",
   "iucn_id": null,

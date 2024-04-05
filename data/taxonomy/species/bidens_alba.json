@@ -1,8 +1,7 @@
 {
   "name": "Bidens alba",
   "authorship": "(L.) DC.",
-  "genus_name": "Bidens",
-  "family_name": "Asteraceae",
+  "parent_name": "Bidens",
   "gbif_id": "5391861",
   "powo_id": "184711-1",
   "iucn_id": null,

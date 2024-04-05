@@ -1,8 +1,7 @@
 {
   "name": "Leea indica",
   "authorship": "(Burm.f.) Merr.",
-  "genus_name": "Leea",
-  "family_name": "Vitaceae",
+  "parent_name": "Leea",
   "gbif_id": "4160336",
   "powo_id": "870443-1",
   "iucn_id": "147620596",

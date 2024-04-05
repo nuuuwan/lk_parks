@@ -1,8 +1,7 @@
 {
   "name": "Bridelia taitensis",
   "authorship": "Vatke & Pax",
-  "genus_name": "Bridelia",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Bridelia",
   "gbif_id": "8576333",
   "powo_id": "340243-1",
   "iucn_id": "179617",

@@ -1,8 +1,7 @@
 {
   "name": "Garcinia schomburgkiana",
   "authorship": "Pierre",
-  "genus_name": "Garcinia",
-  "family_name": "Clusiaceae",
+  "parent_name": "Garcinia",
   "gbif_id": "3712759",
   "powo_id": "428230-1",
   "iucn_id": null,

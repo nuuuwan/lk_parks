@@ -1,8 +1,7 @@
 {
   "name": "Eremophila oppositifolia",
   "authorship": "R.Br.",
-  "genus_name": "Eremophila",
-  "family_name": "Scrophulariaceae",
+  "parent_name": "Eremophila",
   "gbif_id": "6034500",
   "powo_id": "585202-1",
   "iucn_id": "192231443",

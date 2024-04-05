@@ -1,8 +1,7 @@
 {
   "name": "Ximenia americana",
   "authorship": "L.",
-  "genus_name": "Ximenia",
-  "family_name": "Olacaceae",
+  "parent_name": "Ximenia",
   "gbif_id": "2889811",
   "powo_id": "316341-2",
   "iucn_id": "146188276",

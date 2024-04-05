@@ -1,8 +1,7 @@
 {
   "name": "Thalictrum pubescens",
   "authorship": "Pursh",
-  "genus_name": "Thalictrum",
-  "family_name": "Ranunculaceae",
+  "parent_name": "Thalictrum",
   "gbif_id": "3033146",
   "powo_id": "714782-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Morus alba",
   "authorship": "L.",
-  "genus_name": "Morus",
-  "family_name": "Moraceae",
+  "parent_name": "Morus",
   "gbif_id": "5361889",
   "powo_id": "30051955-2",
   "iucn_id": null,

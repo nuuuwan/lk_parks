@@ -1,8 +1,7 @@
 {
   "name": "Pterodon emarginatus",
   "authorship": "Vogel",
-  "genus_name": "Pterodon",
-  "family_name": "Fabaceae",
+  "parent_name": "Pterodon",
   "gbif_id": "5342608",
   "powo_id": "516615-1",
   "iucn_id": "144304793",

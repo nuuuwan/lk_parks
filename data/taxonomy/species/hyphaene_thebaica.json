@@ -1,8 +1,7 @@
 {
   "name": "Hyphaene thebaica",
   "authorship": "(L.) Mart.",
-  "genus_name": "Hyphaene",
-  "family_name": "Arecaceae",
+  "parent_name": "Hyphaene",
   "gbif_id": "7931200",
   "powo_id": "667540-1",
   "iucn_id": "19017230",

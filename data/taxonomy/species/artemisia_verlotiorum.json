@@ -1,8 +1,7 @@
 {
   "name": "Artemisia verlotiorum",
   "authorship": "Lamotte",
-  "genus_name": "Artemisia",
-  "family_name": "Asteraceae",
+  "parent_name": "Artemisia",
   "gbif_id": "3120790",
   "powo_id": "180264-1",
   "iucn_id": null,

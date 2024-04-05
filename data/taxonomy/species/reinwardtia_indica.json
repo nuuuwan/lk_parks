@@ -1,8 +1,7 @@
 {
   "name": "Reinwardtia indica",
   "authorship": "Dumort.",
-  "genus_name": "Reinwardtia",
-  "family_name": "Linaceae",
+  "parent_name": "Reinwardtia",
   "gbif_id": "5658009",
   "powo_id": "544868-1",
   "iucn_id": null,

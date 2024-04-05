@@ -1,8 +1,7 @@
 {
   "name": "Lithraea molleoides",
   "authorship": "(Vell.) Engl.",
-  "genus_name": "Lithraea",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Lithraea",
   "gbif_id": "3660239",
   "powo_id": "69847-1",
   "iucn_id": "163033915",

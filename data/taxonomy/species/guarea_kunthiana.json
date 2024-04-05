@@ -1,8 +1,7 @@
 {
   "name": "Guarea kunthiana",
   "authorship": "A.Juss.",
-  "genus_name": "Guarea",
-  "family_name": "Meliaceae",
+  "parent_name": "Guarea",
   "gbif_id": "3851727",
   "powo_id": "578634-1",
   "iucn_id": "176100266",

@@ -1,8 +1,7 @@
 {
   "name": "Echium virescens",
   "authorship": "DC.",
-  "genus_name": "Echium",
-  "family_name": "Boraginaceae",
+  "parent_name": "Echium",
   "gbif_id": "4067418",
   "powo_id": "115945-1",
   "iucn_id": null,

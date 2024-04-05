@@ -1,8 +1,7 @@
 {
   "name": "Archontophoenix myolensis",
   "authorship": "Dowe",
-  "genus_name": "Archontophoenix",
-  "family_name": "Arecaceae",
+  "parent_name": "Archontophoenix",
   "gbif_id": "2732628",
   "powo_id": "979672-1",
   "iucn_id": "38184",

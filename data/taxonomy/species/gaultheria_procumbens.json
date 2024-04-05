@@ -1,8 +1,7 @@
 {
   "name": "Gaultheria procumbens",
   "authorship": "L.",
-  "genus_name": "Gaultheria",
-  "family_name": "Ericaceae",
+  "parent_name": "Gaultheria",
   "gbif_id": "2882753",
   "powo_id": "330655-1",
   "iucn_id": null,

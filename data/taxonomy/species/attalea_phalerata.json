@@ -1,8 +1,7 @@
 {
   "name": "Attalea phalerata",
   "authorship": "Mart. ex Spreng.",
-  "genus_name": "Attalea",
-  "family_name": "Arecaceae",
+  "parent_name": "Attalea",
   "gbif_id": "2732758",
   "powo_id": "26580-2",
   "iucn_id": "67532499",

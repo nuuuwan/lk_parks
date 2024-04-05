@@ -1,8 +1,7 @@
 {
   "name": "Parkia biglobosa",
   "authorship": "(Jacq.) R.Br. ex G.Don",
-  "genus_name": "Parkia",
-  "family_name": "Fabaceae",
+  "parent_name": "Parkia",
   "gbif_id": "5348812",
   "powo_id": "941491-1",
   "iucn_id": "144263048",

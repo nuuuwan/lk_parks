@@ -1,8 +1,7 @@
 {
   "name": "Abies pinsapo",
   "authorship": "Boiss.",
-  "genus_name": "Abies",
-  "family_name": "Pinaceae",
+  "parent_name": "Abies",
   "gbif_id": "2685464",
   "powo_id": "676606-1",
   "iucn_id": "42295",

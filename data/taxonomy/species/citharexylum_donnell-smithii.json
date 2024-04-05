@@ -1,8 +1,7 @@
 {
   "name": "Citharexylum donnell-smithii",
   "authorship": "Greenm.",
-  "genus_name": "Citharexylum",
-  "family_name": "Verbenaceae",
+  "parent_name": "Citharexylum",
   "gbif_id": "7297252",
   "powo_id": "861735-1",
   "iucn_id": "136788298",

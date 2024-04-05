@@ -1,8 +1,7 @@
 {
   "name": "Genista linifolia",
   "authorship": "L.",
-  "genus_name": "Genista",
-  "family_name": "Fabaceae",
+  "parent_name": "Genista",
   "gbif_id": "5347599",
   "powo_id": "496144-1",
   "iucn_id": null,

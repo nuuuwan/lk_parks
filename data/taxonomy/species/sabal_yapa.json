@@ -1,8 +1,7 @@
 {
   "name": "Sabal yapa",
   "authorship": "C.Wright ex Becc.",
-  "genus_name": "Sabal",
-  "family_name": "Arecaceae",
+  "parent_name": "Sabal",
   "gbif_id": "2732498",
   "powo_id": "60440702-2",
   "iucn_id": "56360782",

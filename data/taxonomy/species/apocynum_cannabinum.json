@@ -1,8 +1,7 @@
 {
   "name": "Apocynum cannabinum",
   "authorship": "L.",
-  "genus_name": "Apocynum",
-  "family_name": "Apocynaceae",
+  "parent_name": "Apocynum",
   "gbif_id": "3169790",
   "powo_id": "16527-2",
   "iucn_id": null,

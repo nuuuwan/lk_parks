@@ -1,8 +1,7 @@
 {
   "name": "Erythroxylum tortuosum",
   "authorship": "Mart.",
-  "genus_name": "Erythroxylum",
-  "family_name": "Erythroxylaceae",
+  "parent_name": "Erythroxylum",
   "gbif_id": "3693946",
   "powo_id": "323904-2",
   "iucn_id": "146079597",

@@ -1,8 +1,7 @@
 {
   "name": "Amaranthus caudatus",
   "authorship": "L.",
-  "genus_name": "Amaranthus",
-  "family_name": "Amaranthaceae",
+  "parent_name": "Amaranthus",
   "gbif_id": "6109611",
   "powo_id": "316347-2",
   "iucn_id": null,

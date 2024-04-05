@@ -1,8 +1,7 @@
 {
   "name": "Guettarda scabra",
   "authorship": "(L.) Vent.",
-  "genus_name": "Guettarda",
-  "family_name": "Rubiaceae",
+  "parent_name": "Guettarda",
   "gbif_id": "2894720",
   "powo_id": "30058289-2",
   "iucn_id": "56503696",

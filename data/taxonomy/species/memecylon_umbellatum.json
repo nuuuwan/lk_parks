@@ -1,8 +1,7 @@
 {
   "name": "Memecylon umbellatum",
   "authorship": "Burm.f.",
-  "genus_name": "Memecylon",
-  "family_name": "Melastomataceae",
+  "parent_name": "Memecylon",
   "gbif_id": "3863519",
   "powo_id": "571880-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Annona senegalensis",
   "authorship": "Pers.",
-  "genus_name": "Annona",
-  "family_name": "Annonaceae",
+  "parent_name": "Annona",
   "gbif_id": "5407251",
   "powo_id": "72309-1",
   "iucn_id": "136996621",

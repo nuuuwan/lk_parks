@@ -1,8 +1,7 @@
 {
   "name": "Pachira glabra",
   "authorship": "Pasq.",
-  "genus_name": "Pachira",
-  "family_name": "Malvaceae",
+  "parent_name": "Pachira",
   "gbif_id": "4073899",
   "powo_id": "562664-1",
   "iucn_id": null,

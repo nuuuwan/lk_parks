@@ -1,8 +1,7 @@
 {
   "name": "Galium sylvaticum",
   "authorship": "L.",
-  "genus_name": "Galium",
-  "family_name": "Rubiaceae",
+  "parent_name": "Galium",
   "gbif_id": "2913288",
   "powo_id": "750701-1",
   "iucn_id": null,

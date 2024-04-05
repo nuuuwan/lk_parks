@@ -1,8 +1,7 @@
 {
   "name": "Libidibia punctata",
   "authorship": "(Willd.) Britton",
-  "genus_name": "Libidibia",
-  "family_name": "Fabaceae",
+  "parent_name": "Libidibia",
   "gbif_id": "3931553",
   "powo_id": "139695-2",
   "iucn_id": "205716412",

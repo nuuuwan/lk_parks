@@ -1,8 +1,7 @@
 {
   "name": "Neopicrorhiza scrophulariiflora",
   "authorship": "(Pennell) D.Y.Hong",
-  "genus_name": "Neopicrorhiza",
-  "family_name": "Plantaginaceae",
+  "parent_name": "Neopicrorhiza",
   "gbif_id": "3736652",
   "powo_id": "914299-1",
   "iucn_id": null,

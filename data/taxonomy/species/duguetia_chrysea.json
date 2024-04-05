@@ -1,8 +1,7 @@
 {
   "name": "Duguetia chrysea",
   "authorship": "Maas",
-  "genus_name": "Duguetia",
-  "family_name": "Annonaceae",
+  "parent_name": "Duguetia",
   "gbif_id": "3157518",
   "powo_id": "304785-2",
   "iucn_id": "152345936",

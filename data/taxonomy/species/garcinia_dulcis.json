@@ -1,8 +1,7 @@
 {
   "name": "Garcinia dulcis",
   "authorship": "(Roxb.) Kurz",
-  "genus_name": "Garcinia",
-  "family_name": "Clusiaceae",
+  "parent_name": "Garcinia",
   "gbif_id": "3189565",
   "powo_id": "427931-1",
   "iucn_id": "146536870",

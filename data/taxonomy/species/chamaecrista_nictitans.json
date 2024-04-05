@@ -1,8 +1,7 @@
 {
   "name": "Chamaecrista nictitans",
   "authorship": "(L.) Moench",
-  "genus_name": "Chamaecrista",
-  "family_name": "Fabaceae",
+  "parent_name": "Chamaecrista",
   "gbif_id": "2950302",
   "powo_id": "30485908-2",
   "iucn_id": "19893070",

@@ -1,8 +1,7 @@
 {
   "name": "Kirkia wilmsii",
   "authorship": "Engl.",
-  "genus_name": "Kirkia",
-  "family_name": "Kirkiaceae",
+  "parent_name": "Kirkia",
   "gbif_id": "5555193",
   "powo_id": "813797-1",
   "iucn_id": "146459861",

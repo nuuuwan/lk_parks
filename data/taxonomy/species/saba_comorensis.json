@@ -1,8 +1,7 @@
 {
   "name": "Saba comorensis",
   "authorship": "(Bojer ex A.DC.) Pichon",
-  "genus_name": "Saba",
-  "family_name": "Apocynaceae",
+  "parent_name": "Saba",
   "gbif_id": "3614900",
   "powo_id": "81757-1",
   "iucn_id": null,

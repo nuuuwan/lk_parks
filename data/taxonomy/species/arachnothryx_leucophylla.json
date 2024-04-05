@@ -1,8 +1,7 @@
 {
   "name": "Arachnothryx leucophylla",
   "authorship": "(Kunth) Planch.",
-  "genus_name": "Arachnothryx",
-  "family_name": "Rubiaceae",
+  "parent_name": "Arachnothryx",
   "gbif_id": "2897189",
   "powo_id": "743565-1",
   "iucn_id": "126611235",

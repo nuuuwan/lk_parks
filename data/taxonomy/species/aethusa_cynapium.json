@@ -1,8 +1,7 @@
 {
   "name": "Aethusa cynapium",
   "authorship": "L.",
-  "genus_name": "Aethusa",
-  "family_name": "Apiaceae",
+  "parent_name": "Aethusa",
   "gbif_id": "5371825",
   "powo_id": "837341-1",
   "iucn_id": null,

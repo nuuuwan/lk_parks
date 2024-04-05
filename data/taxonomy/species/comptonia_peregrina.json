@@ -1,8 +1,7 @@
 {
   "name": "Comptonia peregrina",
   "authorship": "(L.) Coult.",
-  "genus_name": "Comptonia",
-  "family_name": "Myricaceae",
+  "parent_name": "Comptonia",
   "gbif_id": "5414197",
   "powo_id": "64014-2",
   "iucn_id": null,

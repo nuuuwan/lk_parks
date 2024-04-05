@@ -1,8 +1,7 @@
 {
   "name": "Tilia europaea",
   "authorship": "L.",
-  "genus_name": "Tilia",
-  "family_name": "Malvaceae",
+  "parent_name": "Tilia",
   "gbif_id": "3152046",
   "powo_id": "835306-1",
   "iucn_id": null,

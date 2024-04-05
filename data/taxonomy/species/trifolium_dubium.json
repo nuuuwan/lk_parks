@@ -1,8 +1,7 @@
 {
   "name": "Trifolium dubium",
   "authorship": "Sibth.",
-  "genus_name": "Trifolium",
-  "family_name": "Fabaceae",
+  "parent_name": "Trifolium",
   "gbif_id": "5359429",
   "powo_id": "523099-1",
   "iucn_id": null,

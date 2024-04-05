@@ -1,8 +1,7 @@
 {
   "name": "Cyrtomium fortunei",
   "authorship": "J.Sm.",
-  "genus_name": "Cyrtomium",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Cyrtomium",
   "gbif_id": "2650827",
   "powo_id": "17075980-1",
   "iucn_id": null,

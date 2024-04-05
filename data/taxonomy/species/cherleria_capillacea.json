@@ -1,8 +1,7 @@
 {
   "name": "Cherleria capillacea",
   "authorship": "(All.) A.J.Moore & Dillenb.",
-  "genus_name": "Cherleria",
-  "family_name": "Caryophyllaceae",
+  "parent_name": "Cherleria",
   "gbif_id": "7917944",
   "powo_id": "77162307-1",
   "iucn_id": null,

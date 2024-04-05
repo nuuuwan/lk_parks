@@ -1,8 +1,7 @@
 {
   "name": "Populus tristis",
   "authorship": "Fisch.",
-  "genus_name": "Populus",
-  "family_name": "Salicaceae",
+  "parent_name": "Populus",
   "gbif_id": "3804475",
   "powo_id": "776895-1",
   "iucn_id": "208705006",

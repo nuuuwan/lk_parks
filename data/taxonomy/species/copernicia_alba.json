@@ -1,8 +1,7 @@
 {
   "name": "Copernicia alba",
   "authorship": "Morong",
-  "genus_name": "Copernicia",
-  "family_name": "Arecaceae",
+  "parent_name": "Copernicia",
   "gbif_id": "2738280",
   "powo_id": "64958-2",
   "iucn_id": "111456546",

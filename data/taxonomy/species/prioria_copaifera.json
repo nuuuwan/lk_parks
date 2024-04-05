@@ -1,8 +1,7 @@
 {
   "name": "Prioria copaifera",
   "authorship": "Griseb.",
-  "genus_name": "Prioria",
-  "family_name": "Fabaceae",
+  "parent_name": "Prioria",
   "gbif_id": "2947108",
   "powo_id": "515766-1",
   "iucn_id": "62027602",

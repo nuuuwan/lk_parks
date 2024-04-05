@@ -1,8 +1,7 @@
 {
   "name": "Salvia leucantha",
   "authorship": "Cav.",
-  "genus_name": "Salvia",
-  "family_name": "Lamiaceae",
+  "parent_name": "Salvia",
   "gbif_id": "6411750",
   "powo_id": "226705-2",
   "iucn_id": null,

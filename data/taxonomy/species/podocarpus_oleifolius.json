@@ -1,8 +1,7 @@
 {
   "name": "Podocarpus oleifolius",
   "authorship": "D.Don",
-  "genus_name": "Podocarpus",
-  "family_name": "Podocarpaceae",
+  "parent_name": "Podocarpus",
   "gbif_id": "5286006",
   "powo_id": "263553-1",
   "iucn_id": "46413452",

@@ -1,8 +1,7 @@
 {
   "name": "Ziziphus jujuba",
   "authorship": "Mill.",
-  "genus_name": "Ziziphus",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Ziziphus",
   "gbif_id": "3039423",
   "powo_id": "719213-1",
   "iucn_id": "63538",

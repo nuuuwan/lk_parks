@@ -1,8 +1,7 @@
 {
   "name": "Dypsis minuta",
   "authorship": "Beentje",
-  "genus_name": "Dypsis",
-  "family_name": "Arecaceae",
+  "parent_name": "Dypsis",
   "gbif_id": "2735972",
   "powo_id": "985411-1",
   "iucn_id": "195919",

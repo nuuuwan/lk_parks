@@ -1,8 +1,7 @@
 {
   "name": "Dalea coerulea",
   "authorship": "(L.f.) Schinz & Thell.",
-  "genus_name": "Dalea",
-  "family_name": "Fabaceae",
+  "parent_name": "Dalea",
   "gbif_id": "5353378",
   "powo_id": "76086-2",
   "iucn_id": null,

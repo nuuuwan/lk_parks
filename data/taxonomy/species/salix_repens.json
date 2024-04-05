@@ -1,8 +1,7 @@
 {
   "name": "Salix repens",
   "authorship": "L.",
-  "genus_name": "Salix",
-  "family_name": "Salicaceae",
+  "parent_name": "Salix",
   "gbif_id": "9148812",
   "powo_id": "305835-2",
   "iucn_id": null,

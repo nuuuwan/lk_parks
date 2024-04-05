@@ -1,8 +1,7 @@
 {
   "name": "Betula occidentalis",
   "authorship": "Hook.",
-  "genus_name": "Betula",
-  "family_name": "Betulaceae",
+  "parent_name": "Betula",
   "gbif_id": "5332055",
   "powo_id": "295159-1",
   "iucn_id": "194643",

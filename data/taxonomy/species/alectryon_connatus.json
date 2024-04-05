@@ -1,8 +1,7 @@
 {
   "name": "Alectryon connatus",
   "authorship": "(F.Muell.) Radlk.",
-  "genus_name": "Alectryon",
-  "family_name": "Sapindaceae",
+  "parent_name": "Alectryon",
   "gbif_id": "5578187",
   "powo_id": "781646-1",
   "iucn_id": "198830049",

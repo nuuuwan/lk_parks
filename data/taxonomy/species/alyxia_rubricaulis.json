@@ -1,8 +1,7 @@
 {
   "name": "Alyxia rubricaulis",
   "authorship": "(Baill.) Guillaumin",
-  "genus_name": "Alyxia",
-  "family_name": "Apocynaceae",
+  "parent_name": "Alyxia",
   "gbif_id": "7317383",
   "powo_id": "76781-1",
   "iucn_id": null,

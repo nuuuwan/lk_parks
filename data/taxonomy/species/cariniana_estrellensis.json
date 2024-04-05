@@ -1,8 +1,7 @@
 {
   "name": "Cariniana estrellensis",
   "authorship": "(Raddi) Kuntze",
-  "genus_name": "Cariniana",
-  "family_name": "Lecythidaceae",
+  "parent_name": "Cariniana",
   "gbif_id": "3083020",
   "powo_id": "47516-2",
   "iucn_id": null,

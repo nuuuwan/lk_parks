@@ -1,8 +1,7 @@
 {
   "name": "Ruizia cordata",
   "authorship": "Cav.",
-  "genus_name": "Ruizia",
-  "family_name": "Malvaceae",
+  "parent_name": "Ruizia",
   "gbif_id": "7686714",
   "powo_id": "824965-1",
   "iucn_id": null,

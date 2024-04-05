@@ -1,8 +1,7 @@
 {
   "name": "Terminalia buceras",
   "authorship": "(L.) C.Wright",
-  "genus_name": "Terminalia",
-  "family_name": "Combretaceae",
+  "parent_name": "Terminalia",
   "gbif_id": "3698958",
   "powo_id": "171012-1",
   "iucn_id": null,

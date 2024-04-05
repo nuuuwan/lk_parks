@@ -1,8 +1,7 @@
 {
   "name": "Syncarpia glomulifera",
   "authorship": "(Sm.) Nied.",
-  "genus_name": "Syncarpia",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syncarpia",
   "gbif_id": "3185932",
   "powo_id": "66734-3",
   "iucn_id": "61917356",

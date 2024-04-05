@@ -1,8 +1,7 @@
 {
   "name": "Pterostyrax corymbosus",
   "authorship": "Siebold & Zucc.",
-  "genus_name": "Pterostyrax",
-  "family_name": "Styracaceae",
+  "parent_name": "Pterostyrax",
   "gbif_id": "4938757",
   "powo_id": "826654-1",
   "iucn_id": "147363865",

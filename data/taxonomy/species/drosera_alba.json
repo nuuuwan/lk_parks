@@ -1,8 +1,7 @@
 {
   "name": "Drosera alba",
   "authorship": "E.Phillips",
-  "genus_name": "Drosera",
-  "family_name": "Droseraceae",
+  "parent_name": "Drosera",
   "gbif_id": "3191106",
   "powo_id": "321772-1",
   "iucn_id": null,

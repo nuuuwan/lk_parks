@@ -1,8 +1,7 @@
 {
   "name": "Hippocrepis emerus",
   "authorship": "(L.) Lassen",
-  "genus_name": "Hippocrepis",
-  "family_name": "Fabaceae",
+  "parent_name": "Hippocrepis",
   "gbif_id": "5353705",
   "powo_id": "946593-1",
   "iucn_id": null,

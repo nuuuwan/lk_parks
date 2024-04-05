@@ -1,8 +1,7 @@
 {
   "name": "Cinnamomum iners",
   "authorship": "(Reinw. ex Nees & T.Nees) Blume",
-  "genus_name": "Cinnamomum",
-  "family_name": "Lauraceae",
+  "parent_name": "Cinnamomum",
   "gbif_id": "8028551",
   "powo_id": "463467-1",
   "iucn_id": "62020057",

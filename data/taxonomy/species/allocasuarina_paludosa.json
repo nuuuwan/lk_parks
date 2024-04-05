@@ -1,8 +1,7 @@
 {
   "name": "Allocasuarina paludosa",
   "authorship": "(Sieber ex Spreng.) L.A.S.Johnson",
-  "genus_name": "Allocasuarina",
-  "family_name": "Casuarinaceae",
+  "parent_name": "Allocasuarina",
   "gbif_id": "2891880",
   "powo_id": "909957-1",
   "iucn_id": null,

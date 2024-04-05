@@ -1,8 +1,7 @@
 {
   "name": "Chamaecyparis pisifera",
   "authorship": "(Siebold & Zucc.) Endl.",
-  "genus_name": "Chamaecyparis",
-  "family_name": "Cupressaceae",
+  "parent_name": "Chamaecyparis",
   "gbif_id": "2683880",
   "powo_id": "261847-1",
   "iucn_id": "42213",

@@ -1,8 +1,7 @@
 {
   "name": "Commiphora dulcis",
   "authorship": "Engl.",
-  "genus_name": "Commiphora",
-  "family_name": "Burseraceae",
+  "parent_name": "Commiphora",
   "gbif_id": "3993341",
   "powo_id": "127642-1",
   "iucn_id": null,

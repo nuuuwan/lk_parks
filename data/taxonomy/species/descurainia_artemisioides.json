@@ -1,8 +1,7 @@
 {
   "name": "Descurainia artemisioides",
   "authorship": "Svent.",
-  "genus_name": "Descurainia",
-  "family_name": "Brassicaceae",
+  "parent_name": "Descurainia",
   "gbif_id": "3044253",
   "powo_id": "282017-1",
   "iucn_id": null,

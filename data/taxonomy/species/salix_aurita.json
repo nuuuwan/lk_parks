@@ -1,8 +1,7 @@
 {
   "name": "Salix aurita",
   "authorship": "L.",
-  "genus_name": "Salix",
-  "family_name": "Salicaceae",
+  "parent_name": "Salix",
   "gbif_id": "5372876",
   "powo_id": "777119-1",
   "iucn_id": null,

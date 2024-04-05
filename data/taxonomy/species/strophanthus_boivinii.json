@@ -1,8 +1,7 @@
 {
   "name": "Strophanthus boivinii",
   "authorship": "Baill.",
-  "genus_name": "Strophanthus",
-  "family_name": "Apocynaceae",
+  "parent_name": "Strophanthus",
   "gbif_id": "3620551",
   "powo_id": "81862-1",
   "iucn_id": "128084974",

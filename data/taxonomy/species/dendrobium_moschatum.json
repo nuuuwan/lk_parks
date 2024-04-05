@@ -1,8 +1,7 @@
 {
   "name": "Dendrobium moschatum",
   "authorship": "(Banks) Sw.",
-  "genus_name": "Dendrobium",
-  "family_name": "Orchidaceae",
+  "parent_name": "Dendrobium",
   "gbif_id": "5316318",
   "powo_id": "628047-1",
   "iucn_id": null,

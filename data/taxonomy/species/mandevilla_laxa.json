@@ -1,8 +1,7 @@
 {
   "name": "Mandevilla laxa",
   "authorship": "(Ruiz & Pav.) Woodson",
-  "genus_name": "Mandevilla",
-  "family_name": "Apocynaceae",
+  "parent_name": "Mandevilla",
   "gbif_id": "3617571",
   "powo_id": "151995-2",
   "iucn_id": null,

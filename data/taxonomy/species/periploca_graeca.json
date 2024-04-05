@@ -1,8 +1,7 @@
 {
   "name": "Periploca graeca",
   "authorship": "L.",
-  "genus_name": "Periploca",
-  "family_name": "Apocynaceae",
+  "parent_name": "Periploca",
   "gbif_id": "5414545",
   "powo_id": "100459-1",
   "iucn_id": null,

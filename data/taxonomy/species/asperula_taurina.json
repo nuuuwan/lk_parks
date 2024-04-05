@@ -1,8 +1,7 @@
 {
   "name": "Asperula taurina",
   "authorship": "L.",
-  "genus_name": "Asperula",
-  "family_name": "Rubiaceae",
+  "parent_name": "Asperula",
   "gbif_id": "2916975",
   "powo_id": "744199-1",
   "iucn_id": null,

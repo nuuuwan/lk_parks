@@ -1,8 +1,7 @@
 {
   "name": "Catunaregam spinosa",
   "authorship": "(Thunb.) Tirveng.",
-  "genus_name": "Catunaregam",
-  "family_name": "Rubiaceae",
+  "parent_name": "Catunaregam",
   "gbif_id": "2910886",
   "powo_id": "745904-1",
   "iucn_id": "128433537",

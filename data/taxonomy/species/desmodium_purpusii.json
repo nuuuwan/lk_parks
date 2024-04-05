@@ -1,8 +1,7 @@
 {
   "name": "Desmodium purpusii",
   "authorship": "Brandegee",
-  "genus_name": "Desmodium",
-  "family_name": "Fabaceae",
+  "parent_name": "Desmodium",
   "gbif_id": "2967126",
   "powo_id": "297948-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Lonchocarpus oliganthus",
   "authorship": "F.J.Herm.",
-  "genus_name": "Lonchocarpus",
-  "family_name": "Fabaceae",
+  "parent_name": "Lonchocarpus",
   "gbif_id": "2969225",
   "powo_id": "143351-2",
   "iucn_id": "144283352",

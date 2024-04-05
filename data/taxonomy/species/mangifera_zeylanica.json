@@ -1,8 +1,7 @@
 {
   "name": "Mangifera zeylanica",
   "authorship": "(Blume) Hook.f.",
-  "genus_name": "Mangifera",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Mangifera",
   "gbif_id": "3661952",
   "powo_id": "69987-1",
   "iucn_id": "31400",

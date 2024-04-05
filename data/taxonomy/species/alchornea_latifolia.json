@@ -1,8 +1,7 @@
 {
   "name": "Alchornea latifolia",
   "authorship": "Sw.",
-  "genus_name": "Alchornea",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Alchornea",
   "gbif_id": "3055359",
   "powo_id": "338417-1",
   "iucn_id": "136793437",

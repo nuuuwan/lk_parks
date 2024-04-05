@@ -1,8 +1,7 @@
 {
   "name": "Cissus populnea",
   "authorship": "Guill. & Perr.",
-  "genus_name": "Cissus",
-  "family_name": "Vitaceae",
+  "parent_name": "Cissus",
   "gbif_id": "4053587",
   "powo_id": "67878-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Massularia acuminata",
   "authorship": "(G.Don) Bullock ex Hoyle",
-  "genus_name": "Massularia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Massularia",
   "gbif_id": "5337264",
   "powo_id": "756020-1",
   "iucn_id": "136111116",

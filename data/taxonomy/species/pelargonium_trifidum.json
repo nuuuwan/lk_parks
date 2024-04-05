@@ -1,8 +1,7 @@
 {
   "name": "Pelargonium trifidum",
   "authorship": "(Burm.f.) Jacq.",
-  "genus_name": "Pelargonium",
-  "family_name": "Geraniaceae",
+  "parent_name": "Pelargonium",
   "gbif_id": "3826623",
   "powo_id": "377120-1",
   "iucn_id": null,

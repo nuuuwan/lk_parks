@@ -1,8 +1,7 @@
 {
   "name": "Gevuina avellana",
   "authorship": "Molina",
-  "genus_name": "Gevuina",
-  "family_name": "Proteaceae",
+  "parent_name": "Gevuina",
   "gbif_id": "3996031",
   "powo_id": "703659-1",
   "iucn_id": "112643340",

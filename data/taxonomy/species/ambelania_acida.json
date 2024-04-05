@@ -1,8 +1,7 @@
 {
   "name": "Ambelania acida",
   "authorship": "Aubl.",
-  "genus_name": "Ambelania",
-  "family_name": "Apocynaceae",
+  "parent_name": "Ambelania",
   "gbif_id": "3620808",
   "powo_id": "76829-1",
   "iucn_id": "179310889",

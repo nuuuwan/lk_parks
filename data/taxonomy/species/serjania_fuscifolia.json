@@ -1,8 +1,7 @@
 {
   "name": "Serjania fuscifolia",
   "authorship": "Radlk.",
-  "genus_name": "Serjania",
-  "family_name": "Sapindaceae",
+  "parent_name": "Serjania",
   "gbif_id": "5577586",
   "powo_id": "784989-1",
   "iucn_id": null,

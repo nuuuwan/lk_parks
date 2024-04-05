@@ -1,8 +1,7 @@
 {
   "name": "Syzygium wagapense",
   "authorship": "Brongn. & Gris",
-  "genus_name": "Syzygium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syzygium",
   "gbif_id": "10986606",
   "powo_id": "602400-1",
   "iucn_id": "181017483",

@@ -1,8 +1,7 @@
 {
   "name": "Veitchia winin",
   "authorship": "H.E.Moore",
-  "genus_name": "Veitchia",
-  "family_name": "Arecaceae",
+  "parent_name": "Veitchia",
   "gbif_id": "5293079",
   "powo_id": "670226-1",
   "iucn_id": null,

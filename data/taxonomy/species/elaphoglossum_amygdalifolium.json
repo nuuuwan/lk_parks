@@ -1,8 +1,7 @@
 {
   "name": "Elaphoglossum amygdalifolium",
   "authorship": "Christ",
-  "genus_name": "Elaphoglossum",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Elaphoglossum",
   "gbif_id": "8616507",
   "powo_id": "89028-2",
   "iucn_id": null,

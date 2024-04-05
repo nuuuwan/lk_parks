@@ -1,8 +1,7 @@
 {
   "name": "Podocarpus elatus",
   "authorship": "R.Br. ex Endl.",
-  "genus_name": "Podocarpus",
-  "family_name": "Podocarpaceae",
+  "parent_name": "Podocarpus",
   "gbif_id": "5286128",
   "powo_id": "120790-3",
   "iucn_id": "42500",

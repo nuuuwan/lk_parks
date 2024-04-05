@@ -1,8 +1,7 @@
 {
   "name": "Lepidium ruderale",
   "authorship": "L.",
-  "genus_name": "Lepidium",
-  "family_name": "Brassicaceae",
+  "parent_name": "Lepidium",
   "gbif_id": "5376616",
   "powo_id": "30265500-2",
   "iucn_id": null,

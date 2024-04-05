@@ -1,8 +1,7 @@
 {
   "name": "Rhamnus integrifolia",
   "authorship": "DC.",
-  "genus_name": "Rhamnus",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Rhamnus",
   "gbif_id": "3874511",
   "powo_id": "718410-1",
   "iucn_id": "30334",

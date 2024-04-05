@@ -1,8 +1,7 @@
 {
   "name": "Crataegus douglasii",
   "authorship": "Lindl.",
-  "genus_name": "Crataegus",
-  "family_name": "Rosaceae",
+  "parent_name": "Crataegus",
   "gbif_id": "3013580",
   "powo_id": "723298-1",
   "iucn_id": "135957326",

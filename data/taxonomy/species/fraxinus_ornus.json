@@ -1,8 +1,7 @@
 {
   "name": "Fraxinus ornus",
   "authorship": "L.",
-  "genus_name": "Fraxinus",
-  "family_name": "Oleaceae",
+  "parent_name": "Fraxinus",
   "gbif_id": "3172347",
   "powo_id": "609128-1",
   "iucn_id": "61918784",

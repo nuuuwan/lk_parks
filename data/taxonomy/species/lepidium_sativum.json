@@ -1,8 +1,7 @@
 {
   "name": "Lepidium sativum",
   "authorship": "L.",
-  "genus_name": "Lepidium",
-  "family_name": "Brassicaceae",
+  "parent_name": "Lepidium",
   "gbif_id": "5376565",
   "powo_id": "138141-2",
   "iucn_id": null,

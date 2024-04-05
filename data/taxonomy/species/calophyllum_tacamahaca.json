@@ -1,8 +1,7 @@
 {
   "name": "Calophyllum tacamahaca",
   "authorship": "Willd.",
-  "genus_name": "Calophyllum",
-  "family_name": "Calophyllaceae",
+  "parent_name": "Calophyllum",
   "gbif_id": "7424662",
   "powo_id": "427309-1",
   "iucn_id": null,

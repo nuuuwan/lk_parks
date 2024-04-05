@@ -1,8 +1,7 @@
 {
   "name": "Ilex aquifolium",
   "authorship": "L.",
-  "genus_name": "Ilex",
-  "family_name": "Aquifoliaceae",
+  "parent_name": "Ilex",
   "gbif_id": "5414222",
   "powo_id": "83051-1",
   "iucn_id": "202963",

@@ -1,8 +1,7 @@
 {
   "name": "Cleidion claoxyloides",
   "authorship": "M\u00fcll.Arg.",
-  "genus_name": "Cleidion",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Cleidion",
   "gbif_id": "8332844",
   "powo_id": "341249-1",
   "iucn_id": "154431001",

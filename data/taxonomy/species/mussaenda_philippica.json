@@ -1,8 +1,7 @@
 {
   "name": "Mussaenda philippica",
   "authorship": "A.Rich.",
-  "genus_name": "Mussaenda",
-  "family_name": "Rubiaceae",
+  "parent_name": "Mussaenda",
   "gbif_id": "2892466",
   "powo_id": "756770-1",
   "iucn_id": "154988679",

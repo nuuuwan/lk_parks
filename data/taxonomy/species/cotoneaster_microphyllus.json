@@ -1,8 +1,7 @@
 {
   "name": "Cotoneaster microphyllus",
   "authorship": "Wall. ex Lindl.",
-  "genus_name": "Cotoneaster",
-  "family_name": "Rosaceae",
+  "parent_name": "Cotoneaster",
   "gbif_id": "3025626",
   "powo_id": "722578-1",
   "iucn_id": null,

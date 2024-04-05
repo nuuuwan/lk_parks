@@ -1,8 +1,7 @@
 {
   "name": "Guaiacum officinale",
   "authorship": "L.",
-  "genus_name": "Guaiacum",
-  "family_name": "Zygophyllaceae",
+  "parent_name": "Guaiacum",
   "gbif_id": "3986813",
   "powo_id": "873252-1",
   "iucn_id": "33701",

@@ -1,8 +1,7 @@
 {
   "name": "Taxus canadensis",
   "authorship": "Marshall",
-  "genus_name": "Taxus",
-  "family_name": "Taxaceae",
+  "parent_name": "Taxus",
   "gbif_id": "5284570",
   "powo_id": "828354-1",
   "iucn_id": "42547",

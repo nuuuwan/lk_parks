@@ -1,8 +1,7 @@
 {
   "name": "Vaccinium stamineum",
   "authorship": "L.",
-  "genus_name": "Vaccinium",
-  "family_name": "Ericaceae",
+  "parent_name": "Vaccinium",
   "gbif_id": "2882913",
   "powo_id": "317270-2",
   "iucn_id": null,

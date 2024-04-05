@@ -1,8 +1,7 @@
 {
   "name": "Grewia hexamita",
   "authorship": "Burret",
-  "genus_name": "Grewia",
-  "family_name": "Malvaceae",
+  "parent_name": "Grewia",
   "gbif_id": "4259767",
   "powo_id": "834270-1",
   "iucn_id": "146455855",

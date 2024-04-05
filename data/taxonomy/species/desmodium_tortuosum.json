@@ -1,8 +1,7 @@
 {
   "name": "Desmodium tortuosum",
   "authorship": "(Sw.) DC.",
-  "genus_name": "Desmodium",
-  "family_name": "Fabaceae",
+  "parent_name": "Desmodium",
   "gbif_id": "2967221",
   "powo_id": "1028008-2",
   "iucn_id": null,

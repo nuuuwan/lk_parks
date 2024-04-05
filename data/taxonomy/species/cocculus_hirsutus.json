@@ -1,8 +1,7 @@
 {
   "name": "Cocculus hirsutus",
   "authorship": "(L.) W.Theob.",
-  "genus_name": "Cocculus",
-  "family_name": "Menispermaceae",
+  "parent_name": "Cocculus",
   "gbif_id": "3829491",
   "powo_id": "941634-1",
   "iucn_id": null,

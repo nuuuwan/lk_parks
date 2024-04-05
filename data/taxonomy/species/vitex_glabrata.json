@@ -1,8 +1,7 @@
 {
   "name": "Vitex glabrata",
   "authorship": "R.Br.",
-  "genus_name": "Vitex",
-  "family_name": "Lamiaceae",
+  "parent_name": "Vitex",
   "gbif_id": "2925565",
   "powo_id": "865735-1",
   "iucn_id": "62019863",

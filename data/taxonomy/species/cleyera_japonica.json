@@ -1,8 +1,7 @@
 {
   "name": "Cleyera japonica",
   "authorship": "Thunb.",
-  "genus_name": "Cleyera",
-  "family_name": "Pentaphylacaceae",
+  "parent_name": "Cleyera",
   "gbif_id": "3189627",
   "powo_id": "828636-1",
   "iucn_id": null,

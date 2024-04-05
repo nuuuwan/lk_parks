@@ -1,8 +1,7 @@
 {
   "name": "Elaeocarpus palembanicus",
   "authorship": "(Miq.) Corner",
-  "genus_name": "Elaeocarpus",
-  "family_name": "Elaeocarpaceae",
+  "parent_name": "Elaeocarpus",
   "gbif_id": "7291025",
   "powo_id": "324309-1",
   "iucn_id": null,

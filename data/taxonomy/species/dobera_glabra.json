@@ -1,8 +1,7 @@
 {
   "name": "Dobera glabra",
   "authorship": "(Forssk.) Juss. ex Poir.",
-  "genus_name": "Dobera",
-  "family_name": "Salvadoraceae",
+  "parent_name": "Dobera",
   "gbif_id": "7724878",
   "powo_id": "779320-1",
   "iucn_id": null,

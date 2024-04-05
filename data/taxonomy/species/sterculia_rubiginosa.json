@@ -1,8 +1,7 @@
 {
   "name": "Sterculia rubiginosa",
   "authorship": "Vent.",
-  "genus_name": "Sterculia",
-  "family_name": "Malvaceae",
+  "parent_name": "Sterculia",
   "gbif_id": "8209772",
   "powo_id": "825449-1",
   "iucn_id": null,

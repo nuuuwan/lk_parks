@@ -1,8 +1,7 @@
 {
   "name": "Heliconia rostrata",
   "authorship": "Ruiz & Pav.",
-  "genus_name": "Heliconia",
-  "family_name": "Heliconiaceae",
+  "parent_name": "Heliconia",
   "gbif_id": "2760967",
   "powo_id": "796978-1",
   "iucn_id": null,

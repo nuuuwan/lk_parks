@@ -1,8 +1,7 @@
 {
   "name": "Combretum zeyheri",
   "authorship": "Sond.",
-  "genus_name": "Combretum",
-  "family_name": "Combretaceae",
+  "parent_name": "Combretum",
   "gbif_id": "3698630",
   "powo_id": "170592-1",
   "iucn_id": "146220520",

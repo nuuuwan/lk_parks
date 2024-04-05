@@ -1,8 +1,7 @@
 {
   "name": "Epilobium parviflorum",
   "authorship": "Schreb.",
-  "genus_name": "Epilobium",
-  "family_name": "Onagraceae",
+  "parent_name": "Epilobium",
   "gbif_id": "3189157",
   "powo_id": "612163-1",
   "iucn_id": "164450",

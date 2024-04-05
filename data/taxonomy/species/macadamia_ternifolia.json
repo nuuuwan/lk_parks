@@ -1,8 +1,7 @@
 {
   "name": "Macadamia ternifolia",
   "authorship": "F.Muell.",
-  "genus_name": "Macadamia",
-  "family_name": "Proteaceae",
+  "parent_name": "Macadamia",
   "gbif_id": "8406703",
   "powo_id": "705199-1",
   "iucn_id": "113180135",

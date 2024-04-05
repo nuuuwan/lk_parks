@@ -1,8 +1,7 @@
 {
   "name": "Callisthene fasciculata",
   "authorship": "Mart.",
-  "genus_name": "Callisthene",
-  "family_name": "Vochysiaceae",
+  "parent_name": "Callisthene",
   "gbif_id": "4030442",
   "powo_id": "870827-1",
   "iucn_id": "145582123",

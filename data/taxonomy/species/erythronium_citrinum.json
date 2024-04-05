@@ -1,8 +1,7 @@
 {
   "name": "Erythronium citrinum",
   "authorship": "S.Watson",
-  "genus_name": "Erythronium",
-  "family_name": "Liliaceae",
+  "parent_name": "Erythronium",
   "gbif_id": "2752801",
   "powo_id": "96815-2",
   "iucn_id": null,

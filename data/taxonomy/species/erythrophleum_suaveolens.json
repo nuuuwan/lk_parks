@@ -1,8 +1,7 @@
 {
   "name": "Erythrophleum suaveolens",
   "authorship": "(Guill. & Perr.) Brenan",
-  "genus_name": "Erythrophleum",
-  "family_name": "Fabaceae",
+  "parent_name": "Erythrophleum",
   "gbif_id": "2971196",
   "powo_id": "494641-1",
   "iucn_id": "62025437",

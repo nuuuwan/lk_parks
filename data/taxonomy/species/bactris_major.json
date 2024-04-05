@@ -1,8 +1,7 @@
 {
   "name": "Bactris major",
   "authorship": "Jacq.",
-  "genus_name": "Bactris",
-  "family_name": "Arecaceae",
+  "parent_name": "Bactris",
   "gbif_id": "2733004",
   "powo_id": "664668-1",
   "iucn_id": "55947862",

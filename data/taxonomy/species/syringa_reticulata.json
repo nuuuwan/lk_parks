@@ -1,8 +1,7 @@
 {
   "name": "Syringa reticulata",
   "authorship": "(Blume) H.Hara",
-  "genus_name": "Syringa",
-  "family_name": "Oleaceae",
+  "parent_name": "Syringa",
   "gbif_id": "5415038",
   "powo_id": "611156-1",
   "iucn_id": "72131428",

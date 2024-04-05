@@ -1,8 +1,7 @@
 {
   "name": "Eumachia kappleri",
   "authorship": "(Miq.) Delprete & J.H.Kirkbr.",
-  "genus_name": "Eumachia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Eumachia",
   "gbif_id": "9300793",
   "powo_id": "77154320-1",
   "iucn_id": "192376836",

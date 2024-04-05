@@ -1,8 +1,7 @@
 {
   "name": "Amherstia nobilis",
   "authorship": "Wall.",
-  "genus_name": "Amherstia",
-  "family_name": "Fabaceae",
+  "parent_name": "Amherstia",
   "gbif_id": "2968146",
   "powo_id": "473718-1",
   "iucn_id": null,

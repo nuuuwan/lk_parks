@@ -1,8 +1,7 @@
 {
   "name": "Agrostis mertensii",
   "authorship": "Trin.",
-  "genus_name": "Agrostis",
-  "family_name": "Poaceae",
+  "parent_name": "Agrostis",
   "gbif_id": "2706518",
   "powo_id": "385987-1",
   "iucn_id": null,

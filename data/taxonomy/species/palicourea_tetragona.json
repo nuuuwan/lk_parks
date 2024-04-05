@@ -1,8 +1,7 @@
 {
   "name": "Palicourea tetragona",
   "authorship": "(Donn.Sm.) C.M.Taylor",
-  "genus_name": "Palicourea",
-  "family_name": "Rubiaceae",
+  "parent_name": "Palicourea",
   "gbif_id": "7632925",
   "powo_id": "77112262-1",
   "iucn_id": "146773630",

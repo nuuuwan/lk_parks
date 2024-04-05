@@ -1,8 +1,7 @@
 {
   "name": "Licania membranacea",
   "authorship": "Sagot ex Laness.",
-  "genus_name": "Licania",
-  "family_name": "Chrysobalanaceae",
+  "parent_name": "Licania",
   "gbif_id": "7543239",
   "powo_id": "139830-2",
   "iucn_id": "180055987",

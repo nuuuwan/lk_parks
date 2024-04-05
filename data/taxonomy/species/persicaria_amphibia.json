@@ -1,8 +1,7 @@
 {
   "name": "Persicaria amphibia",
   "authorship": "(L.) Delarbre",
-  "genus_name": "Persicaria",
-  "family_name": "Polygonaceae",
+  "parent_name": "Persicaria",
   "gbif_id": "7745768",
   "powo_id": "30193627-2",
   "iucn_id": "184425",

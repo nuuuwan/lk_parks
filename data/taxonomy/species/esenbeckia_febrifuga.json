@@ -1,8 +1,7 @@
 {
   "name": "Esenbeckia febrifuga",
   "authorship": "(A.St.-Hil.) A.Juss. ex Mart.",
-  "genus_name": "Esenbeckia",
-  "family_name": "Rutaceae",
+  "parent_name": "Esenbeckia",
   "gbif_id": "8354126",
   "powo_id": "772831-1",
   "iucn_id": null,

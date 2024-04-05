@@ -1,8 +1,7 @@
 {
   "name": "Euphorbia stygiana",
   "authorship": "H.C.Watson",
-  "genus_name": "Euphorbia",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Euphorbia",
   "gbif_id": "3069679",
   "powo_id": "348380-1",
   "iucn_id": null,

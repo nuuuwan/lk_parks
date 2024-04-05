@@ -1,8 +1,7 @@
 {
   "name": "Helicteres isora",
   "authorship": "L.",
-  "genus_name": "Helicteres",
-  "family_name": "Malvaceae",
+  "parent_name": "Helicteres",
   "gbif_id": "5546922",
   "powo_id": "321222-2",
   "iucn_id": null,

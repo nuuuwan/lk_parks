@@ -1,8 +1,7 @@
 {
   "name": "Cyperus richardii",
   "authorship": "Steud.",
-  "genus_name": "Cyperus",
-  "family_name": "Cyperaceae",
+  "parent_name": "Cyperus",
   "gbif_id": "2718873",
   "powo_id": "305776-1",
   "iucn_id": null,

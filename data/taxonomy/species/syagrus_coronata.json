@@ -1,8 +1,7 @@
 {
   "name": "Syagrus coronata",
   "authorship": "(Mart.) Becc.",
-  "genus_name": "Syagrus",
-  "family_name": "Arecaceae",
+  "parent_name": "Syagrus",
   "gbif_id": "5293875",
   "powo_id": "246926-2",
   "iucn_id": "148757800",

@@ -1,8 +1,7 @@
 {
   "name": "Oenothera gaura",
   "authorship": "W.L.Wagner & Hoch",
-  "genus_name": "Oenothera",
-  "family_name": "Onagraceae",
+  "parent_name": "Oenothera",
   "gbif_id": "3666302",
   "powo_id": "77092907-1",
   "iucn_id": null,

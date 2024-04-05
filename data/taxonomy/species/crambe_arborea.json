@@ -1,8 +1,7 @@
 {
   "name": "Crambe arborea",
   "authorship": "Webb ex Christ",
-  "genus_name": "Crambe",
-  "family_name": "Brassicaceae",
+  "parent_name": "Crambe",
   "gbif_id": "5373530",
   "powo_id": "281616-1",
   "iucn_id": "162011",

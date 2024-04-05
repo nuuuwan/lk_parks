@@ -1,8 +1,7 @@
 {
   "name": "Lysimachia punctata",
   "authorship": "L.",
-  "genus_name": "Lysimachia",
-  "family_name": "Primulaceae",
+  "parent_name": "Lysimachia",
   "gbif_id": "3169340",
   "powo_id": "701308-1",
   "iucn_id": "19619934",

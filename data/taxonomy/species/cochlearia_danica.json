@@ -1,8 +1,7 @@
 {
   "name": "Cochlearia danica",
   "authorship": "L.",
-  "genus_name": "Cochlearia",
-  "family_name": "Brassicaceae",
+  "parent_name": "Cochlearia",
   "gbif_id": "5373254",
   "powo_id": "281414-1",
   "iucn_id": null,

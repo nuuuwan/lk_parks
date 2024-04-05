@@ -1,8 +1,7 @@
 {
   "name": "Machaerium hirtum",
   "authorship": "(Vell.) Stellfeld",
-  "genus_name": "Machaerium",
-  "family_name": "Fabaceae",
+  "parent_name": "Machaerium",
   "gbif_id": "5354979",
   "powo_id": "148536-2",
   "iucn_id": "158457746",

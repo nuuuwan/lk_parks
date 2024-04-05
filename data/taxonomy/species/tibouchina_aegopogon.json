@@ -1,8 +1,7 @@
 {
   "name": "Tibouchina aegopogon",
   "authorship": "(Naudin) Cogn.",
-  "genus_name": "Tibouchina",
-  "family_name": "Melastomataceae",
+  "parent_name": "Tibouchina",
   "gbif_id": "3864480",
   "powo_id": "576204-1",
   "iucn_id": null,

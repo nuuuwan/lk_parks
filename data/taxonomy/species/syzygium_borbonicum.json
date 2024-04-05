@@ -1,8 +1,7 @@
 {
   "name": "Syzygium borbonicum",
   "authorship": "J.Gu\u00e9ho & A.J.Scott",
-  "genus_name": "Syzygium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syzygium",
   "gbif_id": "3184107",
   "powo_id": "601460-1",
   "iucn_id": null,

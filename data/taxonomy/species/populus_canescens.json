@@ -1,8 +1,7 @@
 {
   "name": "Populus canescens",
   "authorship": "(Aiton) Sm.",
-  "genus_name": "Populus",
-  "family_name": "Salicaceae",
+  "parent_name": "Populus",
   "gbif_id": "3040185",
   "powo_id": "776626-1",
   "iucn_id": null,

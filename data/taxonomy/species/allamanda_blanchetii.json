@@ -1,8 +1,7 @@
 {
   "name": "Allamanda blanchetii",
   "authorship": "A.DC.",
-  "genus_name": "Allamanda",
-  "family_name": "Apocynaceae",
+  "parent_name": "Allamanda",
   "gbif_id": "3169835",
   "powo_id": "76468-1",
   "iucn_id": null,

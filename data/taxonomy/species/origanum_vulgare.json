@@ -1,8 +1,7 @@
 {
   "name": "Origanum vulgare",
   "authorship": "L.",
-  "genus_name": "Origanum",
-  "family_name": "Lamiaceae",
+  "parent_name": "Origanum",
   "gbif_id": "2926612",
   "powo_id": "453395-1",
   "iucn_id": null,

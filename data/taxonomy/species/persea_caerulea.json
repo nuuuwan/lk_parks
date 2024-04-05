@@ -1,8 +1,7 @@
 {
   "name": "Persea caerulea",
   "authorship": "(Ruiz & Pav.) Mez",
-  "genus_name": "Persea",
-  "family_name": "Lauraceae",
+  "parent_name": "Persea",
   "gbif_id": "4175764",
   "powo_id": "190613-2",
   "iucn_id": "101316378",

@@ -1,8 +1,7 @@
 {
   "name": "Hymenaea stigonocarpa",
   "authorship": "Mart. ex Hayne",
-  "genus_name": "Hymenaea",
-  "family_name": "Fabaceae",
+  "parent_name": "Hymenaea",
   "gbif_id": "2950722",
   "powo_id": "498809-1",
   "iucn_id": "158457683",

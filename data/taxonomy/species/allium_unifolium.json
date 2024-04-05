@@ -1,8 +1,7 @@
 {
   "name": "Allium unifolium",
   "authorship": "Kellogg",
-  "genus_name": "Allium",
-  "family_name": "Amaryllidaceae",
+  "parent_name": "Allium",
   "gbif_id": "2857829",
   "powo_id": "529083-1",
   "iucn_id": null,

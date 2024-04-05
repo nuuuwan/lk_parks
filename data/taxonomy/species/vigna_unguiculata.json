@@ -1,8 +1,7 @@
 {
   "name": "Vigna unguiculata",
   "authorship": "(L.) Walp.",
-  "genus_name": "Vigna",
-  "family_name": "Fabaceae",
+  "parent_name": "Vigna",
   "gbif_id": "2982583",
   "powo_id": "1127257-2",
   "iucn_id": null,

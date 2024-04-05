@@ -1,8 +1,7 @@
 {
   "name": "Epimedium youngianum",
   "authorship": "Fisch. & C.A.Mey.",
-  "genus_name": "Epimedium",
-  "family_name": "Berberidaceae",
+  "parent_name": "Epimedium",
   "gbif_id": "3033909",
   "powo_id": "107329-1",
   "iucn_id": null,

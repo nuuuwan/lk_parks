@@ -1,8 +1,7 @@
 {
   "name": "Araucaria angustifolia",
   "authorship": "(Bertol.) Kuntze",
-  "genus_name": "Araucaria",
-  "family_name": "Araucariaceae",
+  "parent_name": "Araucaria",
   "gbif_id": "2684940",
   "powo_id": "17518-2",
   "iucn_id": "32975",

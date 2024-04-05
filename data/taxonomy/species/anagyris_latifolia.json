@@ -1,8 +1,7 @@
 {
   "name": "Anagyris latifolia",
   "authorship": "Brouss. ex Willd.",
-  "genus_name": "Anagyris",
-  "family_name": "Fabaceae",
+  "parent_name": "Anagyris",
   "gbif_id": "3965840",
   "powo_id": "473974-1",
   "iucn_id": "162354",

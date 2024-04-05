@@ -1,8 +1,7 @@
 {
   "name": "Forsteronia spicata",
   "authorship": "(Jacq.) G.Mey.",
-  "genus_name": "Forsteronia",
-  "family_name": "Apocynaceae",
+  "parent_name": "Forsteronia",
   "gbif_id": "3617254",
   "powo_id": "79089-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Virgilia oroboides",
   "authorship": "(P.J.Bergius) T.M.Salter",
-  "genus_name": "Virgilia",
-  "family_name": "Fabaceae",
+  "parent_name": "Virgilia",
   "gbif_id": "5350554",
   "powo_id": "525587-1",
   "iucn_id": "147141131",

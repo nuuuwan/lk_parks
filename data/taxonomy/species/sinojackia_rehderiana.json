@@ -1,8 +1,7 @@
 {
   "name": "Sinojackia rehderiana",
   "authorship": "Hu",
-  "genus_name": "Sinojackia",
-  "family_name": "Styracaceae",
+  "parent_name": "Sinojackia",
   "gbif_id": "3647201",
   "powo_id": "826671-1",
   "iucn_id": null,

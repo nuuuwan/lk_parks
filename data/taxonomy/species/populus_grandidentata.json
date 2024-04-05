@@ -1,8 +1,7 @@
 {
   "name": "Populus grandidentata",
   "authorship": "Michx.",
-  "genus_name": "Populus",
-  "family_name": "Salicaceae",
+  "parent_name": "Populus",
   "gbif_id": "3040210",
   "powo_id": "208297-2",
   "iucn_id": "61959841",

@@ -1,8 +1,7 @@
 {
   "name": "Ardisia elliptica",
   "authorship": "Thunb.",
-  "genus_name": "Ardisia",
-  "family_name": "Primulaceae",
+  "parent_name": "Ardisia",
   "gbif_id": "5414375",
   "powo_id": "586971-1",
   "iucn_id": null,

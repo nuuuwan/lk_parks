@@ -1,8 +1,7 @@
 {
   "name": "Ostrya carpinifolia",
   "authorship": "Scop.",
-  "genus_name": "Ostrya",
-  "family_name": "Betulaceae",
+  "parent_name": "Ostrya",
   "gbif_id": "5332305",
   "powo_id": "295664-1",
   "iucn_id": "194280",

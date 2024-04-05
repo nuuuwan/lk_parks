@@ -1,8 +1,7 @@
 {
   "name": "Tetrapterys mucronata",
   "authorship": "Cav.",
-  "genus_name": "Tetrapterys",
-  "family_name": "Malpighiaceae",
+  "parent_name": "Tetrapterys",
   "gbif_id": "7285474",
   "powo_id": "557733-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Pouteria campechiana",
   "authorship": "(Kunth) Baehni",
-  "genus_name": "Pouteria",
-  "family_name": "Sapotaceae",
+  "parent_name": "Pouteria",
   "gbif_id": "2884309",
   "powo_id": "209714-2",
   "iucn_id": "146704277",

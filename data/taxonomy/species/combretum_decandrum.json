@@ -1,8 +1,7 @@
 {
   "name": "Combretum decandrum",
   "authorship": "Jacq.",
-  "genus_name": "Combretum",
-  "family_name": "Combretaceae",
+  "parent_name": "Combretum",
   "gbif_id": "3699211",
   "powo_id": "170030-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Enkianthus campanulatus",
   "authorship": "(Miq.) G.Nicholson",
-  "genus_name": "Enkianthus",
-  "family_name": "Ericaceae",
+  "parent_name": "Enkianthus",
   "gbif_id": "7135609",
   "powo_id": "328063-1",
   "iucn_id": "143486373",

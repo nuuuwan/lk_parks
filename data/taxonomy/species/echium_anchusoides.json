@@ -1,8 +1,7 @@
 {
   "name": "Echium anchusoides",
   "authorship": "Bacch., Brullo & Selvi",
-  "genus_name": "Echium",
-  "family_name": "Boraginaceae",
+  "parent_name": "Echium",
   "gbif_id": "4059902",
   "powo_id": "1016171-1",
   "iucn_id": null,

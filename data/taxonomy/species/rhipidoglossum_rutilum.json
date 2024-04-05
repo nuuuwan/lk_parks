@@ -1,8 +1,7 @@
 {
   "name": "Rhipidoglossum rutilum",
   "authorship": "(Rchb.f.) Schltr.",
-  "genus_name": "Rhipidoglossum",
-  "family_name": "Orchidaceae",
+  "parent_name": "Rhipidoglossum",
   "gbif_id": "2838076",
   "powo_id": "655661-1",
   "iucn_id": null,

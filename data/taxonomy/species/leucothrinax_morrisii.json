@@ -1,8 +1,7 @@
 {
   "name": "Leucothrinax morrisii",
   "authorship": "(H.Wendl.) C.Lewis & Zona",
-  "genus_name": "Leucothrinax",
-  "family_name": "Arecaceae",
+  "parent_name": "Leucothrinax",
   "gbif_id": "2731966",
   "powo_id": "60448302-2",
   "iucn_id": "201643",

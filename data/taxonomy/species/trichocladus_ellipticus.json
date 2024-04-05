@@ -1,8 +1,7 @@
 {
   "name": "Trichocladus ellipticus",
   "authorship": "Eckl. & Zeyh.",
-  "genus_name": "Trichocladus",
-  "family_name": "Hamamelidaceae",
+  "parent_name": "Trichocladus",
   "gbif_id": "3702682",
   "powo_id": "430783-1",
   "iucn_id": "146300478",

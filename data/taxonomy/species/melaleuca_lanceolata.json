@@ -1,8 +1,7 @@
 {
   "name": "Melaleuca lanceolata",
   "authorship": "Otto",
-  "genus_name": "Melaleuca",
-  "family_name": "Myrtaceae",
+  "parent_name": "Melaleuca",
   "gbif_id": "5415775",
   "powo_id": "597986-1",
   "iucn_id": "177373054",

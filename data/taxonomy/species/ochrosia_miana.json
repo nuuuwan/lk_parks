@@ -1,8 +1,7 @@
 {
   "name": "Ochrosia miana",
   "authorship": "Baill. ex Guillaumin",
-  "genus_name": "Ochrosia",
-  "family_name": "Apocynaceae",
+  "parent_name": "Ochrosia",
   "gbif_id": "3617689",
   "powo_id": "80524-1",
   "iucn_id": null,

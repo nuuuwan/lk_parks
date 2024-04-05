@@ -1,8 +1,7 @@
 {
   "name": "Echium bonnetii",
   "authorship": "Coincy",
-  "genus_name": "Echium",
-  "family_name": "Boraginaceae",
+  "parent_name": "Echium",
   "gbif_id": "7294582",
   "powo_id": "115579-1",
   "iucn_id": null,

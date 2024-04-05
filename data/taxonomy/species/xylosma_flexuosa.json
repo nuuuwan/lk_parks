@@ -1,8 +1,7 @@
 {
   "name": "Xylosma flexuosa",
   "authorship": "(Kunth) Hemsl.",
-  "genus_name": "Xylosma",
-  "family_name": "Salicaceae",
+  "parent_name": "Xylosma",
   "gbif_id": "2874119",
   "powo_id": "112138-1",
   "iucn_id": "136778520",

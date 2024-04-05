@@ -1,8 +1,7 @@
 {
   "name": "Bunchosia glandulifera",
   "authorship": "(Jacq.) Kunth",
-  "genus_name": "Bunchosia",
-  "family_name": "Malpighiaceae",
+  "parent_name": "Bunchosia",
   "gbif_id": "3191336",
   "powo_id": "555908-1",
   "iucn_id": "179277756",

@@ -1,8 +1,7 @@
 {
   "name": "Psidium friedrichsthalianum",
   "authorship": "(O.Berg) Nied.",
-  "genus_name": "Psidium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Psidium",
   "gbif_id": "5420358",
   "powo_id": "211742-2",
   "iucn_id": "146774039",

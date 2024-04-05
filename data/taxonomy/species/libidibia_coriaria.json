@@ -1,8 +1,7 @@
 {
   "name": "Libidibia coriaria",
   "authorship": "(Jacq.) Schltdl.",
-  "genus_name": "Libidibia",
-  "family_name": "Fabaceae",
+  "parent_name": "Libidibia",
   "gbif_id": "2958707",
   "powo_id": "1010207-2",
   "iucn_id": "144303930",

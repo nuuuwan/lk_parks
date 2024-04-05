@@ -1,8 +1,7 @@
 {
   "name": "Vriesea friburgensis",
   "authorship": "Mez",
-  "genus_name": "Vriesea",
-  "family_name": "Bromeliaceae",
+  "parent_name": "Vriesea",
   "gbif_id": "5289209",
   "powo_id": "266628-2",
   "iucn_id": null,

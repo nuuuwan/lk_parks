@@ -1,8 +1,7 @@
 {
   "name": "Casearia tacanensis",
   "authorship": "Lundell",
-  "genus_name": "Casearia",
-  "family_name": "Salicaceae",
+  "parent_name": "Casearia",
   "gbif_id": "8423811",
   "powo_id": "48106-2",
   "iucn_id": "176009495",

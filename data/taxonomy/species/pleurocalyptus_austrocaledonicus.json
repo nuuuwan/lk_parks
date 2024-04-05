@@ -1,8 +1,7 @@
 {
   "name": "Pleurocalyptus austrocaledonicus",
   "authorship": "(Guillaumin) J.W.Dawson",
-  "genus_name": "Pleurocalyptus",
-  "family_name": "Myrtaceae",
+  "parent_name": "Pleurocalyptus",
   "gbif_id": "3180729",
   "powo_id": "969596-1",
   "iucn_id": "171133581",

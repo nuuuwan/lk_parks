@@ -1,8 +1,7 @@
 {
   "name": "Pittosporum heterophyllum",
   "authorship": "Franch.",
-  "genus_name": "Pittosporum",
-  "family_name": "Pittosporaceae",
+  "parent_name": "Pittosporum",
   "gbif_id": "4162138",
   "powo_id": "684498-1",
   "iucn_id": null,

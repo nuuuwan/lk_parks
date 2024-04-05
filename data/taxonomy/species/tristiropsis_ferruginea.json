@@ -1,8 +1,7 @@
 {
   "name": "Tristiropsis ferruginea",
   "authorship": "Leenh.",
-  "genus_name": "Tristiropsis",
-  "family_name": "Sapindaceae",
+  "parent_name": "Tristiropsis",
   "gbif_id": "3785981",
   "powo_id": "785534-1",
   "iucn_id": null,

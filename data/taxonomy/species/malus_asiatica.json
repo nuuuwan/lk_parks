@@ -1,8 +1,7 @@
 {
   "name": "Malus asiatica",
   "authorship": "Nakai",
-  "genus_name": "Malus",
-  "family_name": "Rosaceae",
+  "parent_name": "Malus",
   "gbif_id": "3001132",
   "powo_id": "726239-1",
   "iucn_id": "18770855",

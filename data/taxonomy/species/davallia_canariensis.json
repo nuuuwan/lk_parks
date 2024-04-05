@@ -1,8 +1,7 @@
 {
   "name": "Davallia canariensis",
   "authorship": "(L.) Sm.",
-  "genus_name": "Davallia",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Davallia",
   "gbif_id": "4204692",
   "powo_id": "17078300-1",
   "iucn_id": null,

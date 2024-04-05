@@ -1,8 +1,7 @@
 {
   "name": "Excoecaria agallocha",
   "authorship": "L.",
-  "genus_name": "Excoecaria",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Excoecaria",
   "gbif_id": "3071702",
   "powo_id": "348815-1",
   "iucn_id": "178842",

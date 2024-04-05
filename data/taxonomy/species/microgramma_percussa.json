@@ -1,8 +1,7 @@
 {
   "name": "Microgramma percussa",
   "authorship": "(Cav.) de la Sota",
-  "genus_name": "Microgramma",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Microgramma",
   "gbif_id": "4026062",
   "powo_id": "17546710-1",
   "iucn_id": null,

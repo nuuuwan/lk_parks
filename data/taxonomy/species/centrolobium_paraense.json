@@ -1,8 +1,7 @@
 {
   "name": "Centrolobium paraense",
   "authorship": "Tul.",
-  "genus_name": "Centrolobium",
-  "family_name": "Fabaceae",
+  "parent_name": "Centrolobium",
   "gbif_id": "2945579",
   "powo_id": "485534-1",
   "iucn_id": "62021645",

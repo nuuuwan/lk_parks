@@ -1,8 +1,7 @@
 {
   "name": "Cyrtopodium parviflorum",
   "authorship": "Lindl.",
-  "genus_name": "Cyrtopodium",
-  "family_name": "Orchidaceae",
+  "parent_name": "Cyrtopodium",
   "gbif_id": "5319583",
   "powo_id": "323814-2",
   "iucn_id": null,

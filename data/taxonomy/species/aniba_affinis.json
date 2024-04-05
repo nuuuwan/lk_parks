@@ -1,8 +1,7 @@
 {
   "name": "Aniba affinis",
   "authorship": "(Meisn.) Mez",
-  "genus_name": "Aniba",
-  "family_name": "Lauraceae",
+  "parent_name": "Aniba",
   "gbif_id": "4181816",
   "powo_id": "13808-2",
   "iucn_id": "143750143",

@@ -1,8 +1,7 @@
 {
   "name": "Mansoa alliacea",
   "authorship": "(Lam.) A.H.Gentry",
-  "genus_name": "Mansoa",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Mansoa",
   "gbif_id": "3172603",
   "powo_id": "152672-2",
   "iucn_id": null,

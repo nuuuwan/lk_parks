@@ -1,8 +1,7 @@
 {
   "name": "Carex curvula",
   "authorship": "All.",
-  "genus_name": "Carex",
-  "family_name": "Cyperaceae",
+  "parent_name": "Carex",
   "gbif_id": "2722112",
   "powo_id": "299351-1",
   "iucn_id": null,

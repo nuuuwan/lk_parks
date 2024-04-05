@@ -1,8 +1,7 @@
 {
   "name": "Chaenactis stevioides",
   "authorship": "Hook. & Arn.",
-  "genus_name": "Chaenactis",
-  "family_name": "Asteraceae",
+  "parent_name": "Chaenactis",
   "gbif_id": "3114835",
   "powo_id": "192264-1",
   "iucn_id": null,

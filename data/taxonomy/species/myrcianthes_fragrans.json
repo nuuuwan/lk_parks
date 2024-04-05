@@ -1,8 +1,7 @@
 {
   "name": "Myrcianthes fragrans",
   "authorship": "(Sw.) McVaugh",
-  "genus_name": "Myrcianthes",
-  "family_name": "Myrtaceae",
+  "parent_name": "Myrcianthes",
   "gbif_id": "3188228",
   "powo_id": "166091-2",
   "iucn_id": "129105140",

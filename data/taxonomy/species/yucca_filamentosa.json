@@ -1,8 +1,7 @@
 {
   "name": "Yucca filamentosa",
   "authorship": "L.",
-  "genus_name": "Yucca",
-  "family_name": "Asparagaceae",
+  "parent_name": "Yucca",
   "gbif_id": "2775561",
   "powo_id": "325008-2",
   "iucn_id": "117427949",

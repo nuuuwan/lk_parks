@@ -1,8 +1,7 @@
 {
   "name": "Hibiscus acetosella",
   "authorship": "Welw. ex Hiern",
-  "genus_name": "Hibiscus",
-  "family_name": "Malvaceae",
+  "parent_name": "Hibiscus",
   "gbif_id": "3152551",
   "powo_id": "559896-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Calpurnia aurea",
   "authorship": "(Aiton) Benth.",
-  "genus_name": "Calpurnia",
-  "family_name": "Fabaceae",
+  "parent_name": "Calpurnia",
   "gbif_id": "2956417",
   "powo_id": "907827-1",
   "iucn_id": "146445186",

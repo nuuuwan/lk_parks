@@ -1,8 +1,7 @@
 {
   "name": "Strobilanthes alternata",
   "authorship": "(Burm.f.) Moylan ex J.R.I.Wood",
-  "genus_name": "Strobilanthes",
-  "family_name": "Acanthaceae",
+  "parent_name": "Strobilanthes",
   "gbif_id": "8297383",
   "powo_id": "77147688-1",
   "iucn_id": null,

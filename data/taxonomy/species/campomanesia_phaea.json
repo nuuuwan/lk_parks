@@ -1,8 +1,7 @@
 {
   "name": "Campomanesia phaea",
   "authorship": "(O.Berg) Landrum",
-  "genus_name": "Campomanesia",
-  "family_name": "Myrtaceae",
+  "parent_name": "Campomanesia",
   "gbif_id": "3181127",
   "powo_id": "913775-1",
   "iucn_id": "35332",

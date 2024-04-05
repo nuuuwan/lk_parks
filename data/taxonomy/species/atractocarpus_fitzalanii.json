@@ -1,8 +1,7 @@
 {
   "name": "Atractocarpus fitzalanii",
   "authorship": "(F.Muell.) Puttock",
-  "genus_name": "Atractocarpus",
-  "family_name": "Rubiaceae",
+  "parent_name": "Atractocarpus",
   "gbif_id": "2898527",
   "powo_id": "1008720-1",
   "iucn_id": "192498222",

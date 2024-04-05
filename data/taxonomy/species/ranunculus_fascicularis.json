@@ -1,8 +1,7 @@
 {
   "name": "Ranunculus fascicularis",
   "authorship": "Muhl. ex Bigelow",
-  "genus_name": "Ranunculus",
-  "family_name": "Ranunculaceae",
+  "parent_name": "Ranunculus",
   "gbif_id": "3033336",
   "powo_id": "712688-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Galphimia glauca",
   "authorship": "Cav.",
-  "genus_name": "Galphimia",
-  "family_name": "Malpighiaceae",
+  "parent_name": "Galphimia",
   "gbif_id": "7122389",
   "powo_id": "556347-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Aristolochia grandiflora",
   "authorship": "Sw.",
-  "genus_name": "Aristolochia",
-  "family_name": "Aristolochiaceae",
+  "parent_name": "Aristolochia",
   "gbif_id": "2874014",
   "powo_id": "92978-1",
   "iucn_id": null,

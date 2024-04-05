@@ -1,8 +1,7 @@
 {
   "name": "Campanula alliariifolia",
   "authorship": "Willd.",
-  "genus_name": "Campanula",
-  "family_name": "Campanulaceae",
+  "parent_name": "Campanula",
   "gbif_id": "5410181",
   "powo_id": "139873-1",
   "iucn_id": null,

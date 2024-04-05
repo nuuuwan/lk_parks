@@ -1,8 +1,7 @@
 {
   "name": "Sycopsis sinensis",
   "authorship": "Oliv.",
-  "genus_name": "Sycopsis",
-  "family_name": "Hamamelidaceae",
+  "parent_name": "Sycopsis",
   "gbif_id": "7329115",
   "powo_id": "430773-1",
   "iucn_id": "147377444",

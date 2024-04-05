@@ -1,8 +1,7 @@
 {
   "name": "Canavalia ensiformis",
   "authorship": "(L.) DC.",
-  "genus_name": "Canavalia",
-  "family_name": "Fabaceae",
+  "parent_name": "Canavalia",
   "gbif_id": "7799711",
   "powo_id": "1209500-2",
   "iucn_id": null,

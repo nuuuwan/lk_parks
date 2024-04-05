@@ -1,8 +1,7 @@
 {
   "name": "Onobrychis arenaria",
   "authorship": "(Kit.) DC.",
-  "genus_name": "Onobrychis",
-  "family_name": "Fabaceae",
+  "parent_name": "Onobrychis",
   "gbif_id": "2972841",
   "powo_id": "509840-1",
   "iucn_id": null,

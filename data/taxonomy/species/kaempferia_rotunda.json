@@ -1,8 +1,7 @@
 {
   "name": "Kaempferia rotunda",
   "authorship": "L.",
-  "genus_name": "Kaempferia",
-  "family_name": "Zingiberaceae",
+  "parent_name": "Kaempferia",
   "gbif_id": "5301445",
   "powo_id": "797203-1",
   "iucn_id": null,

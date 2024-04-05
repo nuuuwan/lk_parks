@@ -1,8 +1,7 @@
 {
   "name": "Smilax neocaledonica",
   "authorship": "Schltr.",
-  "genus_name": "Smilax",
-  "family_name": "Smilacaceae",
+  "parent_name": "Smilax",
   "gbif_id": "5295738",
   "powo_id": "541666-1",
   "iucn_id": null,

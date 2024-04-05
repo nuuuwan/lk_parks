@@ -1,8 +1,7 @@
 {
   "name": "Hovenia dulcis",
   "authorship": "Thunb.",
-  "genus_name": "Hovenia",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Hovenia",
   "gbif_id": "3039410",
   "powo_id": "717558-1",
   "iucn_id": "147482976",

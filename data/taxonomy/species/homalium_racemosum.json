@@ -1,8 +1,7 @@
 {
   "name": "Homalium racemosum",
   "authorship": "Jacq.",
-  "genus_name": "Homalium",
-  "family_name": "Salicaceae",
+  "parent_name": "Homalium",
   "gbif_id": "5331157",
   "powo_id": "779849-1",
   "iucn_id": "150102919",

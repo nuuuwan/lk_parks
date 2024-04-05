@@ -1,8 +1,7 @@
 {
   "name": "Griffitharia hemsleyi",
   "authorship": "(C.K.Schneid.) Rushforth",
-  "genus_name": "Griffitharia",
-  "family_name": "Rosaceae",
+  "parent_name": "Griffitharia",
   "gbif_id": "10751193",
   "powo_id": "77208624-1",
   "iucn_id": null,

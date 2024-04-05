@@ -1,8 +1,7 @@
 {
   "name": "Commelina benghalensis",
   "authorship": "L.",
-  "genus_name": "Commelina",
-  "family_name": "Commelinaceae",
+  "parent_name": "Commelina",
   "gbif_id": "2763941",
   "powo_id": "332090-2",
   "iucn_id": "177240",

@@ -1,8 +1,7 @@
 {
   "name": "Peronema canescens",
   "authorship": "Jack",
-  "genus_name": "Peronema",
-  "family_name": "Lamiaceae",
+  "parent_name": "Peronema",
   "gbif_id": "3889106",
   "powo_id": "863995-1",
   "iucn_id": "62019821",

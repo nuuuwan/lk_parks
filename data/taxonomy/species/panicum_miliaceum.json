@@ -1,8 +1,7 @@
 {
   "name": "Panicum miliaceum",
   "authorship": "L.",
-  "genus_name": "Panicum",
-  "family_name": "Poaceae",
+  "parent_name": "Panicum",
   "gbif_id": "2705090",
   "powo_id": "412217-1",
   "iucn_id": null,

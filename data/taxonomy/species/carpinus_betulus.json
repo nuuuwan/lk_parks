@@ -1,8 +1,7 @@
 {
   "name": "Carpinus betulus",
   "authorship": "L.",
-  "genus_name": "Carpinus",
-  "family_name": "Betulaceae",
+  "parent_name": "Carpinus",
   "gbif_id": "2875818",
   "powo_id": "295248-1",
   "iucn_id": "194274",

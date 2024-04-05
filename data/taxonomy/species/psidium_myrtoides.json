@@ -1,8 +1,7 @@
 {
   "name": "Psidium myrtoides",
   "authorship": "O.Berg",
-  "genus_name": "Psidium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Psidium",
   "gbif_id": "5420613",
   "powo_id": "600934-1",
   "iucn_id": "191141577",

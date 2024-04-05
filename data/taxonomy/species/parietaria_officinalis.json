@@ -1,8 +1,7 @@
 {
   "name": "Parietaria officinalis",
   "authorship": "L.",
-  "genus_name": "Parietaria",
-  "family_name": "Urticaceae",
+  "parent_name": "Parietaria",
   "gbif_id": "5361803",
   "powo_id": "854958-1",
   "iucn_id": null,

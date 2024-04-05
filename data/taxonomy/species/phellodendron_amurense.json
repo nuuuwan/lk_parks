@@ -1,8 +1,7 @@
 {
   "name": "Phellodendron amurense",
   "authorship": "Rupr.",
-  "genus_name": "Phellodendron",
-  "family_name": "Rutaceae",
+  "parent_name": "Phellodendron",
   "gbif_id": "3190154",
   "powo_id": "774774-1",
   "iucn_id": null,

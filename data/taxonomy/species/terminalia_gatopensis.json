@@ -1,8 +1,7 @@
 {
   "name": "Terminalia gatopensis",
   "authorship": "Guillaumin",
-  "genus_name": "Terminalia",
-  "family_name": "Combretaceae",
+  "parent_name": "Terminalia",
   "gbif_id": "3699247",
   "powo_id": "171128-1",
   "iucn_id": null,

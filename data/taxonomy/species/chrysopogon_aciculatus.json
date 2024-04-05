@@ -1,8 +1,7 @@
 {
   "name": "Chrysopogon aciculatus",
   "authorship": "(Retz.) Trin.",
-  "genus_name": "Chrysopogon",
-  "family_name": "Poaceae",
+  "parent_name": "Chrysopogon",
   "gbif_id": "5290133",
   "powo_id": "396110-1",
   "iucn_id": null,

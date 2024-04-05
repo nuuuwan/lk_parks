@@ -1,8 +1,7 @@
 {
   "name": "Schoepfia schreberi",
   "authorship": "J.F.Gmel.",
-  "genus_name": "Schoepfia",
-  "family_name": "Schoepfiaceae",
+  "parent_name": "Schoepfia",
   "gbif_id": "9390953",
   "powo_id": "608391-1",
   "iucn_id": "156771369",

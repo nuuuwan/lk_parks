@@ -1,8 +1,7 @@
 {
   "name": "Sporobolus alterniflorus",
   "authorship": "(Loisel.) P.M.Peterson & Saarela",
-  "genus_name": "Sporobolus",
-  "family_name": "Poaceae",
+  "parent_name": "Sporobolus",
   "gbif_id": "9394776",
   "powo_id": "77144694-1",
   "iucn_id": null,

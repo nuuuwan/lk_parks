@@ -1,8 +1,7 @@
 {
   "name": "Solanum torvum",
   "authorship": "Sw.",
-  "genus_name": "Solanum",
-  "family_name": "Solanaceae",
+  "parent_name": "Solanum",
   "gbif_id": "2932389",
   "powo_id": "821287-1",
   "iucn_id": null,

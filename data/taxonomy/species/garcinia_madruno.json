@@ -1,8 +1,7 @@
 {
   "name": "Garcinia madruno",
   "authorship": "(Kunth) Hammel",
-  "genus_name": "Garcinia",
-  "family_name": "Clusiaceae",
+  "parent_name": "Garcinia",
   "gbif_id": "3713863",
   "powo_id": "277321-2",
   "iucn_id": "176097685",

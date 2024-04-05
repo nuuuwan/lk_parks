@@ -1,8 +1,7 @@
 {
   "name": "Polypogon viridis",
   "authorship": "(Gouan) Breistr.",
-  "genus_name": "Polypogon",
-  "family_name": "Poaceae",
+  "parent_name": "Polypogon",
   "gbif_id": "5289919",
   "powo_id": "418741-1",
   "iucn_id": "164337",

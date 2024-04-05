@@ -1,8 +1,7 @@
 {
   "name": "Carex platyphylla",
   "authorship": "J.Carey",
-  "genus_name": "Carex",
-  "family_name": "Cyperaceae",
+  "parent_name": "Carex",
   "gbif_id": "2723827",
   "powo_id": "301615-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Vigna luteola",
   "authorship": "(Jacq.) Benth.",
-  "genus_name": "Vigna",
-  "family_name": "Fabaceae",
+  "parent_name": "Vigna",
   "gbif_id": "2982573",
   "powo_id": "525419-1",
   "iucn_id": "170450",

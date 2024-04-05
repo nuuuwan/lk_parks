@@ -1,8 +1,7 @@
 {
   "name": "Prunus subhirtella",
   "authorship": "Miq.",
-  "genus_name": "Prunus",
-  "family_name": "Rosaceae",
+  "parent_name": "Prunus",
   "gbif_id": "3021229",
   "powo_id": "730318-1",
   "iucn_id": null,

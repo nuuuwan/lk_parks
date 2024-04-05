@@ -1,8 +1,7 @@
 {
   "name": "Berberis japonica",
   "authorship": "(Thunb.) Spreng.",
-  "genus_name": "Berberis",
-  "family_name": "Berberidaceae",
+  "parent_name": "Berberis",
   "gbif_id": "9571344",
   "powo_id": "106792-1",
   "iucn_id": null,

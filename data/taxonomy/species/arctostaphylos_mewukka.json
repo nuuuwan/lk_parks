@@ -1,8 +1,7 @@
 {
   "name": "Arctostaphylos mewukka",
   "authorship": "Merriam",
-  "genus_name": "Arctostaphylos",
-  "family_name": "Ericaceae",
+  "parent_name": "Arctostaphylos",
   "gbif_id": "2882536",
   "powo_id": "17838-2",
   "iucn_id": null,

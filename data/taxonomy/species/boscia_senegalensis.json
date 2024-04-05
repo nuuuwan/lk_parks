@@ -1,8 +1,7 @@
 {
   "name": "Boscia senegalensis",
   "authorship": "Lam.",
-  "genus_name": "Boscia",
-  "family_name": "Capparaceae",
+  "parent_name": "Boscia",
   "gbif_id": "5377842",
   "powo_id": "146142-1",
   "iucn_id": "166548199",

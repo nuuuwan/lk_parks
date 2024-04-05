@@ -1,8 +1,7 @@
 {
   "name": "Lobelia cardinalis",
   "authorship": "L.",
-  "genus_name": "Lobelia",
-  "family_name": "Campanulaceae",
+  "parent_name": "Lobelia",
   "gbif_id": "5408269",
   "powo_id": "142115-2",
   "iucn_id": "64317175",

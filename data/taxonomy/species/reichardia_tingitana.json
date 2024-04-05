@@ -1,8 +1,7 @@
 {
   "name": "Reichardia tingitana",
   "authorship": "(L.) Roth",
-  "genus_name": "Reichardia",
-  "family_name": "Asteraceae",
+  "parent_name": "Reichardia",
   "gbif_id": "5385648",
   "powo_id": "241247-1",
   "iucn_id": null,

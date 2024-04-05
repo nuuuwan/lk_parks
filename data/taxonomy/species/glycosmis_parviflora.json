@@ -1,8 +1,7 @@
 {
   "name": "Glycosmis parviflora",
   "authorship": "(Sims) Little",
-  "genus_name": "Glycosmis",
-  "family_name": "Rutaceae",
+  "parent_name": "Glycosmis",
   "gbif_id": "3190426",
   "powo_id": "111060-2",
   "iucn_id": "147625112",

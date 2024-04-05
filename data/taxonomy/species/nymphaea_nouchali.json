@@ -1,8 +1,7 @@
 {
   "name": "Nymphaea nouchali",
   "authorship": "Burm.f.",
-  "genus_name": "Nymphaea",
-  "family_name": "Nymphaeaceae",
+  "parent_name": "Nymphaea",
   "gbif_id": "7326947",
   "powo_id": "605643-1",
   "iucn_id": "168917",

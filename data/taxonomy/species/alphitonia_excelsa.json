@@ -1,8 +1,7 @@
 {
   "name": "Alphitonia excelsa",
   "authorship": "(Fenzl) Reissek ex Benth.",
-  "genus_name": "Alphitonia",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Alphitonia",
   "gbif_id": "3039494",
   "powo_id": "716620-1",
   "iucn_id": "135766433",

@@ -1,8 +1,7 @@
 {
   "name": "Barnadesia polyacantha",
   "authorship": "Wedd.",
-  "genus_name": "Barnadesia",
-  "family_name": "Asteraceae",
+  "parent_name": "Barnadesia",
   "gbif_id": "3105311",
   "powo_id": "317705-2",
   "iucn_id": "146074248",

@@ -1,8 +1,7 @@
 {
   "name": "Elaeocarpus floribundus",
   "authorship": "Blume",
-  "genus_name": "Elaeocarpus",
-  "family_name": "Elaeocarpaceae",
+  "parent_name": "Elaeocarpus",
   "gbif_id": "7290985",
   "powo_id": "833820-1",
   "iucn_id": "176861704",

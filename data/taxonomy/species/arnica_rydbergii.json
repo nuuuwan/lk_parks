@@ -1,8 +1,7 @@
 {
   "name": "Arnica rydbergii",
   "authorship": "Greene",
-  "genus_name": "Arnica",
-  "family_name": "Asteraceae",
+  "parent_name": "Arnica",
   "gbif_id": "5405997",
   "powo_id": "20081-2",
   "iucn_id": null,

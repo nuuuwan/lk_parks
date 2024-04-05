@@ -1,8 +1,7 @@
 {
   "name": "Daphne odora",
   "authorship": "Thunb.",
-  "genus_name": "Daphne",
-  "family_name": "Thymelaeaceae",
+  "parent_name": "Daphne",
   "gbif_id": "7670260",
   "powo_id": "831309-1",
   "iucn_id": null,

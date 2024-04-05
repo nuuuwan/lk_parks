@@ -1,8 +1,7 @@
 {
   "name": "Salix euxina",
   "authorship": "I.V.Belyaeva",
-  "genus_name": "Salix",
-  "family_name": "Salicaceae",
+  "parent_name": "Salix",
   "gbif_id": "5927965",
   "powo_id": "77102927-1",
   "iucn_id": null,

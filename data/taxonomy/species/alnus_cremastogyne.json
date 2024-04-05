@@ -1,8 +1,7 @@
 {
   "name": "Alnus cremastogyne",
   "authorship": "Burkill",
-  "genus_name": "Alnus",
-  "family_name": "Betulaceae",
+  "parent_name": "Alnus",
   "gbif_id": "2876182",
   "powo_id": "294905-1",
   "iucn_id": "194656",

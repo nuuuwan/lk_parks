@@ -1,8 +1,7 @@
 {
   "name": "Pinus ponderosa",
   "authorship": "Douglas ex C.Lawson",
-  "genus_name": "Pinus",
-  "family_name": "Pinaceae",
+  "parent_name": "Pinus",
   "gbif_id": "5285053",
   "powo_id": "307165-2",
   "iucn_id": "42401",

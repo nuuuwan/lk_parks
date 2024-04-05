@@ -1,8 +1,7 @@
 {
   "name": "Poa annua",
   "authorship": "L.",
-  "genus_name": "Poa",
-  "family_name": "Poaceae",
+  "parent_name": "Poa",
   "gbif_id": "2704179",
   "powo_id": "320035-2",
   "iucn_id": "168729",

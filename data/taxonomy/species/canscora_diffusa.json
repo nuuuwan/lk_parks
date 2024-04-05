@@ -1,8 +1,7 @@
 {
   "name": "Canscora diffusa",
   "authorship": "(Vahl) R.Br. ex Roem. & Schult.",
-  "genus_name": "Canscora",
-  "family_name": "Gentianaceae",
+  "parent_name": "Canscora",
   "gbif_id": "7270041",
   "powo_id": "366552-1",
   "iucn_id": null,

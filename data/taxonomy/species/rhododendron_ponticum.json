@@ -1,8 +1,7 @@
 {
   "name": "Rhododendron ponticum",
   "authorship": "L.",
-  "genus_name": "Rhododendron",
-  "family_name": "Ericaceae",
+  "parent_name": "Rhododendron",
   "gbif_id": "7327990",
   "powo_id": "333114-1",
   "iucn_id": null,

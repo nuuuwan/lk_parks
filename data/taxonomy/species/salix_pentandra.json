@@ -1,8 +1,7 @@
 {
   "name": "Salix pentandra",
   "authorship": "L.",
-  "genus_name": "Salix",
-  "family_name": "Salicaceae",
+  "parent_name": "Salix",
   "gbif_id": "5372647",
   "powo_id": "312506-2",
   "iucn_id": "79927560",

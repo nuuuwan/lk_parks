@@ -1,8 +1,7 @@
 {
   "name": "Pandorea pandorana",
   "authorship": "(Andrews) Steenis",
-  "genus_name": "Pandorea",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Pandorea",
   "gbif_id": "5668503",
   "powo_id": "110212-1",
   "iucn_id": null,

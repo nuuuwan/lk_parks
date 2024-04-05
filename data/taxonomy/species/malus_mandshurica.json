@@ -1,8 +1,7 @@
 {
   "name": "Malus mandshurica",
   "authorship": "(Maxim.) Kom. ex Skvortsov",
-  "genus_name": "Malus",
-  "family_name": "Rosaceae",
+  "parent_name": "Malus",
   "gbif_id": "8228420",
   "powo_id": "726330-1",
   "iucn_id": "50049627",

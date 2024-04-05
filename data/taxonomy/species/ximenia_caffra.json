@@ -1,8 +1,7 @@
 {
   "name": "Ximenia caffra",
   "authorship": "Sond.",
-  "genus_name": "Ximenia",
-  "family_name": "Olacaceae",
+  "parent_name": "Ximenia",
   "gbif_id": "3685830",
   "powo_id": "608572-1",
   "iucn_id": "165445233",

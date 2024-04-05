@@ -1,8 +1,7 @@
 {
   "name": "Ruta chalepensis",
   "authorship": "L.",
-  "genus_name": "Ruta",
-  "family_name": "Rutaceae",
+  "parent_name": "Ruta",
   "gbif_id": "3190381",
   "powo_id": "775070-1",
   "iucn_id": null,

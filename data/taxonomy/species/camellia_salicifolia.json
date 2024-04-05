@@ -1,8 +1,7 @@
 {
   "name": "Camellia salicifolia",
   "authorship": "Champ.",
-  "genus_name": "Camellia",
-  "family_name": "Theaceae",
+  "parent_name": "Camellia",
   "gbif_id": "8488776",
   "powo_id": "828542-1",
   "iucn_id": "62057896",

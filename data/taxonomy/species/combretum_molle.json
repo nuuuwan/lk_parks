@@ -1,8 +1,7 @@
 {
   "name": "Combretum molle",
   "authorship": "R.Br. ex G.Don",
-  "genus_name": "Combretum",
-  "family_name": "Combretaceae",
+  "parent_name": "Combretum",
   "gbif_id": "7961582",
   "powo_id": "170290-1",
   "iucn_id": "146216670",

@@ -1,8 +1,7 @@
 {
   "name": "Cotoneaster salicifolius",
   "authorship": "Franch.",
-  "genus_name": "Cotoneaster",
-  "family_name": "Rosaceae",
+  "parent_name": "Cotoneaster",
   "gbif_id": "3026074",
   "powo_id": "722667-1",
   "iucn_id": null,

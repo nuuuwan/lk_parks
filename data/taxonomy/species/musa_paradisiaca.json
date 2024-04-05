@@ -1,8 +1,7 @@
 {
   "name": "Musa paradisiaca",
   "authorship": "L.",
-  "genus_name": "Musa",
-  "family_name": "Musaceae",
+  "parent_name": "Musa",
   "gbif_id": "2762752",
   "powo_id": "797595-1",
   "iucn_id": null,

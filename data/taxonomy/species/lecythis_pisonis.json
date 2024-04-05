@@ -1,8 +1,7 @@
 {
   "name": "Lecythis pisonis",
   "authorship": "Cambess.",
-  "genus_name": "Lecythis",
-  "family_name": "Lecythidaceae",
+  "parent_name": "Lecythis",
   "gbif_id": "3082440",
   "powo_id": "597315-1",
   "iucn_id": null,

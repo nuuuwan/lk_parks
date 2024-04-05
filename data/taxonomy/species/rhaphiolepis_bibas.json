@@ -1,8 +1,7 @@
 {
   "name": "Rhaphiolepis bibas",
   "authorship": "(Lour.) Galasso & Banfi",
-  "genus_name": "Rhaphiolepis",
-  "family_name": "Rosaceae",
+  "parent_name": "Rhaphiolepis",
   "gbif_id": "10786206",
   "powo_id": "77209608-1",
   "iucn_id": null,

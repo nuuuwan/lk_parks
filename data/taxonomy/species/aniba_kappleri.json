@@ -1,8 +1,7 @@
 {
   "name": "Aniba kappleri",
   "authorship": "Mez",
-  "genus_name": "Aniba",
-  "family_name": "Lauraceae",
+  "parent_name": "Aniba",
   "gbif_id": "4181063",
   "powo_id": "13846-2",
   "iucn_id": "143818397",

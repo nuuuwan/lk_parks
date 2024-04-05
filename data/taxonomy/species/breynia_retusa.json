@@ -1,8 +1,7 @@
 {
   "name": "Breynia retusa",
   "authorship": "(Dennst.) Alston",
-  "genus_name": "Breynia",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Breynia",
   "gbif_id": "5383065",
   "powo_id": "340099-1",
   "iucn_id": "147631294",

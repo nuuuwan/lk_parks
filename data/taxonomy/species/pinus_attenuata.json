@@ -1,8 +1,7 @@
 {
   "name": "Pinus attenuata",
   "authorship": "Lemmon",
-  "genus_name": "Pinus",
-  "family_name": "Pinaceae",
+  "parent_name": "Pinus",
   "gbif_id": "5285497",
   "powo_id": "196914-2",
   "iucn_id": "42343",

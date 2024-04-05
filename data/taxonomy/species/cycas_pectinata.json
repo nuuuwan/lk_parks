@@ -1,8 +1,7 @@
 {
   "name": "Cycas pectinata",
   "authorship": "Buch.-Ham.",
-  "genus_name": "Cycas",
-  "family_name": "Cycadaceae",
+  "parent_name": "Cycas",
   "gbif_id": "2683250",
   "powo_id": "297022-1",
   "iucn_id": "42062",

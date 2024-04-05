@@ -1,8 +1,7 @@
 {
   "name": "Vitis labrusca",
   "authorship": "L.",
-  "genus_name": "Vitis",
-  "family_name": "Vitaceae",
+  "parent_name": "Vitis",
   "gbif_id": "5372424",
   "powo_id": "307691-2",
   "iucn_id": null,

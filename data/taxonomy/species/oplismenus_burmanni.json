@@ -1,8 +1,7 @@
 {
   "name": "Oplismenus burmanni",
   "authorship": "(Retz.) P.Beauv.",
-  "genus_name": "Oplismenus",
-  "family_name": "Poaceae",
+  "parent_name": "Oplismenus",
   "gbif_id": "2705738",
   "powo_id": "30453766-2",
   "iucn_id": null,

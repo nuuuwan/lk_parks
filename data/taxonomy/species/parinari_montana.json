@@ -1,8 +1,7 @@
 {
   "name": "Parinari montana",
   "authorship": "Aubl.",
-  "genus_name": "Parinari",
-  "family_name": "Chrysobalanaceae",
+  "parent_name": "Parinari",
   "gbif_id": "2984746",
   "powo_id": "727140-1",
   "iucn_id": "215056359",

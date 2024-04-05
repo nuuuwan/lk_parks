@@ -1,8 +1,7 @@
 {
   "name": "Dendrocalamus latiflorus",
   "authorship": "Munro",
-  "genus_name": "Dendrocalamus",
-  "family_name": "Poaceae",
+  "parent_name": "Dendrocalamus",
   "gbif_id": "2703197",
   "powo_id": "397888-1",
   "iucn_id": null,

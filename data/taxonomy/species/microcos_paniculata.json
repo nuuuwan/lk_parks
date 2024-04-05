@@ -1,8 +1,7 @@
 {
   "name": "Microcos paniculata",
   "authorship": "L.",
-  "genus_name": "Microcos",
-  "family_name": "Malvaceae",
+  "parent_name": "Microcos",
   "gbif_id": "4259928",
   "powo_id": "834845-1",
   "iucn_id": "147630243",

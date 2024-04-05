@@ -1,8 +1,7 @@
 {
   "name": "Oenothera laciniata",
   "authorship": "Hill",
-  "genus_name": "Oenothera",
-  "family_name": "Onagraceae",
+  "parent_name": "Oenothera",
   "gbif_id": "3188867",
   "powo_id": "613817-1",
   "iucn_id": null,

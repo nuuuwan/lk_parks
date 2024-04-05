@@ -1,8 +1,7 @@
 {
   "name": "Clarisia racemosa",
   "authorship": "Ruiz & Pav.",
-  "genus_name": "Clarisia",
-  "family_name": "Moraceae",
+  "parent_name": "Clarisia",
   "gbif_id": "5572170",
   "powo_id": "851229-1",
   "iucn_id": "61881746",

@@ -1,8 +1,7 @@
 {
   "name": "Neonotonia wightii",
   "authorship": "(Wight & Arn.) J.A.Lackey",
-  "genus_name": "Neonotonia",
-  "family_name": "Fabaceae",
+  "parent_name": "Neonotonia",
   "gbif_id": "2947913",
   "powo_id": "509547-1",
   "iucn_id": "19892457",

@@ -1,8 +1,7 @@
 {
   "name": "Gustavia longifolia",
   "authorship": "Poepp. ex O.Berg",
-  "genus_name": "Gustavia",
-  "family_name": "Lecythidaceae",
+  "parent_name": "Gustavia",
   "gbif_id": "5383753",
   "powo_id": "114952-2",
   "iucn_id": null,

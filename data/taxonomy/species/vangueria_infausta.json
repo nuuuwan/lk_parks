@@ -1,8 +1,7 @@
 {
   "name": "Vangueria infausta",
   "authorship": "Burch.",
-  "genus_name": "Vangueria",
-  "family_name": "Rubiaceae",
+  "parent_name": "Vangueria",
   "gbif_id": "2917876",
   "powo_id": "769741-1",
   "iucn_id": "146206626",

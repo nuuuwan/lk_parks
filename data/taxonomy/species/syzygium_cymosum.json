@@ -1,8 +1,7 @@
 {
   "name": "Syzygium cymosum",
   "authorship": "(Lam.) DC.",
-  "genus_name": "Syzygium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syzygium",
   "gbif_id": "3182295",
   "powo_id": "601617-1",
   "iucn_id": null,

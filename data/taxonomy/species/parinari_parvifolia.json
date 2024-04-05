@@ -1,8 +1,7 @@
 {
   "name": "Parinari parvifolia",
   "authorship": "Sandwith",
-  "genus_name": "Parinari",
-  "family_name": "Chrysobalanaceae",
+  "parent_name": "Parinari",
   "gbif_id": "2984969",
   "powo_id": "183248-2",
   "iucn_id": "151913123",

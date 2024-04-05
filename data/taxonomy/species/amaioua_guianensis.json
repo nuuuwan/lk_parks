@@ -1,8 +1,7 @@
 {
   "name": "Amaioua guianensis",
   "authorship": "Aubl.",
-  "genus_name": "Amaioua",
-  "family_name": "Rubiaceae",
+  "parent_name": "Amaioua",
   "gbif_id": "2901121",
   "powo_id": "743074-1",
   "iucn_id": "179315435",

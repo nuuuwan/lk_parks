@@ -1,8 +1,7 @@
 {
   "name": "Ficus gomelleira",
   "authorship": "Kunth & C.D.Bouch\u00e9",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5571029",
   "powo_id": "852913-1",
   "iucn_id": "179289539",

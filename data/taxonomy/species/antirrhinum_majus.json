@@ -1,8 +1,7 @@
 {
   "name": "Antirrhinum majus",
   "authorship": "L.",
-  "genus_name": "Antirrhinum",
-  "family_name": "Plantaginaceae",
+  "parent_name": "Antirrhinum",
   "gbif_id": "3172001",
   "powo_id": "799180-1",
   "iucn_id": null,

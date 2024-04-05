@@ -1,8 +1,7 @@
 {
   "name": "Crepis occidentalis",
   "authorship": "Nutt.",
-  "genus_name": "Crepis",
-  "family_name": "Asteraceae",
+  "parent_name": "Crepis",
   "gbif_id": "5403548",
   "powo_id": "200113-1",
   "iucn_id": null,

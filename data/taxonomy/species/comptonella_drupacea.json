@@ -1,8 +1,7 @@
 {
   "name": "Comptonella drupacea",
   "authorship": "(Labill.) Guillaumin",
-  "genus_name": "Comptonella",
-  "family_name": "Rutaceae",
+  "parent_name": "Comptonella",
   "gbif_id": "3835998",
   "powo_id": "772209-1",
   "iucn_id": null,

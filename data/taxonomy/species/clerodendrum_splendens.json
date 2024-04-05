@@ -1,8 +1,7 @@
 {
   "name": "Clerodendrum splendens",
   "authorship": "G.Don",
-  "genus_name": "Clerodendrum",
-  "family_name": "Lamiaceae",
+  "parent_name": "Clerodendrum",
   "gbif_id": "7999246",
   "powo_id": "862410-1",
   "iucn_id": null,

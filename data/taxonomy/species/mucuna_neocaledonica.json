@@ -1,8 +1,7 @@
 {
   "name": "Mucuna neocaledonica",
   "authorship": "Baker f.",
-  "genus_name": "Mucuna",
-  "family_name": "Fabaceae",
+  "parent_name": "Mucuna",
   "gbif_id": "3974654",
   "powo_id": "509255-1",
   "iucn_id": null,

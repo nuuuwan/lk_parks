@@ -1,8 +1,7 @@
 {
   "name": "Nectandra lanceolata",
   "authorship": "Nees & Mart.",
-  "genus_name": "Nectandra",
-  "family_name": "Lauraceae",
+  "parent_name": "Nectandra",
   "gbif_id": "7304186",
   "powo_id": "466737-1",
   "iucn_id": "62020238",

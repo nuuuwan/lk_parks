@@ -1,8 +1,7 @@
 {
   "name": "Ulmus rubra",
   "authorship": "Muhl.",
-  "genus_name": "Ulmus",
-  "family_name": "Ulmaceae",
+  "parent_name": "Ulmus",
   "gbif_id": "5361867",
   "powo_id": "306680-2",
   "iucn_id": "61967382",

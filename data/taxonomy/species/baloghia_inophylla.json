@@ -1,8 +1,7 @@
 {
   "name": "Baloghia inophylla",
   "authorship": "(G.Forst.) P.S.Green",
-  "genus_name": "Baloghia",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Baloghia",
   "gbif_id": "5378457",
   "powo_id": "943159-1",
   "iucn_id": null,

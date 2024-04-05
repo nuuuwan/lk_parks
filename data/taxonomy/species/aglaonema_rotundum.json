@@ -1,8 +1,7 @@
 {
   "name": "Aglaonema rotundum",
   "authorship": "N.E.Br.",
-  "genus_name": "Aglaonema",
-  "family_name": "Araceae",
+  "parent_name": "Aglaonema",
   "gbif_id": "2866492",
   "powo_id": "84103-1",
   "iucn_id": null,

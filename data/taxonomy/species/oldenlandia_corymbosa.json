@@ -1,8 +1,7 @@
 {
   "name": "Oldenlandia corymbosa",
   "authorship": "L.",
-  "genus_name": "Oldenlandia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Oldenlandia",
   "gbif_id": "2911970",
   "powo_id": "757791-1",
   "iucn_id": null,

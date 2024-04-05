@@ -1,8 +1,7 @@
 {
   "name": "Harungana madagascariensis",
   "authorship": "Lam. ex Poir.",
-  "genus_name": "Harungana",
-  "family_name": "Hypericaceae",
+  "parent_name": "Harungana",
   "gbif_id": "3711847",
   "powo_id": "153822-3",
   "iucn_id": "62019179",

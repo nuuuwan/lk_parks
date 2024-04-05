@@ -1,8 +1,7 @@
 {
   "name": "Stachytarpheta urticifolia",
   "authorship": "Sims",
-  "genus_name": "Stachytarpheta",
-  "family_name": "Verbenaceae",
+  "parent_name": "Stachytarpheta",
   "gbif_id": "2925457",
   "powo_id": "864837-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Hirtella gracilipes",
   "authorship": "(Hook.f.) Prance",
-  "genus_name": "Hirtella",
-  "family_name": "Chrysobalanaceae",
+  "parent_name": "Hirtella",
   "gbif_id": "2985186",
   "powo_id": "168012-1",
   "iucn_id": null,

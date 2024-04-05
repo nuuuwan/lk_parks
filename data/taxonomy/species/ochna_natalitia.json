@@ -1,8 +1,7 @@
 {
   "name": "Ochna natalitia",
   "authorship": "(Meisn.) Walp.",
-  "genus_name": "Ochna",
-  "family_name": "Ochnaceae",
+  "parent_name": "Ochna",
   "gbif_id": "3695231",
   "powo_id": "606702-1",
   "iucn_id": "200692145",

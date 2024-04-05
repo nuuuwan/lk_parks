@@ -1,8 +1,7 @@
 {
   "name": "Colubrina arborescens",
   "authorship": "(Mill.) Sarg.",
-  "genus_name": "Colubrina",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Colubrina",
   "gbif_id": "5372463",
   "powo_id": "63423-2",
   "iucn_id": "144220556",

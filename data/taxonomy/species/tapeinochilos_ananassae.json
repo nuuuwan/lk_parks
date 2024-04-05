@@ -1,8 +1,7 @@
 {
   "name": "Tapeinochilos ananassae",
   "authorship": "(Hassk.) K.Schum.",
-  "genus_name": "Tapeinochilos",
-  "family_name": "Costaceae",
+  "parent_name": "Tapeinochilos",
   "gbif_id": "2756760",
   "powo_id": "873025-1",
   "iucn_id": null,

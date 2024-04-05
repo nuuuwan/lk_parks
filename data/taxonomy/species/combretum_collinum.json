@@ -1,8 +1,7 @@
 {
   "name": "Combretum collinum",
   "authorship": "Fresen.",
-  "genus_name": "Combretum",
-  "family_name": "Combretaceae",
+  "parent_name": "Combretum",
   "gbif_id": "3699477",
   "powo_id": "170004-1",
   "iucn_id": "144277375",

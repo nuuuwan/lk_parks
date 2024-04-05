@@ -1,8 +1,7 @@
 {
   "name": "Jasminum fluminense",
   "authorship": "Vell.",
-  "genus_name": "Jasminum",
-  "family_name": "Oleaceae",
+  "parent_name": "Jasminum",
   "gbif_id": "3172270",
   "powo_id": "609490-1",
   "iucn_id": null,

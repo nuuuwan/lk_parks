@@ -1,8 +1,7 @@
 {
   "name": "Calyptrocalyx hollrungii",
   "authorship": "(Becc.) Dowe & M.D.Ferrero",
-  "genus_name": "Calyptrocalyx",
-  "family_name": "Arecaceae",
+  "parent_name": "Calyptrocalyx",
   "gbif_id": "2733697",
   "powo_id": "1021597-1",
   "iucn_id": "214155543",

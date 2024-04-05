@@ -1,8 +1,7 @@
 {
   "name": "Sagina apetala",
   "authorship": "Ard.",
-  "genus_name": "Sagina",
-  "family_name": "Caryophyllaceae",
+  "parent_name": "Sagina",
   "gbif_id": "8941837",
   "powo_id": "156411-1",
   "iucn_id": null,

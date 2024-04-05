@@ -1,8 +1,7 @@
 {
   "name": "Apeiba tibourbou",
   "authorship": "Aubl.",
-  "genus_name": "Apeiba",
-  "family_name": "Malvaceae",
+  "parent_name": "Apeiba",
   "gbif_id": "3152052",
   "powo_id": "833270-1",
   "iucn_id": "144314871",

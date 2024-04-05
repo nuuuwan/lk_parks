@@ -1,8 +1,7 @@
 {
   "name": "Trichilia havanensis",
   "authorship": "Jacq.",
-  "genus_name": "Trichilia",
-  "family_name": "Meliaceae",
+  "parent_name": "Trichilia",
   "gbif_id": "7271307",
   "powo_id": "322349-2",
   "iucn_id": "122658401",

@@ -1,8 +1,7 @@
 {
   "name": "Gallesia integrifolia",
   "authorship": "(Spreng.) Harms",
-  "genus_name": "Gallesia",
-  "family_name": "Petiveriaceae",
+  "parent_name": "Gallesia",
   "gbif_id": "7309641",
   "powo_id": "676216-1",
   "iucn_id": "149204065",

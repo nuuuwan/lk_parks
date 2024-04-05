@@ -1,8 +1,7 @@
 {
   "name": "Zanthoxylum capense",
   "authorship": "(Thunb.) Harv.",
-  "genus_name": "Zanthoxylum",
-  "family_name": "Rutaceae",
+  "parent_name": "Zanthoxylum",
   "gbif_id": "3832553",
   "powo_id": "775632-1",
   "iucn_id": "149506196",

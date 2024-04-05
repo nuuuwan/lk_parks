@@ -1,8 +1,7 @@
 {
   "name": "Ficus nymphaeifolia",
   "authorship": "Mill.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5570630",
   "powo_id": "853301-1",
   "iucn_id": "61886071",

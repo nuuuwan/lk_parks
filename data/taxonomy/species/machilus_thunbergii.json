@@ -1,8 +1,7 @@
 {
   "name": "Machilus thunbergii",
   "authorship": "Siebold & Zucc.",
-  "genus_name": "Machilus",
-  "family_name": "Lauraceae",
+  "parent_name": "Machilus",
   "gbif_id": "4177874",
   "powo_id": "466273-1",
   "iucn_id": "147638804",

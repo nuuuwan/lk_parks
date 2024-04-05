@@ -1,8 +1,7 @@
 {
   "name": "Lonicera maackii",
   "authorship": "(Rupr.) Maxim.",
-  "genus_name": "Lonicera",
-  "family_name": "Caprifoliaceae",
+  "parent_name": "Lonicera",
   "gbif_id": "7902463",
   "powo_id": "60463205-2",
   "iucn_id": null,

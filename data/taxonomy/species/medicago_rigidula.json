@@ -1,8 +1,7 @@
 {
   "name": "Medicago rigidula",
   "authorship": "(L.) All.",
-  "genus_name": "Medicago",
-  "family_name": "Fabaceae",
+  "parent_name": "Medicago",
   "gbif_id": "2965438",
   "powo_id": "20011853-1",
   "iucn_id": "176419",

@@ -1,8 +1,7 @@
 {
   "name": "Cornus alba",
   "authorship": "L.",
-  "genus_name": "Cornus",
-  "family_name": "Cornaceae",
+  "parent_name": "Cornus",
   "gbif_id": "8365953",
   "powo_id": "330224-2",
   "iucn_id": null,

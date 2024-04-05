@@ -1,8 +1,7 @@
 {
   "name": "Bourreria quirosii",
   "authorship": "Standl.",
-  "genus_name": "Bourreria",
-  "family_name": "Boraginaceae",
+  "parent_name": "Bourreria",
   "gbif_id": "4062794",
   "powo_id": "35518-2",
   "iucn_id": "136091126",

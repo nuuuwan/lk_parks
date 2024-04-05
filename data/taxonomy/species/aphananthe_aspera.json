@@ -1,8 +1,7 @@
 {
   "name": "Aphananthe aspera",
   "authorship": "(Thunb.) Planch.",
-  "genus_name": "Aphananthe",
-  "family_name": "Cannabaceae",
+  "parent_name": "Aphananthe",
   "gbif_id": "4159921",
   "powo_id": "850347-1",
   "iucn_id": "147379708",

@@ -1,8 +1,7 @@
 {
   "name": "Cuscuta americana",
   "authorship": "L.",
-  "genus_name": "Cuscuta",
-  "family_name": "Convolvulaceae",
+  "parent_name": "Cuscuta",
   "gbif_id": "2927542",
   "powo_id": "267279-1",
   "iucn_id": null,

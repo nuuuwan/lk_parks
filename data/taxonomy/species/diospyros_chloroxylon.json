@@ -1,8 +1,7 @@
 {
   "name": "Diospyros chloroxylon",
   "authorship": "Roxb.",
-  "genus_name": "Diospyros",
-  "family_name": "Ebenaceae",
+  "parent_name": "Diospyros",
   "gbif_id": "7295868",
   "powo_id": "322230-1",
   "iucn_id": null,

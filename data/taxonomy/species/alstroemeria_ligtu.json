@@ -1,8 +1,7 @@
 {
   "name": "Alstroemeria ligtu",
   "authorship": "L.",
-  "genus_name": "Alstroemeria",
-  "family_name": "Alstroemeriaceae",
+  "parent_name": "Alstroemeria",
   "gbif_id": "2753719",
   "powo_id": "62542-1",
   "iucn_id": null,

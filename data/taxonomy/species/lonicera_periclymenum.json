@@ -1,8 +1,7 @@
 {
   "name": "Lonicera periclymenum",
   "authorship": "L.",
-  "genus_name": "Lonicera",
-  "family_name": "Caprifoliaceae",
+  "parent_name": "Lonicera",
   "gbif_id": "5334277",
   "powo_id": "149006-1",
   "iucn_id": null,

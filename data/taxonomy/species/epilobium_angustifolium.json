@@ -1,8 +1,7 @@
 {
   "name": "Epilobium angustifolium",
   "authorship": "L.",
-  "genus_name": "Epilobium",
-  "family_name": "Onagraceae",
+  "parent_name": "Epilobium",
   "gbif_id": "8053718",
   "powo_id": "92411-2",
   "iucn_id": "164212",

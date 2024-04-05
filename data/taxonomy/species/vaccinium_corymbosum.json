@@ -1,8 +1,7 @@
 {
   "name": "Vaccinium corymbosum",
   "authorship": "L.",
-  "genus_name": "Vaccinium",
-  "family_name": "Ericaceae",
+  "parent_name": "Vaccinium",
   "gbif_id": "2882849",
   "powo_id": "261823-2",
   "iucn_id": null,

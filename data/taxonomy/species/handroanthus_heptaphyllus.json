@@ -1,8 +1,7 @@
 {
   "name": "Handroanthus heptaphyllus",
   "authorship": "(Vell.) Mattos",
-  "genus_name": "Handroanthus",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Handroanthus",
   "gbif_id": "4092253",
   "powo_id": "117329-2",
   "iucn_id": "61985488",

@@ -1,8 +1,7 @@
 {
   "name": "Leymus racemosus",
   "authorship": "(Lam.) Tzvelev",
-  "genus_name": "Leymus",
-  "family_name": "Poaceae",
+  "parent_name": "Leymus",
   "gbif_id": "2706374",
   "powo_id": "407344-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Brachychiton rupestris",
   "authorship": "(T.Mitch. ex Lindl.) K.Schum.",
-  "genus_name": "Brachychiton",
-  "family_name": "Malvaceae",
+  "parent_name": "Brachychiton",
   "gbif_id": "3670980",
   "powo_id": "822270-1",
   "iucn_id": null,

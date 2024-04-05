@@ -1,8 +1,7 @@
 {
   "name": "Edgeworthia chrysantha",
   "authorship": "Lindl.",
-  "genus_name": "Edgeworthia",
-  "family_name": "Thymelaeaceae",
+  "parent_name": "Edgeworthia",
   "gbif_id": "5420855",
   "powo_id": "831625-1",
   "iucn_id": null,

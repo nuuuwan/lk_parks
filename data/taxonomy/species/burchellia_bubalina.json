@@ -1,8 +1,7 @@
 {
   "name": "Burchellia bubalina",
   "authorship": "(L.f.) Sims",
-  "genus_name": "Burchellia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Burchellia",
   "gbif_id": "5341085",
   "powo_id": "745198-1",
   "iucn_id": "146449514",

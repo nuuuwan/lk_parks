@@ -1,8 +1,7 @@
 {
   "name": "Barringtonia edulis",
   "authorship": "Seem.",
-  "genus_name": "Barringtonia",
-  "family_name": "Lecythidaceae",
+  "parent_name": "Barringtonia",
   "gbif_id": "3082861",
   "powo_id": "591196-1",
   "iucn_id": "136055088",

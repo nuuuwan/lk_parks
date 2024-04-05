@@ -1,8 +1,7 @@
 {
   "name": "Schinus polygama",
   "authorship": "(Cav.) Cabrera",
-  "genus_name": "Schinus",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Schinus",
   "gbif_id": "4928873",
   "powo_id": "71057-1",
   "iucn_id": "131404681",

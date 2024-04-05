@@ -1,8 +1,7 @@
 {
   "name": "Etlingera elatior",
   "authorship": "(Jack) R.M.Sm.",
-  "genus_name": "Etlingera",
-  "family_name": "Zingiberaceae",
+  "parent_name": "Etlingera",
   "gbif_id": "2759896",
   "powo_id": "942355-1",
   "iucn_id": "117234456",

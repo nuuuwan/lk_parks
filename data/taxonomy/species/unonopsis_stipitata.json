@@ -1,8 +1,7 @@
 {
   "name": "Unonopsis stipitata",
   "authorship": "Diels",
-  "genus_name": "Unonopsis",
-  "family_name": "Annonaceae",
+  "parent_name": "Unonopsis",
   "gbif_id": "3157780",
   "powo_id": "259529-2",
   "iucn_id": "143322900",

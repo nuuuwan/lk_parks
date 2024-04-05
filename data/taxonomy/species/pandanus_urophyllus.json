@@ -1,8 +1,7 @@
 {
   "name": "Pandanus urophyllus",
   "authorship": "Hance",
-  "genus_name": "Pandanus",
-  "family_name": "Pandanaceae",
+  "parent_name": "Pandanus",
   "gbif_id": "5327547",
   "powo_id": "671592-1",
   "iucn_id": null,

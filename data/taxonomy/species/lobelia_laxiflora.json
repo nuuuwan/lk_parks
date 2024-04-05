@@ -1,8 +1,7 @@
 {
   "name": "Lobelia laxiflora",
   "authorship": "Kunth",
-  "genus_name": "Lobelia",
-  "family_name": "Campanulaceae",
+  "parent_name": "Lobelia",
   "gbif_id": "5408996",
   "powo_id": "142260-2",
   "iucn_id": null,

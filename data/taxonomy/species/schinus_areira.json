@@ -1,8 +1,7 @@
 {
   "name": "Schinus areira",
   "authorship": "L.",
-  "genus_name": "Schinus",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Schinus",
   "gbif_id": "3661832",
   "powo_id": "71006-1",
   "iucn_id": null,

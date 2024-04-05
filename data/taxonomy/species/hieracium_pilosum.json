@@ -1,8 +1,7 @@
 {
   "name": "Hieracium pilosum",
   "authorship": "Froel.",
-  "genus_name": "Hieracium",
-  "family_name": "Asteraceae",
+  "parent_name": "Hieracium",
   "gbif_id": "7569785",
   "powo_id": "77085437-1",
   "iucn_id": null,

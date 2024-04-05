@@ -1,8 +1,7 @@
 {
   "name": "Alvaradoa haitiensis",
   "authorship": "Urb.",
-  "genus_name": "Alvaradoa",
-  "family_name": "Picramniaceae",
+  "parent_name": "Alvaradoa",
   "gbif_id": "7574516",
   "powo_id": "10503-2",
   "iucn_id": null,

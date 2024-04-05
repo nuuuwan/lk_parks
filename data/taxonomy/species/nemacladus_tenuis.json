@@ -1,8 +1,7 @@
 {
   "name": "Nemacladus tenuis",
   "authorship": "(McVaugh) Morin",
-  "genus_name": "Nemacladus",
-  "family_name": "Campanulaceae",
+  "parent_name": "Nemacladus",
   "gbif_id": "5937524",
   "powo_id": "77099569-1",
   "iucn_id": null,

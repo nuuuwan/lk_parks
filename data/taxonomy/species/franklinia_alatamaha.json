@@ -1,8 +1,7 @@
 {
   "name": "Franklinia alatamaha",
   "authorship": "Marshall",
-  "genus_name": "Franklinia",
-  "family_name": "Theaceae",
+  "parent_name": "Franklinia",
   "gbif_id": "5421082",
   "powo_id": "105657-2",
   "iucn_id": "30408",

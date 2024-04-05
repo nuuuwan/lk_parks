@@ -1,8 +1,7 @@
 {
   "name": "Apios americana",
   "authorship": "Medik.",
-  "genus_name": "Apios",
-  "family_name": "Fabaceae",
+  "parent_name": "Apios",
   "gbif_id": "2966796",
   "powo_id": "30141320-2",
   "iucn_id": null,

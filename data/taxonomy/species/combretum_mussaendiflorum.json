@@ -1,8 +1,7 @@
 {
   "name": "Combretum mussaendiflorum",
   "authorship": "Engl. & Diels",
-  "genus_name": "Combretum",
-  "family_name": "Combretaceae",
+  "parent_name": "Combretum",
   "gbif_id": "3699904",
   "powo_id": "170302-1",
   "iucn_id": null,

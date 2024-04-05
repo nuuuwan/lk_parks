@@ -1,8 +1,7 @@
 {
   "name": "Araucaria luxurians",
   "authorship": "(Brongn. & Gris) de Laub.",
-  "genus_name": "Araucaria",
-  "family_name": "Araucariaceae",
+  "parent_name": "Araucaria",
   "gbif_id": "2684973",
   "powo_id": "92696-1",
   "iucn_id": "30985",

@@ -1,8 +1,7 @@
 {
   "name": "Pterocelastrus echinatus",
   "authorship": "N.E.Br.",
-  "genus_name": "Pterocelastrus",
-  "family_name": "Celastraceae",
+  "parent_name": "Pterocelastrus",
   "gbif_id": "3790985",
   "powo_id": "162433-1",
   "iucn_id": "149507842",

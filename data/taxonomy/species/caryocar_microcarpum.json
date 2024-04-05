@@ -1,8 +1,7 @@
 {
   "name": "Caryocar microcarpum",
   "authorship": "Ducke",
-  "genus_name": "Caryocar",
-  "family_name": "Caryocaraceae",
+  "parent_name": "Caryocar",
   "gbif_id": "3826036",
   "powo_id": "47874-2",
   "iucn_id": "179311725",

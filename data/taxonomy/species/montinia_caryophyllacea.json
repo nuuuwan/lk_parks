@@ -1,8 +1,7 @@
 {
   "name": "Montinia caryophyllacea",
   "authorship": "Thunb.",
-  "genus_name": "Montinia",
-  "family_name": "Montiniaceae",
+  "parent_name": "Montinia",
   "gbif_id": "5572875",
   "powo_id": "613483-1",
   "iucn_id": "146406026",

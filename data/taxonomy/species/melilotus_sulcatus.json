@@ -1,8 +1,7 @@
 {
   "name": "Melilotus sulcatus",
   "authorship": "Desf.",
-  "genus_name": "Melilotus",
-  "family_name": "Fabaceae",
+  "parent_name": "Melilotus",
   "gbif_id": "2971112",
   "powo_id": "507047-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Cecropia schreberiana",
   "authorship": "Miq.",
-  "genus_name": "Cecropia",
-  "family_name": "Urticaceae",
+  "parent_name": "Cecropia",
   "gbif_id": "2984475",
   "powo_id": "50937-2",
   "iucn_id": null,

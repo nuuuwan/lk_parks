@@ -1,8 +1,7 @@
 {
   "name": "Nopalea cochenillifera",
   "authorship": "(L.) Salm-Dyck",
-  "genus_name": "Nopalea",
-  "family_name": "Cactaceae",
+  "parent_name": "Nopalea",
   "gbif_id": "3084207",
   "powo_id": null,
   "iucn_id": "152027",

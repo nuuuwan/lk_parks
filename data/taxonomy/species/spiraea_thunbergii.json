@@ -1,8 +1,7 @@
 {
   "name": "Spiraea thunbergii",
   "authorship": "Siebold ex Blume",
-  "genus_name": "Spiraea",
-  "family_name": "Rosaceae",
+  "parent_name": "Spiraea",
   "gbif_id": "3026402",
   "powo_id": "742569-1",
   "iucn_id": null,

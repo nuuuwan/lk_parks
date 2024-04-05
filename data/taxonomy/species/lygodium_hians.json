@@ -1,8 +1,7 @@
 {
   "name": "Lygodium hians",
   "authorship": "E.Fourn.",
-  "genus_name": "Lygodium",
-  "family_name": "Schizaeaceae",
+  "parent_name": "Lygodium",
   "gbif_id": "3744768",
   "powo_id": "17143010-1",
   "iucn_id": "201988194",

@@ -1,8 +1,7 @@
 {
   "name": "Lepidozamia peroffskyana",
   "authorship": "Regel",
-  "genus_name": "Lepidozamia",
-  "family_name": "Zamiaceae",
+  "parent_name": "Lepidozamia",
   "gbif_id": "2683485",
   "powo_id": "297151-1",
   "iucn_id": "41996",

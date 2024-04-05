@@ -1,8 +1,7 @@
 {
   "name": "Putranjiva roxburghii",
   "authorship": "Wall.",
-  "genus_name": "Putranjiva",
-  "family_name": "Putranjivaceae",
+  "parent_name": "Putranjiva",
   "gbif_id": "3076079",
   "powo_id": "355114-1",
   "iucn_id": "183256116",

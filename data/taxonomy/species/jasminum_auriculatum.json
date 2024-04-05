@@ -1,8 +1,7 @@
 {
   "name": "Jasminum auriculatum",
   "authorship": "Vahl",
-  "genus_name": "Jasminum",
-  "family_name": "Oleaceae",
+  "parent_name": "Jasminum",
   "gbif_id": "3682675",
   "powo_id": "609352-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Cedrela fissilis",
   "authorship": "Vell.",
-  "genus_name": "Cedrela",
-  "family_name": "Meliaceae",
+  "parent_name": "Cedrela",
   "gbif_id": "7107974",
   "powo_id": "577744-1",
   "iucn_id": "33928",

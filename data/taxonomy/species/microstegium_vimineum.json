@@ -1,8 +1,7 @@
 {
   "name": "Microstegium vimineum",
   "authorship": "(Trin.) A.Camus",
-  "genus_name": "Microstegium",
-  "family_name": "Poaceae",
+  "parent_name": "Microstegium",
   "gbif_id": "5289808",
   "powo_id": "408546-1",
   "iucn_id": null,

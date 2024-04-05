@@ -1,8 +1,7 @@
 {
   "name": "Pittosporum artense",
   "authorship": "Guillaumin",
-  "genus_name": "Pittosporum",
-  "family_name": "Pittosporaceae",
+  "parent_name": "Pittosporum",
   "gbif_id": "4161784",
   "powo_id": "684375-1",
   "iucn_id": "35261",

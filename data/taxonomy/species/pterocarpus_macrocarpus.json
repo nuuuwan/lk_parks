@@ -1,8 +1,7 @@
 {
   "name": "Pterocarpus macrocarpus",
   "authorship": "Kurz",
-  "genus_name": "Pterocarpus",
-  "family_name": "Fabaceae",
+  "parent_name": "Pterocarpus",
   "gbif_id": "5349297",
   "powo_id": "516502-1",
   "iucn_id": "32308",

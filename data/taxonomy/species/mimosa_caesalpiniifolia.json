@@ -1,8 +1,7 @@
 {
   "name": "Mimosa caesalpiniifolia",
   "authorship": "Benth.",
-  "genus_name": "Mimosa",
-  "family_name": "Fabaceae",
+  "parent_name": "Mimosa",
   "gbif_id": "2970230",
   "powo_id": "507748-1",
   "iucn_id": "33968",

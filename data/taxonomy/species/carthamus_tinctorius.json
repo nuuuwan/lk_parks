@@ -1,8 +1,7 @@
 {
   "name": "Carthamus tinctorius",
   "authorship": "L.",
-  "genus_name": "Carthamus",
-  "family_name": "Asteraceae",
+  "parent_name": "Carthamus",
   "gbif_id": "3138327",
   "powo_id": "324467-2",
   "iucn_id": null,

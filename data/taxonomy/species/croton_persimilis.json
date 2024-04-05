@@ -1,8 +1,7 @@
 {
   "name": "Croton persimilis",
   "authorship": "M\u00fcll.Arg.",
-  "genus_name": "Croton",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Croton",
   "gbif_id": "3058717",
   "powo_id": "343215-1",
   "iucn_id": null,

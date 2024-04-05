@@ -1,8 +1,7 @@
 {
   "name": "Galium arenarium",
   "authorship": "Loisel.",
-  "genus_name": "Galium",
-  "family_name": "Rubiaceae",
+  "parent_name": "Galium",
   "gbif_id": "2913717",
   "powo_id": "749532-1",
   "iucn_id": null,

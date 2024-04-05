@@ -1,8 +1,7 @@
 {
   "name": "Chonemorpha fragrans",
   "authorship": "(Moon) Alston",
-  "genus_name": "Chonemorpha",
-  "family_name": "Apocynaceae",
+  "parent_name": "Chonemorpha",
   "gbif_id": "3616952",
   "powo_id": "78008-1",
   "iucn_id": null,

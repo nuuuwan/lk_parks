@@ -1,8 +1,7 @@
 {
   "name": "Oenothera tetraptera",
   "authorship": "Cav.",
-  "genus_name": "Oenothera",
-  "family_name": "Onagraceae",
+  "parent_name": "Oenothera",
   "gbif_id": "3188815",
   "powo_id": "614141-1",
   "iucn_id": null,

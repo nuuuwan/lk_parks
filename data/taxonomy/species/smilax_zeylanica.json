@@ -1,8 +1,7 @@
 {
   "name": "Smilax zeylanica",
   "authorship": "L.",
-  "genus_name": "Smilax",
-  "family_name": "Smilacaceae",
+  "parent_name": "Smilax",
   "gbif_id": "5295128",
   "powo_id": "541966-1",
   "iucn_id": null,

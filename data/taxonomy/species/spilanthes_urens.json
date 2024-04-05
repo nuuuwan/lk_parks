@@ -1,8 +1,7 @@
 {
   "name": "Spilanthes urens",
   "authorship": "Jacq.",
-  "genus_name": "Spilanthes",
-  "family_name": "Asteraceae",
+  "parent_name": "Spilanthes",
   "gbif_id": "3092873",
   "powo_id": "250890-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Goodyera oblongifolia",
   "authorship": "Raf.",
-  "genus_name": "Goodyera",
-  "family_name": "Orchidaceae",
+  "parent_name": "Goodyera",
   "gbif_id": "2840754",
   "powo_id": "50993774-1",
   "iucn_id": null,

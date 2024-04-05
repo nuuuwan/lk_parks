@@ -1,8 +1,7 @@
 {
   "name": "Combretum fruticosum",
   "authorship": "(Loefl.) Stuntz",
-  "genus_name": "Combretum",
-  "family_name": "Combretaceae",
+  "parent_name": "Combretum",
   "gbif_id": "3698513",
   "powo_id": "63788-2",
   "iucn_id": null,

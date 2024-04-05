@@ -1,8 +1,7 @@
 {
   "name": "Machaerium pittieri",
   "authorship": "J.F.Macbr.",
-  "genus_name": "Machaerium",
-  "family_name": "Fabaceae",
+  "parent_name": "Machaerium",
   "gbif_id": "5355161",
   "powo_id": "148595-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Dovyalis zeyheri",
   "authorship": "(Sond.) Warb.",
-  "genus_name": "Dovyalis",
-  "family_name": "Salicaceae",
+  "parent_name": "Dovyalis",
   "gbif_id": "3880235",
   "powo_id": "111569-1",
   "iucn_id": "146410648",

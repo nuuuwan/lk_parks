@@ -1,8 +1,7 @@
 {
   "name": "Alpinia galanga",
   "authorship": "(L.) Willd.",
-  "genus_name": "Alpinia",
-  "family_name": "Zingiberaceae",
+  "parent_name": "Alpinia",
   "gbif_id": "5302225",
   "powo_id": "795279-1",
   "iucn_id": null,

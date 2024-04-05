@@ -1,8 +1,7 @@
 {
   "name": "Grewia asiatica",
   "authorship": "L.",
-  "genus_name": "Grewia",
-  "family_name": "Malvaceae",
+  "parent_name": "Grewia",
   "gbif_id": "3152080",
   "powo_id": "834064-1",
   "iucn_id": "147027384",

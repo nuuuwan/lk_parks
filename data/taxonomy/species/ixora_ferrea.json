@@ -1,8 +1,7 @@
 {
   "name": "Ixora ferrea",
   "authorship": "(Jacq.) Benth.",
-  "genus_name": "Ixora",
-  "family_name": "Rubiaceae",
+  "parent_name": "Ixora",
   "gbif_id": "2905768",
   "powo_id": "753950-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Duboisia myoporoides",
   "authorship": "R.Br.",
-  "genus_name": "Duboisia",
-  "family_name": "Solanaceae",
+  "parent_name": "Duboisia",
   "gbif_id": "5341761",
   "powo_id": "815656-1",
   "iucn_id": "146118514",

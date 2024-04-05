@@ -1,8 +1,7 @@
 {
   "name": "Cupressus pendula",
   "authorship": "Thunb.",
-  "genus_name": "Cupressus",
-  "family_name": "Cupressaceae",
+  "parent_name": "Cupressus",
   "gbif_id": "7719763",
   "powo_id": "676769-1",
   "iucn_id": null,

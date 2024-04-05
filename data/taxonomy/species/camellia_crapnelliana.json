@@ -1,8 +1,7 @@
 {
   "name": "Camellia crapnelliana",
   "authorship": "Tutcher",
-  "genus_name": "Camellia",
-  "family_name": "Theaceae",
+  "parent_name": "Camellia",
   "gbif_id": "3590783",
   "powo_id": "828510-1",
   "iucn_id": "30407",

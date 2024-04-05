@@ -1,8 +1,7 @@
 {
   "name": "Zanthoxylum ailanthoides",
   "authorship": "Siebold & Zucc.",
-  "genus_name": "Zanthoxylum",
-  "family_name": "Rutaceae",
+  "parent_name": "Zanthoxylum",
   "gbif_id": "7269097",
   "powo_id": "775558-1",
   "iucn_id": null,

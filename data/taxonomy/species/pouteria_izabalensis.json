@@ -1,8 +1,7 @@
 {
   "name": "Pouteria izabalensis",
   "authorship": "(Standl.) Baehni",
-  "genus_name": "Pouteria",
-  "family_name": "Sapotaceae",
+  "parent_name": "Pouteria",
   "gbif_id": "2884530",
   "powo_id": "209794-2",
   "iucn_id": "37721",

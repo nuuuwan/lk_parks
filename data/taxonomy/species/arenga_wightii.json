@@ -1,8 +1,7 @@
 {
   "name": "Arenga wightii",
   "authorship": "Griff.",
-  "genus_name": "Arenga",
-  "family_name": "Arecaceae",
+  "parent_name": "Arenga",
   "gbif_id": "2733951",
   "powo_id": "664268-1",
   "iucn_id": "38191",

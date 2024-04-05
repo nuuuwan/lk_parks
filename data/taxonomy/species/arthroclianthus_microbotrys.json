@@ -1,8 +1,7 @@
 {
   "name": "Arthroclianthus microbotrys",
   "authorship": "Hochr.",
-  "genus_name": "Arthroclianthus",
-  "family_name": "Fabaceae",
+  "parent_name": "Arthroclianthus",
   "gbif_id": "3979964",
   "powo_id": "475305-1",
   "iucn_id": null,

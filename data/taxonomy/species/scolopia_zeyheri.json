@@ -1,8 +1,7 @@
 {
   "name": "Scolopia zeyheri",
   "authorship": "(Nees) Szyszy\u0142.",
-  "genus_name": "Scolopia",
-  "family_name": "Salicaceae",
+  "parent_name": "Scolopia",
   "gbif_id": "8270053",
   "powo_id": "112092-1",
   "iucn_id": "146414037",

@@ -1,8 +1,7 @@
 {
   "name": "Erythroxylum havanense",
   "authorship": "Jacq.",
-  "genus_name": "Erythroxylum",
-  "family_name": "Erythroxylaceae",
+  "parent_name": "Erythroxylum",
   "gbif_id": "7284815",
   "powo_id": "330154-2",
   "iucn_id": "144313433",

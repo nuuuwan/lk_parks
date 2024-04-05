@@ -1,8 +1,7 @@
 {
   "name": "Malus spectabilis",
   "authorship": "(Aiton) Borkh.",
-  "genus_name": "Malus",
-  "family_name": "Rosaceae",
+  "parent_name": "Malus",
   "gbif_id": "3001108",
   "powo_id": "726406-1",
   "iucn_id": "50050991",

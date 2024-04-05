@@ -1,8 +1,7 @@
 {
   "name": "Aster amellus",
   "authorship": "L.",
-  "genus_name": "Aster",
-  "family_name": "Asteraceae",
+  "parent_name": "Aster",
   "gbif_id": "8133114",
   "powo_id": "331070-2",
   "iucn_id": null,

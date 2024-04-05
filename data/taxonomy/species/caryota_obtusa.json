@@ -1,8 +1,7 @@
 {
   "name": "Caryota obtusa",
   "authorship": "Griff.",
-  "genus_name": "Caryota",
-  "family_name": "Arecaceae",
+  "parent_name": "Caryota",
   "gbif_id": "2738916",
   "powo_id": "665622-1",
   "iucn_id": null,

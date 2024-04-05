@@ -1,8 +1,7 @@
 {
   "name": "Fagus orientalis",
   "authorship": "Lipsky",
-  "genus_name": "Fagus",
-  "family_name": "Fagaceae",
+  "parent_name": "Fagus",
   "gbif_id": "2882360",
   "powo_id": "295615-1",
   "iucn_id": "79914188",

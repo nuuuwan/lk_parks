@@ -1,8 +1,7 @@
 {
   "name": "Dendrobium nobile",
   "authorship": "Lindl.",
-  "genus_name": "Dendrobium",
-  "family_name": "Orchidaceae",
+  "parent_name": "Dendrobium",
   "gbif_id": "5317489",
   "powo_id": "628105-1",
   "iucn_id": null,

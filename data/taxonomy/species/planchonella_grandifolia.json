@@ -1,8 +1,7 @@
 {
   "name": "Planchonella grandifolia",
   "authorship": "(Wall.) Pierre",
-  "genus_name": "Planchonella",
-  "family_name": "Sapotaceae",
+  "parent_name": "Planchonella",
   "gbif_id": "5334047",
   "powo_id": "788628-1",
   "iucn_id": null,

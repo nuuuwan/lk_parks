@@ -1,8 +1,7 @@
 {
   "name": "Elaeagnus pungens",
   "authorship": "Thunb.",
-  "genus_name": "Elaeagnus",
-  "family_name": "Elaeagnaceae",
+  "parent_name": "Elaeagnus",
   "gbif_id": "3039270",
   "powo_id": "927283-1",
   "iucn_id": "147482351",

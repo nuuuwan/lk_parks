@@ -1,8 +1,7 @@
 {
   "name": "Rhododendron cerasinum",
   "authorship": "Tagg",
-  "genus_name": "Rhododendron",
-  "family_name": "Ericaceae",
+  "parent_name": "Rhododendron",
   "gbif_id": "4166739",
   "powo_id": "332136-1",
   "iucn_id": null,

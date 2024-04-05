@@ -1,8 +1,7 @@
 {
   "name": "Elaeocarpus reticulatus",
   "authorship": "Sm.",
-  "genus_name": "Elaeocarpus",
-  "family_name": "Elaeocarpaceae",
+  "parent_name": "Elaeocarpus",
   "gbif_id": "7290944",
   "powo_id": "833934-1",
   "iucn_id": "200141911",

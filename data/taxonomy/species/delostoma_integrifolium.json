@@ -1,8 +1,7 @@
 {
   "name": "Delostoma integrifolium",
   "authorship": "D.Don",
-  "genus_name": "Delostoma",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Delostoma",
   "gbif_id": "4093319",
   "powo_id": "109429-1",
   "iucn_id": "194012430",

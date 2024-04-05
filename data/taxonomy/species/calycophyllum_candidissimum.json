@@ -1,8 +1,7 @@
 {
   "name": "Calycophyllum candidissimum",
   "authorship": "(Vahl) DC.",
-  "genus_name": "Calycophyllum",
-  "family_name": "Rubiaceae",
+  "parent_name": "Calycophyllum",
   "gbif_id": "2904009",
   "powo_id": "745241-1",
   "iucn_id": "61957677",

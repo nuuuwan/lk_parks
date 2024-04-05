@@ -1,8 +1,7 @@
 {
   "name": "Vismia baccifera",
   "authorship": "(L.) Triana & Planch.",
-  "genus_name": "Vismia",
-  "family_name": "Hypericaceae",
+  "parent_name": "Vismia",
   "gbif_id": "8113584",
   "powo_id": "434100-1",
   "iucn_id": "136783476",

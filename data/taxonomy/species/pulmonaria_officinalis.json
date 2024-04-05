@@ -1,8 +1,7 @@
 {
   "name": "Pulmonaria officinalis",
   "authorship": "L.",
-  "genus_name": "Pulmonaria",
-  "family_name": "Boraginaceae",
+  "parent_name": "Pulmonaria",
   "gbif_id": "5341204",
   "powo_id": "120402-1",
   "iucn_id": "202970",

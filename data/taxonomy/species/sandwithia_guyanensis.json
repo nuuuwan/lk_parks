@@ -1,8 +1,7 @@
 {
   "name": "Sandwithia guyanensis",
   "authorship": "Lanj.",
-  "genus_name": "Sandwithia",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Sandwithia",
   "gbif_id": "3071864",
   "powo_id": "227350-2",
   "iucn_id": "145704940",

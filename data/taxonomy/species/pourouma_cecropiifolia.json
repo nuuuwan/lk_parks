@@ -1,8 +1,7 @@
 {
   "name": "Pourouma cecropiifolia",
   "authorship": "Mart.",
-  "genus_name": "Pourouma",
-  "family_name": "Urticaceae",
+  "parent_name": "Pourouma",
   "gbif_id": "4013508",
   "powo_id": "2856079-1",
   "iucn_id": "145590526",

@@ -1,8 +1,7 @@
 {
   "name": "Ludwigia decurrens",
   "authorship": "Walter",
-  "genus_name": "Ludwigia",
-  "family_name": "Onagraceae",
+  "parent_name": "Ludwigia",
   "gbif_id": "5421002",
   "powo_id": "613333-1",
   "iucn_id": null,

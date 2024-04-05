@@ -1,8 +1,7 @@
 {
   "name": "Pittosporum simsonii",
   "authorship": "Montrouz.",
-  "genus_name": "Pittosporum",
-  "family_name": "Pittosporaceae",
+  "parent_name": "Pittosporum",
   "gbif_id": "8220329",
   "powo_id": "684691-1",
   "iucn_id": "82949480",

@@ -1,8 +1,7 @@
 {
   "name": "Cotoneaster watereri",
   "authorship": "Exell",
-  "genus_name": "Cotoneaster",
-  "family_name": "Rosaceae",
+  "parent_name": "Cotoneaster",
   "gbif_id": "3026004",
   "powo_id": "722734-1",
   "iucn_id": null,

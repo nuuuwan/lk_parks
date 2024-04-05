@@ -1,8 +1,7 @@
 {
   "name": "Stegnosperma cubense",
   "authorship": "A.Rich.",
-  "genus_name": "Stegnosperma",
-  "family_name": "Stegnospermataceae",
+  "parent_name": "Stegnosperma",
   "gbif_id": "3084006",
   "powo_id": "676524-1",
   "iucn_id": null,

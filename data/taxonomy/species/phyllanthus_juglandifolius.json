@@ -1,8 +1,7 @@
 {
   "name": "Phyllanthus juglandifolius",
   "authorship": "Willd.",
-  "genus_name": "Phyllanthus",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Phyllanthus",
   "gbif_id": "5382401",
   "powo_id": "354080-1",
   "iucn_id": "208174866",

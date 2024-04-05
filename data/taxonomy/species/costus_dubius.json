@@ -1,8 +1,7 @@
 {
   "name": "Costus dubius",
   "authorship": "(Afzel.) K.Schum.",
-  "genus_name": "Costus",
-  "family_name": "Costaceae",
+  "parent_name": "Costus",
   "gbif_id": "2756790",
   "powo_id": "167523-3",
   "iucn_id": null,

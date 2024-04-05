@@ -1,8 +1,7 @@
 {
   "name": "Rhus chinensis",
   "authorship": "Mill.",
-  "genus_name": "Rhus",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Rhus",
   "gbif_id": "3190553",
   "powo_id": "70452-1",
   "iucn_id": "135819132",

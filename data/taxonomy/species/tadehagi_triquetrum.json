@@ -1,8 +1,7 @@
 {
   "name": "Tadehagi triquetrum",
   "authorship": "(L.) H.Ohashi",
-  "genus_name": "Tadehagi",
-  "family_name": "Fabaceae",
+  "parent_name": "Tadehagi",
   "gbif_id": "2950828",
   "powo_id": "520160-1",
   "iucn_id": null,

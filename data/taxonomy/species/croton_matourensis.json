@@ -1,8 +1,7 @@
 {
   "name": "Croton matourensis",
   "authorship": "Aubl.",
-  "genus_name": "Croton",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Croton",
   "gbif_id": "3058007",
   "powo_id": "70513-2",
   "iucn_id": "151961596",

@@ -1,8 +1,7 @@
 {
   "name": "Quercus oglethorpensis",
   "authorship": "W.H.Duncan",
-  "genus_name": "Quercus",
-  "family_name": "Fagaceae",
+  "parent_name": "Quercus",
   "gbif_id": "2878313",
   "powo_id": "216160-2",
   "iucn_id": "30956",

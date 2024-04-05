@@ -1,8 +1,7 @@
 {
   "name": "Bactris guineensis",
   "authorship": "(L.) H.E.Moore",
-  "genus_name": "Bactris",
-  "family_name": "Arecaceae",
+  "parent_name": "Bactris",
   "gbif_id": "2733363",
   "powo_id": "28460-2",
   "iucn_id": "67532988",

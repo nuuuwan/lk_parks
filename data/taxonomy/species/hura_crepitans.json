@@ -1,8 +1,7 @@
 {
   "name": "Hura crepitans",
   "authorship": "L.",
-  "genus_name": "Hura",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Hura",
   "gbif_id": "5380015",
   "powo_id": "350060-1",
   "iucn_id": "62003544",

@@ -1,8 +1,7 @@
 {
   "name": "Xenostegia tridentata",
   "authorship": "(L.) D.F.Austin & Staples",
-  "genus_name": "Xenostegia",
-  "family_name": "Convolvulaceae",
+  "parent_name": "Xenostegia",
   "gbif_id": "2928381",
   "powo_id": "909844-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Phlebodium decumanum",
   "authorship": "(Willd.) J.Sm.",
-  "genus_name": "Phlebodium",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Phlebodium",
   "gbif_id": "2650477",
   "powo_id": "17175400-1",
   "iucn_id": null,

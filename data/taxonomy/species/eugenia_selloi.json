@@ -1,8 +1,7 @@
 {
   "name": "Eugenia selloi",
   "authorship": "B.D.Jacks.",
-  "genus_name": "Eugenia",
-  "family_name": "Myrtaceae",
+  "parent_name": "Eugenia",
   "gbif_id": "5418007",
   "powo_id": "60464874-2",
   "iucn_id": "149206108",

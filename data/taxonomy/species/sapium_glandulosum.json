@@ -1,8 +1,7 @@
 {
   "name": "Sapium glandulosum",
   "authorship": "(L.) Morong",
-  "genus_name": "Sapium",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Sapium",
   "gbif_id": "5379918",
   "powo_id": "227503-2",
   "iucn_id": "37003",

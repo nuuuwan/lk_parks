@@ -1,8 +1,7 @@
 {
   "name": "Gardenia cornuta",
   "authorship": "Hemsl.",
-  "genus_name": "Gardenia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Gardenia",
   "gbif_id": "5335037",
   "powo_id": "750968-1",
   "iucn_id": "209851543",

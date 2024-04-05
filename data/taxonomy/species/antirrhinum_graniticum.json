@@ -1,8 +1,7 @@
 {
   "name": "Antirrhinum graniticum",
   "authorship": "Rothm.",
-  "genus_name": "Antirrhinum",
-  "family_name": "Plantaginaceae",
+  "parent_name": "Antirrhinum",
   "gbif_id": "7333212",
   "powo_id": "799120-1",
   "iucn_id": null,

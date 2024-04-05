@@ -1,8 +1,7 @@
 {
   "name": "Aloysia gratissima",
   "authorship": "(Gillies & Hook.) Tronc.",
-  "genus_name": "Aloysia",
-  "family_name": "Verbenaceae",
+  "parent_name": "Aloysia",
   "gbif_id": "5341161",
   "powo_id": "9643-2",
   "iucn_id": null,

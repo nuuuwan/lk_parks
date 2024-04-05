@@ -1,8 +1,7 @@
 {
   "name": "Cordia subcordata",
   "authorship": "Lam.",
-  "genus_name": "Cordia",
-  "family_name": "Boraginaceae",
+  "parent_name": "Cordia",
   "gbif_id": "5341267",
   "powo_id": "114575-1",
   "iucn_id": "33199",

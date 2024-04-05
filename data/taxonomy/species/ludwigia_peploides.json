@@ -1,8 +1,7 @@
 {
   "name": "Ludwigia peploides",
   "authorship": "(Kunth) P.H.Raven",
-  "genus_name": "Ludwigia",
-  "family_name": "Onagraceae",
+  "parent_name": "Ludwigia",
   "gbif_id": "5420991",
   "powo_id": "613407-1",
   "iucn_id": null,

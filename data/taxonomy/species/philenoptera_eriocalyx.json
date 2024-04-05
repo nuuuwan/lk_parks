@@ -1,8 +1,7 @@
 {
   "name": "Philenoptera eriocalyx",
   "authorship": "(Harms) Schrire",
-  "genus_name": "Philenoptera",
-  "family_name": "Fabaceae",
+  "parent_name": "Philenoptera",
   "gbif_id": "3976082",
   "powo_id": "1013768-1",
   "iucn_id": null,

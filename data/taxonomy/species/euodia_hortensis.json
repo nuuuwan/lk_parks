@@ -1,8 +1,7 @@
 {
   "name": "Euodia hortensis",
   "authorship": "J.R.Forst. & G.Forst.",
-  "genus_name": "Euodia",
-  "family_name": "Rutaceae",
+  "parent_name": "Euodia",
   "gbif_id": "5594509",
   "powo_id": "772897-1",
   "iucn_id": null,

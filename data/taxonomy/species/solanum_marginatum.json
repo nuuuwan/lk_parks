@@ -1,8 +1,7 @@
 {
   "name": "Solanum marginatum",
   "authorship": "L.f.",
-  "genus_name": "Solanum",
-  "family_name": "Solanaceae",
+  "parent_name": "Solanum",
   "gbif_id": "7538163",
   "powo_id": "819994-1",
   "iucn_id": "71782439",

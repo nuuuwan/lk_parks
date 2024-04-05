@@ -1,8 +1,7 @@
 {
   "name": "Tagetes lemmonii",
   "authorship": "A.Gray",
-  "genus_name": "Tagetes",
-  "family_name": "Asteraceae",
+  "parent_name": "Tagetes",
   "gbif_id": "3088569",
   "powo_id": "252119-1",
   "iucn_id": null,

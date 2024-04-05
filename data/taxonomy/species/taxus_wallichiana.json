@@ -1,8 +1,7 @@
 {
   "name": "Taxus wallichiana",
   "authorship": "Zucc.",
-  "genus_name": "Taxus",
-  "family_name": "Taxaceae",
+  "parent_name": "Taxus",
   "gbif_id": "5284540",
   "powo_id": "263869-1",
   "iucn_id": "46171879",

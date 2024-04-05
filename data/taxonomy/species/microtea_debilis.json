@@ -1,8 +1,7 @@
 {
   "name": "Microtea debilis",
   "authorship": "Sw.",
-  "genus_name": "Microtea",
-  "family_name": "Microteaceae",
+  "parent_name": "Microtea",
   "gbif_id": "6412855",
   "powo_id": "676291-1",
   "iucn_id": null,

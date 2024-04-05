@@ -1,8 +1,7 @@
 {
   "name": "Acacia elata",
   "authorship": "A.Cunn. ex Benth.",
-  "genus_name": "Acacia",
-  "family_name": "Fabaceae",
+  "parent_name": "Acacia",
   "gbif_id": "2973176",
   "powo_id": "470237-1",
   "iucn_id": null,

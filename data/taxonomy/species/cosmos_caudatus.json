@@ -1,8 +1,7 @@
 {
   "name": "Cosmos caudatus",
   "authorship": "Kunth",
-  "genus_name": "Cosmos",
-  "family_name": "Asteraceae",
+  "parent_name": "Cosmos",
   "gbif_id": "3098932",
   "powo_id": "198324-1",
   "iucn_id": null,

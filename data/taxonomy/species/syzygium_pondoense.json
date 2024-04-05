@@ -1,8 +1,7 @@
 {
   "name": "Syzygium pondoense",
   "authorship": "Engl.",
-  "genus_name": "Syzygium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syzygium",
   "gbif_id": "3182062",
   "powo_id": "602107-1",
   "iucn_id": "34947",

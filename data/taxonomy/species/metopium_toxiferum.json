@@ -1,8 +1,7 @@
 {
   "name": "Metopium toxiferum",
   "authorship": "(L.) Krug & Urb.",
-  "genus_name": "Metopium",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Metopium",
   "gbif_id": "3190602",
   "powo_id": "70067-1",
   "iucn_id": "181464467",

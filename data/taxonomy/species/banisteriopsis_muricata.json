@@ -1,8 +1,7 @@
 {
   "name": "Banisteriopsis muricata",
   "authorship": "(Cav.) Cuatrec.",
-  "genus_name": "Banisteriopsis",
-  "family_name": "Malpighiaceae",
+  "parent_name": "Banisteriopsis",
   "gbif_id": "3985018",
   "powo_id": "29242-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Sesbania drummondii",
   "authorship": "(Rydb.) Cory",
-  "genus_name": "Sesbania",
-  "family_name": "Fabaceae",
+  "parent_name": "Sesbania",
   "gbif_id": "2970712",
   "powo_id": "235082-2",
   "iucn_id": "19891518",

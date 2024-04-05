@@ -1,8 +1,7 @@
 {
   "name": "Chambeyronia magnifica",
   "authorship": "(H.E.Moore) Hodel & C.F.Barrett",
-  "genus_name": "Chambeyronia",
-  "family_name": "Arecaceae",
+  "parent_name": "Chambeyronia",
   "gbif_id": "12146883",
   "powo_id": "77220094-1",
   "iucn_id": null,

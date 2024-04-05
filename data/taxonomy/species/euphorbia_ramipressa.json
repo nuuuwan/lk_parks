@@ -1,8 +1,7 @@
 {
   "name": "Euphorbia ramipressa",
   "authorship": "Croizat",
-  "genus_name": "Euphorbia",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Euphorbia",
   "gbif_id": "3070518",
   "powo_id": "348001-1",
   "iucn_id": null,

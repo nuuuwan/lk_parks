@@ -1,8 +1,7 @@
 {
   "name": "Pyrus ussuriensis",
   "authorship": "Maxim.",
-  "genus_name": "Pyrus",
-  "family_name": "Rosaceae",
+  "parent_name": "Pyrus",
   "gbif_id": "8017230",
   "powo_id": "731337-1",
   "iucn_id": null,

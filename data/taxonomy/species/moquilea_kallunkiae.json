@@ -1,8 +1,7 @@
 {
   "name": "Moquilea kallunkiae",
   "authorship": "(Prance) Sothers & Prance",
-  "genus_name": "Moquilea",
-  "family_name": "Chrysobalanaceae",
+  "parent_name": "Moquilea",
   "gbif_id": "10828262",
   "powo_id": "60472924-2",
   "iucn_id": "151914543",

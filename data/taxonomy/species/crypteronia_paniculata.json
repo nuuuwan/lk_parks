@@ -1,8 +1,7 @@
 {
   "name": "Crypteronia paniculata",
   "authorship": "Blume",
-  "genus_name": "Crypteronia",
-  "family_name": "Crypteroniaceae",
+  "parent_name": "Crypteronia",
   "gbif_id": "8173081",
   "powo_id": "552858-1",
   "iucn_id": null,

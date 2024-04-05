@@ -1,8 +1,7 @@
 {
   "name": "Cyclolobium brasiliense",
   "authorship": "Benth.",
-  "genus_name": "Cyclolobium",
-  "family_name": "Fabaceae",
+  "parent_name": "Cyclolobium",
   "gbif_id": "2945204",
   "powo_id": "489267-1",
   "iucn_id": "170270117",

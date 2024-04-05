@@ -1,8 +1,7 @@
 {
   "name": "Bambusa tulda",
   "authorship": "Roxb.",
-  "genus_name": "Bambusa",
-  "family_name": "Poaceae",
+  "parent_name": "Bambusa",
   "gbif_id": "2705765",
   "powo_id": "392551-1",
   "iucn_id": null,

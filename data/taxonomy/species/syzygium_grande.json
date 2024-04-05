@@ -1,8 +1,7 @@
 {
   "name": "Syzygium grande",
   "authorship": "(Wight) Walp.",
-  "genus_name": "Syzygium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syzygium",
   "gbif_id": "3183729",
   "powo_id": "60440438-2",
   "iucn_id": null,

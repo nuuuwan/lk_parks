@@ -1,8 +1,7 @@
 {
   "name": "Bidens aristosa",
   "authorship": "(Michx.) Britton",
-  "genus_name": "Bidens",
-  "family_name": "Asteraceae",
+  "parent_name": "Bidens",
   "gbif_id": "5391901",
   "powo_id": "32306-2",
   "iucn_id": null,

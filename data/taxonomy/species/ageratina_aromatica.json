@@ -1,8 +1,7 @@
 {
   "name": "Ageratina aromatica",
   "authorship": "(L.) Spach",
-  "genus_name": "Ageratina",
-  "family_name": "Asteraceae",
+  "parent_name": "Ageratina",
   "gbif_id": "5400300",
   "powo_id": "1183567-2",
   "iucn_id": null,

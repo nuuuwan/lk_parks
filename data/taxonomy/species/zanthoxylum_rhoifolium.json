@@ -1,8 +1,7 @@
 {
   "name": "Zanthoxylum rhoifolium",
   "authorship": "Lam.",
-  "genus_name": "Zanthoxylum",
-  "family_name": "Rutaceae",
+  "parent_name": "Zanthoxylum",
   "gbif_id": "7269222",
   "powo_id": "775991-1",
   "iucn_id": "136793249",

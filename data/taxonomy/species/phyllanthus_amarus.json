@@ -1,8 +1,7 @@
 {
   "name": "Phyllanthus amarus",
   "authorship": "Schumach. & Thonn.",
-  "genus_name": "Phyllanthus",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Phyllanthus",
   "gbif_id": "5382589",
   "powo_id": "326408-2",
   "iucn_id": null,

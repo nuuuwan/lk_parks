@@ -1,8 +1,7 @@
 {
   "name": "Dombeya burgessiae",
   "authorship": "Gerrard ex Harv.",
-  "genus_name": "Dombeya",
-  "family_name": "Malvaceae",
+  "parent_name": "Dombeya",
   "gbif_id": "5406689",
   "powo_id": "822960-1",
   "iucn_id": "146224959",

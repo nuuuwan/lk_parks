@@ -1,8 +1,7 @@
 {
   "name": "Celtis balansae",
   "authorship": "Planch.",
-  "genus_name": "Celtis",
-  "family_name": "Cannabaceae",
+  "parent_name": "Celtis",
   "gbif_id": "4160186",
   "powo_id": "851002-1",
   "iucn_id": "37424",

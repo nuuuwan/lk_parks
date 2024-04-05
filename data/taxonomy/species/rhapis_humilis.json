@@ -1,8 +1,7 @@
 {
   "name": "Rhapis humilis",
   "authorship": "Blume",
-  "genus_name": "Rhapis",
-  "family_name": "Arecaceae",
+  "parent_name": "Rhapis",
   "gbif_id": "2736737",
   "powo_id": "669582-1",
   "iucn_id": null,

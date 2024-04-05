@@ -1,8 +1,7 @@
 {
   "name": "Capsicum chinense",
   "authorship": "Jacq.",
-  "genus_name": "Capsicum",
-  "family_name": "Solanaceae",
+  "parent_name": "Capsicum",
   "gbif_id": "2932942",
   "powo_id": "814752-1",
   "iucn_id": null,

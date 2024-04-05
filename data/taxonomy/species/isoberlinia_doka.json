@@ -1,8 +1,7 @@
 {
   "name": "Isoberlinia doka",
   "authorship": "Craib & Stapf",
-  "genus_name": "Isoberlinia",
-  "family_name": "Fabaceae",
+  "parent_name": "Isoberlinia",
   "gbif_id": "2976331",
   "powo_id": "500988-1",
   "iucn_id": "19892774",

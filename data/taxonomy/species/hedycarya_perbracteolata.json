@@ -1,8 +1,7 @@
 {
   "name": "Hedycarya perbracteolata",
   "authorship": "J\u00e9r\u00e9mie",
-  "genus_name": "Hedycarya",
-  "family_name": "Monimiaceae",
+  "parent_name": "Hedycarya",
   "gbif_id": "3782688",
   "powo_id": "902145-1",
   "iucn_id": "189500202",

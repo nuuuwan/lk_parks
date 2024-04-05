@@ -1,8 +1,7 @@
 {
   "name": "Canthium inerme",
   "authorship": "(L.f.) Kuntze",
-  "genus_name": "Canthium",
-  "family_name": "Rubiaceae",
+  "parent_name": "Canthium",
   "gbif_id": "2917498",
   "powo_id": "745470-1",
   "iucn_id": "146455095",

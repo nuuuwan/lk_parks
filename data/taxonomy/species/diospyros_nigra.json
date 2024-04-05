@@ -1,8 +1,7 @@
 {
   "name": "Diospyros nigra",
   "authorship": "(J.F.Gmel.) Perr.",
-  "genus_name": "Diospyros",
-  "family_name": "Ebenaceae",
+  "parent_name": "Diospyros",
   "gbif_id": "8115692",
   "powo_id": "322764-1",
   "iucn_id": "173620",

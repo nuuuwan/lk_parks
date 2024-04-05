@@ -1,8 +1,7 @@
 {
   "name": "Barteria fistulosa",
   "authorship": "Mast.",
-  "genus_name": "Barteria",
-  "family_name": "Passifloraceae",
+  "parent_name": "Barteria",
   "gbif_id": "5527829",
   "powo_id": "674233-1",
   "iucn_id": "147043417",

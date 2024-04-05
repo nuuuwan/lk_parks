@@ -1,8 +1,7 @@
 {
   "name": "Aloe elgonica",
   "authorship": "Bullock",
-  "genus_name": "Aloe",
-  "family_name": "Asphodelaceae",
+  "parent_name": "Aloe",
   "gbif_id": "2777367",
   "powo_id": "529424-1",
   "iucn_id": "110717913",

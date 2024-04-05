@@ -1,8 +1,7 @@
 {
   "name": "Gardenia brighamii",
   "authorship": "H.Mann",
-  "genus_name": "Gardenia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Gardenia",
   "gbif_id": "5335036",
   "powo_id": "750931-1",
   "iucn_id": "30927",

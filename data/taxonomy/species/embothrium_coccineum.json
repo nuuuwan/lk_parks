@@ -1,8 +1,7 @@
 {
   "name": "Embothrium coccineum",
   "authorship": "J.R.Forst. & G.Forst.",
-  "genus_name": "Embothrium",
-  "family_name": "Proteaceae",
+  "parent_name": "Embothrium",
   "gbif_id": "7124132",
   "powo_id": "703489-1",
   "iucn_id": "112631953",

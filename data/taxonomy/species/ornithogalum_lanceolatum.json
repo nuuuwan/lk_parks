@@ -1,8 +1,7 @@
 {
   "name": "Ornithogalum lanceolatum",
   "authorship": "Labill.",
-  "genus_name": "Ornithogalum",
-  "family_name": "Asparagaceae",
+  "parent_name": "Ornithogalum",
   "gbif_id": "2773361",
   "powo_id": "539301-1",
   "iucn_id": null,

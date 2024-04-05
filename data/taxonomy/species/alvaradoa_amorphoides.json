@@ -1,8 +1,7 @@
 {
   "name": "Alvaradoa amorphoides",
   "authorship": "Liebm.",
-  "genus_name": "Alvaradoa",
-  "family_name": "Picramniaceae",
+  "parent_name": "Alvaradoa",
   "gbif_id": "5421375",
   "powo_id": "781999-1",
   "iucn_id": "150116995",

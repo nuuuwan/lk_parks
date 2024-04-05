@@ -1,8 +1,7 @@
 {
   "name": "Leopoldinia pulchra",
   "authorship": "Mart.",
-  "genus_name": "Leopoldinia",
-  "family_name": "Arecaceae",
+  "parent_name": "Leopoldinia",
   "gbif_id": "2732588",
   "powo_id": "667794-1",
   "iucn_id": "58933150",

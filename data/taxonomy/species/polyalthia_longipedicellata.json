@@ -1,8 +1,7 @@
 {
   "name": "Polyalthia longipedicellata",
   "authorship": "(Alister, G.Rajkumar, Nazarudeen & Pandur.) Shailaj., B.Parthipan, A.K.Sreekala & E.S.S.Kumar",
-  "genus_name": "Polyalthia",
-  "family_name": "Annonaceae",
+  "parent_name": "Polyalthia",
   "gbif_id": "12236288",
   "powo_id": "77216470-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Acacia baileyana",
   "authorship": "F.Muell.",
-  "genus_name": "Acacia",
-  "family_name": "Fabaceae",
+  "parent_name": "Acacia",
   "gbif_id": "2981303",
   "powo_id": "469798-1",
   "iucn_id": null,

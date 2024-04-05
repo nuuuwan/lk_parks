@@ -1,8 +1,7 @@
 {
   "name": "Dracaena braunii",
   "authorship": "Engl.",
-  "genus_name": "Dracaena",
-  "family_name": "Asparagaceae",
+  "parent_name": "Dracaena",
   "gbif_id": "5304712",
   "powo_id": "534129-1",
   "iucn_id": null,

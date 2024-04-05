@@ -1,8 +1,7 @@
 {
   "name": "Garcinia prainiana",
   "authorship": "King",
-  "genus_name": "Garcinia",
-  "family_name": "Clusiaceae",
+  "parent_name": "Garcinia",
   "gbif_id": "3713104",
   "powo_id": "428183-1",
   "iucn_id": "36327",

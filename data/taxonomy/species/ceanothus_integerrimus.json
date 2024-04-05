@@ -1,8 +1,7 @@
 {
   "name": "Ceanothus integerrimus",
   "authorship": "Hook. & Arn.",
-  "genus_name": "Ceanothus",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Ceanothus",
   "gbif_id": "3039382",
   "powo_id": "30133035-2",
   "iucn_id": null,

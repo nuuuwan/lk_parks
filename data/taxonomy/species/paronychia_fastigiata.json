@@ -1,8 +1,7 @@
 {
   "name": "Paronychia fastigiata",
   "authorship": "(Raf.) Fernald",
-  "genus_name": "Paronychia",
-  "family_name": "Caryophyllaceae",
+  "parent_name": "Paronychia",
   "gbif_id": "5384726",
   "powo_id": "183579-2",
   "iucn_id": null,

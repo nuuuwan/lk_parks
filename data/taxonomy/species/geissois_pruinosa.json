@@ -1,8 +1,7 @@
 {
   "name": "Geissois pruinosa",
   "authorship": "Brongn. & Gris",
-  "genus_name": "Geissois",
-  "family_name": "Cunoniaceae",
+  "parent_name": "Geissois",
   "gbif_id": "7333818",
   "powo_id": "791193-1",
   "iucn_id": "116169586",

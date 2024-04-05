@@ -1,8 +1,7 @@
 {
   "name": "Shorea robusta",
   "authorship": "C.F.Gaertn.",
-  "genus_name": "Shorea",
-  "family_name": "Dipterocarpaceae",
+  "parent_name": "Shorea",
   "gbif_id": "3189684",
   "powo_id": "321425-1",
   "iucn_id": "32097",

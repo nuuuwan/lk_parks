@@ -1,8 +1,7 @@
 {
   "name": "Sedum magellense",
   "authorship": "Ten.",
-  "genus_name": "Sedum",
-  "family_name": "Crassulaceae",
+  "parent_name": "Sedum",
   "gbif_id": "7334750",
   "powo_id": "275661-1",
   "iucn_id": null,

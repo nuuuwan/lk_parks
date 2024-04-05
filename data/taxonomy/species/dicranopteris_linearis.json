@@ -1,8 +1,7 @@
 {
   "name": "Dicranopteris linearis",
   "authorship": "(Burm.f.) Underw.",
-  "genus_name": "Dicranopteris",
-  "family_name": "Gleicheniaceae",
+  "parent_name": "Dicranopteris",
   "gbif_id": "5275373",
   "powo_id": "17245530-1",
   "iucn_id": "120202792",

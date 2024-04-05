@@ -1,8 +1,7 @@
 {
   "name": "Grevillea johnsonii",
   "authorship": "McGill.",
-  "genus_name": "Grevillea",
-  "family_name": "Proteaceae",
+  "parent_name": "Grevillea",
   "gbif_id": "3996945",
   "powo_id": "703870-1",
   "iucn_id": "113022140",

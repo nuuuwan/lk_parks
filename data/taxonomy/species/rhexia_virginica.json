@@ -1,8 +1,7 @@
 {
   "name": "Rhexia virginica",
   "authorship": "L.",
-  "genus_name": "Rhexia",
-  "family_name": "Melastomataceae",
+  "parent_name": "Rhexia",
   "gbif_id": "6370198",
   "powo_id": "30028730-2",
   "iucn_id": "64323209",

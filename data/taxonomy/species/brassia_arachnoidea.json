@@ -1,8 +1,7 @@
 {
   "name": "Brassia arachnoidea",
   "authorship": "Barb.Rodr.",
-  "genus_name": "Brassia",
-  "family_name": "Orchidaceae",
+  "parent_name": "Brassia",
   "gbif_id": "5323897",
   "powo_id": "618074-1",
   "iucn_id": null,

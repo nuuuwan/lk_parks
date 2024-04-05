@@ -1,8 +1,7 @@
 {
   "name": "Salvadora persica",
   "authorship": "L.",
-  "genus_name": "Salvadora",
-  "family_name": "Salvadoraceae",
+  "parent_name": "Salvadora",
   "gbif_id": "5580727",
   "powo_id": "779348-1",
   "iucn_id": "138472280",

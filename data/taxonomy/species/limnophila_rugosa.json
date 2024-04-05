@@ -1,8 +1,7 @@
 {
   "name": "Limnophila rugosa",
   "authorship": "(Roth) Merr.",
-  "genus_name": "Limnophila",
-  "family_name": "Plantaginaceae",
+  "parent_name": "Limnophila",
   "gbif_id": "5563114",
   "powo_id": "804357-1",
   "iucn_id": "168910",

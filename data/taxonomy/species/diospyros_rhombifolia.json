@@ -1,8 +1,7 @@
 {
   "name": "Diospyros rhombifolia",
   "authorship": "Hemsl.",
-  "genus_name": "Diospyros",
-  "family_name": "Ebenaceae",
+  "parent_name": "Diospyros",
   "gbif_id": "4070021",
   "powo_id": "322940-1",
   "iucn_id": "173921",

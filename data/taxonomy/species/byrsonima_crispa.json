@@ -1,8 +1,7 @@
 {
   "name": "Byrsonima crispa",
   "authorship": "A.Juss.",
-  "genus_name": "Byrsonima",
-  "family_name": "Malpighiaceae",
+  "parent_name": "Byrsonima",
   "gbif_id": "3986307",
   "powo_id": "556037-1",
   "iucn_id": "149932694",

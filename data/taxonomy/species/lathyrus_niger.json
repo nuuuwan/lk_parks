@@ -1,8 +1,7 @@
 {
   "name": "Lathyrus niger",
   "authorship": "(L.) Bernh.",
-  "genus_name": "Lathyrus",
-  "family_name": "Fabaceae",
+  "parent_name": "Lathyrus",
   "gbif_id": "5356662",
   "powo_id": "501886-1",
   "iucn_id": "120074701",

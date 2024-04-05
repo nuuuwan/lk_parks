@@ -1,8 +1,7 @@
 {
   "name": "Cydonia oblonga",
   "authorship": "Mill.",
-  "genus_name": "Cydonia",
-  "family_name": "Rosaceae",
+  "parent_name": "Cydonia",
   "gbif_id": "5362215",
   "powo_id": "724549-1",
   "iucn_id": "61611928",

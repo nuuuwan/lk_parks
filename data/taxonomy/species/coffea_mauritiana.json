@@ -1,8 +1,7 @@
 {
   "name": "Coffea mauritiana",
   "authorship": "Lam.",
-  "genus_name": "Coffea",
-  "family_name": "Rubiaceae",
+  "parent_name": "Coffea",
   "gbif_id": "2895430",
   "powo_id": "747190-1",
   "iucn_id": "18538384",

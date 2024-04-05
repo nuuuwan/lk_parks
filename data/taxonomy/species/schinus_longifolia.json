@@ -1,8 +1,7 @@
 {
   "name": "Schinus longifolia",
   "authorship": "(Lindl.) Speg.",
-  "genus_name": "Schinus",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Schinus",
   "gbif_id": "7412160",
   "powo_id": "71037-1",
   "iucn_id": "163032033",

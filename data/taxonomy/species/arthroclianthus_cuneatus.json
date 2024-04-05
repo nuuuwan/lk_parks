@@ -1,8 +1,7 @@
 {
   "name": "Arthroclianthus cuneatus",
   "authorship": "Schindl.",
-  "genus_name": "Arthroclianthus",
-  "family_name": "Fabaceae",
+  "parent_name": "Arthroclianthus",
   "gbif_id": "2956518",
   "powo_id": "475297-1",
   "iucn_id": null,

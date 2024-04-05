@@ -1,8 +1,7 @@
 {
   "name": "Pyracantha koidzumii",
   "authorship": "(Hayata) Rehder",
-  "genus_name": "Pyracantha",
-  "family_name": "Rosaceae",
+  "parent_name": "Pyracantha",
   "gbif_id": "2988162",
   "powo_id": "730619-1",
   "iucn_id": "35149",

@@ -1,8 +1,7 @@
 {
   "name": "Chukrasia tabularis",
   "authorship": "A.Juss.",
-  "genus_name": "Chukrasia",
-  "family_name": "Meliaceae",
+  "parent_name": "Chukrasia",
   "gbif_id": "4934732",
   "powo_id": "60465537-2",
   "iucn_id": "32651",

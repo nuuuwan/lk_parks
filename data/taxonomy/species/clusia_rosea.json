@@ -1,8 +1,7 @@
 {
   "name": "Clusia rosea",
   "authorship": "Jacq.",
-  "genus_name": "Clusia",
-  "family_name": "Clusiaceae",
+  "parent_name": "Clusia",
   "gbif_id": "5421060",
   "powo_id": "61583-2",
   "iucn_id": "136312479",

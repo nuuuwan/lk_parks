@@ -1,8 +1,7 @@
 {
   "name": "Acrotriche divaricata",
   "authorship": "R.Br.",
-  "genus_name": "Acrotriche",
-  "family_name": "Ericaceae",
+  "parent_name": "Acrotriche",
   "gbif_id": "4009947",
   "powo_id": "324803-1",
   "iucn_id": null,

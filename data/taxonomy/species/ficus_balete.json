@@ -1,8 +1,7 @@
 {
   "name": "Ficus balete",
   "authorship": "Merr.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5571666",
   "powo_id": "583231-1",
   "iucn_id": "153834547",

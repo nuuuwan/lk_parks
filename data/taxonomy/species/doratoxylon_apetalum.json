@@ -1,8 +1,7 @@
 {
   "name": "Doratoxylon apetalum",
   "authorship": "(Poir.) Radlk.",
-  "genus_name": "Doratoxylon",
-  "family_name": "Sapindaceae",
+  "parent_name": "Doratoxylon",
   "gbif_id": "7264734",
   "powo_id": "782996-1",
   "iucn_id": null,

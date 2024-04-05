@@ -1,8 +1,7 @@
 {
   "name": "Aquilaria malaccensis",
   "authorship": "Lam.",
-  "genus_name": "Aquilaria",
-  "family_name": "Thymelaeaceae",
+  "parent_name": "Aquilaria",
   "gbif_id": "5524063",
   "powo_id": "830835-1",
   "iucn_id": "32056",

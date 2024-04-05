@@ -1,8 +1,7 @@
 {
   "name": "Cyathea arborea",
   "authorship": "(L.) Sm.",
-  "genus_name": "Cyathea",
-  "family_name": "Cyatheaceae",
+  "parent_name": "Cyathea",
   "gbif_id": "2650280",
   "powo_id": "17071820-1",
   "iucn_id": null,

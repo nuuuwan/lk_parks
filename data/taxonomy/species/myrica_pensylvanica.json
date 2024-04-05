@@ -1,8 +1,7 @@
 {
   "name": "Myrica pensylvanica",
   "authorship": "Mirb.",
-  "genus_name": "Myrica",
-  "family_name": "Myricaceae",
+  "parent_name": "Myrica",
   "gbif_id": "5414217",
   "powo_id": "166255-2",
   "iucn_id": null,

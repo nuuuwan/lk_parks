@@ -1,8 +1,7 @@
 {
   "name": "Reseda villosa",
   "authorship": "Coss.",
-  "genus_name": "Reseda",
-  "family_name": "Resedaceae",
+  "parent_name": "Reseda",
   "gbif_id": "3916548",
   "powo_id": "715662-1",
   "iucn_id": null,

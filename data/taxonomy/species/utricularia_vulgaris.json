@@ -1,8 +1,7 @@
 {
   "name": "Utricularia vulgaris",
   "authorship": "L.",
-  "genus_name": "Utricularia",
-  "family_name": "Lentibulariaceae",
+  "parent_name": "Utricularia",
   "gbif_id": "3172427",
   "powo_id": "527199-1",
   "iucn_id": "164181",

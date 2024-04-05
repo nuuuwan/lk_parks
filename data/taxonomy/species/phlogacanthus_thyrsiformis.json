@@ -1,8 +1,7 @@
 {
   "name": "Phlogacanthus thyrsiformis",
   "authorship": "(Roxb. ex Hardw.) Mabb.",
-  "genus_name": "Phlogacanthus",
-  "family_name": "Acanthaceae",
+  "parent_name": "Phlogacanthus",
   "gbif_id": "3775560",
   "powo_id": "53085-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Zanthoxylum zanthoxyloides",
   "authorship": "(Lam.) Zepern. & Timler",
-  "genus_name": "Zanthoxylum",
-  "family_name": "Rutaceae",
+  "parent_name": "Zanthoxylum",
   "gbif_id": "3833043",
   "powo_id": "909846-1",
   "iucn_id": "156104577",

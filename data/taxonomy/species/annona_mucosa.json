@@ -1,8 +1,7 @@
 {
   "name": "Annona mucosa",
   "authorship": "Jacq.",
-  "genus_name": "Annona",
-  "family_name": "Annonaceae",
+  "parent_name": "Annona",
   "gbif_id": "5407571",
   "powo_id": "72259-1",
   "iucn_id": "142423363",

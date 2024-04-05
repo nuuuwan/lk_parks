@@ -1,8 +1,7 @@
 {
   "name": "Sloanea terniflora",
   "authorship": "(Moc. & Sess\u00e9 ex DC.) Standl.",
-  "genus_name": "Sloanea",
-  "family_name": "Elaeocarpaceae",
+  "parent_name": "Sloanea",
   "gbif_id": "5651141",
   "powo_id": "324587-1",
   "iucn_id": "176093644",

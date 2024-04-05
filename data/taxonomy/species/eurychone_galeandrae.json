@@ -1,8 +1,7 @@
 {
   "name": "Eurychone galeandrae",
   "authorship": "(Rchb.f.) Schltr.",
-  "genus_name": "Eurychone",
-  "family_name": "Orchidaceae",
+  "parent_name": "Eurychone",
   "gbif_id": "2834181",
   "powo_id": "635086-1",
   "iucn_id": null,

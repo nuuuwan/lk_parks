@@ -1,8 +1,7 @@
 {
   "name": "Artocarpus odoratissimus",
   "authorship": "Blanco",
-  "genus_name": "Artocarpus",
-  "family_name": "Moraceae",
+  "parent_name": "Artocarpus",
   "gbif_id": "2984571",
   "powo_id": "850422-1",
   "iucn_id": "86530097",

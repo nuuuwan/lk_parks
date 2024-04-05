@@ -1,8 +1,7 @@
 {
   "name": "Liriope muscari",
   "authorship": "(Decne.) L.H.Bailey",
-  "genus_name": "Liriope",
-  "family_name": "Asparagaceae",
+  "parent_name": "Liriope",
   "gbif_id": "5549949",
   "powo_id": "537868-1",
   "iucn_id": null,

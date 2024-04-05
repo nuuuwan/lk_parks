@@ -1,8 +1,7 @@
 {
   "name": "Thysanolaena latifolia",
   "authorship": "(Roxb. ex Hornem.) Honda",
-  "genus_name": "Thysanolaena",
-  "family_name": "Poaceae",
+  "parent_name": "Thysanolaena",
   "gbif_id": "4124764",
   "powo_id": "424281-1",
   "iucn_id": null,

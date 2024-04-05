@@ -1,8 +1,7 @@
 {
   "name": "Ziziphus nummularia",
   "authorship": "(Burm.f.) Wight & Arn.",
-  "genus_name": "Ziziphus",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Ziziphus",
   "gbif_id": "3039427",
   "powo_id": "20010326-1",
   "iucn_id": "19180915",

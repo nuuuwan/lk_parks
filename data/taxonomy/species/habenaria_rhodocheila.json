@@ -1,8 +1,7 @@
 {
   "name": "Habenaria rhodocheila",
   "authorship": "Hance",
-  "genus_name": "Habenaria",
-  "family_name": "Orchidaceae",
+  "parent_name": "Habenaria",
   "gbif_id": "2829840",
   "powo_id": "638021-1",
   "iucn_id": null,

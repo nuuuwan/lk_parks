@@ -1,8 +1,7 @@
 {
   "name": "Ficus thonningii",
   "authorship": "Blume",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5361900",
   "powo_id": "853830-1",
   "iucn_id": "146188444",

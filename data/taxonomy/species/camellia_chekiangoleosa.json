@@ -1,8 +1,7 @@
 {
   "name": "Camellia chekiangoleosa",
   "authorship": "Hu",
-  "genus_name": "Camellia",
-  "family_name": "Theaceae",
+  "parent_name": "Camellia",
   "gbif_id": "3590904",
   "powo_id": "829886-1",
   "iucn_id": "62051123",

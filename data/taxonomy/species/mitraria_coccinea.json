@@ -1,8 +1,7 @@
 {
   "name": "Mitraria coccinea",
   "authorship": "Cav.",
-  "genus_name": "Mitraria",
-  "family_name": "Gesneriaceae",
+  "parent_name": "Mitraria",
   "gbif_id": "5591192",
   "powo_id": "381777-1",
   "iucn_id": null,

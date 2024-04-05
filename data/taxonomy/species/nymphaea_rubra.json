@@ -1,8 +1,7 @@
 {
   "name": "Nymphaea rubra",
   "authorship": "Roxb. ex Andrews",
-  "genus_name": "Nymphaea",
-  "family_name": "Nymphaeaceae",
+  "parent_name": "Nymphaea",
   "gbif_id": "7365664",
   "powo_id": "605694-1",
   "iucn_id": "169021",

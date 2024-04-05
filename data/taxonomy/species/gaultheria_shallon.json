@@ -1,8 +1,7 @@
 {
   "name": "Gaultheria shallon",
   "authorship": "Pursh",
-  "genus_name": "Gaultheria",
-  "family_name": "Ericaceae",
+  "parent_name": "Gaultheria",
   "gbif_id": "2882758",
   "powo_id": "317388-2",
   "iucn_id": null,

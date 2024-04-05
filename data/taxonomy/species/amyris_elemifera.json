@@ -1,8 +1,7 @@
 {
   "name": "Amyris elemifera",
   "authorship": "L.",
-  "genus_name": "Amyris",
-  "family_name": "Rutaceae",
+  "parent_name": "Amyris",
   "gbif_id": "5421193",
   "powo_id": "126885-1",
   "iucn_id": "156771939",

@@ -1,8 +1,7 @@
 {
   "name": "Chimarrhis cymosa",
   "authorship": "Jacq.",
-  "genus_name": "Chimarrhis",
-  "family_name": "Rubiaceae",
+  "parent_name": "Chimarrhis",
   "gbif_id": "2918952",
   "powo_id": "318431-2",
   "iucn_id": null,

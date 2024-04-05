@@ -1,8 +1,7 @@
 {
   "name": "Zingiber officinale",
   "authorship": "Roscoe",
-  "genus_name": "Zingiber",
-  "family_name": "Zingiberaceae",
+  "parent_name": "Zingiber",
   "gbif_id": "2757280",
   "powo_id": "798372-1",
   "iucn_id": "88308170",

@@ -1,8 +1,7 @@
 {
   "name": "Leucothoe axillaris",
   "authorship": "(Lam.) D.Don",
-  "genus_name": "Leucothoe",
-  "family_name": "Ericaceae",
+  "parent_name": "Leucothoe",
   "gbif_id": "5333357",
   "powo_id": "331004-1",
   "iucn_id": null,

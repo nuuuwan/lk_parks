@@ -1,8 +1,7 @@
 {
   "name": "Phyllanthus acuminatus",
   "authorship": "Vahl",
-  "genus_name": "Phyllanthus",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Phyllanthus",
   "gbif_id": "5381441",
   "powo_id": "194611-2",
   "iucn_id": "208170194",

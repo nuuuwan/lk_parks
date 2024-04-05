@@ -1,8 +1,7 @@
 {
   "name": "Pseudopanax ferox",
   "authorship": "Kirk",
-  "genus_name": "Pseudopanax",
-  "family_name": "Araliaceae",
+  "parent_name": "Pseudopanax",
   "gbif_id": "3037484",
   "powo_id": "91856-1",
   "iucn_id": "30496",

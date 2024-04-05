@@ -1,8 +1,7 @@
 {
   "name": "Coreopsis verticillata",
   "authorship": "L.",
-  "genus_name": "Coreopsis",
-  "family_name": "Asteraceae",
+  "parent_name": "Coreopsis",
   "gbif_id": "3133887",
   "powo_id": "65944-2",
   "iucn_id": null,

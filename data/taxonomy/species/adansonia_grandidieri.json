@@ -1,8 +1,7 @@
 {
   "name": "Adansonia grandidieri",
   "authorship": "Baill.",
-  "genus_name": "Adansonia",
-  "family_name": "Malvaceae",
+  "parent_name": "Adansonia",
   "gbif_id": "5663154",
   "powo_id": "558630-1",
   "iucn_id": "30388",

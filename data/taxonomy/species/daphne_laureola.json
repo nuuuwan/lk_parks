@@ -1,8 +1,7 @@
 {
   "name": "Daphne laureola",
   "authorship": "L.",
-  "genus_name": "Daphne",
-  "family_name": "Thymelaeaceae",
+  "parent_name": "Daphne",
   "gbif_id": "5420853",
   "powo_id": "831270-1",
   "iucn_id": null,

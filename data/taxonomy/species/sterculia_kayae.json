@@ -1,8 +1,7 @@
 {
   "name": "Sterculia kayae",
   "authorship": "P.E.Berry",
-  "genus_name": "Sterculia",
-  "family_name": "Malvaceae",
+  "parent_name": "Sterculia",
   "gbif_id": "8057517",
   "powo_id": "60441753-2",
   "iucn_id": null,

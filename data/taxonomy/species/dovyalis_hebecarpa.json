@@ -1,8 +1,7 @@
 {
   "name": "Dovyalis hebecarpa",
   "authorship": "(Gardner) Warb.",
-  "genus_name": "Dovyalis",
-  "family_name": "Salicaceae",
+  "parent_name": "Dovyalis",
   "gbif_id": "2874134",
   "powo_id": "111561-1",
   "iucn_id": null,

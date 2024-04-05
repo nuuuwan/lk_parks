@@ -1,8 +1,7 @@
 {
   "name": "Nephrolepis cordifolia",
   "authorship": "(L.) C.Presl",
-  "genus_name": "Nephrolepis",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Nephrolepis",
   "gbif_id": "2650930",
   "powo_id": "17160730-1",
   "iucn_id": null,

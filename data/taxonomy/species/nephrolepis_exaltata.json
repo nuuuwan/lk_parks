@@ -1,8 +1,7 @@
 {
   "name": "Nephrolepis exaltata",
   "authorship": "(L.) Schott",
-  "genus_name": "Nephrolepis",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Nephrolepis",
   "gbif_id": "2650927",
   "powo_id": "17160830-1",
   "iucn_id": "192003740",

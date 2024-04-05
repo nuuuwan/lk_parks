@@ -1,8 +1,7 @@
 {
   "name": "Hydrocotyle sibthorpioides",
   "authorship": "Lam.",
-  "genus_name": "Hydrocotyle",
-  "family_name": "Araliaceae",
+  "parent_name": "Hydrocotyle",
   "gbif_id": "8418338",
   "powo_id": "843698-1",
   "iucn_id": "177226",

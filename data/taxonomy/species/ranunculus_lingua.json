@@ -1,8 +1,7 @@
 {
   "name": "Ranunculus lingua",
   "authorship": "L.",
-  "genus_name": "Ranunculus",
-  "family_name": "Ranunculaceae",
+  "parent_name": "Ranunculus",
   "gbif_id": "8310009",
   "powo_id": "713102-1",
   "iucn_id": "175245",

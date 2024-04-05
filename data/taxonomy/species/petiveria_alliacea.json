@@ -1,8 +1,7 @@
 {
   "name": "Petiveria alliacea",
   "authorship": "L.",
-  "genus_name": "Petiveria",
-  "family_name": "Petiveriaceae",
+  "parent_name": "Petiveria",
   "gbif_id": "3084012",
   "powo_id": "323288-2",
   "iucn_id": null,

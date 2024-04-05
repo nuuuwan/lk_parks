@@ -1,8 +1,7 @@
 {
   "name": "Elateriospermum tapos",
   "authorship": "Blume",
-  "genus_name": "Elateriospermum",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Elateriospermum",
   "gbif_id": "3071462",
   "powo_id": "345259-1",
   "iucn_id": "62003342",

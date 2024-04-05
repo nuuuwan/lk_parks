@@ -1,8 +1,7 @@
 {
   "name": "Amaranthus cruentus",
   "authorship": "L.",
-  "genus_name": "Amaranthus",
-  "family_name": "Amaranthaceae",
+  "parent_name": "Amaranthus",
   "gbif_id": "5384390",
   "powo_id": "10631-2",
   "iucn_id": null,

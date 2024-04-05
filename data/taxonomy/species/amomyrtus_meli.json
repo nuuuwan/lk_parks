@@ -1,8 +1,7 @@
 {
   "name": "Amomyrtus meli",
   "authorship": "(Phil.) D.Legrand & Kausel",
-  "genus_name": "Amomyrtus",
-  "family_name": "Myrtaceae",
+  "parent_name": "Amomyrtus",
   "gbif_id": "3186054",
   "powo_id": "11398-2",
   "iucn_id": "131396314",

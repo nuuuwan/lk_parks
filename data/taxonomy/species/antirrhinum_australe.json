@@ -1,8 +1,7 @@
 {
   "name": "Antirrhinum australe",
   "authorship": "Rothm.",
-  "genus_name": "Antirrhinum",
-  "family_name": "Plantaginaceae",
+  "parent_name": "Antirrhinum",
   "gbif_id": "3741328",
   "powo_id": "799012-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Syzygium anisatum",
   "authorship": "(Vickery) Craven & Biffin",
-  "genus_name": "Syzygium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syzygium",
   "gbif_id": "3184661",
   "powo_id": "77065696-1",
   "iucn_id": null,

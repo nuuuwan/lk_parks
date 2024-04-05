@@ -1,8 +1,7 @@
 {
   "name": "Cornus kousa",
   "authorship": "B\u00fcrger ex Hance",
-  "genus_name": "Cornus",
-  "family_name": "Cornaceae",
+  "parent_name": "Cornus",
   "gbif_id": "3082274",
   "powo_id": "30115668-2",
   "iucn_id": "130048568",

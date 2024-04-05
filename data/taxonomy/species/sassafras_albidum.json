@@ -1,8 +1,7 @@
 {
   "name": "Sassafras albidum",
   "authorship": "(Nutt.) Nees",
-  "genus_name": "Sassafras",
-  "family_name": "Lauraceae",
+  "parent_name": "Sassafras",
   "gbif_id": "3034002",
   "powo_id": "468624-1",
   "iucn_id": "62020487",

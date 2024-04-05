@@ -1,8 +1,7 @@
 {
   "name": "Myriophyllum spicatum",
   "authorship": "L.",
-  "genus_name": "Myriophyllum",
-  "family_name": "Haloragaceae",
+  "parent_name": "Myriophyllum",
   "gbif_id": "5361760",
   "powo_id": "430465-1",
   "iucn_id": "164481",

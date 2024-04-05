@@ -1,8 +1,7 @@
 {
   "name": "Pinus glabra",
   "authorship": "Walter",
-  "genus_name": "Pinus",
-  "family_name": "Pinaceae",
+  "parent_name": "Pinus",
   "gbif_id": "5285140",
   "powo_id": "262965-1",
   "iucn_id": "42364",

@@ -1,8 +1,7 @@
 {
   "name": "Pinus taeda",
   "authorship": "L.",
-  "genus_name": "Pinus",
-  "family_name": "Pinaceae",
+  "parent_name": "Pinus",
   "gbif_id": "5285241",
   "powo_id": "263357-1",
   "iucn_id": "42420",

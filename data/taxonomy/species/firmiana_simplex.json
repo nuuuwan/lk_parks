@@ -1,8 +1,7 @@
 {
   "name": "Firmiana simplex",
   "authorship": "(L.) W.Wight",
-  "genus_name": "Firmiana",
-  "family_name": "Malvaceae",
+  "parent_name": "Firmiana",
   "gbif_id": "3152111",
   "powo_id": "823357-1",
   "iucn_id": "144249801",

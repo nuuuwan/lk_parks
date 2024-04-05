@@ -1,8 +1,7 @@
 {
   "name": "Crescentia cujete",
   "authorship": "L.",
-  "genus_name": "Crescentia",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Crescentia",
   "gbif_id": "5415081",
   "powo_id": "319161-2",
   "iucn_id": "144274257",

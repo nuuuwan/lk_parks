@@ -1,8 +1,7 @@
 {
   "name": "Polystachya humbertii",
   "authorship": "H.Perrier",
-  "genus_name": "Polystachya",
-  "family_name": "Orchidaceae",
+  "parent_name": "Polystachya",
   "gbif_id": "2792071",
   "powo_id": "654366-1",
   "iucn_id": null,

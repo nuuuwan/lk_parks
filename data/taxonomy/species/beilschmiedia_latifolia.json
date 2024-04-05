@@ -1,8 +1,7 @@
 {
   "name": "Beilschmiedia latifolia",
   "authorship": "(Nees) Sachiko Nishida",
-  "genus_name": "Beilschmiedia",
-  "family_name": "Lauraceae",
+  "parent_name": "Beilschmiedia",
   "gbif_id": "4176690",
   "powo_id": "1174775-2",
   "iucn_id": "145280415",

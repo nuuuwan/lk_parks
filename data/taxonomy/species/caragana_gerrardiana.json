@@ -1,8 +1,7 @@
 {
   "name": "Caragana gerrardiana",
   "authorship": "Benth.",
-  "genus_name": "Caragana",
-  "family_name": "Fabaceae",
+  "parent_name": "Caragana",
   "gbif_id": "2943251",
   "powo_id": "483833-1",
   "iucn_id": null,

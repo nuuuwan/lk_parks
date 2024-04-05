@@ -1,8 +1,7 @@
 {
   "name": "Rosa multiflora",
   "authorship": "Thunb.",
-  "genus_name": "Rosa",
-  "family_name": "Rosaceae",
+  "parent_name": "Rosa",
   "gbif_id": "3003244",
   "powo_id": "927374-1",
   "iucn_id": null,

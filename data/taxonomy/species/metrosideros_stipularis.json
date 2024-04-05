@@ -1,8 +1,7 @@
 {
   "name": "Metrosideros stipularis",
   "authorship": "(Hook. & Arn.) Hook.f.",
-  "genus_name": "Metrosideros",
-  "family_name": "Myrtaceae",
+  "parent_name": "Metrosideros",
   "gbif_id": "3188370",
   "powo_id": "598328-1",
   "iucn_id": "131399573",

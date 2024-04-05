@@ -1,8 +1,7 @@
 {
   "name": "Acanthophoenix rubra",
   "authorship": "(Bory) H.Wendl.",
-  "genus_name": "Acanthophoenix",
-  "family_name": "Arecaceae",
+  "parent_name": "Acanthophoenix",
   "gbif_id": "2738443",
   "powo_id": "663892-1",
   "iucn_id": "38181",

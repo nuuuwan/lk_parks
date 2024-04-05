@@ -1,8 +1,7 @@
 {
   "name": "Rhamnus saxatilis",
   "authorship": "Jacq.",
-  "genus_name": "Rhamnus",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Rhamnus",
   "gbif_id": "6371028",
   "powo_id": "718640-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Koelreuteria elegans",
   "authorship": "(Seem.) A.C.Sm.",
-  "genus_name": "Koelreuteria",
-  "family_name": "Sapindaceae",
+  "parent_name": "Koelreuteria",
   "gbif_id": "5421178",
   "powo_id": "783419-1",
   "iucn_id": null,

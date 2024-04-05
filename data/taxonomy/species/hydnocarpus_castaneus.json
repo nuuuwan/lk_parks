@@ -1,8 +1,7 @@
 {
   "name": "Hydnocarpus castaneus",
   "authorship": "Hook.f. & Thomson",
-  "genus_name": "Hydnocarpus",
-  "family_name": "Achariaceae",
+  "parent_name": "Hydnocarpus",
   "gbif_id": "3878251",
   "powo_id": "111741-1",
   "iucn_id": null,

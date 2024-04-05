@@ -1,8 +1,7 @@
 {
   "name": "Sterculia apeibophylla",
   "authorship": "Ducke",
-  "genus_name": "Sterculia",
-  "family_name": "Malvaceae",
+  "parent_name": "Sterculia",
   "gbif_id": "7745281",
   "powo_id": "245149-2",
   "iucn_id": null,

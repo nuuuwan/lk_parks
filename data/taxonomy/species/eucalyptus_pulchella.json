@@ -1,8 +1,7 @@
 {
   "name": "Eucalyptus pulchella",
   "authorship": "Desf.",
-  "genus_name": "Eucalyptus",
-  "family_name": "Myrtaceae",
+  "parent_name": "Eucalyptus",
   "gbif_id": "3176982",
   "powo_id": "593282-1",
   "iucn_id": "133372856",

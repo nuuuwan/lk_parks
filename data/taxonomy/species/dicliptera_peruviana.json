@@ -1,8 +1,7 @@
 {
   "name": "Dicliptera peruviana",
   "authorship": "(Lam.) Juss.",
-  "genus_name": "Dicliptera",
-  "family_name": "Acanthaceae",
+  "parent_name": "Dicliptera",
   "gbif_id": "5575249",
   "powo_id": "47637-1",
   "iucn_id": null,

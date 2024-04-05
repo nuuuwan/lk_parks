@@ -1,8 +1,7 @@
 {
   "name": "Austromyrtus tenuifolia",
   "authorship": "(Sm.) Burret",
-  "genus_name": "Austromyrtus",
-  "family_name": "Myrtaceae",
+  "parent_name": "Austromyrtus",
   "gbif_id": "3177355",
   "powo_id": "591006-1",
   "iucn_id": null,

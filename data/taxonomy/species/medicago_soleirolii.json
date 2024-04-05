@@ -1,8 +1,7 @@
 {
   "name": "Medicago soleirolii",
   "authorship": "Duby",
-  "genus_name": "Medicago",
-  "family_name": "Fabaceae",
+  "parent_name": "Medicago",
   "gbif_id": "2965516",
   "powo_id": "506427-1",
   "iucn_id": "176499",

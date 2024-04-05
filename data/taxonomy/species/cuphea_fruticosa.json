@@ -1,8 +1,7 @@
 {
   "name": "Cuphea fruticosa",
   "authorship": "Spreng.",
-  "genus_name": "Cuphea",
-  "family_name": "Lythraceae",
+  "parent_name": "Cuphea",
   "gbif_id": "7286085",
   "powo_id": "553001-1",
   "iucn_id": null,

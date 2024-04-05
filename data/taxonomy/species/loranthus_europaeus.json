@@ -1,8 +1,7 @@
 {
   "name": "Loranthus europaeus",
   "authorship": "Jacq.",
-  "genus_name": "Loranthus",
-  "family_name": "Loranthaceae",
+  "parent_name": "Loranthus",
   "gbif_id": "5639535",
   "powo_id": "549404-1",
   "iucn_id": null,

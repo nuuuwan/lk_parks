@@ -1,8 +1,7 @@
 {
   "name": "Cyathea alata",
   "authorship": "(E.Fourn.) Copel.",
-  "genus_name": "Cyathea",
-  "family_name": "Cyatheaceae",
+  "parent_name": "Cyathea",
   "gbif_id": "3599058",
   "powo_id": "17314970-1",
   "iucn_id": "154776849",

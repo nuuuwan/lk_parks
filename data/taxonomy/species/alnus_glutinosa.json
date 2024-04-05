@@ -1,8 +1,7 @@
 {
   "name": "Alnus glutinosa",
   "authorship": "(L.) Gaertn.",
-  "genus_name": "Alnus",
-  "family_name": "Betulaceae",
+  "parent_name": "Alnus",
   "gbif_id": "2876213",
   "powo_id": "30036759-2",
   "iucn_id": "63517",

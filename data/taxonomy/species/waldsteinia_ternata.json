@@ -1,8 +1,7 @@
 {
   "name": "Waldsteinia ternata",
   "authorship": "(Stephan) Fritsch",
-  "genus_name": "Waldsteinia",
-  "family_name": "Rosaceae",
+  "parent_name": "Waldsteinia",
   "gbif_id": "2986317",
   "powo_id": "742776-1",
   "iucn_id": null,

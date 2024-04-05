@@ -1,8 +1,7 @@
 {
   "name": "Taxus media",
   "authorship": "Rehder",
-  "genus_name": "Taxus",
-  "family_name": "Taxaceae",
+  "parent_name": "Taxus",
   "gbif_id": "6420771",
   "powo_id": "828366-1",
   "iucn_id": null,

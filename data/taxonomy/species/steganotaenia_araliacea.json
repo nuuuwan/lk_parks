@@ -1,8 +1,7 @@
 {
   "name": "Steganotaenia araliacea",
   "authorship": "Hochst.",
-  "genus_name": "Steganotaenia",
-  "family_name": "Apiaceae",
+  "parent_name": "Steganotaenia",
   "gbif_id": "3637619",
   "powo_id": "849204-1",
   "iucn_id": "146197505",

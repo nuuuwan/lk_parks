@@ -1,8 +1,7 @@
 {
   "name": "Agathis macrophylla",
   "authorship": "(Lindl.) Mast.",
-  "genus_name": "Agathis",
-  "family_name": "Araucariaceae",
+  "parent_name": "Agathis",
   "gbif_id": "5284401",
   "powo_id": "676647-1",
   "iucn_id": "34321",

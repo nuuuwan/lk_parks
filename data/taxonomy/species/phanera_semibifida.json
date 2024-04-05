@@ -1,8 +1,7 @@
 {
   "name": "Phanera semibifida",
   "authorship": "(Roxb.) Benth.",
-  "genus_name": "Phanera",
-  "family_name": "Fabaceae",
+  "parent_name": "Phanera",
   "gbif_id": "2953091",
   "powo_id": "513582-1",
   "iucn_id": null,

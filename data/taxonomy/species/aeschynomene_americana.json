@@ -1,8 +1,7 @@
 {
   "name": "Aeschynomene americana",
   "authorship": "L.",
-  "genus_name": "Aeschynomene",
-  "family_name": "Fabaceae",
+  "parent_name": "Aeschynomene",
   "gbif_id": "2949235",
   "powo_id": "316404-2",
   "iucn_id": null,

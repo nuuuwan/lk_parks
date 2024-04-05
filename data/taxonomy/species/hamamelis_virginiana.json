@@ -1,8 +1,7 @@
 {
   "name": "Hamamelis virginiana",
   "authorship": "L.",
-  "genus_name": "Hamamelis",
-  "family_name": "Hamamelidaceae",
+  "parent_name": "Hamamelis",
   "gbif_id": "3152827",
   "powo_id": "430697-1",
   "iucn_id": "62018973",

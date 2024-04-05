@@ -1,8 +1,7 @@
 {
   "name": "Calycanthus floridus",
   "authorship": "L.",
-  "genus_name": "Calycanthus",
-  "family_name": "Calycanthaceae",
+  "parent_name": "Calycanthus",
   "gbif_id": "3034113",
   "powo_id": "42922-2",
   "iucn_id": null,

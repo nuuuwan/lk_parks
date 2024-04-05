@@ -1,8 +1,7 @@
 {
   "name": "Stenotaphrum dimidiatum",
   "authorship": "(L.) Brongn.",
-  "genus_name": "Stenotaphrum",
-  "family_name": "Poaceae",
+  "parent_name": "Stenotaphrum",
   "gbif_id": "4119008",
   "powo_id": "76381-3",
   "iucn_id": null,

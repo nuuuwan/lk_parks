@@ -1,8 +1,7 @@
 {
   "name": "Paullinia trigonia",
   "authorship": "Vell.",
-  "genus_name": "Paullinia",
-  "family_name": "Sapindaceae",
+  "parent_name": "Paullinia",
   "gbif_id": "3787203",
   "powo_id": "784316-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Bougainvillea spectabilis",
   "authorship": "Willd.",
-  "genus_name": "Bougainvillea",
-  "family_name": "Nyctaginaceae",
+  "parent_name": "Bougainvillea",
   "gbif_id": "7167078",
   "powo_id": "604358-1",
   "iucn_id": null,

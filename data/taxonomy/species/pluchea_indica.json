@@ -1,8 +1,7 @@
 {
   "name": "Pluchea indica",
   "authorship": "(L.) Less.",
-  "genus_name": "Pluchea",
-  "family_name": "Asteraceae",
+  "parent_name": "Pluchea",
   "gbif_id": "3132728",
   "powo_id": "238839-1",
   "iucn_id": null,

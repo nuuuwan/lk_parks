@@ -1,8 +1,7 @@
 {
   "name": "Camellia oleifera",
   "authorship": "C.Abel",
-  "genus_name": "Camellia",
-  "family_name": "Theaceae",
+  "parent_name": "Camellia",
   "gbif_id": "8307542",
   "powo_id": "828535-1",
   "iucn_id": "62056210",

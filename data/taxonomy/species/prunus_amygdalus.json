@@ -1,8 +1,7 @@
 {
   "name": "Prunus amygdalus",
   "authorship": "Batsch",
-  "genus_name": "Prunus",
-  "family_name": "Rosaceae",
+  "parent_name": "Prunus",
   "gbif_id": "3020980",
   "powo_id": "60439867-2",
   "iucn_id": null,

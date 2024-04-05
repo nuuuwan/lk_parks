@@ -1,8 +1,7 @@
 {
   "name": "Monardella australis",
   "authorship": "Abrams",
-  "genus_name": "Monardella",
-  "family_name": "Lamiaceae",
+  "parent_name": "Monardella",
   "gbif_id": "2926521",
   "powo_id": "163321-2",
   "iucn_id": null,

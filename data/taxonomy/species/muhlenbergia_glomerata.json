@@ -1,8 +1,7 @@
 {
   "name": "Muhlenbergia glomerata",
   "authorship": "(Willd.) Trin.",
-  "genus_name": "Muhlenbergia",
-  "family_name": "Poaceae",
+  "parent_name": "Muhlenbergia",
   "gbif_id": "2703976",
   "powo_id": "409033-1",
   "iucn_id": "64318265",

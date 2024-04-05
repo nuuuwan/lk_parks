@@ -1,8 +1,7 @@
 {
   "name": "Malva trimestris",
   "authorship": "(L.) Salisb.",
-  "genus_name": "Malva",
-  "family_name": "Malvaceae",
+  "parent_name": "Malva",
   "gbif_id": "3940326",
   "powo_id": "561957-1",
   "iucn_id": null,

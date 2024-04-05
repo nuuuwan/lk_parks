@@ -1,8 +1,7 @@
 {
   "name": "Rosenbergiodendron formosum",
   "authorship": "(Jacq.) Fagerl.",
-  "genus_name": "Rosenbergiodendron",
-  "family_name": "Rubiaceae",
+  "parent_name": "Rosenbergiodendron",
   "gbif_id": "2904221",
   "powo_id": "222508-2",
   "iucn_id": "151954283",

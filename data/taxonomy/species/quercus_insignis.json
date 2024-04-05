@@ -1,8 +1,7 @@
 {
   "name": "Quercus insignis",
   "authorship": "M.Martens & Galeotti",
-  "genus_name": "Quercus",
-  "family_name": "Fagaceae",
+  "parent_name": "Quercus",
   "gbif_id": "2880526",
   "powo_id": "296307-1",
   "iucn_id": "194177",

@@ -1,8 +1,7 @@
 {
   "name": "Cestrum aurantiacum",
   "authorship": "Lindl.",
-  "genus_name": "Cestrum",
-  "family_name": "Solanaceae",
+  "parent_name": "Cestrum",
   "gbif_id": "2928790",
   "powo_id": "814910-1",
   "iucn_id": "136788108",

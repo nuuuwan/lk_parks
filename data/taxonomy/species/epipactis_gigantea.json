@@ -1,8 +1,7 @@
 {
   "name": "Epipactis gigantea",
   "authorship": "Douglas",
-  "genus_name": "Epipactis",
-  "family_name": "Orchidaceae",
+  "parent_name": "Epipactis",
   "gbif_id": "8144712",
   "powo_id": "92675-2",
   "iucn_id": "64311354",

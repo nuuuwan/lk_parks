@@ -1,8 +1,7 @@
 {
   "name": "Ferocactus cylindraceus",
   "authorship": "(Engelm.) Orcutt",
-  "genus_name": "Ferocactus",
-  "family_name": "Cactaceae",
+  "parent_name": "Ferocactus",
   "gbif_id": "3084150",
   "powo_id": "103619-2",
   "iucn_id": "152556",

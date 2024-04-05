@@ -1,8 +1,7 @@
 {
   "name": "Amaioua intermedia",
   "authorship": "Mart. ex Schult. & Schult.f.",
-  "genus_name": "Amaioua",
-  "family_name": "Rubiaceae",
+  "parent_name": "Amaioua",
   "gbif_id": "2901131",
   "powo_id": "315591-2",
   "iucn_id": "194008453",

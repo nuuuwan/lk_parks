@@ -1,8 +1,7 @@
 {
   "name": "Daniellia oliveri",
   "authorship": "(Rolfe) Hutch. & Dalziel",
-  "genus_name": "Daniellia",
-  "family_name": "Fabaceae",
+  "parent_name": "Daniellia",
   "gbif_id": "2948733",
   "powo_id": "490996-1",
   "iucn_id": "144315321",

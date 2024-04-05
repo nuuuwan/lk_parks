@@ -1,8 +1,7 @@
 {
   "name": "Pectinopitys ferruginoides",
   "authorship": "(Compton) C.N.Page",
-  "genus_name": "Pectinopitys",
-  "family_name": "Podocarpaceae",
+  "parent_name": "Pectinopitys",
   "gbif_id": "11070861",
   "powo_id": "77203783-1",
   "iucn_id": null,

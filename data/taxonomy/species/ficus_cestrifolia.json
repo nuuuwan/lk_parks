@@ -1,8 +1,7 @@
 {
   "name": "Ficus cestrifolia",
   "authorship": "Schott",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "7350865",
   "powo_id": "852582-1",
   "iucn_id": "149186647",

@@ -1,8 +1,7 @@
 {
   "name": "Warneckea trinervis",
   "authorship": "(DC.) Jacq.-F\u00e9l.",
-  "genus_name": "Warneckea",
-  "family_name": "Melastomataceae",
+  "parent_name": "Warneckea",
   "gbif_id": "8746037",
   "powo_id": "576926-1",
   "iucn_id": null,

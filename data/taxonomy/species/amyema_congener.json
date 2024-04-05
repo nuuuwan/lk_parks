@@ -1,8 +1,7 @@
 {
   "name": "Amyema congener",
   "authorship": "(Sieber ex Schult. & Schult.f.) Tiegh.",
-  "genus_name": "Amyema",
-  "family_name": "Loranthaceae",
+  "parent_name": "Amyema",
   "gbif_id": "7288008",
   "powo_id": "547699-1",
   "iucn_id": null,

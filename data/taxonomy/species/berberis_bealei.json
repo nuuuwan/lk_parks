@@ -1,8 +1,7 @@
 {
   "name": "Berberis bealei",
   "authorship": "Fortune",
-  "genus_name": "Berberis",
-  "family_name": "Berberidaceae",
+  "parent_name": "Berberis",
   "gbif_id": "3033889",
   "powo_id": "106450-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Butia eriospatha",
   "authorship": "(Mart. ex Drude) Becc.",
-  "genus_name": "Butia",
-  "family_name": "Arecaceae",
+  "parent_name": "Butia",
   "gbif_id": "2736254",
   "powo_id": "38718-2",
   "iucn_id": "38462",

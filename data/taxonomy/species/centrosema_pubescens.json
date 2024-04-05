@@ -1,8 +1,7 @@
 {
   "name": "Centrosema pubescens",
   "authorship": "Benth.",
-  "genus_name": "Centrosema",
-  "family_name": "Fabaceae",
+  "parent_name": "Centrosema",
   "gbif_id": "2964904",
   "powo_id": "485611-1",
   "iucn_id": null,

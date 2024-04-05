@@ -1,8 +1,7 @@
 {
   "name": "Microseris lanceolata",
   "authorship": "(Walp.) Sch.Bip.",
-  "genus_name": "Microseris",
-  "family_name": "Asteraceae",
+  "parent_name": "Microseris",
   "gbif_id": "5399445",
   "powo_id": "232635-1",
   "iucn_id": null,

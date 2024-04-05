@@ -1,8 +1,7 @@
 {
   "name": "Cormus domestica",
   "authorship": "(L.) Spach",
-  "genus_name": "Cormus",
-  "family_name": "Rosaceae",
+  "parent_name": "Cormus",
   "gbif_id": "3013215",
   "powo_id": "722386-1",
   "iucn_id": null,

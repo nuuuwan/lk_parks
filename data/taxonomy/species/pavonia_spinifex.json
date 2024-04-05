@@ -1,8 +1,7 @@
 {
   "name": "Pavonia spinifex",
   "authorship": "(L.) Cav.",
-  "genus_name": "Pavonia",
-  "family_name": "Malvaceae",
+  "parent_name": "Pavonia",
   "gbif_id": "5406784",
   "powo_id": "186083-2",
   "iucn_id": "144310628",

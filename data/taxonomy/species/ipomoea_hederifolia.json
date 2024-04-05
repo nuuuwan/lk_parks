@@ -1,8 +1,7 @@
 {
   "name": "Ipomoea hederifolia",
   "authorship": "L.",
-  "genus_name": "Ipomoea",
-  "family_name": "Convolvulaceae",
+  "parent_name": "Ipomoea",
   "gbif_id": "2928624",
   "powo_id": "268999-1",
   "iucn_id": null,

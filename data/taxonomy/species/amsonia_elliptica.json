@@ -1,8 +1,7 @@
 {
   "name": "Amsonia elliptica",
   "authorship": "(Thunb.) Roem. & Schult.",
-  "genus_name": "Amsonia",
-  "family_name": "Apocynaceae",
+  "parent_name": "Amsonia",
   "gbif_id": "3619167",
   "powo_id": "76906-1",
   "iucn_id": null,

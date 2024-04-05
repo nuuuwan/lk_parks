@@ -1,8 +1,7 @@
 {
   "name": "Mollia speciosa",
   "authorship": "Mart.",
-  "genus_name": "Mollia",
-  "family_name": "Malvaceae",
+  "parent_name": "Mollia",
   "gbif_id": "5705957",
   "powo_id": "834888-1",
   "iucn_id": "59034605",

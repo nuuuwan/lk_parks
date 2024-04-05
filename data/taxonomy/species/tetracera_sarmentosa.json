@@ -1,8 +1,7 @@
 {
   "name": "Tetracera sarmentosa",
   "authorship": "(L.) Vahl",
-  "genus_name": "Tetracera",
-  "family_name": "Dilleniaceae",
+  "parent_name": "Tetracera",
   "gbif_id": "5680962",
   "powo_id": "317484-1",
   "iucn_id": null,

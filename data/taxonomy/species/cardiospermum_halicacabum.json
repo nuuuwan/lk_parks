@@ -1,8 +1,7 @@
 {
   "name": "Cardiospermum halicacabum",
   "authorship": "L.",
-  "genus_name": "Cardiospermum",
-  "family_name": "Sapindaceae",
+  "parent_name": "Cardiospermum",
   "gbif_id": "3189939",
   "powo_id": "782206-1",
   "iucn_id": "82412344",

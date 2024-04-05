@@ -1,8 +1,7 @@
 {
   "name": "Rhododendron malayanum",
   "authorship": "Jack",
-  "genus_name": "Rhododendron",
-  "family_name": "Ericaceae",
+  "parent_name": "Rhododendron",
   "gbif_id": "4170763",
   "powo_id": "332845-1",
   "iucn_id": "135701972",

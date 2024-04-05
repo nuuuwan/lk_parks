@@ -1,8 +1,7 @@
 {
   "name": "Amyris pinnata",
   "authorship": "Kunth",
-  "genus_name": "Amyris",
-  "family_name": "Rutaceae",
+  "parent_name": "Amyris",
   "gbif_id": "5594205",
   "powo_id": "126928-1",
   "iucn_id": "150011123",

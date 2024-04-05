@@ -1,8 +1,7 @@
 {
   "name": "Psidium guineense",
   "authorship": "Sw.",
-  "genus_name": "Psidium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Psidium",
   "gbif_id": "5420509",
   "powo_id": "211886-2",
   "iucn_id": "129105214",

@@ -1,8 +1,7 @@
 {
   "name": "Mirabilis albida",
   "authorship": "(Walter) Heimerl",
-  "genus_name": "Mirabilis",
-  "family_name": "Nyctaginaceae",
+  "parent_name": "Mirabilis",
   "gbif_id": "3086179",
   "powo_id": "162535-2",
   "iucn_id": null,

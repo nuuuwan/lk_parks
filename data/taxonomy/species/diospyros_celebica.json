@@ -1,8 +1,7 @@
 {
   "name": "Diospyros celebica",
   "authorship": "Bakh.",
-  "genus_name": "Diospyros",
-  "family_name": "Ebenaceae",
+  "parent_name": "Diospyros",
   "gbif_id": "4071419",
   "powo_id": "322219-1",
   "iucn_id": "33203",

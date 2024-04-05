@@ -1,8 +1,7 @@
 {
   "name": "Aristolochia griffithii",
   "authorship": "Hook.f. & Thomson ex Duch.",
-  "genus_name": "Aristolochia",
-  "family_name": "Aristolochiaceae",
+  "parent_name": "Aristolochia",
   "gbif_id": "3589043",
   "powo_id": "92982-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Populus tremuloides",
   "authorship": "Michx.",
-  "genus_name": "Populus",
-  "family_name": "Salicaceae",
+  "parent_name": "Populus",
   "gbif_id": "3040215",
   "powo_id": "208337-2",
   "iucn_id": "61960127",

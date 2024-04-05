@@ -1,8 +1,7 @@
 {
   "name": "Chloroleucon tortum",
   "authorship": "(Mart.) Pittier",
-  "genus_name": "Chloroleucon",
-  "family_name": "Fabaceae",
+  "parent_name": "Chloroleucon",
   "gbif_id": "2943047",
   "powo_id": "56986-2",
   "iucn_id": "36573",

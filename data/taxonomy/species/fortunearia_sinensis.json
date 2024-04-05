@@ -1,8 +1,7 @@
 {
   "name": "Fortunearia sinensis",
   "authorship": "Rehder & E.H.Wilson",
-  "genus_name": "Fortunearia",
-  "family_name": "Hamamelidaceae",
+  "parent_name": "Fortunearia",
   "gbif_id": "3702480",
   "powo_id": "430654-1",
   "iucn_id": null,

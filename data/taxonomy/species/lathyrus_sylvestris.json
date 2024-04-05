@@ -1,8 +1,7 @@
 {
   "name": "Lathyrus sylvestris",
   "authorship": "L.",
-  "genus_name": "Lathyrus",
-  "family_name": "Fabaceae",
+  "parent_name": "Lathyrus",
   "gbif_id": "5356623",
   "powo_id": "502035-1",
   "iucn_id": "176568",

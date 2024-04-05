@@ -1,8 +1,7 @@
 {
   "name": "Carex punctata",
   "authorship": "Gaudin",
-  "genus_name": "Carex",
-  "family_name": "Cyperaceae",
+  "parent_name": "Carex",
   "gbif_id": "2725754",
   "powo_id": "301815-1",
   "iucn_id": "164141",

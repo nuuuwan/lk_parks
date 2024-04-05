@@ -1,8 +1,7 @@
 {
   "name": "Conocarpus erectus",
   "authorship": "L.",
-  "genus_name": "Conocarpus",
-  "family_name": "Combretaceae",
+  "parent_name": "Conocarpus",
   "gbif_id": "5421045",
   "powo_id": "319151-2",
   "iucn_id": "178806",

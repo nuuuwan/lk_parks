@@ -1,8 +1,7 @@
 {
   "name": "Cinchona pubescens",
   "authorship": "Vahl",
-  "genus_name": "Cinchona",
-  "family_name": "Rubiaceae",
+  "parent_name": "Cinchona",
   "gbif_id": "2901294",
   "powo_id": "746872-1",
   "iucn_id": "49839551",

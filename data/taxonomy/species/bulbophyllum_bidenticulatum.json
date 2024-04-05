@@ -1,8 +1,7 @@
 {
   "name": "Bulbophyllum bidenticulatum",
   "authorship": "J.J.Verm.",
-  "genus_name": "Bulbophyllum",
-  "family_name": "Orchidaceae",
+  "parent_name": "Bulbophyllum",
   "gbif_id": "2842916",
   "powo_id": "903729-1",
   "iucn_id": null,

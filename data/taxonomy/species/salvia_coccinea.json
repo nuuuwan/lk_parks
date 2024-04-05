@@ -1,8 +1,7 @@
 {
   "name": "Salvia coccinea",
   "authorship": "Buc'hoz ex Etl.",
-  "genus_name": "Salvia",
-  "family_name": "Lamiaceae",
+  "parent_name": "Salvia",
   "gbif_id": "9278365",
   "powo_id": "455978-1",
   "iucn_id": null,

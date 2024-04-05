@@ -1,8 +1,7 @@
 {
   "name": "Lonicera nigra",
   "authorship": "L.",
-  "genus_name": "Lonicera",
-  "family_name": "Caprifoliaceae",
+  "parent_name": "Lonicera",
   "gbif_id": "7768870",
   "powo_id": "148959-1",
   "iucn_id": "83771372",

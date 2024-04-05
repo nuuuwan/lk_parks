@@ -1,8 +1,7 @@
 {
   "name": "Cheirolophus sempervirens",
   "authorship": "(L.) Pomel",
-  "genus_name": "Cheirolophus",
-  "family_name": "Asteraceae",
+  "parent_name": "Cheirolophus",
   "gbif_id": "3097075",
   "powo_id": "192740-1",
   "iucn_id": null,

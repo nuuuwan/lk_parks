@@ -1,8 +1,7 @@
 {
   "name": "Anthyllis hermanniae",
   "authorship": "L.",
-  "genus_name": "Anthyllis",
-  "family_name": "Fabaceae",
+  "parent_name": "Anthyllis",
   "gbif_id": "5352341",
   "powo_id": "474699-1",
   "iucn_id": null,

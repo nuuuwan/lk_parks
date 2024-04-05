@@ -1,8 +1,7 @@
 {
   "name": "Butia capitata",
   "authorship": "(Mart.) Becc.",
-  "genus_name": "Butia",
-  "family_name": "Arecaceae",
+  "parent_name": "Butia",
   "gbif_id": "2736211",
   "powo_id": "38705-2",
   "iucn_id": null,

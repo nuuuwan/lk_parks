@@ -1,8 +1,7 @@
 {
   "name": "Psychotria kaduana",
   "authorship": "(Cham. & Schltdl.) Fosberg",
-  "genus_name": "Psychotria",
-  "family_name": "Rubiaceae",
+  "parent_name": "Psychotria",
   "gbif_id": "2920305",
   "powo_id": "762350-1",
   "iucn_id": null,

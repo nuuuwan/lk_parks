@@ -1,8 +1,7 @@
 {
   "name": "Begonia cucullata",
   "authorship": "Willd.",
-  "genus_name": "Begonia",
-  "family_name": "Begoniaceae",
+  "parent_name": "Begonia",
   "gbif_id": "2874717",
   "powo_id": "315562-2",
   "iucn_id": null,

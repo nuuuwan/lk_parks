@@ -1,8 +1,7 @@
 {
   "name": "Tillandsia oaxacana",
   "authorship": "L.B.Sm.",
-  "genus_name": "Tillandsia",
-  "family_name": "Bromeliaceae",
+  "parent_name": "Tillandsia",
   "gbif_id": "2694879",
   "powo_id": "254089-2",
   "iucn_id": null,

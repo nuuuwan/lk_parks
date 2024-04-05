@@ -1,8 +1,7 @@
 {
   "name": "Magnolia figo",
   "authorship": "(Lour.) DC.",
-  "genus_name": "Magnolia",
-  "family_name": "Magnoliaceae",
+  "parent_name": "Magnolia",
   "gbif_id": "3152997",
   "powo_id": "554702-1",
   "iucn_id": "15112917",

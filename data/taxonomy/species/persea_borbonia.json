@@ -1,8 +1,7 @@
 {
   "name": "Persea borbonia",
   "authorship": "(L.) Spreng.",
-  "genus_name": "Persea",
-  "family_name": "Lauraceae",
+  "parent_name": "Persea",
   "gbif_id": "3034048",
   "powo_id": "30100501-2",
   "iucn_id": "135956601",

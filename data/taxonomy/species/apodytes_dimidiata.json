@@ -1,8 +1,7 @@
 {
   "name": "Apodytes dimidiata",
   "authorship": "E.Mey. ex Arn.",
-  "genus_name": "Apodytes",
-  "family_name": "Metteniusaceae",
+  "parent_name": "Apodytes",
   "gbif_id": "3597463",
   "powo_id": "434212-1",
   "iucn_id": "65877906",

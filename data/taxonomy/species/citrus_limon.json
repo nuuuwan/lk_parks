@@ -1,8 +1,7 @@
 {
   "name": "Citrus limon",
   "authorship": "(L.) Osbeck",
-  "genus_name": "Citrus",
-  "family_name": "Rutaceae",
+  "parent_name": "Citrus",
   "gbif_id": "7647136",
   "powo_id": "60454758-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Weinmannia trichosperma",
   "authorship": "Cav.",
-  "genus_name": "Weinmannia",
-  "family_name": "Cunoniaceae",
+  "parent_name": "Weinmannia",
   "gbif_id": "3613680",
   "powo_id": "268331-2",
   "iucn_id": "61990715",

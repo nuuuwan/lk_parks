@@ -1,8 +1,7 @@
 {
   "name": "Cochlospermum regium",
   "authorship": "(Schrank) Pilg.",
-  "genus_name": "Cochlospermum",
-  "family_name": "Bixaceae",
+  "parent_name": "Cochlospermum",
   "gbif_id": "3702412",
   "powo_id": "62527-2",
   "iucn_id": "144137872",

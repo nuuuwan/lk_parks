@@ -1,8 +1,7 @@
 {
   "name": "Yucca gloriosa",
   "authorship": "L.",
-  "genus_name": "Yucca",
-  "family_name": "Asparagaceae",
+  "parent_name": "Yucca",
   "gbif_id": "2775619",
   "powo_id": "325010-2",
   "iucn_id": "117427984",

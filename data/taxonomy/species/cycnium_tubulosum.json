@@ -1,8 +1,7 @@
 {
   "name": "Cycnium tubulosum",
   "authorship": "(L.f.) Engl.",
-  "genus_name": "Cycnium",
-  "family_name": "Orobanchaceae",
+  "parent_name": "Cycnium",
   "gbif_id": "6438726",
   "powo_id": "801806-1",
   "iucn_id": null,

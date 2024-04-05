@@ -1,8 +1,7 @@
 {
   "name": "Manihot esculenta",
   "authorship": "Crantz",
-  "genus_name": "Manihot",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Manihot",
   "gbif_id": "3060998",
   "powo_id": "351790-1",
   "iucn_id": null,

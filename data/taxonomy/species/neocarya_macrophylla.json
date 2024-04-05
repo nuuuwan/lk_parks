@@ -1,8 +1,7 @@
 {
   "name": "Neocarya macrophylla",
   "authorship": "(Sabine) Prance ex F.White",
-  "genus_name": "Neocarya",
-  "family_name": "Chrysobalanaceae",
+  "parent_name": "Neocarya",
   "gbif_id": "7684641",
   "powo_id": "168125-1",
   "iucn_id": null,

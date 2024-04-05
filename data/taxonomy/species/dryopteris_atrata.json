@@ -1,8 +1,7 @@
 {
   "name": "Dryopteris atrata",
   "authorship": "(Wall. ex Kunze) Ching",
-  "genus_name": "Dryopteris",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Dryopteris",
   "gbif_id": "5656424",
   "powo_id": "17323700-1",
   "iucn_id": null,

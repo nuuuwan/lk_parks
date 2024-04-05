@@ -1,8 +1,7 @@
 {
   "name": "Diospyros maritima",
   "authorship": "Blume",
-  "genus_name": "Diospyros",
-  "family_name": "Ebenaceae",
+  "parent_name": "Diospyros",
   "gbif_id": "3032994",
   "powo_id": "322671-1",
   "iucn_id": "173957",

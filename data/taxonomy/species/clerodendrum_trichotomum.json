@@ -1,8 +1,7 @@
 {
   "name": "Clerodendrum trichotomum",
   "authorship": "Thunb.",
-  "genus_name": "Clerodendrum",
-  "family_name": "Lamiaceae",
+  "parent_name": "Clerodendrum",
   "gbif_id": "2925366",
   "powo_id": "927405-1",
   "iucn_id": "164941752",

@@ -1,8 +1,7 @@
 {
   "name": "Enneapogon desvauxii",
   "authorship": "P.Beauv.",
-  "genus_name": "Enneapogon",
-  "family_name": "Poaceae",
+  "parent_name": "Enneapogon",
   "gbif_id": "2703892",
   "powo_id": "400626-1",
   "iucn_id": null,

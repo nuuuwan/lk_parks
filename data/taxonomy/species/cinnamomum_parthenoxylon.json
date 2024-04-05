@@ -1,8 +1,7 @@
 {
   "name": "Cinnamomum parthenoxylon",
   "authorship": "(Jack) Meisn.",
-  "genus_name": "Cinnamomum",
-  "family_name": "Lauraceae",
+  "parent_name": "Cinnamomum",
   "gbif_id": "4181342",
   "powo_id": "463600-1",
   "iucn_id": "33198",

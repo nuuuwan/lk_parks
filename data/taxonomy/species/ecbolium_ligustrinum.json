@@ -1,8 +1,7 @@
 {
   "name": "Ecbolium ligustrinum",
   "authorship": "(Vahl) Vollesen",
-  "genus_name": "Ecbolium",
-  "family_name": "Acanthaceae",
+  "parent_name": "Ecbolium",
   "gbif_id": "5576253",
   "powo_id": "947242-1",
   "iucn_id": null,

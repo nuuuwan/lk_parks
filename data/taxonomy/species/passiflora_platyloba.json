@@ -1,8 +1,7 @@
 {
   "name": "Passiflora platyloba",
   "authorship": "Killip",
-  "genus_name": "Passiflora",
-  "family_name": "Passifloraceae",
+  "parent_name": "Passiflora",
   "gbif_id": "7313348",
   "powo_id": "185126-2",
   "iucn_id": null,

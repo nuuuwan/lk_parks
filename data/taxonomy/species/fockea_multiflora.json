@@ -1,8 +1,7 @@
 {
   "name": "Fockea multiflora",
   "authorship": "K.Schum.",
-  "genus_name": "Fockea",
-  "family_name": "Apocynaceae",
+  "parent_name": "Fockea",
   "gbif_id": "3575990",
   "powo_id": "97445-1",
   "iucn_id": null,

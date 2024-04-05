@@ -1,8 +1,7 @@
 {
   "name": "Viburnum tinus",
   "authorship": "L.",
-  "genus_name": "Viburnum",
-  "family_name": "Viburnaceae",
+  "parent_name": "Viburnum",
   "gbif_id": "2888585",
   "powo_id": "326271-2",
   "iucn_id": "79146836",

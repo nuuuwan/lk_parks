@@ -1,8 +1,7 @@
 {
   "name": "Vallaris solanacea",
   "authorship": "(Roth) Kuntze",
-  "genus_name": "Vallaris",
-  "family_name": "Apocynaceae",
+  "parent_name": "Vallaris",
   "gbif_id": "5535699",
   "powo_id": "82660-1",
   "iucn_id": null,

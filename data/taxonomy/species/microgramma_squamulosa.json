@@ -1,8 +1,7 @@
 {
   "name": "Microgramma squamulosa",
   "authorship": "(Kaulf.) de la Sota",
-  "genus_name": "Microgramma",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Microgramma",
   "gbif_id": "4025976",
   "powo_id": "160150-2",
   "iucn_id": null,

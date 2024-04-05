@@ -1,8 +1,7 @@
 {
   "name": "Cupania cinerea",
   "authorship": "Poepp.",
-  "genus_name": "Cupania",
-  "family_name": "Sapindaceae",
+  "parent_name": "Cupania",
   "gbif_id": "3785984",
   "powo_id": "782382-1",
   "iucn_id": "145689469",

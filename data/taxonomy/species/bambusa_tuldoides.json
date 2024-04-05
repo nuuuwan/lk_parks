@@ -1,8 +1,7 @@
 {
   "name": "Bambusa tuldoides",
   "authorship": "Munro",
-  "genus_name": "Bambusa",
-  "family_name": "Poaceae",
+  "parent_name": "Bambusa",
   "gbif_id": "2705762",
   "powo_id": "392553-1",
   "iucn_id": null,

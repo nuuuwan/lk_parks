@@ -1,8 +1,7 @@
 {
   "name": "Dicksonia sellowiana",
   "authorship": "(C.Presl) Hook.",
-  "genus_name": "Dicksonia",
-  "family_name": "Cyatheaceae",
+  "parent_name": "Dicksonia",
   "gbif_id": "7309859",
   "powo_id": "275823-2",
   "iucn_id": null,

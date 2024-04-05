@@ -1,8 +1,7 @@
 {
   "name": "Lupinus arboreus",
   "authorship": "Sims",
-  "genus_name": "Lupinus",
-  "family_name": "Fabaceae",
+  "parent_name": "Lupinus",
   "gbif_id": "2963807",
   "powo_id": "504137-1",
   "iucn_id": null,

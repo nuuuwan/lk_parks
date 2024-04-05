@@ -1,8 +1,7 @@
 {
   "name": "Euphorbia bosseri",
   "authorship": "Leandri",
-  "genus_name": "Euphorbia",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Euphorbia",
   "gbif_id": "3064760",
   "powo_id": "345825-1",
   "iucn_id": "44311",

@@ -1,8 +1,7 @@
 {
   "name": "Vepris lanceolata",
   "authorship": "(Lam.) G.Don",
-  "genus_name": "Vepris",
-  "family_name": "Rutaceae",
+  "parent_name": "Vepris",
   "gbif_id": "3834395",
   "powo_id": "775496-1",
   "iucn_id": null,

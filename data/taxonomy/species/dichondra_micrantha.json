@@ -1,8 +1,7 @@
 {
   "name": "Dichondra micrantha",
   "authorship": "Urb.",
-  "genus_name": "Dichondra",
-  "family_name": "Convolvulaceae",
+  "parent_name": "Dichondra",
   "gbif_id": "2928666",
   "powo_id": "79457-2",
   "iucn_id": "126421141",

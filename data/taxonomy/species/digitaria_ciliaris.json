@@ -1,8 +1,7 @@
 {
   "name": "Digitaria ciliaris",
   "authorship": "(Retz.) Koeler",
-  "genus_name": "Digitaria",
-  "family_name": "Poaceae",
+  "parent_name": "Digitaria",
   "gbif_id": "5289998",
   "powo_id": "1038558-2",
   "iucn_id": null,

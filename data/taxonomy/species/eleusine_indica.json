@@ -1,8 +1,7 @@
 {
   "name": "Eleusine indica",
   "authorship": "(L.) Gaertn.",
-  "genus_name": "Eleusine",
-  "family_name": "Poaceae",
+  "parent_name": "Eleusine",
   "gbif_id": "2705953",
   "powo_id": "74675-3",
   "iucn_id": "177359",

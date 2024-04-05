@@ -1,8 +1,7 @@
 {
   "name": "Salix nigra",
   "authorship": "Marshall",
-  "genus_name": "Salix",
-  "family_name": "Salicaceae",
+  "parent_name": "Salix",
   "gbif_id": "5372854",
   "powo_id": "304250-2",
   "iucn_id": "61960325",

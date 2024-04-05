@@ -1,8 +1,7 @@
 {
   "name": "Ravenea rivularis",
   "authorship": "Jum. & H.Perrier",
-  "genus_name": "Ravenea",
-  "family_name": "Arecaceae",
+  "parent_name": "Ravenea",
   "gbif_id": "2739031",
   "powo_id": "669550-1",
   "iucn_id": "38677",

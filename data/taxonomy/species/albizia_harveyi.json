@@ -1,8 +1,7 @@
 {
   "name": "Albizia harveyi",
   "authorship": "E.Fourn.",
-  "genus_name": "Albizia",
-  "family_name": "Fabaceae",
+  "parent_name": "Albizia",
   "gbif_id": "2973104",
   "powo_id": "473260-1",
   "iucn_id": "146218033",

@@ -1,8 +1,7 @@
 {
   "name": "Lonicera alpigena",
   "authorship": "L.",
-  "genus_name": "Lonicera",
-  "family_name": "Caprifoliaceae",
+  "parent_name": "Lonicera",
   "gbif_id": "6369729",
   "powo_id": "148602-1",
   "iucn_id": "83771018",

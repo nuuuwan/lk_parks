@@ -1,8 +1,7 @@
 {
   "name": "Limnophila repens",
   "authorship": "(Benth.) Benth.",
-  "genus_name": "Limnophila",
-  "family_name": "Plantaginaceae",
+  "parent_name": "Limnophila",
   "gbif_id": "7370121",
   "powo_id": "804354-1",
   "iucn_id": "177117",

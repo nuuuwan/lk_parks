@@ -1,8 +1,7 @@
 {
   "name": "Xylopia aromatica",
   "authorship": "(Lam.) Mart.",
-  "genus_name": "Xylopia",
-  "family_name": "Annonaceae",
+  "parent_name": "Xylopia",
   "gbif_id": "3157126",
   "powo_id": "76067-1",
   "iucn_id": "143324925",

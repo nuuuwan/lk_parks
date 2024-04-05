@@ -1,8 +1,7 @@
 {
   "name": "Hyophorbe lagenicaulis",
   "authorship": "(L.H.Bailey) H.E.Moore",
-  "genus_name": "Hyophorbe",
-  "family_name": "Arecaceae",
+  "parent_name": "Hyophorbe",
   "gbif_id": "2735592",
   "powo_id": "667453-1",
   "iucn_id": "38580",

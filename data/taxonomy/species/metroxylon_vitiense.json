@@ -1,8 +1,7 @@
 {
   "name": "Metroxylon vitiense",
   "authorship": "(H.Wendl.) Hook.f.",
-  "genus_name": "Metroxylon",
-  "family_name": "Arecaceae",
+  "parent_name": "Metroxylon",
   "gbif_id": "2733809",
   "powo_id": "668255-1",
   "iucn_id": "177604",

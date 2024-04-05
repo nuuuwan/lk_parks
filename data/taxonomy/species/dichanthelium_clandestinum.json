@@ -1,8 +1,7 @@
 {
   "name": "Dichanthelium clandestinum",
   "authorship": "(L.) Gould",
-  "genus_name": "Dichanthelium",
-  "family_name": "Poaceae",
+  "parent_name": "Dichanthelium",
   "gbif_id": "2702543",
   "powo_id": "79344-2",
   "iucn_id": null,

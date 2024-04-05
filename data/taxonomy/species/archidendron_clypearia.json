@@ -1,8 +1,7 @@
 {
   "name": "Archidendron clypearia",
   "authorship": "(Jack) I.C.Nielsen",
-  "genus_name": "Archidendron",
-  "family_name": "Fabaceae",
+  "parent_name": "Archidendron",
   "gbif_id": "2941309",
   "powo_id": "475044-1",
   "iucn_id": "147633529",

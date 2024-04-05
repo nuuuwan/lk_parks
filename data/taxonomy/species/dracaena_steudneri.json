@@ -1,8 +1,7 @@
 {
   "name": "Dracaena steudneri",
   "authorship": "Engl.",
-  "genus_name": "Dracaena",
-  "family_name": "Asparagaceae",
+  "parent_name": "Dracaena",
   "gbif_id": "5304645",
   "powo_id": "534379-1",
   "iucn_id": "146187813",

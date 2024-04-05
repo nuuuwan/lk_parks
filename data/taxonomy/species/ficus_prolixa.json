@@ -1,8 +1,7 @@
 {
   "name": "Ficus prolixa",
   "authorship": "G.Forst.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5361898",
   "powo_id": "853478-1",
   "iucn_id": "135880363",

@@ -1,8 +1,7 @@
 {
   "name": "Taxodium distichum",
   "authorship": "(L.) Rich.",
-  "genus_name": "Taxodium",
-  "family_name": "Cupressaceae",
+  "parent_name": "Taxodium",
   "gbif_id": "2684191",
   "powo_id": "30052311-2",
   "iucn_id": "42261",

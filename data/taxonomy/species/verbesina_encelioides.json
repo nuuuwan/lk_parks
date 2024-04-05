@@ -1,8 +1,7 @@
 {
   "name": "Verbesina encelioides",
   "authorship": "(Cav.) Benth. & Hook.f. ex A.Gray",
-  "genus_name": "Verbesina",
-  "family_name": "Asteraceae",
+  "parent_name": "Verbesina",
   "gbif_id": "3147913",
   "powo_id": "30147294-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Lepechinia meyenii",
   "authorship": "(Walp.) Epling",
-  "genus_name": "Lepechinia",
-  "family_name": "Lamiaceae",
+  "parent_name": "Lepechinia",
   "gbif_id": "3888601",
   "powo_id": "449276-1",
   "iucn_id": null,

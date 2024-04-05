@@ -1,8 +1,7 @@
 {
   "name": "Vaccinium arboreum",
   "authorship": "Marshall",
-  "genus_name": "Vaccinium",
-  "family_name": "Ericaceae",
+  "parent_name": "Vaccinium",
   "gbif_id": "2882828",
   "powo_id": "317271-2",
   "iucn_id": "152906341",

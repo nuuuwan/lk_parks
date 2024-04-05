@@ -1,8 +1,7 @@
 {
   "name": "Datura innoxia",
   "authorship": "Mill.",
-  "genus_name": "Datura",
-  "family_name": "Solanaceae",
+  "parent_name": "Datura",
   "gbif_id": "2928755",
   "powo_id": "316945-2",
   "iucn_id": null,

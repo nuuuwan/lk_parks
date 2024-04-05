@@ -1,8 +1,7 @@
 {
   "name": "Brosimum costaricanum",
   "authorship": "Liebm.",
-  "genus_name": "Brosimum",
-  "family_name": "Moraceae",
+  "parent_name": "Brosimum",
   "gbif_id": "3763319",
   "powo_id": "850826-1",
   "iucn_id": "61809332",

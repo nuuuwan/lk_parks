@@ -1,8 +1,7 @@
 {
   "name": "Melaleuca hypericifolia",
   "authorship": "Sm.",
-  "genus_name": "Melaleuca",
-  "family_name": "Myrtaceae",
+  "parent_name": "Melaleuca",
   "gbif_id": "5415972",
   "powo_id": "597978-1",
   "iucn_id": "178029115",

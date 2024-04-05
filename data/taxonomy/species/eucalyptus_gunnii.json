@@ -1,8 +1,7 @@
 {
   "name": "Eucalyptus gunnii",
   "authorship": "Hook.f.",
-  "genus_name": "Eucalyptus",
-  "family_name": "Myrtaceae",
+  "parent_name": "Eucalyptus",
   "gbif_id": "3176283",
   "powo_id": "592987-1",
   "iucn_id": "133380212",

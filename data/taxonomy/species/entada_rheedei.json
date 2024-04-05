@@ -1,8 +1,7 @@
 {
   "name": "Entada rheedei",
   "authorship": "Spreng.",
-  "genus_name": "Entada",
-  "family_name": "Fabaceae",
+  "parent_name": "Entada",
   "gbif_id": "2976236",
   "powo_id": "493874-1",
   "iucn_id": null,

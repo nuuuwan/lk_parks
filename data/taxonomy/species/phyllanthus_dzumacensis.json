@@ -1,8 +1,7 @@
 {
   "name": "Phyllanthus dzumacensis",
   "authorship": "M.Schmid",
-  "genus_name": "Phyllanthus",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Phyllanthus",
   "gbif_id": "5381977",
   "powo_id": "958723-1",
   "iucn_id": "215532907",

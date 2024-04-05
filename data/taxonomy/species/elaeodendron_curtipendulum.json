@@ -1,8 +1,7 @@
 {
   "name": "Elaeodendron curtipendulum",
   "authorship": "Endl.",
-  "genus_name": "Elaeodendron",
-  "family_name": "Celastraceae",
+  "parent_name": "Elaeodendron",
   "gbif_id": "3792041",
   "powo_id": "160662-1",
   "iucn_id": null,

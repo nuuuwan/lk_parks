@@ -1,8 +1,7 @@
 {
   "name": "Croton gratissimus",
   "authorship": "Burch.",
-  "genus_name": "Croton",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Croton",
   "gbif_id": "3058727",
   "powo_id": "342614-1",
   "iucn_id": "146220792",

@@ -1,8 +1,7 @@
 {
   "name": "Coptosperma borbonicum",
   "authorship": "(Hend. & Andr.Hend.) De Block",
-  "genus_name": "Coptosperma",
-  "family_name": "Rubiaceae",
+  "parent_name": "Coptosperma",
   "gbif_id": "3848167",
   "powo_id": "77080904-1",
   "iucn_id": null,

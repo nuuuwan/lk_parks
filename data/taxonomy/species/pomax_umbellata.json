@@ -1,8 +1,7 @@
 {
   "name": "Pomax umbellata",
   "authorship": "(Gaertn.) Sol. ex A.Rich.",
-  "genus_name": "Pomax",
-  "family_name": "Rubiaceae",
+  "parent_name": "Pomax",
   "gbif_id": "2892821",
   "powo_id": "760928-1",
   "iucn_id": null,

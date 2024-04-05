@@ -1,8 +1,7 @@
 {
   "name": "Livistona rigida",
   "authorship": "Becc.",
-  "genus_name": "Livistona",
-  "family_name": "Arecaceae",
+  "parent_name": "Livistona",
   "gbif_id": "2733393",
   "powo_id": "668064-1",
   "iucn_id": null,

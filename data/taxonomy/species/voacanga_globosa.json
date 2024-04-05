@@ -1,8 +1,7 @@
 {
   "name": "Voacanga globosa",
   "authorship": "(Blanco) Merr.",
-  "genus_name": "Voacanga",
-  "family_name": "Apocynaceae",
+  "parent_name": "Voacanga",
   "gbif_id": "3615974",
   "powo_id": "82738-1",
   "iucn_id": "154609394",

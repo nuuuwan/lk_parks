@@ -1,8 +1,7 @@
 {
   "name": "Aglaia elaeagnoidea",
   "authorship": "(A.Juss.) Benth.",
-  "genus_name": "Aglaia",
-  "family_name": "Meliaceae",
+  "parent_name": "Aglaia",
   "gbif_id": "5597755",
   "powo_id": "577065-1",
   "iucn_id": "33711",

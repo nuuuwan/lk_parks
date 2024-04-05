@@ -1,8 +1,7 @@
 {
   "name": "Encephalartos laurentianus",
   "authorship": "De Wild.",
-  "genus_name": "Encephalartos",
-  "family_name": "Zamiaceae",
+  "parent_name": "Encephalartos",
   "gbif_id": "2683799",
   "powo_id": "297104-1",
   "iucn_id": "41949",

@@ -1,8 +1,7 @@
 {
   "name": "Tabebuia aurea",
   "authorship": "(Silva Manso) Benth. & Hook.f. ex S.Moore",
-  "genus_name": "Tabebuia",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Tabebuia",
   "gbif_id": "4091191",
   "powo_id": "110852-1",
   "iucn_id": null,

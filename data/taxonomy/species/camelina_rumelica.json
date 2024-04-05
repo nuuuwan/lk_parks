@@ -1,8 +1,7 @@
 {
   "name": "Camelina rumelica",
   "authorship": "Velen.",
-  "genus_name": "Camelina",
-  "family_name": "Brassicaceae",
+  "parent_name": "Camelina",
   "gbif_id": "3042439",
   "powo_id": "279868-1",
   "iucn_id": null,

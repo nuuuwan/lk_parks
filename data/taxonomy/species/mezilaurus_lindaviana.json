@@ -1,8 +1,7 @@
 {
   "name": "Mezilaurus lindaviana",
   "authorship": "Schwacke & Mez",
-  "genus_name": "Mezilaurus",
-  "family_name": "Lauraceae",
+  "parent_name": "Mezilaurus",
   "gbif_id": "7468199",
   "powo_id": "158650-2",
   "iucn_id": "62020210",

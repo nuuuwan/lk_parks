@@ -1,8 +1,7 @@
 {
   "name": "Paullinia pterocarpa",
   "authorship": "Triana & Planch.",
-  "genus_name": "Paullinia",
-  "family_name": "Sapindaceae",
+  "parent_name": "Paullinia",
   "gbif_id": "3787941",
   "powo_id": "784252-1",
   "iucn_id": "189171966",

@@ -1,8 +1,7 @@
 {
   "name": "Spermacoce exilis",
   "authorship": "(L.O.Williams) C.D.Adams ex W.C.Burger & C.M.Taylor",
-  "genus_name": "Spermacoce",
-  "family_name": "Rubiaceae",
+  "parent_name": "Spermacoce",
   "gbif_id": "2918060",
   "powo_id": "975271-1",
   "iucn_id": null,

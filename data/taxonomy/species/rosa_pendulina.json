@@ -1,8 +1,7 @@
 {
   "name": "Rosa pendulina",
   "authorship": "L.",
-  "genus_name": "Rosa",
-  "family_name": "Rosaceae",
+  "parent_name": "Rosa",
   "gbif_id": "3006974",
   "powo_id": "733641-1",
   "iucn_id": "203449",

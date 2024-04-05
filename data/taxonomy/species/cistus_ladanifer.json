@@ -1,8 +1,7 @@
 {
   "name": "Cistus ladanifer",
   "authorship": "L.",
-  "genus_name": "Cistus",
-  "family_name": "Cistaceae",
+  "parent_name": "Cistus",
   "gbif_id": "6437976",
   "powo_id": "168325-1",
   "iucn_id": null,

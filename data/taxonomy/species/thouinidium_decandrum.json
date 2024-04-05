@@ -1,8 +1,7 @@
 {
   "name": "Thouinidium decandrum",
   "authorship": "(Bonpl.) Radlk.",
-  "genus_name": "Thouinidium",
-  "family_name": "Sapindaceae",
+  "parent_name": "Thouinidium",
   "gbif_id": "3787056",
   "powo_id": "785424-1",
   "iucn_id": "150109697",

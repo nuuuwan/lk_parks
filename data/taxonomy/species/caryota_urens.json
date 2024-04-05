@@ -1,8 +1,7 @@
 {
   "name": "Caryota urens",
   "authorship": "L.",
-  "genus_name": "Caryota",
-  "family_name": "Arecaceae",
+  "parent_name": "Caryota",
   "gbif_id": "2738914",
   "powo_id": "665636-1",
   "iucn_id": "44393459",

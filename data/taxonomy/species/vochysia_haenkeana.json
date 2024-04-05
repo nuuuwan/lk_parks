@@ -1,8 +1,7 @@
 {
   "name": "Vochysia haenkeana",
   "authorship": "Mart.",
-  "genus_name": "Vochysia",
-  "family_name": "Vochysiaceae",
+  "parent_name": "Vochysia",
   "gbif_id": "7288369",
   "powo_id": "871083-1",
   "iucn_id": "193975819",

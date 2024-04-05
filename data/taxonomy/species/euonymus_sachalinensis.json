@@ -1,8 +1,7 @@
 {
   "name": "Euonymus sachalinensis",
   "authorship": "(F.Schmidt) Maxim.",
-  "genus_name": "Euonymus",
-  "family_name": "Celastraceae",
+  "parent_name": "Euonymus",
   "gbif_id": "3794098",
   "powo_id": "161105-1",
   "iucn_id": null,

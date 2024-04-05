@@ -1,8 +1,7 @@
 {
   "name": "Tristaniopsis whiteana",
   "authorship": "(Griff.) Peter G.Wilson & J.T.Waterh.",
-  "genus_name": "Tristaniopsis",
-  "family_name": "Myrtaceae",
+  "parent_name": "Tristaniopsis",
   "gbif_id": "3188087",
   "powo_id": "911586-1",
   "iucn_id": "223605321",

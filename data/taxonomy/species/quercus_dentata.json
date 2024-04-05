@@ -1,8 +1,7 @@
 {
   "name": "Quercus dentata",
   "authorship": "Thunb.",
-  "genus_name": "Quercus",
-  "family_name": "Fagaceae",
+  "parent_name": "Quercus",
   "gbif_id": "2879353",
   "powo_id": "927479-1",
   "iucn_id": "31294",

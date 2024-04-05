@@ -1,8 +1,7 @@
 {
   "name": "Rosa moschata",
   "authorship": "Herrm.",
-  "genus_name": "Rosa",
-  "family_name": "Rosaceae",
+  "parent_name": "Rosa",
   "gbif_id": "3005529",
   "powo_id": "733393-1",
   "iucn_id": null,

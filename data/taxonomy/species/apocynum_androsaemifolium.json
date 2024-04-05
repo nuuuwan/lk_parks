@@ -1,8 +1,7 @@
 {
   "name": "Apocynum androsaemifolium",
   "authorship": "L.",
-  "genus_name": "Apocynum",
-  "family_name": "Apocynaceae",
+  "parent_name": "Apocynum",
   "gbif_id": "3169816",
   "powo_id": "16503-2",
   "iucn_id": null,

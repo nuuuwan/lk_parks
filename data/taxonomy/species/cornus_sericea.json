@@ -1,8 +1,7 @@
 {
   "name": "Cornus sericea",
   "authorship": "L.",
-  "genus_name": "Cornus",
-  "family_name": "Cornaceae",
+  "parent_name": "Cornus",
   "gbif_id": "3082244",
   "powo_id": "66169-2",
   "iucn_id": "64310848",

@@ -1,8 +1,7 @@
 {
   "name": "Zygia selloi",
   "authorship": "(Benth.) L.Rico",
-  "genus_name": "Zygia",
-  "family_name": "Fabaceae",
+  "parent_name": "Zygia",
   "gbif_id": "5347404",
   "powo_id": "962843-1",
   "iucn_id": null,

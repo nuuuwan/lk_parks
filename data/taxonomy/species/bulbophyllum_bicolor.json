@@ -1,8 +1,7 @@
 {
   "name": "Bulbophyllum bicolor",
   "authorship": "Lindl.",
-  "genus_name": "Bulbophyllum",
-  "family_name": "Orchidaceae",
+  "parent_name": "Bulbophyllum",
   "gbif_id": "2789073",
   "powo_id": "618417-1",
   "iucn_id": null,

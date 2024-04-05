@@ -1,8 +1,7 @@
 {
   "name": "Panicum repens",
   "authorship": "L.",
-  "genus_name": "Panicum",
-  "family_name": "Poaceae",
+  "parent_name": "Panicum",
   "gbif_id": "2705093",
   "powo_id": "412908-1",
   "iucn_id": "164447",

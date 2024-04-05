@@ -1,8 +1,7 @@
 {
   "name": "Cariniana ianeirensis",
   "authorship": "R.Knuth",
-  "genus_name": "Cariniana",
-  "family_name": "Lecythidaceae",
+  "parent_name": "Cariniana",
   "gbif_id": "3083033",
   "powo_id": "47518-2",
   "iucn_id": "33319",

@@ -1,8 +1,7 @@
 {
   "name": "Bulbophyllum pecten-veneris",
   "authorship": "(Gagnep.) Seidenf.",
-  "genus_name": "Bulbophyllum",
-  "family_name": "Orchidaceae",
+  "parent_name": "Bulbophyllum",
   "gbif_id": "2843372",
   "powo_id": "619799-1",
   "iucn_id": null,

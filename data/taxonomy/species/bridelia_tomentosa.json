@@ -1,8 +1,7 @@
 {
   "name": "Bridelia tomentosa",
   "authorship": "Blume",
-  "genus_name": "Bridelia",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Bridelia",
   "gbif_id": "3076120",
   "powo_id": "340245-1",
   "iucn_id": "147619919",

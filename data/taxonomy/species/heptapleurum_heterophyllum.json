@@ -1,8 +1,7 @@
 {
   "name": "Heptapleurum heterophyllum",
   "authorship": "(Wall. ex G.Don) Seem.",
-  "genus_name": "Heptapleurum",
-  "family_name": "Araliaceae",
+  "parent_name": "Heptapleurum",
   "gbif_id": "3038167",
   "powo_id": "90882-1",
   "iucn_id": null,

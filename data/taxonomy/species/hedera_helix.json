@@ -1,8 +1,7 @@
 {
   "name": "Hedera helix",
   "authorship": "L.",
-  "genus_name": "Hedera",
-  "family_name": "Araliaceae",
+  "parent_name": "Hedera",
   "gbif_id": "8351737",
   "powo_id": "90723-1",
   "iucn_id": null,

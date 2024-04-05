@@ -1,8 +1,7 @@
 {
   "name": "Panicum dichotomiflorum",
   "authorship": "Michx.",
-  "genus_name": "Panicum",
-  "family_name": "Poaceae",
+  "parent_name": "Panicum",
   "gbif_id": "2705144",
   "powo_id": "325362-2",
   "iucn_id": null,

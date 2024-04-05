@@ -1,8 +1,7 @@
 {
   "name": "Pachira minor",
   "authorship": "(Sims) Hemsl.",
-  "genus_name": "Pachira",
-  "family_name": "Malvaceae",
+  "parent_name": "Pachira",
   "gbif_id": "4073771",
   "powo_id": "562676-1",
   "iucn_id": "145692198",

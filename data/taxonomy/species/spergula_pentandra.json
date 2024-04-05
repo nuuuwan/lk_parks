@@ -1,8 +1,7 @@
 {
   "name": "Spergula pentandra",
   "authorship": "L.",
-  "genus_name": "Spergula",
-  "family_name": "Caryophyllaceae",
+  "parent_name": "Spergula",
   "gbif_id": "3085814",
   "powo_id": "158786-1",
   "iucn_id": null,

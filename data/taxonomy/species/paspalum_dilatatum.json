@@ -1,8 +1,7 @@
 {
   "name": "Paspalum dilatatum",
   "authorship": "Poir.",
-  "genus_name": "Paspalum",
-  "family_name": "Poaceae",
+  "parent_name": "Paspalum",
   "gbif_id": "2705565",
   "powo_id": "414070-1",
   "iucn_id": null,

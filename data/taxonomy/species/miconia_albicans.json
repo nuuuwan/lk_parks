@@ -1,8 +1,7 @@
 {
   "name": "Miconia albicans",
   "authorship": "(Sw.) Steud.",
-  "genus_name": "Miconia",
-  "family_name": "Melastomataceae",
+  "parent_name": "Miconia",
   "gbif_id": "3860779",
   "powo_id": "1125568-2",
   "iucn_id": "144278694",

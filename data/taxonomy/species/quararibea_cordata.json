@@ -1,8 +1,7 @@
 {
   "name": "Quararibea cordata",
   "authorship": "(Bonpl.) Vischer",
-  "genus_name": "Quararibea",
-  "family_name": "Malvaceae",
+  "parent_name": "Quararibea",
   "gbif_id": "7525215",
   "powo_id": null,
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Neea psychotrioides",
   "authorship": "Donn.Sm.",
-  "genus_name": "Neea",
-  "family_name": "Nyctaginaceae",
+  "parent_name": "Neea",
   "gbif_id": "3700896",
   "powo_id": "168038-2",
   "iucn_id": "150116072",

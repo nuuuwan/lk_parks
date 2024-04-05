@@ -1,8 +1,7 @@
 {
   "name": "Lecythis zabucajo",
   "authorship": "Aubl.",
-  "genus_name": "Lecythis",
-  "family_name": "Lecythidaceae",
+  "parent_name": "Lecythis",
   "gbif_id": "3082500",
   "powo_id": "597352-1",
   "iucn_id": "145505597",

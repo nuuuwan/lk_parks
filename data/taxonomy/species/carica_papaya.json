@@ -1,8 +1,7 @@
 {
   "name": "Carica papaya",
   "authorship": "L.",
-  "genus_name": "Carica",
-  "family_name": "Caricaceae",
+  "parent_name": "Carica",
   "gbif_id": "2874484",
   "powo_id": "30011248-2",
   "iucn_id": "20681422",

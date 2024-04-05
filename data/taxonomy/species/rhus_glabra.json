@@ -1,8 +1,7 @@
 {
   "name": "Rhus glabra",
   "authorship": "L.",
-  "genus_name": "Rhus",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Rhus",
   "gbif_id": "3190544",
   "powo_id": "70565-1",
   "iucn_id": "124270038",

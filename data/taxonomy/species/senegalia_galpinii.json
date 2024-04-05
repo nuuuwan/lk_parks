@@ -1,8 +1,7 @@
 {
   "name": "Senegalia galpinii",
   "authorship": "(Burtt Davy) Seigler & Ebinger",
-  "genus_name": "Senegalia",
-  "family_name": "Fabaceae",
+  "parent_name": "Senegalia",
   "gbif_id": "6710011",
   "powo_id": "60453639-2",
   "iucn_id": "153939741",

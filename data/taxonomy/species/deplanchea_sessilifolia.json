@@ -1,8 +1,7 @@
 {
   "name": "Deplanchea sessilifolia",
   "authorship": "(Vieill. ex Pancher) Steenis",
-  "genus_name": "Deplanchea",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Deplanchea",
   "gbif_id": "4092836",
   "powo_id": "109458-1",
   "iucn_id": null,

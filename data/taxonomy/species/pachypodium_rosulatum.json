@@ -1,8 +1,7 @@
 {
   "name": "Pachypodium rosulatum",
   "authorship": "Baker",
-  "genus_name": "Pachypodium",
-  "family_name": "Apocynaceae",
+  "parent_name": "Pachypodium",
   "gbif_id": "7155386",
   "powo_id": "80712-1",
   "iucn_id": null,

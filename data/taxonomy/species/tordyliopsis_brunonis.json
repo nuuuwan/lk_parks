@@ -1,8 +1,7 @@
 {
   "name": "Tordyliopsis brunonis",
   "authorship": "DC.",
-  "genus_name": "Tordyliopsis",
-  "family_name": "Apiaceae",
+  "parent_name": "Tordyliopsis",
   "gbif_id": "3633689",
   "powo_id": "849437-1",
   "iucn_id": null,

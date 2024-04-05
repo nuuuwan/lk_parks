@@ -1,8 +1,7 @@
 {
   "name": "Sannantha pinifolia",
   "authorship": "(Labill.) Peter G.Wilson",
-  "genus_name": "Sannantha",
-  "family_name": "Myrtaceae",
+  "parent_name": "Sannantha",
   "gbif_id": "3176111",
   "powo_id": "77086588-1",
   "iucn_id": null,

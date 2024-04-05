@@ -1,8 +1,7 @@
 {
   "name": "Tillandsia fendleri",
   "authorship": "Griseb.",
-  "genus_name": "Tillandsia",
-  "family_name": "Bromeliaceae",
+  "parent_name": "Tillandsia",
   "gbif_id": "2694600",
   "powo_id": "125131-1",
   "iucn_id": "131368792",

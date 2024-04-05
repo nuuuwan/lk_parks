@@ -1,8 +1,7 @@
 {
   "name": "Quiina guianensis",
   "authorship": "Aubl.",
-  "genus_name": "Quiina",
-  "family_name": "Ochnaceae",
+  "parent_name": "Quiina",
   "gbif_id": "3986494",
   "powo_id": "429123-1",
   "iucn_id": null,

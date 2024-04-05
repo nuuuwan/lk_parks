@@ -1,8 +1,7 @@
 {
   "name": "Myodocarpus pinnatus",
   "authorship": "Brongn. & Gris",
-  "genus_name": "Myodocarpus",
-  "family_name": "Myodocarpaceae",
+  "parent_name": "Myodocarpus",
   "gbif_id": "3036810",
   "powo_id": "91062-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Galipea jasminiflora",
   "authorship": "(A.St.-Hil.) Engl.",
-  "genus_name": "Galipea",
-  "family_name": "Rutaceae",
+  "parent_name": "Galipea",
   "gbif_id": "7269215",
   "powo_id": "773664-1",
   "iucn_id": "149204129",

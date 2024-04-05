@@ -1,8 +1,7 @@
 {
   "name": "Salix triandra",
   "authorship": "L.",
-  "genus_name": "Salix",
-  "family_name": "Salicaceae",
+  "parent_name": "Salix",
   "gbif_id": "7103891",
   "powo_id": "302929-2",
   "iucn_id": "61960615",

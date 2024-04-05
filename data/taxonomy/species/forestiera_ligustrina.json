@@ -1,8 +1,7 @@
 {
   "name": "Forestiera ligustrina",
   "authorship": "(Michx.) Poir.",
-  "genus_name": "Forestiera",
-  "family_name": "Oleaceae",
+  "parent_name": "Forestiera",
   "gbif_id": "3172392",
   "powo_id": "608862-1",
   "iucn_id": null,

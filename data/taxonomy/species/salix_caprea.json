@@ -1,8 +1,7 @@
 {
   "name": "Salix caprea",
   "authorship": "L.",
-  "genus_name": "Salix",
-  "family_name": "Salicaceae",
+  "parent_name": "Salix",
   "gbif_id": "5372952",
   "powo_id": "303599-2",
   "iucn_id": "19620273",

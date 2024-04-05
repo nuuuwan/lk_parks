@@ -1,8 +1,7 @@
 {
   "name": "Solandra grandiflora",
   "authorship": "Sw.",
-  "genus_name": "Solandra",
-  "family_name": "Solanaceae",
+  "parent_name": "Solandra",
   "gbif_id": "5341822",
   "powo_id": "329815-2",
   "iucn_id": null,

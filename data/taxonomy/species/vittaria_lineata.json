@@ -1,8 +1,7 @@
 {
   "name": "Vittaria lineata",
   "authorship": "(L.) Sm.",
-  "genus_name": "Vittaria",
-  "family_name": "Pteridaceae",
+  "parent_name": "Vittaria",
   "gbif_id": "2650246",
   "powo_id": "17234040-1",
   "iucn_id": null,

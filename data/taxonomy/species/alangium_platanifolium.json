@@ -1,8 +1,7 @@
 {
   "name": "Alangium platanifolium",
   "authorship": "(Siebold & Zucc.) Harms",
-  "genus_name": "Alangium",
-  "family_name": "Cornaceae",
+  "parent_name": "Alangium",
   "gbif_id": "7326268",
   "powo_id": "271428-1",
   "iucn_id": "18788233",

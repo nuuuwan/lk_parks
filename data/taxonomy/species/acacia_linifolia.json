@@ -1,8 +1,7 @@
 {
   "name": "Acacia linifolia",
   "authorship": "(Vent.) Willd.",
-  "genus_name": "Acacia",
-  "family_name": "Fabaceae",
+  "parent_name": "Acacia",
   "gbif_id": "2978598",
   "powo_id": "470773-1",
   "iucn_id": null,

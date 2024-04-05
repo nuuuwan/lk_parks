@@ -1,8 +1,7 @@
 {
   "name": "Pereskiopsis diguetii",
   "authorship": "(F.A.C.Weber) Britton & Rose",
-  "genus_name": "Pereskiopsis",
-  "family_name": "Cactaceae",
+  "parent_name": "Pereskiopsis",
   "gbif_id": "5835950",
   "powo_id": "190146-2",
   "iucn_id": "152063",

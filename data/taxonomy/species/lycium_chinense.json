@@ -1,8 +1,7 @@
 {
   "name": "Lycium chinense",
   "authorship": "Mill.",
-  "genus_name": "Lycium",
-  "family_name": "Solanaceae",
+  "parent_name": "Lycium",
   "gbif_id": "2928809",
   "powo_id": "816389-1",
   "iucn_id": null,

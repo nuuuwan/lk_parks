@@ -1,8 +1,7 @@
 {
   "name": "Toona sinensis",
   "authorship": "(A.Juss.) M.Roem.",
-  "genus_name": "Toona",
-  "family_name": "Meliaceae",
+  "parent_name": "Toona",
   "gbif_id": "7271504",
   "powo_id": "579315-1",
   "iucn_id": "125202132",

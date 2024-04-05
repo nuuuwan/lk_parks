@@ -1,8 +1,7 @@
 {
   "name": "Melaleuca linariifolia",
   "authorship": "Sm.",
-  "genus_name": "Melaleuca",
-  "family_name": "Myrtaceae",
+  "parent_name": "Melaleuca",
   "gbif_id": "5415842",
   "powo_id": "598003-1",
   "iucn_id": "177372057",

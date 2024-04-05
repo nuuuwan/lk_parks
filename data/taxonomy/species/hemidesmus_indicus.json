@@ -1,8 +1,7 @@
 {
   "name": "Hemidesmus indicus",
   "authorship": "(L.) R.Br.",
-  "genus_name": "Hemidesmus",
-  "family_name": "Apocynaceae",
+  "parent_name": "Hemidesmus",
   "gbif_id": "8125676",
   "powo_id": "60443873-2",
   "iucn_id": null,

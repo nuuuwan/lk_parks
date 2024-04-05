@@ -1,8 +1,7 @@
 {
   "name": "Prunus cerasus",
   "authorship": "L.",
-  "genus_name": "Prunus",
-  "family_name": "Rosaceae",
+  "parent_name": "Prunus",
   "gbif_id": "3021922",
   "powo_id": "729574-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Guettarda macrosperma",
   "authorship": "Donn.Sm.",
-  "genus_name": "Guettarda",
-  "family_name": "Rubiaceae",
+  "parent_name": "Guettarda",
   "gbif_id": "2894766",
   "powo_id": "114562-2",
   "iucn_id": "150109437",

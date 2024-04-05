@@ -1,8 +1,7 @@
 {
   "name": "Campomanesia reitziana",
   "authorship": "D.Legrand",
-  "genus_name": "Campomanesia",
-  "family_name": "Myrtaceae",
+  "parent_name": "Campomanesia",
   "gbif_id": "3181051",
   "powo_id": "44090-2",
   "iucn_id": "34718",

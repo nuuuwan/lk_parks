@@ -1,8 +1,7 @@
 {
   "name": "Wisteria sinensis",
   "authorship": "(Sims) DC.",
-  "genus_name": "Wisteria",
-  "family_name": "Fabaceae",
+  "parent_name": "Wisteria",
   "gbif_id": "8149049",
   "powo_id": "60459148-2",
   "iucn_id": null,

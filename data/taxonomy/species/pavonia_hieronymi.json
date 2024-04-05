@@ -1,8 +1,7 @@
 {
   "name": "Pavonia hieronymi",
   "authorship": "G\u00fcrke",
-  "genus_name": "Pavonia",
-  "family_name": "Malvaceae",
+  "parent_name": "Pavonia",
   "gbif_id": "7279476",
   "powo_id": "185903-2",
   "iucn_id": null,

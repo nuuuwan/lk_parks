@@ -1,8 +1,7 @@
 {
   "name": "Diospyros borbonica",
   "authorship": "I.Richardson",
-  "genus_name": "Diospyros",
-  "family_name": "Ebenaceae",
+  "parent_name": "Diospyros",
   "gbif_id": "4070441",
   "powo_id": "322156-1",
   "iucn_id": "173480",

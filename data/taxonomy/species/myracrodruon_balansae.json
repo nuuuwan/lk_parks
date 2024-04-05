@@ -1,8 +1,7 @@
 {
   "name": "Myracrodruon balansae",
   "authorship": "(Engl.) Santin",
-  "genus_name": "Myracrodruon",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Myracrodruon",
   "gbif_id": "3660686",
   "powo_id": "963395-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Draba nemorosa",
   "authorship": "L.",
-  "genus_name": "Draba",
-  "family_name": "Brassicaceae",
+  "parent_name": "Draba",
   "gbif_id": "3049685",
   "powo_id": "83715-2",
   "iucn_id": null,

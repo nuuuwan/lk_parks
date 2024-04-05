@@ -1,8 +1,7 @@
 {
   "name": "Sideroxylon foetidissimum",
   "authorship": "Jacq.",
-  "genus_name": "Sideroxylon",
-  "family_name": "Sapotaceae",
+  "parent_name": "Sideroxylon",
   "gbif_id": "2887138",
   "powo_id": "236041-2",
   "iucn_id": "181217044",

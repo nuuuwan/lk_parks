@@ -1,8 +1,7 @@
 {
   "name": "Quercus kelloggii",
   "authorship": "Newb.",
-  "genus_name": "Quercus",
-  "family_name": "Fagaceae",
+  "parent_name": "Quercus",
   "gbif_id": "2878586",
   "powo_id": "296332-1",
   "iucn_id": "61982990",

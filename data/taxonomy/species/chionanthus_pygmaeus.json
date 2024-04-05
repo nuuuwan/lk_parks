@@ -1,8 +1,7 @@
 {
   "name": "Chionanthus pygmaeus",
   "authorship": "Small",
-  "genus_name": "Chionanthus",
-  "family_name": "Oleaceae",
+  "parent_name": "Chionanthus",
   "gbif_id": "3172312",
   "powo_id": "56626-2",
   "iucn_id": "158676087",

@@ -1,8 +1,7 @@
 {
   "name": "Cardiospermum grandiflorum",
   "authorship": "Sw.",
-  "genus_name": "Cardiospermum",
-  "family_name": "Sapindaceae",
+  "parent_name": "Cardiospermum",
   "gbif_id": "3189935",
   "powo_id": "782205-1",
   "iucn_id": null,

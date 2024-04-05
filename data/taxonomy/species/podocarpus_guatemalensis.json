@@ -1,8 +1,7 @@
 {
   "name": "Podocarpus guatemalensis",
   "authorship": "Standl.",
-  "genus_name": "Podocarpus",
-  "family_name": "Podocarpaceae",
+  "parent_name": "Podocarpus",
   "gbif_id": "5285893",
   "powo_id": "204582-2",
   "iucn_id": "34084",

@@ -1,8 +1,7 @@
 {
   "name": "Guarea casimiriana",
   "authorship": "Harms",
-  "genus_name": "Guarea",
-  "family_name": "Meliaceae",
+  "parent_name": "Guarea",
   "gbif_id": "3852964",
   "powo_id": "292309-2",
   "iucn_id": "35541",

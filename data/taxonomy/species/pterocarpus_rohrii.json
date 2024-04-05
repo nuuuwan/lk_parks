@@ -1,8 +1,7 @@
 {
   "name": "Pterocarpus rohrii",
   "authorship": "Vahl",
-  "genus_name": "Pterocarpus",
-  "family_name": "Fabaceae",
+  "parent_name": "Pterocarpus",
   "gbif_id": "5349322",
   "powo_id": "516561-1",
   "iucn_id": "62027821",

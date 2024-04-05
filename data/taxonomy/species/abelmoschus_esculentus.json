@@ -1,8 +1,7 @@
 {
   "name": "Abelmoschus esculentus",
   "authorship": "(L.) Moench",
-  "genus_name": "Abelmoschus",
-  "family_name": "Malvaceae",
+  "parent_name": "Abelmoschus",
   "gbif_id": "3152707",
   "powo_id": "558006-1",
   "iucn_id": null,

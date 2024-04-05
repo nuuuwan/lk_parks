@@ -1,8 +1,7 @@
 {
   "name": "Chrysophyllum cainito",
   "authorship": "L.",
-  "genus_name": "Chrysophyllum",
-  "family_name": "Sapotaceae",
+  "parent_name": "Chrysophyllum",
   "gbif_id": "2885828",
   "powo_id": "304384-2",
   "iucn_id": "197735752",

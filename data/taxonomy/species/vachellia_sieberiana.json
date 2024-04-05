@@ -1,8 +1,7 @@
 {
   "name": "Vachellia sieberiana",
   "authorship": "(DC.) Kyal. & Boatwr.",
-  "genus_name": "Vachellia",
-  "family_name": "Fabaceae",
+  "parent_name": "Vachellia",
   "gbif_id": "7564113",
   "powo_id": "77131781-1",
   "iucn_id": "146456445",

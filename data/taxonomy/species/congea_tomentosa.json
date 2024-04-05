@@ -1,8 +1,7 @@
 {
   "name": "Congea tomentosa",
   "authorship": "Roxb.",
-  "genus_name": "Congea",
-  "family_name": "Lamiaceae",
+  "parent_name": "Congea",
   "gbif_id": "2925568",
   "powo_id": "862610-1",
   "iucn_id": null,

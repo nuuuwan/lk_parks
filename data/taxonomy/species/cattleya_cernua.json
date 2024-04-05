@@ -1,8 +1,7 @@
 {
   "name": "Cattleya cernua",
   "authorship": "(Lindl.) Van den Berg",
-  "genus_name": "Cattleya",
-  "family_name": "Orchidaceae",
+  "parent_name": "Cattleya",
   "gbif_id": "8092741",
   "powo_id": "77114736-1",
   "iucn_id": null,

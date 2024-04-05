@@ -1,8 +1,7 @@
 {
   "name": "Polyscias filicifolia",
   "authorship": "(C.Moore ex E.Fourn.) L.H.Bailey",
-  "genus_name": "Polyscias",
-  "family_name": "Araliaceae",
+  "parent_name": "Polyscias",
   "gbif_id": "3035611",
   "powo_id": "91760-1",
   "iucn_id": null,

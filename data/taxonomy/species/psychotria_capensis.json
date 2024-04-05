@@ -1,8 +1,7 @@
 {
   "name": "Psychotria capensis",
   "authorship": "(Eckl.) Vatke",
-  "genus_name": "Psychotria",
-  "family_name": "Rubiaceae",
+  "parent_name": "Psychotria",
   "gbif_id": "2921862",
   "powo_id": "761631-1",
   "iucn_id": "147141624",

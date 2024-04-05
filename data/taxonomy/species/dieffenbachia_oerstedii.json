@@ -1,8 +1,7 @@
 {
   "name": "Dieffenbachia oerstedii",
   "authorship": "Schott",
-  "genus_name": "Dieffenbachia",
-  "family_name": "Araceae",
+  "parent_name": "Dieffenbachia",
   "gbif_id": "2869429",
   "powo_id": "86896-1",
   "iucn_id": null,

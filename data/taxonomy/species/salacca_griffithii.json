@@ -1,8 +1,7 @@
 {
   "name": "Salacca griffithii",
   "authorship": "A.J.Hend.",
-  "genus_name": "Salacca",
-  "family_name": "Arecaceae",
+  "parent_name": "Salacca",
   "gbif_id": "6316803",
   "powo_id": "77106996-1",
   "iucn_id": null,

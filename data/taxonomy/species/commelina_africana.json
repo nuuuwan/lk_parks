@@ -1,8 +1,7 @@
 {
   "name": "Commelina africana",
   "authorship": "L.",
-  "genus_name": "Commelina",
-  "family_name": "Commelinaceae",
+  "parent_name": "Commelina",
   "gbif_id": "2763987",
   "powo_id": "171880-1",
   "iucn_id": "44392484",

@@ -1,8 +1,7 @@
 {
   "name": "Flacourtia rukam",
   "authorship": "Zoll. & Moritzi",
-  "genus_name": "Flacourtia",
-  "family_name": "Salicaceae",
+  "parent_name": "Flacourtia",
   "gbif_id": "5331160",
   "powo_id": "111681-1",
   "iucn_id": null,

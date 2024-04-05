@@ -1,8 +1,7 @@
 {
   "name": "Kageneckia lanceolata",
   "authorship": "Ruiz & Pav.",
-  "genus_name": "Kageneckia",
-  "family_name": "Rosaceae",
+  "parent_name": "Kageneckia",
   "gbif_id": "3016222",
   "powo_id": "725810-1",
   "iucn_id": "39030",

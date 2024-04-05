@@ -1,8 +1,7 @@
 {
   "name": "Lapageria rosea",
   "authorship": "Ruiz & Pav.",
-  "genus_name": "Lapageria",
-  "family_name": "Philesiaceae",
+  "parent_name": "Lapageria",
   "gbif_id": "2781165",
   "powo_id": "537288-1",
   "iucn_id": null,

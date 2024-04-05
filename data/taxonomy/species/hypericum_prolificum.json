@@ -1,8 +1,7 @@
 {
   "name": "Hypericum prolificum",
   "authorship": "L.",
-  "genus_name": "Hypericum",
-  "family_name": "Hypericaceae",
+  "parent_name": "Hypericum",
   "gbif_id": "3189471",
   "powo_id": "433747-1",
   "iucn_id": null,

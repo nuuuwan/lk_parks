@@ -1,8 +1,7 @@
 {
   "name": "Boerhavia diffusa",
   "authorship": "L.",
-  "genus_name": "Boerhavia",
-  "family_name": "Nyctaginaceae",
+  "parent_name": "Boerhavia",
   "gbif_id": "3086282",
   "powo_id": "326899-2",
   "iucn_id": null,

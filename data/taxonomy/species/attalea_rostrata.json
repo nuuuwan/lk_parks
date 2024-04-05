@@ -1,8 +1,7 @@
 {
   "name": "Attalea rostrata",
   "authorship": "Oerst.",
-  "genus_name": "Attalea",
-  "family_name": "Arecaceae",
+  "parent_name": "Attalea",
   "gbif_id": "2732845",
   "powo_id": "664467-1",
   "iucn_id": "58405437",

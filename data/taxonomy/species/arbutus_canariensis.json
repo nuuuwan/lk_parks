@@ -1,8 +1,7 @@
 {
   "name": "Arbutus canariensis",
   "authorship": "Veill. ex Duhamel",
-  "genus_name": "Arbutus",
-  "family_name": "Ericaceae",
+  "parent_name": "Arbutus",
   "gbif_id": "4170826",
   "powo_id": "326442-1",
   "iucn_id": "30322",

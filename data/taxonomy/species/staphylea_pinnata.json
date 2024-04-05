@@ -1,8 +1,7 @@
 {
   "name": "Staphylea pinnata",
   "authorship": "L.",
-  "genus_name": "Staphylea",
-  "family_name": "Staphyleaceae",
+  "parent_name": "Staphylea",
   "gbif_id": "3686235",
   "powo_id": "785263-1",
   "iucn_id": "83827703",

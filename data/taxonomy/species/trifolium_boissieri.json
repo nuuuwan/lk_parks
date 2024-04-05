@@ -1,8 +1,7 @@
 {
   "name": "Trifolium boissieri",
   "authorship": "Guss.",
-  "genus_name": "Trifolium",
-  "family_name": "Fabaceae",
+  "parent_name": "Trifolium",
   "gbif_id": "5358988",
   "powo_id": "522935-1",
   "iucn_id": null,

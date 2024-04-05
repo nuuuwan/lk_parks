@@ -1,8 +1,7 @@
 {
   "name": "Coelostegia borneensis",
   "authorship": "Becc.",
-  "genus_name": "Coelostegia",
-  "family_name": "Malvaceae",
+  "parent_name": "Coelostegia",
   "gbif_id": "4073315",
   "powo_id": "559362-1",
   "iucn_id": null,

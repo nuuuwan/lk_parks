@@ -1,8 +1,7 @@
 {
   "name": "Chamaedorea pochutlensis",
   "authorship": "Liebm.",
-  "genus_name": "Chamaedorea",
-  "family_name": "Arecaceae",
+  "parent_name": "Chamaedorea",
   "gbif_id": "2734491",
   "powo_id": "54931-2",
   "iucn_id": "44393456",

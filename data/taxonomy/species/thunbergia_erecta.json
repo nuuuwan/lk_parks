@@ -1,8 +1,7 @@
 {
   "name": "Thunbergia erecta",
   "authorship": "(Benth.) T.Anderson",
-  "genus_name": "Thunbergia",
-  "family_name": "Acanthaceae",
+  "parent_name": "Thunbergia",
   "gbif_id": "5415461",
   "powo_id": "56259-1",
   "iucn_id": null,

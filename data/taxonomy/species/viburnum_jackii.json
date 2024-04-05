@@ -1,8 +1,7 @@
 {
   "name": "Viburnum jackii",
   "authorship": "Rehder",
-  "genus_name": "Viburnum",
-  "family_name": "Viburnaceae",
+  "parent_name": "Viburnum",
   "gbif_id": "2888583",
   "powo_id": "291080-2",
   "iucn_id": null,

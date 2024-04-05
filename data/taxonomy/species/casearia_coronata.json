@@ -1,8 +1,7 @@
 {
   "name": "Casearia coronata",
   "authorship": "Standl. & L.O.Williams",
-  "genus_name": "Casearia",
-  "family_name": "Salicaceae",
+  "parent_name": "Casearia",
   "gbif_id": "8009196",
   "powo_id": "47976-2",
   "iucn_id": "151913008",

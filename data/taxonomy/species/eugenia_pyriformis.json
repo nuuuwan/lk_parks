@@ -1,8 +1,7 @@
 {
   "name": "Eugenia pyriformis",
   "authorship": "Cambess.",
-  "genus_name": "Eugenia",
-  "family_name": "Myrtaceae",
+  "parent_name": "Eugenia",
   "gbif_id": "5417616",
   "powo_id": "595694-1",
   "iucn_id": "152947794",

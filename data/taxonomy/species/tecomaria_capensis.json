@@ -1,8 +1,7 @@
 {
   "name": "Tecomaria capensis",
   "authorship": "(Thunb.) Spach",
-  "genus_name": "Tecomaria",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Tecomaria",
   "gbif_id": "3172490",
   "powo_id": "111333-1",
   "iucn_id": null,

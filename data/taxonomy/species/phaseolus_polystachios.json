@@ -1,8 +1,7 @@
 {
   "name": "Phaseolus polystachios",
   "authorship": "(L.) Britton, Sterns & Poggenb.",
-  "genus_name": "Phaseolus",
-  "family_name": "Fabaceae",
+  "parent_name": "Phaseolus",
   "gbif_id": "5350430",
   "powo_id": "192528-2",
   "iucn_id": "19892040",

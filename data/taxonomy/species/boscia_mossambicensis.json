@@ -1,8 +1,7 @@
 {
   "name": "Boscia mossambicensis",
   "authorship": "Klotzsch",
-  "genus_name": "Boscia",
-  "family_name": "Capparaceae",
+  "parent_name": "Boscia",
   "gbif_id": "5602456",
   "powo_id": "146119-1",
   "iucn_id": "146187846",

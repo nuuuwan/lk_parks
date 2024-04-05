@@ -1,8 +1,7 @@
 {
   "name": "Houstonia micrantha",
   "authorship": "(Shinners) Terrell",
-  "genus_name": "Houstonia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Houstonia",
   "gbif_id": "5338880",
   "powo_id": "124300-2",
   "iucn_id": null,

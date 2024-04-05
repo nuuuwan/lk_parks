@@ -1,8 +1,7 @@
 {
   "name": "Ardisia japonica",
   "authorship": "(Thunb.) Blume",
-  "genus_name": "Ardisia",
-  "family_name": "Primulaceae",
+  "parent_name": "Ardisia",
   "gbif_id": "5558066",
   "powo_id": "587115-1",
   "iucn_id": null,

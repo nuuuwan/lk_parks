@@ -1,8 +1,7 @@
 {
   "name": "Phillyrea angustifolia",
   "authorship": "L.",
-  "genus_name": "Phillyrea",
-  "family_name": "Oleaceae",
+  "parent_name": "Phillyrea",
   "gbif_id": "7325947",
   "powo_id": "610935-1",
   "iucn_id": null,

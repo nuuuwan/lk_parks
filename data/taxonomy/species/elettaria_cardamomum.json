@@ -1,8 +1,7 @@
 {
   "name": "Elettaria cardamomum",
   "authorship": "(L.) Maton",
-  "genus_name": "Elettaria",
-  "family_name": "Zingiberaceae",
+  "parent_name": "Elettaria",
   "gbif_id": "2759871",
   "powo_id": "796556-1",
   "iucn_id": null,

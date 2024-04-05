@@ -1,8 +1,7 @@
 {
   "name": "Zanthoxylum chalybeum",
   "authorship": "Engl.",
-  "genus_name": "Zanthoxylum",
-  "family_name": "Rutaceae",
+  "parent_name": "Zanthoxylum",
   "gbif_id": "7268988",
   "powo_id": "775643-1",
   "iucn_id": "146222176",

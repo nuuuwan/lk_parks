@@ -1,8 +1,7 @@
 {
   "name": "Bossiaea obcordata",
   "authorship": "(Vent.) Druce",
-  "genus_name": "Bossiaea",
-  "family_name": "Fabaceae",
+  "parent_name": "Bossiaea",
   "gbif_id": "2968327",
   "powo_id": "482081-1",
   "iucn_id": null,

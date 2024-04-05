@@ -1,8 +1,7 @@
 {
   "name": "Antirrhinum braun-blanquetii",
   "authorship": "Rothm.",
-  "genus_name": "Antirrhinum",
-  "family_name": "Plantaginaceae",
+  "parent_name": "Antirrhinum",
   "gbif_id": "3741256",
   "powo_id": "799024-1",
   "iucn_id": null,

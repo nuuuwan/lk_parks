@@ -1,8 +1,7 @@
 {
   "name": "Ceodes grandis",
   "authorship": "(R.Br.) D.Q.Lu",
-  "genus_name": "Ceodes",
-  "family_name": "Nyctaginaceae",
+  "parent_name": "Ceodes",
   "gbif_id": "3701578",
   "powo_id": "999302-1",
   "iucn_id": null,

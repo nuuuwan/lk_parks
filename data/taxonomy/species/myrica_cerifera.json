@@ -1,8 +1,7 @@
 {
   "name": "Myrica cerifera",
   "authorship": "L.",
-  "genus_name": "Myrica",
-  "family_name": "Myricaceae",
+  "parent_name": "Myrica",
   "gbif_id": "5414216",
   "powo_id": "166220-2",
   "iucn_id": null,

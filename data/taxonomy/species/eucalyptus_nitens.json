@@ -1,8 +1,7 @@
 {
   "name": "Eucalyptus nitens",
   "authorship": "(H.Deane & Maiden) Maiden",
-  "genus_name": "Eucalyptus",
-  "family_name": "Myrtaceae",
+  "parent_name": "Eucalyptus",
   "gbif_id": "3176336",
   "powo_id": "593164-1",
   "iucn_id": "61914129",

@@ -1,8 +1,7 @@
 {
   "name": "Xanthorrhoea australis",
   "authorship": "R.Br.",
-  "genus_name": "Xanthorrhoea",
-  "family_name": "Asphodelaceae",
+  "parent_name": "Xanthorrhoea",
   "gbif_id": "2779447",
   "powo_id": "444046-1",
   "iucn_id": null,

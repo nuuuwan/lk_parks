@@ -1,8 +1,7 @@
 {
   "name": "Ligustrum japonicum",
   "authorship": "Thunb.",
-  "genus_name": "Ligustrum",
-  "family_name": "Oleaceae",
+  "parent_name": "Ligustrum",
   "gbif_id": "3172301",
   "powo_id": "610001-1",
   "iucn_id": null,

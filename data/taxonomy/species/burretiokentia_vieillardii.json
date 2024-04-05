@@ -1,8 +1,7 @@
 {
   "name": "Burretiokentia vieillardii",
   "authorship": "(Brongn. & Gris) Pic.Serm.",
-  "genus_name": "Burretiokentia",
-  "family_name": "Arecaceae",
+  "parent_name": "Burretiokentia",
   "gbif_id": "2732654",
   "powo_id": "664925-1",
   "iucn_id": "38461",

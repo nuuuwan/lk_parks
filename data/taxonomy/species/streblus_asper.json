@@ -1,8 +1,7 @@
 {
   "name": "Streblus asper",
   "authorship": "Lour.",
-  "genus_name": "Streblus",
-  "family_name": "Moraceae",
+  "parent_name": "Streblus",
   "gbif_id": "10242935",
   "powo_id": "856662-1",
   "iucn_id": "147481363",

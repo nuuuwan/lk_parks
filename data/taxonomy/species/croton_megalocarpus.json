@@ -1,8 +1,7 @@
 {
   "name": "Croton megalocarpus",
   "authorship": "Hutch.",
-  "genus_name": "Croton",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Croton",
   "gbif_id": "3059962",
   "powo_id": "342969-1",
   "iucn_id": "62003321",

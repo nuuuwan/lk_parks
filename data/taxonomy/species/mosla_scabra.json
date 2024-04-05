@@ -1,8 +1,7 @@
 {
   "name": "Mosla scabra",
   "authorship": "(Thunb.) C.Y.Wu & H.W.Li",
-  "genus_name": "Mosla",
-  "family_name": "Lamiaceae",
+  "parent_name": "Mosla",
   "gbif_id": "8356260",
   "powo_id": "452218-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Hydrophyllum macrophyllum",
   "authorship": "Nutt.",
-  "genus_name": "Hydrophyllum",
-  "family_name": "Boraginaceae",
+  "parent_name": "Hydrophyllum",
   "gbif_id": "2928283",
   "powo_id": "432266-1",
   "iucn_id": null,

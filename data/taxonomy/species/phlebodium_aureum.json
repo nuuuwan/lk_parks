@@ -1,8 +1,7 @@
 {
   "name": "Phlebodium aureum",
   "authorship": "(L.) J.Sm.",
-  "genus_name": "Phlebodium",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Phlebodium",
   "gbif_id": "2650479",
   "powo_id": "17175390-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Musa velutina",
   "authorship": "H.Wendl. & Drude",
-  "genus_name": "Musa",
-  "family_name": "Musaceae",
+  "parent_name": "Musa",
   "gbif_id": "2762971",
   "powo_id": "797625-1",
   "iucn_id": "158542693",

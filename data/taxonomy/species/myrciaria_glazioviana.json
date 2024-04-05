@@ -1,8 +1,7 @@
 {
   "name": "Myrciaria glazioviana",
   "authorship": "(Kiaersk.) G.M.Barroso ex Sobral",
-  "genus_name": "Myrciaria",
-  "family_name": "Myrtaceae",
+  "parent_name": "Myrciaria",
   "gbif_id": "3186479",
   "powo_id": "60442758-2",
   "iucn_id": "148759305",

@@ -1,8 +1,7 @@
 {
   "name": "Bacopa monnieri",
   "authorship": "(L.) Wettst.",
-  "genus_name": "Bacopa",
-  "family_name": "Plantaginaceae",
+  "parent_name": "Bacopa",
   "gbif_id": "7836060",
   "powo_id": "1072674-2",
   "iucn_id": "164168",

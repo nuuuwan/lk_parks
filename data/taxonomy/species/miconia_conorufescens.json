@@ -1,8 +1,7 @@
 {
   "name": "Miconia conorufescens",
   "authorship": "Michelang.",
-  "genus_name": "Miconia",
-  "family_name": "Melastomataceae",
+  "parent_name": "Miconia",
   "gbif_id": "10804938",
   "powo_id": "77207705-1",
   "iucn_id": null,

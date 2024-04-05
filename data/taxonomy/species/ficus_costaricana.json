@@ -1,8 +1,7 @@
 {
   "name": "Ficus costaricana",
   "authorship": "(Liebm.) Miq.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5569991",
   "powo_id": "852672-1",
   "iucn_id": "149933649",

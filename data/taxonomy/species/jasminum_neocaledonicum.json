@@ -1,8 +1,7 @@
 {
   "name": "Jasminum neocaledonicum",
   "authorship": "Schltr.",
-  "genus_name": "Jasminum",
-  "family_name": "Oleaceae",
+  "parent_name": "Jasminum",
   "gbif_id": "3683077",
   "powo_id": "609649-1",
   "iucn_id": null,

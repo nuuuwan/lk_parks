@@ -1,8 +1,7 @@
 {
   "name": "Echinocereus grandis",
   "authorship": "Britton & Rose",
-  "genus_name": "Echinocereus",
-  "family_name": "Cactaceae",
+  "parent_name": "Echinocereus",
   "gbif_id": "3956894",
   "powo_id": "87911-2",
   "iucn_id": "152071",

@@ -1,8 +1,7 @@
 {
   "name": "Pouteria multiflora",
   "authorship": "(A.DC.) Eyma",
-  "genus_name": "Pouteria",
-  "family_name": "Sapotaceae",
+  "parent_name": "Pouteria",
   "gbif_id": "2884744",
   "powo_id": "209824-2",
   "iucn_id": null,

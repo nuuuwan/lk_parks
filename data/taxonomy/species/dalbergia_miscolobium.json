@@ -1,8 +1,7 @@
 {
   "name": "Dalbergia miscolobium",
   "authorship": "Benth.",
-  "genus_name": "Dalbergia",
-  "family_name": "Fabaceae",
+  "parent_name": "Dalbergia",
   "gbif_id": "2968927",
   "powo_id": "313061-2",
   "iucn_id": "210033118",

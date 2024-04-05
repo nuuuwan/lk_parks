@@ -1,8 +1,7 @@
 {
   "name": "Leochilus labiatus",
   "authorship": "(Sw.) Kuntze",
-  "genus_name": "Leochilus",
-  "family_name": "Orchidaceae",
+  "parent_name": "Leochilus",
   "gbif_id": "2803280",
   "powo_id": "137079-2",
   "iucn_id": null,

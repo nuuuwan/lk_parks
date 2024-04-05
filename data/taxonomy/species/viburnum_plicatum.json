@@ -1,8 +1,7 @@
 {
   "name": "Viburnum plicatum",
   "authorship": "Thunb.",
-  "genus_name": "Viburnum",
-  "family_name": "Viburnaceae",
+  "parent_name": "Viburnum",
   "gbif_id": "2888622",
   "powo_id": "149876-1",
   "iucn_id": null,

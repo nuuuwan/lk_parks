@@ -1,8 +1,7 @@
 {
   "name": "Genista patens",
   "authorship": "DC.",
-  "genus_name": "Genista",
-  "family_name": "Fabaceae",
+  "parent_name": "Genista",
   "gbif_id": "5354553",
   "powo_id": "496241-1",
   "iucn_id": null,

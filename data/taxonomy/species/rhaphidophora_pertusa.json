@@ -1,8 +1,7 @@
 {
   "name": "Rhaphidophora pertusa",
   "authorship": "(Roxb.) Schott",
-  "genus_name": "Rhaphidophora",
-  "family_name": "Araceae",
+  "parent_name": "Rhaphidophora",
   "gbif_id": "5329763",
   "powo_id": "88567-1",
   "iucn_id": null,

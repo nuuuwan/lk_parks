@@ -1,8 +1,7 @@
 {
   "name": "Eugenia biflora",
   "authorship": "(L.) DC.",
-  "genus_name": "Eugenia",
-  "family_name": "Myrtaceae",
+  "parent_name": "Eugenia",
   "gbif_id": "5417812",
   "powo_id": "593768-1",
   "iucn_id": "150115295",

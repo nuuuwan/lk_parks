@@ -1,8 +1,7 @@
 {
   "name": "Anoectochilus roxburghii",
   "authorship": "(Wall.) Lindl.",
-  "genus_name": "Anoectochilus",
-  "family_name": "Orchidaceae",
+  "parent_name": "Anoectochilus",
   "gbif_id": "5308555",
   "powo_id": "20008194-1",
   "iucn_id": null,

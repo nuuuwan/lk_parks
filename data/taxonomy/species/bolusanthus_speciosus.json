@@ -1,8 +1,7 @@
 {
   "name": "Bolusanthus speciosus",
   "authorship": "(Bolus) Harms",
-  "genus_name": "Bolusanthus",
-  "family_name": "Fabaceae",
+  "parent_name": "Bolusanthus",
   "gbif_id": "2952355",
   "powo_id": "481946-1",
   "iucn_id": "168996629",

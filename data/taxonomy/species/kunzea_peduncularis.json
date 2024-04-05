@@ -1,8 +1,7 @@
 {
   "name": "Kunzea peduncularis",
   "authorship": "F.Muell.",
-  "genus_name": "Kunzea",
-  "family_name": "Myrtaceae",
+  "parent_name": "Kunzea",
   "gbif_id": "5419999",
   "powo_id": "597212-1",
   "iucn_id": null,

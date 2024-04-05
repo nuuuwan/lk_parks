@@ -1,8 +1,7 @@
 {
   "name": "Papilionanthe teres",
   "authorship": "(Roxb.) Schltr.",
-  "genus_name": "Papilionanthe",
-  "family_name": "Orchidaceae",
+  "parent_name": "Papilionanthe",
   "gbif_id": "2833897",
   "powo_id": "649872-1",
   "iucn_id": null,

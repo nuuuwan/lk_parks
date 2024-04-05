@@ -1,8 +1,7 @@
 {
   "name": "Adinobotrys atropurpureus",
   "authorship": "(Wall.) Dunn",
-  "genus_name": "Adinobotrys",
-  "family_name": "Fabaceae",
+  "parent_name": "Adinobotrys",
   "gbif_id": "2952276",
   "powo_id": "472609-1",
   "iucn_id": null,

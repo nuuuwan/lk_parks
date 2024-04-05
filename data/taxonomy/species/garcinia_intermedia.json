@@ -1,8 +1,7 @@
 {
   "name": "Garcinia intermedia",
   "authorship": "(Pittier) Hammel",
-  "genus_name": "Garcinia",
-  "family_name": "Clusiaceae",
+  "parent_name": "Garcinia",
   "gbif_id": "3714243",
   "powo_id": "277320-2",
   "iucn_id": "136789278",

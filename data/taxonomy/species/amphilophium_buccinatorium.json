@@ -1,8 +1,7 @@
 {
   "name": "Amphilophium buccinatorium",
   "authorship": "(DC.) L.G.Lohmann",
-  "genus_name": "Amphilophium",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Amphilophium",
   "gbif_id": "7916836",
   "powo_id": "77141945-1",
   "iucn_id": null,

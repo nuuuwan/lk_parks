@@ -1,8 +1,7 @@
 {
   "name": "Platymiscium parviflorum",
   "authorship": "Benth.",
-  "genus_name": "Platymiscium",
-  "family_name": "Fabaceae",
+  "parent_name": "Platymiscium",
   "gbif_id": "2944746",
   "powo_id": "515239-1",
   "iucn_id": "124098500",

@@ -1,8 +1,7 @@
 {
   "name": "Borrichia arborescens",
   "authorship": "(L.) DC.",
-  "genus_name": "Borrichia",
-  "family_name": "Asteraceae",
+  "parent_name": "Borrichia",
   "gbif_id": "3087127",
   "powo_id": "185803-1",
   "iucn_id": "144271997",

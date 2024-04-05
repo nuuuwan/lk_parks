@@ -1,8 +1,7 @@
 {
   "name": "Terminalia macroptera",
   "authorship": "Guill. & Perr.",
-  "genus_name": "Terminalia",
-  "family_name": "Combretaceae",
+  "parent_name": "Terminalia",
   "gbif_id": "8232633",
   "powo_id": "171217-1",
   "iucn_id": "61990252",

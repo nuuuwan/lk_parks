@@ -1,8 +1,7 @@
 {
   "name": "Spondias tuberosa",
   "authorship": "Arruda",
-  "genus_name": "Spondias",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Spondias",
   "gbif_id": "8230360",
   "powo_id": "71506-1",
   "iucn_id": "148763261",

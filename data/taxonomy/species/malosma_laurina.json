@@ -1,8 +1,7 @@
 {
   "name": "Malosma laurina",
   "authorship": "(Nutt.) Abrams",
-  "genus_name": "Malosma",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Malosma",
   "gbif_id": "3190588",
   "powo_id": "1032103-2",
   "iucn_id": "153744618",

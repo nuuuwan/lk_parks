@@ -1,8 +1,7 @@
 {
   "name": "Celtis bungeana",
   "authorship": "Blume",
-  "genus_name": "Celtis",
-  "family_name": "Cannabaceae",
+  "parent_name": "Celtis",
   "gbif_id": "7141664",
   "powo_id": "851012-1",
   "iucn_id": "147508967",

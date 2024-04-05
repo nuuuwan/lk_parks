@@ -1,8 +1,7 @@
 {
   "name": "Dyera costulata",
   "authorship": "(Miq.) Hook.f.",
-  "genus_name": "Dyera",
-  "family_name": "Apocynaceae",
+  "parent_name": "Dyera",
   "gbif_id": "3169754",
   "powo_id": "78323-1",
   "iucn_id": "33212",

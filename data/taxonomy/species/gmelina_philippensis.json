@@ -1,8 +1,7 @@
 {
   "name": "Gmelina philippensis",
   "authorship": "Cham.",
-  "genus_name": "Gmelina",
-  "family_name": "Lamiaceae",
+  "parent_name": "Gmelina",
   "gbif_id": "6410769",
   "powo_id": "862965-1",
   "iucn_id": "139796277",

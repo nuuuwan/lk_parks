@@ -1,8 +1,7 @@
 {
   "name": "Wercklea insignis",
   "authorship": "Pittier & Standl.",
-  "genus_name": "Wercklea",
-  "family_name": "Malvaceae",
+  "parent_name": "Wercklea",
   "gbif_id": "3934887",
   "powo_id": "564855-1",
   "iucn_id": "151998835",

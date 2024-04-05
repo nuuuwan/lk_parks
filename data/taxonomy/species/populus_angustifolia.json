@@ -1,8 +1,7 @@
 {
   "name": "Populus angustifolia",
   "authorship": "E.James",
-  "genus_name": "Populus",
-  "family_name": "Salicaceae",
+  "parent_name": "Populus",
   "gbif_id": "3040196",
   "powo_id": "208240-2",
   "iucn_id": "135952538",

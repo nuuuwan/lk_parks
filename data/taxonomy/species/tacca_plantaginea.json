@@ -1,8 +1,7 @@
 {
   "name": "Tacca plantaginea",
   "authorship": "(Hance) Drenth",
-  "genus_name": "Tacca",
-  "family_name": "Dioscoreaceae",
+  "parent_name": "Tacca",
   "gbif_id": "2755849",
   "powo_id": "827927-1",
   "iucn_id": null,

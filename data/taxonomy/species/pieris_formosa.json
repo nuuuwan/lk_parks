@@ -1,8 +1,7 @@
 {
   "name": "Pieris formosa",
   "authorship": "(Wall.) D.Don",
-  "genus_name": "Pieris",
-  "family_name": "Ericaceae",
+  "parent_name": "Pieris",
   "gbif_id": "5333350",
   "powo_id": "331654-1",
   "iucn_id": "147650457",

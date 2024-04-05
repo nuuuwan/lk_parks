@@ -1,8 +1,7 @@
 {
   "name": "Cornus rutgersensis",
   "authorship": "Mattera, T.Molnar & Struwe",
-  "genus_name": "Cornus",
-  "family_name": "Cornaceae",
+  "parent_name": "Cornus",
   "gbif_id": "9350198",
   "powo_id": "77148931-1",
   "iucn_id": null,

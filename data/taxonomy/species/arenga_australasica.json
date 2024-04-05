@@ -1,8 +1,7 @@
 {
   "name": "Arenga australasica",
   "authorship": "(H.Wendl. & Drude) S.T.Blake ex H.E.Moore",
-  "genus_name": "Arenga",
-  "family_name": "Arecaceae",
+  "parent_name": "Arenga",
   "gbif_id": "2734018",
   "powo_id": "664243-1",
   "iucn_id": null,

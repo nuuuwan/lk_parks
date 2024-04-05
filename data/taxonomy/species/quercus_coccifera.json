@@ -1,8 +1,7 @@
 {
   "name": "Quercus coccifera",
   "authorship": "L.",
-  "genus_name": "Quercus",
-  "family_name": "Fagaceae",
+  "parent_name": "Quercus",
   "gbif_id": "2879175",
   "powo_id": "295963-1",
   "iucn_id": "194078",

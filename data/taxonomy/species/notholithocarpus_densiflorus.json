@@ -1,8 +1,7 @@
 {
   "name": "Notholithocarpus densiflorus",
   "authorship": "(Hook. & Arn.) Manos, Cannon & S.H.Oh",
-  "genus_name": "Notholithocarpus",
-  "family_name": "Fagaceae",
+  "parent_name": "Notholithocarpus",
   "gbif_id": "3906623",
   "powo_id": "60451161-2",
   "iucn_id": "62005598",

@@ -1,8 +1,7 @@
 {
   "name": "Acmella decumbens",
   "authorship": "(Sm.) R.K.Jansen",
-  "genus_name": "Acmella",
-  "family_name": "Asteraceae",
+  "parent_name": "Acmella",
   "gbif_id": "5386717",
   "powo_id": "271532-2",
   "iucn_id": null,

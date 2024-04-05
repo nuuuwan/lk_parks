@@ -1,8 +1,7 @@
 {
   "name": "Heliotropium veronicifolium",
   "authorship": "Griseb.",
-  "genus_name": "Heliotropium",
-  "family_name": "Boraginaceae",
+  "parent_name": "Heliotropium",
   "gbif_id": "4060793",
   "powo_id": "117317-1",
   "iucn_id": null,

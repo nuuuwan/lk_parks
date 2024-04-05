@@ -1,8 +1,7 @@
 {
   "name": "Gustavia augusta",
   "authorship": "L.",
-  "genus_name": "Gustavia",
-  "family_name": "Lecythidaceae",
+  "parent_name": "Gustavia",
   "gbif_id": "5383804",
   "powo_id": "114915-2",
   "iucn_id": "144120536",

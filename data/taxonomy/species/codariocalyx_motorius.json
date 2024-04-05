@@ -1,8 +1,7 @@
 {
   "name": "Codariocalyx motorius",
   "authorship": "(Houtt.) H.Ohashi",
-  "genus_name": "Codariocalyx",
-  "family_name": "Fabaceae",
+  "parent_name": "Codariocalyx",
   "gbif_id": "2968949",
   "powo_id": "486652-1",
   "iucn_id": null,

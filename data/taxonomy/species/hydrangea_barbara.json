@@ -1,8 +1,7 @@
 {
   "name": "Hydrangea barbara",
   "authorship": "(L.) Bernd Schulz",
-  "genus_name": "Hydrangea",
-  "family_name": "Hydrangeaceae",
+  "parent_name": "Hydrangea",
   "gbif_id": "8605904",
   "powo_id": "60470170-2",
   "iucn_id": null,

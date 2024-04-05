@@ -1,8 +1,7 @@
 {
   "name": "Musa balbisiana",
   "authorship": "Colla",
-  "genus_name": "Musa",
-  "family_name": "Musaceae",
+  "parent_name": "Musa",
   "gbif_id": "2762950",
   "powo_id": "797536-1",
   "iucn_id": "111907032",

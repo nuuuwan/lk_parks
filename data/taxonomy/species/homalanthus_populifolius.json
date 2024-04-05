@@ -1,8 +1,7 @@
 {
   "name": "Homalanthus populifolius",
   "authorship": "Graham",
-  "genus_name": "Homalanthus",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Homalanthus",
   "gbif_id": "3072641",
   "powo_id": "350037-1",
   "iucn_id": "144310289",

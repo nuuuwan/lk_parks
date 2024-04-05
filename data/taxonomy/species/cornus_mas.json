@@ -1,8 +1,7 @@
 {
   "name": "Cornus mas",
   "authorship": "L.",
-  "genus_name": "Cornus",
-  "family_name": "Cornaceae",
+  "parent_name": "Cornus",
   "gbif_id": "3082263",
   "powo_id": "271612-1",
   "iucn_id": "79914024",

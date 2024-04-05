@@ -1,8 +1,7 @@
 {
   "name": "Carapa procera",
   "authorship": "DC.",
-  "genus_name": "Carapa",
-  "family_name": "Meliaceae",
+  "parent_name": "Carapa",
   "gbif_id": "3851350",
   "powo_id": "577711-1",
   "iucn_id": "61794032",

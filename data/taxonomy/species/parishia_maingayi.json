@@ -1,8 +1,7 @@
 {
   "name": "Parishia maingayi",
   "authorship": "Hook.f.",
-  "genus_name": "Parishia",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Parishia",
   "gbif_id": "7321913",
   "powo_id": "70204-1",
   "iucn_id": "182094223",

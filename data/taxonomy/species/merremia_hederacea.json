@@ -1,8 +1,7 @@
 {
   "name": "Merremia hederacea",
   "authorship": "(Burm.f.) Hallier f.",
-  "genus_name": "Merremia",
-  "family_name": "Convolvulaceae",
+  "parent_name": "Merremia",
   "gbif_id": "5341744",
   "powo_id": "270531-1",
   "iucn_id": null,

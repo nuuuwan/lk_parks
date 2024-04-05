@@ -1,8 +1,7 @@
 {
   "name": "Ceiba chodatii",
   "authorship": "(Hassl.) Ravenna",
-  "genus_name": "Ceiba",
-  "family_name": "Malvaceae",
+  "parent_name": "Ceiba",
   "gbif_id": "7878348",
   "powo_id": "1005658-1",
   "iucn_id": null,

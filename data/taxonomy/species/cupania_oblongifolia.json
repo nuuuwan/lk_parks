@@ -1,8 +1,7 @@
 {
   "name": "Cupania oblongifolia",
   "authorship": "Mart.",
-  "genus_name": "Cupania",
-  "family_name": "Sapindaceae",
+  "parent_name": "Cupania",
   "gbif_id": "3785043",
   "powo_id": "782496-1",
   "iucn_id": "146075502",

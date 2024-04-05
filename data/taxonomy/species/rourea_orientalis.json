@@ -1,8 +1,7 @@
 {
   "name": "Rourea orientalis",
   "authorship": "Baill.",
-  "genus_name": "Rourea",
-  "family_name": "Connaraceae",
+  "parent_name": "Rourea",
   "gbif_id": "3686678",
   "powo_id": "264826-1",
   "iucn_id": "146211782",

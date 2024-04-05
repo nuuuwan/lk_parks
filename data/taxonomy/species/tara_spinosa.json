@@ -1,8 +1,7 @@
 {
   "name": "Tara spinosa",
   "authorship": "(Molina) Britton & Rose",
-  "genus_name": "Tara",
-  "family_name": "Fabaceae",
+  "parent_name": "Tara",
   "gbif_id": "5354727",
   "powo_id": "249443-2",
   "iucn_id": null,

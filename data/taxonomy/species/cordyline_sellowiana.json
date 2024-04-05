@@ -1,8 +1,7 @@
 {
   "name": "Cordyline sellowiana",
   "authorship": "Kunth",
-  "genus_name": "Cordyline",
-  "family_name": "Asparagaceae",
+  "parent_name": "Cordyline",
   "gbif_id": "2766268",
   "powo_id": "533643-1",
   "iucn_id": null,

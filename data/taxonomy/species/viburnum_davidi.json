@@ -1,8 +1,7 @@
 {
   "name": "Viburnum davidi",
   "authorship": "Franch.",
-  "genus_name": "Viburnum",
-  "family_name": "Viburnaceae",
+  "parent_name": "Viburnum",
   "gbif_id": "3856436",
   "powo_id": "149642-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Bromus benekenii",
   "authorship": "(Lange) Trimen",
-  "genus_name": "Bromus",
-  "family_name": "Poaceae",
+  "parent_name": "Bromus",
   "gbif_id": "4144085",
   "powo_id": "393558-1",
   "iucn_id": null,

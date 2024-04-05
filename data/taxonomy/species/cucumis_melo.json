@@ -1,8 +1,7 @@
 {
   "name": "Cucumis melo",
   "authorship": "L.",
-  "genus_name": "Cucumis",
-  "family_name": "Cucurbitaceae",
+  "parent_name": "Cucumis",
   "gbif_id": "2874570",
   "powo_id": "292238-1",
   "iucn_id": null,

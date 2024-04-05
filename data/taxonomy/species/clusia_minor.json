@@ -1,8 +1,7 @@
 {
   "name": "Clusia minor",
   "authorship": "L.",
-  "genus_name": "Clusia",
-  "family_name": "Clusiaceae",
+  "parent_name": "Clusia",
   "gbif_id": "5421056",
   "powo_id": "315124-2",
   "iucn_id": "144274594",

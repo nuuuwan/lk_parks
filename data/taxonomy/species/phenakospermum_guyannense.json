@@ -1,8 +1,7 @@
 {
   "name": "Phenakospermum guyannense",
   "authorship": "(A.Rich.) Endl. ex Miq.",
-  "genus_name": "Phenakospermum",
-  "family_name": "Strelitziaceae",
+  "parent_name": "Phenakospermum",
   "gbif_id": "2763146",
   "powo_id": "585013-1",
   "iucn_id": "179296982",

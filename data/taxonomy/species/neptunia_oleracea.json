@@ -1,8 +1,7 @@
 {
   "name": "Neptunia oleracea",
   "authorship": "Lour.",
-  "genus_name": "Neptunia",
-  "family_name": "Fabaceae",
+  "parent_name": "Neptunia",
   "gbif_id": "5353533",
   "powo_id": "509607-1",
   "iucn_id": "168883",

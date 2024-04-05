@@ -1,8 +1,7 @@
 {
   "name": "Buddleja madagascariensis",
   "authorship": "Lam.",
-  "genus_name": "Buddleja",
-  "family_name": "Scrophulariaceae",
+  "parent_name": "Buddleja",
   "gbif_id": "3173340",
   "powo_id": "545812-1",
   "iucn_id": "137830393",

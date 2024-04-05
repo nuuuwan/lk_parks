@@ -1,8 +1,7 @@
 {
   "name": "Metasequoia glyptostroboides",
   "authorship": "Hu & W.C.Cheng",
-  "genus_name": "Metasequoia",
-  "family_name": "Cupressaceae",
+  "parent_name": "Metasequoia",
   "gbif_id": "5284231",
   "powo_id": "828387-1",
   "iucn_id": "32317",

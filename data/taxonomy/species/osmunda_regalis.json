@@ -1,8 +1,7 @@
 {
   "name": "Osmunda regalis",
   "authorship": "L.",
-  "genus_name": "Osmunda",
-  "family_name": "Osmundaceae",
+  "parent_name": "Osmunda",
   "gbif_id": "8049341",
   "powo_id": "305721-2",
   "iucn_id": "164368",

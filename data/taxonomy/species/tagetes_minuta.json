@@ -1,8 +1,7 @@
 {
   "name": "Tagetes minuta",
   "authorship": "L.",
-  "genus_name": "Tagetes",
-  "family_name": "Asteraceae",
+  "parent_name": "Tagetes",
   "gbif_id": "3088481",
   "powo_id": "252132-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Arisaema triphyllum",
   "authorship": "(L.) Schott",
-  "genus_name": "Arisaema",
-  "family_name": "Araceae",
+  "parent_name": "Arisaema",
   "gbif_id": "2867316",
   "powo_id": "1107169-2",
   "iucn_id": null,

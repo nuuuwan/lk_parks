@@ -1,8 +1,7 @@
 {
   "name": "Bontia daphnoides",
   "authorship": "L.",
-  "genus_name": "Bontia",
-  "family_name": "Scrophulariaceae",
+  "parent_name": "Bontia",
   "gbif_id": "5415104",
   "powo_id": "319112-2",
   "iucn_id": "200291340",

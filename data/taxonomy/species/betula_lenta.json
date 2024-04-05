@@ -1,8 +1,7 @@
 {
   "name": "Betula lenta",
   "authorship": "L.",
-  "genus_name": "Betula",
-  "family_name": "Betulaceae",
+  "parent_name": "Betula",
   "gbif_id": "5331709",
   "powo_id": "295125-1",
   "iucn_id": "194483",

@@ -1,8 +1,7 @@
 {
   "name": "Copiapoa marginata",
   "authorship": "(Salm-Dyck) Britton & Rose",
-  "genus_name": "Copiapoa",
-  "family_name": "Cactaceae",
+  "parent_name": "Copiapoa",
   "gbif_id": "7284161",
   "powo_id": "131144-1",
   "iucn_id": "152822",

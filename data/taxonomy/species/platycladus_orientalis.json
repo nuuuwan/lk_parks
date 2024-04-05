@@ -1,8 +1,7 @@
 {
   "name": "Platycladus orientalis",
   "authorship": "(L.) Franco",
-  "genus_name": "Platycladus",
-  "family_name": "Cupressaceae",
+  "parent_name": "Platycladus",
   "gbif_id": "2684855",
   "powo_id": "677124-1",
   "iucn_id": "31305",

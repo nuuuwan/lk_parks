@@ -1,8 +1,7 @@
 {
   "name": "Lilium longiflorum",
   "authorship": "Thunb.",
-  "genus_name": "Lilium",
-  "family_name": "Liliaceae",
+  "parent_name": "Lilium",
   "gbif_id": "2753336",
   "powo_id": "537642-1",
   "iucn_id": null,

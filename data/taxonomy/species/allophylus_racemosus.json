@@ -1,8 +1,7 @@
 {
   "name": "Allophylus racemosus",
   "authorship": "Sw.",
-  "genus_name": "Allophylus",
-  "family_name": "Sapindaceae",
+  "parent_name": "Allophylus",
   "gbif_id": "5421135",
   "powo_id": "781904-1",
   "iucn_id": "150114378",

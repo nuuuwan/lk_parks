@@ -1,8 +1,7 @@
 {
   "name": "Phyllanthus angustifolius",
   "authorship": "(Sw.) Sw.",
-  "genus_name": "Phyllanthus",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Phyllanthus",
   "gbif_id": "5381986",
   "powo_id": "194623-2",
   "iucn_id": null,

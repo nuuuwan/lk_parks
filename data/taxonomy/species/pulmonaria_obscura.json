@@ -1,8 +1,7 @@
 {
   "name": "Pulmonaria obscura",
   "authorship": "Dumort.",
-  "genus_name": "Pulmonaria",
-  "family_name": "Boraginaceae",
+  "parent_name": "Pulmonaria",
   "gbif_id": "5439925",
   "powo_id": "120400-1",
   "iucn_id": null,

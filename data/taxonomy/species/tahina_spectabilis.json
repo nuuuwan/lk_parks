@@ -1,8 +1,7 @@
 {
   "name": "Tahina spectabilis",
   "authorship": "J.Dransf. & Rakotoarin.",
-  "genus_name": "Tahina",
-  "family_name": "Arecaceae",
+  "parent_name": "Tahina",
   "gbif_id": "2739272",
   "powo_id": "77086615-1",
   "iucn_id": "195893",

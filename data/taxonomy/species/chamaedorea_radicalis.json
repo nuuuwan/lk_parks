@@ -1,8 +1,7 @@
 {
   "name": "Chamaedorea radicalis",
   "authorship": "Mart.",
-  "genus_name": "Chamaedorea",
-  "family_name": "Arecaceae",
+  "parent_name": "Chamaedorea",
   "gbif_id": "2734396",
   "powo_id": "54939-2",
   "iucn_id": null,

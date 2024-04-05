@@ -1,8 +1,7 @@
 {
   "name": "Crinodendron hookerianum",
   "authorship": "Gay",
-  "genus_name": "Crinodendron",
-  "family_name": "Elaeocarpaceae",
+  "parent_name": "Crinodendron",
   "gbif_id": "4031017",
   "powo_id": "833692-1",
   "iucn_id": null,

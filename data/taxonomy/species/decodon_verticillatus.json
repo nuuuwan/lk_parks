@@ -1,8 +1,7 @@
 {
   "name": "Decodon verticillatus",
   "authorship": "(L.) Elliott",
-  "genus_name": "Decodon",
-  "family_name": "Lythraceae",
+  "parent_name": "Decodon",
   "gbif_id": "5420916",
   "powo_id": "30265188-2",
   "iucn_id": "64311180",

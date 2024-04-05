@@ -1,8 +1,7 @@
 {
   "name": "Cassipourea malosana",
   "authorship": "(Baker) Alston",
-  "genus_name": "Cassipourea",
-  "family_name": "Rhizophoraceae",
+  "parent_name": "Cassipourea",
   "gbif_id": "3874109",
   "powo_id": "719654-1",
   "iucn_id": "61957293",

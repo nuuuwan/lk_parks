@@ -1,8 +1,7 @@
 {
   "name": "Camellia petelotii",
   "authorship": "(Merr.) Sealy",
-  "genus_name": "Camellia",
-  "family_name": "Theaceae",
+  "parent_name": "Camellia",
   "gbif_id": "7152728",
   "powo_id": "829954-1",
   "iucn_id": "191436",

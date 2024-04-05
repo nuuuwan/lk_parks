@@ -1,8 +1,7 @@
 {
   "name": "Heynea trijuga",
   "authorship": "Roxb. ex Sims",
-  "genus_name": "Heynea",
-  "family_name": "Meliaceae",
+  "parent_name": "Heynea",
   "gbif_id": "7619515",
   "powo_id": "578838-1",
   "iucn_id": "147632968",

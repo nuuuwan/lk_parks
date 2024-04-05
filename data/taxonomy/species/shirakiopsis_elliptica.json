@@ -1,8 +1,7 @@
 {
   "name": "Shirakiopsis elliptica",
   "authorship": "(Hochst.) Esser",
-  "genus_name": "Shirakiopsis",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Shirakiopsis",
   "gbif_id": "3061435",
   "powo_id": "1014108-1",
   "iucn_id": "62004306",

@@ -1,8 +1,7 @@
 {
   "name": "Gardenia carinata",
   "authorship": "Wall. ex Roxb.",
-  "genus_name": "Gardenia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Gardenia",
   "gbif_id": "5334934",
   "powo_id": "750947-1",
   "iucn_id": null,

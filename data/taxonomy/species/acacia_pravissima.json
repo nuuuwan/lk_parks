@@ -1,8 +1,7 @@
 {
   "name": "Acacia pravissima",
   "authorship": "F.Muell. ex Benth.",
-  "genus_name": "Acacia",
-  "family_name": "Fabaceae",
+  "parent_name": "Acacia",
   "gbif_id": "7865768",
   "powo_id": "471201-1",
   "iucn_id": "200143224",

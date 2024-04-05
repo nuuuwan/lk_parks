@@ -1,8 +1,7 @@
 {
   "name": "Allagoptera arenaria",
   "authorship": "(Gomes) Kuntze",
-  "genus_name": "Allagoptera",
-  "family_name": "Arecaceae",
+  "parent_name": "Allagoptera",
   "gbif_id": "2732040",
   "powo_id": "8520-2",
   "iucn_id": null,

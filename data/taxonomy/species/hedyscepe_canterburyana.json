@@ -1,8 +1,7 @@
 {
   "name": "Hedyscepe canterburyana",
   "authorship": "(C.Moore & F.Muell.) H.Wendl. & Drude",
-  "genus_name": "Hedyscepe",
-  "family_name": "Arecaceae",
+  "parent_name": "Hedyscepe",
   "gbif_id": "2738747",
   "powo_id": "667392-1",
   "iucn_id": "38575",

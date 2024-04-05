@@ -1,8 +1,7 @@
 {
   "name": "Pinus pseudostrobus",
   "authorship": "Lindl.",
-  "genus_name": "Pinus",
-  "family_name": "Pinaceae",
+  "parent_name": "Pinus",
   "gbif_id": "5285280",
   "powo_id": "314879-2",
   "iucn_id": "42404",

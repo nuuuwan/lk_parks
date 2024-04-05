@@ -1,8 +1,7 @@
 {
   "name": "Plumbago auriculata",
   "authorship": "Lam.",
-  "genus_name": "Plumbago",
-  "family_name": "Plumbaginaceae",
+  "parent_name": "Plumbago",
   "gbif_id": "3082283",
   "powo_id": "687056-1",
   "iucn_id": null,

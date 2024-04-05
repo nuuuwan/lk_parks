@@ -1,8 +1,7 @@
 {
   "name": "Litchi chinensis",
   "authorship": "Sonn.",
-  "genus_name": "Litchi",
-  "family_name": "Sapindaceae",
+  "parent_name": "Litchi",
   "gbif_id": "3190002",
   "powo_id": "783539-1",
   "iucn_id": null,

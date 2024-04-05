@@ -1,8 +1,7 @@
 {
   "name": "Dicksonia thyrsopteroides",
   "authorship": "Mett.",
-  "genus_name": "Dicksonia",
-  "family_name": "Cyatheaceae",
+  "parent_name": "Dicksonia",
   "gbif_id": "5825843",
   "powo_id": "17083990-1",
   "iucn_id": "154778327",

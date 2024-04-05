@@ -1,8 +1,7 @@
 {
   "name": "Berteroa incana",
   "authorship": "(L.) DC.",
-  "genus_name": "Berteroa",
-  "family_name": "Brassicaceae",
+  "parent_name": "Berteroa",
   "gbif_id": "3053522",
   "powo_id": "278924-1",
   "iucn_id": null,

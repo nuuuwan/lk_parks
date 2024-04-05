@@ -1,8 +1,7 @@
 {
   "name": "Kleinhovia hospita",
   "authorship": "L.",
-  "genus_name": "Kleinhovia",
-  "family_name": "Malvaceae",
+  "parent_name": "Kleinhovia",
   "gbif_id": "3152102",
   "powo_id": "824074-1",
   "iucn_id": "147651836",

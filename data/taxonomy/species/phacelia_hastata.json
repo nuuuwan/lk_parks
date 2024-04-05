@@ -1,8 +1,7 @@
 {
   "name": "Phacelia hastata",
   "authorship": "Douglas ex Lehm.",
-  "genus_name": "Phacelia",
-  "family_name": "Boraginaceae",
+  "parent_name": "Phacelia",
   "gbif_id": "2928209",
   "powo_id": "432632-1",
   "iucn_id": null,

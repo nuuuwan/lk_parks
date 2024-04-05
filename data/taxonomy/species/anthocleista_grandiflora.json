@@ -1,8 +1,7 @@
 {
   "name": "Anthocleista grandiflora",
   "authorship": "Gilg",
-  "genus_name": "Anthocleista",
-  "family_name": "Gentianaceae",
+  "parent_name": "Anthocleista",
   "gbif_id": "4019317",
   "powo_id": "545611-1",
   "iucn_id": null,

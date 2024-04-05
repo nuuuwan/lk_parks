@@ -1,8 +1,7 @@
 {
   "name": "Choisya ternata",
   "authorship": "Kunth",
-  "genus_name": "Choisya",
-  "family_name": "Rutaceae",
+  "parent_name": "Choisya",
   "gbif_id": "3833284",
   "powo_id": "771812-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Eucalyptus saligna",
   "authorship": "Sm.",
-  "genus_name": "Eucalyptus",
-  "family_name": "Myrtaceae",
+  "parent_name": "Eucalyptus",
   "gbif_id": "3177224",
   "powo_id": "593334-1",
   "iucn_id": "133376951",

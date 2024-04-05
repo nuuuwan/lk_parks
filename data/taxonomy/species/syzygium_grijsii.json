@@ -1,8 +1,7 @@
 {
   "name": "Syzygium grijsii",
   "authorship": "(Hance) Merr. & L.M.Perry",
-  "genus_name": "Syzygium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syzygium",
   "gbif_id": "3183518",
   "powo_id": "601748-1",
   "iucn_id": "147615759",

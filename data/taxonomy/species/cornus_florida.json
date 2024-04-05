@@ -1,8 +1,7 @@
 {
   "name": "Cornus florida",
   "authorship": "L.",
-  "genus_name": "Cornus",
-  "family_name": "Cornaceae",
+  "parent_name": "Cornus",
   "gbif_id": "3082240",
   "powo_id": "271574-1",
   "iucn_id": "61990536",

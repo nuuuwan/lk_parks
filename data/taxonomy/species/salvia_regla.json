@@ -1,8 +1,7 @@
 {
   "name": "Salvia regla",
   "authorship": "Cav.",
-  "genus_name": "Salvia",
-  "family_name": "Lamiaceae",
+  "parent_name": "Salvia",
   "gbif_id": "2927054",
   "powo_id": "226920-2",
   "iucn_id": null,

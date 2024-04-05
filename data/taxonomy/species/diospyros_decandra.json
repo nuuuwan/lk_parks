@@ -1,8 +1,7 @@
 {
   "name": "Diospyros decandra",
   "authorship": "Lour.",
-  "genus_name": "Diospyros",
-  "family_name": "Ebenaceae",
+  "parent_name": "Diospyros",
   "gbif_id": "4070543",
   "powo_id": "322304-1",
   "iucn_id": null,

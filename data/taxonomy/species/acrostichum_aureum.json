@@ -1,8 +1,7 @@
 {
   "name": "Acrostichum aureum",
   "authorship": "L.",
-  "genus_name": "Acrostichum",
-  "family_name": "Pteridaceae",
+  "parent_name": "Acrostichum",
   "gbif_id": "2651706",
   "powo_id": "319061-2",
   "iucn_id": "177110",

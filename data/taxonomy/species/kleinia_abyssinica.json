@@ -1,8 +1,7 @@
 {
   "name": "Kleinia abyssinica",
   "authorship": "(A.Rich.) A.Berger",
-  "genus_name": "Kleinia",
-  "family_name": "Asteraceae",
+  "parent_name": "Kleinia",
   "gbif_id": "5405679",
   "powo_id": "227346-1",
   "iucn_id": null,

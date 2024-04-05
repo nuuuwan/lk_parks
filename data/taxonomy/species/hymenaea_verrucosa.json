@@ -1,8 +1,7 @@
 {
   "name": "Hymenaea verrucosa",
   "authorship": "Gaertn.",
-  "genus_name": "Hymenaea",
-  "family_name": "Fabaceae",
+  "parent_name": "Hymenaea",
   "gbif_id": "2950730",
   "powo_id": "498815-1",
   "iucn_id": null,

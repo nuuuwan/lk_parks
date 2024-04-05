@@ -1,8 +1,7 @@
 {
   "name": "Raukaua laetevirens",
   "authorship": "(Gay) Frodin",
-  "genus_name": "Raukaua",
-  "family_name": "Araliaceae",
+  "parent_name": "Raukaua",
   "gbif_id": "3037281",
   "powo_id": "60427848-2",
   "iucn_id": "131406991",

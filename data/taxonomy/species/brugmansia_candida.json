@@ -1,8 +1,7 @@
 {
   "name": "Brugmansia candida",
   "authorship": "Pers.",
-  "genus_name": "Brugmansia",
-  "family_name": "Solanaceae",
+  "parent_name": "Brugmansia",
   "gbif_id": "9099468",
   "powo_id": "814597-1",
   "iucn_id": null,

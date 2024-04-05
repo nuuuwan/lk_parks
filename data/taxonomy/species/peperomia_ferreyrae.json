@@ -1,8 +1,7 @@
 {
   "name": "Peperomia ferreyrae",
   "authorship": "Yunck.",
-  "genus_name": "Peperomia",
-  "family_name": "Piperaceae",
+  "parent_name": "Peperomia",
   "gbif_id": "4186501",
   "powo_id": "188723-2",
   "iucn_id": null,

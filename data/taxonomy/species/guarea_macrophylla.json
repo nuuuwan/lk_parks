@@ -1,8 +1,7 @@
 {
   "name": "Guarea macrophylla",
   "authorship": "Vahl",
-  "genus_name": "Guarea",
-  "family_name": "Meliaceae",
+  "parent_name": "Guarea",
   "gbif_id": "7271393",
   "powo_id": "578653-1",
   "iucn_id": "62968",

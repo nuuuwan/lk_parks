@@ -1,8 +1,7 @@
 {
   "name": "Corylopsis sinensis",
   "authorship": "Hemsl.",
-  "genus_name": "Corylopsis",
-  "family_name": "Hamamelidaceae",
+  "parent_name": "Corylopsis",
   "gbif_id": "7167375",
   "powo_id": "430581-1",
   "iucn_id": null,

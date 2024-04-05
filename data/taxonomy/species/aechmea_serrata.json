@@ -1,8 +1,7 @@
 {
   "name": "Aechmea serrata",
   "authorship": "(L.) Mez",
-  "genus_name": "Aechmea",
-  "family_name": "Bromeliaceae",
+  "parent_name": "Aechmea",
   "gbif_id": "2698071",
   "powo_id": "5605-2",
   "iucn_id": null,

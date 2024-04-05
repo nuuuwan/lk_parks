@@ -1,8 +1,7 @@
 {
   "name": "Eusideroxylon zwageri",
   "authorship": "Teijsm. & Binn.",
-  "genus_name": "Eusideroxylon",
-  "family_name": "Lauraceae",
+  "parent_name": "Eusideroxylon",
   "gbif_id": "3033968",
   "powo_id": "464565-1",
   "iucn_id": "31316",

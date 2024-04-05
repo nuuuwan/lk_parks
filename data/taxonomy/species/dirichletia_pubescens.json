@@ -1,8 +1,7 @@
 {
   "name": "Dirichletia pubescens",
   "authorship": "Klotzsch",
-  "genus_name": "Dirichletia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Dirichletia",
   "gbif_id": "2896637",
   "powo_id": "748545-1",
   "iucn_id": "146652478",

@@ -1,8 +1,7 @@
 {
   "name": "Rotheca serrata",
   "authorship": "(L.) Steane & Mabb.",
-  "genus_name": "Rotheca",
-  "family_name": "Lamiaceae",
+  "parent_name": "Rotheca",
   "gbif_id": "3887135",
   "powo_id": "1002733-1",
   "iucn_id": null,

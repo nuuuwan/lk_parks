@@ -1,8 +1,7 @@
 {
   "name": "Cyperus alternifolius",
   "authorship": "L.",
-  "genus_name": "Cyperus",
-  "family_name": "Cyperaceae",
+  "parent_name": "Cyperus",
   "gbif_id": "2714156",
   "powo_id": "303729-1",
   "iucn_id": "168912",

@@ -1,8 +1,7 @@
 {
   "name": "Ficus montana",
   "authorship": "Burm.f.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "8041955",
   "powo_id": "853240-1",
   "iucn_id": "223588372",

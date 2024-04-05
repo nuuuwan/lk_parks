@@ -1,8 +1,7 @@
 {
   "name": "Brachychiton discolor",
   "authorship": "F.Muell.",
-  "genus_name": "Brachychiton",
-  "family_name": "Malvaceae",
+  "parent_name": "Brachychiton",
   "gbif_id": "7426033",
   "powo_id": "822259-1",
   "iucn_id": "192229298",

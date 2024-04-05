@@ -1,8 +1,7 @@
 {
   "name": "Commiphora mollis",
   "authorship": "(Oliv.) Engl.",
-  "genus_name": "Commiphora",
-  "family_name": "Burseraceae",
+  "parent_name": "Commiphora",
   "gbif_id": "8109315",
   "powo_id": "127728-1",
   "iucn_id": "146210038",

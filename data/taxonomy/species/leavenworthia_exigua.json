@@ -1,8 +1,7 @@
 {
   "name": "Leavenworthia exigua",
   "authorship": "Rollins",
-  "genus_name": "Leavenworthia",
-  "family_name": "Brassicaceae",
+  "parent_name": "Leavenworthia",
   "gbif_id": "3047229",
   "powo_id": "136821-2",
   "iucn_id": null,

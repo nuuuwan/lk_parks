@@ -1,8 +1,7 @@
 {
   "name": "Machaerium villosum",
   "authorship": "Vogel",
-  "genus_name": "Machaerium",
-  "family_name": "Fabaceae",
+  "parent_name": "Machaerium",
   "gbif_id": "5354918",
   "powo_id": "505624-1",
   "iucn_id": "32980",

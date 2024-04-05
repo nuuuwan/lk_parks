@@ -1,8 +1,7 @@
 {
   "name": "Hibiscus trionum",
   "authorship": "L.",
-  "genus_name": "Hibiscus",
-  "family_name": "Malvaceae",
+  "parent_name": "Hibiscus",
   "gbif_id": "3152560",
   "powo_id": "122028-2",
   "iucn_id": null,

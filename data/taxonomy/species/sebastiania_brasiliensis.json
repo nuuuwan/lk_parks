@@ -1,8 +1,7 @@
 {
   "name": "Sebastiania brasiliensis",
   "authorship": "Spreng.",
-  "genus_name": "Sebastiania",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Sebastiania",
   "gbif_id": "5380609",
   "powo_id": "356183-1",
   "iucn_id": "145707486",

@@ -1,8 +1,7 @@
 {
   "name": "Catharanthus roseus",
   "authorship": "(L.) G.Don",
-  "genus_name": "Catharanthus",
-  "family_name": "Apocynaceae",
+  "parent_name": "Catharanthus",
   "gbif_id": "3169830",
   "powo_id": "77880-1",
   "iucn_id": null,

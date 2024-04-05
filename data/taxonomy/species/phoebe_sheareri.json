@@ -1,8 +1,7 @@
 {
   "name": "Phoebe sheareri",
   "authorship": "(Hemsl.) Gamble",
-  "genus_name": "Phoebe",
-  "family_name": "Lauraceae",
+  "parent_name": "Phoebe",
   "gbif_id": "7304665",
   "powo_id": "468476-1",
   "iucn_id": "146517490",

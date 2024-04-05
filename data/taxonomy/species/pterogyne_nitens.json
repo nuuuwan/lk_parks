@@ -1,8 +1,7 @@
 {
   "name": "Pterogyne nitens",
   "authorship": "Tul.",
-  "genus_name": "Pterogyne",
-  "family_name": "Fabaceae",
+  "parent_name": "Pterogyne",
   "gbif_id": "5352650",
   "powo_id": "516619-1",
   "iucn_id": "32977",

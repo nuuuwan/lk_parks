@@ -1,8 +1,7 @@
 {
   "name": "Rubia tinctorum",
   "authorship": "L.",
-  "genus_name": "Rubia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Rubia",
   "gbif_id": "2892272",
   "powo_id": "765369-1",
   "iucn_id": null,

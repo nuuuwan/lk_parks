@@ -1,8 +1,7 @@
 {
   "name": "Gelsemium sempervirens",
   "authorship": "(L.) J.St.-Hil.",
-  "genus_name": "Gelsemium",
-  "family_name": "Gelsemiaceae",
+  "parent_name": "Gelsemium",
   "gbif_id": "3169513",
   "powo_id": "60448812-2",
   "iucn_id": null,

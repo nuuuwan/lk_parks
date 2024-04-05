@@ -1,8 +1,7 @@
 {
   "name": "Chassalia gaertneroides",
   "authorship": "(Cordem.) Verdc.",
-  "genus_name": "Chassalia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Chassalia",
   "gbif_id": "2912862",
   "powo_id": "912222-1",
   "iucn_id": null,

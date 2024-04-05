@@ -1,8 +1,7 @@
 {
   "name": "Cyphophoenix alba",
   "authorship": "(H.E.Moore) Pintaud & W.J.Baker",
-  "genus_name": "Cyphophoenix",
-  "family_name": "Arecaceae",
+  "parent_name": "Cyphophoenix",
   "gbif_id": "2739099",
   "powo_id": "77090319-1",
   "iucn_id": "115735348",

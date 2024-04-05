@@ -1,8 +1,7 @@
 {
   "name": "Diospyros sandwicensis",
   "authorship": "(A.DC.) Fosberg",
-  "genus_name": "Diospyros",
-  "family_name": "Ebenaceae",
+  "parent_name": "Diospyros",
   "gbif_id": "6396620",
   "powo_id": "322977-1",
   "iucn_id": "173647",

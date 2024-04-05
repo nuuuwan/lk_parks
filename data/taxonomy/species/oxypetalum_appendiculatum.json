@@ -1,8 +1,7 @@
 {
   "name": "Oxypetalum appendiculatum",
   "authorship": "Mart.",
-  "genus_name": "Oxypetalum",
-  "family_name": "Apocynaceae",
+  "parent_name": "Oxypetalum",
   "gbif_id": "3573478",
   "powo_id": "99994-1",
   "iucn_id": null,

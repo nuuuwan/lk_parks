@@ -1,8 +1,7 @@
 {
   "name": "Lepisanthes rubiginosa",
   "authorship": "(Roxb.) Leenh.",
-  "genus_name": "Lepisanthes",
-  "family_name": "Sapindaceae",
+  "parent_name": "Lepisanthes",
   "gbif_id": "3784961",
   "powo_id": "783524-1",
   "iucn_id": "147652185",

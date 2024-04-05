@@ -1,8 +1,7 @@
 {
   "name": "Tripodanthus flagellaris",
   "authorship": "(Cham. & Schltdl.) Tiegh.",
-  "genus_name": "Tripodanthus",
-  "family_name": "Loranthaceae",
+  "parent_name": "Tripodanthus",
   "gbif_id": "4004065",
   "powo_id": "258639-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Fuchsia boliviana",
   "authorship": "Carri\u00e8re",
-  "genus_name": "Fuchsia",
-  "family_name": "Onagraceae",
+  "parent_name": "Fuchsia",
   "gbif_id": "5938225",
   "powo_id": "106150-2",
   "iucn_id": "103127813",

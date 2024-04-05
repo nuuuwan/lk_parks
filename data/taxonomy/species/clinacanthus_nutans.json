@@ -1,8 +1,7 @@
 {
   "name": "Clinacanthus nutans",
   "authorship": "(Burm.f.) Lindau",
-  "genus_name": "Clinacanthus",
-  "family_name": "Acanthaceae",
+  "parent_name": "Clinacanthus",
   "gbif_id": "3774284",
   "powo_id": "46937-1",
   "iucn_id": null,

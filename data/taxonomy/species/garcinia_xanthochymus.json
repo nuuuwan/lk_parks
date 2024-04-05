@@ -1,8 +1,7 @@
 {
   "name": "Garcinia xanthochymus",
   "authorship": "Hook.f. ex T.Anderson",
-  "genus_name": "Garcinia",
-  "family_name": "Clusiaceae",
+  "parent_name": "Garcinia",
   "gbif_id": "8231835",
   "powo_id": "1164363-2",
   "iucn_id": "169575117",

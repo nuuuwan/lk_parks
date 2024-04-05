@@ -1,8 +1,7 @@
 {
   "name": "Chrysophyllum venezuelanense",
   "authorship": "(Pierre) T.D.Penn.",
-  "genus_name": "Chrysophyllum",
-  "family_name": "Sapotaceae",
+  "parent_name": "Chrysophyllum",
   "gbif_id": "2885671",
   "powo_id": "948088-1",
   "iucn_id": "145813280",

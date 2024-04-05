@@ -1,8 +1,7 @@
 {
   "name": "Forsythia suspensa",
   "authorship": "(Thunb.) Vahl",
-  "genus_name": "Forsythia",
-  "family_name": "Oleaceae",
+  "parent_name": "Forsythia",
   "gbif_id": "5415056",
   "powo_id": "608900-1",
   "iucn_id": null,

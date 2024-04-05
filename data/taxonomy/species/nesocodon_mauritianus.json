@@ -1,8 +1,7 @@
 {
   "name": "Nesocodon mauritianus",
   "authorship": "(I.Richardson) Thulin",
-  "genus_name": "Nesocodon",
-  "family_name": "Campanulaceae",
+  "parent_name": "Nesocodon",
   "gbif_id": "3161824",
   "powo_id": "144220-1",
   "iucn_id": null,

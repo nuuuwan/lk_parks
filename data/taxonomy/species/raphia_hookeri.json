@@ -1,8 +1,7 @@
 {
   "name": "Raphia hookeri",
   "authorship": "G.Mann & H.Wendl.",
-  "genus_name": "Raphia",
-  "family_name": "Arecaceae",
+  "parent_name": "Raphia",
   "gbif_id": "5293235",
   "powo_id": "669512-1",
   "iucn_id": "95366666",

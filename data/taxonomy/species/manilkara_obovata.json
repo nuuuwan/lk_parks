@@ -1,8 +1,7 @@
 {
   "name": "Manilkara obovata",
   "authorship": "(Sabine & G.Don) J.H.Hemsl.",
-  "genus_name": "Manilkara",
-  "family_name": "Sapotaceae",
+  "parent_name": "Manilkara",
   "gbif_id": "2885327",
   "powo_id": "787681-1",
   "iucn_id": "142332116",

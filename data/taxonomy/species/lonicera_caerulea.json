@@ -1,8 +1,7 @@
 {
   "name": "Lonicera caerulea",
   "authorship": "L.",
-  "genus_name": "Lonicera",
-  "family_name": "Caprifoliaceae",
+  "parent_name": "Lonicera",
   "gbif_id": "5334269",
   "powo_id": "148657-1",
   "iucn_id": "18775218",

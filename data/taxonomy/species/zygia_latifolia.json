@@ -1,8 +1,7 @@
 {
   "name": "Zygia latifolia",
   "authorship": "(L.) Fawc. & Rendle",
-  "genus_name": "Zygia",
-  "family_name": "Fabaceae",
+  "parent_name": "Zygia",
   "gbif_id": "5347411",
   "powo_id": "271432-2",
   "iucn_id": "205612571",

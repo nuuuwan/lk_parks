@@ -1,8 +1,7 @@
 {
   "name": "Xylocarpus granatum",
   "authorship": "J.Koenig",
-  "genus_name": "Xylocarpus",
-  "family_name": "Meliaceae",
+  "parent_name": "Xylocarpus",
   "gbif_id": "3190517",
   "powo_id": "579970-1",
   "iucn_id": "178845",

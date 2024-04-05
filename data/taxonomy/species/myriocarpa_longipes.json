@@ -1,8 +1,7 @@
 {
   "name": "Myriocarpa longipes",
   "authorship": "Liebm.",
-  "genus_name": "Myriocarpa",
-  "family_name": "Urticaceae",
+  "parent_name": "Myriocarpa",
   "gbif_id": "7300750",
   "powo_id": "854756-1",
   "iucn_id": "176018507",

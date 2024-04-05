@@ -1,8 +1,7 @@
 {
   "name": "Pinus roxburghii",
   "authorship": "Sarg.",
-  "genus_name": "Pinus",
-  "family_name": "Pinaceae",
+  "parent_name": "Pinus",
   "gbif_id": "5285084",
   "powo_id": "677098-1",
   "iucn_id": "42412",

@@ -1,8 +1,7 @@
 {
   "name": "Juncus gracilicaulis",
   "authorship": "A.Camus",
-  "genus_name": "Juncus",
-  "family_name": "Juncaceae",
+  "parent_name": "Juncus",
   "gbif_id": "2701464",
   "powo_id": "443011-1",
   "iucn_id": null,

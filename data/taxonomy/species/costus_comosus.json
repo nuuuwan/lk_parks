@@ -1,8 +1,7 @@
 {
   "name": "Costus comosus",
   "authorship": "(Jacq.) Roscoe",
-  "genus_name": "Costus",
-  "family_name": "Costaceae",
+  "parent_name": "Costus",
   "gbif_id": "2756856",
   "powo_id": "796280-1",
   "iucn_id": null,

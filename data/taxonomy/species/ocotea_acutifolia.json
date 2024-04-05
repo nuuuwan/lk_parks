@@ -1,8 +1,7 @@
 {
   "name": "Ocotea acutifolia",
   "authorship": "(Nees) Mez",
-  "genus_name": "Ocotea",
-  "family_name": "Lauraceae",
+  "parent_name": "Ocotea",
   "gbif_id": "4178071",
   "powo_id": "171504-2",
   "iucn_id": "158694710",

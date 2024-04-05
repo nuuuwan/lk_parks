@@ -1,8 +1,7 @@
 {
   "name": "Cinnamomum glaucescens",
   "authorship": "(Nees) Hand.-Mazz.",
-  "genus_name": "Cinnamomum",
-  "family_name": "Lauraceae",
+  "parent_name": "Cinnamomum",
   "gbif_id": "4175703",
   "powo_id": "463436-1",
   "iucn_id": "145309203",

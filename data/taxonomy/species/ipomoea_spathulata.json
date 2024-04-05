@@ -1,8 +1,7 @@
 {
   "name": "Ipomoea spathulata",
   "authorship": "Hallier f.",
-  "genus_name": "Ipomoea",
-  "family_name": "Convolvulaceae",
+  "parent_name": "Ipomoea",
   "gbif_id": "8185368",
   "powo_id": "269831-1",
   "iucn_id": null,

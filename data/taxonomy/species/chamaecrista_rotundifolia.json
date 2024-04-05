@@ -1,8 +1,7 @@
 {
   "name": "Chamaecrista rotundifolia",
   "authorship": "(Pers.) Greene",
-  "genus_name": "Chamaecrista",
-  "family_name": "Fabaceae",
+  "parent_name": "Chamaecrista",
   "gbif_id": "2949803",
   "powo_id": "54723-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Careya arborea",
   "authorship": "Roxb.",
-  "genus_name": "Careya",
-  "family_name": "Lecythidaceae",
+  "parent_name": "Careya",
   "gbif_id": "3083448",
   "powo_id": "469163-1",
   "iucn_id": null,

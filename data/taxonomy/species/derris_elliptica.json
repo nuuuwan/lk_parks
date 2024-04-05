@@ -1,8 +1,7 @@
 {
   "name": "Derris elliptica",
   "authorship": "(Wall.) Benth.",
-  "genus_name": "Derris",
-  "family_name": "Fabaceae",
+  "parent_name": "Derris",
   "gbif_id": "5350305",
   "powo_id": "491300-1",
   "iucn_id": null,

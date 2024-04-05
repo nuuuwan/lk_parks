@@ -1,8 +1,7 @@
 {
   "name": "Cratoxylum cochinchinense",
   "authorship": "(Lour.) Blume",
-  "genus_name": "Cratoxylum",
-  "family_name": "Hypericaceae",
+  "parent_name": "Cratoxylum",
   "gbif_id": "3712064",
   "powo_id": "433054-1",
   "iucn_id": "33936",

@@ -1,8 +1,7 @@
 {
   "name": "Miconia tococa",
   "authorship": "(Desr.) Michelang.",
-  "genus_name": "Miconia",
-  "family_name": "Melastomataceae",
+  "parent_name": "Miconia",
   "gbif_id": "10816285",
   "powo_id": "77207761-1",
   "iucn_id": null,

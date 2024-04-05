@@ -1,8 +1,7 @@
 {
   "name": "Dendrobium aphyllum",
   "authorship": "(Roxb.) C.E.C.Fisch.",
-  "genus_name": "Dendrobium",
-  "family_name": "Orchidaceae",
+  "parent_name": "Dendrobium",
   "gbif_id": "5316701",
   "powo_id": "626817-1",
   "iucn_id": "15053780",

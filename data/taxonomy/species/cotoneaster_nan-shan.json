@@ -1,8 +1,7 @@
 {
   "name": "Cotoneaster nan-shan",
   "authorship": "M.Vilm. ex Mottet",
-  "genus_name": "Cotoneaster",
-  "family_name": "Rosaceae",
+  "parent_name": "Cotoneaster",
   "gbif_id": "3025935",
   "powo_id": "77125649-1",
   "iucn_id": null,

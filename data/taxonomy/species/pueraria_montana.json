@@ -1,8 +1,7 @@
 {
   "name": "Pueraria montana",
   "authorship": "(Lour.) Merr.",
-  "genus_name": "Pueraria",
-  "family_name": "Fabaceae",
+  "parent_name": "Pueraria",
   "gbif_id": "2977636",
   "powo_id": "516708-1",
   "iucn_id": null,

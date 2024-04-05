@@ -1,8 +1,7 @@
 {
   "name": "Lophostemon confertus",
   "authorship": "(R.Br.) Peter G.Wilson & J.T.Waterh.",
-  "genus_name": "Lophostemon",
-  "family_name": "Myrtaceae",
+  "parent_name": "Lophostemon",
   "gbif_id": "3188429",
   "powo_id": "910845-1",
   "iucn_id": "178030014",

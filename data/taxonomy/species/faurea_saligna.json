@@ -1,8 +1,7 @@
 {
   "name": "Faurea saligna",
   "authorship": "Harv.",
-  "genus_name": "Faurea",
-  "family_name": "Proteaceae",
+  "parent_name": "Faurea",
   "gbif_id": "5636801",
   "powo_id": "703643-1",
   "iucn_id": "112642574",

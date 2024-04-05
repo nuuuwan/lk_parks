@@ -1,8 +1,7 @@
 {
   "name": "Aechmea aquilega",
   "authorship": "(Salisb.) Griseb.",
-  "genus_name": "Aechmea",
-  "family_name": "Bromeliaceae",
+  "parent_name": "Aechmea",
   "gbif_id": "2698421",
   "powo_id": "1160033-2",
   "iucn_id": null,

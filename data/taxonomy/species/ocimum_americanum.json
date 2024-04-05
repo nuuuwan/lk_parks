@@ -1,8 +1,7 @@
 {
   "name": "Ocimum americanum",
   "authorship": "L.",
-  "genus_name": "Ocimum",
-  "family_name": "Lamiaceae",
+  "parent_name": "Ocimum",
   "gbif_id": "2927097",
   "powo_id": "316218-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Populus canadensis",
   "authorship": "Moench",
-  "genus_name": "Populus",
-  "family_name": "Salicaceae",
+  "parent_name": "Populus",
   "gbif_id": "8190077",
   "powo_id": "776622-1",
   "iucn_id": null,

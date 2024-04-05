@@ -1,8 +1,7 @@
 {
   "name": "Ficus concinna",
   "authorship": "(Miq.) Miq.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5570214",
   "powo_id": "852645-1",
   "iucn_id": "147492469",

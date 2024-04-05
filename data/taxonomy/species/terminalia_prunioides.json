@@ -1,8 +1,7 @@
 {
   "name": "Terminalia prunioides",
   "authorship": "M.A.Lawson",
-  "genus_name": "Terminalia",
-  "family_name": "Combretaceae",
+  "parent_name": "Terminalia",
   "gbif_id": "3698514",
   "powo_id": "171334-1",
   "iucn_id": "146222055",

@@ -1,8 +1,7 @@
 {
   "name": "Combretum rotundifolium",
   "authorship": "Rich.",
-  "genus_name": "Combretum",
-  "family_name": "Combretaceae",
+  "parent_name": "Combretum",
   "gbif_id": "7554952",
   "powo_id": "170434-1",
   "iucn_id": "179307555",

@@ -1,8 +1,7 @@
 {
   "name": "Rubus pensilvanicus",
   "authorship": "Poir.",
-  "genus_name": "Rubus",
-  "family_name": "Rosaceae",
+  "parent_name": "Rubus",
   "gbif_id": "2989061",
   "powo_id": "30263954-2",
   "iucn_id": null,

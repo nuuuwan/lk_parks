@@ -1,8 +1,7 @@
 {
   "name": "Myrtus communis",
   "authorship": "L.",
-  "genus_name": "Myrtus",
-  "family_name": "Myrtaceae",
+  "parent_name": "Myrtus",
   "gbif_id": "3180085",
   "powo_id": "599719-1",
   "iucn_id": "203365",

@@ -1,8 +1,7 @@
 {
   "name": "Echinocereus enneacanthus",
   "authorship": "Engelm.",
-  "genus_name": "Echinocereus",
-  "family_name": "Cactaceae",
+  "parent_name": "Echinocereus",
   "gbif_id": "3084109",
   "powo_id": "132350-1",
   "iucn_id": "152692",

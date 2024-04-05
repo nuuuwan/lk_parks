@@ -1,8 +1,7 @@
 {
   "name": "Kopsia fruticosa",
   "authorship": "(Roxb.) A.DC.",
-  "genus_name": "Kopsia",
-  "family_name": "Apocynaceae",
+  "parent_name": "Kopsia",
   "gbif_id": "5536025",
   "powo_id": "79497-1",
   "iucn_id": null,

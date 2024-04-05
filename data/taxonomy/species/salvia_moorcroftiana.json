@@ -1,8 +1,7 @@
 {
   "name": "Salvia moorcroftiana",
   "authorship": "Wall. ex Benth.",
-  "genus_name": "Salvia",
-  "family_name": "Lamiaceae",
+  "parent_name": "Salvia",
   "gbif_id": "3895412",
   "powo_id": "456738-1",
   "iucn_id": null,

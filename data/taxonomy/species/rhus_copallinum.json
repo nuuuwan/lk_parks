@@ -1,8 +1,7 @@
 {
   "name": "Rhus copallinum",
   "authorship": "L.",
-  "genus_name": "Rhus",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Rhus",
   "gbif_id": null,
   "powo_id": "219750-2",
   "iucn_id": "144301905",

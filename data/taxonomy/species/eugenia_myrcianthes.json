@@ -1,8 +1,7 @@
 {
   "name": "Eugenia myrcianthes",
   "authorship": "Nied.",
-  "genus_name": "Eugenia",
-  "family_name": "Myrtaceae",
+  "parent_name": "Eugenia",
   "gbif_id": "5418198",
   "powo_id": "98707-2",
   "iucn_id": "163026815",

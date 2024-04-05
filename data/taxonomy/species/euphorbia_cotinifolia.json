@@ -1,8 +1,7 @@
 {
   "name": "Euphorbia cotinifolia",
   "authorship": "L.",
-  "genus_name": "Euphorbia",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Euphorbia",
   "gbif_id": "3067261",
   "powo_id": "346143-1",
   "iucn_id": "150009321",

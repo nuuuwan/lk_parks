@@ -1,8 +1,7 @@
 {
   "name": "Erythrochiton brasiliensis",
   "authorship": "Nees & Mart.",
-  "genus_name": "Erythrochiton",
-  "family_name": "Rutaceae",
+  "parent_name": "Erythrochiton",
   "gbif_id": "5593639",
   "powo_id": "772802-1",
   "iucn_id": "179297535",

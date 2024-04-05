@@ -1,8 +1,7 @@
 {
   "name": "Danae racemosa",
   "authorship": "(L.) Moench",
-  "genus_name": "Danae",
-  "family_name": "Asparagaceae",
+  "parent_name": "Danae",
   "gbif_id": "5303891",
   "powo_id": "533709-1",
   "iucn_id": null,

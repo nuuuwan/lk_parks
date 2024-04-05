@@ -1,8 +1,7 @@
 {
   "name": "Rothmannia annae",
   "authorship": "(E.P.Wright) Keay",
-  "genus_name": "Rothmannia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Rothmannia",
   "gbif_id": "2906221",
   "powo_id": "765111-1",
   "iucn_id": "30513",

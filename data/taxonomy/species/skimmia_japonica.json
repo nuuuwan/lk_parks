@@ -1,8 +1,7 @@
 {
   "name": "Skimmia japonica",
   "authorship": "Thunb.",
-  "genus_name": "Skimmia",
-  "family_name": "Rutaceae",
+  "parent_name": "Skimmia",
   "gbif_id": "7740617",
   "powo_id": "775237-1",
   "iucn_id": null,

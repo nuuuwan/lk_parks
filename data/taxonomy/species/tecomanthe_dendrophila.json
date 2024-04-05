@@ -1,8 +1,7 @@
 {
   "name": "Tecomanthe dendrophila",
   "authorship": "(Blume) K.Schum.",
-  "genus_name": "Tecomanthe",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Tecomanthe",
   "gbif_id": "4094006",
   "powo_id": "111319-1",
   "iucn_id": null,

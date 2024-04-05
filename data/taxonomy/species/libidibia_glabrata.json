@@ -1,8 +1,7 @@
 {
   "name": "Libidibia glabrata",
   "authorship": "(Kunth) C.Cast. & G.P.Lewis",
-  "genus_name": "Libidibia",
-  "family_name": "Fabaceae",
+  "parent_name": "Libidibia",
   "gbif_id": "9487079",
   "powo_id": "77130395-1",
   "iucn_id": "19891907",

@@ -1,8 +1,7 @@
 {
   "name": "Rhamnus pumila",
   "authorship": "Turra",
-  "genus_name": "Rhamnus",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Rhamnus",
   "gbif_id": "3875704",
   "powo_id": "718594-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Trochocarpa laurina",
   "authorship": "(Rudge) R.Br.",
-  "genus_name": "Trochocarpa",
-  "family_name": "Ericaceae",
+  "parent_name": "Trochocarpa",
   "gbif_id": "4010480",
   "powo_id": "325995-1",
   "iucn_id": "192229069",

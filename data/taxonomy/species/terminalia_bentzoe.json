@@ -1,8 +1,7 @@
 {
   "name": "Terminalia bentzoe",
   "authorship": "(L.) L.f.",
-  "genus_name": "Terminalia",
-  "family_name": "Combretaceae",
+  "parent_name": "Terminalia",
   "gbif_id": "7327104",
   "powo_id": "170986-1",
   "iucn_id": null,

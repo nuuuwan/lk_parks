@@ -1,8 +1,7 @@
 {
   "name": "Alternanthera ficoidea",
   "authorship": "(L.) P.Beauv.",
-  "genus_name": "Alternanthera",
-  "family_name": "Amaranthaceae",
+  "parent_name": "Alternanthera",
   "gbif_id": "3084969",
   "powo_id": "1078972-2",
   "iucn_id": null,

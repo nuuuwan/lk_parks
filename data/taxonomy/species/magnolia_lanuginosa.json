@@ -1,8 +1,7 @@
 {
   "name": "Magnolia lanuginosa",
   "authorship": "(Wall.) Figlar & Noot.",
-  "genus_name": "Magnolia",
-  "family_name": "Magnoliaceae",
+  "parent_name": "Magnolia",
   "gbif_id": "3153935",
   "powo_id": "60433089-2",
   "iucn_id": "15114022",

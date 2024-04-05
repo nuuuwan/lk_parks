@@ -1,8 +1,7 @@
 {
   "name": "Laburnum anagyroides",
   "authorship": "Medik.",
-  "genus_name": "Laburnum",
-  "family_name": "Fabaceae",
+  "parent_name": "Laburnum",
   "gbif_id": "5356345",
   "powo_id": "501428-1",
   "iucn_id": "79919483",

@@ -1,8 +1,7 @@
 {
   "name": "Guaiacum sanctum",
   "authorship": "L.",
-  "genus_name": "Guaiacum",
-  "family_name": "Zygophyllaceae",
+  "parent_name": "Guaiacum",
   "gbif_id": "3189908",
   "powo_id": "873256-1",
   "iucn_id": "32955",

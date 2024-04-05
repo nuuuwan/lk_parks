@@ -1,8 +1,7 @@
 {
   "name": "Washingtonia filifera",
   "authorship": "(Rafarin) H.Wendl. ex de Bary",
-  "genus_name": "Washingtonia",
-  "family_name": "Arecaceae",
+  "parent_name": "Washingtonia",
   "gbif_id": "5294589",
   "powo_id": "267788-2",
   "iucn_id": "38725",

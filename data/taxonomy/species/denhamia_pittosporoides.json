@@ -1,8 +1,7 @@
 {
   "name": "Denhamia pittosporoides",
   "authorship": "F.Muell.",
-  "genus_name": "Denhamia",
-  "family_name": "Celastraceae",
+  "parent_name": "Denhamia",
   "gbif_id": "7265600",
   "powo_id": "160631-1",
   "iucn_id": "192499049",

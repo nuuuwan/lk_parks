@@ -1,8 +1,7 @@
 {
   "name": "Stifftia chrysantha",
   "authorship": "J.C.Mikan",
-  "genus_name": "Stifftia",
-  "family_name": "Asteraceae",
+  "parent_name": "Stifftia",
   "gbif_id": "5405436",
   "powo_id": "251648-1",
   "iucn_id": "148763202",

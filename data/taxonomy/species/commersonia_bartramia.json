@@ -1,8 +1,7 @@
 {
   "name": "Commersonia bartramia",
   "authorship": "(L.) Merr.",
-  "genus_name": "Commersonia",
-  "family_name": "Malvaceae",
+  "parent_name": "Commersonia",
   "gbif_id": "7323037",
   "powo_id": "822821-1",
   "iucn_id": "147617034",

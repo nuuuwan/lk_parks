@@ -1,8 +1,7 @@
 {
   "name": "Vachellia caven",
   "authorship": "(Molina) Seigler & Ebinger",
-  "genus_name": "Vachellia",
-  "family_name": "Fabaceae",
+  "parent_name": "Vachellia",
   "gbif_id": "3795588",
   "powo_id": "60441202-2",
   "iucn_id": "131400014",

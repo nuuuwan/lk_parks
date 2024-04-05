@@ -1,8 +1,7 @@
 {
   "name": "Celtis africana",
   "authorship": "Burm.f.",
-  "genus_name": "Celtis",
-  "family_name": "Cannabaceae",
+  "parent_name": "Celtis",
   "gbif_id": "5834428",
   "powo_id": "850978-1",
   "iucn_id": null,

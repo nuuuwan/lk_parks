@@ -1,8 +1,7 @@
 {
   "name": "Linnaea borealis",
   "authorship": "L.",
-  "genus_name": "Linnaea",
-  "family_name": "Caprifoliaceae",
+  "parent_name": "Linnaea",
   "gbif_id": "5334220",
   "powo_id": "140689-2",
   "iucn_id": null,

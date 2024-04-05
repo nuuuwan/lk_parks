@@ -1,8 +1,7 @@
 {
   "name": "Amaranthus tortuosus",
   "authorship": "Hornem.",
-  "genus_name": "Amaranthus",
-  "family_name": "Amaranthaceae",
+  "parent_name": "Amaranthus",
   "gbif_id": "5548376",
   "powo_id": "59693-1",
   "iucn_id": null,

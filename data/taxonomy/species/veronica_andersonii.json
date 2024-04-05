@@ -1,8 +1,7 @@
 {
   "name": "Veronica andersonii",
   "authorship": "Lindl. & Paxton",
-  "genus_name": "Veronica",
-  "family_name": "Plantaginaceae",
+  "parent_name": "Veronica",
   "gbif_id": "3734429",
   "powo_id": "811614-1",
   "iucn_id": null,

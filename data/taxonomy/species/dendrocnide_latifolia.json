@@ -1,8 +1,7 @@
 {
   "name": "Dendrocnide latifolia",
   "authorship": "(Gaudich.) Chew",
-  "genus_name": "Dendrocnide",
-  "family_name": "Urticaceae",
+  "parent_name": "Dendrocnide",
   "gbif_id": "4098799",
   "powo_id": "851448-1",
   "iucn_id": "197645329",

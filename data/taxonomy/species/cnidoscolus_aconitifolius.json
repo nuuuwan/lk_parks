@@ -1,8 +1,7 @@
 {
   "name": "Cnidoscolus aconitifolius",
   "authorship": "(Mill.) I.M.Johnst.",
-  "genus_name": "Cnidoscolus",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Cnidoscolus",
   "gbif_id": "3073512",
   "powo_id": "61821-2",
   "iucn_id": "146774680",

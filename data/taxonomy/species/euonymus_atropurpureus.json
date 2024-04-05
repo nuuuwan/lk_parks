@@ -1,8 +1,7 @@
 {
   "name": "Euonymus atropurpureus",
   "authorship": "Jacq.",
-  "genus_name": "Euonymus",
-  "family_name": "Celastraceae",
+  "parent_name": "Euonymus",
   "gbif_id": "3169121",
   "powo_id": "276986-2",
   "iucn_id": "135956865",

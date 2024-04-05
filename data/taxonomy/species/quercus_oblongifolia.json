@@ -1,8 +1,7 @@
 {
   "name": "Quercus oblongifolia",
   "authorship": "Torr.",
-  "genus_name": "Quercus",
-  "family_name": "Fagaceae",
+  "parent_name": "Quercus",
   "gbif_id": "8390742",
   "powo_id": "296514-1",
   "iucn_id": "78969903",

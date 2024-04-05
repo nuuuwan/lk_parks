@@ -1,8 +1,7 @@
 {
   "name": "Pterocarya fraxinifolia",
   "authorship": "(Poir.) Spach",
-  "genus_name": "Pterocarya",
-  "family_name": "Juglandaceae",
+  "parent_name": "Pterocarya",
   "gbif_id": "8288647",
   "powo_id": "442471-1",
   "iucn_id": "66815986",

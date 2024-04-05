@@ -1,8 +1,7 @@
 {
   "name": "Ceanothus palmeri",
   "authorship": "Trel.",
-  "genus_name": "Ceanothus",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Ceanothus",
   "gbif_id": "3039358",
   "powo_id": "50743-2",
   "iucn_id": null,

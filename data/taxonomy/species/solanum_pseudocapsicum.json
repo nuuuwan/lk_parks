@@ -1,8 +1,7 @@
 {
   "name": "Solanum pseudocapsicum",
   "authorship": "L.",
-  "genus_name": "Solanum",
-  "family_name": "Solanaceae",
+  "parent_name": "Solanum",
   "gbif_id": "2931104",
   "powo_id": "316948-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Lycium shawii",
   "authorship": "Roem. & Schult.",
-  "genus_name": "Lycium",
-  "family_name": "Solanaceae",
+  "parent_name": "Lycium",
   "gbif_id": "7300058",
   "powo_id": "816629-1",
   "iucn_id": "19239590",

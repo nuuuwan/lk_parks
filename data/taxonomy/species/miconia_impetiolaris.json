@@ -1,8 +1,7 @@
 {
   "name": "Miconia impetiolaris",
   "authorship": "D.Don",
-  "genus_name": "Miconia",
-  "family_name": "Melastomataceae",
+  "parent_name": "Miconia",
   "gbif_id": "8409353",
   "powo_id": "572600-1",
   "iucn_id": "144318786",

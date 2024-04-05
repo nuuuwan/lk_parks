@@ -1,8 +1,7 @@
 {
   "name": "Musa coccinea",
   "authorship": "Andrews",
-  "genus_name": "Musa",
-  "family_name": "Musaceae",
+  "parent_name": "Musa",
   "gbif_id": "2762920",
   "powo_id": "797554-1",
   "iucn_id": "111907070",

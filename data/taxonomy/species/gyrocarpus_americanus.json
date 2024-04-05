@@ -1,8 +1,7 @@
 {
   "name": "Gyrocarpus americanus",
   "authorship": "Jacq.",
-  "genus_name": "Gyrocarpus",
-  "family_name": "Hernandiaceae",
+  "parent_name": "Gyrocarpus",
   "gbif_id": "7326414",
   "powo_id": "170637-1",
   "iucn_id": "145824684",

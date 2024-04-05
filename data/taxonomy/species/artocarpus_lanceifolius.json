@@ -1,8 +1,7 @@
 {
   "name": "Artocarpus lanceifolius",
   "authorship": "Roxb.",
-  "genus_name": "Artocarpus",
-  "family_name": "Moraceae",
+  "parent_name": "Artocarpus",
   "gbif_id": "7776286",
   "powo_id": "850407-1",
   "iucn_id": "61220343",

@@ -1,8 +1,7 @@
 {
   "name": "Carya pallida",
   "authorship": "(Ashe) Engelm. & Graebn.",
-  "genus_name": "Carya",
-  "family_name": "Juglandaceae",
+  "parent_name": "Carya",
   "gbif_id": "3054341",
   "powo_id": "47834-2",
   "iucn_id": "66788288",

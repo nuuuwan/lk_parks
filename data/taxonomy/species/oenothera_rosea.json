@@ -1,8 +1,7 @@
 {
   "name": "Oenothera rosea",
   "authorship": "L'H\u00e9r. ex Aiton",
-  "genus_name": "Oenothera",
-  "family_name": "Onagraceae",
+  "parent_name": "Oenothera",
   "gbif_id": "3188875",
   "powo_id": "173348-2",
   "iucn_id": null,

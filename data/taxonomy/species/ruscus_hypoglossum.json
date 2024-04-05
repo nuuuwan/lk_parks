@@ -1,8 +1,7 @@
 {
   "name": "Ruscus hypoglossum",
   "authorship": "L.",
-  "genus_name": "Ruscus",
-  "family_name": "Asparagaceae",
+  "parent_name": "Ruscus",
   "gbif_id": "2769775",
   "powo_id": "540452-1",
   "iucn_id": null,

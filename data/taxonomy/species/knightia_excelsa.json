@@ -1,8 +1,7 @@
 {
   "name": "Knightia excelsa",
   "authorship": "(Knight) R.Br.",
-  "genus_name": "Knightia",
-  "family_name": "Proteaceae",
+  "parent_name": "Knightia",
   "gbif_id": "5638587",
   "powo_id": "704692-1",
   "iucn_id": null,

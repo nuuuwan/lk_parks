@@ -1,8 +1,7 @@
 {
   "name": "Lycium ciliatum",
   "authorship": "Schltdl.",
-  "genus_name": "Lycium",
-  "family_name": "Solanaceae",
+  "parent_name": "Lycium",
   "gbif_id": "7299301",
   "powo_id": "816391-1",
   "iucn_id": null,

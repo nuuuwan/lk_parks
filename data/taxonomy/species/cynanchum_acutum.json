@@ -1,8 +1,7 @@
 {
   "name": "Cynanchum acutum",
   "authorship": "L.",
-  "genus_name": "Cynanchum",
-  "family_name": "Apocynaceae",
+  "parent_name": "Cynanchum",
   "gbif_id": "3571089",
   "powo_id": "95989-1",
   "iucn_id": "19181578",

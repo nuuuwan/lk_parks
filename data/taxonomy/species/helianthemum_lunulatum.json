@@ -1,8 +1,7 @@
 {
   "name": "Helianthemum lunulatum",
   "authorship": "(All.) DC.",
-  "genus_name": "Helianthemum",
-  "family_name": "Cistaceae",
+  "parent_name": "Helianthemum",
   "gbif_id": "3595989",
   "powo_id": "168986-1",
   "iucn_id": null,

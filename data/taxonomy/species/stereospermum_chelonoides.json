@@ -1,8 +1,7 @@
 {
   "name": "Stereospermum chelonoides",
   "authorship": "(L.f.) DC.",
-  "genus_name": "Stereospermum",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Stereospermum",
   "gbif_id": "4092354",
   "powo_id": "110773-1",
   "iucn_id": "150104502",

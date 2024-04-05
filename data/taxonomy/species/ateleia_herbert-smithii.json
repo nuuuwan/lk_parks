@@ -1,8 +1,7 @@
 {
   "name": "Ateleia herbert-smithii",
   "authorship": "Pittier",
-  "genus_name": "Ateleia",
-  "family_name": "Fabaceae",
+  "parent_name": "Ateleia",
   "gbif_id": "5361723",
   "powo_id": "25987-2",
   "iucn_id": "151999294",

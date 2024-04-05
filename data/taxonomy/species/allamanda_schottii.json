@@ -1,8 +1,7 @@
 {
   "name": "Allamanda schottii",
   "authorship": "Pohl",
-  "genus_name": "Allamanda",
-  "family_name": "Apocynaceae",
+  "parent_name": "Allamanda",
   "gbif_id": "3169838",
   "powo_id": "76487-1",
   "iucn_id": null,

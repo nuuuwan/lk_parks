@@ -1,8 +1,7 @@
 {
   "name": "Irvingia gabonensis",
   "authorship": "(Aubry-Lecomte ex O'Rorke) Baill.",
-  "genus_name": "Irvingia",
-  "family_name": "Irvingiaceae",
+  "parent_name": "Irvingia",
   "gbif_id": "5380976",
   "powo_id": "813766-1",
   "iucn_id": "33055",

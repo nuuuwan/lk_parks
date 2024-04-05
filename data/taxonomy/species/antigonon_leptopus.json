@@ -1,8 +1,7 @@
 {
   "name": "Antigonon leptopus",
   "authorship": "Hook. & Arn.",
-  "genus_name": "Antigonon",
-  "family_name": "Polygonaceae",
+  "parent_name": "Antigonon",
   "gbif_id": "2889355",
   "powo_id": "15860-2",
   "iucn_id": null,

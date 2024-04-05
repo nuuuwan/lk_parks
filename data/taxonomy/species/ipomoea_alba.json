@@ -1,8 +1,7 @@
 {
   "name": "Ipomoea alba",
   "authorship": "L.",
-  "genus_name": "Ipomoea",
-  "family_name": "Convolvulaceae",
+  "parent_name": "Ipomoea",
   "gbif_id": "2928631",
   "powo_id": "129128-2",
   "iucn_id": "126421388",

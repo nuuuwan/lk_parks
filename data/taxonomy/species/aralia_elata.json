@@ -1,8 +1,7 @@
 {
   "name": "Aralia elata",
   "authorship": "(Miq.) Seem.",
-  "genus_name": "Aralia",
-  "family_name": "Araliaceae",
+  "parent_name": "Aralia",
   "gbif_id": "3036892",
   "powo_id": "89629-1",
   "iucn_id": "135795730",

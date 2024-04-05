@@ -1,8 +1,7 @@
 {
   "name": "Mangifera foetida",
   "authorship": "Lour.",
-  "genus_name": "Mangifera",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Mangifera",
   "gbif_id": "3190640",
   "powo_id": "69898-1",
   "iucn_id": "31392",

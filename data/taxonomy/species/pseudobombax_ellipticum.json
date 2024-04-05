@@ -1,8 +1,7 @@
 {
   "name": "Pseudobombax ellipticum",
   "authorship": "(Kunth) Dugand",
-  "genus_name": "Pseudobombax",
-  "family_name": "Malvaceae",
+  "parent_name": "Pseudobombax",
   "gbif_id": "3152212",
   "powo_id": "112509-1",
   "iucn_id": "61786786",

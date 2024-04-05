@@ -1,8 +1,7 @@
 {
   "name": "Maxillaria variabilis",
   "authorship": "Bateman ex Lindl.",
-  "genus_name": "Maxillaria",
-  "family_name": "Orchidaceae",
+  "parent_name": "Maxillaria",
   "gbif_id": "5318544",
   "powo_id": "30044409-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Ehretia dicksonii",
   "authorship": "Hance",
-  "genus_name": "Ehretia",
-  "family_name": "Boraginaceae",
+  "parent_name": "Ehretia",
   "gbif_id": "4066801",
   "powo_id": "116012-1",
   "iucn_id": "144118091",

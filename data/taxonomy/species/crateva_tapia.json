@@ -1,8 +1,7 @@
 {
   "name": "Crateva tapia",
   "authorship": "L.",
-  "genus_name": "Crateva",
-  "family_name": "Capparaceae",
+  "parent_name": "Crateva",
   "gbif_id": "3054262",
   "powo_id": "316363-2",
   "iucn_id": "58933301",

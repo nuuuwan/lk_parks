@@ -1,8 +1,7 @@
 {
   "name": "Picrasma excelsa",
   "authorship": "(Sw.) Planch.",
-  "genus_name": "Picrasma",
-  "family_name": "Simaroubaceae",
+  "parent_name": "Picrasma",
   "gbif_id": "3190672",
   "powo_id": "813955-1",
   "iucn_id": "38910",

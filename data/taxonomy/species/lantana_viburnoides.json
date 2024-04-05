@@ -1,8 +1,7 @@
 {
   "name": "Lantana viburnoides",
   "authorship": "(Forssk.) Vahl",
-  "genus_name": "Lantana",
-  "family_name": "Verbenaceae",
+  "parent_name": "Lantana",
   "gbif_id": "7383157",
   "powo_id": "863482-1",
   "iucn_id": null,

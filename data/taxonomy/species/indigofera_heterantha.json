@@ -1,8 +1,7 @@
 {
   "name": "Indigofera heterantha",
   "authorship": "Wall. ex Brandis",
-  "genus_name": "Indigofera",
-  "family_name": "Fabaceae",
+  "parent_name": "Indigofera",
   "gbif_id": "2972405",
   "powo_id": "60473623-2",
   "iucn_id": "169273977",

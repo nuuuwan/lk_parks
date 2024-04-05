@@ -1,8 +1,7 @@
 {
   "name": "Ansellia africana",
   "authorship": "Lindl.",
-  "genus_name": "Ansellia",
-  "family_name": "Orchidaceae",
+  "parent_name": "Ansellia",
   "gbif_id": "2842140",
   "powo_id": "616658-1",
   "iucn_id": "44392142",

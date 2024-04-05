@@ -1,8 +1,7 @@
 {
   "name": "Lysidice rhodostegia",
   "authorship": "Hance",
-  "genus_name": "Lysidice",
-  "family_name": "Fabaceae",
+  "parent_name": "Lysidice",
   "gbif_id": "5354459",
   "powo_id": "505290-1",
   "iucn_id": null,

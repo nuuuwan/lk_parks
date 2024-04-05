@@ -1,8 +1,7 @@
 {
   "name": "Cephalanthus occidentalis",
   "authorship": "L.",
-  "genus_name": "Cephalanthus",
-  "family_name": "Rubiaceae",
+  "parent_name": "Cephalanthus",
   "gbif_id": "2923947",
   "powo_id": "319140-2",
   "iucn_id": "64310261",

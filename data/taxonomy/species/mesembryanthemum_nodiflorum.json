@@ -1,8 +1,7 @@
 {
   "name": "Mesembryanthemum nodiflorum",
   "authorship": "L.",
-  "genus_name": "Mesembryanthemum",
-  "family_name": "Aizoaceae",
+  "parent_name": "Mesembryanthemum",
   "gbif_id": "3084837",
   "powo_id": "363203-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Blechnum spinulosum",
   "authorship": "Poir.",
-  "genus_name": "Blechnum",
-  "family_name": "Aspleniaceae",
+  "parent_name": "Blechnum",
   "gbif_id": "4078732",
   "powo_id": "17060400-1",
   "iucn_id": null,

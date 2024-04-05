@@ -1,8 +1,7 @@
 {
   "name": "Pouteria pallida",
   "authorship": "(C.F.Gaertn.) Baehni",
-  "genus_name": "Pouteria",
-  "family_name": "Sapotaceae",
+  "parent_name": "Pouteria",
   "gbif_id": "2884774",
   "powo_id": "209842-2",
   "iucn_id": "37698",

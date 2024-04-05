@@ -1,8 +1,7 @@
 {
   "name": "Rudbeckia laciniata",
   "authorship": "L.",
-  "genus_name": "Rudbeckia",
-  "family_name": "Asteraceae",
+  "parent_name": "Rudbeckia",
   "gbif_id": "3114229",
   "powo_id": "241716-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Isertia haenkeana",
   "authorship": "DC.",
-  "genus_name": "Isertia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Isertia",
   "gbif_id": "2903537",
   "powo_id": "753632-1",
   "iucn_id": null,

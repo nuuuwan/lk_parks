@@ -1,8 +1,7 @@
 {
   "name": "Syzygium baudouinii",
   "authorship": "(Brongn. & Gris) N.Snow, Byng & J.W.Dawson",
-  "genus_name": "Syzygium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syzygium",
   "gbif_id": "9261065",
   "powo_id": "77164636-1",
   "iucn_id": "181016015",

@@ -1,8 +1,7 @@
 {
   "name": "Speirantha gardenii",
   "authorship": "(Hook.) Baill.",
-  "genus_name": "Speirantha",
-  "family_name": "Asparagaceae",
+  "parent_name": "Speirantha",
   "gbif_id": "2772849",
   "powo_id": "541986-1",
   "iucn_id": null,

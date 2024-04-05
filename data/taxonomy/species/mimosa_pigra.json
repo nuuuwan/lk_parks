@@ -1,8 +1,7 @@
 {
   "name": "Mimosa pigra",
   "authorship": "L.",
-  "genus_name": "Mimosa",
-  "family_name": "Fabaceae",
+  "parent_name": "Mimosa",
   "gbif_id": "2969431",
   "powo_id": "313003-2",
   "iucn_id": "49486238",

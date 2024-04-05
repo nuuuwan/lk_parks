@@ -1,8 +1,7 @@
 {
   "name": "Balakata baccata",
   "authorship": "(Roxb.) Esser",
-  "genus_name": "Balakata",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Balakata",
   "gbif_id": "3063658",
   "powo_id": "1007111-1",
   "iucn_id": "61532653",

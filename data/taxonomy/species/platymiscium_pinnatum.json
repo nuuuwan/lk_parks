@@ -1,8 +1,7 @@
 {
   "name": "Platymiscium pinnatum",
   "authorship": "(Jacq.) Dugand",
-  "genus_name": "Platymiscium",
-  "family_name": "Fabaceae",
+  "parent_name": "Platymiscium",
   "gbif_id": "2944742",
   "powo_id": "201767-2",
   "iucn_id": "62027362",

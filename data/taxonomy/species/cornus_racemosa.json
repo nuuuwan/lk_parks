@@ -1,8 +1,7 @@
 {
   "name": "Cornus racemosa",
   "authorship": "Lam.",
-  "genus_name": "Cornus",
-  "family_name": "Cornaceae",
+  "parent_name": "Cornus",
   "gbif_id": "3082264",
   "powo_id": "271653-1",
   "iucn_id": null,

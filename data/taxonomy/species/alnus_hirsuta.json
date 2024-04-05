@@ -1,8 +1,7 @@
 {
   "name": "Alnus hirsuta",
   "authorship": "(Spach) Rupr.",
-  "genus_name": "Alnus",
-  "family_name": "Betulaceae",
+  "parent_name": "Alnus",
   "gbif_id": "2876105",
   "powo_id": "77176842-1",
   "iucn_id": "194610",

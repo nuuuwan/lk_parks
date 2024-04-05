@@ -1,8 +1,7 @@
 {
   "name": "Hippomane mancinella",
   "authorship": "L.",
-  "genus_name": "Hippomane",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Hippomane",
   "gbif_id": "3063705",
   "powo_id": "349995-1",
   "iucn_id": "144316752",

@@ -1,8 +1,7 @@
 {
   "name": "Ainsliaea apiculata",
   "authorship": "Sch.Bip.",
-  "genus_name": "Ainsliaea",
-  "family_name": "Asteraceae",
+  "parent_name": "Ainsliaea",
   "gbif_id": "3133809",
   "powo_id": "175706-1",
   "iucn_id": null,

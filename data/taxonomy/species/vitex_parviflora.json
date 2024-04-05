@@ -1,8 +1,7 @@
 {
   "name": "Vitex parviflora",
   "authorship": "A.Juss.",
-  "genus_name": "Vitex",
-  "family_name": "Lamiaceae",
+  "parent_name": "Vitex",
   "gbif_id": "2925563",
   "powo_id": "865916-1",
   "iucn_id": "33339",

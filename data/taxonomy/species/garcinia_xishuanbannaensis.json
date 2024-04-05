@@ -1,8 +1,7 @@
 {
   "name": "Garcinia xishuanbannaensis",
   "authorship": "Y.H.Li",
-  "genus_name": "Garcinia",
-  "family_name": "Clusiaceae",
+  "parent_name": "Garcinia",
   "gbif_id": "10703554",
   "powo_id": "897799-1",
   "iucn_id": null,

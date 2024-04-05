@@ -1,8 +1,7 @@
 {
   "name": "Laccospadix australasicus",
   "authorship": "H.Wendl. & Drude",
-  "genus_name": "Laccospadix",
-  "family_name": "Arecaceae",
+  "parent_name": "Laccospadix",
   "gbif_id": "2738429",
   "powo_id": "667766-1",
   "iucn_id": "192230432",

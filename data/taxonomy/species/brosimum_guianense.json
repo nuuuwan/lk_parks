@@ -1,8 +1,7 @@
 {
   "name": "Brosimum guianense",
   "authorship": "(Aubl.) Huber ex Ducke",
-  "genus_name": "Brosimum",
-  "family_name": "Moraceae",
+  "parent_name": "Brosimum",
   "gbif_id": "7374879",
   "powo_id": "582693-1",
   "iucn_id": "61810395",

@@ -1,8 +1,7 @@
 {
   "name": "Dialium dinklagei",
   "authorship": "Harms",
-  "genus_name": "Dialium",
-  "family_name": "Fabaceae",
+  "parent_name": "Dialium",
   "gbif_id": "2970962",
   "powo_id": "492304-1",
   "iucn_id": "62023178",

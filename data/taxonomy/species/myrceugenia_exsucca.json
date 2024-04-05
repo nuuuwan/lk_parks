@@ -1,8 +1,7 @@
 {
   "name": "Myrceugenia exsucca",
   "authorship": "(DC.) O.Berg",
-  "genus_name": "Myrceugenia",
-  "family_name": "Myrtaceae",
+  "parent_name": "Myrceugenia",
   "gbif_id": "3185537",
   "powo_id": "598516-1",
   "iucn_id": null,

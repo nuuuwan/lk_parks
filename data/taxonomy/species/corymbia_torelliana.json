@@ -1,8 +1,7 @@
 {
   "name": "Corymbia torelliana",
   "authorship": "(F.Muell.) K.D.Hill & L.A.S.Johnson",
-  "genus_name": "Corymbia",
-  "family_name": "Myrtaceae",
+  "parent_name": "Corymbia",
   "gbif_id": "5418406",
   "powo_id": "986335-1",
   "iucn_id": "133379381",

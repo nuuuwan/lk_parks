@@ -1,8 +1,7 @@
 {
   "name": "Combretum hereroense",
   "authorship": "Schinz",
-  "genus_name": "Combretum",
-  "family_name": "Combretaceae",
+  "parent_name": "Combretum",
   "gbif_id": "7166924",
   "powo_id": "170145-1",
   "iucn_id": "147140751",

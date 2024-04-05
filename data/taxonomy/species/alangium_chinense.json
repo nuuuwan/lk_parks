@@ -1,8 +1,7 @@
 {
   "name": "Alangium chinense",
   "authorship": "(Lour.) Harms",
-  "genus_name": "Alangium",
-  "family_name": "Cornaceae",
+  "parent_name": "Alangium",
   "gbif_id": "7326263",
   "powo_id": "58133-1",
   "iucn_id": null,

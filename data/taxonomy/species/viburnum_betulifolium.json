@@ -1,8 +1,7 @@
 {
   "name": "Viburnum betulifolium",
   "authorship": "Batalin",
-  "genus_name": "Viburnum",
-  "family_name": "Viburnaceae",
+  "parent_name": "Viburnum",
   "gbif_id": "7272452",
   "powo_id": "149572-1",
   "iucn_id": "147380618",

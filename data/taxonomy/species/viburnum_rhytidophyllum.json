@@ -1,8 +1,7 @@
 {
   "name": "Viburnum rhytidophyllum",
   "authorship": "Hemsl.",
-  "genus_name": "Viburnum",
-  "family_name": "Viburnaceae",
+  "parent_name": "Viburnum",
   "gbif_id": "2888625",
   "powo_id": "149902-1",
   "iucn_id": null,

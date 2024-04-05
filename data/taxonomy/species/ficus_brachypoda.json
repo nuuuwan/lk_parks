@@ -1,8 +1,7 @@
 {
   "name": "Ficus brachypoda",
   "authorship": "(Miq.) Miq.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5571254",
   "powo_id": "852517-1",
   "iucn_id": "146604762",

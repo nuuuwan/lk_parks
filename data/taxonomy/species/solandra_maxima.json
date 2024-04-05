@@ -1,8 +1,7 @@
 {
   "name": "Solandra maxima",
   "authorship": "(Moc. & Sess\u00e9 ex Dunal) P.S.Green",
-  "genus_name": "Solandra",
-  "family_name": "Solanaceae",
+  "parent_name": "Solandra",
   "gbif_id": "5581538",
   "powo_id": "818078-1",
   "iucn_id": null,

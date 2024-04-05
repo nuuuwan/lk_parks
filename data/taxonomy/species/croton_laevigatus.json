@@ -1,8 +1,7 @@
 {
   "name": "Croton laevigatus",
   "authorship": "Vahl",
-  "genus_name": "Croton",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Croton",
   "gbif_id": "3059370",
   "powo_id": "342808-1",
   "iucn_id": "152844445",

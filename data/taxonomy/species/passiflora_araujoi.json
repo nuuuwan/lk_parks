@@ -1,8 +1,7 @@
 {
   "name": "Passiflora araujoi",
   "authorship": "Sacco",
-  "genus_name": "Passiflora",
-  "family_name": "Passifloraceae",
+  "parent_name": "Passiflora",
   "gbif_id": "3588027",
   "powo_id": "184802-2",
   "iucn_id": null,

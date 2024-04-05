@@ -1,8 +1,7 @@
 {
   "name": "Sabal mexicana",
   "authorship": "Mart.",
-  "genus_name": "Sabal",
-  "family_name": "Arecaceae",
+  "parent_name": "Sabal",
   "gbif_id": "2732503",
   "powo_id": "669717-1",
   "iucn_id": "56359763",

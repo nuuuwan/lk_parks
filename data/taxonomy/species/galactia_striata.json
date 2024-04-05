@@ -1,8 +1,7 @@
 {
   "name": "Galactia striata",
   "authorship": "(Jacq.) Urb.",
-  "genus_name": "Galactia",
-  "family_name": "Fabaceae",
+  "parent_name": "Galactia",
   "gbif_id": "2984047",
   "powo_id": "106712-2",
   "iucn_id": null,

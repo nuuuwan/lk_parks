@@ -1,8 +1,7 @@
 {
   "name": "Hibiscus schizopetalus",
   "authorship": "(Mast.) Hook.f.",
-  "genus_name": "Hibiscus",
-  "family_name": "Malvaceae",
+  "parent_name": "Hibiscus",
   "gbif_id": "9064581",
   "powo_id": "560792-1",
   "iucn_id": null,

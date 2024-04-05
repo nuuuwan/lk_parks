@@ -1,8 +1,7 @@
 {
   "name": "Lecythis ampla",
   "authorship": "Miers",
-  "genus_name": "Lecythis",
-  "family_name": "Lecythidaceae",
+  "parent_name": "Lecythis",
   "gbif_id": "3082427",
   "powo_id": "597240-1",
   "iucn_id": "148275768",

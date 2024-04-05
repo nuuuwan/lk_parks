@@ -1,8 +1,7 @@
 {
   "name": "Ligustrum australianum",
   "authorship": "F.Muell.",
-  "genus_name": "Ligustrum",
-  "family_name": "Oleaceae",
+  "parent_name": "Ligustrum",
   "gbif_id": "8325470",
   "powo_id": "609951-1",
   "iucn_id": null,

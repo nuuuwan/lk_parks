@@ -1,8 +1,7 @@
 {
   "name": "Galinsoga parviflora",
   "authorship": "Cav.",
-  "genus_name": "Galinsoga",
-  "family_name": "Asteraceae",
+  "parent_name": "Galinsoga",
   "gbif_id": "3132570",
   "powo_id": "208554-1",
   "iucn_id": null,

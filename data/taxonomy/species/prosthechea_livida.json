@@ -1,8 +1,7 @@
 {
   "name": "Prosthechea livida",
   "authorship": "(Lindl.) W.E.Higgins",
-  "genus_name": "Prosthechea",
-  "family_name": "Orchidaceae",
+  "parent_name": "Prosthechea",
   "gbif_id": "2794157",
   "powo_id": "1001272-1",
   "iucn_id": null,

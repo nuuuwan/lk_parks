@@ -1,8 +1,7 @@
 {
   "name": "Lepisorus spicatus",
   "authorship": "(L.f.) Li Wang",
-  "genus_name": "Lepisorus",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Lepisorus",
   "gbif_id": "8321580",
   "powo_id": "77103599-1",
   "iucn_id": null,

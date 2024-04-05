@@ -1,8 +1,7 @@
 {
   "name": "Platypodium elegans",
   "authorship": "Vogel",
-  "genus_name": "Platypodium",
-  "family_name": "Fabaceae",
+  "parent_name": "Platypodium",
   "gbif_id": "2977383",
   "powo_id": "515259-1",
   "iucn_id": "19892593",

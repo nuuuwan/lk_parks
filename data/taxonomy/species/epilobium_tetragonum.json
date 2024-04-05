@@ -1,8 +1,7 @@
 {
   "name": "Epilobium tetragonum",
   "authorship": "L.",
-  "genus_name": "Epilobium",
-  "family_name": "Onagraceae",
+  "parent_name": "Epilobium",
   "gbif_id": "7322563",
   "powo_id": "612378-1",
   "iucn_id": null,

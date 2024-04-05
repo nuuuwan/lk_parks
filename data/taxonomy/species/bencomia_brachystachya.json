@@ -1,8 +1,7 @@
 {
   "name": "Bencomia brachystachya",
   "authorship": "Svent.",
-  "genus_name": "Bencomia",
-  "family_name": "Rosaceae",
+  "parent_name": "Bencomia",
   "gbif_id": "3032182",
   "powo_id": "721776-1",
   "iucn_id": "162383",

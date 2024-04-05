@@ -1,8 +1,7 @@
 {
   "name": "Lespedeza bicolor",
   "authorship": "Turcz.",
-  "genus_name": "Lespedeza",
-  "family_name": "Fabaceae",
+  "parent_name": "Lespedeza",
   "gbif_id": "2955759",
   "powo_id": "502415-1",
   "iucn_id": null,

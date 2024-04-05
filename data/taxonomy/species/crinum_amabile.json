@@ -1,8 +1,7 @@
 {
   "name": "Crinum amabile",
   "authorship": "Donn ex Ker Gawl.",
-  "genus_name": "Crinum",
-  "family_name": "Amaryllidaceae",
+  "parent_name": "Crinum",
   "gbif_id": "2853821",
   "powo_id": "63772-1",
   "iucn_id": null,

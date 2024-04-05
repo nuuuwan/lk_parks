@@ -1,8 +1,7 @@
 {
   "name": "Ranunculus lanuginosus",
   "authorship": "L.",
-  "genus_name": "Ranunculus",
-  "family_name": "Ranunculaceae",
+  "parent_name": "Ranunculus",
   "gbif_id": "7826351",
   "powo_id": "713050-1",
   "iucn_id": null,

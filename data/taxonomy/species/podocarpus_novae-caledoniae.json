@@ -1,8 +1,7 @@
 {
   "name": "Podocarpus novae-caledoniae",
   "authorship": "Vieill. ex Brongn. & Gris",
-  "genus_name": "Podocarpus",
-  "family_name": "Podocarpaceae",
+  "parent_name": "Podocarpus",
   "gbif_id": "7671662",
   "powo_id": "263549-1",
   "iucn_id": "42523",

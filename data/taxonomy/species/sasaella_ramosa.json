@@ -1,8 +1,7 @@
 {
   "name": "Sasaella ramosa",
   "authorship": "(Makino) Makino",
-  "genus_name": "Sasaella",
-  "family_name": "Poaceae",
+  "parent_name": "Sasaella",
   "gbif_id": "4127352",
   "powo_id": "420677-1",
   "iucn_id": null,

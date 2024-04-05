@@ -1,8 +1,7 @@
 {
   "name": "Eucryphia cordifolia",
   "authorship": "Cav.",
-  "genus_name": "Eucryphia",
-  "family_name": "Cunoniaceae",
+  "parent_name": "Eucryphia",
   "gbif_id": "3920287",
   "powo_id": "724849-1",
   "iucn_id": "33901",

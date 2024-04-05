@@ -1,8 +1,7 @@
 {
   "name": "Breynia disticha",
   "authorship": "J.R.Forst. & G.Forst.",
-  "genus_name": "Breynia",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Breynia",
   "gbif_id": "5383031",
   "powo_id": "340073-1",
   "iucn_id": null,

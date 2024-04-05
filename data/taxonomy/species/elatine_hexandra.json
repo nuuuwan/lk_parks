@@ -1,8 +1,7 @@
 {
   "name": "Elatine hexandra",
   "authorship": "(Lapierre) DC.",
-  "genus_name": "Elatine",
-  "family_name": "Elatinaceae",
+  "parent_name": "Elatine",
   "gbif_id": "5646074",
   "powo_id": "324687-1",
   "iucn_id": null,

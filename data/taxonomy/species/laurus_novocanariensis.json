@@ -1,8 +1,7 @@
 {
   "name": "Laurus novocanariensis",
   "authorship": "Rivas Mart., Lous\u00e3, Fern.Prieto, E.D\u00edas, J.C.Costa & C.Aguiar",
-  "genus_name": "Laurus",
-  "family_name": "Lauraceae",
+  "parent_name": "Laurus",
   "gbif_id": "4177599",
   "powo_id": "20009327-1",
   "iucn_id": null,

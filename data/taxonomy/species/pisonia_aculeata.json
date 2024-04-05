@@ -1,8 +1,7 @@
 {
   "name": "Pisonia aculeata",
   "authorship": "L.",
-  "genus_name": "Pisonia",
-  "family_name": "Nyctaginaceae",
+  "parent_name": "Pisonia",
   "gbif_id": "3086260",
   "powo_id": "326897-2",
   "iucn_id": "152910250",

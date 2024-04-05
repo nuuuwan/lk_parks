@@ -1,8 +1,7 @@
 {
   "name": "Guzmania monostachia",
   "authorship": "(L.) Rusby ex Mez",
-  "genus_name": "Guzmania",
-  "family_name": "Bromeliaceae",
+  "parent_name": "Guzmania",
   "gbif_id": "2699018",
   "powo_id": "115178-2",
   "iucn_id": null,

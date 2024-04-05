@@ -1,8 +1,7 @@
 {
   "name": "Leontodon hirtus",
   "authorship": "L.",
-  "genus_name": "Leontodon",
-  "family_name": "Asteraceae",
+  "parent_name": "Leontodon",
   "gbif_id": "3137445",
   "powo_id": "229351-1",
   "iucn_id": null,

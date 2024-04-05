@@ -1,8 +1,7 @@
 {
   "name": "Axonopus scoparius",
   "authorship": "(Fl\u00fcgg\u00e9) Kuhlm.",
-  "genus_name": "Axonopus",
-  "family_name": "Poaceae",
+  "parent_name": "Axonopus",
   "gbif_id": "2705923",
   "powo_id": "27415-2",
   "iucn_id": "44393362",

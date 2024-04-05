@@ -1,8 +1,7 @@
 {
   "name": "Chamaebatiaria millefolium",
   "authorship": "(Torr.) Maxim.",
-  "genus_name": "Chamaebatiaria",
-  "family_name": "Rosaceae",
+  "parent_name": "Chamaebatiaria",
   "gbif_id": "3026352",
   "powo_id": "722139-1",
   "iucn_id": null,

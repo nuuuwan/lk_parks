@@ -1,8 +1,7 @@
 {
   "name": "Tillandsia leiboldiana",
   "authorship": "Schltdl.",
-  "genus_name": "Tillandsia",
-  "family_name": "Bromeliaceae",
+  "parent_name": "Tillandsia",
   "gbif_id": "2694764",
   "powo_id": "125315-1",
   "iucn_id": null,

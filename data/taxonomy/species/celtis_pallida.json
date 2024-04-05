@@ -1,8 +1,7 @@
 {
   "name": "Celtis pallida",
   "authorship": "Torr.",
-  "genus_name": "Celtis",
-  "family_name": "Cannabaceae",
+  "parent_name": "Celtis",
   "gbif_id": "2984494",
   "powo_id": "51204-2",
   "iucn_id": "126373492",

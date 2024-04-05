@@ -1,8 +1,7 @@
 {
   "name": "Dyschoriste oblongifolia",
   "authorship": "(Michx.) Kuntze",
-  "genus_name": "Dyschoriste",
-  "family_name": "Acanthaceae",
+  "parent_name": "Dyschoriste",
   "gbif_id": "3173062",
   "powo_id": "86393-2",
   "iucn_id": null,

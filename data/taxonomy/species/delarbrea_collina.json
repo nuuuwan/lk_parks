@@ -1,8 +1,7 @@
 {
   "name": "Delarbrea collina",
   "authorship": "Vieill.",
-  "genus_name": "Delarbrea",
-  "family_name": "Myodocarpaceae",
+  "parent_name": "Delarbrea",
   "gbif_id": "3036842",
   "powo_id": "90197-1",
   "iucn_id": null,

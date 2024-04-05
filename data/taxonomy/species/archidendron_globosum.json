@@ -1,8 +1,7 @@
 {
   "name": "Archidendron globosum",
   "authorship": "(Blume) I.C.Nielsen",
-  "genus_name": "Archidendron",
-  "family_name": "Fabaceae",
+  "parent_name": "Archidendron",
   "gbif_id": "2941218",
   "powo_id": "475057-1",
   "iucn_id": null,

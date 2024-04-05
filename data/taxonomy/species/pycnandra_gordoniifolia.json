@@ -1,8 +1,7 @@
 {
   "name": "Pycnandra gordoniifolia",
   "authorship": "(S.Moore) Swenson & Munzinger",
-  "genus_name": "Pycnandra",
-  "family_name": "Sapotaceae",
+  "parent_name": "Pycnandra",
   "gbif_id": "6306936",
   "powo_id": "77104106-1",
   "iucn_id": "158035306",

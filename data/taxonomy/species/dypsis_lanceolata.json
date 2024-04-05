@@ -1,8 +1,7 @@
 {
   "name": "Dypsis lanceolata",
   "authorship": "(Becc.) Beentje & J.Dransf.",
-  "genus_name": "Dypsis",
-  "family_name": "Arecaceae",
+  "parent_name": "Dypsis",
   "gbif_id": "2736010",
   "powo_id": "985366-1",
   "iucn_id": "38541",

@@ -1,8 +1,7 @@
 {
   "name": "Knoxia sumatrensis",
   "authorship": "(Retz.) DC.",
-  "genus_name": "Knoxia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Knoxia",
   "gbif_id": "2901155",
   "powo_id": "754689-1",
   "iucn_id": null,

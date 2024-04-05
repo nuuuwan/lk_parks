@@ -1,8 +1,7 @@
 {
   "name": "Quercus rysophylla",
   "authorship": "Weath.",
-  "genus_name": "Quercus",
-  "family_name": "Fagaceae",
+  "parent_name": "Quercus",
   "gbif_id": "2879735",
   "powo_id": "216365-2",
   "iucn_id": "30738",

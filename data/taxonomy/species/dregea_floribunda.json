@@ -1,8 +1,7 @@
 {
   "name": "Dregea floribunda",
   "authorship": "E.Mey.",
-  "genus_name": "Dregea",
-  "family_name": "Apocynaceae",
+  "parent_name": "Dregea",
   "gbif_id": "3578650",
   "powo_id": "97234-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Riodocea pulcherrima",
   "authorship": "Delprete",
-  "genus_name": "Riodocea",
-  "family_name": "Rubiaceae",
+  "parent_name": "Riodocea",
   "gbif_id": "2893340",
   "powo_id": "317706-2",
   "iucn_id": null,

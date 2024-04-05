@@ -1,8 +1,7 @@
 {
   "name": "Alstonia boonei",
   "authorship": "De Wild.",
-  "genus_name": "Alstonia",
-  "family_name": "Apocynaceae",
+  "parent_name": "Alstonia",
   "gbif_id": "5535759",
   "powo_id": "76511-1",
   "iucn_id": "60760752",

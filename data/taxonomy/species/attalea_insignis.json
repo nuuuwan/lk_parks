@@ -1,8 +1,7 @@
 {
   "name": "Attalea insignis",
   "authorship": "(Mart.) Drude",
-  "genus_name": "Attalea",
-  "family_name": "Arecaceae",
+  "parent_name": "Attalea",
   "gbif_id": "2732824",
   "powo_id": "26571-2",
   "iucn_id": "39066",

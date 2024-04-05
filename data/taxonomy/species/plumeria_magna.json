@@ -1,8 +1,7 @@
 {
   "name": "Plumeria magna",
   "authorship": "Zanoni & M.M.Mej\u00eda",
-  "genus_name": "Plumeria",
-  "family_name": "Apocynaceae",
+  "parent_name": "Plumeria",
   "gbif_id": "3615209",
   "powo_id": "283373-2",
   "iucn_id": null,

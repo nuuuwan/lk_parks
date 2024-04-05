@@ -1,8 +1,7 @@
 {
   "name": "Codia spatulata",
   "authorship": "Brongn. & Gris",
-  "genus_name": "Codia",
-  "family_name": "Cunoniaceae",
+  "parent_name": "Codia",
   "gbif_id": null,
   "powo_id": "790709-1",
   "iucn_id": "116167859",

@@ -1,8 +1,7 @@
 {
   "name": "Bursera simaruba",
   "authorship": "(L.) Sarg.",
-  "genus_name": "Bursera",
-  "family_name": "Burseraceae",
+  "parent_name": "Bursera",
   "gbif_id": "3190450",
   "powo_id": "127217-1",
   "iucn_id": "61987595",

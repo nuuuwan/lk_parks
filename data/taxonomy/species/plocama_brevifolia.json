@@ -1,8 +1,7 @@
 {
   "name": "Plocama brevifolia",
   "authorship": "(Coss. & Durieu ex Pomel) M.Backlund & Thulin",
-  "genus_name": "Plocama",
-  "family_name": "Rubiaceae",
+  "parent_name": "Plocama",
   "gbif_id": "3846365",
   "powo_id": "77080107-1",
   "iucn_id": null,

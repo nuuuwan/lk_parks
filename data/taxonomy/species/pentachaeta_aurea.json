@@ -1,8 +1,7 @@
 {
   "name": "Pentachaeta aurea",
   "authorship": "Nutt.",
-  "genus_name": "Pentachaeta",
-  "family_name": "Asteraceae",
+  "parent_name": "Pentachaeta",
   "gbif_id": "5394829",
   "powo_id": "236763-1",
   "iucn_id": null,

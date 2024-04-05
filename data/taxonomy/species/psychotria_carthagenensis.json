@@ -1,8 +1,7 @@
 {
   "name": "Psychotria carthagenensis",
   "authorship": "Jacq.",
-  "genus_name": "Psychotria",
-  "family_name": "Rubiaceae",
+  "parent_name": "Psychotria",
   "gbif_id": "2920891",
   "powo_id": "761655-1",
   "iucn_id": "180261733",

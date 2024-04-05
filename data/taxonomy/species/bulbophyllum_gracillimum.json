@@ -1,8 +1,7 @@
 {
   "name": "Bulbophyllum gracillimum",
   "authorship": "(Rolfe) Rolfe",
-  "genus_name": "Bulbophyllum",
-  "family_name": "Orchidaceae",
+  "parent_name": "Bulbophyllum",
   "gbif_id": "2842833",
   "powo_id": "619052-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Cestrum nocturnum",
   "authorship": "L.",
-  "genus_name": "Cestrum",
-  "family_name": "Solanaceae",
+  "parent_name": "Cestrum",
   "gbif_id": "2928791",
   "powo_id": "316386-2",
   "iucn_id": "72045868",

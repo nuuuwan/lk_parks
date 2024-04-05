@@ -1,8 +1,7 @@
 {
   "name": "Lobivia schieliana",
   "authorship": "Backeb.",
-  "genus_name": "Lobivia",
-  "family_name": "Cactaceae",
+  "parent_name": "Lobivia",
   "gbif_id": "7283447",
   "powo_id": "142808-2",
   "iucn_id": null,

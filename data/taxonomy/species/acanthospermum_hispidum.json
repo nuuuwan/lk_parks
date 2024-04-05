@@ -1,8 +1,7 @@
 {
   "name": "Acanthospermum hispidum",
   "authorship": "DC.",
-  "genus_name": "Acanthospermum",
-  "family_name": "Asteraceae",
+  "parent_name": "Acanthospermum",
   "gbif_id": "3100375",
   "powo_id": "173718-1",
   "iucn_id": null,

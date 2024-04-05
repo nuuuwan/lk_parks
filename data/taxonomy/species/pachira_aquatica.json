@@ -1,8 +1,7 @@
 {
   "name": "Pachira aquatica",
   "authorship": "Aubl.",
-  "genus_name": "Pachira",
-  "family_name": "Malvaceae",
+  "parent_name": "Pachira",
   "gbif_id": "3152235",
   "powo_id": "179762-2",
   "iucn_id": "146783390",

@@ -1,8 +1,7 @@
 {
   "name": "Hibiscus waimeae",
   "authorship": "A.Heller",
-  "genus_name": "Hibiscus",
-  "family_name": "Malvaceae",
+  "parent_name": "Hibiscus",
   "gbif_id": "3152568",
   "powo_id": "560978-1",
   "iucn_id": null,

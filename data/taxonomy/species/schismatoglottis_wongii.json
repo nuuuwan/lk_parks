@@ -1,8 +1,7 @@
 {
   "name": "Schismatoglottis wongii",
   "authorship": "A.Hay",
-  "genus_name": "Schismatoglottis",
-  "family_name": "Araceae",
+  "parent_name": "Schismatoglottis",
   "gbif_id": "2868103",
   "powo_id": "1018488-1",
   "iucn_id": null,

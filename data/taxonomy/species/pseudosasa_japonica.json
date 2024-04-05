@@ -1,8 +1,7 @@
 {
   "name": "Pseudosasa japonica",
   "authorship": "(Siebold & Zucc. ex Steud.) Makino ex Nakai",
-  "genus_name": "Pseudosasa",
-  "family_name": "Poaceae",
+  "parent_name": "Pseudosasa",
   "gbif_id": "7952471",
   "powo_id": "418885-1",
   "iucn_id": null,

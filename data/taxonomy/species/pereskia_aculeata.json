@@ -1,8 +1,7 @@
 {
   "name": "Pereskia aculeata",
   "authorship": "Mill.",
-  "genus_name": "Pereskia",
-  "family_name": "Cactaceae",
+  "parent_name": "Pereskia",
   "gbif_id": "5384215",
   "powo_id": "137452-1",
   "iucn_id": "46508",

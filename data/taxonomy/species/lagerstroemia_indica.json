@@ -1,8 +1,7 @@
 {
   "name": "Lagerstroemia indica",
   "authorship": "L.",
-  "genus_name": "Lagerstroemia",
-  "family_name": "Lythraceae",
+  "parent_name": "Lagerstroemia",
   "gbif_id": "3188725",
   "powo_id": "553576-1",
   "iucn_id": "136142818",

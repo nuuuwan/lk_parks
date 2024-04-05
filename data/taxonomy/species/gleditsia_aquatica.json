@@ -1,8 +1,7 @@
 {
   "name": "Gleditsia aquatica",
   "authorship": "Marshall",
-  "genus_name": "Gleditsia",
-  "family_name": "Fabaceae",
+  "parent_name": "Gleditsia",
   "gbif_id": "2959492",
   "powo_id": "496572-1",
   "iucn_id": "136789522",

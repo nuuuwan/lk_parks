@@ -1,8 +1,7 @@
 {
   "name": "Pavonia sepium",
   "authorship": "A.St.-Hil.",
-  "genus_name": "Pavonia",
-  "family_name": "Malvaceae",
+  "parent_name": "Pavonia",
   "gbif_id": "7279161",
   "powo_id": "186058-2",
   "iucn_id": null,

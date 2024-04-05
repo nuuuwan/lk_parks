@@ -1,8 +1,7 @@
 {
   "name": "Pisonia subcordata",
   "authorship": "Sw.",
-  "genus_name": "Pisonia",
-  "family_name": "Nyctaginaceae",
+  "parent_name": "Pisonia",
   "gbif_id": "3086255",
   "powo_id": "605089-1",
   "iucn_id": "208175116",

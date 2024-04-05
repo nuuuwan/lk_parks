@@ -1,8 +1,7 @@
 {
   "name": "Thyrsacanthus secundus",
   "authorship": "(Leonard) A.L.A.C\u00f4rtes & Rapini",
-  "genus_name": "Thyrsacanthus",
-  "family_name": "Acanthaceae",
+  "parent_name": "Thyrsacanthus",
   "gbif_id": "8140618",
   "powo_id": "77105833-1",
   "iucn_id": null,

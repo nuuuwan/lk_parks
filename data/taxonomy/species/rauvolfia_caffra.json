@@ -1,8 +1,7 @@
 {
   "name": "Rauvolfia caffra",
   "authorship": "Sond.",
-  "genus_name": "Rauvolfia",
-  "family_name": "Apocynaceae",
+  "parent_name": "Rauvolfia",
   "gbif_id": "3618324",
   "powo_id": "81519-1",
   "iucn_id": "146221735",

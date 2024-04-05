@@ -1,8 +1,7 @@
 {
   "name": "Lyonia villosa",
   "authorship": "(Hook.f. ex C.B.Clarke) Hand.-Mazz.",
-  "genus_name": "Lyonia",
-  "family_name": "Ericaceae",
+  "parent_name": "Lyonia",
   "gbif_id": "7328466",
   "powo_id": "331196-1",
   "iucn_id": "146536973",

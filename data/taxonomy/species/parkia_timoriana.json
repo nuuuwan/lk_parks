@@ -1,8 +1,7 @@
 {
   "name": "Parkia timoriana",
   "authorship": "(DC.) Merr.",
-  "genus_name": "Parkia",
-  "family_name": "Fabaceae",
+  "parent_name": "Parkia",
   "gbif_id": "5348879",
   "powo_id": "512235-1",
   "iucn_id": "153891751",

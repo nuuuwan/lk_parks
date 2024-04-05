@@ -1,8 +1,7 @@
 {
   "name": "Iris delavayi",
   "authorship": "Micheli",
-  "genus_name": "Iris",
-  "family_name": "Iridaceae",
+  "parent_name": "Iris",
   "gbif_id": "5298043",
   "powo_id": "438537-1",
   "iucn_id": null,

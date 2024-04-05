@@ -1,8 +1,7 @@
 {
   "name": "Gomesa bifolia",
   "authorship": "(Sims) M.W.Chase & N.H.Williams",
-  "genus_name": "Gomesa",
-  "family_name": "Orchidaceae",
+  "parent_name": "Gomesa",
   "gbif_id": "5951177",
   "powo_id": "77101202-1",
   "iucn_id": null,

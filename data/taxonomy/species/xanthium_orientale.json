@@ -1,8 +1,7 @@
 {
   "name": "Xanthium orientale",
   "authorship": "L.",
-  "genus_name": "Xanthium",
-  "family_name": "Asteraceae",
+  "parent_name": "Xanthium",
   "gbif_id": "3089146",
   "powo_id": "260872-1",
   "iucn_id": null,

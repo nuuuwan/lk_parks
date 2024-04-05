@@ -1,8 +1,7 @@
 {
   "name": "Sloetia elongata",
   "authorship": "(Miq.) Koord.",
-  "genus_name": "Sloetia",
-  "family_name": "Moraceae",
+  "parent_name": "Sloetia",
   "gbif_id": "3763185",
   "powo_id": "584598-1",
   "iucn_id": null,

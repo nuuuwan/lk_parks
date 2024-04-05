@@ -1,8 +1,7 @@
 {
   "name": "Olax dissitiflora",
   "authorship": "Oliv.",
-  "genus_name": "Olax",
-  "family_name": "Olacaceae",
+  "parent_name": "Olax",
   "gbif_id": "3685821",
   "powo_id": "608091-1",
   "iucn_id": "146214441",

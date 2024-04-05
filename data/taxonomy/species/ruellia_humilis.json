@@ -1,8 +1,7 @@
 {
   "name": "Ruellia humilis",
   "authorship": "Nutt.",
-  "genus_name": "Ruellia",
-  "family_name": "Acanthaceae",
+  "parent_name": "Ruellia",
   "gbif_id": "5415395",
   "powo_id": "54161-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Acer cappadocicum",
   "authorship": "Gled.",
-  "genus_name": "Acer",
-  "family_name": "Sapindaceae",
+  "parent_name": "Acer",
   "gbif_id": "7262908",
   "powo_id": "56622-1",
   "iucn_id": "193525",

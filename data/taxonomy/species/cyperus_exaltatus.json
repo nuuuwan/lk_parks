@@ -1,8 +1,7 @@
 {
   "name": "Cyperus exaltatus",
   "authorship": "Retz.",
-  "genus_name": "Cyperus",
-  "family_name": "Cyperaceae",
+  "parent_name": "Cyperus",
   "gbif_id": "2715206",
   "powo_id": "304447-1",
   "iucn_id": "169037",

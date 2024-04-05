@@ -1,8 +1,7 @@
 {
   "name": "Pogonopus tubulosus",
   "authorship": "(A.Rich. ex DC.) K.Schum.",
-  "genus_name": "Pogonopus",
-  "family_name": "Rubiaceae",
+  "parent_name": "Pogonopus",
   "gbif_id": "5340245",
   "powo_id": "204805-2",
   "iucn_id": "194014519",

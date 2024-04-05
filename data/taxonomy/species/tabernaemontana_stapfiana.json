@@ -1,8 +1,7 @@
 {
   "name": "Tabernaemontana stapfiana",
   "authorship": "Britten",
-  "genus_name": "Tabernaemontana",
-  "family_name": "Apocynaceae",
+  "parent_name": "Tabernaemontana",
   "gbif_id": "3621804",
   "powo_id": "82342-1",
   "iucn_id": "144307376",

@@ -1,8 +1,7 @@
 {
   "name": "Tilia americana",
   "authorship": "L.",
-  "genus_name": "Tilia",
-  "family_name": "Malvaceae",
+  "parent_name": "Tilia",
   "gbif_id": "3152042",
   "powo_id": "286108-2",
   "iucn_id": "61788230",

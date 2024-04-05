@@ -1,8 +1,7 @@
 {
   "name": "Symplocos racemosa",
   "authorship": "Roxb.",
-  "genus_name": "Symplocos",
-  "family_name": "Symplocaceae",
+  "parent_name": "Symplocos",
   "gbif_id": "7902154",
   "powo_id": "827266-1",
   "iucn_id": null,

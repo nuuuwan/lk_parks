@@ -1,8 +1,7 @@
 {
   "name": "Pentadesma butyracea",
   "authorship": "Sabine",
-  "genus_name": "Pentadesma",
-  "family_name": "Clusiaceae",
+  "parent_name": "Pentadesma",
   "gbif_id": "3189435",
   "powo_id": "428981-1",
   "iucn_id": "61988986",

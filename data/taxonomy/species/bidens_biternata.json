@@ -1,8 +1,7 @@
 {
   "name": "Bidens biternata",
   "authorship": "(Lour.) Merr. & Sherff",
-  "genus_name": "Bidens",
-  "family_name": "Asteraceae",
+  "parent_name": "Bidens",
   "gbif_id": "5392065",
   "powo_id": "184771-1",
   "iucn_id": null,

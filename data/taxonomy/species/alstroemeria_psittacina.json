@@ -1,8 +1,7 @@
 {
   "name": "Alstroemeria psittacina",
   "authorship": "Lehm.",
-  "genus_name": "Alstroemeria",
-  "family_name": "Alstroemeriaceae",
+  "parent_name": "Alstroemeria",
   "gbif_id": "2753743",
   "powo_id": "927729-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Physalis philadelphica",
   "authorship": "Lam.",
-  "genus_name": "Physalis",
-  "family_name": "Solanaceae",
+  "parent_name": "Physalis",
   "gbif_id": "8969026",
   "powo_id": "817532-1",
   "iucn_id": "109716592",

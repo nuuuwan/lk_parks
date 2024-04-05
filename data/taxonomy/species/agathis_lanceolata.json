@@ -1,8 +1,7 @@
 {
   "name": "Agathis lanceolata",
   "authorship": "Warb.",
-  "genus_name": "Agathis",
-  "family_name": "Araucariaceae",
+  "parent_name": "Agathis",
   "gbif_id": "5284432",
   "powo_id": "676644-1",
   "iucn_id": "30977",

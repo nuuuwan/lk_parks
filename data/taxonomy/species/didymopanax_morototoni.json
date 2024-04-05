@@ -1,8 +1,7 @@
 {
   "name": "Didymopanax morototoni",
   "authorship": "(Aubl.) Decne. & Planch.",
-  "genus_name": "Didymopanax",
-  "family_name": "Araliaceae",
+  "parent_name": "Didymopanax",
   "gbif_id": "3038523",
   "powo_id": "90355-1",
   "iucn_id": "61985137",

@@ -1,8 +1,7 @@
 {
   "name": "Crossopteryx febrifuga",
   "authorship": "(Afzel. ex G.Don) Benth.",
-  "genus_name": "Crossopteryx",
-  "family_name": "Rubiaceae",
+  "parent_name": "Crossopteryx",
   "gbif_id": "2898652",
   "powo_id": "747858-1",
   "iucn_id": "146203214",

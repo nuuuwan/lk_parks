@@ -1,8 +1,7 @@
 {
   "name": "Perymenium grande",
   "authorship": "Hemsl.",
-  "genus_name": "Perymenium",
-  "family_name": "Asteraceae",
+  "parent_name": "Perymenium",
   "gbif_id": "3132203",
   "powo_id": "237287-1",
   "iucn_id": "150003745",

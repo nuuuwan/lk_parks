@@ -1,8 +1,7 @@
 {
   "name": "Trichilia elegans",
   "authorship": "A.Juss.",
-  "genus_name": "Trichilia",
-  "family_name": "Meliaceae",
+  "parent_name": "Trichilia",
   "gbif_id": "7271353",
   "powo_id": "579413-1",
   "iucn_id": "122658361",

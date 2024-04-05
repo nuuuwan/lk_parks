@@ -1,8 +1,7 @@
 {
   "name": "Jasminum noumeense",
   "authorship": "Schltr.",
-  "genus_name": "Jasminum",
-  "family_name": "Oleaceae",
+  "parent_name": "Jasminum",
   "gbif_id": "3682980",
   "powo_id": "609661-1",
   "iucn_id": "177846",

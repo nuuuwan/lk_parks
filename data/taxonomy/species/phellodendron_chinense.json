@@ -1,8 +1,7 @@
 {
   "name": "Phellodendron chinense",
   "authorship": "C.K.Schneid.",
-  "genus_name": "Phellodendron",
-  "family_name": "Rutaceae",
+  "parent_name": "Phellodendron",
   "gbif_id": "3831897",
   "powo_id": "774776-1",
   "iucn_id": "88326558",

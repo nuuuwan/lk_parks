@@ -1,8 +1,7 @@
 {
   "name": "Aesculus californica",
   "authorship": "(Spach) Nutt.",
-  "genus_name": "Aesculus",
-  "family_name": "Sapindaceae",
+  "parent_name": "Aesculus",
   "gbif_id": "3189813",
   "powo_id": "781583-1",
   "iucn_id": "156820810",

@@ -1,8 +1,7 @@
 {
   "name": "Brachylaena neriifolia",
   "authorship": "(L.) R.Br.",
-  "genus_name": "Brachylaena",
-  "family_name": "Asteraceae",
+  "parent_name": "Brachylaena",
   "gbif_id": "3140978",
   "powo_id": "186101-1",
   "iucn_id": "149505893",

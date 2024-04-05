@@ -1,8 +1,7 @@
 {
   "name": "Lepisanthes senegalensis",
   "authorship": "(Poir.) Leenh.",
-  "genus_name": "Lepisanthes",
-  "family_name": "Sapindaceae",
+  "parent_name": "Lepisanthes",
   "gbif_id": "3784947",
   "powo_id": "783527-1",
   "iucn_id": "150283340",

@@ -1,8 +1,7 @@
 {
   "name": "Frangula californica",
   "authorship": "(Eschsch.) A.Gray",
-  "genus_name": "Frangula",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Frangula",
   "gbif_id": "3039459",
   "powo_id": "717357-1",
   "iucn_id": "126609466",

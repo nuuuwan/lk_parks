@@ -1,8 +1,7 @@
 {
   "name": "Magnolia decidua",
   "authorship": "(Q.Y.Zheng) V.S.Kumar",
-  "genus_name": "Magnolia",
-  "family_name": "Magnoliaceae",
+  "parent_name": "Magnolia",
   "gbif_id": "3153225",
   "powo_id": "77074650-1",
   "iucn_id": "193923",

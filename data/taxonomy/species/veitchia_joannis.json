@@ -1,8 +1,7 @@
 {
   "name": "Veitchia joannis",
   "authorship": "H.Wendl.",
-  "genus_name": "Veitchia",
-  "family_name": "Arecaceae",
+  "parent_name": "Veitchia",
   "gbif_id": "5293077",
   "powo_id": "670211-1",
   "iucn_id": "38713",

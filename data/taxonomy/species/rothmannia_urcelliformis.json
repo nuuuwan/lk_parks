@@ -1,8 +1,7 @@
 {
   "name": "Rothmannia urcelliformis",
   "authorship": "(Hiern) Bullock ex Robyns",
-  "genus_name": "Rothmannia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Rothmannia",
   "gbif_id": "2906263",
   "powo_id": "765161-1",
   "iucn_id": "153940394",

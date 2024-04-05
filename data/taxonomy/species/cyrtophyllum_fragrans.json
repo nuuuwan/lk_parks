@@ -1,8 +1,7 @@
 {
   "name": "Cyrtophyllum fragrans",
   "authorship": "(Roxb.) DC.",
-  "genus_name": "Cyrtophyllum",
-  "family_name": "Gentianaceae",
+  "parent_name": "Cyrtophyllum",
   "gbif_id": "7863745",
   "powo_id": "546043-1",
   "iucn_id": "135891057",

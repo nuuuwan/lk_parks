@@ -1,8 +1,7 @@
 {
   "name": "Afrocanthium mundianum",
   "authorship": "(Cham. & Schltdl.) Lantz",
-  "genus_name": "Afrocanthium",
-  "family_name": "Rubiaceae",
+  "parent_name": "Afrocanthium",
   "gbif_id": "2900896",
   "powo_id": "77062253-1",
   "iucn_id": "141556672",

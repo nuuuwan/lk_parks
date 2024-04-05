@@ -1,8 +1,7 @@
 {
   "name": "Senna septemtrionalis",
   "authorship": "(Viv.) H.S.Irwin & Barneby",
-  "genus_name": "Senna",
-  "family_name": "Fabaceae",
+  "parent_name": "Senna",
   "gbif_id": "2957529",
   "powo_id": "234652-2",
   "iucn_id": "200800011",

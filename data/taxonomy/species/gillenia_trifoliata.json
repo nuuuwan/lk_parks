@@ -1,8 +1,7 @@
 {
   "name": "Gillenia trifoliata",
   "authorship": "(L.) Moench",
-  "genus_name": "Gillenia",
-  "family_name": "Rosaceae",
+  "parent_name": "Gillenia",
   "gbif_id": "2986435",
   "powo_id": "110547-2",
   "iucn_id": null,

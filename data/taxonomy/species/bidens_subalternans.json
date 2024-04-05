@@ -1,8 +1,7 @@
 {
   "name": "Bidens subalternans",
   "authorship": "DC.",
-  "genus_name": "Bidens",
-  "family_name": "Asteraceae",
+  "parent_name": "Bidens",
   "gbif_id": "5391882",
   "powo_id": "185264-1",
   "iucn_id": null,

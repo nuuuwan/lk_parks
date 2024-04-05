@@ -1,8 +1,7 @@
 {
   "name": "Spermacoce ruelliae",
   "authorship": "DC.",
-  "genus_name": "Spermacoce",
-  "family_name": "Rubiaceae",
+  "parent_name": "Spermacoce",
   "gbif_id": "2918087",
   "powo_id": "766942-1",
   "iucn_id": null,

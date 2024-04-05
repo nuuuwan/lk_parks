@@ -1,8 +1,7 @@
 {
   "name": "Torreya taxifolia",
   "authorship": "Arn.",
-  "genus_name": "Torreya",
-  "family_name": "Taxaceae",
+  "parent_name": "Torreya",
   "gbif_id": "5284481",
   "powo_id": "264000-1",
   "iucn_id": "30968",

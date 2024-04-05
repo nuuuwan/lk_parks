@@ -1,8 +1,7 @@
 {
   "name": "Nephelium lappaceum",
   "authorship": "L.",
-  "genus_name": "Nephelium",
-  "family_name": "Sapindaceae",
+  "parent_name": "Nephelium",
   "gbif_id": "5421126",
   "powo_id": "783833-1",
   "iucn_id": "33266",

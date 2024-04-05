@@ -1,8 +1,7 @@
 {
   "name": "Indigofera jucunda",
   "authorship": "Schrire",
-  "genus_name": "Indigofera",
-  "family_name": "Fabaceae",
+  "parent_name": "Indigofera",
   "gbif_id": "3969999",
   "powo_id": "997799-1",
   "iucn_id": null,

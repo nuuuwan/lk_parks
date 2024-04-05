@@ -1,8 +1,7 @@
 {
   "name": "Lycoris radiata",
   "authorship": "(L'H\u00e9r.) Herb.",
-  "genus_name": "Lycoris",
-  "family_name": "Amaryllidaceae",
+  "parent_name": "Lycoris",
   "gbif_id": "7920353",
   "powo_id": "60455959-2",
   "iucn_id": null,

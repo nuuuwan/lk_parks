@@ -1,8 +1,7 @@
 {
   "name": "Pouteria sapota",
   "authorship": "(Jacq.) H.E.Moore & Stearn",
-  "genus_name": "Pouteria",
-  "family_name": "Sapotaceae",
+  "parent_name": "Pouteria",
   "gbif_id": "2884162",
   "powo_id": "1110421-2",
   "iucn_id": "150102002",

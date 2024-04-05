@@ -1,8 +1,7 @@
 {
   "name": "Helianthus heterophyllus",
   "authorship": "Nutt.",
-  "genus_name": "Helianthus",
-  "family_name": "Asteraceae",
+  "parent_name": "Helianthus",
   "gbif_id": "3119234",
   "powo_id": "119140-2",
   "iucn_id": null,

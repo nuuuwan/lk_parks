@@ -1,8 +1,7 @@
 {
   "name": "Erythrina bidwillii",
   "authorship": "Lindl.",
-  "genus_name": "Erythrina",
-  "family_name": "Fabaceae",
+  "parent_name": "Erythrina",
   "gbif_id": "5349503",
   "powo_id": "494362-1",
   "iucn_id": null,

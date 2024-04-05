@@ -1,8 +1,7 @@
 {
   "name": "Bupleurum rotundifolium",
   "authorship": "L.",
-  "genus_name": "Bupleurum",
-  "family_name": "Apiaceae",
+  "parent_name": "Bupleurum",
   "gbif_id": "3034554",
   "powo_id": "38361-2",
   "iucn_id": null,

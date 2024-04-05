@@ -1,8 +1,7 @@
 {
   "name": "Tacinga inamoena",
   "authorship": "(K.Schum.) N.P.Taylor & Stuppy",
-  "genus_name": "Tacinga",
-  "family_name": "Cactaceae",
+  "parent_name": "Tacinga",
   "gbif_id": "7284042",
   "powo_id": "20005730-1",
   "iucn_id": "46516",

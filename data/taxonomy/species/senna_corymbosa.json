@@ -1,8 +1,7 @@
 {
   "name": "Senna corymbosa",
   "authorship": "(Lam.) H.S.Irwin & Barneby",
-  "genus_name": "Senna",
-  "family_name": "Fabaceae",
+  "parent_name": "Senna",
   "gbif_id": "2957431",
   "powo_id": "234450-2",
   "iucn_id": "144290828",

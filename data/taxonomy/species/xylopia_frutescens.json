@@ -1,8 +1,7 @@
 {
   "name": "Xylopia frutescens",
   "authorship": "Aubl.",
-  "genus_name": "Xylopia",
-  "family_name": "Annonaceae",
+  "parent_name": "Xylopia",
   "gbif_id": "3157107",
   "powo_id": "76133-1",
   "iucn_id": "146786446",

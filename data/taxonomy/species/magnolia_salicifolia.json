@@ -1,8 +1,7 @@
 {
   "name": "Magnolia salicifolia",
   "authorship": "(Siebold & Zucc.) Maxim.",
-  "genus_name": "Magnolia",
-  "family_name": "Magnoliaceae",
+  "parent_name": "Magnolia",
   "gbif_id": "3153771",
   "powo_id": "554831-1",
   "iucn_id": "193999",

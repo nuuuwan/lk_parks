@@ -1,8 +1,7 @@
 {
   "name": "Galium odoratum",
   "authorship": "(L.) Scop.",
-  "genus_name": "Galium",
-  "family_name": "Rubiaceae",
+  "parent_name": "Galium",
   "gbif_id": "2914642",
   "powo_id": "750339-1",
   "iucn_id": null,

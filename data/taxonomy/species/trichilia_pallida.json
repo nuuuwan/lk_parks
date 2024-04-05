@@ -1,8 +1,7 @@
 {
   "name": "Trichilia pallida",
   "authorship": "Sw.",
-  "genus_name": "Trichilia",
-  "family_name": "Meliaceae",
+  "parent_name": "Trichilia",
   "gbif_id": "3190491",
   "powo_id": "579573-1",
   "iucn_id": "122658722",

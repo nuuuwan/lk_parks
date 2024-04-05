@@ -1,8 +1,7 @@
 {
   "name": "Rosa abietina",
   "authorship": "Gren. ex Christ",
-  "genus_name": "Rosa",
-  "family_name": "Rosaceae",
+  "parent_name": "Rosa",
   "gbif_id": "3005999",
   "powo_id": "731429-1",
   "iucn_id": "83772876",

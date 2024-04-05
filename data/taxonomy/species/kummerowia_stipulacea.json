@@ -1,8 +1,7 @@
 {
   "name": "Kummerowia stipulacea",
   "authorship": "(Maxim.) Makino",
-  "genus_name": "Kummerowia",
-  "family_name": "Fabaceae",
+  "parent_name": "Kummerowia",
   "gbif_id": "5352522",
   "powo_id": "501371-1",
   "iucn_id": null,

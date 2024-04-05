@@ -1,8 +1,7 @@
 {
   "name": "Prunus myrtifolia",
   "authorship": "(L.) Urb.",
-  "genus_name": "Prunus",
-  "family_name": "Rosaceae",
+  "parent_name": "Prunus",
   "gbif_id": "3021440",
   "powo_id": "210824-2",
   "iucn_id": "64125547",

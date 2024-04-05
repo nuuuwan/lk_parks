@@ -1,8 +1,7 @@
 {
   "name": "Cryosophila warscewiczii",
   "authorship": "(H.Wendl.) Bartlett",
-  "genus_name": "Cryosophila",
-  "family_name": "Arecaceae",
+  "parent_name": "Cryosophila",
   "gbif_id": "2731949",
   "powo_id": "71214-2",
   "iucn_id": "55958224",

@@ -1,8 +1,7 @@
 {
   "name": "Chasmanthium latifolium",
   "authorship": "(Michx.) H.O.Yates",
-  "genus_name": "Chasmanthium",
-  "family_name": "Poaceae",
+  "parent_name": "Chasmanthium",
   "gbif_id": "2703077",
   "powo_id": "55649-2",
   "iucn_id": null,

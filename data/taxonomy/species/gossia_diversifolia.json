@@ -1,8 +1,7 @@
 {
   "name": "Gossia diversifolia",
   "authorship": "(Brongn. & Gris) N.Snow",
-  "genus_name": "Gossia",
-  "family_name": "Myrtaceae",
+  "parent_name": "Gossia",
   "gbif_id": "7920525",
   "powo_id": "77109962-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Wedelia silphioides",
   "authorship": "(Hook. & Arn.) B.L.Turner",
-  "genus_name": "Wedelia",
-  "family_name": "Asteraceae",
+  "parent_name": "Wedelia",
   "gbif_id": "5396297",
   "powo_id": "964029-1",
   "iucn_id": null,

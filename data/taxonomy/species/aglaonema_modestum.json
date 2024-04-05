@@ -1,8 +1,7 @@
 {
   "name": "Aglaonema modestum",
   "authorship": "Schott ex Engl.",
-  "genus_name": "Aglaonema",
-  "family_name": "Araceae",
+  "parent_name": "Aglaonema",
   "gbif_id": "2866488",
   "powo_id": "84081-1",
   "iucn_id": null,

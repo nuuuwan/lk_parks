@@ -1,8 +1,7 @@
 {
   "name": "Vitis mustangensis",
   "authorship": "Buckley",
-  "genus_name": "Vitis",
-  "family_name": "Vitaceae",
+  "parent_name": "Vitis",
   "gbif_id": "5372381",
   "powo_id": "301116-2",
   "iucn_id": null,

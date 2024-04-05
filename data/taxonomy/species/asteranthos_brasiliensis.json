@@ -1,8 +1,7 @@
 {
   "name": "Asteranthos brasiliensis",
   "authorship": "Desf.",
-  "genus_name": "Asteranthos",
-  "family_name": "Lecythidaceae",
+  "parent_name": "Asteranthos",
   "gbif_id": "3082325",
   "powo_id": "590680-1",
   "iucn_id": "35232",

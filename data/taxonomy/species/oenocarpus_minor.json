@@ -1,8 +1,7 @@
 {
   "name": "Oenocarpus minor",
   "authorship": "Mart.",
-  "genus_name": "Oenocarpus",
-  "family_name": "Arecaceae",
+  "parent_name": "Oenocarpus",
   "gbif_id": "2735441",
   "powo_id": "668534-1",
   "iucn_id": null,

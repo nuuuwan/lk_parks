@@ -1,8 +1,7 @@
 {
   "name": "Piper nigrum",
   "authorship": "L.",
-  "genus_name": "Piper",
-  "family_name": "Piperaceae",
+  "parent_name": "Piper",
   "gbif_id": "3086357",
   "powo_id": "682369-1",
   "iucn_id": null,

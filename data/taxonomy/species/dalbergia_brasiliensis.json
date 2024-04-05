@@ -1,8 +1,7 @@
 {
   "name": "Dalbergia brasiliensis",
   "authorship": "Vogel",
-  "genus_name": "Dalbergia",
-  "family_name": "Fabaceae",
+  "parent_name": "Dalbergia",
   "gbif_id": "2968571",
   "powo_id": "490113-1",
   "iucn_id": "149214611",

@@ -1,8 +1,7 @@
 {
   "name": "Scrophularia peregrina",
   "authorship": "L.",
-  "genus_name": "Scrophularia",
-  "family_name": "Scrophulariaceae",
+  "parent_name": "Scrophularia",
   "gbif_id": "3170862",
   "powo_id": "809430-1",
   "iucn_id": null,

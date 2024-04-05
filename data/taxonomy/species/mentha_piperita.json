@@ -1,8 +1,7 @@
 {
   "name": "Mentha piperita",
   "authorship": "L.",
-  "genus_name": "Mentha",
-  "family_name": "Lamiaceae",
+  "parent_name": "Mentha",
   "gbif_id": "8707933",
   "powo_id": "450969-1",
   "iucn_id": null,

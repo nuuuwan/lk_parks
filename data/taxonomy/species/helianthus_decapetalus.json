@@ -1,8 +1,7 @@
 {
   "name": "Helianthus decapetalus",
   "authorship": "L.",
-  "genus_name": "Helianthus",
-  "family_name": "Asteraceae",
+  "parent_name": "Helianthus",
   "gbif_id": "3119185",
   "powo_id": "119102-2",
   "iucn_id": "64989879",

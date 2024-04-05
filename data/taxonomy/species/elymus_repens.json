@@ -1,8 +1,7 @@
 {
   "name": "Elymus repens",
   "authorship": "(L.) Gould",
-  "genus_name": "Elymus",
-  "family_name": "Poaceae",
+  "parent_name": "Elymus",
   "gbif_id": "5290299",
   "powo_id": "90320-2",
   "iucn_id": null,

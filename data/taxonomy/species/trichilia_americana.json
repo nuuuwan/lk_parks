@@ -1,8 +1,7 @@
 {
   "name": "Trichilia americana",
   "authorship": "(Sess\u00e9 & Moc.) T.D.Penn.",
-  "genus_name": "Trichilia",
-  "family_name": "Meliaceae",
+  "parent_name": "Trichilia",
   "gbif_id": "3852074",
   "powo_id": "909787-1",
   "iucn_id": "122658283",

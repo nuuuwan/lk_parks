@@ -1,8 +1,7 @@
 {
   "name": "Azara uruguayensis",
   "authorship": "(Speg.) Sleumer",
-  "genus_name": "Azara",
-  "family_name": "Salicaceae",
+  "parent_name": "Azara",
   "gbif_id": "5604354",
   "powo_id": "27710-2",
   "iucn_id": null,

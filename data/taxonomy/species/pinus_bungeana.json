@@ -1,8 +1,7 @@
 {
   "name": "Pinus bungeana",
   "authorship": "Zucc. ex Endl.",
-  "genus_name": "Pinus",
-  "family_name": "Pinaceae",
+  "parent_name": "Pinus",
   "gbif_id": "5285775",
   "powo_id": "262822-1",
   "iucn_id": "39602",

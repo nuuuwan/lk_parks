@@ -1,8 +1,7 @@
 {
   "name": "Klainedoxa gabonensis",
   "authorship": "Pierre ex Engl.",
-  "genus_name": "Klainedoxa",
-  "family_name": "Irvingiaceae",
+  "parent_name": "Klainedoxa",
   "gbif_id": "3075503",
   "powo_id": "813802-1",
   "iucn_id": "62019343",

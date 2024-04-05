@@ -1,8 +1,7 @@
 {
   "name": "Cordyla africana",
   "authorship": "Lour.",
-  "genus_name": "Cordyla",
-  "family_name": "Fabaceae",
+  "parent_name": "Cordyla",
   "gbif_id": "5358326",
   "powo_id": "487136-1",
   "iucn_id": "62021841",

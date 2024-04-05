@@ -1,8 +1,7 @@
 {
   "name": "Magnolia kobus",
   "authorship": "DC.",
-  "genus_name": "Magnolia",
-  "family_name": "Magnoliaceae",
+  "parent_name": "Magnolia",
   "gbif_id": "3153260",
   "powo_id": "332100-2",
   "iucn_id": "193954",

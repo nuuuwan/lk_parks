@@ -1,8 +1,7 @@
 {
   "name": "Setaria barbata",
   "authorship": "(Lam.) Kunth",
-  "genus_name": "Setaria",
-  "family_name": "Poaceae",
+  "parent_name": "Setaria",
   "gbif_id": "5289663",
   "powo_id": "1172068-2",
   "iucn_id": null,

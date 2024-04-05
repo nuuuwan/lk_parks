@@ -1,8 +1,7 @@
 {
   "name": "Acer negundo",
   "authorship": "L.",
-  "genus_name": "Acer",
-  "family_name": "Sapindaceae",
+  "parent_name": "Acer",
   "gbif_id": "3189866",
   "powo_id": "781412-1",
   "iucn_id": "62940",

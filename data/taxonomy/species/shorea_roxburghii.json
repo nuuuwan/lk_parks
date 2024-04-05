@@ -1,8 +1,7 @@
 {
   "name": "Shorea roxburghii",
   "authorship": "G.Don",
-  "genus_name": "Shorea",
-  "family_name": "Dipterocarpaceae",
+  "parent_name": "Shorea",
   "gbif_id": "4097162",
   "powo_id": "321430-1",
   "iucn_id": "33028",

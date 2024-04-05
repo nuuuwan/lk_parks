@@ -1,8 +1,7 @@
 {
   "name": "Trollius chinensis",
   "authorship": "Bunge",
-  "genus_name": "Trollius",
-  "family_name": "Ranunculaceae",
+  "parent_name": "Trollius",
   "gbif_id": "7276979",
   "powo_id": "715085-1",
   "iucn_id": null,

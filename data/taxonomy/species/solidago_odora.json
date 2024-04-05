@@ -1,8 +1,7 @@
 {
   "name": "Solidago odora",
   "authorship": "Aiton",
-  "genus_name": "Solidago",
-  "family_name": "Asteraceae",
+  "parent_name": "Solidago",
   "gbif_id": "5388923",
   "powo_id": "240389-2",
   "iucn_id": null,

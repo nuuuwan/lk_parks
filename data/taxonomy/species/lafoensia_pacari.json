@@ -1,8 +1,7 @@
 {
   "name": "Lafoensia pacari",
   "authorship": "A.St.-Hil.",
-  "genus_name": "Lafoensia",
-  "family_name": "Lythraceae",
+  "parent_name": "Lafoensia",
   "gbif_id": "7469490",
   "powo_id": "553517-1",
   "iucn_id": "35582",

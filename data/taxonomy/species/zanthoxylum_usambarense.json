@@ -1,8 +1,7 @@
 {
   "name": "Zanthoxylum usambarense",
   "authorship": "(Engl.) Kokwaro",
-  "genus_name": "Zanthoxylum",
-  "family_name": "Rutaceae",
+  "parent_name": "Zanthoxylum",
   "gbif_id": "3833353",
   "powo_id": "776091-1",
   "iucn_id": null,

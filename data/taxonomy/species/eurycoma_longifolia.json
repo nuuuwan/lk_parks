@@ -1,8 +1,7 @@
 {
   "name": "Eurycoma longifolia",
   "authorship": "Jack",
-  "genus_name": "Eurycoma",
-  "family_name": "Simaroubaceae",
+  "parent_name": "Eurycoma",
   "gbif_id": "3709190",
   "powo_id": "813715-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Citharexylum myrianthum",
   "authorship": "Cham.",
-  "genus_name": "Citharexylum",
-  "family_name": "Verbenaceae",
+  "parent_name": "Citharexylum",
   "gbif_id": "7297719",
   "powo_id": "861812-1",
   "iucn_id": null,

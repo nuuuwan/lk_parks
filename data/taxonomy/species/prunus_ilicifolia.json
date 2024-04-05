@@ -1,8 +1,7 @@
 {
   "name": "Prunus ilicifolia",
   "authorship": "(Nutt. ex Hook. & Arn.) D.Dietr.",
-  "genus_name": "Prunus",
-  "family_name": "Rosaceae",
+  "parent_name": "Prunus",
   "gbif_id": "3020610",
   "powo_id": "30123157-2",
   "iucn_id": "64122457",

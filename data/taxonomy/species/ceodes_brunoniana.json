@@ -1,8 +1,7 @@
 {
   "name": "Ceodes brunoniana",
   "authorship": "(Endl.) Skottsb.",
-  "genus_name": "Ceodes",
-  "family_name": "Nyctaginaceae",
+  "parent_name": "Ceodes",
   "gbif_id": "3700102",
   "powo_id": "604430-1",
   "iucn_id": null,

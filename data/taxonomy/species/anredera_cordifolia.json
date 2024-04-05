@@ -1,8 +1,7 @@
 {
   "name": "Anredera cordifolia",
   "authorship": "(Ten.) Steenis",
-  "genus_name": "Anredera",
-  "family_name": "Basellaceae",
+  "parent_name": "Anredera",
   "gbif_id": "3083508",
   "powo_id": "14549-2",
   "iucn_id": null,

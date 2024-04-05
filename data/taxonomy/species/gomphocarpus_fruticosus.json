@@ -1,8 +1,7 @@
 {
   "name": "Gomphocarpus fruticosus",
   "authorship": "(L.) W.T.Aiton",
-  "genus_name": "Gomphocarpus",
-  "family_name": "Apocynaceae",
+  "parent_name": "Gomphocarpus",
   "gbif_id": "7150619",
   "powo_id": "97610-1",
   "iucn_id": null,

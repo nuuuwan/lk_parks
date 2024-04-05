@@ -1,8 +1,7 @@
 {
   "name": "Iberodes linifolia",
   "authorship": "(L.) M.Serrano, R.Carbajal & S.Ortiz",
-  "genus_name": "Iberodes",
-  "family_name": "Boraginaceae",
+  "parent_name": "Iberodes",
   "gbif_id": "9629001",
   "powo_id": "77161385-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Aesculus hippocastanum",
   "authorship": "L.",
-  "genus_name": "Aesculus",
-  "family_name": "Sapindaceae",
+  "parent_name": "Aesculus",
   "gbif_id": "3189815",
   "powo_id": "781594-1",
   "iucn_id": "202914",

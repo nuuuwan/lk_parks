@@ -1,8 +1,7 @@
 {
   "name": "Syagrus flexuosa",
   "authorship": "(Mart.) Becc.",
-  "genus_name": "Syagrus",
-  "family_name": "Arecaceae",
+  "parent_name": "Syagrus",
   "gbif_id": "5293918",
   "powo_id": "246933-2",
   "iucn_id": null,

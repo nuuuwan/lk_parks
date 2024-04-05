@@ -1,8 +1,7 @@
 {
   "name": "Strophanthus sarmentosus",
   "authorship": "DC.",
-  "genus_name": "Strophanthus",
-  "family_name": "Apocynaceae",
+  "parent_name": "Strophanthus",
   "gbif_id": "3169613",
   "powo_id": "81945-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Hippotis panamensis",
   "authorship": "(Dwyer) C.M.Taylor",
-  "genus_name": "Hippotis",
-  "family_name": "Rubiaceae",
+  "parent_name": "Hippotis",
   "gbif_id": "2901971",
   "powo_id": "1078518-2",
   "iucn_id": "151960520",

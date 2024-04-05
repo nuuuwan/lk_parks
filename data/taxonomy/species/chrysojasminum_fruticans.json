@@ -1,8 +1,7 @@
 {
   "name": "Chrysojasminum fruticans",
   "authorship": "(L.) Banfi",
-  "genus_name": "Chrysojasminum",
-  "family_name": "Oleaceae",
+  "parent_name": "Chrysojasminum",
   "gbif_id": "9556104",
   "powo_id": "77144221-1",
   "iucn_id": null,

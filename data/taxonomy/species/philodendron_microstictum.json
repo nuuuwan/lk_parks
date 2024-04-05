@@ -1,8 +1,7 @@
 {
   "name": "Philodendron microstictum",
   "authorship": "Standl. & L.O.Williams",
-  "genus_name": "Philodendron",
-  "family_name": "Araceae",
+  "parent_name": "Philodendron",
   "gbif_id": "2870995",
   "powo_id": "193115-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Codon royenii",
   "authorship": "L.",
-  "genus_name": "Codon",
-  "family_name": "Boraginaceae",
+  "parent_name": "Codon",
   "gbif_id": "7782072",
   "powo_id": "432022-1",
   "iucn_id": null,

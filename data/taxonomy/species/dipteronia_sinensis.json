@@ -1,8 +1,7 @@
 {
   "name": "Dipteronia sinensis",
   "authorship": "Oliv.",
-  "genus_name": "Dipteronia",
-  "family_name": "Sapindaceae",
+  "parent_name": "Dipteronia",
   "gbif_id": "7263106",
   "powo_id": "782824-1",
   "iucn_id": "32401",

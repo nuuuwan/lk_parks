@@ -1,8 +1,7 @@
 {
   "name": "Cercis canadensis",
   "authorship": "L.",
-  "genus_name": "Cercis",
-  "family_name": "Fabaceae",
+  "parent_name": "Cercis",
   "gbif_id": "5353583",
   "powo_id": "316243-2",
   "iucn_id": "33892",

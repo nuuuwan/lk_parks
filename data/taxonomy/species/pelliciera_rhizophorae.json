@@ -1,8 +1,7 @@
 {
   "name": "Pelliciera rhizophorae",
   "authorship": "Triana & Planch.",
-  "genus_name": "Pelliciera",
-  "family_name": "Tetrameristaceae",
+  "parent_name": "Pelliciera",
   "gbif_id": "2883101",
   "powo_id": "829218-1",
   "iucn_id": "178833",

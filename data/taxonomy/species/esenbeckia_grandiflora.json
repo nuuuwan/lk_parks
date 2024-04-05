@@ -1,8 +1,7 @@
 {
   "name": "Esenbeckia grandiflora",
   "authorship": "Mart.",
-  "genus_name": "Esenbeckia",
-  "family_name": "Rutaceae",
+  "parent_name": "Esenbeckia",
   "gbif_id": "7268853",
   "powo_id": "772837-1",
   "iucn_id": "179313854",

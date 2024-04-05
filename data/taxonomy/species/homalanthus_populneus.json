@@ -1,8 +1,7 @@
 {
   "name": "Homalanthus populneus",
   "authorship": "(Geiseler) Pax",
-  "genus_name": "Homalanthus",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Homalanthus",
   "gbif_id": "3072674",
   "powo_id": "350038-1",
   "iucn_id": "135889445",

@@ -1,8 +1,7 @@
 {
   "name": "Callianthe striata",
   "authorship": "(G.F.Dicks. ex Lindl.) Donnell",
-  "genus_name": "Callianthe",
-  "family_name": "Malvaceae",
+  "parent_name": "Callianthe",
   "gbif_id": "8162439",
   "powo_id": "77130224-1",
   "iucn_id": null,

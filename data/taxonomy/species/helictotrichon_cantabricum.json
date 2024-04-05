@@ -1,8 +1,7 @@
 {
   "name": "Helictotrichon cantabricum",
   "authorship": "(Lag.) Gervais",
-  "genus_name": "Helictotrichon",
-  "family_name": "Poaceae",
+  "parent_name": "Helictotrichon",
   "gbif_id": "4153218",
   "powo_id": "1006038-1",
   "iucn_id": null,

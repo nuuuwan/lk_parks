@@ -1,8 +1,7 @@
 {
   "name": "Pachylobus edulis",
   "authorship": "G.Don",
-  "genus_name": "Pachylobus",
-  "family_name": "Burseraceae",
+  "parent_name": "Pachylobus",
   "gbif_id": "3993252",
   "powo_id": "128214-1",
   "iucn_id": null,

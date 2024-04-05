@@ -1,8 +1,7 @@
 {
   "name": "Diodia virginiana",
   "authorship": "L.",
-  "genus_name": "Diodia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Diodia",
   "gbif_id": "2908579",
   "powo_id": "319047-2",
   "iucn_id": null,

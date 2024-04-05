@@ -1,8 +1,7 @@
 {
   "name": "Olea capensis",
   "authorship": "L.",
-  "genus_name": "Olea",
-  "family_name": "Oleaceae",
+  "parent_name": "Olea",
   "gbif_id": "7475694",
   "powo_id": "610645-1",
   "iucn_id": "61919282",

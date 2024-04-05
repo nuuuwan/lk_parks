@@ -1,8 +1,7 @@
 {
   "name": "Woodfordia fruticosa",
   "authorship": "(L.) Kurz",
-  "genus_name": "Woodfordia",
-  "family_name": "Lythraceae",
+  "parent_name": "Woodfordia",
   "gbif_id": "5635525",
   "powo_id": "554290-1",
   "iucn_id": "39058",

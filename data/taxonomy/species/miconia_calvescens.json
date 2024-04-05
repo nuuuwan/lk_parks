@@ -1,8 +1,7 @@
 {
   "name": "Miconia calvescens",
   "authorship": "DC.",
-  "genus_name": "Miconia",
-  "family_name": "Melastomataceae",
+  "parent_name": "Miconia",
   "gbif_id": "3188585",
   "powo_id": "326247-2",
   "iucn_id": "49278524",

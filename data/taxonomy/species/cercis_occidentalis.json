@@ -1,8 +1,7 @@
 {
   "name": "Cercis occidentalis",
   "authorship": "Torr. ex A.Gray",
-  "genus_name": "Cercis",
-  "family_name": "Fabaceae",
+  "parent_name": "Cercis",
   "gbif_id": "5353595",
   "powo_id": "52663-2",
   "iucn_id": null,

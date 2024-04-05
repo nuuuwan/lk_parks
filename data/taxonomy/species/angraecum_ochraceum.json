@@ -1,8 +1,7 @@
 {
   "name": "Angraecum ochraceum",
   "authorship": "(Ridl.) Schltr.",
-  "genus_name": "Angraecum",
-  "family_name": "Orchidaceae",
+  "parent_name": "Angraecum",
   "gbif_id": "2833630",
   "powo_id": "616305-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Jatropha integerrima",
   "authorship": "Jacq.",
-  "genus_name": "Jatropha",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Jatropha",
   "gbif_id": "3073017",
   "powo_id": "350290-1",
   "iucn_id": null,

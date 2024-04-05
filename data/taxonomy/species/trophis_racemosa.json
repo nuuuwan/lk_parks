@@ -1,8 +1,7 @@
 {
   "name": "Trophis racemosa",
   "authorship": "(L.) Urb.",
-  "genus_name": "Trophis",
-  "family_name": "Moraceae",
+  "parent_name": "Trophis",
   "gbif_id": "2984648",
   "powo_id": "260203-2",
   "iucn_id": "131214904",

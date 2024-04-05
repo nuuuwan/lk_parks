@@ -1,8 +1,7 @@
 {
   "name": "Calodendrum capense",
   "authorship": "(L.f.) Thunb.",
-  "genus_name": "Calodendrum",
-  "family_name": "Rutaceae",
+  "parent_name": "Calodendrum",
   "gbif_id": "4937111",
   "powo_id": "771766-1",
   "iucn_id": "146452303",

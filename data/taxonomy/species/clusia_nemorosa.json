@@ -1,8 +1,7 @@
 {
   "name": "Clusia nemorosa",
   "authorship": "G.Mey.",
-  "genus_name": "Clusia",
-  "family_name": "Clusiaceae",
+  "parent_name": "Clusia",
   "gbif_id": "7330253",
   "powo_id": "427599-1",
   "iucn_id": "147301314",

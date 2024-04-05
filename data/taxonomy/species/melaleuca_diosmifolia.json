@@ -1,8 +1,7 @@
 {
   "name": "Melaleuca diosmifolia",
   "authorship": "Andrews",
-  "genus_name": "Melaleuca",
-  "family_name": "Myrtaceae",
+  "parent_name": "Melaleuca",
   "gbif_id": "5415881",
   "powo_id": "60468632-2",
   "iucn_id": null,

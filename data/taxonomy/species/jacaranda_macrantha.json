@@ -1,8 +1,7 @@
 {
   "name": "Jacaranda macrantha",
   "authorship": "Cham.",
-  "genus_name": "Jacaranda",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Jacaranda",
   "gbif_id": "4093824",
   "powo_id": "109821-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Morisonia pittieri",
   "authorship": "(Standl.) Christenh. & Byng",
-  "genus_name": "Morisonia",
-  "family_name": "Capparaceae",
+  "parent_name": "Morisonia",
   "gbif_id": "9661077",
   "powo_id": "77184198-1",
   "iucn_id": null,

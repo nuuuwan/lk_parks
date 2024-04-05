@@ -1,8 +1,7 @@
 {
   "name": "Anchietea pyrifolia",
   "authorship": "(Mart.) G.Don",
-  "genus_name": "Anchietea",
-  "family_name": "Violaceae",
+  "parent_name": "Anchietea",
   "gbif_id": "8335905",
   "powo_id": "866411-1",
   "iucn_id": null,

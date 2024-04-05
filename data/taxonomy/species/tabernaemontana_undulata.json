@@ -1,8 +1,7 @@
 {
   "name": "Tabernaemontana undulata",
   "authorship": "Vahl",
-  "genus_name": "Tabernaemontana",
-  "family_name": "Apocynaceae",
+  "parent_name": "Tabernaemontana",
   "gbif_id": "3621389",
   "powo_id": "82371-1",
   "iucn_id": "150006848",

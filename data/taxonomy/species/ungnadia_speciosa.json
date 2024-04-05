@@ -1,8 +1,7 @@
 {
   "name": "Ungnadia speciosa",
   "authorship": "Endl.",
-  "genus_name": "Ungnadia",
-  "family_name": "Sapindaceae",
+  "parent_name": "Ungnadia",
   "gbif_id": "3190006",
   "powo_id": "785564-1",
   "iucn_id": "126621644",

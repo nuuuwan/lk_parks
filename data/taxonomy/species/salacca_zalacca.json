@@ -1,8 +1,7 @@
 {
   "name": "Salacca zalacca",
   "authorship": "(Gaertn.) Voss",
-  "genus_name": "Salacca",
-  "family_name": "Arecaceae",
+  "parent_name": "Salacca",
   "gbif_id": "2731764",
   "powo_id": "670335-1",
   "iucn_id": null,

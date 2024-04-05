@@ -1,8 +1,7 @@
 {
   "name": "Combretum apiculatum",
   "authorship": "Sond.",
-  "genus_name": "Combretum",
-  "family_name": "Combretaceae",
+  "parent_name": "Combretum",
   "gbif_id": "3698502",
   "powo_id": "169913-1",
   "iucn_id": "147140271",

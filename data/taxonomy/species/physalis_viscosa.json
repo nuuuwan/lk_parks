@@ -1,8 +1,7 @@
 {
   "name": "Physalis viscosa",
   "authorship": "L.",
-  "genus_name": "Physalis",
-  "family_name": "Solanaceae",
+  "parent_name": "Physalis",
   "gbif_id": "5341766",
   "powo_id": "817619-1",
   "iucn_id": null,

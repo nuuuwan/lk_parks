@@ -1,8 +1,7 @@
 {
   "name": "Populus tremula",
   "authorship": "L.",
-  "genus_name": "Populus",
-  "family_name": "Salicaceae",
+  "parent_name": "Populus",
   "gbif_id": "3040249",
   "powo_id": "302387-2",
   "iucn_id": "61959941",

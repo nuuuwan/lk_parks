@@ -1,8 +1,7 @@
 {
   "name": "Phoradendron robustissimum",
   "authorship": "Eichler",
-  "genus_name": "Phoradendron",
-  "family_name": "Santalaceae",
+  "parent_name": "Phoradendron",
   "gbif_id": "7295777",
   "powo_id": "302045-2",
   "iucn_id": null,

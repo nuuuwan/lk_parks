@@ -1,8 +1,7 @@
 {
   "name": "Fraxinus sieboldiana",
   "authorship": "Blume",
-  "genus_name": "Fraxinus",
-  "family_name": "Oleaceae",
+  "parent_name": "Fraxinus",
   "gbif_id": "3684169",
   "powo_id": "609216-1",
   "iucn_id": "96444571",

@@ -1,8 +1,7 @@
 {
   "name": "Geranium carolinianum",
   "authorship": "L.",
-  "genus_name": "Geranium",
-  "family_name": "Geraniaceae",
+  "parent_name": "Geranium",
   "gbif_id": "2890623",
   "powo_id": "320496-2",
   "iucn_id": null,

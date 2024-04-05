@@ -1,8 +1,7 @@
 {
   "name": "Sida fallax",
   "authorship": "Walp.",
-  "genus_name": "Sida",
-  "family_name": "Malvaceae",
+  "parent_name": "Sida",
   "gbif_id": "5406750",
   "powo_id": "563692-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Urena lobata",
   "authorship": "L.",
-  "genus_name": "Urena",
-  "family_name": "Malvaceae",
+  "parent_name": "Urena",
   "gbif_id": "3152253",
   "powo_id": "564786-1",
   "iucn_id": "136663001",

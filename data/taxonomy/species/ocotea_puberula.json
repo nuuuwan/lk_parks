@@ -1,8 +1,7 @@
 {
   "name": "Ocotea puberula",
   "authorship": "(Rich.) Nees",
-  "genus_name": "Ocotea",
-  "family_name": "Lauraceae",
+  "parent_name": "Ocotea",
   "gbif_id": "7304142",
   "powo_id": "1032261-2",
   "iucn_id": "32489",

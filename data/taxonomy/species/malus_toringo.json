@@ -1,8 +1,7 @@
 {
   "name": "Malus toringo",
   "authorship": "(Siebold) de Vriese",
-  "genus_name": "Malus",
-  "family_name": "Rosaceae",
+  "parent_name": "Malus",
   "gbif_id": "7848132",
   "powo_id": "60451760-2",
   "iucn_id": "61855279",

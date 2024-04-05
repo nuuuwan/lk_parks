@@ -1,8 +1,7 @@
 {
   "name": "Maerua schinzii",
   "authorship": "Pax",
-  "genus_name": "Maerua",
-  "family_name": "Capparaceae",
+  "parent_name": "Maerua",
   "gbif_id": "3873430",
   "powo_id": "147776-1",
   "iucn_id": "149352125",

@@ -1,8 +1,7 @@
 {
   "name": "Cyrtostachys renda",
   "authorship": "Blume",
-  "genus_name": "Cyrtostachys",
-  "family_name": "Arecaceae",
+  "parent_name": "Cyrtostachys",
   "gbif_id": "2735421",
   "powo_id": "666411-1",
   "iucn_id": null,

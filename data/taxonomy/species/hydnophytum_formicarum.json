@@ -1,8 +1,7 @@
 {
   "name": "Hydnophytum formicarum",
   "authorship": "Jack",
-  "genus_name": "Hydnophytum",
-  "family_name": "Rubiaceae",
+  "parent_name": "Hydnophytum",
   "gbif_id": "2895700",
   "powo_id": "753446-1",
   "iucn_id": null,

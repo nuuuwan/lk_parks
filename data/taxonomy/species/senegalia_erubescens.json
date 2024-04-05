@@ -1,8 +1,7 @@
 {
   "name": "Senegalia erubescens",
   "authorship": "(Welw. ex Oliv.) Kyal. & Boatwr.",
-  "genus_name": "Senegalia",
-  "family_name": "Fabaceae",
+  "parent_name": "Senegalia",
   "gbif_id": "7828119",
   "powo_id": "77130781-1",
   "iucn_id": "146218159",

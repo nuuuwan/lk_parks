@@ -1,8 +1,7 @@
 {
   "name": "Arenga engleri",
   "authorship": "Becc.",
-  "genus_name": "Arenga",
-  "family_name": "Arecaceae",
+  "parent_name": "Arenga",
   "gbif_id": "2733994",
   "powo_id": "664248-1",
   "iucn_id": null,

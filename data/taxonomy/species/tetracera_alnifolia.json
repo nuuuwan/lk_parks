@@ -1,8 +1,7 @@
 {
   "name": "Tetracera alnifolia",
   "authorship": "Willd.",
-  "genus_name": "Tetracera",
-  "family_name": "Dilleniaceae",
+  "parent_name": "Tetracera",
   "gbif_id": "5680805",
   "powo_id": "317353-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Berberidopsis corallina",
   "authorship": "Hook.f.",
-  "genus_name": "Berberidopsis",
-  "family_name": "Berberidopsidaceae",
+  "parent_name": "Berberidopsis",
   "gbif_id": "4935836",
   "powo_id": "106378-1",
   "iucn_id": null,

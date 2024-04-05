@@ -1,8 +1,7 @@
 {
   "name": "Lycianthes rantonnetii",
   "authorship": "(Carri\u00e8re ex Lesc.) Bitter",
-  "genus_name": "Lycianthes",
-  "family_name": "Solanaceae",
+  "parent_name": "Lycianthes",
   "gbif_id": "3799026",
   "powo_id": null,
   "iucn_id": null,

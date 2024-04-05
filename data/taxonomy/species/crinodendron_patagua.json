@@ -1,8 +1,7 @@
 {
   "name": "Crinodendron patagua",
   "authorship": "Molina",
-  "genus_name": "Crinodendron",
-  "family_name": "Elaeocarpaceae",
+  "parent_name": "Crinodendron",
   "gbif_id": "4031011",
   "powo_id": "833693-1",
   "iucn_id": null,

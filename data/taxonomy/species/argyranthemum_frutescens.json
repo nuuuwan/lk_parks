@@ -1,8 +1,7 @@
 {
   "name": "Argyranthemum frutescens",
   "authorship": "(L.) Sch.Bip.",
-  "genus_name": "Argyranthemum",
-  "family_name": "Asteraceae",
+  "parent_name": "Argyranthemum",
   "gbif_id": "3104491",
   "powo_id": "178745-1",
   "iucn_id": null,

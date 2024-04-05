@@ -1,8 +1,7 @@
 {
   "name": "Hesperaloe parviflora",
   "authorship": "(Torr.) J.M.Coult.",
-  "genus_name": "Hesperaloe",
-  "family_name": "Asparagaceae",
+  "parent_name": "Hesperaloe",
   "gbif_id": "2771042",
   "powo_id": "1213420-2",
   "iucn_id": null,

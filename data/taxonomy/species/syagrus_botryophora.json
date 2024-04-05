@@ -1,8 +1,7 @@
 {
   "name": "Syagrus botryophora",
   "authorship": "(Mart.) Mart.",
-  "genus_name": "Syagrus",
-  "family_name": "Arecaceae",
+  "parent_name": "Syagrus",
   "gbif_id": "5293859",
   "powo_id": "670007-1",
   "iucn_id": "38698",

@@ -1,8 +1,7 @@
 {
   "name": "Dendrobium casuarinae",
   "authorship": "Schltr.",
-  "genus_name": "Dendrobium",
-  "family_name": "Orchidaceae",
+  "parent_name": "Dendrobium",
   "gbif_id": "5316684",
   "powo_id": "627045-1",
   "iucn_id": null,

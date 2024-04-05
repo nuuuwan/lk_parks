@@ -1,8 +1,7 @@
 {
   "name": "Cordia americana",
   "authorship": "(L.) Gottschling & J.S.Mill.",
-  "genus_name": "Cordia",
-  "family_name": "Boraginaceae",
+  "parent_name": "Cordia",
   "gbif_id": "5660277",
   "powo_id": "77073457-1",
   "iucn_id": "61986353",

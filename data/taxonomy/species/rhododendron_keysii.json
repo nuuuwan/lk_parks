@@ -1,8 +1,7 @@
 {
   "name": "Rhododendron keysii",
   "authorship": "Nutt.",
-  "genus_name": "Rhododendron",
-  "family_name": "Ericaceae",
+  "parent_name": "Rhododendron",
   "gbif_id": "4172645",
   "powo_id": "332675-1",
   "iucn_id": null,

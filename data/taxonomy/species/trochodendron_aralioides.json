@@ -1,8 +1,7 @@
 {
   "name": "Trochodendron aralioides",
   "authorship": "Siebold & Zucc.",
-  "genus_name": "Trochodendron",
-  "family_name": "Trochodendraceae",
+  "parent_name": "Trochodendron",
   "gbif_id": "4191567",
   "powo_id": "927850-1",
   "iucn_id": null,

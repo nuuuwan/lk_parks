@@ -1,8 +1,7 @@
 {
   "name": "Erythrina velutina",
   "authorship": "Willd.",
-  "genus_name": "Erythrina",
-  "family_name": "Fabaceae",
+  "parent_name": "Erythrina",
   "gbif_id": "5349685",
   "powo_id": "494616-1",
   "iucn_id": null,

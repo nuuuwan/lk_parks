@@ -1,8 +1,7 @@
 {
   "name": "Gardenia tinneae",
   "authorship": "Kotschy & Heuglin",
-  "genus_name": "Gardenia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Gardenia",
   "gbif_id": "5334943",
   "powo_id": "751293-1",
   "iucn_id": null,

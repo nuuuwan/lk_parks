@@ -1,8 +1,7 @@
 {
   "name": "Poitea florida",
   "authorship": "(Vahl) Lavin",
-  "genus_name": "Poitea",
-  "family_name": "Fabaceae",
+  "parent_name": "Poitea",
   "gbif_id": "2966718",
   "powo_id": "969718-1",
   "iucn_id": "127666014",

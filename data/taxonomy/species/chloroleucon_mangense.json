@@ -1,8 +1,7 @@
 {
   "name": "Chloroleucon mangense",
   "authorship": "(Jacq.) Britton & Rose",
-  "genus_name": "Chloroleucon",
-  "family_name": "Fabaceae",
+  "parent_name": "Chloroleucon",
   "gbif_id": "2943053",
   "powo_id": "56985-2",
   "iucn_id": "62490",

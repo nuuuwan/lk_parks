@@ -1,8 +1,7 @@
 {
   "name": "Gutierrezia californica",
   "authorship": "(DC.) Torr. & A.Gray",
-  "genus_name": "Gutierrezia",
-  "family_name": "Asteraceae",
+  "parent_name": "Gutierrezia",
   "gbif_id": "5385048",
   "powo_id": "114995-2",
   "iucn_id": null,

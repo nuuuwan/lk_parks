@@ -1,8 +1,7 @@
 {
   "name": "Staphylea trifolia",
   "authorship": "L.",
-  "genus_name": "Staphylea",
-  "family_name": "Staphyleaceae",
+  "parent_name": "Staphylea",
   "gbif_id": "3190467",
   "powo_id": "785267-1",
   "iucn_id": "135957125",

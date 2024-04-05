@@ -1,8 +1,7 @@
 {
   "name": "Galium tokyoense",
   "authorship": "Makino",
-  "genus_name": "Galium",
-  "family_name": "Rubiaceae",
+  "parent_name": "Galium",
   "gbif_id": "2913230",
   "powo_id": "327768-2",
   "iucn_id": null,

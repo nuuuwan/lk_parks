@@ -1,8 +1,7 @@
 {
   "name": "Aglaia lawii",
   "authorship": "(Wight) C.J.Saldanha",
-  "genus_name": "Aglaia",
-  "family_name": "Meliaceae",
+  "parent_name": "Aglaia",
   "gbif_id": "7271334",
   "powo_id": "577159-1",
   "iucn_id": "34362",

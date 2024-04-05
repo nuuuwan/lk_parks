@@ -1,8 +1,7 @@
 {
   "name": "Trifolium campestre",
   "authorship": "Schreb.",
-  "genus_name": "Trifolium",
-  "family_name": "Fabaceae",
+  "parent_name": "Trifolium",
   "gbif_id": "5359477",
   "powo_id": "522975-1",
   "iucn_id": null,

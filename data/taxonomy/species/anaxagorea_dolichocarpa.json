@@ -1,8 +1,7 @@
 {
   "name": "Anaxagorea dolichocarpa",
   "authorship": "Sprague & Sandwith",
-  "genus_name": "Anaxagorea",
-  "family_name": "Annonaceae",
+  "parent_name": "Anaxagorea",
   "gbif_id": "3156852",
   "powo_id": "12508-2",
   "iucn_id": "143325869",

@@ -1,8 +1,7 @@
 {
   "name": "Maytenus acuminata",
   "authorship": "(L.f.) Loes.",
-  "genus_name": "Maytenus",
-  "family_name": "Celastraceae",
+  "parent_name": "Maytenus",
   "gbif_id": "3791179",
   "powo_id": "161800-1",
   "iucn_id": "146196632",

@@ -1,8 +1,7 @@
 {
   "name": "Dioscorea pilosiuscula",
   "authorship": "Bertero ex Spreng.",
-  "genus_name": "Dioscorea",
-  "family_name": "Dioscoreaceae",
+  "parent_name": "Dioscorea",
   "gbif_id": "2754717",
   "powo_id": "318417-1",
   "iucn_id": null,

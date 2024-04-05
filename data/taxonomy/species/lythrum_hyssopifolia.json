@@ -1,8 +1,7 @@
 {
   "name": "Lythrum hyssopifolia",
   "authorship": "L.",
-  "genus_name": "Lythrum",
-  "family_name": "Lythraceae",
+  "parent_name": "Lythrum",
   "gbif_id": "3188747",
   "powo_id": "147982-2",
   "iucn_id": "164091",

@@ -1,8 +1,7 @@
 {
   "name": "Liquidambar orientalis",
   "authorship": "Mill.",
-  "genus_name": "Liquidambar",
-  "family_name": "Altingiaceae",
+  "parent_name": "Liquidambar",
   "gbif_id": "3152825",
   "powo_id": "430714-1",
   "iucn_id": "62556",

@@ -1,8 +1,7 @@
 {
   "name": "Malvaviscus arboreus",
   "authorship": "Dill. ex Cav.",
-  "genus_name": "Malvaviscus",
-  "family_name": "Malvaceae",
+  "parent_name": "Malvaviscus",
   "gbif_id": "3152775",
   "powo_id": "30041958-2",
   "iucn_id": "136790582",

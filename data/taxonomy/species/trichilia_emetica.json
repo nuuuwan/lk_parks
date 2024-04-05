@@ -1,8 +1,7 @@
 {
   "name": "Trichilia emetica",
   "authorship": "Vahl",
-  "genus_name": "Trichilia",
-  "family_name": "Meliaceae",
+  "parent_name": "Trichilia",
   "gbif_id": "3190493",
   "powo_id": "579419-1",
   "iucn_id": "146224051",

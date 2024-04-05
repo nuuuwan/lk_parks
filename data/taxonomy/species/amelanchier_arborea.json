@@ -1,8 +1,7 @@
 {
   "name": "Amelanchier arborea",
   "authorship": "(F.Michx.) Fernald",
-  "genus_name": "Amelanchier",
-  "family_name": "Rosaceae",
+  "parent_name": "Amelanchier",
   "gbif_id": "3024052",
   "powo_id": "11133-2",
   "iucn_id": "144220543",

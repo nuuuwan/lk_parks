@@ -1,8 +1,7 @@
 {
   "name": "Pistacia mexicana",
   "authorship": "Kunth",
-  "genus_name": "Pistacia",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Pistacia",
   "gbif_id": "3190578",
   "powo_id": "200169-2",
   "iucn_id": "38923",

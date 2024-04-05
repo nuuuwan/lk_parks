@@ -1,8 +1,7 @@
 {
   "name": "Asparagus setaceus",
   "authorship": "(Kunth) Jessop",
-  "genus_name": "Asparagus",
-  "family_name": "Asparagaceae",
+  "parent_name": "Asparagus",
   "gbif_id": "2768686",
   "powo_id": "531312-1",
   "iucn_id": null,

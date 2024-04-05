@@ -1,8 +1,7 @@
 {
   "name": "Byrsonima crassifolia",
   "authorship": "(L.) Kunth",
-  "genus_name": "Byrsonima",
-  "family_name": "Malpighiaceae",
+  "parent_name": "Byrsonima",
   "gbif_id": "3191361",
   "powo_id": "556033-1",
   "iucn_id": "61780518",

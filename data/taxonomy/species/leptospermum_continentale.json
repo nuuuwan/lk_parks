@@ -1,8 +1,7 @@
 {
   "name": "Leptospermum continentale",
   "authorship": "Joy Thomps.",
-  "genus_name": "Leptospermum",
-  "family_name": "Myrtaceae",
+  "parent_name": "Leptospermum",
   "gbif_id": "3181835",
   "powo_id": "938303-1",
   "iucn_id": null,

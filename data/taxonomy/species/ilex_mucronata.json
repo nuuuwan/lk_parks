@@ -1,8 +1,7 @@
 {
   "name": "Ilex mucronata",
   "authorship": "(L.) M.Powell, Savol. & S.Andrews",
-  "genus_name": "Ilex",
-  "family_name": "Aquifoliaceae",
+  "parent_name": "Ilex",
   "gbif_id": "5534659",
   "powo_id": "1170537-2",
   "iucn_id": "64318779",

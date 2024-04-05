@@ -1,8 +1,7 @@
 {
   "name": "Axonopus compressus",
   "authorship": "(Sw.) P.Beauv.",
-  "genus_name": "Axonopus",
-  "family_name": "Poaceae",
+  "parent_name": "Axonopus",
   "gbif_id": "2705924",
   "powo_id": "392087-1",
   "iucn_id": "137581251",

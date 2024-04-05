@@ -1,8 +1,7 @@
 {
   "name": "Vachellia macracantha",
   "authorship": "(Humb. & Bonpl. ex Willd.) Seigler & Ebinger",
-  "genus_name": "Vachellia",
-  "family_name": "Fabaceae",
+  "parent_name": "Vachellia",
   "gbif_id": "3795445",
   "powo_id": "60441223-2",
   "iucn_id": "152908301",

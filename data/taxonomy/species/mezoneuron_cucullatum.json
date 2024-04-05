@@ -1,8 +1,7 @@
 {
   "name": "Mezoneuron cucullatum",
   "authorship": "(Roxb.) Wight & Arn.",
-  "genus_name": "Mezoneuron",
-  "family_name": "Fabaceae",
+  "parent_name": "Mezoneuron",
   "gbif_id": "5354740",
   "powo_id": "507176-1",
   "iucn_id": null,

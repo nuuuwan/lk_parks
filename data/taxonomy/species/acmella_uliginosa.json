@@ -1,8 +1,7 @@
 {
   "name": "Acmella uliginosa",
   "authorship": "(Sw.) Cass.",
-  "genus_name": "Acmella",
-  "family_name": "Asteraceae",
+  "parent_name": "Acmella",
   "gbif_id": "5386720",
   "powo_id": "174556-1",
   "iucn_id": "185500",

@@ -1,8 +1,7 @@
 {
   "name": "Eucommia ulmoides",
   "authorship": "Oliv.",
-  "genus_name": "Eucommia",
-  "family_name": "Eucommiaceae",
+  "parent_name": "Eucommia",
   "gbif_id": "3723584",
   "powo_id": "554475-1",
   "iucn_id": "31280",

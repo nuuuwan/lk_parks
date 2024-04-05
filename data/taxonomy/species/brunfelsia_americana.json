@@ -1,8 +1,7 @@
 {
   "name": "Brunfelsia americana",
   "authorship": "L.",
-  "genus_name": "Brunfelsia",
-  "family_name": "Solanaceae",
+  "parent_name": "Brunfelsia",
   "gbif_id": "2932919",
   "powo_id": "319114-2",
   "iucn_id": null,

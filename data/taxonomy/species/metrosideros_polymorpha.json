@@ -1,8 +1,7 @@
 {
   "name": "Metrosideros polymorpha",
   "authorship": "Gaudich.",
-  "genus_name": "Metrosideros",
-  "family_name": "Myrtaceae",
+  "parent_name": "Metrosideros",
   "gbif_id": "3185315",
   "powo_id": "598292-1",
   "iucn_id": "62779",

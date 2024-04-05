@@ -1,8 +1,7 @@
 {
   "name": "Cornus capitata",
   "authorship": "Wall.",
-  "genus_name": "Cornus",
-  "family_name": "Cornaceae",
+  "parent_name": "Cornus",
   "gbif_id": "7161042",
   "powo_id": "271525-1",
   "iucn_id": "130047999",

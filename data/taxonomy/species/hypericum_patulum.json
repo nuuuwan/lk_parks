@@ -1,8 +1,7 @@
 {
   "name": "Hypericum patulum",
   "authorship": "Thunb.",
-  "genus_name": "Hypericum",
-  "family_name": "Hypericaceae",
+  "parent_name": "Hypericum",
   "gbif_id": "3713491",
   "powo_id": "927423-1",
   "iucn_id": null,

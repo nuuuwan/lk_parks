@@ -1,8 +1,7 @@
 {
   "name": "Amphilophium crucigerum",
   "authorship": "(L.) L.G.Lohmann",
-  "genus_name": "Amphilophium",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Amphilophium",
   "gbif_id": "4931838",
   "powo_id": "77100444-1",
   "iucn_id": null,

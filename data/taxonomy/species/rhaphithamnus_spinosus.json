@@ -1,8 +1,7 @@
 {
   "name": "Rhaphithamnus spinosus",
   "authorship": "(Juss.) Moldenke",
-  "genus_name": "Rhaphithamnus",
-  "family_name": "Verbenaceae",
+  "parent_name": "Rhaphithamnus",
   "gbif_id": "7297506",
   "powo_id": "219091-2",
   "iucn_id": "131404833",

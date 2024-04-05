@@ -1,8 +1,7 @@
 {
   "name": "Galianthe brasiliensis",
   "authorship": "(Spreng.) E.L.Cabral & Bacigalupo",
-  "genus_name": "Galianthe",
-  "family_name": "Rubiaceae",
+  "parent_name": "Galianthe",
   "gbif_id": "2902311",
   "powo_id": "999398-1",
   "iucn_id": null,

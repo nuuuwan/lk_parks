@@ -1,8 +1,7 @@
 {
   "name": "Malvaviscus penduliflorus",
   "authorship": "Moc. & Sess\u00e9 ex DC.",
-  "genus_name": "Malvaviscus",
-  "family_name": "Malvaceae",
+  "parent_name": "Malvaviscus",
   "gbif_id": "3152776",
   "powo_id": "150478-2",
   "iucn_id": null,

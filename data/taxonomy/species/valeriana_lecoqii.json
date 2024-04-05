@@ -1,8 +1,7 @@
 {
   "name": "Valeriana lecoqii",
   "authorship": "(Jord.) Christenh. & Byng",
-  "genus_name": "Valeriana",
-  "family_name": "Caprifoliaceae",
+  "parent_name": "Valeriana",
   "gbif_id": "10963986",
   "powo_id": "77184224-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Thymus pannonicus",
   "authorship": "All.",
-  "genus_name": "Thymus",
-  "family_name": "Lamiaceae",
+  "parent_name": "Thymus",
   "gbif_id": "5341447",
   "powo_id": "461498-1",
   "iucn_id": null,

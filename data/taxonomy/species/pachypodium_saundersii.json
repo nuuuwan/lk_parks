@@ -1,8 +1,7 @@
 {
   "name": "Pachypodium saundersii",
   "authorship": "N.E.Br.",
-  "genus_name": "Pachypodium",
-  "family_name": "Apocynaceae",
+  "parent_name": "Pachypodium",
   "gbif_id": "5535440",
   "powo_id": "80714-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Pandanus utilis",
   "authorship": "Bory",
-  "genus_name": "Pandanus",
-  "family_name": "Pandanaceae",
+  "parent_name": "Pandanus",
   "gbif_id": "5327557",
   "powo_id": "671595-1",
   "iucn_id": null,

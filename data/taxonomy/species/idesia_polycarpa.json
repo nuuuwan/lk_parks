@@ -1,8 +1,7 @@
 {
   "name": "Idesia polycarpa",
   "authorship": "Maxim.",
-  "genus_name": "Idesia",
-  "family_name": "Salicaceae",
+  "parent_name": "Idesia",
   "gbif_id": "6043516",
   "powo_id": "111768-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Persea palustris",
   "authorship": "(Raf.) Sarg.",
-  "genus_name": "Persea",
-  "family_name": "Lauraceae",
+  "parent_name": "Persea",
   "gbif_id": "3034052",
   "powo_id": "190715-2",
   "iucn_id": "138165041",

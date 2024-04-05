@@ -1,8 +1,7 @@
 {
   "name": "Alsophila setosa",
   "authorship": "Kaulf.",
-  "genus_name": "Alsophila",
-  "family_name": "Cyatheaceae",
+  "parent_name": "Alsophila",
   "gbif_id": "5529698",
   "powo_id": "10115-2",
   "iucn_id": null,

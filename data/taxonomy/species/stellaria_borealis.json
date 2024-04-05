@@ -1,8 +1,7 @@
 {
   "name": "Stellaria borealis",
   "authorship": "Bigelow",
-  "genus_name": "Stellaria",
-  "family_name": "Caryophyllaceae",
+  "parent_name": "Stellaria",
   "gbif_id": "5384671",
   "powo_id": "244154-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Combretum imberbe",
   "authorship": "Wawra",
-  "genus_name": "Combretum",
-  "family_name": "Combretaceae",
+  "parent_name": "Combretum",
   "gbif_id": "3699651",
   "powo_id": "170163-1",
   "iucn_id": "61989169",

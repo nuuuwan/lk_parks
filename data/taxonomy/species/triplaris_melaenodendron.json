@@ -1,8 +1,7 @@
 {
   "name": "Triplaris melaenodendron",
   "authorship": "(Bertol.) Standl. & Steyerm.",
-  "genus_name": "Triplaris",
-  "family_name": "Polygonaceae",
+  "parent_name": "Triplaris",
   "gbif_id": "7291872",
   "powo_id": "258609-2",
   "iucn_id": "151975035",

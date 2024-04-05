@@ -1,8 +1,7 @@
 {
   "name": "Viburnum carlcephalum",
   "authorship": "Burkwood ex Rullo, Brach & Gandhi",
-  "genus_name": "Viburnum",
-  "family_name": "Viburnaceae",
+  "parent_name": "Viburnum",
   "gbif_id": "12330618",
   "powo_id": "77210109-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Buxus rolfei",
   "authorship": "S.Vidal",
-  "genus_name": "Buxus",
-  "family_name": "Buxaceae",
+  "parent_name": "Buxus",
   "gbif_id": "3987963",
   "powo_id": "340312-1",
   "iucn_id": null,

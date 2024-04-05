@@ -1,8 +1,7 @@
 {
   "name": "Ochna atropurpurea",
   "authorship": "DC.",
-  "genus_name": "Ochna",
-  "family_name": "Ochnaceae",
+  "parent_name": "Ochna",
   "gbif_id": "3695385",
   "powo_id": "606526-1",
   "iucn_id": null,

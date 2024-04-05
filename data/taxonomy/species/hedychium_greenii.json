@@ -1,8 +1,7 @@
 {
   "name": "Hedychium greenii",
   "authorship": "W.W.Sm.",
-  "genus_name": "Hedychium",
-  "family_name": "Zingiberaceae",
+  "parent_name": "Hedychium",
   "gbif_id": "2758765",
   "powo_id": "323400-2",
   "iucn_id": null,

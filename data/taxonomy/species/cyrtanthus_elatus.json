@@ -1,8 +1,7 @@
 {
   "name": "Cyrtanthus elatus",
   "authorship": "(Jacq.) Traub",
-  "genus_name": "Cyrtanthus",
-  "family_name": "Amaryllidaceae",
+  "parent_name": "Cyrtanthus",
   "gbif_id": "5325993",
   "powo_id": "64208-1",
   "iucn_id": null,

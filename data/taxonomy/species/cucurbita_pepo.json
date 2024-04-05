@@ -1,8 +1,7 @@
 {
   "name": "Cucurbita pepo",
   "authorship": "L.",
-  "genus_name": "Cucurbita",
-  "family_name": "Cucurbitaceae",
+  "parent_name": "Cucurbita",
   "gbif_id": "2874508",
   "powo_id": "292416-1",
   "iucn_id": "20742885",

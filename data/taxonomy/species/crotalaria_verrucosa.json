@@ -1,8 +1,7 @@
 {
   "name": "Crotalaria verrucosa",
   "authorship": "L.",
-  "genus_name": "Crotalaria",
-  "family_name": "Fabaceae",
+  "parent_name": "Crotalaria",
   "gbif_id": "2942654",
   "powo_id": "489042-1",
   "iucn_id": null,

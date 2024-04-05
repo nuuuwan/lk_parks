@@ -1,8 +1,7 @@
 {
   "name": "Pimpinella major",
   "authorship": "(L.) Huds.",
-  "genus_name": "Pimpinella",
-  "family_name": "Apiaceae",
+  "parent_name": "Pimpinella",
   "gbif_id": "5371874",
   "powo_id": "846901-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Kalmia latifolia",
   "authorship": "L.",
-  "genus_name": "Kalmia",
-  "family_name": "Ericaceae",
+  "parent_name": "Kalmia",
   "gbif_id": "2883005",
   "powo_id": "279164-2",
   "iucn_id": "62002834",

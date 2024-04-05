@@ -1,8 +1,7 @@
 {
   "name": "Jacaranda caroba",
   "authorship": "(Vell.) DC.",
-  "genus_name": "Jacaranda",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Jacaranda",
   "gbif_id": "8391656",
   "powo_id": "109780-1",
   "iucn_id": "61985540",

@@ -1,8 +1,7 @@
 {
   "name": "Lysimachia ciliata",
   "authorship": "L.",
-  "genus_name": "Lysimachia",
-  "family_name": "Primulaceae",
+  "parent_name": "Lysimachia",
   "gbif_id": "3169391",
   "powo_id": "148117-2",
   "iucn_id": "64317587",

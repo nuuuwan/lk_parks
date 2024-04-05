@@ -1,8 +1,7 @@
 {
   "name": "Erythrina speciosa",
   "authorship": "Andrews",
-  "genus_name": "Erythrina",
-  "family_name": "Fabaceae",
+  "parent_name": "Erythrina",
   "gbif_id": "5349528",
   "powo_id": "494588-1",
   "iucn_id": "177827429",

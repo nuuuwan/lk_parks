@@ -1,8 +1,7 @@
 {
   "name": "Euphorbia anachoreta",
   "authorship": "Svent.",
-  "genus_name": "Euphorbia",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Euphorbia",
   "gbif_id": "3064148",
   "powo_id": "345573-1",
   "iucn_id": "102818486",

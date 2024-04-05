@@ -1,8 +1,7 @@
 {
   "name": "Entada gigas",
   "authorship": "(L.) Fawc. & Rendle",
-  "genus_name": "Entada",
-  "family_name": "Fabaceae",
+  "parent_name": "Entada",
   "gbif_id": "2976183",
   "powo_id": "1078643-2",
   "iucn_id": null,

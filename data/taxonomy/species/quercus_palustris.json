@@ -1,8 +1,7 @@
 {
   "name": "Quercus palustris",
   "authorship": "M\u00fcnchh.",
-  "genus_name": "Quercus",
-  "family_name": "Fagaceae",
+  "parent_name": "Quercus",
   "gbif_id": "8313153",
   "powo_id": "359933-1",
   "iucn_id": "194215",

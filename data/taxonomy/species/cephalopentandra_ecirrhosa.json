@@ -1,8 +1,7 @@
 {
   "name": "Cephalopentandra ecirrhosa",
   "authorship": "(Cogn.) C.Jeffrey",
-  "genus_name": "Cephalopentandra",
-  "family_name": "Cucurbitaceae",
+  "parent_name": "Cephalopentandra",
   "gbif_id": "3622340",
   "powo_id": "291886-1",
   "iucn_id": null,

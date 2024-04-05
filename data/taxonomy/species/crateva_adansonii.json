@@ -1,8 +1,7 @@
 {
   "name": "Crateva adansonii",
   "authorship": "DC.",
-  "genus_name": "Crateva",
-  "family_name": "Capparaceae",
+  "parent_name": "Crateva",
   "gbif_id": "3871686",
   "powo_id": "147449-1",
   "iucn_id": "144035295",

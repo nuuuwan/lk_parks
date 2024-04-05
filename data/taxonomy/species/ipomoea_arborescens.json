@@ -1,8 +1,7 @@
 {
   "name": "Ipomoea arborescens",
   "authorship": "(Humb. & Bonpl. ex Willd.) G.Don",
-  "genus_name": "Ipomoea",
-  "family_name": "Convolvulaceae",
+  "parent_name": "Ipomoea",
   "gbif_id": "7324166",
   "powo_id": "30056239-2",
   "iucn_id": "126300400",

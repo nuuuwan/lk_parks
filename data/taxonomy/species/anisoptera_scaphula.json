@@ -1,8 +1,7 @@
 {
   "name": "Anisoptera scaphula",
   "authorship": "(Roxb.) Kurz",
-  "genus_name": "Anisoptera",
-  "family_name": "Dipterocarpaceae",
+  "parent_name": "Anisoptera",
   "gbif_id": "5669291",
   "powo_id": "320572-1",
   "iucn_id": "33006",

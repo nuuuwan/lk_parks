@@ -1,8 +1,7 @@
 {
   "name": "Ficus laurifolia",
   "authorship": "Lam.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "7582575",
   "powo_id": "853099-1",
   "iucn_id": null,

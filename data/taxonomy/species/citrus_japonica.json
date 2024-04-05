@@ -1,8 +1,7 @@
 {
   "name": "Citrus japonica",
   "authorship": "Thunb.",
-  "genus_name": "Citrus",
-  "family_name": "Rutaceae",
+  "parent_name": "Citrus",
   "gbif_id": "3831801",
   "powo_id": "771939-1",
   "iucn_id": null,

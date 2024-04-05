@@ -1,8 +1,7 @@
 {
   "name": "Minquartia guianensis",
   "authorship": "Aubl.",
-  "genus_name": "Minquartia",
-  "family_name": "Olacaceae",
+  "parent_name": "Minquartia",
   "gbif_id": "3686157",
   "powo_id": "110121-1",
   "iucn_id": "32956",

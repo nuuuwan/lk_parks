@@ -1,8 +1,7 @@
 {
   "name": "Ceroxylon parvifrons",
   "authorship": "(Engel) H.Wendl.",
-  "genus_name": "Ceroxylon",
-  "family_name": "Arecaceae",
+  "parent_name": "Ceroxylon",
   "gbif_id": "2731844",
   "powo_id": "665695-1",
   "iucn_id": null,

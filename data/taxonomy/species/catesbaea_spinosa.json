@@ -1,8 +1,7 @@
 {
   "name": "Catesbaea spinosa",
   "authorship": "L.",
-  "genus_name": "Catesbaea",
-  "family_name": "Rubiaceae",
+  "parent_name": "Catesbaea",
   "gbif_id": "2910989",
   "powo_id": "319135-2",
   "iucn_id": null,

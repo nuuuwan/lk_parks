@@ -1,8 +1,7 @@
 {
   "name": "Myosotis sylvatica",
   "authorship": "Ehrh. ex Hoffm.",
-  "genus_name": "Myosotis",
-  "family_name": "Boraginaceae",
+  "parent_name": "Myosotis",
   "gbif_id": "5341175",
   "powo_id": "119282-1",
   "iucn_id": null,

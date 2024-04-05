@@ -1,8 +1,7 @@
 {
   "name": "Gustavia superba",
   "authorship": "(Kunth) O.Berg",
-  "genus_name": "Gustavia",
-  "family_name": "Lecythidaceae",
+  "parent_name": "Gustavia",
   "gbif_id": "5383848",
   "powo_id": "323304-2",
   "iucn_id": "144120715",

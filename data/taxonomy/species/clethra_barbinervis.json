@@ -1,8 +1,7 @@
 {
   "name": "Clethra barbinervis",
   "authorship": "Siebold & Zucc.",
-  "genus_name": "Clethra",
-  "family_name": "Clethraceae",
+  "parent_name": "Clethra",
   "gbif_id": "3718199",
   "powo_id": "327574-1",
   "iucn_id": "18749575",

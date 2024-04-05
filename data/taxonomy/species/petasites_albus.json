@@ -1,8 +1,7 @@
 {
   "name": "Petasites albus",
   "authorship": "(L.) Gaertn.",
-  "genus_name": "Petasites",
-  "family_name": "Asteraceae",
+  "parent_name": "Petasites",
   "gbif_id": "7749287",
   "powo_id": "237345-1",
   "iucn_id": null,

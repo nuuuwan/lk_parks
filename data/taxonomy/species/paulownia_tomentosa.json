@@ -1,8 +1,7 @@
 {
   "name": "Paulownia tomentosa",
   "authorship": "(Thunb.) Steud.",
-  "genus_name": "Paulownia",
-  "family_name": "Paulowniaceae",
+  "parent_name": "Paulownia",
   "gbif_id": "3170823",
   "powo_id": "185784-2",
   "iucn_id": null,

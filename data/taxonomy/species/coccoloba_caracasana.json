@@ -1,8 +1,7 @@
 {
   "name": "Coccoloba caracasana",
   "authorship": "Meisn.",
-  "genus_name": "Coccoloba",
-  "family_name": "Polygonaceae",
+  "parent_name": "Coccoloba",
   "gbif_id": "7291324",
   "powo_id": "693597-1",
   "iucn_id": null,

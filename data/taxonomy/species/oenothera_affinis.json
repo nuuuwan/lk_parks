@@ -1,8 +1,7 @@
 {
   "name": "Oenothera affinis",
   "authorship": "Cambess.",
-  "genus_name": "Oenothera",
-  "family_name": "Onagraceae",
+  "parent_name": "Oenothera",
   "gbif_id": "3188847",
   "powo_id": "613498-1",
   "iucn_id": null,

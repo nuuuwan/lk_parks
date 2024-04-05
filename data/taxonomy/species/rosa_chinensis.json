@@ -1,8 +1,7 @@
 {
   "name": "Rosa chinensis",
   "authorship": "Jacq.",
-  "genus_name": "Rosa",
-  "family_name": "Rosaceae",
+  "parent_name": "Rosa",
   "gbif_id": "3005039",
   "powo_id": "732029-1",
   "iucn_id": null,

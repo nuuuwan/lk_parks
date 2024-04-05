@@ -1,8 +1,7 @@
 {
   "name": "Protium stevensonii",
   "authorship": "(Standl.) Daly",
-  "genus_name": "Protium",
-  "family_name": "Burseraceae",
+  "parent_name": "Protium",
   "gbif_id": "11108033",
   "powo_id": "77202519-1",
   "iucn_id": "176101874",

@@ -1,8 +1,7 @@
 {
   "name": "Pandorea jasminoides",
   "authorship": "(Lindl.) K.Schum.",
-  "genus_name": "Pandorea",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Pandorea",
   "gbif_id": "7298716",
   "powo_id": "110206-1",
   "iucn_id": null,

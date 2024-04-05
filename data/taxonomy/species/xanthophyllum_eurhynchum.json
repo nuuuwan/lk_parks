@@ -1,8 +1,7 @@
 {
   "name": "Xanthophyllum eurhynchum",
   "authorship": "Miq.",
-  "genus_name": "Xanthophyllum",
-  "family_name": "Polygalaceae",
+  "parent_name": "Xanthophyllum",
   "gbif_id": "7293612",
   "powo_id": "692835-1",
   "iucn_id": null,

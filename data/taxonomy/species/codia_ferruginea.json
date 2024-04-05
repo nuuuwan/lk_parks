@@ -1,8 +1,7 @@
 {
   "name": "Codia ferruginea",
   "authorship": "Brongn. & Gris",
-  "genus_name": "Codia",
-  "family_name": "Cunoniaceae",
+  "parent_name": "Codia",
   "gbif_id": "3613236",
   "powo_id": "790701-1",
   "iucn_id": "116167312",

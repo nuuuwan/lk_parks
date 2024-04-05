@@ -1,8 +1,7 @@
 {
   "name": "Latania lontaroides",
   "authorship": "(Gaertn.) H.E.Moore",
-  "genus_name": "Latania",
-  "family_name": "Arecaceae",
+  "parent_name": "Latania",
   "gbif_id": "2739279",
   "powo_id": "667783-1",
   "iucn_id": "38589",

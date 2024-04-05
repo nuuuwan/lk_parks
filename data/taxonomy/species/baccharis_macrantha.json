@@ -1,8 +1,7 @@
 {
   "name": "Baccharis macrantha",
   "authorship": "Kunth",
-  "genus_name": "Baccharis",
-  "family_name": "Asteraceae",
+  "parent_name": "Baccharis",
   "gbif_id": "3129820",
   "powo_id": "303714-2",
   "iucn_id": null,

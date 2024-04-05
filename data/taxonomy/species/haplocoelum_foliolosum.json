@@ -1,8 +1,7 @@
 {
   "name": "Haplocoelum foliolosum",
   "authorship": "(Hiern) Bullock",
-  "genus_name": "Haplocoelum",
-  "family_name": "Sapindaceae",
+  "parent_name": "Haplocoelum",
   "gbif_id": "7265029",
   "powo_id": "783290-1",
   "iucn_id": "153941296",

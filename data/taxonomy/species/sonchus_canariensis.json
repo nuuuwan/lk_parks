@@ -1,8 +1,7 @@
 {
   "name": "Sonchus canariensis",
   "authorship": "(Webb) Boulos",
-  "genus_name": "Sonchus",
-  "family_name": "Asteraceae",
+  "parent_name": "Sonchus",
   "gbif_id": "3105785",
   "powo_id": "250062-1",
   "iucn_id": null,

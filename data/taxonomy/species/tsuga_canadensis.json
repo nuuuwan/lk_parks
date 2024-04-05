@@ -1,8 +1,7 @@
 {
   "name": "Tsuga canadensis",
   "authorship": "(L.) Carri\u00e8re",
-  "genus_name": "Tsuga",
-  "family_name": "Pinaceae",
+  "parent_name": "Tsuga",
   "gbif_id": "2687182",
   "powo_id": "264005-1",
   "iucn_id": "42431",

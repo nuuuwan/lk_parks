@@ -1,8 +1,7 @@
 {
   "name": "Scaevola taccada",
   "authorship": "(Gaertn.) Roxb.",
-  "genus_name": "Scaevola",
-  "family_name": "Goodeniaceae",
+  "parent_name": "Scaevola",
   "gbif_id": "6358362",
   "powo_id": "384339-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Roupala montana",
   "authorship": "Aubl.",
-  "genus_name": "Roupala",
-  "family_name": "Proteaceae",
+  "parent_name": "Roupala",
   "gbif_id": "7831077",
   "powo_id": "706342-1",
   "iucn_id": "61956965",

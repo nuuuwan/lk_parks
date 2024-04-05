@@ -1,8 +1,7 @@
 {
   "name": "Sagina micropetala",
   "authorship": "Rauschert",
-  "genus_name": "Sagina",
-  "family_name": "Caryophyllaceae",
+  "parent_name": "Sagina",
   "gbif_id": "3808928",
   "powo_id": "156485-1",
   "iucn_id": null,

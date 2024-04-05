@@ -1,8 +1,7 @@
 {
   "name": "Dischidia platyphylla",
   "authorship": "Schltr.",
-  "genus_name": "Dischidia",
-  "family_name": "Apocynaceae",
+  "parent_name": "Dischidia",
   "gbif_id": "3582027",
   "powo_id": "97013-1",
   "iucn_id": null,

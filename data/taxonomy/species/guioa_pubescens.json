@@ -1,8 +1,7 @@
 {
   "name": "Guioa pubescens",
   "authorship": "(Zoll. & Moritzi) Radlk.",
-  "genus_name": "Guioa",
-  "family_name": "Sapindaceae",
+  "parent_name": "Guioa",
   "gbif_id": "3787256",
   "powo_id": "783267-1",
   "iucn_id": null,

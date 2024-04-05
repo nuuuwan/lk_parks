@@ -1,8 +1,7 @@
 {
   "name": "Erythrina mitis",
   "authorship": "Jacq.",
-  "genus_name": "Erythrina",
-  "family_name": "Fabaceae",
+  "parent_name": "Erythrina",
   "gbif_id": "5349739",
   "powo_id": "494507-1",
   "iucn_id": "148655626",

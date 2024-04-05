@@ -1,8 +1,7 @@
 {
   "name": "Acer freemanii",
   "authorship": "A.E.Murray",
-  "genus_name": "Acer",
-  "family_name": "Sapindaceae",
+  "parent_name": "Acer",
   "gbif_id": "7379930",
   "powo_id": "56663-1",
   "iucn_id": null,

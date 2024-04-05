@@ -1,8 +1,7 @@
 {
   "name": "Rhododendron alabamense",
   "authorship": "Rehder",
-  "genus_name": "Rhododendron",
-  "family_name": "Ericaceae",
+  "parent_name": "Rhododendron",
   "gbif_id": "2883097",
   "powo_id": "219434-2",
   "iucn_id": null,

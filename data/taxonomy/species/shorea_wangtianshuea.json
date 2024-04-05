@@ -1,8 +1,7 @@
 {
   "name": "Shorea wangtianshuea",
   "authorship": "Y.K.Yang & J.K.Wu",
-  "genus_name": "Shorea",
-  "family_name": "Dipterocarpaceae",
+  "parent_name": "Shorea",
   "gbif_id": "4096465",
   "powo_id": "977758-1",
   "iucn_id": null,

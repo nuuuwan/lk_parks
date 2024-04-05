@@ -1,8 +1,7 @@
 {
   "name": "Vachellia cornigera",
   "authorship": "(L.) Seigler & Ebinger",
-  "genus_name": "Vachellia",
-  "family_name": "Fabaceae",
+  "parent_name": "Vachellia",
   "gbif_id": "3795572",
   "powo_id": "60441209-2",
   "iucn_id": "199008212",

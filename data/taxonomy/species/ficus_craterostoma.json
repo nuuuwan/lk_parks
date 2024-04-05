@@ -1,8 +1,7 @@
 {
   "name": "Ficus craterostoma",
   "authorship": "Warb. ex Mildbr. & Burret",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5569861",
   "powo_id": "583392-1",
   "iucn_id": null,

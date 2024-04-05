@@ -1,8 +1,7 @@
 {
   "name": "Casearia arborea",
   "authorship": "(Rich.) Urb.",
-  "genus_name": "Casearia",
-  "family_name": "Salicaceae",
+  "parent_name": "Casearia",
   "gbif_id": "5331149",
   "powo_id": "47945-2",
   "iucn_id": "150102735",

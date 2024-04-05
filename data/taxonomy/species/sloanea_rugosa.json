@@ -1,8 +1,7 @@
 {
   "name": "Sloanea rugosa",
   "authorship": "Dam.A.Sm.",
-  "genus_name": "Sloanea",
-  "family_name": "Elaeocarpaceae",
+  "parent_name": "Sloanea",
   "gbif_id": "5651191",
   "powo_id": "303623-2",
   "iucn_id": "151998613",

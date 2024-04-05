@@ -1,8 +1,7 @@
 {
   "name": "Gomortega keule",
   "authorship": "(Molina) Baill.",
-  "genus_name": "Gomortega",
-  "family_name": "Gomortegaceae",
+  "parent_name": "Gomortega",
   "gbif_id": "3034096",
   "powo_id": "1151149-2",
   "iucn_id": "31357",

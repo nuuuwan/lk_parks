@@ -1,8 +1,7 @@
 {
   "name": "Boquila trifoliolata",
   "authorship": "(DC.) Decne.",
-  "genus_name": "Boquila",
-  "family_name": "Lardizabalaceae",
+  "parent_name": "Boquila",
   "gbif_id": "7306115",
   "powo_id": "107230-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Verschaffeltia splendida",
   "authorship": "H.Wendl.",
-  "genus_name": "Verschaffeltia",
-  "family_name": "Arecaceae",
+  "parent_name": "Verschaffeltia",
   "gbif_id": "2739116",
   "powo_id": "670228-1",
   "iucn_id": "38722",

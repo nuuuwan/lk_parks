@@ -1,8 +1,7 @@
 {
   "name": "Euphorbia nivulia",
   "authorship": "Buch.-Ham.",
-  "genus_name": "Euphorbia",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Euphorbia",
   "gbif_id": "3064863",
   "powo_id": "347506-1",
   "iucn_id": null,

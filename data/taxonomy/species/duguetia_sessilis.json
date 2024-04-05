@@ -1,8 +1,7 @@
 {
   "name": "Duguetia sessilis",
   "authorship": "(Vell.) Maas",
-  "genus_name": "Duguetia",
-  "family_name": "Annonaceae",
+  "parent_name": "Duguetia",
   "gbif_id": "3157615",
   "powo_id": "979473-1",
   "iucn_id": "152347022",

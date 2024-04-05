@@ -1,8 +1,7 @@
 {
   "name": "Inga spectabilis",
   "authorship": "(Vahl) Willd.",
-  "genus_name": "Inga",
-  "family_name": "Fabaceae",
+  "parent_name": "Inga",
   "gbif_id": "5357491",
   "powo_id": "1122303-2",
   "iucn_id": "129739032",

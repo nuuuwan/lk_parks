@@ -1,8 +1,7 @@
 {
   "name": "Bergenia stracheyi",
   "authorship": "(Hook.f. & Thomson) Engl.",
-  "genus_name": "Bergenia",
-  "family_name": "Saxifragaceae",
+  "parent_name": "Bergenia",
   "gbif_id": "5567649",
   "powo_id": "790385-1",
   "iucn_id": null,

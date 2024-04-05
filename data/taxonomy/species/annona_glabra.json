@@ -1,8 +1,7 @@
 {
   "name": "Annona glabra",
   "authorship": "L.",
-  "genus_name": "Annona",
-  "family_name": "Annonaceae",
+  "parent_name": "Annona",
   "gbif_id": "5407100",
   "powo_id": "72208-1",
   "iucn_id": "142424510",

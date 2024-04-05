@@ -1,8 +1,7 @@
 {
   "name": "Hirtella triandra",
   "authorship": "Sw.",
-  "genus_name": "Hirtella",
-  "family_name": "Chrysobalanaceae",
+  "parent_name": "Hirtella",
   "gbif_id": "2985089",
   "powo_id": "725631-1",
   "iucn_id": "180249139",

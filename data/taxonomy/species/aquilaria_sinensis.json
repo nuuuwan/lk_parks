@@ -1,8 +1,7 @@
 {
   "name": "Aquilaria sinensis",
   "authorship": "(Lour.) Spreng.",
-  "genus_name": "Aquilaria",
-  "family_name": "Thymelaeaceae",
+  "parent_name": "Aquilaria",
   "gbif_id": "5523984",
   "powo_id": "830849-1",
   "iucn_id": "32382",

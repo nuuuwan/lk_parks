@@ -1,8 +1,7 @@
 {
   "name": "Lobularia maritima",
   "authorship": "(L.) Desv.",
-  "genus_name": "Lobularia",
-  "family_name": "Brassicaceae",
+  "parent_name": "Lobularia",
   "gbif_id": "5373358",
   "powo_id": "1085072-2",
   "iucn_id": null,

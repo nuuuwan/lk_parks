@@ -1,8 +1,7 @@
 {
   "name": "Camellia azalea",
   "authorship": "C.F.Wei",
-  "genus_name": "Camellia",
-  "family_name": "Theaceae",
+  "parent_name": "Camellia",
   "gbif_id": "3591076",
   "powo_id": "930896-1",
   "iucn_id": "191808",

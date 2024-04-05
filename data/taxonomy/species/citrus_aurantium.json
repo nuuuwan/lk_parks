@@ -1,8 +1,7 @@
 {
   "name": "Citrus aurantium",
   "authorship": "L.",
-  "genus_name": "Citrus",
-  "family_name": "Rutaceae",
+  "parent_name": "Citrus",
   "gbif_id": "8077391",
   "powo_id": "59600-2",
   "iucn_id": null,

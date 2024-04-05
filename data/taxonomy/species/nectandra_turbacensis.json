@@ -1,8 +1,7 @@
 {
   "name": "Nectandra turbacensis",
   "authorship": "(Kunth) Nees",
-  "genus_name": "Nectandra",
-  "family_name": "Lauraceae",
+  "parent_name": "Nectandra",
   "gbif_id": "5371729",
   "powo_id": "466885-1",
   "iucn_id": "143822730",

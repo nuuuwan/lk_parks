@@ -1,8 +1,7 @@
 {
   "name": "Chamaemespilus alpina",
   "authorship": "(Mill.) K.R.Robertson & J.B.Phipps",
-  "genus_name": "Chamaemespilus",
-  "family_name": "Rosaceae",
+  "parent_name": "Chamaemespilus",
   "gbif_id": "3025093",
   "powo_id": "962563-1",
   "iucn_id": null,

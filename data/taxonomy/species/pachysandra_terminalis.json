@@ -1,8 +1,7 @@
 {
   "name": "Pachysandra terminalis",
   "authorship": "Siebold & Zucc.",
-  "genus_name": "Pachysandra",
-  "family_name": "Buxaceae",
+  "parent_name": "Pachysandra",
   "gbif_id": "2984676",
   "powo_id": "353208-1",
   "iucn_id": null,

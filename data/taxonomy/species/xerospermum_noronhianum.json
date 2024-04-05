@@ -1,8 +1,7 @@
 {
   "name": "Xerospermum noronhianum",
   "authorship": "(Blume) Blume",
-  "genus_name": "Xerospermum",
-  "family_name": "Sapindaceae",
+  "parent_name": "Xerospermum",
   "gbif_id": "9209685",
   "powo_id": "785626-1",
   "iucn_id": null,

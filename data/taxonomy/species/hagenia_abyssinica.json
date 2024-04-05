@@ -1,8 +1,7 @@
 {
   "name": "Hagenia abyssinica",
   "authorship": "(Bruce) J.F.Gmel.",
-  "genus_name": "Hagenia",
-  "family_name": "Rosaceae",
+  "parent_name": "Hagenia",
   "gbif_id": "5370415",
   "powo_id": "725448-1",
   "iucn_id": "117894181",

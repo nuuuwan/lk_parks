@@ -1,8 +1,7 @@
 {
   "name": "Vesalea grandifolia",
   "authorship": "(Villarreal) Hua Feng Wang & Landrein",
-  "genus_name": "Vesalea",
-  "family_name": "Caprifoliaceae",
+  "parent_name": "Vesalea",
   "gbif_id": "9817202",
   "powo_id": "77214895-1",
   "iucn_id": null,

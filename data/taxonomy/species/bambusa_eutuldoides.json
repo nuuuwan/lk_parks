@@ -1,8 +1,7 @@
 {
   "name": "Bambusa eutuldoides",
   "authorship": "McClure",
-  "genus_name": "Bambusa",
-  "family_name": "Poaceae",
+  "parent_name": "Bambusa",
   "gbif_id": "4143478",
   "powo_id": "392318-1",
   "iucn_id": null,

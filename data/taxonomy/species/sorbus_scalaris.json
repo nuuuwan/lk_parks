@@ -1,8 +1,7 @@
 {
   "name": "Sorbus scalaris",
   "authorship": "Koehne",
-  "genus_name": "Sorbus",
-  "family_name": "Rosaceae",
+  "parent_name": "Sorbus",
   "gbif_id": "3012791",
   "powo_id": "741962-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Pinguicula corsica",
   "authorship": "Bernard & Gren.",
-  "genus_name": "Pinguicula",
-  "family_name": "Lentibulariaceae",
+  "parent_name": "Pinguicula",
   "gbif_id": "5667804",
   "powo_id": "526436-1",
   "iucn_id": "157939",

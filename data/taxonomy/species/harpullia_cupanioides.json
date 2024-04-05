@@ -1,8 +1,7 @@
 {
   "name": "Harpullia cupanioides",
   "authorship": "Roxb.",
-  "genus_name": "Harpullia",
-  "family_name": "Sapindaceae",
+  "parent_name": "Harpullia",
   "gbif_id": "3786912",
   "powo_id": "783313-1",
   "iucn_id": "147627889",

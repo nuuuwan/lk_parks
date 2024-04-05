@@ -1,8 +1,7 @@
 {
   "name": "Borassus aethiopum",
   "authorship": "Mart.",
-  "genus_name": "Borassus",
-  "family_name": "Arecaceae",
+  "parent_name": "Borassus",
   "gbif_id": "2733925",
   "powo_id": "664869-1",
   "iucn_id": "195913",

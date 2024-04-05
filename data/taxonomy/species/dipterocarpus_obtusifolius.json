@@ -1,8 +1,7 @@
 {
   "name": "Dipterocarpus obtusifolius",
   "authorship": "Teijsm. ex Miq.",
-  "genus_name": "Dipterocarpus",
-  "family_name": "Dipterocarpaceae",
+  "parent_name": "Dipterocarpus",
   "gbif_id": "4096576",
   "powo_id": "320727-1",
   "iucn_id": "33014",

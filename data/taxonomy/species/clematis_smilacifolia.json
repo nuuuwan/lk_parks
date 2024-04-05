@@ -1,8 +1,7 @@
 {
   "name": "Clematis smilacifolia",
   "authorship": "Wall.",
-  "genus_name": "Clematis",
-  "family_name": "Ranunculaceae",
+  "parent_name": "Clematis",
   "gbif_id": "7277742",
   "powo_id": "710071-1",
   "iucn_id": null,

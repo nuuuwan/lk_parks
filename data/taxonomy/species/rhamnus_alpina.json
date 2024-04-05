@@ -1,8 +1,7 @@
 {
   "name": "Rhamnus alpina",
   "authorship": "L.",
-  "genus_name": "Rhamnus",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Rhamnus",
   "gbif_id": "7273705",
   "powo_id": "324982-2",
   "iucn_id": "83772373",

@@ -1,8 +1,7 @@
 {
   "name": "Peperomia rotundifolia",
   "authorship": "(L.) Kunth",
-  "genus_name": "Peperomia",
-  "family_name": "Piperaceae",
+  "parent_name": "Peperomia",
   "gbif_id": "3086378",
   "powo_id": "189588-2",
   "iucn_id": null,

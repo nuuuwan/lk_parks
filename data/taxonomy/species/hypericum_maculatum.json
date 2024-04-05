@@ -1,8 +1,7 @@
 {
   "name": "Hypericum maculatum",
   "authorship": "Crantz",
-  "genus_name": "Hypericum",
-  "family_name": "Hypericaceae",
+  "parent_name": "Hypericum",
   "gbif_id": "6437017",
   "powo_id": "325096-2",
   "iucn_id": null,

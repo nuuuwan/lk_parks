@@ -1,8 +1,7 @@
 {
   "name": "Arthroclianthus angustifolius",
   "authorship": "Hochr.",
-  "genus_name": "Arthroclianthus",
-  "family_name": "Fabaceae",
+  "parent_name": "Arthroclianthus",
   "gbif_id": "3980015",
   "powo_id": "475292-1",
   "iucn_id": null,

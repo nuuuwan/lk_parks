@@ -1,8 +1,7 @@
 {
   "name": "Inga mortoniana",
   "authorship": "J.Le\u00f3n",
-  "genus_name": "Inga",
-  "family_name": "Fabaceae",
+  "parent_name": "Inga",
   "gbif_id": "5357561",
   "powo_id": "128626-2",
   "iucn_id": "38260",

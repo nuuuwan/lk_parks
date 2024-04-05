@@ -1,8 +1,7 @@
 {
   "name": "Pritchardia munroi",
   "authorship": "Rock",
-  "genus_name": "Pritchardia",
-  "family_name": "Arecaceae",
+  "parent_name": "Pritchardia",
   "gbif_id": "5294623",
   "powo_id": "669287-1",
   "iucn_id": "38650",

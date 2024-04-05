@@ -1,8 +1,7 @@
 {
   "name": "Furcraea foetida",
   "authorship": "(L.) Haw.",
-  "genus_name": "Furcraea",
-  "family_name": "Asparagaceae",
+  "parent_name": "Furcraea",
   "gbif_id": "2769796",
   "powo_id": "64429-1",
   "iucn_id": null,

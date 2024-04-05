@@ -1,8 +1,7 @@
 {
   "name": "Panicum capillare",
   "authorship": "L.",
-  "genus_name": "Panicum",
-  "family_name": "Poaceae",
+  "parent_name": "Panicum",
   "gbif_id": "2705162",
   "powo_id": "181618-2",
   "iucn_id": null,

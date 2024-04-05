@@ -1,8 +1,7 @@
 {
   "name": "Drypetes deplanchei",
   "authorship": "(Brongn. & Gris) Merr.",
-  "genus_name": "Drypetes",
-  "family_name": "Putranjivaceae",
+  "parent_name": "Drypetes",
   "gbif_id": "3076038",
   "powo_id": "345008-1",
   "iucn_id": "146629054",

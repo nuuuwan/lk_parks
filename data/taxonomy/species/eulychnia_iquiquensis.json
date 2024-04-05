@@ -1,8 +1,7 @@
 {
   "name": "Eulychnia iquiquensis",
   "authorship": "(K.Schum.) Britton & Rose",
-  "genus_name": "Eulychnia",
-  "family_name": "Cactaceae",
+  "parent_name": "Eulychnia",
   "gbif_id": "7284715",
   "powo_id": "99321-2",
   "iucn_id": "152841",

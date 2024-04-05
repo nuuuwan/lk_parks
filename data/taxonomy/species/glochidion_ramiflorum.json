@@ -1,8 +1,7 @@
 {
   "name": "Glochidion ramiflorum",
   "authorship": "J.R.Forst. & G.Forst.",
-  "genus_name": "Glochidion",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Glochidion",
   "gbif_id": "3080532",
   "powo_id": "349603-1",
   "iucn_id": "147004139",

@@ -1,8 +1,7 @@
 {
   "name": "Andesanthus lepidotus",
   "authorship": "(Humb. & Bonpl.) P.J.F.Guim. & Michelang.",
-  "genus_name": "Andesanthus",
-  "family_name": "Melastomataceae",
+  "parent_name": "Andesanthus",
   "gbif_id": "10767444",
   "powo_id": "77205900-1",
   "iucn_id": "223103566",

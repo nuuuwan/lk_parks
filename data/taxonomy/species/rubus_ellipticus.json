@@ -1,8 +1,7 @@
 {
   "name": "Rubus ellipticus",
   "authorship": "Sm.",
-  "genus_name": "Rubus",
-  "family_name": "Rosaceae",
+  "parent_name": "Rubus",
   "gbif_id": "2991314",
   "powo_id": "736506-1",
   "iucn_id": "49484707",

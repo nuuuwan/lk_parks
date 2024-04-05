@@ -1,8 +1,7 @@
 {
   "name": "Amaranthus tricolor",
   "authorship": "L.",
-  "genus_name": "Amaranthus",
-  "family_name": "Amaranthaceae",
+  "parent_name": "Amaranthus",
   "gbif_id": "5384397",
   "powo_id": "327386-2",
   "iucn_id": null,

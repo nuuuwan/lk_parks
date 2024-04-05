@@ -1,8 +1,7 @@
 {
   "name": "Sphaeropteris robusta",
   "authorship": "(Holttum) R.M.Tryon",
-  "genus_name": "Sphaeropteris",
-  "family_name": "Cyatheaceae",
+  "parent_name": "Sphaeropteris",
   "gbif_id": "5529544",
   "powo_id": "17532570-1",
   "iucn_id": null,

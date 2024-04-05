@@ -1,8 +1,7 @@
 {
   "name": "Edgeworthia gardneri",
   "authorship": "(Wall.) Meisn.",
-  "genus_name": "Edgeworthia",
-  "family_name": "Thymelaeaceae",
+  "parent_name": "Edgeworthia",
   "gbif_id": "5523712",
   "powo_id": "831626-1",
   "iucn_id": "150283975",

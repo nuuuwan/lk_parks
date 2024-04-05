@@ -1,8 +1,7 @@
 {
   "name": "Rhododendron kaempferi",
   "authorship": "Planch.",
-  "genus_name": "Rhododendron",
-  "family_name": "Ericaceae",
+  "parent_name": "Rhododendron",
   "gbif_id": "7135965",
   "powo_id": "332661-1",
   "iucn_id": null,

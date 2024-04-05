@@ -1,8 +1,7 @@
 {
   "name": "Phormium tenax",
   "authorship": "J.R.Forst. & G.Forst.",
-  "genus_name": "Phormium",
-  "family_name": "Xanthorrhoeaceae",
+  "parent_name": "Phormium",
   "gbif_id": "2778511",
   "powo_id": "539926-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Acacia pentadenia",
   "authorship": "Lindl.",
-  "genus_name": "Acacia",
-  "family_name": "Fabaceae",
+  "parent_name": "Acacia",
   "gbif_id": "2978989",
   "powo_id": "471115-1",
   "iucn_id": "172927486",

@@ -1,8 +1,7 @@
 {
   "name": "Lithocarpus harlandii",
   "authorship": "(Hance ex Walp.) Rehder",
-  "genus_name": "Lithocarpus",
-  "family_name": "Fagaceae",
+  "parent_name": "Lithocarpus",
   "gbif_id": "5332445",
   "powo_id": "358783-1",
   "iucn_id": "138595514",

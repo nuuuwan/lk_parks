@@ -1,8 +1,7 @@
 {
   "name": "Xanthophyllum ellipticum",
   "authorship": "Korth. ex Miq.",
-  "genus_name": "Xanthophyllum",
-  "family_name": "Polygalaceae",
+  "parent_name": "Xanthophyllum",
   "gbif_id": "4051861",
   "powo_id": "692833-1",
   "iucn_id": "162141276",

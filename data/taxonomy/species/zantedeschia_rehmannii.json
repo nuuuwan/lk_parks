@@ -1,8 +1,7 @@
 {
   "name": "Zantedeschia rehmannii",
   "authorship": "Engl.",
-  "genus_name": "Zantedeschia",
-  "family_name": "Araceae",
+  "parent_name": "Zantedeschia",
   "gbif_id": "2868821",
   "powo_id": "89425-1",
   "iucn_id": null,

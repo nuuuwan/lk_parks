@@ -1,8 +1,7 @@
 {
   "name": "Asimina obovata",
   "authorship": "(Willd.) Nash",
-  "genus_name": "Asimina",
-  "family_name": "Annonaceae",
+  "parent_name": "Asimina",
   "gbif_id": "3158034",
   "powo_id": "21380-2",
   "iucn_id": "152335000",

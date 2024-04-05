@@ -1,8 +1,7 @@
 {
   "name": "Annona crassiflora",
   "authorship": "Mart.",
-  "genus_name": "Annona",
-  "family_name": "Annonaceae",
+  "parent_name": "Annona",
   "gbif_id": "5407096",
   "powo_id": "72185-1",
   "iucn_id": "143324534",

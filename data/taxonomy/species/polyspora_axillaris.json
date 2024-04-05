@@ -1,8 +1,7 @@
 {
   "name": "Polyspora axillaris",
   "authorship": "(Roxb. ex Ker Gawl.) Sweet",
-  "genus_name": "Polyspora",
-  "family_name": "Theaceae",
+  "parent_name": "Polyspora",
   "gbif_id": "7313778",
   "powo_id": "829225-1",
   "iucn_id": "62079045",

@@ -1,8 +1,7 @@
 {
   "name": "Gymnema sylvestre",
   "authorship": "(Retz.) R.Br. ex Sm.",
-  "genus_name": "Gymnema",
-  "family_name": "Apocynaceae",
+  "parent_name": "Gymnema",
   "gbif_id": "8040540",
   "powo_id": "60454719-2",
   "iucn_id": null,

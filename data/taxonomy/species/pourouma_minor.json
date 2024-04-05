@@ -1,8 +1,7 @@
 {
   "name": "Pourouma minor",
   "authorship": "Benoist",
-  "genus_name": "Pourouma",
-  "family_name": "Urticaceae",
+  "parent_name": "Pourouma",
   "gbif_id": "4013658",
   "powo_id": "283697-2",
   "iucn_id": "149933766",

@@ -1,8 +1,7 @@
 {
   "name": "Echium candicans",
   "authorship": "L.f.",
-  "genus_name": "Echium",
-  "family_name": "Boraginaceae",
+  "parent_name": "Echium",
   "gbif_id": "7551118",
   "powo_id": "115594-1",
   "iucn_id": "162036",

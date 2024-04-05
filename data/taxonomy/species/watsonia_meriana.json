@@ -1,8 +1,7 @@
 {
   "name": "Watsonia meriana",
   "authorship": "(L.) Mill.",
-  "genus_name": "Watsonia",
-  "family_name": "Iridaceae",
+  "parent_name": "Watsonia",
   "gbif_id": "5297768",
   "powo_id": "441955-1",
   "iucn_id": null,

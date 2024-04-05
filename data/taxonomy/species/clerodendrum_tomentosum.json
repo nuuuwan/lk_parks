@@ -1,8 +1,7 @@
 {
   "name": "Clerodendrum tomentosum",
   "authorship": "(Vent.) R.Br.",
-  "genus_name": "Clerodendrum",
-  "family_name": "Lamiaceae",
+  "parent_name": "Clerodendrum",
   "gbif_id": "7297322",
   "powo_id": "862442-1",
   "iucn_id": "146625451",

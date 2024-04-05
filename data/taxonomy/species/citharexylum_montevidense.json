@@ -1,8 +1,7 @@
 {
   "name": "Citharexylum montevidense",
   "authorship": "(Spreng.) Moldenke",
-  "genus_name": "Citharexylum",
-  "family_name": "Verbenaceae",
+  "parent_name": "Citharexylum",
   "gbif_id": "4086874",
   "powo_id": "59496-2",
   "iucn_id": "163032650",

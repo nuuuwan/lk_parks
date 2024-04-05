@@ -1,8 +1,7 @@
 {
   "name": "Achyranthes aspera",
   "authorship": "L.",
-  "genus_name": "Achyranthes",
-  "family_name": "Amaranthaceae",
+  "parent_name": "Achyranthes",
   "gbif_id": "3085168",
   "powo_id": "2468-2",
   "iucn_id": null,

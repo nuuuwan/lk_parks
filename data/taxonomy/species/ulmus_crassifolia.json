@@ -1,8 +1,7 @@
 {
   "name": "Ulmus crassifolia",
   "authorship": "Nutt.",
-  "genus_name": "Ulmus",
-  "family_name": "Ulmaceae",
+  "parent_name": "Ulmus",
   "gbif_id": "5361871",
   "powo_id": "302278-2",
   "iucn_id": "61966946",

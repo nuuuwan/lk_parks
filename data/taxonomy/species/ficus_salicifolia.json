@@ -1,8 +1,7 @@
 {
   "name": "Ficus salicifolia",
   "authorship": "Vahl",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5571063",
   "powo_id": "853634-1",
   "iucn_id": null,

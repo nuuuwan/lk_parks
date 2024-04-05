@@ -1,8 +1,7 @@
 {
   "name": "Malus prunifolia",
   "authorship": "(Willd.) Borkh.",
-  "genus_name": "Malus",
-  "family_name": "Rosaceae",
+  "parent_name": "Malus",
   "gbif_id": "3001157",
   "powo_id": "726369-1",
   "iucn_id": "50050135",

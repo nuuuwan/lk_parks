@@ -1,8 +1,7 @@
 {
   "name": "Fagraea berteroana",
   "authorship": "A.Gray ex Benth.",
-  "genus_name": "Fagraea",
-  "family_name": "Gentianaceae",
+  "parent_name": "Fagraea",
   "gbif_id": "6388630",
   "powo_id": "546101-1",
   "iucn_id": "135880588",

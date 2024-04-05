@@ -1,8 +1,7 @@
 {
   "name": "Euphorbia dendroides",
   "authorship": "L.",
-  "genus_name": "Euphorbia",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Euphorbia",
   "gbif_id": "3067398",
   "powo_id": "346252-1",
   "iucn_id": "79914128",

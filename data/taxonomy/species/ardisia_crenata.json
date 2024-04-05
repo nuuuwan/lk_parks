@@ -1,8 +1,7 @@
 {
   "name": "Ardisia crenata",
   "authorship": "Sims",
-  "genus_name": "Ardisia",
-  "family_name": "Primulaceae",
+  "parent_name": "Ardisia",
   "gbif_id": "5414379",
   "powo_id": "586890-1",
   "iucn_id": null,

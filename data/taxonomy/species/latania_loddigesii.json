@@ -1,8 +1,7 @@
 {
   "name": "Latania loddigesii",
   "authorship": "Mart.",
-  "genus_name": "Latania",
-  "family_name": "Arecaceae",
+  "parent_name": "Latania",
   "gbif_id": "2739274",
   "powo_id": "667782-1",
   "iucn_id": "38588",

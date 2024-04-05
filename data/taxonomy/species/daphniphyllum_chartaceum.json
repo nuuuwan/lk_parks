@@ -1,8 +1,7 @@
 {
   "name": "Daphniphyllum chartaceum",
   "authorship": "K.Rosenthal",
-  "genus_name": "Daphniphyllum",
-  "family_name": "Daphniphyllaceae",
+  "parent_name": "Daphniphyllum",
   "gbif_id": "4262000",
   "powo_id": "344221-1",
   "iucn_id": null,

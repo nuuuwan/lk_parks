@@ -1,8 +1,7 @@
 {
   "name": "Paeonia ludlowii",
   "authorship": "(Stern & G.Taylor) D.Y.Hong",
-  "genus_name": "Paeonia",
-  "family_name": "Paeoniaceae",
+  "parent_name": "Paeonia",
   "gbif_id": "3614227",
   "powo_id": "996196-1",
   "iucn_id": null,

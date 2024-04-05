@@ -1,8 +1,7 @@
 {
   "name": "Lonicera sempervirens",
   "authorship": "L.",
-  "genus_name": "Lonicera",
-  "family_name": "Caprifoliaceae",
+  "parent_name": "Lonicera",
   "gbif_id": "5334239",
   "powo_id": "30080890-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Hormathophylla lapeyrouseana",
   "authorship": "(Jord.) P.K\u00fcpfer",
-  "genus_name": "Hormathophylla",
-  "family_name": "Brassicaceae",
+  "parent_name": "Hormathophylla",
   "gbif_id": "10866017",
   "powo_id": "285367-1",
   "iucn_id": null,

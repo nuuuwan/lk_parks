@@ -1,8 +1,7 @@
 {
   "name": "Justicia flava",
   "authorship": "(Forssk.) Vahl",
-  "genus_name": "Justicia",
-  "family_name": "Acanthaceae",
+  "parent_name": "Justicia",
   "gbif_id": "7494800",
   "powo_id": "50729-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Urochloa dictyoneura",
   "authorship": "(Fig. & De Not.) Veldkamp",
-  "genus_name": "Urochloa",
-  "family_name": "Poaceae",
+  "parent_name": "Urochloa",
   "gbif_id": "4150823",
   "powo_id": "992521-1",
   "iucn_id": null,

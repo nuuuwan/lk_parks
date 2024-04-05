@@ -1,8 +1,7 @@
 {
   "name": "Sida ciliaris",
   "authorship": "L.",
-  "genus_name": "Sida",
-  "family_name": "Malvaceae",
+  "parent_name": "Sida",
   "gbif_id": "5406724",
   "powo_id": "313702-2",
   "iucn_id": null,

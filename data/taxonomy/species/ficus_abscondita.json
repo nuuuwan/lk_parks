@@ -1,8 +1,7 @@
 {
   "name": "Ficus abscondita",
   "authorship": "C.C.Berg",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5570178",
   "powo_id": "583158-1",
   "iucn_id": "202810",

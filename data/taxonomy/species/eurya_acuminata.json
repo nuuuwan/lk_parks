@@ -1,8 +1,7 @@
 {
   "name": "Eurya acuminata",
   "authorship": "DC.",
-  "genus_name": "Eurya",
-  "family_name": "Pentaphylacaceae",
+  "parent_name": "Eurya",
   "gbif_id": "3591824",
   "powo_id": "828687-1",
   "iucn_id": "176684275",

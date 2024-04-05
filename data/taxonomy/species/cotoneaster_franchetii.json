@@ -1,8 +1,7 @@
 {
   "name": "Cotoneaster franchetii",
   "authorship": "Bois",
-  "genus_name": "Cotoneaster",
-  "family_name": "Rosaceae",
+  "parent_name": "Cotoneaster",
   "gbif_id": "3026162",
   "powo_id": "722494-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Ficus fulva",
   "authorship": "Reinw. ex Blume",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5571361",
   "powo_id": "852867-1",
   "iucn_id": "147493418",

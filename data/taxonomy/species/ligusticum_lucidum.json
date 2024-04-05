@@ -1,8 +1,7 @@
 {
   "name": "Ligusticum lucidum",
   "authorship": "Mill.",
-  "genus_name": "Ligusticum",
-  "family_name": "Apiaceae",
+  "parent_name": "Ligusticum",
   "gbif_id": "6027074",
   "powo_id": "844517-1",
   "iucn_id": null,

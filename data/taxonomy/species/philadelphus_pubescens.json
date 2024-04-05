@@ -1,8 +1,7 @@
 {
   "name": "Philadelphus pubescens",
   "authorship": "Loisel.",
-  "genus_name": "Philadelphus",
-  "family_name": "Hydrangeaceae",
+  "parent_name": "Philadelphus",
   "gbif_id": "2986022",
   "powo_id": "192847-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Hesperocyparis lusitanica",
   "authorship": "(Mill.) Bartel",
-  "genus_name": "Hesperocyparis",
-  "family_name": "Cupressaceae",
+  "parent_name": "Hesperocyparis",
   "gbif_id": "2684069",
   "powo_id": "60451554-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Thiollierea propinqua",
   "authorship": "(Brongn. & Gris) Paudyal & Delprete",
-  "genus_name": "Thiollierea",
-  "family_name": "Rubiaceae",
+  "parent_name": "Thiollierea",
   "gbif_id": "10934742",
   "powo_id": "77187969-1",
   "iucn_id": "158159914",

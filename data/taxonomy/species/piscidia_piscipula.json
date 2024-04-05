@@ -1,8 +1,7 @@
 {
   "name": "Piscidia piscipula",
   "authorship": "(L.) Sarg.",
-  "genus_name": "Piscidia",
-  "family_name": "Fabaceae",
+  "parent_name": "Piscidia",
   "gbif_id": "2956069",
   "powo_id": "199978-2",
   "iucn_id": "156770819",

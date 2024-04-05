@@ -1,8 +1,7 @@
 {
   "name": "Guatteria amplifolia",
   "authorship": "Triana & Planch.",
-  "genus_name": "Guatteria",
-  "family_name": "Annonaceae",
+  "parent_name": "Guatteria",
   "gbif_id": "3155625",
   "powo_id": "73306-1",
   "iucn_id": "98417410",

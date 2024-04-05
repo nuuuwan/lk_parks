@@ -1,8 +1,7 @@
 {
   "name": "Sporobolus africanus",
   "authorship": "(Poir.) Robyns & Tournay",
-  "genus_name": "Sporobolus",
-  "family_name": "Poaceae",
+  "parent_name": "Sporobolus",
   "gbif_id": "4152259",
   "powo_id": "422594-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Eleocharis uniglumis",
   "authorship": "(Link) Schult.",
-  "genus_name": "Eleocharis",
-  "family_name": "Cyperaceae",
+  "parent_name": "Eleocharis",
   "gbif_id": "2717910",
   "powo_id": "307177-1",
   "iucn_id": "164239",

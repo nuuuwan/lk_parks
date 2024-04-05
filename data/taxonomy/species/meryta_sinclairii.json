@@ -1,8 +1,7 @@
 {
   "name": "Meryta sinclairii",
   "authorship": "(Hook.f.) Seem.",
-  "genus_name": "Meryta",
-  "family_name": "Araliaceae",
+  "parent_name": "Meryta",
   "gbif_id": "3036415",
   "powo_id": "91039-1",
   "iucn_id": "34300",

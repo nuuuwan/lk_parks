@@ -1,8 +1,7 @@
 {
   "name": "Terminalia amazonia",
   "authorship": "(J.F.Gmel.) Exell",
-  "genus_name": "Terminalia",
-  "family_name": "Combretaceae",
+  "parent_name": "Terminalia",
   "gbif_id": "3699754",
   "powo_id": "250537-2",
   "iucn_id": "61989583",

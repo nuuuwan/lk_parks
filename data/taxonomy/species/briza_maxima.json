@@ -1,8 +1,7 @@
 {
   "name": "Briza maxima",
   "authorship": "L.",
-  "genus_name": "Briza",
-  "family_name": "Poaceae",
+  "parent_name": "Briza",
   "gbif_id": "2702792",
   "powo_id": "393293-1",
   "iucn_id": null,

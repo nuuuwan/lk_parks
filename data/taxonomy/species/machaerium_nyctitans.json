@@ -1,8 +1,7 @@
 {
   "name": "Machaerium nyctitans",
   "authorship": "(Vell.) Benth.",
-  "genus_name": "Machaerium",
-  "family_name": "Fabaceae",
+  "parent_name": "Machaerium",
   "gbif_id": "5355127",
   "powo_id": "505530-1",
   "iucn_id": "144313294",

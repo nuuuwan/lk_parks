@@ -1,8 +1,7 @@
 {
   "name": "Polystichum lonchitis",
   "authorship": "(L.) Roth",
-  "genus_name": "Polystichum",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Polystichum",
   "gbif_id": "2651113",
   "powo_id": "17414110-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Acer cissifolium",
   "authorship": "(Siebold & Zucc.) K.Koch",
-  "genus_name": "Acer",
-  "family_name": "Sapindaceae",
+  "parent_name": "Acer",
   "gbif_id": "3768287",
   "powo_id": "781261-1",
   "iucn_id": "193534",

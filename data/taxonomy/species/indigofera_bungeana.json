@@ -1,8 +1,7 @@
 {
   "name": "Indigofera bungeana",
   "authorship": "Walp.",
-  "genus_name": "Indigofera",
-  "family_name": "Fabaceae",
+  "parent_name": "Indigofera",
   "gbif_id": "2971649",
   "powo_id": "499085-1",
   "iucn_id": "19891623",

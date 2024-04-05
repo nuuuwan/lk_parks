@@ -1,8 +1,7 @@
 {
   "name": "Veitchia metiti",
   "authorship": "Becc.",
-  "genus_name": "Veitchia",
-  "family_name": "Arecaceae",
+  "parent_name": "Veitchia",
   "gbif_id": "5293076",
   "powo_id": "670214-1",
   "iucn_id": "38715",

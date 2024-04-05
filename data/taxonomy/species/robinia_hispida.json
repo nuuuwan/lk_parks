@@ -1,8 +1,7 @@
 {
   "name": "Robinia hispida",
   "authorship": "L.",
-  "genus_name": "Robinia",
-  "family_name": "Fabaceae",
+  "parent_name": "Robinia",
   "gbif_id": "5352221",
   "powo_id": "517689-1",
   "iucn_id": "19892296",

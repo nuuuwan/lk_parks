@@ -1,8 +1,7 @@
 {
   "name": "Mespilodaphne morae",
   "authorship": "(G\u00f3mez-Laur.) Trofimov",
-  "genus_name": "Mespilodaphne",
-  "family_name": "Lauraceae",
+  "parent_name": "Mespilodaphne",
   "gbif_id": "11077015",
   "powo_id": "77198016-1",
   "iucn_id": "149470993",

@@ -1,8 +1,7 @@
 {
   "name": "Baccaurea ramiflora",
   "authorship": "Lour.",
-  "genus_name": "Baccaurea",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Baccaurea",
   "gbif_id": "3082142",
   "powo_id": "339677-1",
   "iucn_id": "147616045",

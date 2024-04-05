@@ -1,8 +1,7 @@
 {
   "name": "Lemna turionifera",
   "authorship": "Landolt",
-  "genus_name": "Lemna",
-  "family_name": "Araceae",
+  "parent_name": "Lemna",
   "gbif_id": "2867631",
   "powo_id": "526224-1",
   "iucn_id": "167881",

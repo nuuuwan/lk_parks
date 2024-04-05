@@ -1,8 +1,7 @@
 {
   "name": "Baikiaea plurijuga",
   "authorship": "Harms",
-  "genus_name": "Baikiaea",
-  "family_name": "Fabaceae",
+  "parent_name": "Baikiaea",
   "gbif_id": "2943830",
   "powo_id": "480802-1",
   "iucn_id": "33188",

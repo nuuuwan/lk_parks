@@ -1,8 +1,7 @@
 {
   "name": "Kalanchoe laxiflora",
   "authorship": "Baker",
-  "genus_name": "Kalanchoe",
-  "family_name": "Crassulaceae",
+  "parent_name": "Kalanchoe",
   "gbif_id": "2985945",
   "powo_id": "274388-1",
   "iucn_id": null,

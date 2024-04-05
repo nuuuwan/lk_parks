@@ -1,8 +1,7 @@
 {
   "name": "Sapranthus palanga",
   "authorship": "R.E.Fr.",
-  "genus_name": "Sapranthus",
-  "family_name": "Annonaceae",
+  "parent_name": "Sapranthus",
   "gbif_id": "3154711",
   "powo_id": "227635-2",
   "iucn_id": "143350827",

@@ -1,8 +1,7 @@
 {
   "name": "Podocarpus urbanii",
   "authorship": "Pilg.",
-  "genus_name": "Podocarpus",
-  "family_name": "Podocarpaceae",
+  "parent_name": "Podocarpus",
   "gbif_id": "5286020",
   "powo_id": "204619-2",
   "iucn_id": "34106",

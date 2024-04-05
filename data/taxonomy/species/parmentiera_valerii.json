@@ -1,8 +1,7 @@
 {
   "name": "Parmentiera valerii",
   "authorship": "Standl.",
-  "genus_name": "Parmentiera",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Parmentiera",
   "gbif_id": "5668542",
   "powo_id": "183298-2",
   "iucn_id": "152000363",

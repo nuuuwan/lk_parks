@@ -1,8 +1,7 @@
 {
   "name": "Ochrosia oppositifolia",
   "authorship": "(Lam.) K.Schum.",
-  "genus_name": "Ochrosia",
-  "family_name": "Apocynaceae",
+  "parent_name": "Ochrosia",
   "gbif_id": "3617566",
   "powo_id": "80534-1",
   "iucn_id": "155987140",

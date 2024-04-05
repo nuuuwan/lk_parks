@@ -1,8 +1,7 @@
 {
   "name": "Dilodendron costaricense",
   "authorship": "(Radlk.) A.H.Gentry & Steyerm.",
-  "genus_name": "Dilodendron",
-  "family_name": "Sapindaceae",
+  "parent_name": "Dilodendron",
   "gbif_id": "3787484",
   "powo_id": "944887-1",
   "iucn_id": "151973322",

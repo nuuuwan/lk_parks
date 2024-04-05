@@ -1,8 +1,7 @@
 {
   "name": "Gynostemma pentaphyllum",
   "authorship": "(Thunb.) Makino",
-  "genus_name": "Gynostemma",
-  "family_name": "Cucurbitaceae",
+  "parent_name": "Gynostemma",
   "gbif_id": "7317960",
   "powo_id": "292905-1",
   "iucn_id": null,

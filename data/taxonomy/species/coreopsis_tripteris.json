@@ -1,8 +1,7 @@
 {
   "name": "Coreopsis tripteris",
   "authorship": "L.",
-  "genus_name": "Coreopsis",
-  "family_name": "Asteraceae",
+  "parent_name": "Coreopsis",
   "gbif_id": "3133996",
   "powo_id": "65938-2",
   "iucn_id": null,

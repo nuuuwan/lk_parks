@@ -1,8 +1,7 @@
 {
   "name": "Ipomoea heptaphylla",
   "authorship": "Sweet",
-  "genus_name": "Ipomoea",
-  "family_name": "Convolvulaceae",
+  "parent_name": "Ipomoea",
   "gbif_id": "9060332",
   "powo_id": "60457868-2",
   "iucn_id": null,

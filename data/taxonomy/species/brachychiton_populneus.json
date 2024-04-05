@@ -1,8 +1,7 @@
 {
   "name": "Brachychiton populneus",
   "authorship": "(Schott & Endl.) R.Br.",
-  "genus_name": "Brachychiton",
-  "family_name": "Malvaceae",
+  "parent_name": "Brachychiton",
   "gbif_id": "7323035",
   "powo_id": "822268-1",
   "iucn_id": null,

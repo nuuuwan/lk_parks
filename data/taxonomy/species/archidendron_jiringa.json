@@ -1,8 +1,7 @@
 {
   "name": "Archidendron jiringa",
   "authorship": "(Jack) I.C.Nielsen",
-  "genus_name": "Archidendron",
-  "family_name": "Fabaceae",
+  "parent_name": "Archidendron",
   "gbif_id": "2941605",
   "powo_id": "475066-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Cissampelos pareira",
   "authorship": "L.",
-  "genus_name": "Cissampelos",
-  "family_name": "Menispermaceae",
+  "parent_name": "Cissampelos",
   "gbif_id": "3033937",
   "powo_id": "59219-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Syzygium pendulinum",
   "authorship": "J.W.Dawson",
-  "genus_name": "Syzygium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syzygium",
   "gbif_id": "3183509",
   "powo_id": "1014968-1",
   "iucn_id": "177857",

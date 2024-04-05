@@ -1,8 +1,7 @@
 {
   "name": "Annona cherimola",
   "authorship": "Mill.",
-  "genus_name": "Annona",
-  "family_name": "Annonaceae",
+  "parent_name": "Annona",
   "gbif_id": "5407147",
   "powo_id": "927235-1",
   "iucn_id": "143324599",

@@ -1,8 +1,7 @@
 {
   "name": "Vitex cooperi",
   "authorship": "Standl.",
-  "genus_name": "Vitex",
-  "family_name": "Lamiaceae",
+  "parent_name": "Vitex",
   "gbif_id": "3881425",
   "powo_id": "865667-1",
   "iucn_id": "37470",

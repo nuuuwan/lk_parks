@@ -1,8 +1,7 @@
 {
   "name": "Pavonia fruticosa",
   "authorship": "(Mill.) Fawc. & Rendle",
-  "genus_name": "Pavonia",
-  "family_name": "Malvaceae",
+  "parent_name": "Pavonia",
   "gbif_id": "5406778",
   "powo_id": "185868-2",
   "iucn_id": null,

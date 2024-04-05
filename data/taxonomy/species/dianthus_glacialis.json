@@ -1,8 +1,7 @@
 {
   "name": "Dianthus glacialis",
   "authorship": "Haenke",
-  "genus_name": "Dianthus",
-  "family_name": "Caryophyllaceae",
+  "parent_name": "Dianthus",
   "gbif_id": "7419348",
   "powo_id": "153385-1",
   "iucn_id": null,

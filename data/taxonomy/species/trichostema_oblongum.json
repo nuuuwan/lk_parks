@@ -1,8 +1,7 @@
 {
   "name": "Trichostema oblongum",
   "authorship": "Benth.",
-  "genus_name": "Trichostema",
-  "family_name": "Lamiaceae",
+  "parent_name": "Trichostema",
   "gbif_id": "2926655",
   "powo_id": "461861-1",
   "iucn_id": null,

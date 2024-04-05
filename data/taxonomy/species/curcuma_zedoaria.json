@@ -1,8 +1,7 @@
 {
   "name": "Curcuma zedoaria",
   "authorship": "(Christm.) Roscoe",
-  "genus_name": "Curcuma",
-  "family_name": "Zingiberaceae",
+  "parent_name": "Curcuma",
   "gbif_id": "2757545",
   "powo_id": "872393-1",
   "iucn_id": "117311046",

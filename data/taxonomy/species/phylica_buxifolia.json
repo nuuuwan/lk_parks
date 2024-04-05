@@ -1,8 +1,7 @@
 {
   "name": "Phylica buxifolia",
   "authorship": "L.",
-  "genus_name": "Phylica",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Phylica",
   "gbif_id": "3876260",
   "powo_id": "717754-1",
   "iucn_id": null,

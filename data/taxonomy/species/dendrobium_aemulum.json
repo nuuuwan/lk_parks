@@ -1,8 +1,7 @@
 {
   "name": "Dendrobium aemulum",
   "authorship": "R.Br.",
-  "genus_name": "Dendrobium",
-  "family_name": "Orchidaceae",
+  "parent_name": "Dendrobium",
   "gbif_id": "5316553",
   "powo_id": "626748-1",
   "iucn_id": null,

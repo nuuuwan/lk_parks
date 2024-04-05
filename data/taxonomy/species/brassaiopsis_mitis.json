@@ -1,8 +1,7 @@
 {
   "name": "Brassaiopsis mitis",
   "authorship": "C.B.Clarke",
-  "genus_name": "Brassaiopsis",
-  "family_name": "Araliaceae",
+  "parent_name": "Brassaiopsis",
   "gbif_id": "3036255",
   "powo_id": "90075-1",
   "iucn_id": null,

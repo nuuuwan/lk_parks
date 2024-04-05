@@ -1,8 +1,7 @@
 {
   "name": "Carissa spinarum",
   "authorship": "L.",
-  "genus_name": "Carissa",
-  "family_name": "Apocynaceae",
+  "parent_name": "Carissa",
   "gbif_id": "5536282",
   "powo_id": "77756-1",
   "iucn_id": "68112038",

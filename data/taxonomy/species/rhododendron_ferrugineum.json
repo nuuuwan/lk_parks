@@ -1,8 +1,7 @@
 {
   "name": "Rhododendron ferrugineum",
   "authorship": "L.",
-  "genus_name": "Rhododendron",
-  "family_name": "Ericaceae",
+  "parent_name": "Rhododendron",
   "gbif_id": "2883073",
   "powo_id": "332420-1",
   "iucn_id": "203007",

@@ -33,11 +33,9 @@ class ReadMeSunburst(MarkdownPage, InfoReadMe):
             if not top_species_name:
                 continue
             species = Species.from_name(top_species_name)
-            species_name = species.name
-            genus_name = species.genus.name
-            family_name = species.genus.family.name
-            order_name = species.genus.family.order.name
-            classis_name = species.genus.family.order.classis.name
+          
+            rank_names = species.rank_names
+            species_name = rank_names[0]
 
             n_total += 1
             if species_name not in species_name_to_info:
@@ -158,6 +156,4 @@ class ReadMeSunburst(MarkdownPage, InfoReadMe):
             'This sunburst chart shows the distribution of plant photos,'
             + ' by family, genus and species, weighted by number of trees.',
             '',
-            self.line_chart,
-            '',
-        ]
+            self

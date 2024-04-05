@@ -1,8 +1,7 @@
 {
   "name": "Diaphananthe fragrantissima",
   "authorship": "(Rchb.f.) Schltr.",
-  "genus_name": "Diaphananthe",
-  "family_name": "Orchidaceae",
+  "parent_name": "Diaphananthe",
   "gbif_id": "2796405",
   "powo_id": "629520-1",
   "iucn_id": null,

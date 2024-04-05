@@ -1,8 +1,7 @@
 {
   "name": "Bouea oppositifolia",
   "authorship": "(Roxb.) Meisn.",
-  "genus_name": "Bouea",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Bouea",
   "gbif_id": "3659898",
   "powo_id": "69265-1",
   "iucn_id": "181759052",

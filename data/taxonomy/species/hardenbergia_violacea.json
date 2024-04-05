@@ -1,8 +1,7 @@
 {
   "name": "Hardenbergia violacea",
   "authorship": "(Schneev.) Stearn",
-  "genus_name": "Hardenbergia",
-  "family_name": "Fabaceae",
+  "parent_name": "Hardenbergia",
   "gbif_id": "2948698",
   "powo_id": "497362-1",
   "iucn_id": null,

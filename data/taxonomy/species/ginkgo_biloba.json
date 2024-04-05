@@ -1,8 +1,7 @@
 {
   "name": "Ginkgo biloba",
   "authorship": "L.",
-  "genus_name": "Ginkgo",
-  "family_name": "Ginkgoaceae",
+  "parent_name": "Ginkgo",
   "gbif_id": "2687885",
   "powo_id": "262125-1",
   "iucn_id": "32353",

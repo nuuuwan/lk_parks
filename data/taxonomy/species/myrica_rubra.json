@@ -1,8 +1,7 @@
 {
   "name": "Myrica rubra",
   "authorship": "(Lour.) Siebold & Zucc.",
-  "genus_name": "Myrica",
-  "family_name": "Myricaceae",
+  "parent_name": "Myrica",
   "gbif_id": "5565430",
   "powo_id": "585602-1",
   "iucn_id": null,

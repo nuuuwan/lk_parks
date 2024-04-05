@@ -1,8 +1,7 @@
 {
   "name": "Erythrostemon gilliesii",
   "authorship": "(Hook.) Klotzsch",
-  "genus_name": "Erythrostemon",
-  "family_name": "Fabaceae",
+  "parent_name": "Erythrostemon",
   "gbif_id": "8130309",
   "powo_id": "494656-1",
   "iucn_id": null,

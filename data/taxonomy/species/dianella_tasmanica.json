@@ -1,8 +1,7 @@
 {
   "name": "Dianella tasmanica",
   "authorship": "Hook.f.",
-  "genus_name": "Dianella",
-  "family_name": "Xanthorrhoeaceae",
+  "parent_name": "Dianella",
   "gbif_id": "5305181",
   "powo_id": "533871-1",
   "iucn_id": null,

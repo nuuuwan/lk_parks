@@ -1,8 +1,7 @@
 {
   "name": "Bombax buonopozense",
   "authorship": "P.Beauv.",
-  "genus_name": "Bombax",
-  "family_name": "Malvaceae",
+  "parent_name": "Bombax",
   "gbif_id": "4073599",
   "powo_id": "559113-1",
   "iucn_id": "144306050",

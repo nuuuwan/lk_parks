@@ -1,8 +1,7 @@
 {
   "name": "Cabralea canjerana",
   "authorship": "(Vell.) Mart.",
-  "genus_name": "Cabralea",
-  "family_name": "Meliaceae",
+  "parent_name": "Cabralea",
   "gbif_id": "7271502",
   "powo_id": "1021145-2",
   "iucn_id": "62967",

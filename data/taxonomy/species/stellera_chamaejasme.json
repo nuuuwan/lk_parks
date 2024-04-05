@@ -1,8 +1,7 @@
 {
   "name": "Stellera chamaejasme",
   "authorship": "L.",
-  "genus_name": "Stellera",
-  "family_name": "Thymelaeaceae",
+  "parent_name": "Stellera",
   "gbif_id": "7311593",
   "powo_id": "832760-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Mussaenda erosa",
   "authorship": "Champ. ex Benth.",
-  "genus_name": "Mussaenda",
-  "family_name": "Rubiaceae",
+  "parent_name": "Mussaenda",
   "gbif_id": "2892654",
   "powo_id": "756617-1",
   "iucn_id": null,

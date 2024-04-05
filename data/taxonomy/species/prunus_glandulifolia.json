@@ -1,8 +1,7 @@
 {
   "name": "Prunus glandulifolia",
   "authorship": "Rupr.",
-  "genus_name": "Prunus",
-  "family_name": "Rosaceae",
+  "parent_name": "Prunus",
   "gbif_id": "3022510",
   "powo_id": "729747-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Guzmania nicaraguensis",
   "authorship": "Mez & C.F.Baker",
-  "genus_name": "Guzmania",
-  "family_name": "Bromeliaceae",
+  "parent_name": "Guzmania",
   "gbif_id": "2699217",
   "powo_id": "115188-2",
   "iucn_id": null,

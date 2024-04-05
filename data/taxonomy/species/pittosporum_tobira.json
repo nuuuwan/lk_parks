@@ -1,8 +1,7 @@
 {
   "name": "Pittosporum tobira",
   "authorship": "(Thunb.) W.T.Aiton",
-  "genus_name": "Pittosporum",
-  "family_name": "Pittosporaceae",
+  "parent_name": "Pittosporum",
   "gbif_id": "8677924",
   "powo_id": "684716-1",
   "iucn_id": null,

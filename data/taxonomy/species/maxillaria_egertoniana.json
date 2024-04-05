@@ -1,8 +1,7 @@
 {
   "name": "Maxillaria egertoniana",
   "authorship": "(Bateman ex Lindl.) Molinari",
-  "genus_name": "Maxillaria",
-  "family_name": "Orchidaceae",
+  "parent_name": "Maxillaria",
   "gbif_id": "9485873",
   "powo_id": "77155180-1",
   "iucn_id": null,

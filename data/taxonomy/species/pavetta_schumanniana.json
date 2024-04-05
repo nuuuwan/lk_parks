@@ -1,8 +1,7 @@
 {
   "name": "Pavetta schumanniana",
   "authorship": "F.Hoffm. ex K.Schum.",
-  "genus_name": "Pavetta",
-  "family_name": "Rubiaceae",
+  "parent_name": "Pavetta",
   "gbif_id": "2924782",
   "powo_id": "760027-1",
   "iucn_id": "146201470",

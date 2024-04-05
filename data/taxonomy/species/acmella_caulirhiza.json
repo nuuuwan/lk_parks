@@ -1,8 +1,7 @@
 {
   "name": "Acmella caulirhiza",
   "authorship": "Delile",
-  "genus_name": "Acmella",
-  "family_name": "Asteraceae",
+  "parent_name": "Acmella",
   "gbif_id": "5386755",
   "powo_id": "174533-1",
   "iucn_id": null,

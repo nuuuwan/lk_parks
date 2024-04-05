@@ -1,8 +1,7 @@
 {
   "name": "Polygonum plebeium",
   "authorship": "R.Br.",
-  "genus_name": "Polygonum",
-  "family_name": "Polygonaceae",
+  "parent_name": "Polygonum",
   "gbif_id": "5334440",
   "powo_id": "696260-1",
   "iucn_id": "177128",

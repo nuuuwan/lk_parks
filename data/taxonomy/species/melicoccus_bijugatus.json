@@ -1,8 +1,7 @@
 {
   "name": "Melicoccus bijugatus",
   "authorship": "Jacq.",
-  "genus_name": "Melicoccus",
-  "family_name": "Sapindaceae",
+  "parent_name": "Melicoccus",
   "gbif_id": "3189990",
   "powo_id": "783682-1",
   "iucn_id": "179306554",

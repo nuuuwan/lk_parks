@@ -1,8 +1,7 @@
 {
   "name": "Quercus coccinea",
   "authorship": "M\u00fcnchh.",
-  "genus_name": "Quercus",
-  "family_name": "Fagaceae",
+  "parent_name": "Quercus",
   "gbif_id": "8326061",
   "powo_id": "359510-1",
   "iucn_id": "194079",

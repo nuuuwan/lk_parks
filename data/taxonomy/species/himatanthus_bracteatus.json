@@ -1,8 +1,7 @@
 {
   "name": "Himatanthus bracteatus",
   "authorship": "(A.DC.) Woodson",
-  "genus_name": "Himatanthus",
-  "family_name": "Apocynaceae",
+  "parent_name": "Himatanthus",
   "gbif_id": "7317391",
   "powo_id": "122690-2",
   "iucn_id": "145667518",

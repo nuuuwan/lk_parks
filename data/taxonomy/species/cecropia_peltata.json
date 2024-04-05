@@ -1,8 +1,7 @@
 {
   "name": "Cecropia peltata",
   "authorship": "L.",
-  "genus_name": "Cecropia",
-  "family_name": "Urticaceae",
+  "parent_name": "Cecropia",
   "gbif_id": "2984476",
   "powo_id": "850956-1",
   "iucn_id": "61967634",

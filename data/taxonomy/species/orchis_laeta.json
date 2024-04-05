@@ -1,8 +1,7 @@
 {
   "name": "Orchis laeta",
   "authorship": "Steinh.",
-  "genus_name": "Orchis",
-  "family_name": "Orchidaceae",
+  "parent_name": "Orchis",
   "gbif_id": "2849356",
   "powo_id": "648783-1",
   "iucn_id": "13164185",

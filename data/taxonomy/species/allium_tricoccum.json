@@ -1,8 +1,7 @@
 {
   "name": "Allium tricoccum",
   "authorship": "Aiton",
-  "genus_name": "Allium",
-  "family_name": "Amaryllidaceae",
+  "parent_name": "Allium",
   "gbif_id": "2856301",
   "powo_id": "8906-2",
   "iucn_id": null,

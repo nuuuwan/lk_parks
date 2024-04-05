@@ -1,8 +1,7 @@
 {
   "name": "Cattleya bicolor",
   "authorship": "Lindl.",
-  "genus_name": "Cattleya",
-  "family_name": "Orchidaceae",
+  "parent_name": "Cattleya",
   "gbif_id": "2800828",
   "powo_id": "622012-1",
   "iucn_id": null,

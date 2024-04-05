@@ -1,8 +1,7 @@
 {
   "name": "Socratea exorrhiza",
   "authorship": "(Mart.) H.Wendl.",
-  "genus_name": "Socratea",
-  "family_name": "Arecaceae",
+  "parent_name": "Socratea",
   "gbif_id": "2732453",
   "powo_id": "1200702-2",
   "iucn_id": "67557265",

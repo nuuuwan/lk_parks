@@ -1,8 +1,7 @@
 {
   "name": "Maclura cochinchinensis",
   "authorship": "(Lour.) Corner",
-  "genus_name": "Maclura",
-  "family_name": "Moraceae",
+  "parent_name": "Maclura",
   "gbif_id": "7262552",
   "powo_id": "584314-1",
   "iucn_id": null,

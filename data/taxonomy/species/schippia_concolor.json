@@ -1,8 +1,7 @@
 {
   "name": "Schippia concolor",
   "authorship": "Burret",
-  "genus_name": "Schippia",
-  "family_name": "Arecaceae",
+  "parent_name": "Schippia",
   "gbif_id": "2736314",
   "powo_id": "229250-2",
   "iucn_id": "38697",

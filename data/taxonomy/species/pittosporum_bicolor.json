@@ -1,8 +1,7 @@
 {
   "name": "Pittosporum bicolor",
   "authorship": "Hook.",
-  "genus_name": "Pittosporum",
-  "family_name": "Pittosporaceae",
+  "parent_name": "Pittosporum",
   "gbif_id": "4161697",
   "powo_id": "684384-1",
   "iucn_id": "199308548",

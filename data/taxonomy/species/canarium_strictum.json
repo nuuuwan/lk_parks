@@ -1,8 +1,7 @@
 {
   "name": "Canarium strictum",
   "authorship": "Roxb.",
-  "genus_name": "Canarium",
-  "family_name": "Burseraceae",
+  "parent_name": "Canarium",
   "gbif_id": "5421349",
   "powo_id": "127527-1",
   "iucn_id": null,

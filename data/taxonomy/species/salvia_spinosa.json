@@ -1,8 +1,7 @@
 {
   "name": "Salvia spinosa",
   "authorship": "L.",
-  "genus_name": "Salvia",
-  "family_name": "Lamiaceae",
+  "parent_name": "Salvia",
   "gbif_id": "3886937",
   "powo_id": "457293-1",
   "iucn_id": null,

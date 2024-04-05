@@ -1,8 +1,7 @@
 {
   "name": "Phaleria capitata",
   "authorship": "Jack",
-  "genus_name": "Phaleria",
-  "family_name": "Thymelaeaceae",
+  "parent_name": "Phaleria",
   "gbif_id": "5524411",
   "powo_id": "832463-1",
   "iucn_id": null,

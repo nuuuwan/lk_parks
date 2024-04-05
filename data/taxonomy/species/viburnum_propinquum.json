@@ -1,8 +1,7 @@
 {
   "name": "Viburnum propinquum",
   "authorship": "Hemsl.",
-  "genus_name": "Viburnum",
-  "family_name": "Viburnaceae",
+  "parent_name": "Viburnum",
   "gbif_id": "3856739",
   "powo_id": "149881-1",
   "iucn_id": null,

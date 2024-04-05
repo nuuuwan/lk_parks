@@ -1,8 +1,7 @@
 {
   "name": "Clivia cyrtanthiflora",
   "authorship": "(Lindl. ex K.Koch & Fintelm) T.Moore",
-  "genus_name": "Clivia",
-  "family_name": "Amaryllidaceae",
+  "parent_name": "Clivia",
   "gbif_id": "8129686",
   "powo_id": "77238913-1",
   "iucn_id": null,

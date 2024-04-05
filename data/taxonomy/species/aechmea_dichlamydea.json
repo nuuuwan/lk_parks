@@ -1,8 +1,7 @@
 {
   "name": "Aechmea dichlamydea",
   "authorship": "Baker",
-  "genus_name": "Aechmea",
-  "family_name": "Bromeliaceae",
+  "parent_name": "Aechmea",
   "gbif_id": "2698266",
   "powo_id": "271676-2",
   "iucn_id": null,

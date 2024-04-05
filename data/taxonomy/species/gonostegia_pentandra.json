@@ -1,8 +1,7 @@
 {
   "name": "Gonostegia pentandra",
   "authorship": "(Roxb.) Miq.",
-  "genus_name": "Gonostegia",
-  "family_name": "Urticaceae",
+  "parent_name": "Gonostegia",
   "gbif_id": "4100866",
   "powo_id": "854135-1",
   "iucn_id": null,

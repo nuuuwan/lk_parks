@@ -1,8 +1,7 @@
 {
   "name": "Euclea divinorum",
   "authorship": "Hiern",
-  "genus_name": "Euclea",
-  "family_name": "Ebenaceae",
+  "parent_name": "Euclea",
   "gbif_id": "5662686",
   "powo_id": "323301-1",
   "iucn_id": "173549",

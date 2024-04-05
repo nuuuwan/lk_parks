@@ -1,8 +1,7 @@
 {
   "name": "Spiraea alba",
   "authorship": "Du Roi",
-  "genus_name": "Spiraea",
-  "family_name": "Rosaceae",
+  "parent_name": "Spiraea",
   "gbif_id": "3026585",
   "powo_id": "30043519-2",
   "iucn_id": null,

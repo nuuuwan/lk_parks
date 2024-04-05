@@ -1,8 +1,7 @@
 {
   "name": "Pavetta indica",
   "authorship": "L.",
-  "genus_name": "Pavetta",
-  "family_name": "Rubiaceae",
+  "parent_name": "Pavetta",
   "gbif_id": "2924801",
   "powo_id": "759752-1",
   "iucn_id": null,

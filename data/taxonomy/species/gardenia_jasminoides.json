@@ -1,8 +1,7 @@
 {
   "name": "Gardenia jasminoides",
   "authorship": "J.Ellis",
-  "genus_name": "Gardenia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Gardenia",
   "gbif_id": "5335125",
   "powo_id": "751073-1",
   "iucn_id": null,

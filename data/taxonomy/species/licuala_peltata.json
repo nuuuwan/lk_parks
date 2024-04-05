@@ -1,8 +1,7 @@
 {
   "name": "Licuala peltata",
   "authorship": "Roxb. ex Buch.-Ham.",
-  "genus_name": "Licuala",
-  "family_name": "Arecaceae",
+  "parent_name": "Licuala",
   "gbif_id": "2736445",
   "powo_id": "667934-1",
   "iucn_id": null,

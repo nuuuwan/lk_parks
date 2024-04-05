@@ -1,8 +1,7 @@
 {
   "name": "Dipteryx alata",
   "authorship": "Vogel",
-  "genus_name": "Dipteryx",
-  "family_name": "Fabaceae",
+  "parent_name": "Dipteryx",
   "gbif_id": "2947141",
   "powo_id": "492757-1",
   "iucn_id": "32984",

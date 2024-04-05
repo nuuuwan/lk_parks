@@ -1,8 +1,7 @@
 {
   "name": "Monstera glaucescens",
   "authorship": "Croat & Grayum",
-  "genus_name": "Monstera",
-  "family_name": "Araceae",
+  "parent_name": "Monstera",
   "gbif_id": "2868234",
   "powo_id": "315161-2",
   "iucn_id": null,

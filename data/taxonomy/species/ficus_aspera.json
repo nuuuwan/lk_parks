@@ -1,8 +1,7 @@
 {
   "name": "Ficus aspera",
   "authorship": "G.Forst.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "7262784",
   "powo_id": "852428-1",
   "iucn_id": "218061852",

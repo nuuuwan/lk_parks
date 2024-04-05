@@ -1,8 +1,7 @@
 {
   "name": "Eugenia confusa",
   "authorship": "DC.",
-  "genus_name": "Eugenia",
-  "family_name": "Myrtaceae",
+  "parent_name": "Eugenia",
   "gbif_id": "5417010",
   "powo_id": "594073-1",
   "iucn_id": "152910695",

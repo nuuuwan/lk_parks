@@ -1,8 +1,7 @@
 {
   "name": "Heptacodium miconioides",
   "authorship": "Rehder",
-  "genus_name": "Heptacodium",
-  "family_name": "Caprifoliaceae",
+  "parent_name": "Heptacodium",
   "gbif_id": "3855518",
   "powo_id": "148517-1",
   "iucn_id": "32355",

@@ -1,8 +1,7 @@
 {
   "name": "Ptychosperma schefferi",
   "authorship": "Becc. ex Martelli",
-  "genus_name": "Ptychosperma",
-  "family_name": "Arecaceae",
+  "parent_name": "Ptychosperma",
   "gbif_id": "2733834",
   "powo_id": "669450-1",
   "iucn_id": "214157961",

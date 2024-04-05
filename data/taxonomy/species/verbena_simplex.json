@@ -1,8 +1,7 @@
 {
   "name": "Verbena simplex",
   "authorship": "Lehm.",
-  "genus_name": "Verbena",
-  "family_name": "Verbenaceae",
+  "parent_name": "Verbena",
   "gbif_id": "2925500",
   "powo_id": "865474-1",
   "iucn_id": null,

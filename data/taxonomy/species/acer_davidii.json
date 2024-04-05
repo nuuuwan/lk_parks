@@ -1,8 +1,7 @@
 {
   "name": "Acer davidii",
   "authorship": "Franch.",
-  "genus_name": "Acer",
-  "family_name": "Sapindaceae",
+  "parent_name": "Acer",
   "gbif_id": "7262943",
   "powo_id": "781279-1",
   "iucn_id": "193540",

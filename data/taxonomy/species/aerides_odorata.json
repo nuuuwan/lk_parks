@@ -1,8 +1,7 @@
 {
   "name": "Aerides odorata",
   "authorship": "Lour.",
-  "genus_name": "Aerides",
-  "family_name": "Orchidaceae",
+  "parent_name": "Aerides",
   "gbif_id": "2811113",
   "powo_id": "615287-1",
   "iucn_id": null,

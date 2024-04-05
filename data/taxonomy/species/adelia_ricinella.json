@@ -1,8 +1,7 @@
 {
   "name": "Adelia ricinella",
   "authorship": "L.",
-  "genus_name": "Adelia",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Adelia",
   "gbif_id": "5380439",
   "powo_id": "4207-2",
   "iucn_id": "208168516",

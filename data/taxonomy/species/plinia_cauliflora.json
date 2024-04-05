@@ -1,8 +1,7 @@
 {
   "name": "Plinia cauliflora",
   "authorship": "(Mart.) Kausel",
-  "genus_name": "Plinia",
-  "family_name": "Myrtaceae",
+  "parent_name": "Plinia",
   "gbif_id": "5415571",
   "powo_id": "203847-2",
   "iucn_id": "148756263",

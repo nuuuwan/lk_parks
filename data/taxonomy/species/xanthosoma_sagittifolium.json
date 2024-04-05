@@ -1,8 +1,7 @@
 {
   "name": "Xanthosoma sagittifolium",
   "authorship": "(L.) Schott",
-  "genus_name": "Xanthosoma",
-  "family_name": "Araceae",
+  "parent_name": "Xanthosoma",
   "gbif_id": "5330901",
   "powo_id": "89373-1",
   "iucn_id": null,

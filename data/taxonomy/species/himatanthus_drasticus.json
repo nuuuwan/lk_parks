@@ -1,8 +1,7 @@
 {
   "name": "Himatanthus drasticus",
   "authorship": "(Mart.) Plumel",
-  "genus_name": "Himatanthus",
-  "family_name": "Apocynaceae",
+  "parent_name": "Himatanthus",
   "gbif_id": "3621592",
   "powo_id": "962260-1",
   "iucn_id": "149203937",

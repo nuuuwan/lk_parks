@@ -1,8 +1,7 @@
 {
   "name": "Pyrus salicifolia",
   "authorship": "Pall.",
-  "genus_name": "Pyrus",
-  "family_name": "Rosaceae",
+  "parent_name": "Pyrus",
   "gbif_id": "5362328",
   "powo_id": "731196-1",
   "iucn_id": "34721",

@@ -1,8 +1,7 @@
 {
   "name": "Westringia angustifolia",
   "authorship": "R.Br.",
-  "genus_name": "Westringia",
-  "family_name": "Lamiaceae",
+  "parent_name": "Westringia",
   "gbif_id": "3901156",
   "powo_id": "461900-1",
   "iucn_id": null,

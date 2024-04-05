@@ -1,8 +1,7 @@
 {
   "name": "Sannantha leratii",
   "authorship": "(Schltr.) Peter G.Wilson",
-  "genus_name": "Sannantha",
-  "family_name": "Myrtaceae",
+  "parent_name": "Sannantha",
   "gbif_id": "3176104",
   "powo_id": "77086601-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Hydrangea arborescens",
   "authorship": "L.",
-  "genus_name": "Hydrangea",
-  "family_name": "Hydrangeaceae",
+  "parent_name": "Hydrangea",
   "gbif_id": "2985986",
   "powo_id": "30010549-2",
   "iucn_id": null,

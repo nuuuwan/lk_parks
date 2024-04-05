@@ -1,8 +1,7 @@
 {
   "name": "Barleria albostellata",
   "authorship": "C.B.Clarke",
-  "genus_name": "Barleria",
-  "family_name": "Acanthaceae",
+  "parent_name": "Barleria",
   "gbif_id": "3774112",
   "powo_id": "45842-1",
   "iucn_id": null,

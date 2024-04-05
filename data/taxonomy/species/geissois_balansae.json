@@ -1,8 +1,7 @@
 {
   "name": "Geissois balansae",
   "authorship": "Brongn. & Gris ex Guillaumin",
-  "genus_name": "Geissois",
-  "family_name": "Cunoniaceae",
+  "parent_name": "Geissois",
   "gbif_id": "3613558",
   "powo_id": "294572-1",
   "iucn_id": "116163485",

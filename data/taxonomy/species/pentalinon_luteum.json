@@ -1,8 +1,7 @@
 {
   "name": "Pentalinon luteum",
   "authorship": "(L.) B.F.Hansen & Wunderlin",
-  "genus_name": "Pentalinon",
-  "family_name": "Apocynaceae",
+  "parent_name": "Pentalinon",
   "gbif_id": "3169681",
   "powo_id": "942487-1",
   "iucn_id": null,

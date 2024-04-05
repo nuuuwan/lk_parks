@@ -1,8 +1,7 @@
 {
   "name": "Coccoloba swartzii",
   "authorship": "Meisn.",
-  "genus_name": "Coccoloba",
-  "family_name": "Polygonaceae",
+  "parent_name": "Coccoloba",
   "gbif_id": "2888836",
   "powo_id": "693902-1",
   "iucn_id": null,

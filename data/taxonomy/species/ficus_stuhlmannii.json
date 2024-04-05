@@ -1,8 +1,7 @@
 {
   "name": "Ficus stuhlmannii",
   "authorship": "Warb.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5570131",
   "powo_id": "853758-1",
   "iucn_id": "146435585",

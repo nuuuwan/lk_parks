@@ -1,8 +1,7 @@
 {
   "name": "Guatteria hirsuta",
   "authorship": "Ruiz & Pav.",
-  "genus_name": "Guatteria",
-  "family_name": "Annonaceae",
+  "parent_name": "Guatteria",
   "gbif_id": "3155823",
   "powo_id": "73441-1",
   "iucn_id": "98417215",

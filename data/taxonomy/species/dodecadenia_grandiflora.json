@@ -1,8 +1,7 @@
 {
   "name": "Dodecadenia grandiflora",
   "authorship": "Nees",
-  "genus_name": "Dodecadenia",
-  "family_name": "Lauraceae",
+  "parent_name": "Dodecadenia",
   "gbif_id": "7304381",
   "powo_id": "464341-1",
   "iucn_id": "150214952",

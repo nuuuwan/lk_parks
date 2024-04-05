@@ -1,8 +1,7 @@
 {
   "name": "Helianthella castanea",
   "authorship": "Greene",
-  "genus_name": "Helianthella",
-  "family_name": "Asteraceae",
+  "parent_name": "Helianthella",
   "gbif_id": "5400895",
   "powo_id": "118887-2",
   "iucn_id": null,

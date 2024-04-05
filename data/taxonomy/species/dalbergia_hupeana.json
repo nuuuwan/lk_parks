@@ -1,8 +1,7 @@
 {
   "name": "Dalbergia hupeana",
   "authorship": "Hance",
-  "genus_name": "Dalbergia",
-  "family_name": "Fabaceae",
+  "parent_name": "Dalbergia",
   "gbif_id": "2968584",
   "powo_id": "490264-1",
   "iucn_id": "62498",

@@ -1,8 +1,7 @@
 {
   "name": "Rhamnus lycioides",
   "authorship": "L.",
-  "genus_name": "Rhamnus",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Rhamnus",
   "gbif_id": "6371380",
   "powo_id": "718466-1",
   "iucn_id": null,

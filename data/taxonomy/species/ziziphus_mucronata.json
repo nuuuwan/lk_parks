@@ -1,8 +1,7 @@
 {
   "name": "Ziziphus mucronata",
   "authorship": "Willd.",
-  "genus_name": "Ziziphus",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Ziziphus",
   "gbif_id": "3875567",
   "powo_id": "719359-1",
   "iucn_id": "146199970",

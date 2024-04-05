@@ -1,8 +1,7 @@
 {
   "name": "Zelkova schneideriana",
   "authorship": "Hand.-Mazz.",
-  "genus_name": "Zelkova",
-  "family_name": "Ulmaceae",
+  "parent_name": "Zelkova",
   "gbif_id": "4159452",
   "powo_id": "837189-1",
   "iucn_id": "131155456",

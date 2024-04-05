@@ -1,8 +1,7 @@
 {
   "name": "Osmunda claytoniana",
   "authorship": "L.",
-  "genus_name": "Osmunda",
-  "family_name": "Osmundaceae",
+  "parent_name": "Osmunda",
   "gbif_id": "2651329",
   "powo_id": "281799-2",
   "iucn_id": null,

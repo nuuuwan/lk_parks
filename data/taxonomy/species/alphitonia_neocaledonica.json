@@ -1,8 +1,7 @@
 {
   "name": "Alphitonia neocaledonica",
   "authorship": "(Schltr.) Guillaumin",
-  "genus_name": "Alphitonia",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Alphitonia",
   "gbif_id": "3877431",
   "powo_id": "716629-1",
   "iucn_id": "198495287",

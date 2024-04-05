@@ -1,8 +1,7 @@
 {
   "name": "Thesium alpinum",
   "authorship": "L.",
-  "genus_name": "Thesium",
-  "family_name": "Santalaceae",
+  "parent_name": "Thesium",
   "gbif_id": "8005654",
   "powo_id": "780697-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Nephrolepis brownii",
   "authorship": "(Desv.) Hovenkamp & Miyam.",
-  "genus_name": "Nephrolepis",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Nephrolepis",
   "gbif_id": "4196780",
   "powo_id": "77069554-1",
   "iucn_id": null,

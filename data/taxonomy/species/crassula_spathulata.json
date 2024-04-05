@@ -1,8 +1,7 @@
 {
   "name": "Crassula spathulata",
   "authorship": "Thunb.",
-  "genus_name": "Crassula",
-  "family_name": "Crassulaceae",
+  "parent_name": "Crassula",
   "gbif_id": "5689965",
   "powo_id": "273505-1",
   "iucn_id": null,

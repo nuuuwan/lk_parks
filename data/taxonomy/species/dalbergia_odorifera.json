@@ -1,8 +1,7 @@
 {
   "name": "Dalbergia odorifera",
   "authorship": "T.C.Chen",
-  "genus_name": "Dalbergia",
-  "family_name": "Fabaceae",
+  "parent_name": "Dalbergia",
   "gbif_id": "2968813",
   "powo_id": "490369-1",
   "iucn_id": "32398",

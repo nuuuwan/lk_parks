@@ -1,8 +1,7 @@
 {
   "name": "Lathyrus setifolius",
   "authorship": "L.",
-  "genus_name": "Lathyrus",
-  "family_name": "Fabaceae",
+  "parent_name": "Lathyrus",
   "gbif_id": "5356363",
   "powo_id": "502002-1",
   "iucn_id": "19379055",

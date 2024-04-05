@@ -1,8 +1,7 @@
 {
   "name": "Desmanthus virgatus",
   "authorship": "(L.) Willd.",
-  "genus_name": "Desmanthus",
-  "family_name": "Fabaceae",
+  "parent_name": "Desmanthus",
   "gbif_id": "5360097",
   "powo_id": "1125234-2",
   "iucn_id": "170656437",

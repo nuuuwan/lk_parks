@@ -1,8 +1,7 @@
 {
   "name": "Marsilea strigosa",
   "authorship": "Willd.",
-  "genus_name": "Marsilea",
-  "family_name": "Marsileaceae",
+  "parent_name": "Marsilea",
   "gbif_id": "5613324",
   "powo_id": "17145470-1",
   "iucn_id": null,

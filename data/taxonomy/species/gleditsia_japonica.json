@@ -1,8 +1,7 @@
 {
   "name": "Gleditsia japonica",
   "authorship": "Miq.",
-  "genus_name": "Gleditsia",
-  "family_name": "Fabaceae",
+  "parent_name": "Gleditsia",
   "gbif_id": "2959514",
   "powo_id": "496595-1",
   "iucn_id": "144259089",

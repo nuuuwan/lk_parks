@@ -1,8 +1,7 @@
 {
   "name": "Chloroxylon swietenia",
   "authorship": "DC.",
-  "genus_name": "Chloroxylon",
-  "family_name": "Rutaceae",
+  "parent_name": "Chloroxylon",
   "gbif_id": "5593556",
   "powo_id": "577966-1",
   "iucn_id": "33260",

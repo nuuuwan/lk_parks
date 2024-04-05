@@ -1,8 +1,7 @@
 {
   "name": "Paulownia fortunei",
   "authorship": "(Seem.) Hemsl.",
-  "genus_name": "Paulownia",
-  "family_name": "Paulowniaceae",
+  "parent_name": "Paulownia",
   "gbif_id": "3727077",
   "powo_id": "806712-1",
   "iucn_id": null,

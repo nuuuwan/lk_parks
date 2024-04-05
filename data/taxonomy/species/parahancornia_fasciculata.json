@@ -1,8 +1,7 @@
 {
   "name": "Parahancornia fasciculata",
   "authorship": "(Poir.) Benoist",
-  "genus_name": "Parahancornia",
-  "family_name": "Apocynaceae",
+  "parent_name": "Parahancornia",
   "gbif_id": "3621214",
   "powo_id": "182946-2",
   "iucn_id": "180071279",

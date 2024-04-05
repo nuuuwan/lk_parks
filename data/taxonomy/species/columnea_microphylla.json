@@ -1,8 +1,7 @@
 {
   "name": "Columnea microphylla",
   "authorship": "Klotzsch & Hanst. ex Oerst.",
-  "genus_name": "Columnea",
-  "family_name": "Gesneriaceae",
+  "parent_name": "Columnea",
   "gbif_id": "5589474",
   "powo_id": "378925-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Calophyllum brasiliense",
   "authorship": "Cambess.",
-  "genus_name": "Calophyllum",
-  "family_name": "Calophyllaceae",
+  "parent_name": "Calophyllum",
   "gbif_id": "5421069",
   "powo_id": "427115-1",
   "iucn_id": "61988785",

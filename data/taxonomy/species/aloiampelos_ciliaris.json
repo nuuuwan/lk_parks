@@ -1,8 +1,7 @@
 {
   "name": "Aloiampelos ciliaris",
   "authorship": "(Haw.) Klopper & Gideon F.Sm.",
-  "genus_name": "Aloiampelos",
-  "family_name": "Asphodelaceae",
+  "parent_name": "Aloiampelos",
   "gbif_id": "9527904",
   "powo_id": "77125496-1",
   "iucn_id": null,

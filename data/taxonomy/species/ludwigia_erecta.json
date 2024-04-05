@@ -1,8 +1,7 @@
 {
   "name": "Ludwigia erecta",
   "authorship": "(L.) H.Hara",
-  "genus_name": "Ludwigia",
-  "family_name": "Onagraceae",
+  "parent_name": "Ludwigia",
   "gbif_id": "5420986",
   "powo_id": "144351-2",
   "iucn_id": null,

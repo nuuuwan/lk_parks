@@ -1,8 +1,7 @@
 {
   "name": "Callicarpa japonica",
   "authorship": "Thunb.",
-  "genus_name": "Callicarpa",
-  "family_name": "Lamiaceae",
+  "parent_name": "Callicarpa",
   "gbif_id": "5341134",
   "powo_id": "927277-1",
   "iucn_id": null,

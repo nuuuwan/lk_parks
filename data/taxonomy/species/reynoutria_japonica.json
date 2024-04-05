@@ -1,8 +1,7 @@
 {
   "name": "Reynoutria japonica",
   "authorship": "Houtt.",
-  "genus_name": "Reynoutria",
-  "family_name": "Polygonaceae",
+  "parent_name": "Reynoutria",
   "gbif_id": "2889173",
   "powo_id": "435655-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Pseudowintera colorata",
   "authorship": "(Raoul) Dandy",
-  "genus_name": "Pseudowintera",
-  "family_name": "Winteraceae",
+  "parent_name": "Pseudowintera",
   "gbif_id": "4020812",
   "powo_id": "871220-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Eucalyptus cladocalyx",
   "authorship": "F.Muell.",
-  "genus_name": "Eucalyptus",
-  "family_name": "Myrtaceae",
+  "parent_name": "Eucalyptus",
   "gbif_id": "3176313",
   "powo_id": "592800-1",
   "iucn_id": "133378591",

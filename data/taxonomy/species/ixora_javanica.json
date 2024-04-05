@@ -1,8 +1,7 @@
 {
   "name": "Ixora javanica",
   "authorship": "(Blume) DC.",
-  "genus_name": "Ixora",
-  "family_name": "Rubiaceae",
+  "parent_name": "Ixora",
   "gbif_id": "2905700",
   "powo_id": "754072-1",
   "iucn_id": "136139187",

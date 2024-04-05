@@ -1,8 +1,7 @@
 {
   "name": "Cenchrus caudatus",
   "authorship": "(Schrad.) Kuntze",
-  "genus_name": "Cenchrus",
-  "family_name": "Poaceae",
+  "parent_name": "Cenchrus",
   "gbif_id": "7618730",
   "powo_id": "60470539-2",
   "iucn_id": null,

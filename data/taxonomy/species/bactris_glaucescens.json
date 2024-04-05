@@ -1,8 +1,7 @@
 {
   "name": "Bactris glaucescens",
   "authorship": "Drude",
-  "genus_name": "Bactris",
-  "family_name": "Arecaceae",
+  "parent_name": "Bactris",
   "gbif_id": "2733179",
   "powo_id": "664608-1",
   "iucn_id": "44393041",

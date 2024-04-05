@@ -1,8 +1,7 @@
 {
   "name": "Uncaria tomentosa",
   "authorship": "(Willd. ex Schult.) DC.",
-  "genus_name": "Uncaria",
-  "family_name": "Rubiaceae",
+  "parent_name": "Uncaria",
   "gbif_id": "5338267",
   "powo_id": "768322-1",
   "iucn_id": null,

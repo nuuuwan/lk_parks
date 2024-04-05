@@ -1,8 +1,7 @@
 {
   "name": "Calotropis procera",
   "authorship": "(Aiton) W.T.Aiton",
-  "genus_name": "Calotropis",
-  "family_name": "Apocynaceae",
+  "parent_name": "Calotropis",
   "gbif_id": "5414566",
   "powo_id": "1004515-2",
   "iucn_id": "19181123",

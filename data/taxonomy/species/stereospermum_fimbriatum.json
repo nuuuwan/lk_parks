@@ -1,8 +1,7 @@
 {
   "name": "Stereospermum fimbriatum",
   "authorship": "(Wall. ex G.Don) DC.",
-  "genus_name": "Stereospermum",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Stereospermum",
   "gbif_id": "4092232",
   "powo_id": "110781-1",
   "iucn_id": null,

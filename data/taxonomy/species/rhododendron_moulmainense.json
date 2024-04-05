@@ -1,8 +1,7 @@
 {
   "name": "Rhododendron moulmainense",
   "authorship": "Hook.",
-  "genus_name": "Rhododendron",
-  "family_name": "Ericaceae",
+  "parent_name": "Rhododendron",
   "gbif_id": "7328295",
   "powo_id": "332916-1",
   "iucn_id": "144269285",

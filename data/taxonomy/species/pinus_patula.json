@@ -1,8 +1,7 @@
 {
   "name": "Pinus patula",
   "authorship": "Schiede ex Schltdl. & Cham.",
-  "genus_name": "Pinus",
-  "family_name": "Pinaceae",
+  "parent_name": "Pinus",
   "gbif_id": "5285090",
   "powo_id": "314961-2",
   "iucn_id": "42389",

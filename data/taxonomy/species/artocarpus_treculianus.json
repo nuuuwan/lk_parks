@@ -1,8 +1,7 @@
 {
   "name": "Artocarpus treculianus",
   "authorship": "Elmer",
-  "genus_name": "Artocarpus",
-  "family_name": "Moraceae",
+  "parent_name": "Artocarpus",
   "gbif_id": "3763995",
   "powo_id": "582652-1",
   "iucn_id": "33246",

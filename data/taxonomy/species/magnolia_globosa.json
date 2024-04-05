@@ -1,8 +1,7 @@
 {
   "name": "Magnolia globosa",
   "authorship": "Hook.f. & Thomson",
-  "genus_name": "Magnolia",
-  "family_name": "Magnoliaceae",
+  "parent_name": "Magnolia",
   "gbif_id": "3153664",
   "powo_id": "554718-1",
   "iucn_id": "193946",

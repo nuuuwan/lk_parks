@@ -1,8 +1,7 @@
 {
   "name": "Ochna pulchra",
   "authorship": "Hook.",
-  "genus_name": "Ochna",
-  "family_name": "Ochnaceae",
+  "parent_name": "Ochna",
   "gbif_id": "3694581",
   "powo_id": "606747-1",
   "iucn_id": "146210516",

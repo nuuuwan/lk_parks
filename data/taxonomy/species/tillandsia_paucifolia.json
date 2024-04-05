@@ -1,8 +1,7 @@
 {
   "name": "Tillandsia paucifolia",
   "authorship": "Baker",
-  "genus_name": "Tillandsia",
-  "family_name": "Bromeliaceae",
+  "parent_name": "Tillandsia",
   "gbif_id": "2695912",
   "powo_id": "125474-1",
   "iucn_id": null,

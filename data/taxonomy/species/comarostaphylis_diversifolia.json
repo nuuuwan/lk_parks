@@ -1,8 +1,7 @@
 {
   "name": "Comarostaphylis diversifolia",
   "authorship": "(Parry) Greene",
-  "genus_name": "Comarostaphylis",
-  "family_name": "Ericaceae",
+  "parent_name": "Comarostaphylis",
   "gbif_id": "2882663",
   "powo_id": "1007815-2",
   "iucn_id": "153740597",

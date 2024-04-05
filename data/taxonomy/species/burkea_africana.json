@@ -1,8 +1,7 @@
 {
   "name": "Burkea africana",
   "authorship": "Hook.",
-  "genus_name": "Burkea",
-  "family_name": "Fabaceae",
+  "parent_name": "Burkea",
   "gbif_id": "5348890",
   "powo_id": "482512-1",
   "iucn_id": "62021459",

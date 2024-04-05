@@ -1,8 +1,7 @@
 {
   "name": "Yucca aloifolia",
   "authorship": "L.",
-  "genus_name": "Yucca",
-  "family_name": "Asparagaceae",
+  "parent_name": "Yucca",
   "gbif_id": "2775744",
   "powo_id": "325009-2",
   "iucn_id": "117422548",

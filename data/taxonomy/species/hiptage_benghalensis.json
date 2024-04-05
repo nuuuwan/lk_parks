@@ -1,8 +1,7 @@
 {
   "name": "Hiptage benghalensis",
   "authorship": "(L.) Kurz",
-  "genus_name": "Hiptage",
-  "family_name": "Malpighiaceae",
+  "parent_name": "Hiptage",
   "gbif_id": "3191302",
   "powo_id": "556690-1",
   "iucn_id": "75130088",

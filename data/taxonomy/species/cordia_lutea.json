@@ -1,8 +1,7 @@
 {
   "name": "Cordia lutea",
   "authorship": "Lam.",
-  "genus_name": "Cordia",
-  "family_name": "Boraginaceae",
+  "parent_name": "Cordia",
   "gbif_id": "5661644",
   "powo_id": "274993-2",
   "iucn_id": "145499814",

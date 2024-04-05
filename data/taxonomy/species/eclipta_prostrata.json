@@ -1,8 +1,7 @@
 {
   "name": "Eclipta prostrata",
   "authorship": "(L.) L.",
-  "genus_name": "Eclipta",
-  "family_name": "Asteraceae",
+  "parent_name": "Eclipta",
   "gbif_id": "5384950",
   "powo_id": "1186403-2",
   "iucn_id": "164051",

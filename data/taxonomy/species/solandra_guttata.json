@@ -1,8 +1,7 @@
 {
   "name": "Solandra guttata",
   "authorship": "D.Don",
-  "genus_name": "Solandra",
-  "family_name": "Solanaceae",
+  "parent_name": "Solandra",
   "gbif_id": "5581546",
   "powo_id": "818070-1",
   "iucn_id": null,

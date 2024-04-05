@@ -1,8 +1,7 @@
 {
   "name": "Lindera benzoin",
   "authorship": "(L.) Blume",
-  "genus_name": "Lindera",
-  "family_name": "Lauraceae",
+  "parent_name": "Lindera",
   "gbif_id": "5371740",
   "powo_id": "140503-2",
   "iucn_id": "135956930",

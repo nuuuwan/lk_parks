@@ -1,8 +1,7 @@
 {
   "name": "Oxalis violacea",
   "authorship": "L.",
-  "genus_name": "Oxalis",
-  "family_name": "Oxalidaceae",
+  "parent_name": "Oxalis",
   "gbif_id": "2891708",
   "powo_id": "178590-2",
   "iucn_id": null,

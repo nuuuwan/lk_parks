@@ -1,8 +1,7 @@
 {
   "name": "Ulmus alata",
   "authorship": "Michx.",
-  "genus_name": "Ulmus",
-  "family_name": "Ulmaceae",
+  "parent_name": "Ulmus",
   "gbif_id": "5361878",
   "powo_id": "302994-2",
   "iucn_id": "61966604",

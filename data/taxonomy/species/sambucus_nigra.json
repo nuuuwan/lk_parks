@@ -1,8 +1,7 @@
 {
   "name": "Sambucus nigra",
   "authorship": "L.",
-  "genus_name": "Sambucus",
-  "family_name": "Viburnaceae",
+  "parent_name": "Sambucus",
   "gbif_id": "2888728",
   "powo_id": "30122169-2",
   "iucn_id": "61684",

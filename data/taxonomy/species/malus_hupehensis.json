@@ -1,8 +1,7 @@
 {
   "name": "Malus hupehensis",
   "authorship": "(Pamp.) Rehder",
-  "genus_name": "Malus",
-  "family_name": "Rosaceae",
+  "parent_name": "Malus",
   "gbif_id": "3001077",
   "powo_id": "726310-1",
   "iucn_id": "34901",

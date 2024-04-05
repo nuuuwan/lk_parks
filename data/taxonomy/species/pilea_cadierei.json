@@ -1,8 +1,7 @@
 {
   "name": "Pilea cadierei",
   "authorship": "Gagnep. & Guillaumin",
-  "genus_name": "Pilea",
-  "family_name": "Urticaceae",
+  "parent_name": "Pilea",
   "gbif_id": "5671157",
   "powo_id": "855275-1",
   "iucn_id": null,

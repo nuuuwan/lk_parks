@@ -1,8 +1,7 @@
 {
   "name": "Ficus natalensis",
   "authorship": "Hochst.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "6358688",
   "powo_id": "853264-1",
   "iucn_id": "146188383",

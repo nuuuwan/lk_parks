@@ -1,8 +1,7 @@
 {
   "name": "Coffea myrtifolia",
   "authorship": "(A.Rich. ex DC.) J.-F.Leroy",
-  "genus_name": "Coffea",
-  "family_name": "Rubiaceae",
+  "parent_name": "Coffea",
   "gbif_id": "2895388",
   "powo_id": "913816-1",
   "iucn_id": "39467",

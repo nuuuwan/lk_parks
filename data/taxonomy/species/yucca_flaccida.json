@@ -1,8 +1,7 @@
 {
   "name": "Yucca flaccida",
   "authorship": "Haw.",
-  "genus_name": "Yucca",
-  "family_name": "Asparagaceae",
+  "parent_name": "Yucca",
   "gbif_id": "2775530",
   "powo_id": "543694-1",
   "iucn_id": "117427961",

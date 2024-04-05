@@ -1,8 +1,7 @@
 {
   "name": "Geijera parviflora",
   "authorship": "Lindl.",
-  "genus_name": "Geijera",
-  "family_name": "Rutaceae",
+  "parent_name": "Geijera",
   "gbif_id": "7269149",
   "powo_id": "773711-1",
   "iucn_id": "200148932",

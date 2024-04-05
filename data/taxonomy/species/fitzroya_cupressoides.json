@@ -1,8 +1,7 @@
 {
   "name": "Fitzroya cupressoides",
   "authorship": "(Molina) I.M.Johnst.",
-  "genus_name": "Fitzroya",
-  "family_name": "Cupressaceae",
+  "parent_name": "Fitzroya",
   "gbif_id": "2684353",
   "powo_id": "105034-2",
   "iucn_id": "30926",

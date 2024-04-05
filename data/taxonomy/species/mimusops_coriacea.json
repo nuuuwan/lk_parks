@@ -1,8 +1,7 @@
 {
   "name": "Mimusops coriacea",
   "authorship": "(A.DC.) Miq.",
-  "genus_name": "Mimusops",
-  "family_name": "Sapotaceae",
+  "parent_name": "Mimusops",
   "gbif_id": "2883694",
   "powo_id": "787885-1",
   "iucn_id": "151515702",

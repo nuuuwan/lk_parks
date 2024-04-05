@@ -1,8 +1,7 @@
 {
   "name": "Hernandia nymphaeifolia",
   "authorship": "(C.Presl) Kubitzki",
-  "genus_name": "Hernandia",
-  "family_name": "Hernandiaceae",
+  "parent_name": "Hernandia",
   "gbif_id": "3685338",
   "powo_id": "430812-1",
   "iucn_id": "99007617",

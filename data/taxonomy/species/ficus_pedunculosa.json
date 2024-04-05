@@ -1,8 +1,7 @@
 {
   "name": "Ficus pedunculosa",
   "authorship": "Miq.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5569844",
   "powo_id": "853390-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Anthodiscus chocoensis",
   "authorship": "Prance",
-  "genus_name": "Anthodiscus",
-  "family_name": "Caryocaraceae",
+  "parent_name": "Anthodiscus",
   "gbif_id": "5592412",
   "powo_id": "15002-2",
   "iucn_id": "34281",

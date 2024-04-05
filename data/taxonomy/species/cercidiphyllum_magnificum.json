@@ -1,8 +1,7 @@
 {
   "name": "Cercidiphyllum magnificum",
   "authorship": "(Nakai) Nakai",
-  "genus_name": "Cercidiphyllum",
-  "family_name": "Cercidiphyllaceae",
+  "parent_name": "Cercidiphyllum",
   "gbif_id": "7262157",
   "powo_id": "163100-1",
   "iucn_id": "169596997",

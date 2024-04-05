@@ -1,8 +1,7 @@
 {
   "name": "Sabal bermudana",
   "authorship": "L.H.Bailey",
-  "genus_name": "Sabal",
-  "family_name": "Arecaceae",
+  "parent_name": "Sabal",
   "gbif_id": "2732489",
   "powo_id": "284484-2",
   "iucn_id": "38691",

@@ -1,8 +1,7 @@
 {
   "name": "Dracaena reflexa",
   "authorship": "Lam.",
-  "genus_name": "Dracaena",
-  "family_name": "Asparagaceae",
+  "parent_name": "Dracaena",
   "gbif_id": "5304436",
   "powo_id": "534338-1",
   "iucn_id": "68150169",

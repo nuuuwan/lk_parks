@@ -1,8 +1,7 @@
 {
   "name": "Gynochthodes mollis",
   "authorship": "(A.Gray) Razafim. & B.Bremer",
-  "genus_name": "Gynochthodes",
-  "family_name": "Rubiaceae",
+  "parent_name": "Gynochthodes",
   "gbif_id": "7662212",
   "powo_id": "77117585-1",
   "iucn_id": null,

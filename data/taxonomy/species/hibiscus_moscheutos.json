@@ -1,8 +1,7 @@
 {
   "name": "Hibiscus moscheutos",
   "authorship": "L.",
-  "genus_name": "Hibiscus",
-  "family_name": "Malvaceae",
+  "parent_name": "Hibiscus",
   "gbif_id": "3152596",
   "powo_id": "30181863-2",
   "iucn_id": "64314251",

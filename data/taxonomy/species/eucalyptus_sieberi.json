@@ -1,8 +1,7 @@
 {
   "name": "Eucalyptus sieberi",
   "authorship": "L.A.S.Johnson",
-  "genus_name": "Eucalyptus",
-  "family_name": "Myrtaceae",
+  "parent_name": "Eucalyptus",
   "gbif_id": "3177330",
   "powo_id": "593360-1",
   "iucn_id": "133374298",

@@ -1,8 +1,7 @@
 {
   "name": "Pilocosta oerstedii",
   "authorship": "(Triana) Almeda & Whiffin",
-  "genus_name": "Pilocosta",
-  "family_name": "Melastomataceae",
+  "parent_name": "Pilocosta",
   "gbif_id": "3871017",
   "powo_id": "196648-2",
   "iucn_id": null,

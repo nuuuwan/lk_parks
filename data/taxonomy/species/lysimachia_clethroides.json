@@ -1,8 +1,7 @@
 {
   "name": "Lysimachia clethroides",
   "authorship": "Duby",
-  "genus_name": "Lysimachia",
-  "family_name": "Primulaceae",
+  "parent_name": "Lysimachia",
   "gbif_id": "3169331",
   "powo_id": "701080-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Prunus pumila",
   "authorship": "L.",
-  "genus_name": "Prunus",
-  "family_name": "Rosaceae",
+  "parent_name": "Prunus",
   "gbif_id": "3021605",
   "powo_id": "318564-2",
   "iucn_id": null,

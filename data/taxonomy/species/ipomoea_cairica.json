@@ -1,8 +1,7 @@
 {
   "name": "Ipomoea cairica",
   "authorship": "(L.) Sweet",
-  "genus_name": "Ipomoea",
-  "family_name": "Convolvulaceae",
+  "parent_name": "Ipomoea",
   "gbif_id": "2928531",
   "powo_id": "268564-1",
   "iucn_id": "19237651",

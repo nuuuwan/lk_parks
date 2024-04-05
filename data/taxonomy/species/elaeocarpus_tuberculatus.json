@@ -1,8 +1,7 @@
 {
   "name": "Elaeocarpus tuberculatus",
   "authorship": "Roxb.",
-  "genus_name": "Elaeocarpus",
-  "family_name": "Elaeocarpaceae",
+  "parent_name": "Elaeocarpus",
   "gbif_id": "4031240",
   "powo_id": "833987-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Aquilaria cumingiana",
   "authorship": "(Decne.) Ridl.",
-  "genus_name": "Aquilaria",
-  "family_name": "Thymelaeaceae",
+  "parent_name": "Aquilaria",
   "gbif_id": "5524111",
   "powo_id": "77098264-1",
   "iucn_id": "38068",

@@ -1,8 +1,7 @@
 {
   "name": "Liquidambar styraciflua",
   "authorship": "L.",
-  "genus_name": "Liquidambar",
-  "family_name": "Altingiaceae",
+  "parent_name": "Liquidambar",
   "gbif_id": "3152824",
   "powo_id": "430718-1",
   "iucn_id": "33966",

@@ -1,8 +1,7 @@
 {
   "name": "Allophylus rubifolius",
   "authorship": "(Hochst. ex A.Rich.) Engl.",
-  "genus_name": "Allophylus",
-  "family_name": "Sapindaceae",
+  "parent_name": "Allophylus",
   "gbif_id": "7264799",
   "powo_id": "781920-1",
   "iucn_id": "146205220",

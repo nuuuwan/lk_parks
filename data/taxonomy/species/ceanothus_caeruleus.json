@@ -1,8 +1,7 @@
 {
   "name": "Ceanothus caeruleus",
   "authorship": "Lag.",
-  "genus_name": "Ceanothus",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Ceanothus",
   "gbif_id": "3875440",
   "powo_id": "716773-1",
   "iucn_id": "150102566",

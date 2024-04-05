@@ -1,8 +1,7 @@
 {
   "name": "Nematanthus crassifolius",
   "authorship": "(Schott) Wiehler",
-  "genus_name": "Nematanthus",
-  "family_name": "Gesneriaceae",
+  "parent_name": "Nematanthus",
   "gbif_id": "6365200",
   "powo_id": "168191-2",
   "iucn_id": null,

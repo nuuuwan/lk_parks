@@ -1,8 +1,7 @@
 {
   "name": "Rosa setigera",
   "authorship": "Michx.",
-  "genus_name": "Rosa",
-  "family_name": "Rosaceae",
+  "parent_name": "Rosa",
   "gbif_id": "3004638",
   "powo_id": "734247-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Senna sophera",
   "authorship": "(L.) Roxb.",
-  "genus_name": "Senna",
-  "family_name": "Fabaceae",
+  "parent_name": "Senna",
   "gbif_id": "2957379",
   "powo_id": "518364-1",
   "iucn_id": null,

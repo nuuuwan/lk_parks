@@ -1,8 +1,7 @@
 {
   "name": "Pleioblastus argenteostriatus",
   "authorship": "(Regel) Nakai",
-  "genus_name": "Pleioblastus",
-  "family_name": "Poaceae",
+  "parent_name": "Pleioblastus",
   "gbif_id": "4132188",
   "powo_id": "416256-1",
   "iucn_id": null,

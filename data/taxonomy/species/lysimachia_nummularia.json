@@ -1,8 +1,7 @@
 {
   "name": "Lysimachia nummularia",
   "authorship": "L.",
-  "genus_name": "Lysimachia",
-  "family_name": "Primulaceae",
+  "parent_name": "Lysimachia",
   "gbif_id": "3169379",
   "powo_id": "701260-1",
   "iucn_id": "167913",

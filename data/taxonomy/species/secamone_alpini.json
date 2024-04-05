@@ -1,8 +1,7 @@
 {
   "name": "Secamone alpini",
   "authorship": "Schult.",
-  "genus_name": "Secamone",
-  "family_name": "Apocynaceae",
+  "parent_name": "Secamone",
   "gbif_id": "3579429",
   "powo_id": "101298-1",
   "iucn_id": null,

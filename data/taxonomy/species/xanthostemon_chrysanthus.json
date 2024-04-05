@@ -1,8 +1,7 @@
 {
   "name": "Xanthostemon chrysanthus",
   "authorship": "(F.Muell.) Benth.",
-  "genus_name": "Xanthostemon",
-  "family_name": "Myrtaceae",
+  "parent_name": "Xanthostemon",
   "gbif_id": "3180849",
   "powo_id": "602767-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Bertholletia excelsa",
   "authorship": "Bonpl.",
-  "genus_name": "Bertholletia",
-  "family_name": "Lecythidaceae",
+  "parent_name": "Bertholletia",
   "gbif_id": "3083180",
   "powo_id": "591270-1",
   "iucn_id": "32986",

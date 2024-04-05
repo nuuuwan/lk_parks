@@ -1,8 +1,7 @@
 {
   "name": "Pritchardia minor",
   "authorship": "Becc.",
-  "genus_name": "Pritchardia",
-  "family_name": "Arecaceae",
+  "parent_name": "Pritchardia",
   "gbif_id": "5294646",
   "powo_id": "669285-1",
   "iucn_id": "80228952",

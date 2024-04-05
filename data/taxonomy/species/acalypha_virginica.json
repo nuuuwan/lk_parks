@@ -1,8 +1,7 @@
 {
   "name": "Acalypha virginica",
   "authorship": "L.",
-  "genus_name": "Acalypha",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Acalypha",
   "gbif_id": "3056055",
   "powo_id": "1586-2",
   "iucn_id": null,

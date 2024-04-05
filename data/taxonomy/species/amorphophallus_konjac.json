@@ -1,8 +1,7 @@
 {
   "name": "Amorphophallus konjac",
   "authorship": "K.Koch",
-  "genus_name": "Amorphophallus",
-  "family_name": "Araceae",
+  "parent_name": "Amorphophallus",
   "gbif_id": "2871520",
   "powo_id": "84377-1",
   "iucn_id": null,

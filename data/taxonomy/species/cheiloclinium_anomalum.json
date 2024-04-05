@@ -1,8 +1,7 @@
 {
   "name": "Cheiloclinium anomalum",
   "authorship": "Miers",
-  "genus_name": "Cheiloclinium",
-  "family_name": "Celastraceae",
+  "parent_name": "Cheiloclinium",
   "gbif_id": "3790800",
   "powo_id": "430947-1",
   "iucn_id": null,

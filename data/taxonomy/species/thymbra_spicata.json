@@ -1,8 +1,7 @@
 {
   "name": "Thymbra spicata",
   "authorship": "L.",
-  "genus_name": "Thymbra",
-  "family_name": "Lamiaceae",
+  "parent_name": "Thymbra",
   "gbif_id": "7307908",
   "powo_id": "460827-1",
   "iucn_id": null,

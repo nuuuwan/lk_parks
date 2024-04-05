@@ -1,8 +1,7 @@
 {
   "name": "Flacourtia indica",
   "authorship": "(Burm.f.) Merr.",
-  "genus_name": "Flacourtia",
-  "family_name": "Salicaceae",
+  "parent_name": "Flacourtia",
   "gbif_id": "5331162",
   "powo_id": "365348-1",
   "iucn_id": "146188176",

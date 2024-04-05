@@ -1,8 +1,7 @@
 {
   "name": "Solanum chenopodioides",
   "authorship": "Lam.",
-  "genus_name": "Solanum",
-  "family_name": "Solanaceae",
+  "parent_name": "Solanum",
   "gbif_id": "2929710",
   "powo_id": "818670-1",
   "iucn_id": null,

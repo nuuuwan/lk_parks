@@ -1,8 +1,7 @@
 {
   "name": "Hypoestes phyllostachya",
   "authorship": "Baker",
-  "genus_name": "Hypoestes",
-  "family_name": "Acanthaceae",
+  "parent_name": "Hypoestes",
   "gbif_id": "3173196",
   "powo_id": "49962-1",
   "iucn_id": null,

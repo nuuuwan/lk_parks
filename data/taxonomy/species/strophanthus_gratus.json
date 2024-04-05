@@ -1,8 +1,7 @@
 {
   "name": "Strophanthus gratus",
   "authorship": "(Wall. & Hook.) Baill.",
-  "genus_name": "Strophanthus",
-  "family_name": "Apocynaceae",
+  "parent_name": "Strophanthus",
   "gbif_id": "8685745",
   "powo_id": "81895-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Juglans californica",
   "authorship": "S.Watson",
-  "genus_name": "Juglans",
-  "family_name": "Juglandaceae",
+  "parent_name": "Juglans",
   "gbif_id": "3054354",
   "powo_id": "30014392-2",
   "iucn_id": "35154",

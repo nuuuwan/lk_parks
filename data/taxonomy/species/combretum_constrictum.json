@@ -1,8 +1,7 @@
 {
   "name": "Combretum constrictum",
   "authorship": "(Benth.) M.A.Lawson",
-  "genus_name": "Combretum",
-  "family_name": "Combretaceae",
+  "parent_name": "Combretum",
   "gbif_id": "3699419",
   "powo_id": "170010-1",
   "iucn_id": null,

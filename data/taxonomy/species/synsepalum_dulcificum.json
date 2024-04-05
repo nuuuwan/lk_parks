@@ -1,8 +1,7 @@
 {
   "name": "Synsepalum dulcificum",
   "authorship": "(Schumach. & Thonn.) Daniell",
-  "genus_name": "Synsepalum",
-  "family_name": "Sapotaceae",
+  "parent_name": "Synsepalum",
   "gbif_id": "2886039",
   "powo_id": "789924-1",
   "iucn_id": "87719610",

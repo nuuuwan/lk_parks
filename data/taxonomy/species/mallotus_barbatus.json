@@ -1,8 +1,7 @@
 {
   "name": "Mallotus barbatus",
   "authorship": "M\u00fcll.Arg.",
-  "genus_name": "Mallotus",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Mallotus",
   "gbif_id": "5378750",
   "powo_id": "351489-1",
   "iucn_id": "136139294",

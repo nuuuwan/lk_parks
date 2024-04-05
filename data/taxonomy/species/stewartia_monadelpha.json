@@ -1,8 +1,7 @@
 {
   "name": "Stewartia monadelpha",
   "authorship": "Siebold & Zucc.",
-  "genus_name": "Stewartia",
-  "family_name": "Theaceae",
+  "parent_name": "Stewartia",
   "gbif_id": "5528333",
   "powo_id": "829517-1",
   "iucn_id": "62086251",

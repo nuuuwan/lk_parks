@@ -1,8 +1,7 @@
 {
   "name": "Aroniaria dippelii",
   "authorship": "(Zabel) Mezhenskyj",
-  "genus_name": "Aroniaria",
-  "family_name": "Rosaceae",
+  "parent_name": "Aroniaria",
   "gbif_id": "10868985",
   "powo_id": "77159172-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Galium elongatum",
   "authorship": "C.Presl",
-  "genus_name": "Galium",
-  "family_name": "Rubiaceae",
+  "parent_name": "Galium",
   "gbif_id": "2913128",
   "powo_id": "749857-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Pavetta gardeniifolia",
   "authorship": "Hochst. ex A.Rich.",
-  "genus_name": "Pavetta",
-  "family_name": "Rubiaceae",
+  "parent_name": "Pavetta",
   "gbif_id": "2924573",
   "powo_id": "759695-1",
   "iucn_id": "146456649",

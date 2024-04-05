@@ -1,8 +1,7 @@
 {
   "name": "Erythrophleum fordii",
   "authorship": "Oliv.",
-  "genus_name": "Erythrophleum",
-  "family_name": "Fabaceae",
+  "parent_name": "Erythrophleum",
   "gbif_id": "2971186",
   "powo_id": "494635-1",
   "iucn_id": "32342",

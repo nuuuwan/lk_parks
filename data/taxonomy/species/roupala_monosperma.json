@@ -1,8 +1,7 @@
 {
   "name": "Roupala monosperma",
   "authorship": "(Ruiz & Pav.) I.M.Johnst.",
-  "genus_name": "Roupala",
-  "family_name": "Proteaceae",
+  "parent_name": "Roupala",
   "gbif_id": "7287672",
   "powo_id": "222667-2",
   "iucn_id": "36995",

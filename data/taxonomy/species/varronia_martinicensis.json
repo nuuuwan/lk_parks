@@ -1,8 +1,7 @@
 {
   "name": "Varronia martinicensis",
   "authorship": "Jacq.",
-  "genus_name": "Varronia",
-  "family_name": "Boraginaceae",
+  "parent_name": "Varronia",
   "gbif_id": "8405933",
   "powo_id": "121463-1",
   "iucn_id": null,

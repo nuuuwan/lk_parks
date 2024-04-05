@@ -1,8 +1,7 @@
 {
   "name": "Liriodendron chinense",
   "authorship": "(Hemsl.) Sarg.",
-  "genus_name": "Liriodendron",
-  "family_name": "Magnoliaceae",
+  "parent_name": "Liriodendron",
   "gbif_id": "3152873",
   "powo_id": "554609-1",
   "iucn_id": "31284",

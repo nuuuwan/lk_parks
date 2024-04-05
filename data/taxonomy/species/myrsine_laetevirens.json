@@ -1,8 +1,7 @@
 {
   "name": "Myrsine laetevirens",
   "authorship": "(Mez) Arechav.",
-  "genus_name": "Myrsine",
-  "family_name": "Primulaceae",
+  "parent_name": "Myrsine",
   "gbif_id": "7331040",
   "powo_id": "166568-2",
   "iucn_id": null,

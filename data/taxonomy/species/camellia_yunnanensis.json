@@ -1,8 +1,7 @@
 {
   "name": "Camellia yunnanensis",
   "authorship": "(Pit. ex Diels) Cohen-Stuart",
-  "genus_name": "Camellia",
-  "family_name": "Theaceae",
+  "parent_name": "Camellia",
   "gbif_id": "7313823",
   "powo_id": "830010-1",
   "iucn_id": "62059596",

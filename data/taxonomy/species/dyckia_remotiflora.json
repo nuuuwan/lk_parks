@@ -1,8 +1,7 @@
 {
   "name": "Dyckia remotiflora",
   "authorship": "A.Dietr.",
-  "genus_name": "Dyckia",
-  "family_name": "Bromeliaceae",
+  "parent_name": "Dyckia",
   "gbif_id": "2699629",
   "powo_id": "86329-2",
   "iucn_id": null,

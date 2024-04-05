@@ -1,8 +1,7 @@
 {
   "name": "Mauritiella armata",
   "authorship": "(Mart.) Burret",
-  "genus_name": "Mauritiella",
-  "family_name": "Arecaceae",
+  "parent_name": "Mauritiella",
   "gbif_id": "5293366",
   "powo_id": "154897-2",
   "iucn_id": null,

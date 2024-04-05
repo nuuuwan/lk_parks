@@ -1,8 +1,7 @@
 {
   "name": "Geonoma elegans",
   "authorship": "Mart.",
-  "genus_name": "Geonoma",
-  "family_name": "Arecaceae",
+  "parent_name": "Geonoma",
   "gbif_id": "2734255",
   "powo_id": "667074-1",
   "iucn_id": null,

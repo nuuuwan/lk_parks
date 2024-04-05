@@ -1,8 +1,7 @@
 {
   "name": "Magnolia doltsopa",
   "authorship": "(Buch.-Ham. ex DC.) Figlar",
-  "genus_name": "Magnolia",
-  "family_name": "Magnoliaceae",
+  "parent_name": "Magnolia",
   "gbif_id": "3153955",
   "powo_id": "20011686-1",
   "iucn_id": "193936",

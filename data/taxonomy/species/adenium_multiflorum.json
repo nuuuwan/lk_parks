@@ -1,8 +1,7 @@
 {
   "name": "Adenium multiflorum",
   "authorship": "Klotzsch",
-  "genus_name": "Adenium",
-  "family_name": "Apocynaceae",
+  "parent_name": "Adenium",
   "gbif_id": "3619335",
   "powo_id": "76366-1",
   "iucn_id": "141550059",

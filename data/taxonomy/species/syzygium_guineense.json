@@ -1,8 +1,7 @@
 {
   "name": "Syzygium guineense",
   "authorship": "(Willd.) DC.",
-  "genus_name": "Syzygium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syzygium",
   "gbif_id": "3183278",
   "powo_id": "601750-1",
   "iucn_id": "111329734",

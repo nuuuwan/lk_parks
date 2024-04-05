@@ -1,8 +1,7 @@
 {
   "name": "Aphanamixis polystachya",
   "authorship": "(Wall.) R.Parker",
-  "genus_name": "Aphanamixis",
-  "family_name": "Meliaceae",
+  "parent_name": "Aphanamixis",
   "gbif_id": "5597304",
   "powo_id": "577579-1",
   "iucn_id": "33616",

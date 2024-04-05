@@ -1,8 +1,7 @@
 {
   "name": "Roseodendron donnell-smithii",
   "authorship": "(Rose) Miranda",
-  "genus_name": "Roseodendron",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Roseodendron",
   "gbif_id": "3172541",
   "powo_id": "222518-2",
   "iucn_id": "61986198",

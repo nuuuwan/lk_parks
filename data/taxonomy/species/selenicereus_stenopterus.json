@@ -1,8 +1,7 @@
 {
   "name": "Selenicereus stenopterus",
   "authorship": "(F.A.C.Weber) D.R.Hunt",
-  "genus_name": "Selenicereus",
-  "family_name": "Cactaceae",
+  "parent_name": "Selenicereus",
   "gbif_id": "10687125",
   "powo_id": "77163182-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Backhousia citriodora",
   "authorship": "F.Muell.",
-  "genus_name": "Backhousia",
-  "family_name": "Myrtaceae",
+  "parent_name": "Backhousia",
   "gbif_id": "3185109",
   "powo_id": "591026-1",
   "iucn_id": null,

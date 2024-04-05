@@ -1,8 +1,7 @@
 {
   "name": "Marcgravia nepenthoides",
   "authorship": "Seem.",
-  "genus_name": "Marcgravia",
-  "family_name": "Marcgraviaceae",
+  "parent_name": "Marcgravia",
   "gbif_id": "5614666",
   "powo_id": "829070-1",
   "iucn_id": null,

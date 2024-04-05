@@ -1,8 +1,7 @@
 {
   "name": "Lonchocarpus sericeus",
   "authorship": "(Poir.) Kunth ex DC.",
-  "genus_name": "Lonchocarpus",
-  "family_name": "Fabaceae",
+  "parent_name": "Lonchocarpus",
   "gbif_id": "2969156",
   "powo_id": "143380-2",
   "iucn_id": "144288489",

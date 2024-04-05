@@ -1,8 +1,7 @@
 {
   "name": "Xylocarpus rumphii",
   "authorship": "(Kostel.) Mabb.",
-  "genus_name": "Xylocarpus",
-  "family_name": "Meliaceae",
+  "parent_name": "Xylocarpus",
   "gbif_id": "3850981",
   "powo_id": "911650-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Pilocarpus pennatifolius",
   "authorship": "Lem.",
-  "genus_name": "Pilocarpus",
-  "family_name": "Rutaceae",
+  "parent_name": "Pilocarpus",
   "gbif_id": "7269513",
   "powo_id": "774834-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Stemodia durantifolia",
   "authorship": "(L.) Sw.",
-  "genus_name": "Stemodia",
-  "family_name": "Plantaginaceae",
+  "parent_name": "Stemodia",
   "gbif_id": "3171748",
   "powo_id": "328499-2",
   "iucn_id": null,

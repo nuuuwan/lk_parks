@@ -1,8 +1,7 @@
 {
   "name": "Costus barbatus",
   "authorship": "Suess.",
-  "genus_name": "Costus",
-  "family_name": "Costaceae",
+  "parent_name": "Costus",
   "gbif_id": "2756909",
   "powo_id": "66823-2",
   "iucn_id": "56234708",

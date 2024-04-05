@@ -1,8 +1,7 @@
 {
   "name": "Cleome spinosa",
   "authorship": "Jacq.",
-  "genus_name": "Cleome",
-  "family_name": "Cleomaceae",
+  "parent_name": "Cleome",
   "gbif_id": "3054201",
   "powo_id": "60589-2",
   "iucn_id": null,

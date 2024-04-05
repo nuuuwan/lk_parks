@@ -1,8 +1,7 @@
 {
   "name": "Phlebotaenia cowellii",
   "authorship": "Britton",
-  "genus_name": "Phlebotaenia",
-  "family_name": "Polygalaceae",
+  "parent_name": "Phlebotaenia",
   "gbif_id": "3191460",
   "powo_id": "193312-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Detarium microcarpum",
   "authorship": "Guill. & Perr.",
-  "genus_name": "Detarium",
-  "family_name": "Fabaceae",
+  "parent_name": "Detarium",
   "gbif_id": "2961176",
   "powo_id": "492282-1",
   "iucn_id": "19893027",

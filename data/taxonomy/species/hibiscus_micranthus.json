@@ -1,8 +1,7 @@
 {
   "name": "Hibiscus micranthus",
   "authorship": "L.f.",
-  "genus_name": "Hibiscus",
-  "family_name": "Malvaceae",
+  "parent_name": "Hibiscus",
   "gbif_id": "8356610",
   "powo_id": "560520-1",
   "iucn_id": null,

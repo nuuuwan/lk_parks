@@ -1,8 +1,7 @@
 {
   "name": "Gomphocarpus physocarpus",
   "authorship": "E.Mey.",
-  "genus_name": "Gomphocarpus",
-  "family_name": "Apocynaceae",
+  "parent_name": "Gomphocarpus",
   "gbif_id": "3170326",
   "powo_id": "97670-1",
   "iucn_id": null,

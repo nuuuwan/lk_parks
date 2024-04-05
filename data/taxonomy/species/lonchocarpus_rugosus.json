@@ -1,8 +1,7 @@
 {
   "name": "Lonchocarpus rugosus",
   "authorship": "Benth.",
-  "genus_name": "Lonchocarpus",
-  "family_name": "Fabaceae",
+  "parent_name": "Lonchocarpus",
   "gbif_id": "2969185",
   "powo_id": "503086-1",
   "iucn_id": "19891846",

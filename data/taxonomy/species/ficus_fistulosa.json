@@ -1,8 +1,7 @@
 {
   "name": "Ficus fistulosa",
   "authorship": "Reinw. ex Blume",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "7262725",
   "powo_id": "852846-1",
   "iucn_id": "147493386",

@@ -1,8 +1,7 @@
 {
   "name": "Dendrobium closterium",
   "authorship": "Rchb.f.",
-  "genus_name": "Dendrobium",
-  "family_name": "Orchidaceae",
+  "parent_name": "Dendrobium",
   "gbif_id": "5316827",
   "powo_id": "627117-1",
   "iucn_id": "157892950",

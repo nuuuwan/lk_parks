@@ -1,8 +1,7 @@
 {
   "name": "Strobilanthes auriculata",
   "authorship": "Nees",
-  "genus_name": "Strobilanthes",
-  "family_name": "Acanthaceae",
+  "parent_name": "Strobilanthes",
   "gbif_id": "7263204",
   "powo_id": "55560-1",
   "iucn_id": null,

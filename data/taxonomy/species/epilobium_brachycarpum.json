@@ -1,8 +1,7 @@
 {
   "name": "Epilobium brachycarpum",
   "authorship": "C.Presl",
-  "genus_name": "Epilobium",
-  "family_name": "Onagraceae",
+  "parent_name": "Epilobium",
   "gbif_id": "3189073",
   "powo_id": "611683-1",
   "iucn_id": null,

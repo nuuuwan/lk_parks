@@ -1,8 +1,7 @@
 {
   "name": "Leuenbergeria quisqueyana",
   "authorship": "(Alain) Lod\u00e9",
-  "genus_name": "Leuenbergeria",
-  "family_name": "Cactaceae",
+  "parent_name": "Leuenbergeria",
   "gbif_id": "10985379",
   "powo_id": "60461849-2",
   "iucn_id": null,

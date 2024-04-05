@@ -1,8 +1,7 @@
 {
   "name": "Livistona jenkinsiana",
   "authorship": "Griff.",
-  "genus_name": "Livistona",
-  "family_name": "Arecaceae",
+  "parent_name": "Livistona",
   "gbif_id": "2733485",
   "powo_id": "668042-1",
   "iucn_id": null,

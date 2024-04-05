@@ -1,8 +1,7 @@
 {
   "name": "Alpinia calcarata",
   "authorship": "(Andrews) Roscoe",
-  "genus_name": "Alpinia",
-  "family_name": "Zingiberaceae",
+  "parent_name": "Alpinia",
   "gbif_id": "5302054",
   "powo_id": "795225-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Allophylus psilospermus",
   "authorship": "Radlk.",
-  "genus_name": "Allophylus",
-  "family_name": "Sapindaceae",
+  "parent_name": "Allophylus",
   "gbif_id": "5577078",
   "powo_id": "781899-1",
   "iucn_id": "176097561",

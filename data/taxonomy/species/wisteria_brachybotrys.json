@@ -1,8 +1,7 @@
 {
   "name": "Wisteria brachybotrys",
   "authorship": "Siebold & Zucc.",
-  "genus_name": "Wisteria",
-  "family_name": "Fabaceae",
+  "parent_name": "Wisteria",
   "gbif_id": "2977318",
   "powo_id": "268990-2",
   "iucn_id": null,

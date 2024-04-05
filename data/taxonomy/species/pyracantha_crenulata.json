@@ -1,8 +1,7 @@
 {
   "name": "Pyracantha crenulata",
   "authorship": "(D.Don) M.Roem.",
-  "genus_name": "Pyracantha",
-  "family_name": "Rosaceae",
+  "parent_name": "Pyracantha",
   "gbif_id": "2988172",
   "powo_id": "730613-1",
   "iucn_id": "150226500",

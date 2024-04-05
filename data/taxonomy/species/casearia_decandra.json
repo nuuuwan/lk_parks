@@ -1,8 +1,7 @@
 {
   "name": "Casearia decandra",
   "authorship": "Jacq.",
-  "genus_name": "Casearia",
-  "family_name": "Salicaceae",
+  "parent_name": "Casearia",
   "gbif_id": "5331147",
   "powo_id": "779541-1",
   "iucn_id": "208122817",

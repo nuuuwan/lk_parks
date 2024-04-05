@@ -1,8 +1,7 @@
 {
   "name": "Rhododendron crinigerum",
   "authorship": "Franch.",
-  "genus_name": "Rhododendron",
-  "family_name": "Ericaceae",
+  "parent_name": "Rhododendron",
   "gbif_id": "4165630",
   "powo_id": "332263-1",
   "iucn_id": null,

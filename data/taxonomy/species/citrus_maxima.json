@@ -1,8 +1,7 @@
 {
   "name": "Citrus maxima",
   "authorship": "(Burm.) Merr.",
-  "genus_name": "Citrus",
-  "family_name": "Rutaceae",
+  "parent_name": "Citrus",
   "gbif_id": "3190160",
   "powo_id": "30075266-2",
   "iucn_id": "62042732",

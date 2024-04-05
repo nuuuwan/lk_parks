@@ -1,8 +1,7 @@
 {
   "name": "Hovenia acerba",
   "authorship": "Lindl.",
-  "genus_name": "Hovenia",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Hovenia",
   "gbif_id": "7273758",
   "powo_id": "717557-1",
   "iucn_id": "147025954",

@@ -1,8 +1,7 @@
 {
   "name": "Fraxinus excelsior",
   "authorship": "L.",
-  "genus_name": "Fraxinus",
-  "family_name": "Oleaceae",
+  "parent_name": "Fraxinus",
   "gbif_id": "3172358",
   "powo_id": "609009-1",
   "iucn_id": "203367",

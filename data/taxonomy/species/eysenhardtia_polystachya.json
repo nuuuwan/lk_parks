@@ -1,8 +1,7 @@
 {
   "name": "Eysenhardtia polystachya",
   "authorship": "(Ortega) Sarg.",
-  "genus_name": "Eysenhardtia",
-  "family_name": "Fabaceae",
+  "parent_name": "Eysenhardtia",
   "gbif_id": "2964737",
   "powo_id": "102904-2",
   "iucn_id": "19892426",

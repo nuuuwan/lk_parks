@@ -1,8 +1,7 @@
 {
   "name": "Morisonia indica",
   "authorship": "(L.) ined.",
-  "genus_name": "Morisonia",
-  "family_name": "Capparaceae",
+  "parent_name": "Morisonia",
   "gbif_id": null,
   "powo_id": "77217338-1",
   "iucn_id": null,

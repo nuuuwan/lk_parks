@@ -1,8 +1,7 @@
 {
   "name": "Hamamelis japonica",
   "authorship": "Siebold & Zucc.",
-  "genus_name": "Hamamelis",
-  "family_name": "Hamamelidaceae",
+  "parent_name": "Hamamelis",
   "gbif_id": "7329039",
   "powo_id": "430683-1",
   "iucn_id": null,

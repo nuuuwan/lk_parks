@@ -1,8 +1,7 @@
 {
   "name": "Combretum caffrum",
   "authorship": "(Eckl. & Zeyh.) Kuntze",
-  "genus_name": "Combretum",
-  "family_name": "Combretaceae",
+  "parent_name": "Combretum",
   "gbif_id": "3699709",
   "powo_id": "169982-1",
   "iucn_id": "208458264",

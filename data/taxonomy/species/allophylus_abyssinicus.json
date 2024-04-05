@@ -1,8 +1,7 @@
 {
   "name": "Allophylus abyssinicus",
   "authorship": "(Hochst.) Radlk.",
-  "genus_name": "Allophylus",
-  "family_name": "Sapindaceae",
+  "parent_name": "Allophylus",
   "gbif_id": "5578024",
   "powo_id": "781673-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Sinojackia xylocarpa",
   "authorship": "Hu",
-  "genus_name": "Sinojackia",
-  "family_name": "Styracaceae",
+  "parent_name": "Sinojackia",
   "gbif_id": "7320007",
   "powo_id": "826672-1",
   "iucn_id": "32374",

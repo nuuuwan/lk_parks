@@ -1,8 +1,7 @@
 {
   "name": "Nypa fruticans",
   "authorship": "Wurmb",
-  "genus_name": "Nypa",
-  "family_name": "Arecaceae",
+  "parent_name": "Nypa",
   "gbif_id": "2738422",
   "powo_id": "668507-1",
   "iucn_id": "178800",

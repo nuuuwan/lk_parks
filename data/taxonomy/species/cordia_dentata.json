@@ -1,8 +1,7 @@
 {
   "name": "Cordia dentata",
   "authorship": "Poir.",
-  "genus_name": "Cordia",
-  "family_name": "Boraginaceae",
+  "parent_name": "Cordia",
   "gbif_id": "5361859",
   "powo_id": "927551-1",
   "iucn_id": "144117450",

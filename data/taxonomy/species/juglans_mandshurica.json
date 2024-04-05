@@ -1,8 +1,7 @@
 {
   "name": "Juglans mandshurica",
   "authorship": "Maxim.",
-  "genus_name": "Juglans",
-  "family_name": "Juglandaceae",
+  "parent_name": "Juglans",
   "gbif_id": "4205640",
   "powo_id": "442388-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Ehretia amoena",
   "authorship": "Klotzsch",
-  "genus_name": "Ehretia",
-  "family_name": "Boraginaceae",
+  "parent_name": "Ehretia",
   "gbif_id": "4067176",
   "powo_id": "115966-1",
   "iucn_id": "146188121",

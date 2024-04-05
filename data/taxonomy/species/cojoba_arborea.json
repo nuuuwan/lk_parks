@@ -1,8 +1,7 @@
 {
   "name": "Cojoba arborea",
   "authorship": "(L.) Britton & Rose",
-  "genus_name": "Cojoba",
-  "family_name": "Fabaceae",
+  "parent_name": "Cojoba",
   "gbif_id": "2981383",
   "powo_id": "62882-2",
   "iucn_id": "62021708",

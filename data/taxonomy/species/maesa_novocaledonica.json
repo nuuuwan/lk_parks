@@ -1,8 +1,7 @@
 {
   "name": "Maesa novocaledonica",
   "authorship": "Mez",
-  "genus_name": "Maesa",
-  "family_name": "Primulaceae",
+  "parent_name": "Maesa",
   "gbif_id": "8143156",
   "powo_id": "588890-1",
   "iucn_id": null,

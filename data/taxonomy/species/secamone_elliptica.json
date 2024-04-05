@@ -1,8 +1,7 @@
 {
   "name": "Secamone elliptica",
   "authorship": "R.Br.",
-  "genus_name": "Secamone",
-  "family_name": "Apocynaceae",
+  "parent_name": "Secamone",
   "gbif_id": "7312404",
   "powo_id": "101324-1",
   "iucn_id": null,

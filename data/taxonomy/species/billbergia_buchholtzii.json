@@ -1,8 +1,7 @@
 {
   "name": "Billbergia buchholtzii",
   "authorship": "Mez",
-  "genus_name": "Billbergia",
-  "family_name": "Bromeliaceae",
+  "parent_name": "Billbergia",
   "gbif_id": "2693747",
   "powo_id": "122052-1",
   "iucn_id": null,

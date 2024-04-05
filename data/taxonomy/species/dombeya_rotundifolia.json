@@ -1,8 +1,7 @@
 {
   "name": "Dombeya rotundifolia",
   "authorship": "(Hochst.) Planch.",
-  "genus_name": "Dombeya",
-  "family_name": "Malvaceae",
+  "parent_name": "Dombeya",
   "gbif_id": "5546739",
   "powo_id": "823206-1",
   "iucn_id": "39010",

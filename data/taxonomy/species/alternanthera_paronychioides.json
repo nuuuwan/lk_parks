@@ -1,8 +1,7 @@
 {
   "name": "Alternanthera paronychioides",
   "authorship": "A.St.-Hil.",
-  "genus_name": "Alternanthera",
-  "family_name": "Amaranthaceae",
+  "parent_name": "Alternanthera",
   "gbif_id": "3084922",
   "powo_id": "327343-2",
   "iucn_id": null,

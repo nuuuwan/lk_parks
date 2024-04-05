@@ -1,8 +1,7 @@
 {
   "name": "Corydalis aurea",
   "authorship": "Willd.",
-  "genus_name": "Corydalis",
-  "family_name": "Papaveraceae",
+  "parent_name": "Corydalis",
   "gbif_id": "5334210",
   "powo_id": "66345-2",
   "iucn_id": null,

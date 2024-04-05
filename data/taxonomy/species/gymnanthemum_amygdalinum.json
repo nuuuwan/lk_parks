@@ -1,8 +1,7 @@
 {
   "name": "Gymnanthemum amygdalinum",
   "authorship": "(Delile) Sch.Bip.",
-  "genus_name": "Gymnanthemum",
-  "family_name": "Asteraceae",
+  "parent_name": "Gymnanthemum",
   "gbif_id": "7966101",
   "powo_id": "210886-1",
   "iucn_id": null,

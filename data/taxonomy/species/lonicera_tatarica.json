@@ -1,8 +1,7 @@
 {
   "name": "Lonicera tatarica",
   "authorship": "L.",
-  "genus_name": "Lonicera",
-  "family_name": "Caprifoliaceae",
+  "parent_name": "Lonicera",
   "gbif_id": "5334242",
   "powo_id": "149131-1",
   "iucn_id": null,

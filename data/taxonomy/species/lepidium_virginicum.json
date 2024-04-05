@@ -1,8 +1,7 @@
 {
   "name": "Lepidium virginicum",
   "authorship": "L.",
-  "genus_name": "Lepidium",
-  "family_name": "Brassicaceae",
+  "parent_name": "Lepidium",
   "gbif_id": "5376648",
   "powo_id": "138164-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Ptychosperma elegans",
   "authorship": "(R.Br.) Blume",
-  "genus_name": "Ptychosperma",
-  "family_name": "Arecaceae",
+  "parent_name": "Ptychosperma",
   "gbif_id": "2733861",
   "powo_id": "669378-1",
   "iucn_id": "67556851",

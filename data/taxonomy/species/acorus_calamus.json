@@ -1,8 +1,7 @@
 {
   "name": "Acorus calamus",
   "authorship": "L.",
-  "genus_name": "Acorus",
-  "family_name": "Acoraceae",
+  "parent_name": "Acorus",
   "gbif_id": "2873769",
   "powo_id": "84009-1",
   "iucn_id": "168639",

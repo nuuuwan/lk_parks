@@ -1,8 +1,7 @@
 {
   "name": "Yucca gigantea",
   "authorship": "Lem.",
-  "genus_name": "Yucca",
-  "family_name": "Asparagaceae",
+  "parent_name": "Yucca",
   "gbif_id": "2775716",
   "powo_id": "543700-1",
   "iucn_id": null,

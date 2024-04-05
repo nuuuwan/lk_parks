@@ -1,8 +1,7 @@
 {
   "name": "Hydnophytum moseleyanum",
   "authorship": "Becc.",
-  "genus_name": "Hydnophytum",
-  "family_name": "Rubiaceae",
+  "parent_name": "Hydnophytum",
   "gbif_id": "2895758",
   "powo_id": "753483-1",
   "iucn_id": null,

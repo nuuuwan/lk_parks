@@ -1,8 +1,7 @@
 {
   "name": "Crescentia mirabilis",
   "authorship": "Ekman ex Urb.",
-  "genus_name": "Crescentia",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Crescentia",
   "gbif_id": "5668325",
   "powo_id": "69420-2",
   "iucn_id": null,

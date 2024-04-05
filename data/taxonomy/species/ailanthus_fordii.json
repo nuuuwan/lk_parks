@@ -1,8 +1,7 @@
 {
   "name": "Ailanthus fordii",
   "authorship": "Noot.",
-  "genus_name": "Ailanthus",
-  "family_name": "Simaroubaceae",
+  "parent_name": "Ailanthus",
   "gbif_id": "3709014",
   "powo_id": "813530-1",
   "iucn_id": null,

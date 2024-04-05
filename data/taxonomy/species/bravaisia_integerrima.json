@@ -1,8 +1,7 @@
 {
   "name": "Bravaisia integerrima",
   "authorship": "(Spreng.) Standl.",
-  "genus_name": "Bravaisia",
-  "family_name": "Acanthaceae",
+  "parent_name": "Bravaisia",
   "gbif_id": "7264178",
   "powo_id": "36223-2",
   "iucn_id": "176100390",

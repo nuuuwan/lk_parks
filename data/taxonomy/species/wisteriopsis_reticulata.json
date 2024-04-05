@@ -1,8 +1,7 @@
 {
   "name": "Wisteriopsis reticulata",
   "authorship": "(Benth.) J.Compton & Schrire",
-  "genus_name": "Wisteriopsis",
-  "family_name": "Fabaceae",
+  "parent_name": "Wisteriopsis",
   "gbif_id": "10514274",
   "powo_id": "77198992-1",
   "iucn_id": null,

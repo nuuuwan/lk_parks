@@ -1,8 +1,7 @@
 {
   "name": "Quassia amara",
   "authorship": "L.",
-  "genus_name": "Quassia",
-  "family_name": "Simaroubaceae",
+  "parent_name": "Quassia",
   "gbif_id": "3190647",
   "powo_id": "814006-1",
   "iucn_id": "150011976",

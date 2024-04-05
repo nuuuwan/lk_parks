@@ -1,8 +1,7 @@
 {
   "name": "Vachellia karroo",
   "authorship": "(Hayne) Banfi & Galasso",
-  "genus_name": "Vachellia",
-  "family_name": "Fabaceae",
+  "parent_name": "Vachellia",
   "gbif_id": "3974754",
   "powo_id": "77087189-1",
   "iucn_id": "168998171",

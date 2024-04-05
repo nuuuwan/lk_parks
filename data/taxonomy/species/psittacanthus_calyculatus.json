@@ -1,8 +1,7 @@
 {
   "name": "Psittacanthus calyculatus",
   "authorship": "(DC.) G.Don",
-  "genus_name": "Psittacanthus",
-  "family_name": "Loranthaceae",
+  "parent_name": "Psittacanthus",
   "gbif_id": "7287917",
   "powo_id": "551347-1",
   "iucn_id": null,

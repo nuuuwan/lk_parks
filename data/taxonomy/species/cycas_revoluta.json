@@ -1,8 +1,7 @@
 {
   "name": "Cycas revoluta",
   "authorship": "Thunb.",
-  "genus_name": "Cycas",
-  "family_name": "Cycadaceae",
+  "parent_name": "Cycas",
   "gbif_id": "2683217",
   "powo_id": "328823-2",
   "iucn_id": "42080",

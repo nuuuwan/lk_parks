@@ -1,8 +1,7 @@
 {
   "name": "Fouquieria formosa",
   "authorship": "Kunth",
-  "genus_name": "Fouquieria",
-  "family_name": "Fouquieriaceae",
+  "parent_name": "Fouquieria",
   "gbif_id": "3874355",
   "powo_id": "827953-1",
   "iucn_id": "126603554",

@@ -1,8 +1,7 @@
 {
   "name": "Barleria trispinosa",
   "authorship": "(Forssk.) Vahl",
-  "genus_name": "Barleria",
-  "family_name": "Acanthaceae",
+  "parent_name": "Barleria",
   "gbif_id": "3770299",
   "powo_id": "46256-1",
   "iucn_id": null,

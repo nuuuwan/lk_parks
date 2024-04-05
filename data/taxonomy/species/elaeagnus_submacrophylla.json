@@ -1,8 +1,7 @@
 {
   "name": "Elaeagnus submacrophylla",
   "authorship": "Servett.",
-  "genus_name": "Elaeagnus",
-  "family_name": "Elaeagnaceae",
+  "parent_name": "Elaeagnus",
   "gbif_id": "4048240",
   "powo_id": "60471500-2",
   "iucn_id": null,

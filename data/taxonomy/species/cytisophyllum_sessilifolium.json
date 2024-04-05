@@ -1,8 +1,7 @@
 {
   "name": "Cytisophyllum sessilifolium",
   "authorship": "(L.) O.Lang",
-  "genus_name": "Cytisophyllum",
-  "family_name": "Fabaceae",
+  "parent_name": "Cytisophyllum",
   "gbif_id": "2940408",
   "powo_id": "489589-1",
   "iucn_id": "83739234",

@@ -1,8 +1,7 @@
 {
   "name": "Gardenia imperialis",
   "authorship": "K.Schum.",
-  "genus_name": "Gardenia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Gardenia",
   "gbif_id": "5335157",
   "powo_id": "751061-1",
   "iucn_id": "146198230",

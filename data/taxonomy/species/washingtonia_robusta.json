@@ -1,8 +1,7 @@
 {
   "name": "Washingtonia robusta",
   "authorship": "H.Wendl.",
-  "genus_name": "Washingtonia",
-  "family_name": "Arecaceae",
+  "parent_name": "Washingtonia",
   "gbif_id": "5294595",
   "powo_id": "670278-1",
   "iucn_id": "58410979",

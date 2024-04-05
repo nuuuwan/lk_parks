@@ -1,8 +1,7 @@
 {
   "name": "Amphitecna latifolia",
   "authorship": "(Mill.) A.H.Gentry",
-  "genus_name": "Amphitecna",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Amphitecna",
   "gbif_id": "3172583",
   "powo_id": "108218-1",
   "iucn_id": "201804402",

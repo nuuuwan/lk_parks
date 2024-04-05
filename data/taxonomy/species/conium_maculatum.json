@@ -1,8 +1,7 @@
 {
   "name": "Conium maculatum",
   "authorship": "L.",
-  "genus_name": "Conium",
-  "family_name": "Apiaceae",
+  "parent_name": "Conium",
   "gbif_id": "3034807",
   "powo_id": "840668-1",
   "iucn_id": null,

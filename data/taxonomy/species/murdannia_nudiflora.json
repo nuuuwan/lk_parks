@@ -1,8 +1,7 @@
 {
   "name": "Murdannia nudiflora",
   "authorship": "(L.) Brenan",
-  "genus_name": "Murdannia",
-  "family_name": "Commelinaceae",
+  "parent_name": "Murdannia",
   "gbif_id": "2764680",
   "powo_id": "172873-1",
   "iucn_id": null,

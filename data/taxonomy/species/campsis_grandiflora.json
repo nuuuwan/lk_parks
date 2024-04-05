@@ -1,8 +1,7 @@
 {
   "name": "Campsis grandiflora",
   "authorship": "(Thunb.) K.Schum.",
-  "genus_name": "Campsis",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Campsis",
   "gbif_id": "4094511",
   "powo_id": "109136-1",
   "iucn_id": null,

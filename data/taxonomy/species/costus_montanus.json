@@ -1,8 +1,7 @@
 {
   "name": "Costus montanus",
   "authorship": "Maas",
-  "genus_name": "Costus",
-  "family_name": "Costaceae",
+  "parent_name": "Costus",
   "gbif_id": "2756970",
   "powo_id": "66881-2",
   "iucn_id": "56347723",

@@ -1,8 +1,7 @@
 {
   "name": "Lepidium draba",
   "authorship": "L.",
-  "genus_name": "Lepidium",
-  "family_name": "Brassicaceae",
+  "parent_name": "Lepidium",
   "gbif_id": "5376961",
   "powo_id": "286156-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Kielmeyera coriacea",
   "authorship": "Mart.",
-  "genus_name": "Kielmeyera",
-  "family_name": "Calophyllaceae",
+  "parent_name": "Kielmeyera",
   "gbif_id": "7330272",
   "powo_id": "828950-1",
   "iucn_id": null,

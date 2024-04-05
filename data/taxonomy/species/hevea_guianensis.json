@@ -1,8 +1,7 @@
 {
   "name": "Hevea guianensis",
   "authorship": "Aubl.",
-  "genus_name": "Hevea",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Hevea",
   "gbif_id": "3071199",
   "powo_id": "121724-2",
   "iucn_id": "145682540",

@@ -1,8 +1,7 @@
 {
   "name": "Mimosa diplotricha",
   "authorship": "C.Wright",
-  "genus_name": "Mimosa",
-  "family_name": "Fabaceae",
+  "parent_name": "Mimosa",
   "gbif_id": "7808904",
   "powo_id": "312750-2",
   "iucn_id": null,

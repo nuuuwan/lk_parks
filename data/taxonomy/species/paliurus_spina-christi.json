@@ -1,8 +1,7 @@
 {
   "name": "Paliurus spina-christi",
   "authorship": "Mill.",
-  "genus_name": "Paliurus",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Paliurus",
   "gbif_id": "5372457",
   "powo_id": "717707-1",
   "iucn_id": null,

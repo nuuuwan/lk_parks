@@ -1,8 +1,7 @@
 {
   "name": "Adenanthera aglaosperma",
   "authorship": "Alston",
-  "genus_name": "Adenanthera",
-  "family_name": "Fabaceae",
+  "parent_name": "Adenanthera",
   "gbif_id": "2951840",
   "powo_id": "472144-1",
   "iucn_id": null,

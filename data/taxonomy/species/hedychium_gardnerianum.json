@@ -1,8 +1,7 @@
 {
   "name": "Hedychium gardnerianum",
   "authorship": "Sheppard ex Ker Gawl.",
-  "genus_name": "Hedychium",
-  "family_name": "Zingiberaceae",
+  "parent_name": "Hedychium",
   "gbif_id": "2758700",
   "powo_id": "69077-3",
   "iucn_id": null,

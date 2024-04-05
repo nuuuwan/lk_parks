@@ -1,8 +1,7 @@
 {
   "name": "Mallotus japonicus",
   "authorship": "(L.f.) M\u00fcll.Arg.",
-  "genus_name": "Mallotus",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Mallotus",
   "gbif_id": "5378769",
   "powo_id": "351579-1",
   "iucn_id": null,

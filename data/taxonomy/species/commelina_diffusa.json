@@ -1,8 +1,7 @@
 {
   "name": "Commelina diffusa",
   "authorship": "Burm.f.",
-  "genus_name": "Commelina",
-  "family_name": "Commelinaceae",
+  "parent_name": "Commelina",
   "gbif_id": "2764202",
   "powo_id": "172020-1",
   "iucn_id": "177028",

@@ -1,8 +1,7 @@
 {
   "name": "Trema micranthum",
   "authorship": "(L.) Blume",
-  "genus_name": "Trema",
-  "family_name": "Cannabaceae",
+  "parent_name": "Trema",
   "gbif_id": "2984501",
   "powo_id": "1018059-2",
   "iucn_id": "136778595",

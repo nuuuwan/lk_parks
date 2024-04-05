@@ -1,8 +1,7 @@
 {
   "name": "Clerodendrum cyrtophyllum",
   "authorship": "Turcz.",
-  "genus_name": "Clerodendrum",
-  "family_name": "Lamiaceae",
+  "parent_name": "Clerodendrum",
   "gbif_id": "7308161",
   "powo_id": "862022-1",
   "iucn_id": "177941613",

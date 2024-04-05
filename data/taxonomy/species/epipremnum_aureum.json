@@ -1,8 +1,7 @@
 {
   "name": "Epipremnum aureum",
   "authorship": "(Linden & Andr\u00e9) G.S.Bunting",
-  "genus_name": "Epipremnum",
-  "family_name": "Araceae",
+  "parent_name": "Epipremnum",
   "gbif_id": "2868323",
   "powo_id": "87014-1",
   "iucn_id": null,

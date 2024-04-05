@@ -1,8 +1,7 @@
 {
   "name": "Centrosema virginianum",
   "authorship": "(L.) Benth.",
-  "genus_name": "Centrosema",
-  "family_name": "Fabaceae",
+  "parent_name": "Centrosema",
   "gbif_id": "2964906",
   "powo_id": "51897-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Bituminaria bituminosa",
   "authorship": "(L.) C.H.Stirt.",
-  "genus_name": "Bituminaria",
-  "family_name": "Fabaceae",
+  "parent_name": "Bituminaria",
   "gbif_id": "2952882",
   "powo_id": "908440-1",
   "iucn_id": null,

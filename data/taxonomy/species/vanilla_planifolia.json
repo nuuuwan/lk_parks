@@ -1,8 +1,7 @@
 {
   "name": "Vanilla planifolia",
   "authorship": "Andrews",
-  "genus_name": "Vanilla",
-  "family_name": "Orchidaceae",
+  "parent_name": "Vanilla",
   "gbif_id": "2803398",
   "powo_id": "262578-2",
   "iucn_id": "103090930",

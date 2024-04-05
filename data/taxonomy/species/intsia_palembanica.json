@@ -1,8 +1,7 @@
 {
   "name": "Intsia palembanica",
   "authorship": "Miq.",
-  "genus_name": "Intsia",
-  "family_name": "Fabaceae",
+  "parent_name": "Intsia",
   "gbif_id": "2963233",
   "powo_id": "500962-1",
   "iucn_id": "62026259",

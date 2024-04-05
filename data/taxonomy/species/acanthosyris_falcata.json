@@ -1,8 +1,7 @@
 {
   "name": "Acanthosyris falcata",
   "authorship": "Griseb.",
-  "genus_name": "Acanthosyris",
-  "family_name": "Santalaceae",
+  "parent_name": "Acanthosyris",
   "gbif_id": "3789529",
   "powo_id": "779997-1",
   "iucn_id": "211564732",

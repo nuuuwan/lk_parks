@@ -1,8 +1,7 @@
 {
   "name": "Rauvolfia viridis",
   "authorship": "Roem. & Schult.",
-  "genus_name": "Rauvolfia",
-  "family_name": "Apocynaceae",
+  "parent_name": "Rauvolfia",
   "gbif_id": "3169771",
   "powo_id": "81670-1",
   "iucn_id": "208169895",

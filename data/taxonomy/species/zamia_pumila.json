@@ -1,8 +1,7 @@
 {
   "name": "Zamia pumila",
   "authorship": "L.",
-  "genus_name": "Zamia",
-  "family_name": "Zamiaceae",
+  "parent_name": "Zamia",
   "gbif_id": "5284117",
   "powo_id": "270561-2",
   "iucn_id": "42177",

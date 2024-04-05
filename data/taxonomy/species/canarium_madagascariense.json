@@ -1,8 +1,7 @@
 {
   "name": "Canarium madagascariense",
   "authorship": "Engl.",
-  "genus_name": "Canarium",
-  "family_name": "Burseraceae",
+  "parent_name": "Canarium",
   "gbif_id": "5636178",
   "powo_id": "127404-1",
   "iucn_id": "79008359",

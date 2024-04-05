@@ -1,8 +1,7 @@
 {
   "name": "Myrcia sylvatica",
   "authorship": "(G.Mey.) DC.",
-  "genus_name": "Myrcia",
-  "family_name": "Myrtaceae",
+  "parent_name": "Myrcia",
   "gbif_id": "3174126",
   "powo_id": "599199-1",
   "iucn_id": "151949701",

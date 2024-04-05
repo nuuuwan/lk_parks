@@ -1,8 +1,7 @@
 {
   "name": "Wrightia pubescens",
   "authorship": "R.Br.",
-  "genus_name": "Wrightia",
-  "family_name": "Apocynaceae",
+  "parent_name": "Wrightia",
   "gbif_id": "7908508",
   "powo_id": "82875-1",
   "iucn_id": "62544",

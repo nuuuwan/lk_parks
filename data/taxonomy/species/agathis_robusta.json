@@ -1,8 +1,7 @@
 {
   "name": "Agathis robusta",
   "authorship": "(C.Moore ex F.Muell.) F.M.Bailey",
-  "genus_name": "Agathis",
-  "family_name": "Araucariaceae",
+  "parent_name": "Agathis",
   "gbif_id": "5284418",
   "powo_id": "261672-1",
   "iucn_id": "16437966",

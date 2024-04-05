@@ -1,8 +1,7 @@
 {
   "name": "Syagrus romanzoffiana",
   "authorship": "(Cham.) Glassman",
-  "genus_name": "Syagrus",
-  "family_name": "Arecaceae",
+  "parent_name": "Syagrus",
   "gbif_id": "5293897",
   "powo_id": "246966-2",
   "iucn_id": "67557507",

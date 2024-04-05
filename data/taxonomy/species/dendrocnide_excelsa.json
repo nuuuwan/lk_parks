@@ -1,8 +1,7 @@
 {
   "name": "Dendrocnide excelsa",
   "authorship": "(Wedd.) Chew",
-  "genus_name": "Dendrocnide",
-  "family_name": "Urticaceae",
+  "parent_name": "Dendrocnide",
   "gbif_id": "4098881",
   "powo_id": "851442-1",
   "iucn_id": "192216224",

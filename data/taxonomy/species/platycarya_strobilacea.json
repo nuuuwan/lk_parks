@@ -1,8 +1,7 @@
 {
   "name": "Platycarya strobilacea",
   "authorship": "Siebold & Zucc.",
-  "genus_name": "Platycarya",
-  "family_name": "Juglandaceae",
+  "parent_name": "Platycarya",
   "gbif_id": "7148630",
   "powo_id": "442460-1",
   "iucn_id": null,

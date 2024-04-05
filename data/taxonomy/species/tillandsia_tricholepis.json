@@ -1,8 +1,7 @@
 {
   "name": "Tillandsia tricholepis",
   "authorship": "Baker",
-  "genus_name": "Tillandsia",
-  "family_name": "Bromeliaceae",
+  "parent_name": "Tillandsia",
   "gbif_id": "2695104",
   "powo_id": "125736-1",
   "iucn_id": null,

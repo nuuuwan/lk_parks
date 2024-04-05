@@ -1,8 +1,7 @@
 {
   "name": "Conocarpus lancifolius",
   "authorship": "Engl.",
-  "genus_name": "Conocarpus",
-  "family_name": "Combretaceae",
+  "parent_name": "Conocarpus",
   "gbif_id": "5553336",
   "powo_id": "170599-1",
   "iucn_id": "37883",

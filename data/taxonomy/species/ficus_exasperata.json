@@ -1,8 +1,7 @@
 {
   "name": "Ficus exasperata",
   "authorship": "Vahl",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "7687857",
   "powo_id": "852817-1",
   "iucn_id": "143276941",

@@ -1,8 +1,7 @@
 {
   "name": "Oxalis corniculata",
   "authorship": "L.",
-  "genus_name": "Oxalis",
-  "family_name": "Oxalidaceae",
+  "parent_name": "Oxalis",
   "gbif_id": "8427624",
   "powo_id": "177893-2",
   "iucn_id": null,

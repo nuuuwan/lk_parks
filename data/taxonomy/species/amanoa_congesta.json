@@ -1,8 +1,7 @@
 {
   "name": "Amanoa congesta",
   "authorship": "W.J.Hayden",
-  "genus_name": "Amanoa",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Amanoa",
   "gbif_id": "3080045",
   "powo_id": "958256-1",
   "iucn_id": "193160085",

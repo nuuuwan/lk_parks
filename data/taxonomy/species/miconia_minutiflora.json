@@ -1,8 +1,7 @@
 {
   "name": "Miconia minutiflora",
   "authorship": "(Bonpl.) DC.",
-  "genus_name": "Miconia",
-  "family_name": "Melastomataceae",
+  "parent_name": "Miconia",
   "gbif_id": "10932080",
   "powo_id": "1098452-2",
   "iucn_id": "136786967",

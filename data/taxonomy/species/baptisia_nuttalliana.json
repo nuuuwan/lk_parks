@@ -1,8 +1,7 @@
 {
   "name": "Baptisia nuttalliana",
   "authorship": "Small",
-  "genus_name": "Baptisia",
-  "family_name": "Fabaceae",
+  "parent_name": "Baptisia",
   "gbif_id": "2976116",
   "powo_id": "29320-2",
   "iucn_id": null,

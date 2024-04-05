@@ -1,8 +1,7 @@
 {
   "name": "Photinia serratifolia",
   "authorship": "(Desf.) Kalkman",
-  "genus_name": "Photinia",
-  "family_name": "Rosaceae",
+  "parent_name": "Photinia",
   "gbif_id": "5364029",
   "powo_id": "727448-1",
   "iucn_id": null,

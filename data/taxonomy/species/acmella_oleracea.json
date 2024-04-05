@@ -1,8 +1,7 @@
 {
   "name": "Acmella oleracea",
   "authorship": "(L.) R.K.Jansen",
-  "genus_name": "Acmella",
-  "family_name": "Asteraceae",
+  "parent_name": "Acmella",
   "gbif_id": "5386764",
   "powo_id": "914778-1",
   "iucn_id": null,

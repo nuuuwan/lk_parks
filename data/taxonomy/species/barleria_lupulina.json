@@ -1,8 +1,7 @@
 {
   "name": "Barleria lupulina",
   "authorship": "Lindl.",
-  "genus_name": "Barleria",
-  "family_name": "Acanthaceae",
+  "parent_name": "Barleria",
   "gbif_id": "3173126",
   "powo_id": "46059-1",
   "iucn_id": null,

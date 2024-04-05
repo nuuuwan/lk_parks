@@ -1,8 +1,7 @@
 {
   "name": "Albizia forbesii",
   "authorship": "Benth.",
-  "genus_name": "Albizia",
-  "family_name": "Fabaceae",
+  "parent_name": "Albizia",
   "gbif_id": "2973277",
   "powo_id": "473242-1",
   "iucn_id": "146441319",

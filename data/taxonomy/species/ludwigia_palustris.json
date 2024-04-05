@@ -1,8 +1,7 @@
 {
   "name": "Ludwigia palustris",
   "authorship": "(L.) Elliott",
-  "genus_name": "Ludwigia",
-  "family_name": "Onagraceae",
+  "parent_name": "Ludwigia",
   "gbif_id": "5421025",
   "powo_id": "30031106-2",
   "iucn_id": "164352",

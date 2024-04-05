@@ -1,8 +1,7 @@
 {
   "name": "Laurus azorica",
   "authorship": "(Seub.) Franco",
-  "genus_name": "Laurus",
-  "family_name": "Lauraceae",
+  "parent_name": "Laurus",
   "gbif_id": "7304543",
   "powo_id": "464769-1",
   "iucn_id": "38397",

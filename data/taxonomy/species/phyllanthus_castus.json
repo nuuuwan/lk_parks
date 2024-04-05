@@ -1,8 +1,7 @@
 {
   "name": "Phyllanthus castus",
   "authorship": "S.Moore",
-  "genus_name": "Phyllanthus",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Phyllanthus",
   "gbif_id": "5382802",
   "powo_id": "353659-1",
   "iucn_id": "217295427",

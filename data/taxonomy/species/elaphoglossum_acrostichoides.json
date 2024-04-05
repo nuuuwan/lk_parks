@@ -1,8 +1,7 @@
 {
   "name": "Elaphoglossum acrostichoides",
   "authorship": "(Hook. & Grev.) Schelpe",
-  "genus_name": "Elaphoglossum",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Elaphoglossum",
   "gbif_id": "4011653",
   "powo_id": "17437250-1",
   "iucn_id": "120211710",

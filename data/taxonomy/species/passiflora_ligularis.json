@@ -1,8 +1,7 @@
 {
   "name": "Passiflora ligularis",
   "authorship": "Juss.",
-  "genus_name": "Passiflora",
-  "family_name": "Passifloraceae",
+  "parent_name": "Passiflora",
   "gbif_id": "2874198",
   "powo_id": "675142-1",
   "iucn_id": null,

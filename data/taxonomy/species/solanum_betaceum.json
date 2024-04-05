@@ -1,8 +1,7 @@
 {
   "name": "Solanum betaceum",
   "authorship": "Cav.",
-  "genus_name": "Solanum",
-  "family_name": "Solanaceae",
+  "parent_name": "Solanum",
   "gbif_id": "2930216",
   "powo_id": "306169-2",
   "iucn_id": "34636",

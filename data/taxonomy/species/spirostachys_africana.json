@@ -1,8 +1,7 @@
 {
   "name": "Spirostachys africana",
   "authorship": "Sond.",
-  "genus_name": "Spirostachys",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Spirostachys",
   "gbif_id": "5378880",
   "powo_id": "356435-1",
   "iucn_id": "200643",

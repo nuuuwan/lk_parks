@@ -1,8 +1,7 @@
 {
   "name": "Carex hachijoensis",
   "authorship": "Akiyama",
-  "genus_name": "Carex",
-  "family_name": "Cyperaceae",
+  "parent_name": "Carex",
   "gbif_id": "2724247",
   "powo_id": "300046-1",
   "iucn_id": null,

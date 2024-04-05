@@ -1,8 +1,7 @@
 {
   "name": "Entada africana",
   "authorship": "Guill. & Perr.",
-  "genus_name": "Entada",
-  "family_name": "Fabaceae",
+  "parent_name": "Entada",
   "gbif_id": "2976222",
   "powo_id": "493820-1",
   "iucn_id": "144292247",

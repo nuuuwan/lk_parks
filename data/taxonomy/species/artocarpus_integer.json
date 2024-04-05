@@ -1,8 +1,7 @@
 {
   "name": "Artocarpus integer",
   "authorship": "(Thunb.) Merr.",
-  "genus_name": "Artocarpus",
-  "family_name": "Moraceae",
+  "parent_name": "Artocarpus",
   "gbif_id": "2984566",
   "powo_id": "582622-1",
   "iucn_id": "61220334",

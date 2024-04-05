@@ -1,8 +1,7 @@
 {
   "name": "Brosimum utile",
   "authorship": "(Kunth) Oken",
-  "genus_name": "Brosimum",
-  "family_name": "Moraceae",
+  "parent_name": "Brosimum",
   "gbif_id": "8042591",
   "powo_id": "582724-1",
   "iucn_id": "63081",

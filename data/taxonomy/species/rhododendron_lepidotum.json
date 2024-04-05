@@ -1,8 +1,7 @@
 {
   "name": "Rhododendron lepidotum",
   "authorship": "Wall. ex G.Don",
-  "genus_name": "Rhododendron",
-  "family_name": "Ericaceae",
+  "parent_name": "Rhododendron",
   "gbif_id": "7579911",
   "powo_id": "332747-1",
   "iucn_id": null,

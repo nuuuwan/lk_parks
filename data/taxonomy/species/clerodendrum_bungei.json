@@ -1,8 +1,7 @@
 {
   "name": "Clerodendrum bungei",
   "authorship": "Steud.",
-  "genus_name": "Clerodendrum",
-  "family_name": "Lamiaceae",
+  "parent_name": "Clerodendrum",
   "gbif_id": "2925351",
   "powo_id": "861960-1",
   "iucn_id": "146517990",

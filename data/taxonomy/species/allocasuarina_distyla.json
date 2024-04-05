@@ -1,8 +1,7 @@
 {
   "name": "Allocasuarina distyla",
   "authorship": "(Vent.) L.A.S.Johnson",
-  "genus_name": "Allocasuarina",
-  "family_name": "Casuarinaceae",
+  "parent_name": "Allocasuarina",
   "gbif_id": "9676223",
   "powo_id": "909941-1",
   "iucn_id": null,

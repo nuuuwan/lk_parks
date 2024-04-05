@@ -1,8 +1,7 @@
 {
   "name": "Tina striata",
   "authorship": "Radlk.",
-  "genus_name": "Tina",
-  "family_name": "Sapindaceae",
+  "parent_name": "Tina",
   "gbif_id": "5577750",
   "powo_id": "785460-1",
   "iucn_id": "137814033",

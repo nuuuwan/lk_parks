@@ -1,8 +1,7 @@
 {
   "name": "Faidherbia albida",
   "authorship": "(Delile) A.Chev.",
-  "genus_name": "Faidherbia",
-  "family_name": "Fabaceae",
+  "parent_name": "Faidherbia",
   "gbif_id": "5360150",
   "powo_id": "494764-1",
   "iucn_id": "19375471",

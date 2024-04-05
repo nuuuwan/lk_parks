@@ -1,8 +1,7 @@
 {
   "name": "Planchonella lifuana",
   "authorship": "(Baill.) Pierre ex Dubard",
-  "genus_name": "Planchonella",
-  "family_name": "Sapotaceae",
+  "parent_name": "Planchonella",
   "gbif_id": "5334114",
   "powo_id": "788663-1",
   "iucn_id": "211780732",

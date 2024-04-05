@@ -1,8 +1,7 @@
 {
   "name": "Sida acuta",
   "authorship": "Burm.f.",
-  "genus_name": "Sida",
-  "family_name": "Malvaceae",
+  "parent_name": "Sida",
   "gbif_id": "3933670",
   "powo_id": "235518-2",
   "iucn_id": null,

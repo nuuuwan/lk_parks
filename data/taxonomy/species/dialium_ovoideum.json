@@ -1,8 +1,7 @@
 {
   "name": "Dialium ovoideum",
   "authorship": "Thwaites",
-  "genus_name": "Dialium",
-  "family_name": "Fabaceae",
+  "parent_name": "Dialium",
   "gbif_id": "2971014",
   "powo_id": "492342-1",
   "iucn_id": null,

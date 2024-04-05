@@ -1,8 +1,7 @@
 {
   "name": "Sciadopitys verticillata",
   "authorship": "(Thunb.) Siebold & Zucc.",
-  "genus_name": "Sciadopitys",
-  "family_name": "Sciadopityaceae",
+  "parent_name": "Sciadopitys",
   "gbif_id": "2684904",
   "powo_id": "263735-1",
   "iucn_id": "34111",

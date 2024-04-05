@@ -1,8 +1,7 @@
 {
   "name": "Hyophorbe verschaffeltii",
   "authorship": "(W.Bull ex J.Dix) H.Wendl.",
-  "genus_name": "Hyophorbe",
-  "family_name": "Arecaceae",
+  "parent_name": "Hyophorbe",
   "gbif_id": "2735589",
   "powo_id": "667456-1",
   "iucn_id": "38582",

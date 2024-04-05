@@ -1,8 +1,7 @@
 {
   "name": "Salix glabra",
   "authorship": "Scop.",
-  "genus_name": "Salix",
-  "family_name": "Salicaceae",
+  "parent_name": "Salix",
   "gbif_id": "5583850",
   "powo_id": "777660-1",
   "iucn_id": "83826236",

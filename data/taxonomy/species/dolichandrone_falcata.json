@@ -1,8 +1,7 @@
 {
   "name": "Dolichandrone falcata",
   "authorship": "(Wall. ex DC.) Seem.",
-  "genus_name": "Dolichandrone",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Dolichandrone",
   "gbif_id": "4091174",
   "powo_id": "109543-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Cratoxylum glaucum",
   "authorship": "Korth.",
-  "genus_name": "Cratoxylum",
-  "family_name": "Hypericaceae",
+  "parent_name": "Cratoxylum",
   "gbif_id": "3712034",
   "powo_id": "433058-1",
   "iucn_id": null,

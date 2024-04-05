@@ -1,8 +1,7 @@
 {
   "name": "Lecointea amazonica",
   "authorship": "Ducke",
-  "genus_name": "Lecointea",
-  "family_name": "Fabaceae",
+  "parent_name": "Lecointea",
   "gbif_id": "2965104",
   "powo_id": "136896-2",
   "iucn_id": "146775464",

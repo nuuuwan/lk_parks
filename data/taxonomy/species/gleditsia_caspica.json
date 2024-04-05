@@ -1,8 +1,7 @@
 {
   "name": "Gleditsia caspica",
   "authorship": "Desf.",
-  "genus_name": "Gleditsia",
-  "family_name": "Fabaceae",
+  "parent_name": "Gleditsia",
   "gbif_id": "2959487",
   "powo_id": "496577-1",
   "iucn_id": "210701761",

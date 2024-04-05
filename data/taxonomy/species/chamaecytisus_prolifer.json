@@ -1,8 +1,7 @@
 {
   "name": "Chamaecytisus prolifer",
   "authorship": "(L.f.) Link",
-  "genus_name": "Chamaecytisus",
-  "family_name": "Fabaceae",
+  "parent_name": "Chamaecytisus",
   "gbif_id": "7344665",
   "powo_id": "485975-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Ipomoea pes-caprae",
   "authorship": "(L.) R.Br.",
-  "genus_name": "Ipomoea",
-  "family_name": "Convolvulaceae",
+  "parent_name": "Ipomoea",
   "gbif_id": "7999386",
   "powo_id": "30040623-2",
   "iucn_id": "68149961",

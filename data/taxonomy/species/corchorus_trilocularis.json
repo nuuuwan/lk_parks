@@ -1,8 +1,7 @@
 {
   "name": "Corchorus trilocularis",
   "authorship": "L.",
-  "genus_name": "Corchorus",
-  "family_name": "Malvaceae",
+  "parent_name": "Corchorus",
   "gbif_id": "3152081",
   "powo_id": "833682-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Allaeanthus luzonicus",
   "authorship": "(Blanco) Fern.-Vill.",
-  "genus_name": "Allaeanthus",
-  "family_name": "Moraceae",
+  "parent_name": "Allaeanthus",
   "gbif_id": "8317606",
   "powo_id": "582586-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Ecbolium viride",
   "authorship": "(Forssk.) Alston",
-  "genus_name": "Ecbolium",
-  "family_name": "Acanthaceae",
+  "parent_name": "Ecbolium",
   "gbif_id": "7264277",
   "powo_id": "48609-1",
   "iucn_id": null,

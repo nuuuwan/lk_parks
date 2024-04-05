@@ -1,8 +1,7 @@
 {
   "name": "Vigna vexillata",
   "authorship": "(L.) A.Rich.",
-  "genus_name": "Vigna",
-  "family_name": "Fabaceae",
+  "parent_name": "Vigna",
   "gbif_id": "2982409",
   "powo_id": "525561-1",
   "iucn_id": null,

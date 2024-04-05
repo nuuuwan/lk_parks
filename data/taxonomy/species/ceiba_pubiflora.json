@@ -1,8 +1,7 @@
 {
   "name": "Ceiba pubiflora",
   "authorship": "(A.St.-Hil.) K.Schum.",
-  "genus_name": "Ceiba",
-  "family_name": "Malvaceae",
+  "parent_name": "Ceiba",
   "gbif_id": "7361253",
   "powo_id": "51077-2",
   "iucn_id": "211565162",

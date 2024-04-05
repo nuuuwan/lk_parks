@@ -1,8 +1,7 @@
 {
   "name": "Richeria grandis",
   "authorship": "Vahl",
-  "genus_name": "Richeria",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Richeria",
   "gbif_id": "3079144",
   "powo_id": "355200-1",
   "iucn_id": null,

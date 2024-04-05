@@ -1,8 +1,7 @@
 {
   "name": "Duguetia longicuspis",
   "authorship": "Benth.",
-  "genus_name": "Duguetia",
-  "family_name": "Annonaceae",
+  "parent_name": "Duguetia",
   "gbif_id": "3157481",
   "powo_id": "72878-1",
   "iucn_id": "152350251",

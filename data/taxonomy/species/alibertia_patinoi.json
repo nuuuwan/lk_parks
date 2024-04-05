@@ -1,8 +1,7 @@
 {
   "name": "Alibertia patinoi",
   "authorship": "(Cuatrec.) Delprete & C.H.Perss.",
-  "genus_name": "Alibertia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Alibertia",
   "gbif_id": "7825670",
   "powo_id": "77116169-1",
   "iucn_id": "151968323",

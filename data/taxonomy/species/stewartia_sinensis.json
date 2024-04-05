@@ -1,8 +1,7 @@
 {
   "name": "Stewartia sinensis",
   "authorship": "Rehder & E.H.Wilson",
-  "genus_name": "Stewartia",
-  "family_name": "Theaceae",
+  "parent_name": "Stewartia",
   "gbif_id": "7313927",
   "powo_id": "830455-1",
   "iucn_id": "62086804",

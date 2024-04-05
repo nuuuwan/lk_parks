@@ -1,8 +1,7 @@
 {
   "name": "Veronica gentianoides",
   "authorship": "Vahl",
-  "genus_name": "Veronica",
-  "family_name": "Plantaginaceae",
+  "parent_name": "Veronica",
   "gbif_id": "6439238",
   "powo_id": "812022-1",
   "iucn_id": null,

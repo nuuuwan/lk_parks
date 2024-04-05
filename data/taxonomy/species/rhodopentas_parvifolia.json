@@ -1,8 +1,7 @@
 {
   "name": "Rhodopentas parvifolia",
   "authorship": "(Hiern) K\u00e5rehed & B.Bremer",
-  "genus_name": "Rhodopentas",
-  "family_name": "Rubiaceae",
+  "parent_name": "Rhodopentas",
   "gbif_id": "3845988",
   "powo_id": "77086244-1",
   "iucn_id": null,

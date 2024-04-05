@@ -1,8 +1,7 @@
 {
   "name": "Syzygium lateriflorum",
   "authorship": "Brongn. & Gris",
-  "genus_name": "Syzygium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syzygium",
   "gbif_id": "3184009",
   "powo_id": "601843-1",
   "iucn_id": "181018949",

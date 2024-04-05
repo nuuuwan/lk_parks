@@ -1,8 +1,7 @@
 {
   "name": "Tussilago farfara",
   "authorship": "L.",
-  "genus_name": "Tussilago",
-  "family_name": "Asteraceae",
+  "parent_name": "Tussilago",
   "gbif_id": "3149879",
   "powo_id": "256904-1",
   "iucn_id": null,

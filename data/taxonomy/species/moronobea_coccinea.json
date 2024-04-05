@@ -1,8 +1,7 @@
 {
   "name": "Moronobea coccinea",
   "authorship": "Aubl.",
-  "genus_name": "Moronobea",
-  "family_name": "Clusiaceae",
+  "parent_name": "Moronobea",
   "gbif_id": "7329980",
   "powo_id": "428883-1",
   "iucn_id": "145701941",

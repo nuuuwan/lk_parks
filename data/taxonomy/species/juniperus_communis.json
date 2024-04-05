@@ -1,8 +1,7 @@
 {
   "name": "Juniperus communis",
   "authorship": "L.",
-  "genus_name": "Juniperus",
-  "family_name": "Cupressaceae",
+  "parent_name": "Juniperus",
   "gbif_id": "2684709",
   "powo_id": "30088655-2",
   "iucn_id": "42229",

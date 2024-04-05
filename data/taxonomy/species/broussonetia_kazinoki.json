@@ -1,8 +1,7 @@
 {
   "name": "Broussonetia kazinoki",
   "authorship": "Siebold",
-  "genus_name": "Broussonetia",
-  "family_name": "Moraceae",
+  "parent_name": "Broussonetia",
   "gbif_id": "6358484",
   "powo_id": "850852-1",
   "iucn_id": null,

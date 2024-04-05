@@ -1,8 +1,7 @@
 {
   "name": "Ocotea macrophylla",
   "authorship": "Kunth",
-  "genus_name": "Ocotea",
-  "family_name": "Lauraceae",
+  "parent_name": "Ocotea",
   "gbif_id": "7538896",
   "powo_id": "326508-2",
   "iucn_id": "151951595",

@@ -1,8 +1,7 @@
 {
   "name": "Palaquium gutta",
   "authorship": "(Hook.) Baill.",
-  "genus_name": "Palaquium",
-  "family_name": "Sapotaceae",
+  "parent_name": "Palaquium",
   "gbif_id": "7520030",
   "powo_id": "60456374-2",
   "iucn_id": "61965223",

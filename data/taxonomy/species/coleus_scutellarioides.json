@@ -1,8 +1,7 @@
 {
   "name": "Coleus scutellarioides",
   "authorship": "(L.) Benth.",
-  "genus_name": "Coleus",
-  "family_name": "Lamiaceae",
+  "parent_name": "Coleus",
   "gbif_id": "5341492",
   "powo_id": "446165-1",
   "iucn_id": null,

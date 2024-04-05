@@ -1,8 +1,7 @@
 {
   "name": "Eschweilera tenuifolia",
   "authorship": "(O.Berg) Miers",
-  "genus_name": "Eschweilera",
-  "family_name": "Lecythidaceae",
+  "parent_name": "Eschweilera",
   "gbif_id": "3083191",
   "powo_id": "592640-1",
   "iucn_id": null,

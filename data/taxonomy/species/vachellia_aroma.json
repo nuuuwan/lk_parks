@@ -1,8 +1,7 @@
 {
   "name": "Vachellia aroma",
   "authorship": "(Gillies ex Hook. & Arn.) Seigler & Ebinger",
-  "genus_name": "Vachellia",
-  "family_name": "Fabaceae",
+  "parent_name": "Vachellia",
   "gbif_id": "7266132",
   "powo_id": "60441189-2",
   "iucn_id": null,

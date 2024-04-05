@@ -1,8 +1,7 @@
 {
   "name": "Nyssa sylvatica",
   "authorship": "Marshall",
-  "genus_name": "Nyssa",
-  "family_name": "Nyssaceae",
+  "parent_name": "Nyssa",
   "gbif_id": "5383717",
   "powo_id": "271953-1",
   "iucn_id": "61990588",

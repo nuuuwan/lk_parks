@@ -1,8 +1,7 @@
 {
   "name": "Galearia fulva",
   "authorship": "(Tul.) Miq.",
-  "genus_name": "Galearia",
-  "family_name": "Pandaceae",
+  "parent_name": "Galearia",
   "gbif_id": "5380993",
   "powo_id": "349139-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Arbutus menziesii",
   "authorship": "Pursh",
-  "genus_name": "Arbutus",
-  "family_name": "Ericaceae",
+  "parent_name": "Arbutus",
   "gbif_id": "2882802",
   "powo_id": "326479-1",
   "iucn_id": "61220272",

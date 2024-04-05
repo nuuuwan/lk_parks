@@ -1,8 +1,7 @@
 {
   "name": "Eperua rubiginosa",
   "authorship": "Miq.",
-  "genus_name": "Eperua",
-  "family_name": "Fabaceae",
+  "parent_name": "Eperua",
   "gbif_id": "2943532",
   "powo_id": "493945-1",
   "iucn_id": "62025328",

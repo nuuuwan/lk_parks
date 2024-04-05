@@ -1,8 +1,7 @@
 {
   "name": "Sarcomphalus joazeiro",
   "authorship": "(Mart.) Hauenschild",
-  "genus_name": "Sarcomphalus",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Sarcomphalus",
   "gbif_id": "8910944",
   "powo_id": "77154241-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Helianthus salicifolius",
   "authorship": "A.Dietr.",
-  "genus_name": "Helianthus",
-  "family_name": "Asteraceae",
+  "parent_name": "Helianthus",
   "gbif_id": "3119219",
   "powo_id": "329258-2",
   "iucn_id": "20694351",

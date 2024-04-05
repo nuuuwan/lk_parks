@@ -1,8 +1,7 @@
 {
   "name": "Pieris floribunda",
   "authorship": "(Pursh) Benth. & Hook.f.",
-  "genus_name": "Pieris",
-  "family_name": "Ericaceae",
+  "parent_name": "Pieris",
   "gbif_id": "5333347",
   "powo_id": "331653-1",
   "iucn_id": null,

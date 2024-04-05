@@ -1,8 +1,7 @@
 {
   "name": "Banksia serrata",
   "authorship": "L.f.",
-  "genus_name": "Banksia",
-  "family_name": "Proteaceae",
+  "parent_name": "Banksia",
   "gbif_id": "8144360",
   "powo_id": "703183-1",
   "iucn_id": "112529848",

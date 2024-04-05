@@ -1,8 +1,7 @@
 {
   "name": "Rhodocactus grandifolius",
   "authorship": "(Haw.) F.M.Knuth",
-  "genus_name": "Rhodocactus",
-  "family_name": "Cactaceae",
+  "parent_name": "Rhodocactus",
   "gbif_id": "3944613",
   "powo_id": "219420-2",
   "iucn_id": null,

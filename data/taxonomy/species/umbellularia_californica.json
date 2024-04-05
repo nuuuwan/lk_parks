@@ -1,8 +1,7 @@
 {
   "name": "Umbellularia californica",
   "authorship": "(Hook. & Arn.) Nutt.",
-  "genus_name": "Umbellularia",
-  "family_name": "Lauraceae",
+  "parent_name": "Umbellularia",
   "gbif_id": "5371727",
   "powo_id": "30189264-2",
   "iucn_id": "62572",

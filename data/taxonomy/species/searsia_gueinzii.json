@@ -1,8 +1,7 @@
 {
   "name": "Searsia gueinzii",
   "authorship": "(Sond.) F.A.Barkley",
-  "genus_name": "Searsia",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Searsia",
   "gbif_id": "5544328",
   "powo_id": "71174-1",
   "iucn_id": "149504058",

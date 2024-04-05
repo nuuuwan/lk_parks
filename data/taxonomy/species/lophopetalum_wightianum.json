@@ -1,8 +1,7 @@
 {
   "name": "Lophopetalum wightianum",
   "authorship": "Arn.",
-  "genus_name": "Lophopetalum",
-  "family_name": "Celastraceae",
+  "parent_name": "Lophopetalum",
   "gbif_id": "3791747",
   "powo_id": "161767-1",
   "iucn_id": "33211",

@@ -1,8 +1,7 @@
 {
   "name": "Ficus hookeriana",
   "authorship": "Corner",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5570441",
   "powo_id": "583609-1",
   "iucn_id": null,

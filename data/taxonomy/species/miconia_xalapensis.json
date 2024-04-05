@@ -1,8 +1,7 @@
 {
   "name": "Miconia xalapensis",
   "authorship": "(Bonpl.) M.G\u00f3mez",
-  "genus_name": "Miconia",
-  "family_name": "Melastomataceae",
+  "parent_name": "Miconia",
   "gbif_id": "3862726",
   "powo_id": "159943-2",
   "iucn_id": null,

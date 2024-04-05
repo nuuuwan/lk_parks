@@ -1,8 +1,7 @@
 {
   "name": "Aralia warmingiana",
   "authorship": "(Marchal) J.Wen",
-  "genus_name": "Aralia",
-  "family_name": "Araliaceae",
+  "parent_name": "Aralia",
   "gbif_id": "3036978",
   "powo_id": "1216874-2",
   "iucn_id": "144287506",

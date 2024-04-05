@@ -1,8 +1,7 @@
 {
   "name": "Cyphophoenix nucele",
   "authorship": "H.E.Moore",
-  "genus_name": "Cyphophoenix",
-  "family_name": "Arecaceae",
+  "parent_name": "Cyphophoenix",
   "gbif_id": "2739096",
   "powo_id": "666391-1",
   "iucn_id": "38502",

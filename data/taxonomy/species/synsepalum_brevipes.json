@@ -1,8 +1,7 @@
 {
   "name": "Synsepalum brevipes",
   "authorship": "(Baker) T.D.Penn.",
-  "genus_name": "Synsepalum",
-  "family_name": "Sapotaceae",
+  "parent_name": "Synsepalum",
   "gbif_id": "2886073",
   "powo_id": "962748-1",
   "iucn_id": "120223710",

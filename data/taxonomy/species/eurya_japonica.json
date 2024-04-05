@@ -1,8 +1,7 @@
 {
   "name": "Eurya japonica",
   "authorship": "Thunb.",
-  "genus_name": "Eurya",
-  "family_name": "Pentaphylacaceae",
+  "parent_name": "Eurya",
   "gbif_id": "7152601",
   "powo_id": "828738-1",
   "iucn_id": null,

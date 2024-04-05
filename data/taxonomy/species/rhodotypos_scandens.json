@@ -1,8 +1,7 @@
 {
   "name": "Rhodotypos scandens",
   "authorship": "(Thunb.) Makino",
-  "genus_name": "Rhodotypos",
-  "family_name": "Rosaceae",
+  "parent_name": "Rhodotypos",
   "gbif_id": "3032442",
   "powo_id": "731425-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Chorispora bungeana",
   "authorship": "Fisch. & C.A.Mey.",
-  "genus_name": "Chorispora",
-  "family_name": "Brassicaceae",
+  "parent_name": "Chorispora",
   "gbif_id": "3044376",
   "powo_id": "281233-1",
   "iucn_id": null,

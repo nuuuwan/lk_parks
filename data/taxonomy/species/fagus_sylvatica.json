@@ -1,8 +1,7 @@
 {
   "name": "Fagus sylvatica",
   "authorship": "L.",
-  "genus_name": "Fagus",
-  "family_name": "Fagaceae",
+  "parent_name": "Fagus",
   "gbif_id": "2882316",
   "powo_id": "305836-2",
   "iucn_id": "62004722",

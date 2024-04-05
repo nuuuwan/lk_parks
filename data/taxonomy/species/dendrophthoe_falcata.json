@@ -1,8 +1,7 @@
 {
   "name": "Dendrophthoe falcata",
   "authorship": "(L.f.) Ettingsh.",
-  "genus_name": "Dendrophthoe",
-  "family_name": "Loranthaceae",
+  "parent_name": "Dendrophthoe",
   "gbif_id": "7288062",
   "powo_id": "112395-3",
   "iucn_id": null,

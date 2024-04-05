@@ -1,8 +1,7 @@
 {
   "name": "Casearia tomentosa",
   "authorship": "Roxb.",
-  "genus_name": "Casearia",
-  "family_name": "Salicaceae",
+  "parent_name": "Casearia",
   "gbif_id": "6043389",
   "powo_id": "779706-1",
   "iucn_id": null,

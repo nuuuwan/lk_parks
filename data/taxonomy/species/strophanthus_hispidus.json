@@ -1,8 +1,7 @@
 {
   "name": "Strophanthus hispidus",
   "authorship": "DC.",
-  "genus_name": "Strophanthus",
-  "family_name": "Apocynaceae",
+  "parent_name": "Strophanthus",
   "gbif_id": "3169609",
   "powo_id": "81900-1",
   "iucn_id": "144291076",

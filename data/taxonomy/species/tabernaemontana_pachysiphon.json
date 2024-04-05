@@ -1,8 +1,7 @@
 {
   "name": "Tabernaemontana pachysiphon",
   "authorship": "Stapf",
-  "genus_name": "Tabernaemontana",
-  "family_name": "Apocynaceae",
+  "parent_name": "Tabernaemontana",
   "gbif_id": "3615365",
   "powo_id": "82263-1",
   "iucn_id": "146206475",

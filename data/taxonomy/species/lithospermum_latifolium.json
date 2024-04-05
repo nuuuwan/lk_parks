@@ -1,8 +1,7 @@
 {
   "name": "Lithospermum latifolium",
   "authorship": "Michx.",
-  "genus_name": "Lithospermum",
-  "family_name": "Boraginaceae",
+  "parent_name": "Lithospermum",
   "gbif_id": "2926085",
   "powo_id": "118105-1",
   "iucn_id": null,

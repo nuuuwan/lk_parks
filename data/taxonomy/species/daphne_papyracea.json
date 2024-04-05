@@ -1,8 +1,7 @@
 {
   "name": "Daphne papyracea",
   "authorship": "Wall. ex G.Don",
-  "genus_name": "Daphne",
-  "family_name": "Thymelaeaceae",
+  "parent_name": "Daphne",
   "gbif_id": "8225728",
   "powo_id": "60454702-2",
   "iucn_id": null,

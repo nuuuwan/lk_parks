@@ -1,8 +1,7 @@
 {
   "name": "Cecropia obtusifolia",
   "authorship": "Bertol.",
-  "genus_name": "Cecropia",
-  "family_name": "Urticaceae",
+  "parent_name": "Cecropia",
   "gbif_id": "2984473",
   "powo_id": "850947-1",
   "iucn_id": "219964819",

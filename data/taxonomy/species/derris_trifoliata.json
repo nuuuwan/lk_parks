@@ -1,8 +1,7 @@
 {
   "name": "Derris trifoliata",
   "authorship": "Lour.",
-  "genus_name": "Derris",
-  "family_name": "Fabaceae",
+  "parent_name": "Derris",
   "gbif_id": "5350336",
   "powo_id": "491450-1",
   "iucn_id": null,

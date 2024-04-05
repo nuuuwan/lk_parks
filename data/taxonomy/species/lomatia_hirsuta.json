@@ -1,8 +1,7 @@
 {
   "name": "Lomatia hirsuta",
   "authorship": "(Lam.) Diels",
-  "genus_name": "Lomatia",
-  "family_name": "Proteaceae",
+  "parent_name": "Lomatia",
   "gbif_id": "7287163",
   "powo_id": "143027-2",
   "iucn_id": "113178617",

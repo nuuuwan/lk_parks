@@ -1,8 +1,7 @@
 {
   "name": "Ajuga integrifolia",
   "authorship": "Buch.-Ham. ex D.Don",
-  "genus_name": "Ajuga",
-  "family_name": "Lamiaceae",
+  "parent_name": "Ajuga",
   "gbif_id": "9520699",
   "powo_id": "444595-1",
   "iucn_id": null,

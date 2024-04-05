@@ -1,8 +1,7 @@
 {
   "name": "Virola guggenheimii",
   "authorship": "W.A.Rodrigues",
-  "genus_name": "Virola",
-  "family_name": "Myristicaceae",
+  "parent_name": "Virola",
   "gbif_id": "3743314",
   "powo_id": "267163-2",
   "iucn_id": null,

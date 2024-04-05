@@ -1,8 +1,7 @@
 {
   "name": "Oxalis dillenii",
   "authorship": "Jacq.",
-  "genus_name": "Oxalis",
-  "family_name": "Oxalidaceae",
+  "parent_name": "Oxalis",
   "gbif_id": "2891677",
   "powo_id": "177944-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Debregeasia longifolia",
   "authorship": "(Burm.f.) Wedd.",
-  "genus_name": "Debregeasia",
-  "family_name": "Urticaceae",
+  "parent_name": "Debregeasia",
   "gbif_id": "4099305",
   "powo_id": "851412-1",
   "iucn_id": "147481988",

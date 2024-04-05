@@ -1,8 +1,7 @@
 {
   "name": "Alysicarpus vaginalis",
   "authorship": "(L.) DC.",
-  "genus_name": "Alysicarpus",
-  "family_name": "Fabaceae",
+  "parent_name": "Alysicarpus",
   "gbif_id": "2948605",
   "powo_id": "473569-1",
   "iucn_id": null,

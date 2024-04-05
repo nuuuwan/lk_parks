@@ -1,8 +1,7 @@
 {
   "name": "Palicourea guianensis",
   "authorship": "Aubl.",
-  "genus_name": "Palicourea",
-  "family_name": "Rubiaceae",
+  "parent_name": "Palicourea",
   "gbif_id": "2898772",
   "powo_id": "759121-1",
   "iucn_id": "205386381",

@@ -1,8 +1,7 @@
 {
   "name": "Alternanthera brasiliana",
   "authorship": "(L.) Kuntze",
-  "genus_name": "Alternanthera",
-  "family_name": "Amaranthaceae",
+  "parent_name": "Alternanthera",
   "gbif_id": "3084934",
   "powo_id": "10294-2",
   "iucn_id": null,

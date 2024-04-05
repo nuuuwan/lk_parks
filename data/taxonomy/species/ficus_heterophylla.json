@@ -1,8 +1,7 @@
 {
   "name": "Ficus heterophylla",
   "authorship": "L.f.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "8418037",
   "powo_id": "852970-1",
   "iucn_id": null,

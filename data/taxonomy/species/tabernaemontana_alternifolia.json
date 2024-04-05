@@ -1,8 +1,7 @@
 {
   "name": "Tabernaemontana alternifolia",
   "authorship": "L.",
-  "genus_name": "Tabernaemontana",
-  "family_name": "Apocynaceae",
+  "parent_name": "Tabernaemontana",
   "gbif_id": "3619193",
   "powo_id": "81992-1",
   "iucn_id": null,

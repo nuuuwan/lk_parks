@@ -1,8 +1,7 @@
 {
   "name": "Myoporum tetrandrum",
   "authorship": "(Labill.) Domin",
-  "genus_name": "Myoporum",
-  "family_name": "Scrophulariaceae",
+  "parent_name": "Myoporum",
   "gbif_id": "3746005",
   "powo_id": "585325-1",
   "iucn_id": null,

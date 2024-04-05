@@ -1,8 +1,7 @@
 {
   "name": "Impatiens walleriana",
   "authorship": "Hook.f.",
-  "genus_name": "Impatiens",
-  "family_name": "Balsaminaceae",
+  "parent_name": "Impatiens",
   "gbif_id": "2891772",
   "powo_id": "374419-1",
   "iucn_id": null,

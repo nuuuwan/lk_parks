@@ -1,8 +1,7 @@
 {
   "name": "Ormosia macrocalyx",
   "authorship": "Ducke",
-  "genus_name": "Ormosia",
-  "family_name": "Fabaceae",
+  "parent_name": "Ormosia",
   "gbif_id": "5355476",
   "powo_id": "176377-2",
   "iucn_id": "176101048",

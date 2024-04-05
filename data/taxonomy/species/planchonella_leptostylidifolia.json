@@ -1,8 +1,7 @@
 {
   "name": "Planchonella leptostylidifolia",
   "authorship": "Guillaumin",
-  "genus_name": "Planchonella",
-  "family_name": "Sapotaceae",
+  "parent_name": "Planchonella",
   "gbif_id": "5334126",
   "powo_id": "788662-1",
   "iucn_id": "156756634",

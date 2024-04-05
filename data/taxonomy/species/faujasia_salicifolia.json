@@ -1,8 +1,7 @@
 {
   "name": "Faujasia salicifolia",
   "authorship": "(Pers.) C.Jeffrey",
-  "genus_name": "Faujasia",
-  "family_name": "Asteraceae",
+  "parent_name": "Faujasia",
   "gbif_id": "5400136",
   "powo_id": "963629-1",
   "iucn_id": null,

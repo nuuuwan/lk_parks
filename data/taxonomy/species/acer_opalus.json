@@ -1,8 +1,7 @@
 {
   "name": "Acer opalus",
   "authorship": "Mill.",
-  "genus_name": "Acer",
-  "family_name": "Sapindaceae",
+  "parent_name": "Acer",
   "gbif_id": "7100278",
   "powo_id": "781424-1",
   "iucn_id": "193844",

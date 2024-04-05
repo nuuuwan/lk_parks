@@ -1,8 +1,7 @@
 {
   "name": "Forsythia viridissima",
   "authorship": "Lindl.",
-  "genus_name": "Forsythia",
-  "family_name": "Oleaceae",
+  "parent_name": "Forsythia",
   "gbif_id": "5415053",
   "powo_id": "608903-1",
   "iucn_id": null,

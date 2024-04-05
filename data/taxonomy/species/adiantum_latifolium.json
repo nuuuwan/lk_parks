@@ -1,8 +1,7 @@
 {
   "name": "Adiantum latifolium",
   "authorship": "Lam.",
-  "genus_name": "Adiantum",
-  "family_name": "Pteridaceae",
+  "parent_name": "Adiantum",
   "gbif_id": "2651837",
   "powo_id": "271633-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Maranthes corymbosa",
   "authorship": "Blume",
-  "genus_name": "Maranthes",
-  "family_name": "Chrysobalanaceae",
+  "parent_name": "Maranthes",
   "gbif_id": "2984717",
   "powo_id": "726441-1",
   "iucn_id": "33935",

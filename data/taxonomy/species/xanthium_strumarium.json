@@ -1,8 +1,7 @@
 {
   "name": "Xanthium strumarium",
   "authorship": "L.",
-  "genus_name": "Xanthium",
-  "family_name": "Asteraceae",
+  "parent_name": "Xanthium",
   "gbif_id": "3089154",
   "powo_id": "260893-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Bhesa paniculata",
   "authorship": "Arn.",
-  "genus_name": "Bhesa",
-  "family_name": "Centroplacaceae",
+  "parent_name": "Bhesa",
   "gbif_id": "3793929",
   "powo_id": "159987-1",
   "iucn_id": "33933",

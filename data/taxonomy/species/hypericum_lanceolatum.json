@@ -1,8 +1,7 @@
 {
   "name": "Hypericum lanceolatum",
   "authorship": "Lam.",
-  "genus_name": "Hypericum",
-  "family_name": "Hypericaceae",
+  "parent_name": "Hypericum",
   "gbif_id": "7744867",
   "powo_id": "433544-1",
   "iucn_id": null,

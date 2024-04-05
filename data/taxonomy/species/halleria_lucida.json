@@ -1,8 +1,7 @@
 {
   "name": "Halleria lucida",
   "authorship": "L.",
-  "genus_name": "Halleria",
-  "family_name": "Stilbaceae",
+  "parent_name": "Halleria",
   "gbif_id": "5560356",
   "powo_id": "803581-1",
   "iucn_id": "146451392",

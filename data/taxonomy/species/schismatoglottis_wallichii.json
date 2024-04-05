@@ -1,8 +1,7 @@
 {
   "name": "Schismatoglottis wallichii",
   "authorship": "Hook.f.",
-  "genus_name": "Schismatoglottis",
-  "family_name": "Araceae",
+  "parent_name": "Schismatoglottis",
   "gbif_id": "2868039",
   "powo_id": "77176813-1",
   "iucn_id": null,

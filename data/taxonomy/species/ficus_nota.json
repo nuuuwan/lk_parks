@@ -1,8 +1,7 @@
 {
   "name": "Ficus nota",
   "authorship": "(Blanco) Merr.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5361915",
   "powo_id": "853295-1",
   "iucn_id": "156206170",

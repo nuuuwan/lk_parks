@@ -1,8 +1,7 @@
 {
   "name": "Calyptocarpus vialis",
   "authorship": "Less.",
-  "genus_name": "Calyptocarpus",
-  "family_name": "Asteraceae",
+  "parent_name": "Calyptocarpus",
   "gbif_id": "3091480",
   "powo_id": "188166-1",
   "iucn_id": null,

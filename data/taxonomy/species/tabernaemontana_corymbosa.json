@@ -1,8 +1,7 @@
 {
   "name": "Tabernaemontana corymbosa",
   "authorship": "Roxb. ex Wall.",
-  "genus_name": "Tabernaemontana",
-  "family_name": "Apocynaceae",
+  "parent_name": "Tabernaemontana",
   "gbif_id": "8172343",
   "powo_id": "60466167-2",
   "iucn_id": "34504",

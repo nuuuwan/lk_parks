@@ -1,8 +1,7 @@
 {
   "name": "Rosa foetida",
   "authorship": "Herrm.",
-  "genus_name": "Rosa",
-  "family_name": "Rosaceae",
+  "parent_name": "Rosa",
   "gbif_id": "3006902",
   "powo_id": "732502-1",
   "iucn_id": null,

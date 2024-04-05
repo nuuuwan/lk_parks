@@ -1,8 +1,7 @@
 {
   "name": "Causonis trifolia",
   "authorship": "(L.) Mabb. & J.Wen",
-  "genus_name": "Causonis",
-  "family_name": "Vitaceae",
+  "parent_name": "Causonis",
   "gbif_id": "10995009",
   "powo_id": "77164230-1",
   "iucn_id": null,

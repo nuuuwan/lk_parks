@@ -1,8 +1,7 @@
 {
   "name": "Psychotria marginata",
   "authorship": "Sw.",
-  "genus_name": "Psychotria",
-  "family_name": "Rubiaceae",
+  "parent_name": "Psychotria",
   "gbif_id": "2910824",
   "powo_id": "213065-2",
   "iucn_id": null,

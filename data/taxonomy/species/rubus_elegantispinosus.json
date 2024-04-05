@@ -1,8 +1,7 @@
 {
   "name": "Rubus elegantispinosus",
   "authorship": "(A.Schumach.) H.E.Weber",
-  "genus_name": "Rubus",
-  "family_name": "Rosaceae",
+  "parent_name": "Rubus",
   "gbif_id": "2994335",
   "powo_id": "736497-1",
   "iucn_id": null,

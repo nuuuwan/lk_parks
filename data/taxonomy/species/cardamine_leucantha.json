@@ -1,8 +1,7 @@
 {
   "name": "Cardamine leucantha",
   "authorship": "(Tausch) O.E.Schulz",
-  "genus_name": "Cardamine",
-  "family_name": "Brassicaceae",
+  "parent_name": "Cardamine",
   "gbif_id": "3045862",
   "powo_id": "280441-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Helianthemum squamatum",
   "authorship": "(L.) Dum.Cours.",
-  "genus_name": "Helianthemum",
-  "family_name": "Cistaceae",
+  "parent_name": "Helianthemum",
   "gbif_id": "7951870",
   "powo_id": "169179-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Anisophyllea disticha",
   "authorship": "(Jack) Baill.",
-  "genus_name": "Anisophyllea",
-  "family_name": "Anisophylleaceae",
+  "parent_name": "Anisophyllea",
   "gbif_id": "3658093",
   "powo_id": "719471-1",
   "iucn_id": "32938",

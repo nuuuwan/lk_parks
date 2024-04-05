@@ -1,8 +1,7 @@
 {
   "name": "Serenoa repens",
   "authorship": "(W.Bartram) Small",
-  "genus_name": "Serenoa",
-  "family_name": "Arecaceae",
+  "parent_name": "Serenoa",
   "gbif_id": "2735055",
   "powo_id": "941782-1",
   "iucn_id": null,

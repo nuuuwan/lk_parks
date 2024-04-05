@@ -1,8 +1,7 @@
 {
   "name": "Campomanesia xanthocarpa",
   "authorship": "(Mart.) O.Berg",
-  "genus_name": "Campomanesia",
-  "family_name": "Myrtaceae",
+  "parent_name": "Campomanesia",
   "gbif_id": "3181064",
   "powo_id": "273998-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Copernicia berteroana",
   "authorship": "Becc.",
-  "genus_name": "Copernicia",
-  "family_name": "Arecaceae",
+  "parent_name": "Copernicia",
   "gbif_id": "2738247",
   "powo_id": "64962-2",
   "iucn_id": "213405933",

@@ -1,8 +1,7 @@
 {
   "name": "Ficus citrifolia",
   "authorship": "Mill.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5361938",
   "powo_id": "316340-2",
   "iucn_id": "143276774",

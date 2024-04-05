@@ -1,8 +1,7 @@
 {
   "name": "Prunus serrulata",
   "authorship": "Lindl.",
-  "genus_name": "Prunus",
-  "family_name": "Rosaceae",
+  "parent_name": "Prunus",
   "gbif_id": "3022609",
   "powo_id": "730268-1",
   "iucn_id": null,

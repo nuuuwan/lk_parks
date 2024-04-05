@@ -1,8 +1,7 @@
 {
   "name": "Pimelea ligustrina",
   "authorship": "Labill.",
-  "genus_name": "Pimelea",
-  "family_name": "Thymelaeaceae",
+  "parent_name": "Pimelea",
   "gbif_id": "7311577",
   "powo_id": "832608-1",
   "iucn_id": null,

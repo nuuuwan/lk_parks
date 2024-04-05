@@ -1,8 +1,7 @@
 {
   "name": "Dalechampia spathulata",
   "authorship": "(Scheidw.) Baill.",
-  "genus_name": "Dalechampia",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Dalechampia",
   "gbif_id": "3055580",
   "powo_id": "1092397-2",
   "iucn_id": null,

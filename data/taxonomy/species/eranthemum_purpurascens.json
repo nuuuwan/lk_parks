@@ -1,8 +1,7 @@
 {
   "name": "Eranthemum purpurascens",
   "authorship": "Wight ex Nees",
-  "genus_name": "Eranthemum",
-  "family_name": "Acanthaceae",
+  "parent_name": "Eranthemum",
   "gbif_id": "3776692",
   "powo_id": "48883-1",
   "iucn_id": null,

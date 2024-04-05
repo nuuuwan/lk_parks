@@ -1,8 +1,7 @@
 {
   "name": "Euphorbia leucocephala",
   "authorship": "Lotsy",
-  "genus_name": "Euphorbia",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Euphorbia",
   "gbif_id": "3066435",
   "powo_id": "101612-2",
   "iucn_id": "205089331",

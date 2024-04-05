@@ -1,8 +1,7 @@
 {
   "name": "Trichilia martiana",
   "authorship": "C.DC.",
-  "genus_name": "Trichilia",
-  "family_name": "Meliaceae",
+  "parent_name": "Trichilia",
   "gbif_id": "3849592",
   "powo_id": "579520-1",
   "iucn_id": "122658491",

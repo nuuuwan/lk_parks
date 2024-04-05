@@ -1,8 +1,7 @@
 {
   "name": "Barleria prionitis",
   "authorship": "L.",
-  "genus_name": "Barleria",
-  "family_name": "Acanthaceae",
+  "parent_name": "Barleria",
   "gbif_id": "3173129",
   "powo_id": "46147-1",
   "iucn_id": null,

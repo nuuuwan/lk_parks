@@ -1,8 +1,7 @@
 {
   "name": "Hirtella arenosa",
   "authorship": "Prance",
-  "genus_name": "Hirtella",
-  "family_name": "Chrysobalanaceae",
+  "parent_name": "Hirtella",
   "gbif_id": "2985153",
   "powo_id": "168001-1",
   "iucn_id": null,

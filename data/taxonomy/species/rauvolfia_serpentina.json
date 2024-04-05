@@ -1,8 +1,7 @@
 {
   "name": "Rauvolfia serpentina",
   "authorship": "(L.) Benth. ex Kurz",
-  "genus_name": "Rauvolfia",
-  "family_name": "Apocynaceae",
+  "parent_name": "Rauvolfia",
   "gbif_id": "3169787",
   "powo_id": "81648-1",
   "iucn_id": null,

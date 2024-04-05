@@ -1,8 +1,7 @@
 {
   "name": "Betula pubescens",
   "authorship": "Ehrh.",
-  "genus_name": "Betula",
-  "family_name": "Betulaceae",
+  "parent_name": "Betula",
   "gbif_id": "9118014",
   "powo_id": "295185-1",
   "iucn_id": "194521",

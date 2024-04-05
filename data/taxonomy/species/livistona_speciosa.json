@@ -1,8 +1,7 @@
 {
   "name": "Livistona speciosa",
   "authorship": "Kurz",
-  "genus_name": "Livistona",
-  "family_name": "Arecaceae",
+  "parent_name": "Livistona",
   "gbif_id": "2733440",
   "powo_id": "668070-1",
   "iucn_id": null,

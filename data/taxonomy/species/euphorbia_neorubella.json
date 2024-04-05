@@ -1,8 +1,7 @@
 {
   "name": "Euphorbia neorubella",
   "authorship": "Bruyns",
-  "genus_name": "Euphorbia",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Euphorbia",
   "gbif_id": "3069578",
   "powo_id": "77074461-1",
   "iucn_id": null,

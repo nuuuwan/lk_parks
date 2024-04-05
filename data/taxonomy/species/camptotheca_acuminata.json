@@ -1,8 +1,7 @@
 {
   "name": "Camptotheca acuminata",
   "authorship": "Decne.",
-  "genus_name": "Camptotheca",
-  "family_name": "Nyssaceae",
+  "parent_name": "Camptotheca",
   "gbif_id": "3082210",
   "powo_id": "271482-1",
   "iucn_id": null,

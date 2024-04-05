@@ -1,8 +1,7 @@
 {
   "name": "Sagittaria trifolia",
   "authorship": "L.",
-  "genus_name": "Sagittaria",
-  "family_name": "Alismataceae",
+  "parent_name": "Sagittaria",
   "gbif_id": "5328972",
   "powo_id": "58596-1",
   "iucn_id": "168772",

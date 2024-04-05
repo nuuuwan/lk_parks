@@ -1,8 +1,7 @@
 {
   "name": "Ilex latifolia",
   "authorship": "Thunb.",
-  "genus_name": "Ilex",
-  "family_name": "Aquifoliaceae",
+  "parent_name": "Ilex",
   "gbif_id": "7315699",
   "powo_id": "83430-1",
   "iucn_id": "147377821",

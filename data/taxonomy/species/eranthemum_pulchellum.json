@@ -1,8 +1,7 @@
 {
   "name": "Eranthemum pulchellum",
   "authorship": "Andrews",
-  "genus_name": "Eranthemum",
-  "family_name": "Acanthaceae",
+  "parent_name": "Eranthemum",
   "gbif_id": "3172936",
   "powo_id": "48879-1",
   "iucn_id": null,

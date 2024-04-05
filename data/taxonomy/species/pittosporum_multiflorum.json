@@ -1,8 +1,7 @@
 {
   "name": "Pittosporum multiflorum",
   "authorship": "(A.Cunn. ex Benth.) L.W.Cayzer, Crisp & I.Telford",
-  "genus_name": "Pittosporum",
-  "family_name": "Pittosporaceae",
+  "parent_name": "Pittosporum",
   "gbif_id": "4162023",
   "powo_id": "1018114-1",
   "iucn_id": null,

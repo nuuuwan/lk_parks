@@ -1,8 +1,7 @@
 {
   "name": "Lonchocarpus macrophyllus",
   "authorship": "Kunth",
-  "genus_name": "Lonchocarpus",
-  "family_name": "Fabaceae",
+  "parent_name": "Lonchocarpus",
   "gbif_id": "2969045",
   "powo_id": "503009-1",
   "iucn_id": "145704239",

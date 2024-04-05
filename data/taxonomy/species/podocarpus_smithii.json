@@ -1,8 +1,7 @@
 {
   "name": "Podocarpus smithii",
   "authorship": "de Laub.",
-  "genus_name": "Podocarpus",
-  "family_name": "Podocarpaceae",
+  "parent_name": "Podocarpus",
   "gbif_id": "5285977",
   "powo_id": "906895-1",
   "iucn_id": "34100",

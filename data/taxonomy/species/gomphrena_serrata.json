@@ -1,8 +1,7 @@
 {
   "name": "Gomphrena serrata",
   "authorship": "L.",
-  "genus_name": "Gomphrena",
-  "family_name": "Amaranthaceae",
+  "parent_name": "Gomphrena",
   "gbif_id": "3084909",
   "powo_id": "112097-2",
   "iucn_id": null,

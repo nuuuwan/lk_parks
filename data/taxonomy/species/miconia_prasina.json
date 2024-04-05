@@ -1,8 +1,7 @@
 {
   "name": "Miconia prasina",
   "authorship": "(Sw.) DC.",
-  "genus_name": "Miconia",
-  "family_name": "Melastomataceae",
+  "parent_name": "Miconia",
   "gbif_id": "3188562",
   "powo_id": "1069702-2",
   "iucn_id": "144280609",

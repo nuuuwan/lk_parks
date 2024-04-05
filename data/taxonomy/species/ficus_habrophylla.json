@@ -1,8 +1,7 @@
 {
   "name": "Ficus habrophylla",
   "authorship": "G.Benn. ex Seem.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "8344648",
   "powo_id": "583573-1",
   "iucn_id": "223532294",

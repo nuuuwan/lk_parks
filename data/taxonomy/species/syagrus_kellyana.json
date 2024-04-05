@@ -1,8 +1,7 @@
 {
   "name": "Syagrus kellyana",
   "authorship": "Noblick & Lorenzi",
-  "genus_name": "Syagrus",
-  "family_name": "Arecaceae",
+  "parent_name": "Syagrus",
   "gbif_id": "6316918",
   "powo_id": "60453682-2",
   "iucn_id": null,

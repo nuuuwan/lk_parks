@@ -1,8 +1,7 @@
 {
   "name": "Pterocarpus officinalis",
   "authorship": "Jacq.",
-  "genus_name": "Pterocarpus",
-  "family_name": "Fabaceae",
+  "parent_name": "Pterocarpus",
   "gbif_id": "5349333",
   "powo_id": "214060-2",
   "iucn_id": "62027812",

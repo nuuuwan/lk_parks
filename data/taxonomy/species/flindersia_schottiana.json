@@ -1,8 +1,7 @@
 {
   "name": "Flindersia schottiana",
   "authorship": "F.Muell.",
-  "genus_name": "Flindersia",
-  "family_name": "Rutaceae",
+  "parent_name": "Flindersia",
   "gbif_id": "7374217",
   "powo_id": "578496-1",
   "iucn_id": "38150",

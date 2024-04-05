@@ -1,8 +1,7 @@
 {
   "name": "Kummerowia striata",
   "authorship": "(Thunb.) Schindl.",
-  "genus_name": "Kummerowia",
-  "family_name": "Fabaceae",
+  "parent_name": "Kummerowia",
   "gbif_id": "5352523",
   "powo_id": "134103-2",
   "iucn_id": null,

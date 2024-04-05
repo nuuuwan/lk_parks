@@ -1,8 +1,7 @@
 {
   "name": "Dais cotinifolia",
   "authorship": "L.",
-  "genus_name": "Dais",
-  "family_name": "Thymelaeaceae",
+  "parent_name": "Dais",
   "gbif_id": "3570325",
   "powo_id": "831106-1",
   "iucn_id": "128659516",

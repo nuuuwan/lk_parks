@@ -1,8 +1,7 @@
 {
   "name": "Convallaria majalis",
   "authorship": "L.",
-  "genus_name": "Convallaria",
-  "family_name": "Asparagaceae",
+  "parent_name": "Convallaria",
   "gbif_id": "7459480",
   "powo_id": "533487-1",
   "iucn_id": null,

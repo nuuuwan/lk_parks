@@ -1,8 +1,7 @@
 {
   "name": "Photinia arbutifolia",
   "authorship": "Lindl.",
-  "genus_name": "Photinia",
-  "family_name": "Rosaceae",
+  "parent_name": "Photinia",
   "gbif_id": "5363930",
   "powo_id": "30222858-2",
   "iucn_id": null,

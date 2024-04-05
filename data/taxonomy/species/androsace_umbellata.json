@@ -1,8 +1,7 @@
 {
   "name": "Androsace umbellata",
   "authorship": "(Lour.) Merr.",
-  "genus_name": "Androsace",
-  "family_name": "Primulaceae",
+  "parent_name": "Androsace",
   "gbif_id": "4007936",
   "powo_id": "700464-1",
   "iucn_id": null,

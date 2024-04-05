@@ -1,8 +1,7 @@
 {
   "name": "Clitoria ternatea",
   "authorship": "L.",
-  "genus_name": "Clitoria",
-  "family_name": "Fabaceae",
+  "parent_name": "Clitoria",
   "gbif_id": "2946519",
   "powo_id": "486606-1",
   "iucn_id": null,

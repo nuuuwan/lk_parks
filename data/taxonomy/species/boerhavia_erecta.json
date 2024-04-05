@@ -1,8 +1,7 @@
 {
   "name": "Boerhavia erecta",
   "authorship": "L.",
-  "genus_name": "Boerhavia",
-  "family_name": "Nyctaginaceae",
+  "parent_name": "Boerhavia",
   "gbif_id": "3086281",
   "powo_id": "319111-2",
   "iucn_id": null,

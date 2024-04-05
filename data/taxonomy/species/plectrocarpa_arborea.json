@@ -1,8 +1,7 @@
 {
   "name": "Plectrocarpa arborea",
   "authorship": "(Jacq.) Christenh. & Byng",
-  "genus_name": "Plectrocarpa",
-  "family_name": "Zygophyllaceae",
+  "parent_name": "Plectrocarpa",
   "gbif_id": "9772970",
   "powo_id": "77184861-1",
   "iucn_id": null,

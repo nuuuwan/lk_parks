@@ -1,8 +1,7 @@
 {
   "name": "Mussaenda arcuata",
   "authorship": "Poir.",
-  "genus_name": "Mussaenda",
-  "family_name": "Rubiaceae",
+  "parent_name": "Mussaenda",
   "gbif_id": "2892439",
   "powo_id": "756546-1",
   "iucn_id": null,

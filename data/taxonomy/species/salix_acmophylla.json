@@ -1,8 +1,7 @@
 {
   "name": "Salix acmophylla",
   "authorship": "Boiss.",
-  "genus_name": "Salix",
-  "family_name": "Salicaceae",
+  "parent_name": "Salix",
   "gbif_id": "7266388",
   "powo_id": "776943-1",
   "iucn_id": "13584819",

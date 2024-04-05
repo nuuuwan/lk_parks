@@ -1,8 +1,7 @@
 {
   "name": "Elaeodendron croceum",
   "authorship": "(Thunb.) DC.",
-  "genus_name": "Elaeodendron",
-  "family_name": "Celastraceae",
+  "parent_name": "Elaeodendron",
   "gbif_id": "3792084",
   "powo_id": "160659-1",
   "iucn_id": "149513234",

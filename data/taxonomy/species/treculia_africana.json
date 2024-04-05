@@ -1,8 +1,7 @@
 {
   "name": "Treculia africana",
   "authorship": "Decne. ex Tr\u00e9cul",
-  "genus_name": "Treculia",
-  "family_name": "Moraceae",
+  "parent_name": "Treculia",
   "gbif_id": "7895921",
   "powo_id": "856719-1",
   "iucn_id": "87717226",

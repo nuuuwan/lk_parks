@@ -1,8 +1,7 @@
 {
   "name": "Asplenium alatum",
   "authorship": "Humb. & Bonpl. ex Willd.",
-  "genus_name": "Asplenium",
-  "family_name": "Aspleniaceae",
+  "parent_name": "Asplenium",
   "gbif_id": "7413576",
   "powo_id": "22185-2",
   "iucn_id": null,

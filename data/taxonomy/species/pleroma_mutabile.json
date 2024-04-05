@@ -1,8 +1,7 @@
 {
   "name": "Pleroma mutabile",
   "authorship": "(Vell.) Triana",
-  "genus_name": "Pleroma",
-  "family_name": "Melastomataceae",
+  "parent_name": "Pleroma",
   "gbif_id": "5601379",
   "powo_id": "574841-1",
   "iucn_id": "148760241",

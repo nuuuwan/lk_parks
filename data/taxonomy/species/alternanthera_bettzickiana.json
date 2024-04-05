@@ -1,8 +1,7 @@
 {
   "name": "Alternanthera bettzickiana",
   "authorship": "(Regel) G.Nicholson",
-  "genus_name": "Alternanthera",
-  "family_name": "Amaranthaceae",
+  "parent_name": "Alternanthera",
   "gbif_id": "8189919",
   "powo_id": "10291-2",
   "iucn_id": null,

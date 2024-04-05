@@ -1,8 +1,7 @@
 {
   "name": "Calycophyllum multiflorum",
   "authorship": "Griseb.",
-  "genus_name": "Calycophyllum",
-  "family_name": "Rubiaceae",
+  "parent_name": "Calycophyllum",
   "gbif_id": "2904021",
   "powo_id": "43051-2",
   "iucn_id": null,

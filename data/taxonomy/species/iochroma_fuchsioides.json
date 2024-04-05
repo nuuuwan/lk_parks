@@ -1,8 +1,7 @@
 {
   "name": "Iochroma fuchsioides",
   "authorship": "(Bonpl.) Miers",
-  "genus_name": "Iochroma",
-  "family_name": "Solanaceae",
+  "parent_name": "Iochroma",
   "gbif_id": "3802334",
   "powo_id": "815977-1",
   "iucn_id": null,

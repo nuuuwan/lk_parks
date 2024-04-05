@@ -1,8 +1,7 @@
 {
   "name": "Canella winterana",
   "authorship": "(L.) Gaertn.",
-  "genus_name": "Canella",
-  "family_name": "Canellaceae",
+  "parent_name": "Canella",
   "gbif_id": "3877834",
   "powo_id": "146013-1",
   "iucn_id": "181217390",

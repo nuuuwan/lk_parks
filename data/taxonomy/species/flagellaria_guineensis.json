@@ -1,8 +1,7 @@
 {
   "name": "Flagellaria guineensis",
   "authorship": "Schumach.",
-  "genus_name": "Flagellaria",
-  "family_name": "Flagellariaceae",
+  "parent_name": "Flagellaria",
   "gbif_id": "5287573",
   "powo_id": "366163-1",
   "iucn_id": null,

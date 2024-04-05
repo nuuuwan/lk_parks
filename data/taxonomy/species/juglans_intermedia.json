@@ -1,8 +1,7 @@
 {
   "name": "Juglans intermedia",
   "authorship": "Jacques",
-  "genus_name": "Juglans",
-  "family_name": "Juglandaceae",
+  "parent_name": "Juglans",
   "gbif_id": "3054356",
   "powo_id": "30257757-2",
   "iucn_id": null,

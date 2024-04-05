@@ -1,8 +1,7 @@
 {
   "name": "Vitex madiensis",
   "authorship": "Oliv.",
-  "genus_name": "Vitex",
-  "family_name": "Lamiaceae",
+  "parent_name": "Vitex",
   "gbif_id": "7309412",
   "powo_id": "865856-1",
   "iucn_id": "146206777",

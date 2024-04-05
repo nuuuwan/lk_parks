@@ -1,8 +1,7 @@
 {
   "name": "Coccinia trilobata",
   "authorship": "(Cogn.) C.Jeffrey",
-  "genus_name": "Coccinia",
-  "family_name": "Cucurbitaceae",
+  "parent_name": "Coccinia",
   "gbif_id": "3624014",
   "powo_id": "292023-1",
   "iucn_id": null,

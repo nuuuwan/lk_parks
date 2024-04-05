@@ -1,8 +1,7 @@
 {
   "name": "Ficus fraseri",
   "authorship": "Miq.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "7642634",
   "powo_id": "852861-1",
   "iucn_id": null,

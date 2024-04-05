@@ -1,8 +1,7 @@
 {
   "name": "Pistacia vera",
   "authorship": "L.",
-  "genus_name": "Pistacia",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Pistacia",
   "gbif_id": "3190585",
   "powo_id": "70280-1",
   "iucn_id": "63497",

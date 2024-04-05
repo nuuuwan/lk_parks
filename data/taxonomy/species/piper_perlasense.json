@@ -1,8 +1,7 @@
 {
   "name": "Piper perlasense",
   "authorship": "Yunck.",
-  "genus_name": "Piper",
-  "family_name": "Piperaceae",
+  "parent_name": "Piper",
   "gbif_id": "4185113",
   "powo_id": "198748-2",
   "iucn_id": null,

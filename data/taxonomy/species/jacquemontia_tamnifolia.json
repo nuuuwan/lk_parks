@@ -1,8 +1,7 @@
 {
   "name": "Jacquemontia tamnifolia",
   "authorship": "(L.) Griseb.",
-  "genus_name": "Jacquemontia",
-  "family_name": "Convolvulaceae",
+  "parent_name": "Jacquemontia",
   "gbif_id": "5341725",
   "powo_id": "270265-1",
   "iucn_id": null,

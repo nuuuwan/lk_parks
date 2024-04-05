@@ -1,8 +1,7 @@
 {
   "name": "Piper umbellatum",
   "authorship": "L.",
-  "genus_name": "Piper",
-  "family_name": "Piperaceae",
+  "parent_name": "Piper",
   "gbif_id": "3086364",
   "powo_id": "316339-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Jasminum laurifolium",
   "authorship": "Roxb. ex Hornem.",
-  "genus_name": "Jasminum",
-  "family_name": "Oleaceae",
+  "parent_name": "Jasminum",
   "gbif_id": "8392779",
   "powo_id": "927662-1",
   "iucn_id": null,

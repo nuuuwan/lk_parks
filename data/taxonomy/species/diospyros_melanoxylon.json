@@ -1,8 +1,7 @@
 {
   "name": "Diospyros melanoxylon",
   "authorship": "Roxb.",
-  "genus_name": "Diospyros",
-  "family_name": "Ebenaceae",
+  "parent_name": "Diospyros",
   "gbif_id": "7715874",
   "powo_id": "322692-1",
   "iucn_id": null,

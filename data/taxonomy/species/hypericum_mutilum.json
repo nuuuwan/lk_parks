@@ -1,8 +1,7 @@
 {
   "name": "Hypericum mutilum",
   "authorship": "L.",
-  "genus_name": "Hypericum",
-  "family_name": "Hypericaceae",
+  "parent_name": "Hypericum",
   "gbif_id": "3189462",
   "powo_id": "126289-2",
   "iucn_id": null,

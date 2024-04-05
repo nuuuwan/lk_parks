@@ -1,8 +1,7 @@
 {
   "name": "Didymocheton macranthus",
   "authorship": "(C.DC.) Harms",
-  "genus_name": "Didymocheton",
-  "family_name": "Meliaceae",
+  "parent_name": "Didymocheton",
   "gbif_id": "3851422",
   "powo_id": "578007-1",
   "iucn_id": null,

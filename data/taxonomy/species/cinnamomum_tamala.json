@@ -1,8 +1,7 @@
 {
   "name": "Cinnamomum tamala",
   "authorship": "(Buch.-Ham.) T.Nees & C.H.Eberm.",
-  "genus_name": "Cinnamomum",
-  "family_name": "Lauraceae",
+  "parent_name": "Cinnamomum",
   "gbif_id": "9128079",
   "powo_id": "463718-1",
   "iucn_id": "145404427",

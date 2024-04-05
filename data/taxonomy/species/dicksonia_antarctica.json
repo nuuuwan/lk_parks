@@ -1,8 +1,7 @@
 {
   "name": "Dicksonia antarctica",
   "authorship": "Labill.",
-  "genus_name": "Dicksonia",
-  "family_name": "Cyatheaceae",
+  "parent_name": "Dicksonia",
   "gbif_id": "7498955",
   "powo_id": "17082540-1",
   "iucn_id": null,

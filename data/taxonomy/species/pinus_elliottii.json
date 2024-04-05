@@ -1,8 +1,7 @@
 {
   "name": "Pinus elliottii",
   "authorship": "Engelm.",
-  "genus_name": "Pinus",
-  "family_name": "Pinaceae",
+  "parent_name": "Pinus",
   "gbif_id": "5285777",
   "powo_id": "262921-1",
   "iucn_id": "42361",

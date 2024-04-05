@@ -1,8 +1,7 @@
 {
   "name": "Talinum paniculatum",
   "authorship": "(Jacq.) Gaertn.",
-  "genus_name": "Talinum",
-  "family_name": "Talinaceae",
+  "parent_name": "Talinum",
   "gbif_id": "3084672",
   "powo_id": "1007146-2",
   "iucn_id": null,

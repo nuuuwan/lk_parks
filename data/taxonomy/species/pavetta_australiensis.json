@@ -1,8 +1,7 @@
 {
   "name": "Pavetta australiensis",
   "authorship": "Bremek.",
-  "genus_name": "Pavetta",
-  "family_name": "Rubiaceae",
+  "parent_name": "Pavetta",
   "gbif_id": "2924772",
   "powo_id": "759531-1",
   "iucn_id": null,

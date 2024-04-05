@@ -1,8 +1,7 @@
 {
   "name": "Platymiscium floribundum",
   "authorship": "Vogel",
-  "genus_name": "Platymiscium",
-  "family_name": "Fabaceae",
+  "parent_name": "Platymiscium",
   "gbif_id": "2944754",
   "powo_id": "515226-1",
   "iucn_id": "124099142",

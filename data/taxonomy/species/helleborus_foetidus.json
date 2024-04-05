@@ -1,8 +1,7 @@
 {
   "name": "Helleborus foetidus",
   "authorship": "L.",
-  "genus_name": "Helleborus",
-  "family_name": "Ranunculaceae",
+  "parent_name": "Helleborus",
   "gbif_id": "6375040",
   "powo_id": "711317-1",
   "iucn_id": null,

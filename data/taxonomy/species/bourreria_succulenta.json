@@ -1,8 +1,7 @@
 {
   "name": "Bourreria succulenta",
   "authorship": "Jacq.",
-  "genus_name": "Bourreria",
-  "family_name": "Boraginaceae",
+  "parent_name": "Bourreria",
   "gbif_id": "2926102",
   "powo_id": "1088317-2",
   "iucn_id": "144116667",

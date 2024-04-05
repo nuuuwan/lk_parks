@@ -1,8 +1,7 @@
 {
   "name": "Brunnichia ovata",
   "authorship": "(Walter) Shinners",
-  "genus_name": "Brunnichia",
-  "family_name": "Polygonaceae",
+  "parent_name": "Brunnichia",
   "gbif_id": "2889382",
   "powo_id": "37576-2",
   "iucn_id": null,

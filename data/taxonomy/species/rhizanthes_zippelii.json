@@ -1,8 +1,7 @@
 {
   "name": "Rhizanthes zippelii",
   "authorship": "(Blume) Spach",
-  "genus_name": "Rhizanthes",
-  "family_name": "Rafflesiaceae",
+  "parent_name": "Rhizanthes",
   "gbif_id": "3941198",
   "powo_id": "707092-1",
   "iucn_id": null,

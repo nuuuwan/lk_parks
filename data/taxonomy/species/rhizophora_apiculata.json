@@ -1,8 +1,7 @@
 {
   "name": "Rhizophora apiculata",
   "authorship": "Blume",
-  "genus_name": "Rhizophora",
-  "family_name": "Rhizophoraceae",
+  "parent_name": "Rhizophora",
   "gbif_id": "3086526",
   "powo_id": "719801-1",
   "iucn_id": "31382",

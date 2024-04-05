@@ -1,8 +1,7 @@
 {
   "name": "Elattostachys apetala",
   "authorship": "(Labill.) Radlk.",
-  "genus_name": "Elattostachys",
-  "family_name": "Sapindaceae",
+  "parent_name": "Elattostachys",
   "gbif_id": "3784600",
   "powo_id": "783001-1",
   "iucn_id": "135883407",

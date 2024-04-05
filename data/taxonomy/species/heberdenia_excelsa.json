@@ -1,8 +1,7 @@
 {
   "name": "Heberdenia excelsa",
   "authorship": "(Aiton) DC.",
-  "genus_name": "Heberdenia",
-  "family_name": "Primulaceae",
+  "parent_name": "Heberdenia",
   "gbif_id": "9019260",
   "powo_id": "588603-1",
   "iucn_id": "37669",

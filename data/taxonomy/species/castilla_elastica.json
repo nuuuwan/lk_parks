@@ -1,8 +1,7 @@
 {
   "name": "Castilla elastica",
   "authorship": "Cerv.",
-  "genus_name": "Castilla",
-  "family_name": "Moraceae",
+  "parent_name": "Castilla",
   "gbif_id": "7531920",
   "powo_id": "850895-1",
   "iucn_id": "150843489",

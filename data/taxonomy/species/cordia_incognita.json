@@ -1,8 +1,7 @@
 {
   "name": "Cordia incognita",
   "authorship": "Gottschling & J.S.Mill.",
-  "genus_name": "Cordia",
-  "family_name": "Boraginaceae",
+  "parent_name": "Cordia",
   "gbif_id": "5661857",
   "powo_id": "77073451-1",
   "iucn_id": "189428192",

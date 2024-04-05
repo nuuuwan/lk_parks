@@ -1,8 +1,7 @@
 {
   "name": "Brosimum rubescens",
   "authorship": "Taub.",
-  "genus_name": "Brosimum",
-  "family_name": "Moraceae",
+  "parent_name": "Brosimum",
   "gbif_id": "3762826",
   "powo_id": "37310-2",
   "iucn_id": "61812737",

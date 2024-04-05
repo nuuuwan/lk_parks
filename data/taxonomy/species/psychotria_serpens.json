@@ -1,8 +1,7 @@
 {
   "name": "Psychotria serpens",
   "authorship": "L.",
-  "genus_name": "Psychotria",
-  "family_name": "Rubiaceae",
+  "parent_name": "Psychotria",
   "gbif_id": "2923582",
   "powo_id": "763361-1",
   "iucn_id": null,

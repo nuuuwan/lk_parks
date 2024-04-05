@@ -1,8 +1,7 @@
 {
   "name": "Gossypium barbadense",
   "authorship": "L.",
-  "genus_name": "Gossypium",
-  "family_name": "Malvaceae",
+  "parent_name": "Gossypium",
   "gbif_id": "3152666",
   "powo_id": "559677-1",
   "iucn_id": "71774244",

@@ -1,8 +1,7 @@
 {
   "name": "Penaea sarcocolla",
   "authorship": "L.",
-  "genus_name": "Penaea",
-  "family_name": "Penaeaceae",
+  "parent_name": "Penaea",
   "gbif_id": "3570779",
   "powo_id": "676097-1",
   "iucn_id": null,

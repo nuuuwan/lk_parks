@@ -1,8 +1,7 @@
 {
   "name": "Pinus sylvestris",
   "authorship": "L.",
-  "genus_name": "Pinus",
-  "family_name": "Pinaceae",
+  "parent_name": "Pinus",
   "gbif_id": "5285637",
   "powo_id": "263353-1",
   "iucn_id": "42418",

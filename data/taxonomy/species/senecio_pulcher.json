@@ -1,8 +1,7 @@
 {
   "name": "Senecio pulcher",
   "authorship": "Hook. & Arn.",
-  "genus_name": "Senecio",
-  "family_name": "Asteraceae",
+  "parent_name": "Senecio",
   "gbif_id": "3109000",
   "powo_id": "247130-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Sphagneticola calendulacea",
   "authorship": "(L.) Pruski",
-  "genus_name": "Sphagneticola",
-  "family_name": "Asteraceae",
+  "parent_name": "Sphagneticola",
   "gbif_id": "3116861",
   "powo_id": "993278-1",
   "iucn_id": null,

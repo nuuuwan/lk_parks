@@ -1,8 +1,7 @@
 {
   "name": "Eschweilera ovata",
   "authorship": "(Cambess.) Mart. ex Miers",
-  "genus_name": "Eschweilera",
-  "family_name": "Lecythidaceae",
+  "parent_name": "Eschweilera",
   "gbif_id": "3083384",
   "powo_id": "592619-1",
   "iucn_id": "149193762",

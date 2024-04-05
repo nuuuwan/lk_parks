@@ -1,8 +1,7 @@
 {
   "name": "Microgramma mortoniana",
   "authorship": "de la Sota",
-  "genus_name": "Microgramma",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Microgramma",
   "gbif_id": "4026108",
   "powo_id": "160145-2",
   "iucn_id": null,

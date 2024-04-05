@@ -1,8 +1,7 @@
 {
   "name": "Coprosma repens",
   "authorship": "A.Rich.",
-  "genus_name": "Coprosma",
-  "family_name": "Rubiaceae",
+  "parent_name": "Coprosma",
   "gbif_id": "2911525",
   "powo_id": "747491-1",
   "iucn_id": null,

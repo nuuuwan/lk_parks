@@ -1,8 +1,7 @@
 {
   "name": "Arbutus unedo",
   "authorship": "L.",
-  "genus_name": "Arbutus",
-  "family_name": "Ericaceae",
+  "parent_name": "Arbutus",
   "gbif_id": "2882803",
   "powo_id": "326526-1",
   "iucn_id": "202930",

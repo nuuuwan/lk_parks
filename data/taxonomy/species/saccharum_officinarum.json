@@ -1,8 +1,7 @@
 {
   "name": "Saccharum officinarum",
   "authorship": "L.",
-  "genus_name": "Saccharum",
-  "family_name": "Poaceae",
+  "parent_name": "Saccharum",
   "gbif_id": "2703912",
   "powo_id": "419977-1",
   "iucn_id": null,

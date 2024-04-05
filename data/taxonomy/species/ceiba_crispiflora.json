@@ -1,8 +1,7 @@
 {
   "name": "Ceiba crispiflora",
   "authorship": "(Kunth) Ravenna",
-  "genus_name": "Ceiba",
-  "family_name": "Malvaceae",
+  "parent_name": "Ceiba",
   "gbif_id": "7730107",
   "powo_id": "1005659-1",
   "iucn_id": "177837271",

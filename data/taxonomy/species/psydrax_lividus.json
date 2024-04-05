@@ -1,8 +1,7 @@
 {
   "name": "Psydrax lividus",
   "authorship": "(Hiern) Bridson",
-  "genus_name": "Psydrax",
-  "family_name": "Rubiaceae",
+  "parent_name": "Psydrax",
   "gbif_id": "2893112",
   "powo_id": "915410-1",
   "iucn_id": null,

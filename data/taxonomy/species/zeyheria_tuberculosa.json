@@ -1,8 +1,7 @@
 {
   "name": "Zeyheria tuberculosa",
   "authorship": "(Vell.) Bureau ex Verl.",
-  "genus_name": "Zeyheria",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Zeyheria",
   "gbif_id": "5668489",
   "powo_id": "111422-1",
   "iucn_id": "32976",

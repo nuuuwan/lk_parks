@@ -1,8 +1,7 @@
 {
   "name": "Ctenanthe oppenheimiana",
   "authorship": "(\u00c9.Morren) K.Schum.",
-  "genus_name": "Ctenanthe",
-  "family_name": "Marantaceae",
+  "parent_name": "Ctenanthe",
   "gbif_id": "2762437",
   "powo_id": "71824-2",
   "iucn_id": null,

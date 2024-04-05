@@ -1,8 +1,7 @@
 {
   "name": "Gardenia taitensis",
   "authorship": "DC.",
-  "genus_name": "Gardenia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Gardenia",
   "gbif_id": "5335073",
   "powo_id": "751281-1",
   "iucn_id": "197645442",

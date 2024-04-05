@@ -1,8 +1,7 @@
 {
   "name": "Cyperus papyrus",
   "authorship": "L.",
-  "genus_name": "Cyperus",
-  "family_name": "Cyperaceae",
+  "parent_name": "Cyperus",
   "gbif_id": "2716311",
   "powo_id": "330934-2",
   "iucn_id": "164158",

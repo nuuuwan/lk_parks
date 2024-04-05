@@ -1,8 +1,7 @@
 {
   "name": "Abutilon grandifolium",
   "authorship": "(Willd.) Sweet",
-  "genus_name": "Abutilon",
-  "family_name": "Malvaceae",
+  "parent_name": "Abutilon",
   "gbif_id": "3152633",
   "powo_id": "1026852-2",
   "iucn_id": null,

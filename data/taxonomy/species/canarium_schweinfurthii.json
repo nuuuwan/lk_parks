@@ -1,8 +1,7 @@
 {
   "name": "Canarium schweinfurthii",
   "authorship": "Engl.",
-  "genus_name": "Canarium",
-  "family_name": "Burseraceae",
+  "parent_name": "Canarium",
   "gbif_id": "5421344",
   "powo_id": "127513-1",
   "iucn_id": "61987649",

@@ -1,8 +1,7 @@
 {
   "name": "Osbeckia stellata",
   "authorship": "Buch.-Ham. ex D.Don",
-  "genus_name": "Osbeckia",
-  "family_name": "Melastomataceae",
+  "parent_name": "Osbeckia",
   "gbif_id": "7541996",
   "powo_id": "574191-1",
   "iucn_id": null,

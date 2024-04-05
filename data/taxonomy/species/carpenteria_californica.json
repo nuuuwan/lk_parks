@@ -1,8 +1,7 @@
 {
   "name": "Carpenteria californica",
   "authorship": "Torr.",
-  "genus_name": "Carpenteria",
-  "family_name": "Hydrangeaceae",
+  "parent_name": "Carpenteria",
   "gbif_id": "5362086",
   "powo_id": "790459-1",
   "iucn_id": null,

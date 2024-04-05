@@ -1,8 +1,7 @@
 {
   "name": "Ailanthus altissima",
   "authorship": "(Mill.) Swingle",
-  "genus_name": "Ailanthus",
-  "family_name": "Simaroubaceae",
+  "parent_name": "Ailanthus",
   "gbif_id": "3190653",
   "powo_id": "813521-1",
   "iucn_id": null,

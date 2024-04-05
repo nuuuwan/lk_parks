@@ -1,8 +1,7 @@
 {
   "name": "Viburnum costaricanum",
   "authorship": "(Oerst.) Hemsl.",
-  "genus_name": "Viburnum",
-  "family_name": "Viburnaceae",
+  "parent_name": "Viburnum",
   "gbif_id": "3856689",
   "powo_id": "149629-1",
   "iucn_id": "31299",

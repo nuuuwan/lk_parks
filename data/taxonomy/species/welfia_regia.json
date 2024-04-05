@@ -1,8 +1,7 @@
 {
   "name": "Welfia regia",
   "authorship": "H.Wendl.",
-  "genus_name": "Welfia",
-  "family_name": "Arecaceae",
+  "parent_name": "Welfia",
   "gbif_id": "2738927",
   "powo_id": "670285-1",
   "iucn_id": null,

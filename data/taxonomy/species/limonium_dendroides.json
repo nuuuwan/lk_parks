@@ -1,8 +1,7 @@
 {
   "name": "Limonium dendroides",
   "authorship": "Svent.",
-  "genus_name": "Limonium",
-  "family_name": "Plumbaginaceae",
+  "parent_name": "Limonium",
   "gbif_id": "4090542",
   "powo_id": "686729-1",
   "iucn_id": "162239",

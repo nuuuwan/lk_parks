@@ -1,8 +1,7 @@
 {
   "name": "Agathis borneensis",
   "authorship": "Warb.",
-  "genus_name": "Agathis",
-  "family_name": "Araucariaceae",
+  "parent_name": "Agathis",
   "gbif_id": "5284426",
   "powo_id": "676636-1",
   "iucn_id": "202905",

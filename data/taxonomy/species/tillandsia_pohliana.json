@@ -1,8 +1,7 @@
 {
   "name": "Tillandsia pohliana",
   "authorship": "Mez",
-  "genus_name": "Tillandsia",
-  "family_name": "Bromeliaceae",
+  "parent_name": "Tillandsia",
   "gbif_id": "2695741",
   "powo_id": "254155-2",
   "iucn_id": null,

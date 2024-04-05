@@ -1,8 +1,7 @@
 {
   "name": "Dichrostachys cinerea",
   "authorship": "(L.) Wight & Arn.",
-  "genus_name": "Dichrostachys",
-  "family_name": "Fabaceae",
+  "parent_name": "Dichrostachys",
   "gbif_id": "2975891",
   "powo_id": "492423-1",
   "iucn_id": "164134",

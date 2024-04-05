@@ -1,8 +1,7 @@
 {
   "name": "Basselinia glabrata",
   "authorship": "Becc.",
-  "genus_name": "Basselinia",
-  "family_name": "Arecaceae",
+  "parent_name": "Basselinia",
   "gbif_id": "2736185",
   "powo_id": "664834-1",
   "iucn_id": "39023",

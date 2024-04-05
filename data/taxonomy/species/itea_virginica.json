@@ -1,8 +1,7 @@
 {
   "name": "Itea virginica",
   "authorship": "L.",
-  "genus_name": "Itea",
-  "family_name": "Iteaceae",
+  "parent_name": "Itea",
   "gbif_id": "5362113",
   "powo_id": "278948-2",
   "iucn_id": null,

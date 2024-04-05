@@ -1,8 +1,7 @@
 {
   "name": "Breonadia salicina",
   "authorship": "(Vahl) Hepper & J.R.I.Wood",
-  "genus_name": "Breonadia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Breonadia",
   "gbif_id": "2900926",
   "powo_id": "910167-1",
   "iucn_id": "61957613",

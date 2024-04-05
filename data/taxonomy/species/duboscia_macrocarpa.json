@@ -1,8 +1,7 @@
 {
   "name": "Duboscia macrocarpa",
   "authorship": "Bocq.",
-  "genus_name": "Duboscia",
-  "family_name": "Malvaceae",
+  "parent_name": "Duboscia",
   "gbif_id": "4261717",
   "powo_id": "833743-1",
   "iucn_id": "143714412",

@@ -1,8 +1,7 @@
 {
   "name": "Vitex gigantea",
   "authorship": "Kunth",
-  "genus_name": "Vitex",
-  "family_name": "Lamiaceae",
+  "parent_name": "Vitex",
   "gbif_id": "7309552",
   "powo_id": "865730-1",
   "iucn_id": "139824570",

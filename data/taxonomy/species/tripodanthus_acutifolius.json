@@ -1,8 +1,7 @@
 {
   "name": "Tripodanthus acutifolius",
   "authorship": "(Ruiz & Pav.) Tiegh.",
-  "genus_name": "Tripodanthus",
-  "family_name": "Loranthaceae",
+  "parent_name": "Tripodanthus",
   "gbif_id": "4004147",
   "powo_id": "258636-2",
   "iucn_id": "163032881",

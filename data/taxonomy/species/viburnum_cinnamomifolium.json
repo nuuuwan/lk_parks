@@ -1,8 +1,7 @@
 {
   "name": "Viburnum cinnamomifolium",
   "authorship": "Rehder",
-  "genus_name": "Viburnum",
-  "family_name": "Viburnaceae",
+  "parent_name": "Viburnum",
   "gbif_id": "3856900",
   "powo_id": "149615-1",
   "iucn_id": "152823228",

@@ -1,8 +1,7 @@
 {
   "name": "Leersia oryzoides",
   "authorship": "(L.) Sw.",
-  "genus_name": "Leersia",
-  "family_name": "Poaceae",
+  "parent_name": "Leersia",
   "gbif_id": "2702905",
   "powo_id": "1109632-2",
   "iucn_id": "164118",

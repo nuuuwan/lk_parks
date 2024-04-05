@@ -1,8 +1,7 @@
 {
   "name": "Pycnandra sclerophylla",
   "authorship": "Munzinger & Swenson",
-  "genus_name": "Pycnandra",
-  "family_name": "Sapotaceae",
+  "parent_name": "Pycnandra",
   "gbif_id": "9595116",
   "powo_id": "77152194-1",
   "iucn_id": "158038491",

@@ -1,8 +1,7 @@
 {
   "name": "Caesalpinia cassioides",
   "authorship": "Willd.",
-  "genus_name": "Caesalpinia",
-  "family_name": "Fabaceae",
+  "parent_name": "Caesalpinia",
   "gbif_id": "2958878",
   "powo_id": "482664-1",
   "iucn_id": "194004838",

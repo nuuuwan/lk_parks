@@ -1,8 +1,7 @@
 {
   "name": "Bidens bipinnata",
   "authorship": "L.",
-  "genus_name": "Bidens",
-  "family_name": "Asteraceae",
+  "parent_name": "Bidens",
   "gbif_id": "5389402",
   "powo_id": "184769-1",
   "iucn_id": null,

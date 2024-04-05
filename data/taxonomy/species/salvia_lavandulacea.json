@@ -1,8 +1,7 @@
 {
   "name": "Salvia lavandulacea",
   "authorship": "(de No\u00e9) Roma-Marzio & Galasso",
-  "genus_name": "Salvia",
-  "family_name": "Lamiaceae",
+  "parent_name": "Salvia",
   "gbif_id": "10210097",
   "powo_id": "60478451-2",
   "iucn_id": null,

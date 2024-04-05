@@ -1,8 +1,7 @@
 {
   "name": "Cochlospermum tinctorium",
   "authorship": "Perrier ex A.Rich.",
-  "genus_name": "Cochlospermum",
-  "family_name": "Bixaceae",
+  "parent_name": "Cochlospermum",
   "gbif_id": "8274949",
   "powo_id": "111537-1",
   "iucn_id": null,

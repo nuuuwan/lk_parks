@@ -1,8 +1,7 @@
 {
   "name": "Encephalartos lebomboensis",
   "authorship": "I.Verd.",
-  "genus_name": "Encephalartos",
-  "family_name": "Zamiaceae",
+  "parent_name": "Encephalartos",
   "gbif_id": "2683742",
   "powo_id": "297106-1",
   "iucn_id": "41907",

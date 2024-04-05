@@ -1,8 +1,7 @@
 {
   "name": "Stachytarpheta indica",
   "authorship": "(L.) Vahl",
-  "genus_name": "Stachytarpheta",
-  "family_name": "Verbenaceae",
+  "parent_name": "Stachytarpheta",
   "gbif_id": "2925465",
   "powo_id": "864749-1",
   "iucn_id": "59034672",

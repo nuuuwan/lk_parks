@@ -1,8 +1,7 @@
 {
   "name": "Capparis tomentosa",
   "authorship": "Lam.",
-  "genus_name": "Capparis",
-  "family_name": "Capparaceae",
+  "parent_name": "Capparis",
   "gbif_id": "5602023",
   "powo_id": "146824-1",
   "iucn_id": null,

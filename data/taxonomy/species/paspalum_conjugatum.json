@@ -1,8 +1,7 @@
 {
   "name": "Paspalum conjugatum",
   "authorship": "P.J.Bergius",
-  "genus_name": "Paspalum",
-  "family_name": "Poaceae",
+  "parent_name": "Paspalum",
   "gbif_id": "2705656",
   "powo_id": "30011315-2",
   "iucn_id": "177227",

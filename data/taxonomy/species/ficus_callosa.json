@@ -1,8 +1,7 @@
 {
   "name": "Ficus callosa",
   "authorship": "Willd.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5571016",
   "powo_id": "852543-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Prunus webbii",
   "authorship": "(Spach) Fritsch",
-  "genus_name": "Prunus",
-  "family_name": "Rosaceae",
+  "parent_name": "Prunus",
   "gbif_id": "7912085",
   "powo_id": "730435-1",
   "iucn_id": "172237",

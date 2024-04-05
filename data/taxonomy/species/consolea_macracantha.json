@@ -1,8 +1,7 @@
 {
   "name": "Consolea macracantha",
   "authorship": "(Griseb.) A.Berger",
-  "genus_name": "Consolea",
-  "family_name": "Cactaceae",
+  "parent_name": "Consolea",
   "gbif_id": "3959448",
   "powo_id": "64444-2",
   "iucn_id": "151958",

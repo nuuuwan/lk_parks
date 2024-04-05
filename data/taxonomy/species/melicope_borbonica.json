@@ -1,8 +1,7 @@
 {
   "name": "Melicope borbonica",
   "authorship": "(Bory) T.G.Hartley",
-  "genus_name": "Melicope",
-  "family_name": "Rutaceae",
+  "parent_name": "Melicope",
   "gbif_id": "7269132",
   "powo_id": "1020023-1",
   "iucn_id": null,

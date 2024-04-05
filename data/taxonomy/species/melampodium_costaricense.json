@@ -1,8 +1,7 @@
 {
   "name": "Melampodium costaricense",
   "authorship": "Stuessy",
-  "genus_name": "Melampodium",
-  "family_name": "Asteraceae",
+  "parent_name": "Melampodium",
   "gbif_id": "3138961",
   "powo_id": "156175-2",
   "iucn_id": null,

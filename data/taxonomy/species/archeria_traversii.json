@@ -1,8 +1,7 @@
 {
   "name": "Archeria traversii",
   "authorship": "Hook.f.",
-  "genus_name": "Archeria",
-  "family_name": "Ericaceae",
+  "parent_name": "Archeria",
   "gbif_id": "7660667",
   "powo_id": "324873-1",
   "iucn_id": null,

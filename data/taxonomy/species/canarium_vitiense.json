@@ -1,8 +1,7 @@
 {
   "name": "Canarium vitiense",
   "authorship": "A.Gray",
-  "genus_name": "Canarium",
-  "family_name": "Burseraceae",
+  "parent_name": "Canarium",
   "gbif_id": "5635793",
   "powo_id": "127555-1",
   "iucn_id": "135883116",

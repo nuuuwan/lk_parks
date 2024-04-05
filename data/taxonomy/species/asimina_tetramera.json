@@ -1,8 +1,7 @@
 {
   "name": "Asimina tetramera",
   "authorship": "Small",
-  "genus_name": "Asimina",
-  "family_name": "Annonaceae",
+  "parent_name": "Asimina",
   "gbif_id": "3158032",
   "powo_id": "21385-2",
   "iucn_id": "30379",

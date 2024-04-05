@@ -1,8 +1,7 @@
 {
   "name": "Hydrangea paniculata",
   "authorship": "Siebold",
-  "genus_name": "Hydrangea",
-  "family_name": "Hydrangeaceae",
+  "parent_name": "Hydrangea",
   "gbif_id": "2985995",
   "powo_id": "791653-1",
   "iucn_id": "147376037",

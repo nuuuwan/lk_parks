@@ -1,8 +1,7 @@
 {
   "name": "Mucuna macrocarpa",
   "authorship": "Wall.",
-  "genus_name": "Mucuna",
-  "family_name": "Fabaceae",
+  "parent_name": "Mucuna",
   "gbif_id": "2951365",
   "powo_id": "509234-1",
   "iucn_id": null,

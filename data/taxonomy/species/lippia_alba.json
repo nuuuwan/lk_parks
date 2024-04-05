@@ -1,8 +1,7 @@
 {
   "name": "Lippia alba",
   "authorship": "(Mill.) N.E.Br. ex Britton & P.Wilson",
-  "genus_name": "Lippia",
-  "family_name": "Verbenaceae",
+  "parent_name": "Lippia",
   "gbif_id": "2925385",
   "powo_id": "141020-2",
   "iucn_id": null,

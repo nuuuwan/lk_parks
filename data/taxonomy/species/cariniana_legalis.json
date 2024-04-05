@@ -1,8 +1,7 @@
 {
   "name": "Cariniana legalis",
   "authorship": "(Mart.) Kuntze",
-  "genus_name": "Cariniana",
-  "family_name": "Lecythidaceae",
+  "parent_name": "Cariniana",
   "gbif_id": "3083036",
   "powo_id": "592126-1",
   "iucn_id": "34747",

@@ -1,8 +1,7 @@
 {
   "name": "Gleditsia sinensis",
   "authorship": "Lam.",
-  "genus_name": "Gleditsia",
-  "family_name": "Fabaceae",
+  "parent_name": "Gleditsia",
   "gbif_id": "2959509",
   "powo_id": "496614-1",
   "iucn_id": "147635894",

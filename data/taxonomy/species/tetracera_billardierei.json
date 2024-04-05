@@ -1,8 +1,7 @@
 {
   "name": "Tetracera billardierei",
   "authorship": "Martelli",
-  "genus_name": "Tetracera",
-  "family_name": "Dilleniaceae",
+  "parent_name": "Tetracera",
   "gbif_id": "5680741",
   "powo_id": "317363-1",
   "iucn_id": "72734747",

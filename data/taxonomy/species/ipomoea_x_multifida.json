@@ -1,8 +1,7 @@
 {
   "name": "Ipomoea x multifida",
   "authorship": "(Raf.) Shinners",
-  "genus_name": "Ipomoea",
-  "family_name": "Convolvulaceae",
+  "parent_name": "Ipomoea",
   "gbif_id": "2928556",
   "powo_id": null,
   "iucn_id": null,

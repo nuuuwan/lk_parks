@@ -1,8 +1,7 @@
 {
   "name": "Eranthis hyemalis",
   "authorship": "(L.) Salisb.",
-  "genus_name": "Eranthis",
-  "family_name": "Ranunculaceae",
+  "parent_name": "Eranthis",
   "gbif_id": "3033227",
   "powo_id": "711189-1",
   "iucn_id": null,

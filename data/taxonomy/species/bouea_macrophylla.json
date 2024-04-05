@@ -1,8 +1,7 @@
 {
   "name": "Bouea macrophylla",
   "authorship": "Griff.",
-  "genus_name": "Bouea",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Bouea",
   "gbif_id": "3659935",
   "powo_id": "69262-1",
   "iucn_id": "202232072",

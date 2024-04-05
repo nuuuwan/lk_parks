@@ -1,8 +1,7 @@
 {
   "name": "Croton sonorae",
   "authorship": "Torr.",
-  "genus_name": "Croton",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Croton",
   "gbif_id": "3059899",
   "powo_id": "70909-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Amelanchier ovalis",
   "authorship": "Medik.",
-  "genus_name": "Amelanchier",
-  "family_name": "Rosaceae",
+  "parent_name": "Amelanchier",
   "gbif_id": "3023878",
   "powo_id": "721244-1",
   "iucn_id": null,

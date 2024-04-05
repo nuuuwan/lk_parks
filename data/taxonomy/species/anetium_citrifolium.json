@@ -1,8 +1,7 @@
 {
   "name": "Anetium citrifolium",
   "authorship": "(L.) Splitg.",
-  "genus_name": "Anetium",
-  "family_name": "Pteridaceae",
+  "parent_name": "Anetium",
   "gbif_id": "2650224",
   "powo_id": "17021520-1",
   "iucn_id": null,

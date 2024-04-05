@@ -1,8 +1,7 @@
 {
   "name": "Tamilnadia uliginosa",
   "authorship": "(Retz.) Tirveng. & Sastre",
-  "genus_name": "Tamilnadia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Tamilnadia",
   "gbif_id": "2891981",
   "powo_id": "767328-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Campnosperma auriculatum",
   "authorship": "(Blume) Hook.f.",
-  "genus_name": "Campnosperma",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Campnosperma",
   "gbif_id": "8338076",
   "powo_id": "69379-1",
   "iucn_id": "61983599",

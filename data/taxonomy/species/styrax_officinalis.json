@@ -1,8 +1,7 @@
 {
   "name": "Styrax officinalis",
   "authorship": "L.",
-  "genus_name": "Styrax",
-  "family_name": "Styracaceae",
+  "parent_name": "Styrax",
   "gbif_id": "5371666",
   "powo_id": "327052-2",
   "iucn_id": "79927884",

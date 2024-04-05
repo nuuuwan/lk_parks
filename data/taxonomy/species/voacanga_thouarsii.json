@@ -1,8 +1,7 @@
 {
   "name": "Voacanga thouarsii",
   "authorship": "Roem. & Schult.",
-  "genus_name": "Voacanga",
-  "family_name": "Apocynaceae",
+  "parent_name": "Voacanga",
   "gbif_id": "3615729",
   "powo_id": "82760-1",
   "iucn_id": "165444858",

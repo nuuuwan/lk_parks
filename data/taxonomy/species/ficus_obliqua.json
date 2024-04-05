@@ -1,8 +1,7 @@
 {
   "name": "Ficus obliqua",
   "authorship": "G.Forst.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "7262513",
   "powo_id": "853304-1",
   "iucn_id": "61886108",

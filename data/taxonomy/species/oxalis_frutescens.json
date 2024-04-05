@@ -1,8 +1,7 @@
 {
   "name": "Oxalis frutescens",
   "authorship": "L.",
-  "genus_name": "Oxalis",
-  "family_name": "Oxalidaceae",
+  "parent_name": "Oxalis",
   "gbif_id": "2891719",
   "powo_id": "374932-1",
   "iucn_id": null,

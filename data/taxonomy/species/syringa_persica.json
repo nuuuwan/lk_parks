@@ -1,8 +1,7 @@
 {
   "name": "Syringa persica",
   "authorship": "L.",
-  "genus_name": "Syringa",
-  "family_name": "Oleaceae",
+  "parent_name": "Syringa",
   "gbif_id": "5415036",
   "powo_id": "611146-1",
   "iucn_id": null,

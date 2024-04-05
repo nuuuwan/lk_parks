@@ -1,8 +1,7 @@
 {
   "name": "Syagrus orinocensis",
   "authorship": "(Spruce) Burret",
-  "genus_name": "Syagrus",
-  "family_name": "Arecaceae",
+  "parent_name": "Syagrus",
   "gbif_id": "5293882",
   "powo_id": "246957-2",
   "iucn_id": null,

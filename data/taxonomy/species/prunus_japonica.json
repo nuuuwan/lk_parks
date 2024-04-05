@@ -1,8 +1,7 @@
 {
   "name": "Prunus japonica",
   "authorship": "Thunb.",
-  "genus_name": "Prunus",
-  "family_name": "Rosaceae",
+  "parent_name": "Prunus",
   "gbif_id": "3020565",
   "powo_id": "729847-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Platycerium elephantotis",
   "authorship": "Schweinf.",
-  "genus_name": "Platycerium",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Platycerium",
   "gbif_id": "4024898",
   "powo_id": "17177470-1",
   "iucn_id": null,

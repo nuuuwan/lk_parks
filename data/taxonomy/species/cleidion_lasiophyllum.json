@@ -1,8 +1,7 @@
 {
   "name": "Cleidion lasiophyllum",
   "authorship": "Pax & K.Hoffm.",
-  "genus_name": "Cleidion",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Cleidion",
   "gbif_id": "3073769",
   "powo_id": "341257-1",
   "iucn_id": "154432168",

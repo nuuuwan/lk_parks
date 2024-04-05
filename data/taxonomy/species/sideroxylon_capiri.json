@@ -1,8 +1,7 @@
 {
   "name": "Sideroxylon capiri",
   "authorship": "(A.DC.) Pittier",
-  "genus_name": "Sideroxylon",
-  "family_name": "Sapotaceae",
+  "parent_name": "Sideroxylon",
   "gbif_id": "2887255",
   "powo_id": "789590-1",
   "iucn_id": "62421",

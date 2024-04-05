@@ -1,8 +1,7 @@
 {
   "name": "Sideroxylon lycioides",
   "authorship": "L.",
-  "genus_name": "Sideroxylon",
-  "family_name": "Sapotaceae",
+  "parent_name": "Sideroxylon",
   "gbif_id": "2886983",
   "powo_id": "789725-1",
   "iucn_id": "156812221",

@@ -1,8 +1,7 @@
 {
   "name": "Tragus berteronianus",
   "authorship": "Schult.",
-  "genus_name": "Tragus",
-  "family_name": "Poaceae",
+  "parent_name": "Tragus",
   "gbif_id": "5290129",
   "powo_id": "256481-2",
   "iucn_id": null,

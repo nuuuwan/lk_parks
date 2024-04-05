@@ -1,8 +1,7 @@
 {
   "name": "Hippophae rhamnoides",
   "authorship": "L.",
-  "genus_name": "Hippophae",
-  "family_name": "Elaeagnaceae",
+  "parent_name": "Hippophae",
   "gbif_id": "3039285",
   "powo_id": "323851-1",
   "iucn_id": "55686342",

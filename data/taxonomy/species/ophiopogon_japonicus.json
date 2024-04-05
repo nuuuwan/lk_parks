@@ -1,8 +1,7 @@
 {
   "name": "Ophiopogon japonicus",
   "authorship": "(Thunb.) Ker Gawl.",
-  "genus_name": "Ophiopogon",
-  "family_name": "Asparagaceae",
+  "parent_name": "Ophiopogon",
   "gbif_id": "2774158",
   "powo_id": "429781-1",
   "iucn_id": null,

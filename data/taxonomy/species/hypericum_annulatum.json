@@ -1,8 +1,7 @@
 {
   "name": "Hypericum annulatum",
   "authorship": "Moris",
-  "genus_name": "Hypericum",
-  "family_name": "Hypericaceae",
+  "parent_name": "Hypericum",
   "gbif_id": "7329869",
   "powo_id": "433193-1",
   "iucn_id": null,

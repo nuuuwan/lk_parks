@@ -1,8 +1,7 @@
 {
   "name": "Phyllostachys viridiglaucescens",
   "authorship": "(Carri\u00e8re) Rivi\u00e8re & C.Rivi\u00e8re",
-  "genus_name": "Phyllostachys",
-  "family_name": "Poaceae",
+  "parent_name": "Phyllostachys",
   "gbif_id": "5290170",
   "powo_id": "416059-1",
   "iucn_id": null,

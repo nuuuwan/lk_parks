@@ -1,8 +1,7 @@
 {
   "name": "Solanum aviculare",
   "authorship": "G.Forst.",
-  "genus_name": "Solanum",
-  "family_name": "Solanaceae",
+  "parent_name": "Solanum",
   "gbif_id": "2930210",
   "powo_id": "818376-1",
   "iucn_id": null,

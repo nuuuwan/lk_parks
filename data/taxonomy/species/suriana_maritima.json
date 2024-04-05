@@ -1,8 +1,7 @@
 {
   "name": "Suriana maritima",
   "authorship": "L.",
-  "genus_name": "Suriana",
-  "family_name": "Surianaceae",
+  "parent_name": "Suriana",
   "gbif_id": "2986073",
   "powo_id": "814158-1",
   "iucn_id": "66296722",

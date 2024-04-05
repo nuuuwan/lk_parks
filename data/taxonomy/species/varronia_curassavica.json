@@ -1,8 +1,7 @@
 {
   "name": "Varronia curassavica",
   "authorship": "Jacq.",
-  "genus_name": "Varronia",
-  "family_name": "Boraginaceae",
+  "parent_name": "Varronia",
   "gbif_id": "4060951",
   "powo_id": "262640-2",
   "iucn_id": null,

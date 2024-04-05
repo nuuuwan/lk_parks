@@ -1,8 +1,7 @@
 {
   "name": "Spermacoce ovalifolia",
   "authorship": "(M.Martens & Galeotti) Hemsl.",
-  "genus_name": "Spermacoce",
-  "family_name": "Rubiaceae",
+  "parent_name": "Spermacoce",
   "gbif_id": "2918488",
   "powo_id": "766868-1",
   "iucn_id": null,

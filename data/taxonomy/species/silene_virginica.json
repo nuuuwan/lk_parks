@@ -1,8 +1,7 @@
 {
   "name": "Silene virginica",
   "authorship": "L.",
-  "genus_name": "Silene",
-  "family_name": "Caryophyllaceae",
+  "parent_name": "Silene",
   "gbif_id": "5384823",
   "powo_id": "158643-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Mallotus polycarpus",
   "authorship": "(Benth.) Kulju & Welzen",
-  "genus_name": "Mallotus",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Mallotus",
   "gbif_id": "5378634",
   "powo_id": "77080850-1",
   "iucn_id": null,

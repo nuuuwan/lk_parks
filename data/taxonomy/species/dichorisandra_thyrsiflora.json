@@ -1,8 +1,7 @@
 {
   "name": "Dichorisandra thyrsiflora",
   "authorship": "J.C.Mikan",
-  "genus_name": "Dichorisandra",
-  "family_name": "Commelinaceae",
+  "parent_name": "Dichorisandra",
   "gbif_id": "2763632",
   "powo_id": "79533-2",
   "iucn_id": null,

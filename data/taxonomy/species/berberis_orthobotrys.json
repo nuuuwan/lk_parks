@@ -1,8 +1,7 @@
 {
   "name": "Berberis orthobotrys",
   "authorship": "Bien. ex Aitch.",
-  "genus_name": "Berberis",
-  "family_name": "Berberidaceae",
+  "parent_name": "Berberis",
   "gbif_id": "7300242",
   "powo_id": "106949-1",
   "iucn_id": null,

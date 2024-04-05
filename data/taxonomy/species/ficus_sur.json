@@ -1,8 +1,7 @@
 {
   "name": "Ficus sur",
   "authorship": "Forssk.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5569827",
   "powo_id": "853792-1",
   "iucn_id": "146435594",

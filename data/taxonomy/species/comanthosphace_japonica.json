@@ -1,8 +1,7 @@
 {
   "name": "Comanthosphace japonica",
   "authorship": "(Miq.) S.Moore",
-  "genus_name": "Comanthosphace",
-  "family_name": "Lamiaceae",
+  "parent_name": "Comanthosphace",
   "gbif_id": "7946150",
   "powo_id": "446260-1",
   "iucn_id": null,

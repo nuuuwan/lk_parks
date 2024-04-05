@@ -1,8 +1,7 @@
 {
   "name": "Stephanotis floribunda",
   "authorship": "Jacques",
-  "genus_name": "Stephanotis",
-  "family_name": "Apocynaceae",
+  "parent_name": "Stephanotis",
   "gbif_id": "10924978",
   "powo_id": "77204413-1",
   "iucn_id": "90604995",

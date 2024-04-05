@@ -1,8 +1,7 @@
 {
   "name": "Krugiodendron ferreum",
   "authorship": "(Vahl) Urb.",
-  "genus_name": "Krugiodendron",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Krugiodendron",
   "gbif_id": "3039518",
   "powo_id": "133956-2",
   "iucn_id": "61957086",

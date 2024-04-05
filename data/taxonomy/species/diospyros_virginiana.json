@@ -1,8 +1,7 @@
 {
   "name": "Diospyros virginiana",
   "authorship": "L.",
-  "genus_name": "Diospyros",
-  "family_name": "Ebenaceae",
+  "parent_name": "Diospyros",
   "gbif_id": "3032986",
   "powo_id": "323180-1",
   "iucn_id": "173405",

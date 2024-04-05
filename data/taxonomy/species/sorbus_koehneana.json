@@ -1,8 +1,7 @@
 {
   "name": "Sorbus koehneana",
   "authorship": "C.K.Schneid.",
-  "genus_name": "Sorbus",
-  "family_name": "Rosaceae",
+  "parent_name": "Sorbus",
   "gbif_id": "3013106",
   "powo_id": "741810-1",
   "iucn_id": "147621912",

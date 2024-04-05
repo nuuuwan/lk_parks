@@ -1,8 +1,7 @@
 {
   "name": "Mitragyna inermis",
   "authorship": "(Willd.) Kuntze",
-  "genus_name": "Mitragyna",
-  "family_name": "Rubiaceae",
+  "parent_name": "Mitragyna",
   "gbif_id": "2900458",
   "powo_id": "756296-1",
   "iucn_id": "136663255",

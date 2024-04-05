@@ -1,8 +1,7 @@
 {
   "name": "Antrophyum boryanum",
   "authorship": "(Willd.) Spreng.",
-  "genus_name": "Antrophyum",
-  "family_name": "Pteridaceae",
+  "parent_name": "Antrophyum",
   "gbif_id": "8108316",
   "powo_id": "17023010-1",
   "iucn_id": null,

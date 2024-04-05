@@ -1,8 +1,7 @@
 {
   "name": "Adenium swazicum",
   "authorship": "Stapf",
-  "genus_name": "Adenium",
-  "family_name": "Apocynaceae",
+  "parent_name": "Adenium",
   "gbif_id": "3619191",
   "powo_id": "76374-1",
   "iucn_id": null,

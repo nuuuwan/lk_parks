@@ -1,8 +1,7 @@
 {
   "name": "Salacca magnifica",
   "authorship": "Mogea",
-  "genus_name": "Salacca",
-  "family_name": "Arecaceae",
+  "parent_name": "Salacca",
   "gbif_id": "2731762",
   "powo_id": "669817-1",
   "iucn_id": null,

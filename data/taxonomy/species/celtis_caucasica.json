@@ -1,8 +1,7 @@
 {
   "name": "Celtis caucasica",
   "authorship": "Willd.",
-  "genus_name": "Celtis",
-  "family_name": "Cannabaceae",
+  "parent_name": "Celtis",
   "gbif_id": "7141655",
   "powo_id": "851016-1",
   "iucn_id": "63520",

@@ -1,8 +1,7 @@
 {
   "name": "Ipomoea biflora",
   "authorship": "(L.) Pers.",
-  "genus_name": "Ipomoea",
-  "family_name": "Convolvulaceae",
+  "parent_name": "Ipomoea",
   "gbif_id": "8302726",
   "powo_id": "268495-1",
   "iucn_id": null,

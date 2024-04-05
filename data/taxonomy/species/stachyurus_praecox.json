@@ -1,8 +1,7 @@
 {
   "name": "Stachyurus praecox",
   "authorship": "Siebold & Zucc.",
-  "genus_name": "Stachyurus",
-  "family_name": "Stachyuraceae",
+  "parent_name": "Stachyurus",
   "gbif_id": "7303926",
   "powo_id": "829504-1",
   "iucn_id": null,

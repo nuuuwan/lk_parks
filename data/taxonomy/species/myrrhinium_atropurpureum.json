@@ -1,8 +1,7 @@
 {
   "name": "Myrrhinium atropurpureum",
   "authorship": "Schott",
-  "genus_name": "Myrrhinium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Myrrhinium",
   "gbif_id": "3175434",
   "powo_id": "599403-1",
   "iucn_id": "62781",

@@ -1,8 +1,7 @@
 {
   "name": "Actinorhytis calapparia",
   "authorship": "(Blume) H.Wendl. & Drude ex Scheff.",
-  "genus_name": "Actinorhytis",
-  "family_name": "Arecaceae",
+  "parent_name": "Actinorhytis",
   "gbif_id": "2735548",
   "powo_id": "663980-1",
   "iucn_id": "214155190",

@@ -1,8 +1,7 @@
 {
   "name": "Prunus padus",
   "authorship": "L.",
-  "genus_name": "Prunus",
-  "family_name": "Rosaceae",
+  "parent_name": "Prunus",
   "gbif_id": "3021037",
   "powo_id": "730076-1",
   "iucn_id": "172090",

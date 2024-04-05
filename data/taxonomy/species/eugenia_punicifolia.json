@@ -1,8 +1,7 @@
 {
   "name": "Eugenia punicifolia",
   "authorship": "(Kunth) DC.",
-  "genus_name": "Eugenia",
-  "family_name": "Myrtaceae",
+  "parent_name": "Eugenia",
   "gbif_id": "5418067",
   "powo_id": "1046564-2",
   "iucn_id": "129105029",

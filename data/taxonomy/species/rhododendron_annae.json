@@ -1,8 +1,7 @@
 {
   "name": "Rhododendron annae",
   "authorship": "Franch.",
-  "genus_name": "Rhododendron",
-  "family_name": "Ericaceae",
+  "parent_name": "Rhododendron",
   "gbif_id": "7328158",
   "powo_id": "331930-1",
   "iucn_id": null,

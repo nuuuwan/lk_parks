@@ -1,8 +1,7 @@
 {
   "name": "Chamaerops humilis",
   "authorship": "L.",
-  "genus_name": "Chamaerops",
-  "family_name": "Arecaceae",
+  "parent_name": "Chamaerops",
   "gbif_id": "2736625",
   "powo_id": "665917-1",
   "iucn_id": "13164373",

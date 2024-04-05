@@ -1,8 +1,7 @@
 {
   "name": "Syzygium densiflorum",
   "authorship": "Wall. ex Wight & Arn.",
-  "genus_name": "Syzygium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syzygium",
   "gbif_id": "3182461",
   "powo_id": "77117807-1",
   "iucn_id": "38820",

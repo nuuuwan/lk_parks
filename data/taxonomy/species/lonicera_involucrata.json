@@ -1,8 +1,7 @@
 {
   "name": "Lonicera involucrata",
   "authorship": "(Richardson) Banks ex Spreng.",
-  "genus_name": "Lonicera",
-  "family_name": "Caprifoliaceae",
+  "parent_name": "Lonicera",
   "gbif_id": "5334253",
   "powo_id": "143461-2",
   "iucn_id": null,

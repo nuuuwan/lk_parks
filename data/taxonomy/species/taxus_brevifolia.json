@@ -1,8 +1,7 @@
 {
   "name": "Taxus brevifolia",
   "authorship": "Nutt.",
-  "genus_name": "Taxus",
-  "family_name": "Taxaceae",
+  "parent_name": "Taxus",
   "gbif_id": "5284555",
   "powo_id": "249736-2",
   "iucn_id": "34041",

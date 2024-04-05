@@ -1,8 +1,7 @@
 {
   "name": "Symplocos arborea",
   "authorship": "(Vieill.) Brongn. & Gris",
-  "genus_name": "Symplocos",
-  "family_name": "Symplocaceae",
+  "parent_name": "Symplocos",
   "gbif_id": "3643393",
   "powo_id": "827002-1",
   "iucn_id": null,

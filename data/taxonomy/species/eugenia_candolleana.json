@@ -1,8 +1,7 @@
 {
   "name": "Eugenia candolleana",
   "authorship": "DC.",
-  "genus_name": "Eugenia",
-  "family_name": "Myrtaceae",
+  "parent_name": "Eugenia",
   "gbif_id": "5416896",
   "powo_id": "593908-1",
   "iucn_id": "149210772",

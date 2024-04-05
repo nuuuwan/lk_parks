@@ -1,8 +1,7 @@
 {
   "name": "Phyllanthus niruroides",
   "authorship": "M\u00fcll.Arg.",
-  "genus_name": "Phyllanthus",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Phyllanthus",
   "gbif_id": "5381773",
   "powo_id": "354351-1",
   "iucn_id": null,

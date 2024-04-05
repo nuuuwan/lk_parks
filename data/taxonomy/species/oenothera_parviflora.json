@@ -1,8 +1,7 @@
 {
   "name": "Oenothera parviflora",
   "authorship": "L.",
-  "genus_name": "Oenothera",
-  "family_name": "Onagraceae",
+  "parent_name": "Oenothera",
   "gbif_id": "8994150",
   "powo_id": "294779-2",
   "iucn_id": null,

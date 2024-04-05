@@ -1,8 +1,7 @@
 {
   "name": "Ochna ciliata",
   "authorship": "Lam.",
-  "genus_name": "Ochna",
-  "family_name": "Ochnaceae",
+  "parent_name": "Ochna",
   "gbif_id": "3694999",
   "powo_id": "606559-1",
   "iucn_id": "166743288",

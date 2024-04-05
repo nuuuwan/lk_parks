@@ -1,8 +1,7 @@
 {
   "name": "Alyxia stellata",
   "authorship": "(J.R.Forst. & G.Forst.) Roem. & Schult.",
-  "genus_name": "Alyxia",
-  "family_name": "Apocynaceae",
+  "parent_name": "Alyxia",
   "gbif_id": "7156128",
   "powo_id": "76804-1",
   "iucn_id": null,

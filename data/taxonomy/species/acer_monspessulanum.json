@@ -1,8 +1,7 @@
 {
   "name": "Acer monspessulanum",
   "authorship": "L.",
-  "genus_name": "Acer",
-  "family_name": "Sapindaceae",
+  "parent_name": "Acer",
   "gbif_id": "7262958",
   "powo_id": "781402-1",
   "iucn_id": "193835",

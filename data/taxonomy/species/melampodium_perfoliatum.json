@@ -1,8 +1,7 @@
 {
   "name": "Melampodium perfoliatum",
   "authorship": "(Cav.) Kunth",
-  "genus_name": "Melampodium",
-  "family_name": "Asteraceae",
+  "parent_name": "Melampodium",
   "gbif_id": "3138953",
   "powo_id": "232131-1",
   "iucn_id": null,

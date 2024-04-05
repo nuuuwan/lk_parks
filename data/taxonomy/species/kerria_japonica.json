@@ -1,8 +1,7 @@
 {
   "name": "Kerria japonica",
   "authorship": "(L.) DC.",
-  "genus_name": "Kerria",
-  "family_name": "Rosaceae",
+  "parent_name": "Kerria",
   "gbif_id": "5371450",
   "powo_id": "725814-1",
   "iucn_id": null,

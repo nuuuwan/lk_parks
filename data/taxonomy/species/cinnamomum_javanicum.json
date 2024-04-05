@@ -1,8 +1,7 @@
 {
   "name": "Cinnamomum javanicum",
   "authorship": "Blume",
-  "genus_name": "Cinnamomum",
-  "family_name": "Lauraceae",
+  "parent_name": "Cinnamomum",
   "gbif_id": "4183075",
   "powo_id": "463476-1",
   "iucn_id": "145310499",

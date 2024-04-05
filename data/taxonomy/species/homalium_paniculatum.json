@@ -1,8 +1,7 @@
 {
   "name": "Homalium paniculatum",
   "authorship": "(Lam.) Benth.",
-  "genus_name": "Homalium",
-  "family_name": "Salicaceae",
+  "parent_name": "Homalium",
   "gbif_id": "8160701",
   "powo_id": "779839-1",
   "iucn_id": null,

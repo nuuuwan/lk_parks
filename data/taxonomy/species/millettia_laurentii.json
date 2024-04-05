@@ -1,8 +1,7 @@
 {
   "name": "Millettia laurentii",
   "authorship": "De Wild.",
-  "genus_name": "Millettia",
-  "family_name": "Fabaceae",
+  "parent_name": "Millettia",
   "gbif_id": "5355672",
   "powo_id": "507419-1",
   "iucn_id": "33219",

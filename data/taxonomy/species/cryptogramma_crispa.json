@@ -1,8 +1,7 @@
 {
   "name": "Cryptogramma crispa",
   "authorship": "(L.) R.Br.",
-  "genus_name": "Cryptogramma",
-  "family_name": "Pteridaceae",
+  "parent_name": "Cryptogramma",
   "gbif_id": "5275447",
   "powo_id": "17070940-1",
   "iucn_id": null,

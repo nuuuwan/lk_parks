@@ -1,8 +1,7 @@
 {
   "name": "Pavonia missionum",
   "authorship": "Ekman",
-  "genus_name": "Pavonia",
-  "family_name": "Malvaceae",
+  "parent_name": "Pavonia",
   "gbif_id": "5618680",
   "powo_id": "185960-2",
   "iucn_id": null,

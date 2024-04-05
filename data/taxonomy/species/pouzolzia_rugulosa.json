@@ -1,8 +1,7 @@
 {
   "name": "Pouzolzia rugulosa",
   "authorship": "(Wedd.) Acharya & Kravtsova",
-  "genus_name": "Pouzolzia",
-  "family_name": "Urticaceae",
+  "parent_name": "Pouzolzia",
   "gbif_id": "4098989",
   "powo_id": "77096983-1",
   "iucn_id": null,

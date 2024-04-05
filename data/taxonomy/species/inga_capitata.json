@@ -1,8 +1,7 @@
 {
   "name": "Inga capitata",
   "authorship": "Desv.",
-  "genus_name": "Inga",
-  "family_name": "Fabaceae",
+  "parent_name": "Inga",
   "gbif_id": "5358094",
   "powo_id": "128414-2",
   "iucn_id": "142673479",

@@ -1,8 +1,7 @@
 {
   "name": "Piptadeniastrum africanum",
   "authorship": "(Hook.f.) Brenan",
-  "genus_name": "Piptadeniastrum",
-  "family_name": "Fabaceae",
+  "parent_name": "Piptadeniastrum",
   "gbif_id": "2945196",
   "powo_id": "514467-1",
   "iucn_id": "62027343",

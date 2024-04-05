@@ -1,8 +1,7 @@
 {
   "name": "Aquilegia canadensis",
   "authorship": "L.",
-  "genus_name": "Aquilegia",
-  "family_name": "Ranunculaceae",
+  "parent_name": "Aquilegia",
   "gbif_id": "3033197",
   "powo_id": "30028287-2",
   "iucn_id": null,

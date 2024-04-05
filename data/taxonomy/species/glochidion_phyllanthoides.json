@@ -1,8 +1,7 @@
 {
   "name": "Glochidion phyllanthoides",
   "authorship": "Merr.",
-  "genus_name": "Glochidion",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Glochidion",
   "gbif_id": "3080419",
   "powo_id": "349568-1",
   "iucn_id": "153870656",

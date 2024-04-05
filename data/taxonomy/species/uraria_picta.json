@@ -1,8 +1,7 @@
 {
   "name": "Uraria picta",
   "authorship": "(Jacq.) Desv. ex DC.",
-  "genus_name": "Uraria",
-  "family_name": "Fabaceae",
+  "parent_name": "Uraria",
   "gbif_id": "2956572",
   "powo_id": "524417-1",
   "iucn_id": "19891465",

@@ -1,8 +1,7 @@
 {
   "name": "Cordia trichotoma",
   "authorship": "(Vell.) Arr\u00e1b. ex Steud.",
-  "genus_name": "Cordia",
-  "family_name": "Boraginaceae",
+  "parent_name": "Cordia",
   "gbif_id": "7294667",
   "powo_id": "65606-2",
   "iucn_id": "61987579",

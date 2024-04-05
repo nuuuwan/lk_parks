@@ -1,8 +1,7 @@
 {
   "name": "Temu cruckshanksii",
   "authorship": "(Hook. & Arn.) O.Berg",
-  "genus_name": "Temu",
-  "family_name": "Myrtaceae",
+  "parent_name": "Temu",
   "gbif_id": "3187973",
   "powo_id": "602429-1",
   "iucn_id": "38265",

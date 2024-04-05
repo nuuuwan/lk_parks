@@ -1,8 +1,7 @@
 {
   "name": "Escallonia laevis",
   "authorship": "(Vell.) Sleumer",
-  "genus_name": "Escallonia",
-  "family_name": "Escalloniaceae",
+  "parent_name": "Escallonia",
   "gbif_id": "3932735",
   "powo_id": "337086-1",
   "iucn_id": null,

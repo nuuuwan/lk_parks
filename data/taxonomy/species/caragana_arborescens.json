@@ -1,8 +1,7 @@
 {
   "name": "Caragana arborescens",
   "authorship": "Lam.",
-  "genus_name": "Caragana",
-  "family_name": "Fabaceae",
+  "parent_name": "Caragana",
   "gbif_id": "2943190",
   "powo_id": "483792-1",
   "iucn_id": "147642122",

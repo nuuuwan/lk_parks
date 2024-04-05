@@ -1,8 +1,7 @@
 {
   "name": "Eucalyptus polyanthemos",
   "authorship": "S.Schauer",
-  "genus_name": "Eucalyptus",
-  "family_name": "Myrtaceae",
+  "parent_name": "Eucalyptus",
   "gbif_id": "3176703",
   "powo_id": "593261-1",
   "iucn_id": "133376211",

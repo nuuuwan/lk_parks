@@ -1,8 +1,7 @@
 {
   "name": "Beilschmiedia erythrophloia",
   "authorship": "Hayata",
-  "genus_name": "Beilschmiedia",
-  "family_name": "Lauraceae",
+  "parent_name": "Beilschmiedia",
   "gbif_id": "6135898",
   "powo_id": "462771-1",
   "iucn_id": "144165398",

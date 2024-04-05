@@ -1,8 +1,7 @@
 {
   "name": "Brachystegia spiciformis",
   "authorship": "Benth.",
-  "genus_name": "Brachystegia",
-  "family_name": "Fabaceae",
+  "parent_name": "Brachystegia",
   "gbif_id": "2952670",
   "powo_id": "482255-1",
   "iucn_id": "68133018",

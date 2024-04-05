@@ -1,8 +1,7 @@
 {
   "name": "Gymnocarpium dryopteris",
   "authorship": "(L.) Newman",
-  "genus_name": "Gymnocarpium",
-  "family_name": "Aspleniaceae",
+  "parent_name": "Gymnocarpium",
   "gbif_id": "2650832",
   "powo_id": "17112110-1",
   "iucn_id": null,

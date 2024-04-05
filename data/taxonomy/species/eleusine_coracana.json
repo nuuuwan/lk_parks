@@ -1,8 +1,7 @@
 {
   "name": "Eleusine coracana",
   "authorship": "(L.) Gaertn.",
-  "genus_name": "Eleusine",
-  "family_name": "Poaceae",
+  "parent_name": "Eleusine",
   "gbif_id": "2705957",
   "powo_id": "399945-1",
   "iucn_id": null,

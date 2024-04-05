@@ -1,8 +1,7 @@
 {
   "name": "Callistemon viminalis",
   "authorship": "(Sol. ex Gaertn.) G.Don",
-  "genus_name": "Callistemon",
-  "family_name": "Myrtaceae",
+  "parent_name": "Callistemon",
   "gbif_id": "3173353",
   "powo_id": null,
   "iucn_id": null,

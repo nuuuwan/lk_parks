@@ -1,8 +1,7 @@
 {
   "name": "Farfugium japonicum",
   "authorship": "(L.) Kitam.",
-  "genus_name": "Farfugium",
-  "family_name": "Asteraceae",
+  "parent_name": "Farfugium",
   "gbif_id": "3101212",
   "powo_id": "207632-1",
   "iucn_id": null,

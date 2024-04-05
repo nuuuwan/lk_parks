@@ -1,8 +1,7 @@
 {
   "name": "Rosa malmundariensis",
   "authorship": "Lej.",
-  "genus_name": "Rosa",
-  "family_name": "Rosaceae",
+  "parent_name": "Rosa",
   "gbif_id": "3009062",
   "powo_id": "733222-1",
   "iucn_id": null,

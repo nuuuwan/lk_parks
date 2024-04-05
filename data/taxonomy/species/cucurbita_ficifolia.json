@@ -1,8 +1,7 @@
 {
   "name": "Cucurbita ficifolia",
   "authorship": "Bouch\u00e9",
-  "genus_name": "Cucurbita",
-  "family_name": "Cucurbitaceae",
+  "parent_name": "Cucurbita",
   "gbif_id": "2874512",
   "powo_id": "292369-1",
   "iucn_id": null,

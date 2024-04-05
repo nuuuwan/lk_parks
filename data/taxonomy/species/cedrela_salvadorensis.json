@@ -1,8 +1,7 @@
 {
   "name": "Cedrela salvadorensis",
   "authorship": "Standl.",
-  "genus_name": "Cedrela",
-  "family_name": "Meliaceae",
+  "parent_name": "Cedrela",
   "gbif_id": "3850230",
   "powo_id": "51023-2",
   "iucn_id": "153073106",

@@ -1,8 +1,7 @@
 {
   "name": "Asparagus falcatus",
   "authorship": "L.",
-  "genus_name": "Asparagus",
-  "family_name": "Asparagaceae",
+  "parent_name": "Asparagus",
   "gbif_id": "2768780",
   "powo_id": "531097-1",
   "iucn_id": null,

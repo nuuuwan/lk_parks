@@ -1,8 +1,7 @@
 {
   "name": "Hyospathe elegans",
   "authorship": "Mart.",
-  "genus_name": "Hyospathe",
-  "family_name": "Arecaceae",
+  "parent_name": "Hyospathe",
   "gbif_id": "2736706",
   "powo_id": "667463-1",
   "iucn_id": "67537479",

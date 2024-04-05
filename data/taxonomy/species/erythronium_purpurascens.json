@@ -1,8 +1,7 @@
 {
   "name": "Erythronium purpurascens",
   "authorship": "S.Watson",
-  "genus_name": "Erythronium",
-  "family_name": "Liliaceae",
+  "parent_name": "Erythronium",
   "gbif_id": "2752907",
   "powo_id": "534960-1",
   "iucn_id": null,

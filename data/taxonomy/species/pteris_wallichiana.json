@@ -1,8 +1,7 @@
 {
   "name": "Pteris wallichiana",
   "authorship": "C.Agardh",
-  "genus_name": "Pteris",
-  "family_name": "Pteridaceae",
+  "parent_name": "Pteris",
   "gbif_id": "9458125",
   "powo_id": "324133-2",
   "iucn_id": null,

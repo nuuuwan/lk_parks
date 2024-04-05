@@ -1,8 +1,7 @@
 {
   "name": "Cassia leptophylla",
   "authorship": "Vogel",
-  "genus_name": "Cassia",
-  "family_name": "Fabaceae",
+  "parent_name": "Cassia",
   "gbif_id": "5357169",
   "powo_id": "484754-1",
   "iucn_id": "149205559",

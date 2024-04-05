@@ -1,8 +1,7 @@
 {
   "name": "Shorea multiflora",
   "authorship": "(Burck) Symington",
-  "genus_name": "Shorea",
-  "family_name": "Dipterocarpaceae",
+  "parent_name": "Shorea",
   "gbif_id": "4096716",
   "powo_id": "321367-1",
   "iucn_id": "33128",

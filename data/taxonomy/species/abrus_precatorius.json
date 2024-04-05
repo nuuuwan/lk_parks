@@ -1,8 +1,7 @@
 {
   "name": "Abrus precatorius",
   "authorship": "L.",
-  "genus_name": "Abrus",
-  "family_name": "Fabaceae",
+  "parent_name": "Abrus",
   "gbif_id": "5348711",
   "powo_id": "469605-1",
   "iucn_id": null,

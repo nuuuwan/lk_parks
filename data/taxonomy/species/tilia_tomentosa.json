@@ -1,8 +1,7 @@
 {
   "name": "Tilia tomentosa",
   "authorship": "Moench",
-  "genus_name": "Tilia",
-  "family_name": "Malvaceae",
+  "parent_name": "Tilia",
   "gbif_id": "4259350",
   "powo_id": "835608-1",
   "iucn_id": "203362",

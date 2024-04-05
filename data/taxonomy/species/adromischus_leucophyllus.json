@@ -1,8 +1,7 @@
 {
   "name": "Adromischus leucophyllus",
   "authorship": "Uitewaal",
-  "genus_name": "Adromischus",
-  "family_name": "Crassulaceae",
+  "parent_name": "Adromischus",
   "gbif_id": "4199109",
   "powo_id": "272150-1",
   "iucn_id": null,

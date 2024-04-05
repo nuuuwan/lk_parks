@@ -1,8 +1,7 @@
 {
   "name": "Cladrastis kentukea",
   "authorship": "(Dum.Cours.) Rudd",
-  "genus_name": "Cladrastis",
-  "family_name": "Fabaceae",
+  "parent_name": "Cladrastis",
   "gbif_id": "2945513",
   "powo_id": "486421-1",
   "iucn_id": "153739999",

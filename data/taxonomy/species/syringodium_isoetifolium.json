@@ -1,8 +1,7 @@
 {
   "name": "Syringodium isoetifolium",
   "authorship": "(Asch.) Dandy",
-  "genus_name": "Syringodium",
-  "family_name": "Cymodoceaceae",
+  "parent_name": "Syringodium",
   "gbif_id": "2864078",
   "powo_id": "699866-1",
   "iucn_id": "173332",

@@ -1,8 +1,7 @@
 {
   "name": "Oncoba spinosa",
   "authorship": "Forssk.",
-  "genus_name": "Oncoba",
-  "family_name": "Salicaceae",
+  "parent_name": "Oncoba",
   "gbif_id": "3879362",
   "powo_id": "111964-1",
   "iucn_id": "146188247",

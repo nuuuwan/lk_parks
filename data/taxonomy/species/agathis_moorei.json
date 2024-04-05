@@ -1,8 +1,7 @@
 {
   "name": "Agathis moorei",
   "authorship": "(Lindl.) Mast.",
-  "genus_name": "Agathis",
-  "family_name": "Araucariaceae",
+  "parent_name": "Agathis",
   "gbif_id": "5284434",
   "powo_id": "676650-1",
   "iucn_id": "185863",

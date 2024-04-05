@@ -1,8 +1,7 @@
 {
   "name": "Coccoloba diversifolia",
   "authorship": "Jacq.",
-  "genus_name": "Coccoloba",
-  "family_name": "Polygonaceae",
+  "parent_name": "Coccoloba",
   "gbif_id": "2888824",
   "powo_id": "693641-1",
   "iucn_id": "150116662",

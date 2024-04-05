@@ -1,8 +1,7 @@
 {
   "name": "Parmentiera aculeata",
   "authorship": "(Kunth) Seem.",
-  "genus_name": "Parmentiera",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Parmentiera",
   "gbif_id": "5415087",
   "powo_id": "110241-1",
   "iucn_id": "144264625",

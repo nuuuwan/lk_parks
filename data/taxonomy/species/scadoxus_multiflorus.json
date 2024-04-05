@@ -1,8 +1,7 @@
 {
   "name": "Scadoxus multiflorus",
   "authorship": "(Martyn) Raf.",
-  "genus_name": "Scadoxus",
-  "family_name": "Amaryllidaceae",
+  "parent_name": "Scadoxus",
   "gbif_id": "2860677",
   "powo_id": "66765-1",
   "iucn_id": null,

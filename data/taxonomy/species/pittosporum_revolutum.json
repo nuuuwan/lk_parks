@@ -1,8 +1,7 @@
 {
   "name": "Pittosporum revolutum",
   "authorship": "W.T.Aiton",
-  "genus_name": "Pittosporum",
-  "family_name": "Pittosporaceae",
+  "parent_name": "Pittosporum",
   "gbif_id": "7858299",
   "powo_id": "684670-1",
   "iucn_id": null,

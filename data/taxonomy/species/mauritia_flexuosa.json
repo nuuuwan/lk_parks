@@ -1,8 +1,7 @@
 {
   "name": "Mauritia flexuosa",
   "authorship": "L.f.",
-  "genus_name": "Mauritia",
-  "family_name": "Arecaceae",
+  "parent_name": "Mauritia",
   "gbif_id": "5294777",
   "powo_id": "668158-1",
   "iucn_id": null,

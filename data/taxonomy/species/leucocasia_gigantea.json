@@ -1,8 +1,7 @@
 {
   "name": "Leucocasia gigantea",
   "authorship": "(Blume) Schott",
-  "genus_name": "Leucocasia",
-  "family_name": "Araceae",
+  "parent_name": "Leucocasia",
   "gbif_id": "2870285",
   "powo_id": "87427-1",
   "iucn_id": null,

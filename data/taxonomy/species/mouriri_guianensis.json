@@ -1,8 +1,7 @@
 {
   "name": "Mouriri guianensis",
   "authorship": "Aubl.",
-  "genus_name": "Mouriri",
-  "family_name": "Melastomataceae",
+  "parent_name": "Mouriri",
   "gbif_id": "3870514",
   "powo_id": "306748-2",
   "iucn_id": "146076528",

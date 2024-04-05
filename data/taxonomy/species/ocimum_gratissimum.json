@@ -1,8 +1,7 @@
 {
   "name": "Ocimum gratissimum",
   "authorship": "L.",
-  "genus_name": "Ocimum",
-  "family_name": "Lamiaceae",
+  "parent_name": "Ocimum",
   "gbif_id": "2927094",
   "powo_id": "452969-1",
   "iucn_id": null,

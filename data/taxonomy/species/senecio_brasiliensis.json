@@ -1,8 +1,7 @@
 {
   "name": "Senecio brasiliensis",
   "authorship": "(Spreng.) Less.",
-  "genus_name": "Senecio",
-  "family_name": "Asteraceae",
+  "parent_name": "Senecio",
   "gbif_id": "3107780",
   "powo_id": "1141713-2",
   "iucn_id": null,

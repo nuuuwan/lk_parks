@@ -1,8 +1,7 @@
 {
   "name": "Philodendron toshibae",
   "authorship": "M.L.Soares & Mayo",
-  "genus_name": "Philodendron",
-  "family_name": "Araceae",
+  "parent_name": "Philodendron",
   "gbif_id": "2870872",
   "powo_id": "1021435-1",
   "iucn_id": null,

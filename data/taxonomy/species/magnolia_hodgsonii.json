@@ -1,8 +1,7 @@
 {
   "name": "Magnolia hodgsonii",
   "authorship": "(Hook.f. & Thomson) H.Keng",
-  "genus_name": "Magnolia",
-  "family_name": "Magnoliaceae",
+  "parent_name": "Magnolia",
   "gbif_id": "3153060",
   "powo_id": "554736-1",
   "iucn_id": "191873",

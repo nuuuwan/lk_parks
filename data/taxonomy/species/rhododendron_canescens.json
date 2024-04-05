@@ -1,8 +1,7 @@
 {
   "name": "Rhododendron canescens",
   "authorship": "(Michx.) Sweet",
-  "genus_name": "Rhododendron",
-  "family_name": "Ericaceae",
+  "parent_name": "Rhododendron",
   "gbif_id": "2883039",
   "powo_id": "30117552-2",
   "iucn_id": "200390841",

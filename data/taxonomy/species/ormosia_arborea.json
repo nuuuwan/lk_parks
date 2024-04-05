@@ -1,8 +1,7 @@
 {
   "name": "Ormosia arborea",
   "authorship": "(Vell.) Harms",
-  "genus_name": "Ormosia",
-  "family_name": "Fabaceae",
+  "parent_name": "Ormosia",
   "gbif_id": "5355439",
   "powo_id": "176347-2",
   "iucn_id": "189623506",

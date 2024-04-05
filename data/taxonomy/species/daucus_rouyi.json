@@ -1,8 +1,7 @@
 {
   "name": "Daucus rouyi",
   "authorship": "Spalik & Reduron",
-  "genus_name": "Daucus",
-  "family_name": "Apiaceae",
+  "parent_name": "Daucus",
   "gbif_id": "9348906",
   "powo_id": "77158611-1",
   "iucn_id": null,

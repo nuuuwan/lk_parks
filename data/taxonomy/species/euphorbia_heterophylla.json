@@ -1,8 +1,7 @@
 {
   "name": "Euphorbia heterophylla",
   "authorship": "L.",
-  "genus_name": "Euphorbia",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Euphorbia",
   "gbif_id": "3064495",
   "powo_id": "30062970-2",
   "iucn_id": "126519432",

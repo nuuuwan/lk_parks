@@ -1,8 +1,7 @@
 {
   "name": "Elaeodendron australe",
   "authorship": "Vent.",
-  "genus_name": "Elaeodendron",
-  "family_name": "Celastraceae",
+  "parent_name": "Elaeodendron",
   "gbif_id": "7265549",
   "powo_id": "160649-1",
   "iucn_id": null,

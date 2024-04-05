@@ -1,8 +1,7 @@
 {
   "name": "Thelypteris unita",
   "authorship": "(L.) Morton",
-  "genus_name": "Thelypteris",
-  "family_name": "Aspleniaceae",
+  "parent_name": "Thelypteris",
   "gbif_id": "5666488",
   "powo_id": "17423900-1",
   "iucn_id": null,

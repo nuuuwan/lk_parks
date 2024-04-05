@@ -1,8 +1,7 @@
 {
   "name": "Podocarpus elongatus",
   "authorship": "(Aiton) L'H\u00e9r. ex Pers.",
-  "genus_name": "Podocarpus",
-  "family_name": "Podocarpaceae",
+  "parent_name": "Podocarpus",
   "gbif_id": "9617039",
   "powo_id": "263477-1",
   "iucn_id": "42501",

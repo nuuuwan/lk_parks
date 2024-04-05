@@ -1,8 +1,7 @@
 {
   "name": "Paullinia pinnata",
   "authorship": "L.",
-  "genus_name": "Paullinia",
-  "family_name": "Sapindaceae",
+  "parent_name": "Paullinia",
   "gbif_id": "3189950",
   "powo_id": "185718-2",
   "iucn_id": null,

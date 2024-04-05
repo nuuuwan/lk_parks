@@ -1,8 +1,7 @@
 {
   "name": "Quillaja saponaria",
   "authorship": "Molina",
-  "genus_name": "Quillaja",
-  "family_name": "Quillajaceae",
+  "parent_name": "Quillaja",
   "gbif_id": "3029379",
   "powo_id": "731377-1",
   "iucn_id": "131407078",

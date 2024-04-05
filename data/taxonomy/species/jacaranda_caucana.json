@@ -1,8 +1,7 @@
 {
   "name": "Jacaranda caucana",
   "authorship": "Pittier",
-  "genus_name": "Jacaranda",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Jacaranda",
   "gbif_id": "7298785",
   "powo_id": "130903-2",
   "iucn_id": "151977741",

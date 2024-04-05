@@ -1,8 +1,7 @@
 {
   "name": "Clerodendrum thomsoniae",
   "authorship": "Balf.f.",
-  "genus_name": "Clerodendrum",
-  "family_name": "Lamiaceae",
+  "parent_name": "Clerodendrum",
   "gbif_id": "3889087",
   "powo_id": "862437-1",
   "iucn_id": null,

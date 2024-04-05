@@ -1,8 +1,7 @@
 {
   "name": "Basselinia favieri",
   "authorship": "H.E.Moore",
-  "genus_name": "Basselinia",
-  "family_name": "Arecaceae",
+  "parent_name": "Basselinia",
   "gbif_id": "2736183",
   "powo_id": "903677-1",
   "iucn_id": "38438",

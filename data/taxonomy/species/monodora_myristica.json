@@ -1,8 +1,7 @@
 {
   "name": "Monodora myristica",
   "authorship": "(Gaertn.) Dunal",
-  "genus_name": "Monodora",
-  "family_name": "Annonaceae",
+  "parent_name": "Monodora",
   "gbif_id": "3154077",
   "powo_id": "74141-1",
   "iucn_id": "132683482",

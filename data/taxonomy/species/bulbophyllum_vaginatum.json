@@ -1,8 +1,7 @@
 {
   "name": "Bulbophyllum vaginatum",
   "authorship": "(Lindl.) Rchb.f.",
-  "genus_name": "Bulbophyllum",
-  "family_name": "Orchidaceae",
+  "parent_name": "Bulbophyllum",
   "gbif_id": "2846303",
   "powo_id": "620417-1",
   "iucn_id": null,

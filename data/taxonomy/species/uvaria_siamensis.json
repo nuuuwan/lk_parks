@@ -1,8 +1,7 @@
 {
   "name": "Uvaria siamensis",
   "authorship": "(Scheff.) L.L.Zhou, Y.C.F.Su & R.M.K.Saunders",
-  "genus_name": "Uvaria",
-  "family_name": "Annonaceae",
+  "parent_name": "Uvaria",
   "gbif_id": "6308655",
   "powo_id": "77101199-1",
   "iucn_id": null,

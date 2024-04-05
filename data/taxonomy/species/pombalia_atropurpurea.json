@@ -1,8 +1,7 @@
 {
   "name": "Pombalia atropurpurea",
   "authorship": "(A.St.-Hil.) Paula-Souza",
-  "genus_name": "Pombalia",
-  "family_name": "Violaceae",
+  "parent_name": "Pombalia",
   "gbif_id": "8049834",
   "powo_id": "77143543-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Emmenosperma pancherianum",
   "authorship": "Baill.",
-  "genus_name": "Emmenosperma",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Emmenosperma",
   "gbif_id": "3875224",
   "powo_id": "717337-1",
   "iucn_id": "35031",

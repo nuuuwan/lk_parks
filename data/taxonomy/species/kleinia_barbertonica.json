@@ -1,8 +1,7 @@
 {
   "name": "Kleinia barbertonica",
   "authorship": "(Klatt) Burtt Davy",
-  "genus_name": "Kleinia",
-  "family_name": "Asteraceae",
+  "parent_name": "Kleinia",
   "gbif_id": "5694160",
   "powo_id": "227359-1",
   "iucn_id": null,

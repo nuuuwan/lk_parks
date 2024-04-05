@@ -1,8 +1,7 @@
 {
   "name": "Cyperus hortensis",
   "authorship": "(Salzm. ex Steud.) Dorr",
-  "genus_name": "Cyperus",
-  "family_name": "Cyperaceae",
+  "parent_name": "Cyperus",
   "gbif_id": "9478376",
   "powo_id": "77144505-1",
   "iucn_id": "138795616",

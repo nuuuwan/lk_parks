@@ -1,8 +1,7 @@
 {
   "name": "Handroanthus lapacho",
   "authorship": "(K.Schum.) S.O.Grose",
-  "genus_name": "Handroanthus",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Handroanthus",
   "gbif_id": "4092201",
   "powo_id": "77085091-1",
   "iucn_id": "34624",

@@ -1,8 +1,7 @@
 {
   "name": "Daphne cneorum",
   "authorship": "L.",
-  "genus_name": "Daphne",
-  "family_name": "Thymelaeaceae",
+  "parent_name": "Daphne",
   "gbif_id": "7150059",
   "powo_id": "831193-1",
   "iucn_id": null,

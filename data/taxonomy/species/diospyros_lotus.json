@@ -1,8 +1,7 @@
 {
   "name": "Diospyros lotus",
   "authorship": "L.",
-  "genus_name": "Diospyros",
-  "family_name": "Ebenaceae",
+  "parent_name": "Diospyros",
   "gbif_id": "3032980",
   "powo_id": "322629-1",
   "iucn_id": "63524",

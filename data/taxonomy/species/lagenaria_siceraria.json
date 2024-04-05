@@ -1,8 +1,7 @@
 {
   "name": "Lagenaria siceraria",
   "authorship": "(Molina) Standl.",
-  "genus_name": "Lagenaria",
-  "family_name": "Cucurbitaceae",
+  "parent_name": "Lagenaria",
   "gbif_id": "2874672",
   "powo_id": "134809-2",
   "iucn_id": null,

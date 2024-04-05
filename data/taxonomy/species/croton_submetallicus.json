@@ -1,8 +1,7 @@
 {
   "name": "Croton submetallicus",
   "authorship": "Baill.",
-  "genus_name": "Croton",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Croton",
   "gbif_id": "3059736",
   "powo_id": "343577-1",
   "iucn_id": "167038005",

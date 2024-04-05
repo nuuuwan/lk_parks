@@ -1,8 +1,7 @@
 {
   "name": "Corylus chinensis",
   "authorship": "Franch.",
-  "genus_name": "Corylus",
-  "family_name": "Betulaceae",
+  "parent_name": "Corylus",
   "gbif_id": "2876088",
   "powo_id": "295451-1",
   "iucn_id": "32394",

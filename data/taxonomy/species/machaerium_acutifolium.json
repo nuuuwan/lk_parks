@@ -1,8 +1,7 @@
 {
   "name": "Machaerium acutifolium",
   "authorship": "Vogel",
-  "genus_name": "Machaerium",
-  "family_name": "Fabaceae",
+  "parent_name": "Machaerium",
   "gbif_id": "5354997",
   "powo_id": "505361-1",
   "iucn_id": "144273758",

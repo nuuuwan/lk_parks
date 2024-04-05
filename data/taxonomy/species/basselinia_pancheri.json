@@ -1,8 +1,7 @@
 {
   "name": "Basselinia pancheri",
   "authorship": "(Brongn. & Gris) Vieill.",
-  "genus_name": "Basselinia",
-  "family_name": "Arecaceae",
+  "parent_name": "Basselinia",
   "gbif_id": "2736203",
   "powo_id": "664841-1",
   "iucn_id": "38442",

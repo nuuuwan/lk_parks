@@ -1,8 +1,7 @@
 {
   "name": "Paspalum distichum",
   "authorship": "L.",
-  "genus_name": "Paspalum",
-  "family_name": "Poaceae",
+  "parent_name": "Paspalum",
   "gbif_id": "2705622",
   "powo_id": "184275-2",
   "iucn_id": "169030",

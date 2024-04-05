@@ -1,8 +1,7 @@
 {
   "name": "Stachytarpheta mutabilis",
   "authorship": "(Jacq.) Vahl",
-  "genus_name": "Stachytarpheta",
-  "family_name": "Verbenaceae",
+  "parent_name": "Stachytarpheta",
   "gbif_id": "2925462",
   "powo_id": "243385-2",
   "iucn_id": null,

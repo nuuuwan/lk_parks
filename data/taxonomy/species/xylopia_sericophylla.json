@@ -1,8 +1,7 @@
 {
   "name": "Xylopia sericophylla",
   "authorship": "Standl. & L.O.Williams",
-  "genus_name": "Xylopia",
-  "family_name": "Annonaceae",
+  "parent_name": "Xylopia",
   "gbif_id": "3157275",
   "powo_id": "269826-2",
   "iucn_id": "140935046",

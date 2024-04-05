@@ -1,8 +1,7 @@
 {
   "name": "Thymbra capitata",
   "authorship": "(L.) Cav.",
-  "genus_name": "Thymbra",
-  "family_name": "Lamiaceae",
+  "parent_name": "Thymbra",
   "gbif_id": "5607804",
   "powo_id": "460817-1",
   "iucn_id": null,

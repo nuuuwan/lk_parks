@@ -1,8 +1,7 @@
 {
   "name": "Wrightia antidysenterica",
   "authorship": "(L.) R.Br.",
-  "genus_name": "Wrightia",
-  "family_name": "Apocynaceae",
+  "parent_name": "Wrightia",
   "gbif_id": "5535420",
   "powo_id": "82830-1",
   "iucn_id": null,

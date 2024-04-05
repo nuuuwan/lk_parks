@@ -1,8 +1,7 @@
 {
   "name": "Capparis decidua",
   "authorship": "(Forssk.) Edgew.",
-  "genus_name": "Capparis",
-  "family_name": "Capparaceae",
+  "parent_name": "Capparis",
   "gbif_id": "7782352",
   "powo_id": "146394-1",
   "iucn_id": "19289281",

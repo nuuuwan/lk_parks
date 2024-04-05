@@ -1,8 +1,7 @@
 {
   "name": "Morus indica",
   "authorship": "L.",
-  "genus_name": "Morus",
-  "family_name": "Moraceae",
+  "parent_name": "Morus",
   "gbif_id": "5569978",
   "powo_id": "854652-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Passiflora pallida",
   "authorship": "L.",
-  "genus_name": "Passiflora",
-  "family_name": "Passifloraceae",
+  "parent_name": "Passiflora",
   "gbif_id": "8435196",
   "powo_id": "185104-2",
   "iucn_id": "192145500",

@@ -1,8 +1,7 @@
 {
   "name": "Augusta rivalis",
   "authorship": "(Benth.) J.H.Kirkbr.",
-  "genus_name": "Augusta",
-  "family_name": "Rubiaceae",
+  "parent_name": "Augusta",
   "gbif_id": "5335707",
   "powo_id": "998196-1",
   "iucn_id": null,

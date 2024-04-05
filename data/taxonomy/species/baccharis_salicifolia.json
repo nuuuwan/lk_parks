@@ -1,8 +1,7 @@
 {
   "name": "Baccharis salicifolia",
   "authorship": "(Ruiz & Pav.) Pers.",
-  "genus_name": "Baccharis",
-  "family_name": "Asteraceae",
+  "parent_name": "Baccharis",
   "gbif_id": "3129643",
   "powo_id": "183704-1",
   "iucn_id": "126029547",

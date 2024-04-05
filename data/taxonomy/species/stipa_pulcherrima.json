@@ -1,8 +1,7 @@
 {
   "name": "Stipa pulcherrima",
   "authorship": "K.Koch",
-  "genus_name": "Stipa",
-  "family_name": "Poaceae",
+  "parent_name": "Stipa",
   "gbif_id": "4134251",
   "powo_id": "423690-1",
   "iucn_id": null,

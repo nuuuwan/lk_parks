@@ -1,8 +1,7 @@
 {
   "name": "Annona montana",
   "authorship": "Macfad.",
-  "genus_name": "Annona",
-  "family_name": "Annonaceae",
+  "parent_name": "Annona",
   "gbif_id": "5407165",
   "powo_id": "72257-1",
   "iucn_id": "142423951",

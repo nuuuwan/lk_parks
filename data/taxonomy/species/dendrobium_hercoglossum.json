@@ -1,8 +1,7 @@
 {
   "name": "Dendrobium hercoglossum",
   "authorship": "Rchb.f.",
-  "genus_name": "Dendrobium",
-  "family_name": "Orchidaceae",
+  "parent_name": "Dendrobium",
   "gbif_id": "5316187",
   "powo_id": "627607-1",
   "iucn_id": null,

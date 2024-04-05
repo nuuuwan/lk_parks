@@ -1,8 +1,7 @@
 {
   "name": "Glochidion urophylloides",
   "authorship": "Elmer",
-  "genus_name": "Glochidion",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Glochidion",
   "gbif_id": "3080799",
   "powo_id": "349688-1",
   "iucn_id": null,

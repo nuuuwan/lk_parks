@@ -1,8 +1,7 @@
 {
   "name": "Machaerium brasiliense",
   "authorship": "Vogel",
-  "genus_name": "Machaerium",
-  "family_name": "Fabaceae",
+  "parent_name": "Machaerium",
   "gbif_id": "5355145",
   "powo_id": "505386-1",
   "iucn_id": "19892059",

@@ -1,8 +1,7 @@
 {
   "name": "Sesbania vesicaria",
   "authorship": "(Jacq.) Elliott",
-  "genus_name": "Sesbania",
-  "family_name": "Fabaceae",
+  "parent_name": "Sesbania",
   "gbif_id": "2976463",
   "powo_id": "518555-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Celtis australis",
   "authorship": "L.",
-  "genus_name": "Celtis",
-  "family_name": "Cannabaceae",
+  "parent_name": "Celtis",
   "gbif_id": "2984492",
   "powo_id": "850999-1",
   "iucn_id": "19218728",

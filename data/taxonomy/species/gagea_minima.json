@@ -1,8 +1,7 @@
 {
   "name": "Gagea minima",
   "authorship": "(L.) Ker Gawl.",
-  "genus_name": "Gagea",
-  "family_name": "Liliaceae",
+  "parent_name": "Gagea",
   "gbif_id": "5300136",
   "powo_id": "535585-1",
   "iucn_id": null,

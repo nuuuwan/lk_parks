@@ -1,8 +1,7 @@
 {
   "name": "Plumeria filifolia",
   "authorship": "Griseb.",
-  "genus_name": "Plumeria",
-  "family_name": "Apocynaceae",
+  "parent_name": "Plumeria",
   "gbif_id": "3615612",
   "powo_id": "81213-1",
   "iucn_id": null,

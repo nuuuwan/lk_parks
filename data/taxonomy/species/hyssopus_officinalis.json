@@ -1,8 +1,7 @@
 {
   "name": "Hyssopus officinalis",
   "authorship": "L.",
-  "genus_name": "Hyssopus",
-  "family_name": "Lamiaceae",
+  "parent_name": "Hyssopus",
   "gbif_id": "5341387",
   "powo_id": "127231-2",
   "iucn_id": null,

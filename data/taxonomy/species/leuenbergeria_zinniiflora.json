@@ -1,8 +1,7 @@
 {
   "name": "Leuenbergeria zinniiflora",
   "authorship": "(DC.) Lod\u00e9",
-  "genus_name": "Leuenbergeria",
-  "family_name": "Cactaceae",
+  "parent_name": "Leuenbergeria",
   "gbif_id": "11035307",
   "powo_id": "60461850-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Croton flavens",
   "authorship": "L.",
-  "genus_name": "Croton",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Croton",
   "gbif_id": "3057734",
   "powo_id": "342537-1",
   "iucn_id": "144299068",

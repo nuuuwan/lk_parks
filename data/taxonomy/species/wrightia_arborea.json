@@ -1,8 +1,7 @@
 {
   "name": "Wrightia arborea",
   "authorship": "(Dennst.) Mabb.",
-  "genus_name": "Wrightia",
-  "family_name": "Apocynaceae",
+  "parent_name": "Wrightia",
   "gbif_id": "5535418",
   "powo_id": "82831-1",
   "iucn_id": "61984927",

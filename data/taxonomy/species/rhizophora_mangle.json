@@ -1,8 +1,7 @@
 {
   "name": "Rhizophora mangle",
   "authorship": "L.",
-  "genus_name": "Rhizophora",
-  "family_name": "Rhizophoraceae",
+  "parent_name": "Rhizophora",
   "gbif_id": "3086528",
   "powo_id": "30061148-2",
   "iucn_id": "178851",

@@ -1,8 +1,7 @@
 {
   "name": "Aloe pseudorubroviolacea",
   "authorship": "Lavranos & Collen.",
-  "genus_name": "Aloe",
-  "family_name": "Asphodelaceae",
+  "parent_name": "Aloe",
   "gbif_id": "2777148",
   "powo_id": "1013410-1",
   "iucn_id": null,

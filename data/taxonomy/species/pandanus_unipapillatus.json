@@ -1,8 +1,7 @@
 {
   "name": "Pandanus unipapillatus",
   "authorship": "Dennst.",
-  "genus_name": "Pandanus",
-  "family_name": "Pandanaceae",
+  "parent_name": "Pandanus",
   "gbif_id": "5327265",
   "powo_id": "671588-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Planchonella obovata",
   "authorship": "(R.Br.) Pierre",
-  "genus_name": "Planchonella",
-  "family_name": "Sapotaceae",
+  "parent_name": "Planchonella",
   "gbif_id": "5334135",
   "powo_id": "788694-1",
   "iucn_id": null,

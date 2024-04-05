@@ -1,8 +1,7 @@
 {
   "name": "Lyonothamnus floribundus",
   "authorship": "A.Gray",
-  "genus_name": "Lyonothamnus",
-  "family_name": "Rosaceae",
+  "parent_name": "Lyonothamnus",
   "gbif_id": "3027433",
   "powo_id": "30011408-2",
   "iucn_id": "62848",

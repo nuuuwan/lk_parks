@@ -1,8 +1,7 @@
 {
   "name": "Karomia speciosa",
   "authorship": "(Hutch. & Corbishley) R.Fern.",
-  "genus_name": "Karomia",
-  "family_name": "Lamiaceae",
+  "parent_name": "Karomia",
   "gbif_id": "7308478",
   "powo_id": "945326-1",
   "iucn_id": "146458487",

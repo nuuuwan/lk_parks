@@ -1,8 +1,7 @@
 {
   "name": "Dillenia philippinensis",
   "authorship": "Rolfe",
-  "genus_name": "Dillenia",
-  "family_name": "Dilleniaceae",
+  "parent_name": "Dillenia",
   "gbif_id": "5383895",
   "powo_id": "316735-1",
   "iucn_id": "33202",

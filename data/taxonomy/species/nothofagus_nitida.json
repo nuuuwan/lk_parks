@@ -1,8 +1,7 @@
 {
   "name": "Nothofagus nitida",
   "authorship": "(Phil.) Krasser",
-  "genus_name": "Nothofagus",
-  "family_name": "Nothofagaceae",
+  "parent_name": "Nothofagus",
   "gbif_id": "2874982",
   "powo_id": "170375-2",
   "iucn_id": "96478547",

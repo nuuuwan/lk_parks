@@ -1,8 +1,7 @@
 {
   "name": "Viburnum opulus",
   "authorship": "L.",
-  "genus_name": "Viburnum",
-  "family_name": "Viburnaceae",
+  "parent_name": "Viburnum",
   "gbif_id": "2888605",
   "powo_id": "326268-2",
   "iucn_id": null,

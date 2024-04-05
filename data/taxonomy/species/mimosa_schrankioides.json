@@ -1,8 +1,7 @@
 {
   "name": "Mimosa schrankioides",
   "authorship": "Benth.",
-  "genus_name": "Mimosa",
-  "family_name": "Fabaceae",
+  "parent_name": "Mimosa",
   "gbif_id": "2969439",
   "powo_id": "508652-1",
   "iucn_id": null,

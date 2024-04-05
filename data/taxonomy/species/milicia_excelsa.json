@@ -1,8 +1,7 @@
 {
   "name": "Milicia excelsa",
   "authorship": "(Welw.) C.C.Berg",
-  "genus_name": "Milicia",
-  "family_name": "Moraceae",
+  "parent_name": "Milicia",
   "gbif_id": "3763589",
   "powo_id": "910900-1",
   "iucn_id": "33903",

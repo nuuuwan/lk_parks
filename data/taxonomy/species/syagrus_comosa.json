@@ -1,8 +1,7 @@
 {
   "name": "Syagrus comosa",
   "authorship": "(Mart.) Mart.",
-  "genus_name": "Syagrus",
-  "family_name": "Arecaceae",
+  "parent_name": "Syagrus",
   "gbif_id": "5293909",
   "powo_id": "670021-1",
   "iucn_id": "111460863",

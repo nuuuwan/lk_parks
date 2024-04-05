@@ -1,8 +1,7 @@
 {
   "name": "Discretitheca nepalensis",
   "authorship": "(Moldenke) P.D.Cantino",
-  "genus_name": "Discretitheca",
-  "family_name": "Lamiaceae",
+  "parent_name": "Discretitheca",
   "gbif_id": "7309275",
   "powo_id": "1008759-1",
   "iucn_id": null,

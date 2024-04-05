@@ -1,8 +1,7 @@
 {
   "name": "Erythrina lysistemon",
   "authorship": "Hutch.",
-  "genus_name": "Erythrina",
-  "family_name": "Fabaceae",
+  "parent_name": "Erythrina",
   "gbif_id": "5349556",
   "powo_id": "494491-1",
   "iucn_id": "146455940",

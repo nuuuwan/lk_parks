@@ -1,8 +1,7 @@
 {
   "name": "Catalpa bignonioides",
   "authorship": "Walter",
-  "genus_name": "Catalpa",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Catalpa",
   "gbif_id": "3172615",
   "powo_id": "30194969-2",
   "iucn_id": "61985360",

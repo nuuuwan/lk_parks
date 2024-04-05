@@ -1,8 +1,7 @@
 {
   "name": "Phoenix reclinata",
   "authorship": "Jacq.",
-  "genus_name": "Phoenix",
-  "family_name": "Arecaceae",
+  "parent_name": "Phoenix",
   "gbif_id": "5293164",
   "powo_id": "668943-1",
   "iucn_id": "67540526",

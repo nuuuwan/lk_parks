@@ -1,8 +1,7 @@
 {
   "name": "Cicuta virosa",
   "authorship": "L.",
-  "genus_name": "Cicuta",
-  "family_name": "Apiaceae",
+  "parent_name": "Cicuta",
   "gbif_id": "5371864",
   "powo_id": "840414-1",
   "iucn_id": "167932",

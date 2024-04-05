@@ -1,8 +1,7 @@
 {
   "name": "Trichosanthes cucumerina",
   "authorship": "L.",
-  "genus_name": "Trichosanthes",
-  "family_name": "Cucurbitaceae",
+  "parent_name": "Trichosanthes",
   "gbif_id": "2874605",
   "powo_id": "294175-1",
   "iucn_id": null,

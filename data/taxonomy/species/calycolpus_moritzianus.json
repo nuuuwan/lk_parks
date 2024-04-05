@@ -1,8 +1,7 @@
 {
   "name": "Calycolpus moritzianus",
   "authorship": "(O.Berg) Burret",
-  "genus_name": "Calycolpus",
-  "family_name": "Myrtaceae",
+  "parent_name": "Calycolpus",
   "gbif_id": "3177624",
   "powo_id": "43033-2",
   "iucn_id": "129105010",

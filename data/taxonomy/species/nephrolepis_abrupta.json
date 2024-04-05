@@ -1,8 +1,7 @@
 {
   "name": "Nephrolepis abrupta",
   "authorship": "(Bory) Mett.",
-  "genus_name": "Nephrolepis",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Nephrolepis",
   "gbif_id": "4196964",
   "powo_id": "17160600-1",
   "iucn_id": null,

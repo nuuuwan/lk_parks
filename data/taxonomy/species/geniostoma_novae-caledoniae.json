@@ -1,8 +1,7 @@
 {
   "name": "Geniostoma novae-caledoniae",
   "authorship": "Vieill. ex Baill.",
-  "genus_name": "Geniostoma",
-  "family_name": "Loganiaceae",
+  "parent_name": "Geniostoma",
   "gbif_id": "4019462",
   "powo_id": "546439-1",
   "iucn_id": null,

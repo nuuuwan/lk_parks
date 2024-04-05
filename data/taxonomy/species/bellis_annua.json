@@ -1,8 +1,7 @@
 {
   "name": "Bellis annua",
   "authorship": "L.",
-  "genus_name": "Bellis",
-  "family_name": "Asteraceae",
+  "parent_name": "Bellis",
   "gbif_id": "3117441",
   "powo_id": "184361-1",
   "iucn_id": null,

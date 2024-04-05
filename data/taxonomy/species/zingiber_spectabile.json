@@ -1,8 +1,7 @@
 {
   "name": "Zingiber spectabile",
   "authorship": "Griff.",
-  "genus_name": "Zingiber",
-  "family_name": "Zingiberaceae",
+  "parent_name": "Zingiber",
   "gbif_id": "2757200",
   "powo_id": "798388-1",
   "iucn_id": "117469019",

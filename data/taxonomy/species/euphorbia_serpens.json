@@ -1,8 +1,7 @@
 {
   "name": "Euphorbia serpens",
   "authorship": "Kunth",
-  "genus_name": "Euphorbia",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Euphorbia",
   "gbif_id": "3064221",
   "powo_id": "101976-2",
   "iucn_id": null,

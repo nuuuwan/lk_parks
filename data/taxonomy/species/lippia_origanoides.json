@@ -1,8 +1,7 @@
 {
   "name": "Lippia origanoides",
   "authorship": "Kunth",
-  "genus_name": "Lippia",
-  "family_name": "Verbenaceae",
+  "parent_name": "Lippia",
   "gbif_id": "7297353",
   "powo_id": "863752-1",
   "iucn_id": null,

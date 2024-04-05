@@ -1,8 +1,7 @@
 {
   "name": "Broughtonia sanguinea",
   "authorship": "(Sw.) R.Br.",
-  "genus_name": "Broughtonia",
-  "family_name": "Orchidaceae",
+  "parent_name": "Broughtonia",
   "gbif_id": "5321280",
   "powo_id": "1008135-2",
   "iucn_id": null,

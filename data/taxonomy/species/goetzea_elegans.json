@@ -1,8 +1,7 @@
 {
   "name": "Goetzea elegans",
   "authorship": "Wydler",
-  "genus_name": "Goetzea",
-  "family_name": "Solanaceae",
+  "parent_name": "Goetzea",
   "gbif_id": "2928899",
   "powo_id": "815802-1",
   "iucn_id": "30928",

@@ -1,8 +1,7 @@
 {
   "name": "Ruta montana",
   "authorship": "(L.) L.",
-  "genus_name": "Ruta",
-  "family_name": "Rutaceae",
+  "parent_name": "Ruta",
   "gbif_id": "8019513",
   "powo_id": "775119-1",
   "iucn_id": null,

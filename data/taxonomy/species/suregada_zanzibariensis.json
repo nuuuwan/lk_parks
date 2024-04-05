@@ -1,8 +1,7 @@
 {
   "name": "Suregada zanzibariensis",
   "authorship": "Baill.",
-  "genus_name": "Suregada",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Suregada",
   "gbif_id": "3054868",
   "powo_id": "356693-1",
   "iucn_id": null,

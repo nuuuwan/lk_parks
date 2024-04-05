@@ -1,8 +1,7 @@
 {
   "name": "Hypericum revolutum",
   "authorship": "Vahl",
-  "genus_name": "Hypericum",
-  "family_name": "Hypericaceae",
+  "parent_name": "Hypericum",
   "gbif_id": "7330049",
   "powo_id": "433800-1",
   "iucn_id": "146455427",

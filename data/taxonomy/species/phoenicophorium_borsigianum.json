@@ -1,8 +1,7 @@
 {
   "name": "Phoenicophorium borsigianum",
   "authorship": "(K.Koch) Stuntz",
-  "genus_name": "Phoenicophorium",
-  "family_name": "Arecaceae",
+  "parent_name": "Phoenicophorium",
   "gbif_id": "2735338",
   "powo_id": "668893-1",
   "iucn_id": "38628",

@@ -1,8 +1,7 @@
 {
   "name": "Dipteryx magnifica",
   "authorship": "(Ducke) Ducke",
-  "genus_name": "Dipteryx",
-  "family_name": "Fabaceae",
+  "parent_name": "Dipteryx",
   "gbif_id": "2947149",
   "powo_id": "492766-1",
   "iucn_id": "218388015",

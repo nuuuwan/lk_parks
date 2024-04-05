@@ -1,8 +1,7 @@
 {
   "name": "Ixora finlaysoniana",
   "authorship": "Wall. ex G.Don",
-  "genus_name": "Ixora",
-  "family_name": "Rubiaceae",
+  "parent_name": "Ixora",
   "gbif_id": "2905676",
   "powo_id": "753956-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Myxopyrum smilacifolium",
   "authorship": "(Wall.) Blume",
-  "genus_name": "Myxopyrum",
-  "family_name": "Oleaceae",
+  "parent_name": "Myxopyrum",
   "gbif_id": "7326127",
   "powo_id": "610489-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Cornus hongkongensis",
   "authorship": "Hemsl.",
-  "genus_name": "Cornus",
-  "family_name": "Cornaceae",
+  "parent_name": "Cornus",
   "gbif_id": "7322062",
   "powo_id": "271589-1",
   "iucn_id": "130048470",

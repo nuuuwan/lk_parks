@@ -1,8 +1,7 @@
 {
   "name": "Eugenia uniflora",
   "authorship": "L.",
-  "genus_name": "Eugenia",
-  "family_name": "Myrtaceae",
+  "parent_name": "Eugenia",
   "gbif_id": "5416458",
   "powo_id": "596263-1",
   "iucn_id": "60330325",

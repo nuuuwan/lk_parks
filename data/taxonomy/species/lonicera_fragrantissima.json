@@ -1,8 +1,7 @@
 {
   "name": "Lonicera fragrantissima",
   "authorship": "Lindl. & Paxton",
-  "genus_name": "Lonicera",
-  "family_name": "Caprifoliaceae",
+  "parent_name": "Lonicera",
   "gbif_id": "5334268",
   "powo_id": "148772-1",
   "iucn_id": null,

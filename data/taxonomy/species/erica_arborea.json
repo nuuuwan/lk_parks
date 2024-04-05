@@ -1,8 +1,7 @@
 {
   "name": "Erica arborea",
   "authorship": "L.",
-  "genus_name": "Erica",
-  "family_name": "Ericaceae",
+  "parent_name": "Erica",
   "gbif_id": "5333410",
   "powo_id": "328204-1",
   "iucn_id": "73094040",

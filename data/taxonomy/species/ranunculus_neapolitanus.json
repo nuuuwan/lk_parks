@@ -1,8 +1,7 @@
 {
   "name": "Ranunculus neapolitanus",
   "authorship": "Ten.",
-  "genus_name": "Ranunculus",
-  "family_name": "Ranunculaceae",
+  "parent_name": "Ranunculus",
   "gbif_id": "3921248",
   "powo_id": "713307-1",
   "iucn_id": null,

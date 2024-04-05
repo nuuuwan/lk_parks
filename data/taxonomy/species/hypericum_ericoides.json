@@ -1,8 +1,7 @@
 {
   "name": "Hypericum ericoides",
   "authorship": "L.",
-  "genus_name": "Hypericum",
-  "family_name": "Hypericaceae",
+  "parent_name": "Hypericum",
   "gbif_id": "8410451",
   "powo_id": "433409-1",
   "iucn_id": null,

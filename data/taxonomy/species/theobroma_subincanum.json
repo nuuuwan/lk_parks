@@ -1,8 +1,7 @@
 {
   "name": "Theobroma subincanum",
   "authorship": "Mart.",
-  "genus_name": "Theobroma",
-  "family_name": "Malvaceae",
+  "parent_name": "Theobroma",
   "gbif_id": "4939555",
   "powo_id": "825619-1",
   "iucn_id": "117764489",

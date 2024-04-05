@@ -1,8 +1,7 @@
 {
   "name": "Corylus avellana",
   "authorship": "L.",
-  "genus_name": "Corylus",
-  "family_name": "Betulaceae",
+  "parent_name": "Corylus",
   "gbif_id": "2875979",
   "powo_id": "295446-1",
   "iucn_id": "63521",

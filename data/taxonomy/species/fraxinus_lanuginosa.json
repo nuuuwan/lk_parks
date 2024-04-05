@@ -1,8 +1,7 @@
 {
   "name": "Fraxinus lanuginosa",
   "authorship": "Koidz.",
-  "genus_name": "Fraxinus",
-  "family_name": "Oleaceae",
+  "parent_name": "Fraxinus",
   "gbif_id": "7325997",
   "powo_id": "609071-1",
   "iucn_id": "96444095",

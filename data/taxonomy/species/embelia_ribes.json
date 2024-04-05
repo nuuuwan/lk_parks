@@ -1,8 +1,7 @@
 {
   "name": "Embelia ribes",
   "authorship": "Burm.f.",
-  "genus_name": "Embelia",
-  "family_name": "Primulaceae",
+  "parent_name": "Embelia",
   "gbif_id": "7330952",
   "powo_id": "588451-1",
   "iucn_id": null,

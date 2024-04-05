@@ -1,8 +1,7 @@
 {
   "name": "Oligomeris linifolia",
   "authorship": "(Vahl ex Hornem.) J.F.Macbr.",
-  "genus_name": "Oligomeris",
-  "family_name": "Resedaceae",
+  "parent_name": "Oligomeris",
   "gbif_id": "3040257",
   "powo_id": "173708-2",
   "iucn_id": null,

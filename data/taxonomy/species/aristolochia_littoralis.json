@@ -1,8 +1,7 @@
 {
   "name": "Aristolochia littoralis",
   "authorship": "Parodi",
-  "genus_name": "Aristolochia",
-  "family_name": "Aristolochiaceae",
+  "parent_name": "Aristolochia",
   "gbif_id": "2873993",
   "powo_id": "93074-1",
   "iucn_id": null,

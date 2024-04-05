@@ -1,8 +1,7 @@
 {
   "name": "Intsia bijuga",
   "authorship": "(Colebr.) Kuntze",
-  "genus_name": "Intsia",
-  "family_name": "Fabaceae",
+  "parent_name": "Intsia",
   "gbif_id": "2963211",
   "powo_id": "500954-1",
   "iucn_id": "32310",

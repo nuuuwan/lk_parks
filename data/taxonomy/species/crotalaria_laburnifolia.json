@@ -1,8 +1,7 @@
 {
   "name": "Crotalaria laburnifolia",
   "authorship": "L.",
-  "genus_name": "Crotalaria",
-  "family_name": "Fabaceae",
+  "parent_name": "Crotalaria",
   "gbif_id": "2942065",
   "powo_id": "488337-1",
   "iucn_id": null,

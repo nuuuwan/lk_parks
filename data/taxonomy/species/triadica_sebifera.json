@@ -1,8 +1,7 @@
 {
   "name": "Triadica sebifera",
   "authorship": "(L.) Small",
-  "genus_name": "Triadica",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Triadica",
   "gbif_id": "3054399",
   "powo_id": "256588-2",
   "iucn_id": "18435729",

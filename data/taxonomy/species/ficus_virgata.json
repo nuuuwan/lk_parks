@@ -1,8 +1,7 @@
 {
   "name": "Ficus virgata",
   "authorship": "Reinw. ex Blume",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "7262728",
   "powo_id": "853956-1",
   "iucn_id": null,

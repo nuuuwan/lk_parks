@@ -1,8 +1,7 @@
 {
   "name": "Camellia japonica",
   "authorship": "L.",
-  "genus_name": "Camellia",
-  "family_name": "Theaceae",
+  "parent_name": "Camellia",
   "gbif_id": "3189636",
   "powo_id": "828524-1",
   "iucn_id": "62054114",

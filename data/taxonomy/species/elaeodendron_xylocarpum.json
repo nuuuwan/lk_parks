@@ -1,8 +1,7 @@
 {
   "name": "Elaeodendron xylocarpum",
   "authorship": "(Vent.) DC.",
-  "genus_name": "Elaeodendron",
-  "family_name": "Celastraceae",
+  "parent_name": "Elaeodendron",
   "gbif_id": "3169186",
   "powo_id": "160752-1",
   "iucn_id": "204784340",

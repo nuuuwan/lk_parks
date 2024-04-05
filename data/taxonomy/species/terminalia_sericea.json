@@ -1,8 +1,7 @@
 {
   "name": "Terminalia sericea",
   "authorship": "Burch. ex DC.",
-  "genus_name": "Terminalia",
-  "family_name": "Combretaceae",
+  "parent_name": "Terminalia",
   "gbif_id": "3699769",
   "powo_id": "171387-1",
   "iucn_id": "146209249",

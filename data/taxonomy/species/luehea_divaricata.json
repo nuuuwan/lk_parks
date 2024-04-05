@@ -1,8 +1,7 @@
 {
   "name": "Luehea divaricata",
   "authorship": "Mart.",
-  "genus_name": "Luehea",
-  "family_name": "Malvaceae",
+  "parent_name": "Luehea",
   "gbif_id": "5706141",
   "powo_id": "834731-1",
   "iucn_id": "61786501",

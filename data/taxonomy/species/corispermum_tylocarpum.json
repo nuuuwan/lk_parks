@@ -1,8 +1,7 @@
 {
   "name": "Corispermum tylocarpum",
   "authorship": "Hance",
-  "genus_name": "Corispermum",
-  "family_name": "Amaranthaceae",
+  "parent_name": "Corispermum",
   "gbif_id": "3759032",
   "powo_id": "165467-1",
   "iucn_id": null,

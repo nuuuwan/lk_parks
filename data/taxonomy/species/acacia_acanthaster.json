@@ -1,8 +1,7 @@
 {
   "name": "Acacia acanthaster",
   "authorship": "Maslin",
-  "genus_name": "Acacia",
-  "family_name": "Fabaceae",
+  "parent_name": "Acacia",
   "gbif_id": "2979852",
   "powo_id": "1008226-1",
   "iucn_id": null,

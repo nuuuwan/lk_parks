@@ -1,8 +1,7 @@
 {
   "name": "Acacia abbreviata",
   "authorship": "Maslin",
-  "genus_name": "Acacia",
-  "family_name": "Fabaceae",
+  "parent_name": "Acacia",
   "gbif_id": "2980248",
   "powo_id": "469618-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Coffea arabica",
   "authorship": "L.",
-  "genus_name": "Coffea",
-  "family_name": "Rubiaceae",
+  "parent_name": "Coffea",
   "gbif_id": "2895345",
   "powo_id": "747038-1",
   "iucn_id": "18289789",

@@ -1,8 +1,7 @@
 {
   "name": "Syzygium cordatum",
   "authorship": "Hochst. ex Krauss",
-  "genus_name": "Syzygium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syzygium",
   "gbif_id": "3184753",
   "powo_id": "601581-1",
   "iucn_id": "179877",

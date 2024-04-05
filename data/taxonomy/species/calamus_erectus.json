@@ -1,8 +1,7 @@
 {
   "name": "Calamus erectus",
   "authorship": "Roxb.",
-  "genus_name": "Calamus",
-  "family_name": "Arecaceae",
+  "parent_name": "Calamus",
   "gbif_id": "5294170",
   "powo_id": "665073-1",
   "iucn_id": null,

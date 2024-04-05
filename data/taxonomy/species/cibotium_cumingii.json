@@ -1,8 +1,7 @@
 {
   "name": "Cibotium cumingii",
   "authorship": "Kunze",
-  "genus_name": "Cibotium",
-  "family_name": "Cyatheaceae",
+  "parent_name": "Cibotium",
   "gbif_id": "4195489",
   "powo_id": "17311570-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Cunonia capensis",
   "authorship": "L.",
-  "genus_name": "Cunonia",
-  "family_name": "Cunoniaceae",
+  "parent_name": "Cunonia",
   "gbif_id": "5535290",
   "powo_id": "790734-1",
   "iucn_id": "149509612",

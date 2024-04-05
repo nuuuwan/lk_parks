@@ -1,8 +1,7 @@
 {
   "name": "Barleria ventricosa",
   "authorship": "Hochst. ex Nees",
-  "genus_name": "Barleria",
-  "family_name": "Acanthaceae",
+  "parent_name": "Barleria",
   "gbif_id": "3770225",
   "powo_id": "46265-1",
   "iucn_id": null,

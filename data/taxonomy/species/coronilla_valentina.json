@@ -1,8 +1,7 @@
 {
   "name": "Coronilla valentina",
   "authorship": "L.",
-  "genus_name": "Coronilla",
-  "family_name": "Fabaceae",
+  "parent_name": "Coronilla",
   "gbif_id": "5348633",
   "powo_id": "487280-1",
   "iucn_id": "19891909",

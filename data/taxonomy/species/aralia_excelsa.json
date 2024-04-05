@@ -1,8 +1,7 @@
 {
   "name": "Aralia excelsa",
   "authorship": "(Griseb.) J.Wen",
-  "genus_name": "Aralia",
-  "family_name": "Araliaceae",
+  "parent_name": "Aralia",
   "gbif_id": "3037048",
   "powo_id": "20012157-1",
   "iucn_id": "176099132",

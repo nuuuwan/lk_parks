@@ -1,8 +1,7 @@
 {
   "name": "Ozoroa insignis",
   "authorship": "Delile",
-  "genus_name": "Ozoroa",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Ozoroa",
   "gbif_id": "7321499",
   "powo_id": "70169-1",
   "iucn_id": "135815030",

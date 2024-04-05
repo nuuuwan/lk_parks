@@ -1,8 +1,7 @@
 {
   "name": "Monstera deliciosa",
   "authorship": "Liebm.",
-  "genus_name": "Monstera",
-  "family_name": "Araceae",
+  "parent_name": "Monstera",
   "gbif_id": "2868241",
   "powo_id": "87478-1",
   "iucn_id": null,

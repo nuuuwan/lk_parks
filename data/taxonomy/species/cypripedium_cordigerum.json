@@ -1,8 +1,7 @@
 {
   "name": "Cypripedium cordigerum",
   "authorship": "D.Don",
-  "genus_name": "Cypripedium",
-  "family_name": "Orchidaceae",
+  "parent_name": "Cypripedium",
   "gbif_id": "2820366",
   "powo_id": "625683-1",
   "iucn_id": "43315517",

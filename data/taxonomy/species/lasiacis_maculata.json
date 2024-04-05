@@ -1,8 +1,7 @@
 {
   "name": "Lasiacis maculata",
   "authorship": "(Aubl.) Urb.",
-  "genus_name": "Lasiacis",
-  "family_name": "Poaceae",
+  "parent_name": "Lasiacis",
   "gbif_id": "4135033",
   "powo_id": "135707-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Aniba megaphylla",
   "authorship": "Mez",
-  "genus_name": "Aniba",
-  "family_name": "Lauraceae",
+  "parent_name": "Aniba",
   "gbif_id": "4180892",
   "powo_id": "13855-2",
   "iucn_id": "143818505",

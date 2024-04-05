@@ -1,8 +1,7 @@
 {
   "name": "Agarista populifolia",
   "authorship": "(Lam.) Judd",
-  "genus_name": "Agarista",
-  "family_name": "Ericaceae",
+  "parent_name": "Agarista",
   "gbif_id": "5333366",
   "powo_id": "6283-2",
   "iucn_id": null,

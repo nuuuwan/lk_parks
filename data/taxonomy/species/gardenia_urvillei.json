@@ -1,8 +1,7 @@
 {
   "name": "Gardenia urvillei",
   "authorship": "Montrouz.",
-  "genus_name": "Gardenia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Gardenia",
   "gbif_id": "5335028",
   "powo_id": "751312-1",
   "iucn_id": null,

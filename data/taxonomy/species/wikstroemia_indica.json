@@ -1,8 +1,7 @@
 {
   "name": "Wikstroemia indica",
   "authorship": "(L.) C.A.Mey.",
-  "genus_name": "Wikstroemia",
-  "family_name": "Thymelaeaceae",
+  "parent_name": "Wikstroemia",
   "gbif_id": "5524676",
   "powo_id": "833115-1",
   "iucn_id": null,

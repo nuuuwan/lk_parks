@@ -1,8 +1,7 @@
 {
   "name": "Brachychiton bidwillii",
   "authorship": "Hook.",
-  "genus_name": "Brachychiton",
-  "family_name": "Malvaceae",
+  "parent_name": "Brachychiton",
   "gbif_id": "3671823",
   "powo_id": "822256-1",
   "iucn_id": "192232545",

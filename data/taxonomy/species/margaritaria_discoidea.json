@@ -1,8 +1,7 @@
 {
   "name": "Margaritaria discoidea",
   "authorship": "(Baill.) G.L.Webster",
-  "genus_name": "Margaritaria",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Margaritaria",
   "gbif_id": "5383225",
   "powo_id": "352071-1",
   "iucn_id": "146201960",

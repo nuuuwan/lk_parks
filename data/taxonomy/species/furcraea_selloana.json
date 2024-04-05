@@ -1,8 +1,7 @@
 {
   "name": "Furcraea selloana",
   "authorship": "K.Koch",
-  "genus_name": "Furcraea",
-  "family_name": "Asparagaceae",
+  "parent_name": "Furcraea",
   "gbif_id": "9401237",
   "powo_id": "64452-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Gymnocalycium amerhauseri",
   "authorship": "H.Till",
-  "genus_name": "Gymnocalycium",
-  "family_name": "Cactaceae",
+  "parent_name": "Gymnocalycium",
   "gbif_id": "7283563",
   "powo_id": "979008-1",
   "iucn_id": "152008",

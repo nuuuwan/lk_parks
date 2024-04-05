@@ -1,8 +1,7 @@
 {
   "name": "Cercis chingii",
   "authorship": "Chun",
-  "genus_name": "Cercis",
-  "family_name": "Fabaceae",
+  "parent_name": "Cercis",
   "gbif_id": "5353581",
   "powo_id": "485671-1",
   "iucn_id": null,

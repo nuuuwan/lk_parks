@@ -1,8 +1,7 @@
 {
   "name": "Asclepias woodsoniana",
   "authorship": "Standl. & Steyerm.",
-  "genus_name": "Asclepias",
-  "family_name": "Apocynaceae",
+  "parent_name": "Asclepias",
   "gbif_id": "3572668",
   "powo_id": "21340-2",
   "iucn_id": null,

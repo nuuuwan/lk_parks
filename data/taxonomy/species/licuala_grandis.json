@@ -1,8 +1,7 @@
 {
   "name": "Licuala grandis",
   "authorship": "(T.Moore) H.Wendl.",
-  "genus_name": "Licuala",
-  "family_name": "Arecaceae",
+  "parent_name": "Licuala",
   "gbif_id": "8008690",
   "powo_id": "667880-1",
   "iucn_id": null,

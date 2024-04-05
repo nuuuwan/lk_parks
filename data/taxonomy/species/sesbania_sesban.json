@@ -1,8 +1,7 @@
 {
   "name": "Sesbania sesban",
   "authorship": "(L.) Merr.",
-  "genus_name": "Sesbania",
-  "family_name": "Fabaceae",
+  "parent_name": "Sesbania",
   "gbif_id": "2970648",
   "powo_id": "518533-1",
   "iucn_id": "185456",

@@ -1,8 +1,7 @@
 {
   "name": "Acer japonicum",
   "authorship": "Thunb.",
-  "genus_name": "Acer",
-  "family_name": "Sapindaceae",
+  "parent_name": "Acer",
   "gbif_id": "3767816",
   "powo_id": "781349-1",
   "iucn_id": "193617",

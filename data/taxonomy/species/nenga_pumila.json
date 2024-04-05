@@ -1,8 +1,7 @@
 {
   "name": "Nenga pumila",
   "authorship": "(Blume) H.Wendl.",
-  "genus_name": "Nenga",
-  "family_name": "Arecaceae",
+  "parent_name": "Nenga",
   "gbif_id": "5293629",
   "powo_id": "668319-1",
   "iucn_id": null,

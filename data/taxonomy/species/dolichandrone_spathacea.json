@@ -1,8 +1,7 @@
 {
   "name": "Dolichandrone spathacea",
   "authorship": "(L.f.) K.Schum.",
-  "genus_name": "Dolichandrone",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Dolichandrone",
   "gbif_id": "3172487",
   "powo_id": "109557-1",
   "iucn_id": "33705",

@@ -1,8 +1,7 @@
 {
   "name": "Gilia leptantha",
   "authorship": "Parish",
-  "genus_name": "Gilia",
-  "family_name": "Polemoniaceae",
+  "parent_name": "Gilia",
   "gbif_id": "5341549",
   "powo_id": "110217-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Morus macroura",
   "authorship": "Miq.",
-  "genus_name": "Morus",
-  "family_name": "Moraceae",
+  "parent_name": "Morus",
   "gbif_id": "7262379",
   "powo_id": "854675-1",
   "iucn_id": "192353158",

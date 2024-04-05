@@ -1,8 +1,7 @@
 {
   "name": "Colubrina retusa",
   "authorship": "(Pittier) R.S.Cowan",
-  "genus_name": "Colubrina",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Colubrina",
   "gbif_id": "7273891",
   "powo_id": "63466-2",
   "iucn_id": null,

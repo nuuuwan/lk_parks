@@ -1,8 +1,7 @@
 {
   "name": "Salix gracilistyla",
   "authorship": "Miq.",
-  "genus_name": "Salix",
-  "family_name": "Salicaceae",
+  "parent_name": "Salix",
   "gbif_id": "7104103",
   "powo_id": "777701-1",
   "iucn_id": null,

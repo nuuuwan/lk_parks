@@ -1,8 +1,7 @@
 {
   "name": "Fraxinus angustifolia",
   "authorship": "Vahl",
-  "genus_name": "Fraxinus",
-  "family_name": "Oleaceae",
+  "parent_name": "Fraxinus",
   "gbif_id": "7325877",
   "powo_id": "332095-2",
   "iucn_id": "203366",

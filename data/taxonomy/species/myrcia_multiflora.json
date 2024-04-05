@@ -1,8 +1,7 @@
 {
   "name": "Myrcia multiflora",
   "authorship": "(Lam.) DC.",
-  "genus_name": "Myrcia",
-  "family_name": "Myrtaceae",
+  "parent_name": "Myrcia",
   "gbif_id": "3175074",
   "powo_id": "598990-1",
   "iucn_id": "113042991",

@@ -1,8 +1,7 @@
 {
   "name": "Oncosperma horridum",
   "authorship": "(Griff.) Scheff.",
-  "genus_name": "Oncosperma",
-  "family_name": "Arecaceae",
+  "parent_name": "Oncosperma",
   "gbif_id": "2732298",
   "powo_id": "668555-1",
   "iucn_id": "162547668",

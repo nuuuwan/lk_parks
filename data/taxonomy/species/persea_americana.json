@@ -1,8 +1,7 @@
 {
   "name": "Persea americana",
   "authorship": "Mill.",
-  "genus_name": "Persea",
-  "family_name": "Lauraceae",
+  "parent_name": "Persea",
   "gbif_id": "3034046",
   "powo_id": "325643-2",
   "iucn_id": "96986556",

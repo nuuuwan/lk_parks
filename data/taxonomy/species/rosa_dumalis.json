@@ -1,8 +1,7 @@
 {
   "name": "Rosa dumalis",
   "authorship": "Bechst.",
-  "genus_name": "Rosa",
-  "family_name": "Rosaceae",
+  "parent_name": "Rosa",
   "gbif_id": "3003708",
   "powo_id": "732357-1",
   "iucn_id": null,

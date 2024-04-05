@@ -1,8 +1,7 @@
 {
   "name": "Celtis tala",
   "authorship": "Gillies ex Planch.",
-  "genus_name": "Celtis",
-  "family_name": "Cannabaceae",
+  "parent_name": "Celtis",
   "gbif_id": "7141607",
   "powo_id": "321158-2",
   "iucn_id": "163027278",

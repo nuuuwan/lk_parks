@@ -1,8 +1,7 @@
 {
   "name": "Leptospermum laevigatum",
   "authorship": "(Gaertn.) F.Muell.",
-  "genus_name": "Leptospermum",
-  "family_name": "Myrtaceae",
+  "parent_name": "Leptospermum",
   "gbif_id": "3181709",
   "powo_id": "597433-1",
   "iucn_id": "199308181",

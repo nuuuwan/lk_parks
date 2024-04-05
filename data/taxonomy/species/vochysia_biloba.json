@@ -1,8 +1,7 @@
 {
   "name": "Vochysia biloba",
   "authorship": "Ducke",
-  "genus_name": "Vochysia",
-  "family_name": "Vochysiaceae",
+  "parent_name": "Vochysia",
   "gbif_id": "4030704",
   "powo_id": "266284-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Ilex paraguariensis",
   "authorship": "A.St.-Hil.",
-  "genus_name": "Ilex",
-  "family_name": "Aquifoliaceae",
+  "parent_name": "Ilex",
   "gbif_id": "5414252",
   "powo_id": "315555-2",
   "iucn_id": "32982",

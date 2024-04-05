@@ -1,8 +1,7 @@
 {
   "name": "Rhododendron sutchuenense",
   "authorship": "Franch.",
-  "genus_name": "Rhododendron",
-  "family_name": "Ericaceae",
+  "parent_name": "Rhododendron",
   "gbif_id": "4164276",
   "powo_id": "333433-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Perideridia kelloggii",
   "authorship": "(A.Gray) Mathias",
-  "genus_name": "Perideridia",
-  "family_name": "Apiaceae",
+  "parent_name": "Perideridia",
   "gbif_id": "3034539",
   "powo_id": "190331-2",
   "iucn_id": null,

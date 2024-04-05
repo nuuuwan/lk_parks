@@ -1,8 +1,7 @@
 {
   "name": "Capparis quiniflora",
   "authorship": "DC.",
-  "genus_name": "Capparis",
-  "family_name": "Capparaceae",
+  "parent_name": "Capparis",
   "gbif_id": "5602411",
   "powo_id": "146716-1",
   "iucn_id": null,

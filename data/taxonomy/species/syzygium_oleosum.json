@@ -1,8 +1,7 @@
 {
   "name": "Syzygium oleosum",
   "authorship": "(F.Muell.) B.Hyland",
-  "genus_name": "Syzygium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syzygium",
   "gbif_id": "3182729",
   "powo_id": "913387-1",
   "iucn_id": null,

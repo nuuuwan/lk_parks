@@ -1,8 +1,7 @@
 {
   "name": "Asplenium rhizophyllum",
   "authorship": "L.",
-  "genus_name": "Asplenium",
-  "family_name": "Aspleniaceae",
+  "parent_name": "Asplenium",
   "gbif_id": "2650633",
   "powo_id": "17050470-1",
   "iucn_id": null,

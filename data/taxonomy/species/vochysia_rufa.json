@@ -1,8 +1,7 @@
 {
   "name": "Vochysia rufa",
   "authorship": "Mart.",
-  "genus_name": "Vochysia",
-  "family_name": "Vochysiaceae",
+  "parent_name": "Vochysia",
   "gbif_id": "7288325",
   "powo_id": "871107-1",
   "iucn_id": "146065830",

@@ -1,8 +1,7 @@
 {
   "name": "Fouquieria diguetii",
   "authorship": "(Tiegh.) I.M.Johnst.",
-  "genus_name": "Fouquieria",
-  "family_name": "Fouquieriaceae",
+  "parent_name": "Fouquieria",
   "gbif_id": "3874338",
   "powo_id": "105427-2",
   "iucn_id": "126603540",

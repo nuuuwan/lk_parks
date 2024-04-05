@@ -1,8 +1,7 @@
 {
   "name": "Cymbidium aloifolium",
   "authorship": "(L.) Sw.",
-  "genus_name": "Cymbidium",
-  "family_name": "Orchidaceae",
+  "parent_name": "Cymbidium",
   "gbif_id": "5305656",
   "powo_id": "624936-1",
   "iucn_id": null,

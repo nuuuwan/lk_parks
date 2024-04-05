@@ -1,8 +1,7 @@
 {
   "name": "Pentanisia ouranogyne",
   "authorship": "S.Moore",
-  "genus_name": "Pentanisia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Pentanisia",
   "gbif_id": "2898454",
   "powo_id": "760224-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Dombeya wallichii",
   "authorship": "(Lindl.) K.Schum.",
-  "genus_name": "Dombeya",
-  "family_name": "Malvaceae",
+  "parent_name": "Dombeya",
   "gbif_id": "7425893",
   "powo_id": null,
   "iucn_id": null,

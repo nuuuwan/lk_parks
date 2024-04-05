@@ -1,8 +1,7 @@
 {
   "name": "Vitex doniana",
   "authorship": "Sweet",
-  "genus_name": "Vitex",
-  "family_name": "Lamiaceae",
+  "parent_name": "Vitex",
   "gbif_id": "3905809",
   "powo_id": "865694-1",
   "iucn_id": "62019854",

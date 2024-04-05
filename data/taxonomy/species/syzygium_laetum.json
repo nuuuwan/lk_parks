@@ -1,8 +1,7 @@
 {
   "name": "Syzygium laetum",
   "authorship": "(Buch.-Ham.) Gandhi",
-  "genus_name": "Syzygium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syzygium",
   "gbif_id": "3184698",
   "powo_id": "601829-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Gaillardia aestivalis",
   "authorship": "(Walter) H.Rock",
-  "genus_name": "Gaillardia",
-  "family_name": "Asteraceae",
+  "parent_name": "Gaillardia",
   "gbif_id": "5387851",
   "powo_id": "106481-2",
   "iucn_id": null,

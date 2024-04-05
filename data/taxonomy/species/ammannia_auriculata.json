@@ -1,8 +1,7 @@
 {
   "name": "Ammannia auriculata",
   "authorship": "Willd.",
-  "genus_name": "Ammannia",
-  "family_name": "Lythraceae",
+  "parent_name": "Ammannia",
   "gbif_id": "3188714",
   "powo_id": "30030870-2",
   "iucn_id": "164059",

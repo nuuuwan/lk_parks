@@ -1,8 +1,7 @@
 {
   "name": "Tamarix chinensis",
   "authorship": "Lour.",
-  "genus_name": "Tamarix",
-  "family_name": "Tamaricaceae",
+  "parent_name": "Tamarix",
   "gbif_id": "2874696",
   "powo_id": "828082-1",
   "iucn_id": null,

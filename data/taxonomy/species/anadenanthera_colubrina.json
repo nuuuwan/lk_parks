@@ -1,8 +1,7 @@
 {
   "name": "Anadenanthera colubrina",
   "authorship": "(Vell.) Brenan",
-  "genus_name": "Anadenanthera",
-  "family_name": "Fabaceae",
+  "parent_name": "Anadenanthera",
   "gbif_id": "2952823",
   "powo_id": "12264-2",
   "iucn_id": "62478",

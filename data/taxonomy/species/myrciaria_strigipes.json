@@ -1,8 +1,7 @@
 {
   "name": "Myrciaria strigipes",
   "authorship": "O.Berg",
-  "genus_name": "Myrciaria",
-  "family_name": "Myrtaceae",
+  "parent_name": "Myrciaria",
   "gbif_id": "3186545",
   "powo_id": "305193-2",
   "iucn_id": "177829190",

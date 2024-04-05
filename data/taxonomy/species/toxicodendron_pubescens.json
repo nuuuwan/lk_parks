@@ -1,8 +1,7 @@
 {
   "name": "Toxicodendron pubescens",
   "authorship": "Mill.",
-  "genus_name": "Toxicodendron",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Toxicodendron",
   "gbif_id": "3190629",
   "powo_id": "255764-2",
   "iucn_id": null,

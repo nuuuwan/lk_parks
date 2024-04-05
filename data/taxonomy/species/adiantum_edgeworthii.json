@@ -1,8 +1,7 @@
 {
   "name": "Adiantum edgeworthii",
   "authorship": "Hook.",
-  "genus_name": "Adiantum",
-  "family_name": "Pteridaceae",
+  "parent_name": "Adiantum",
   "gbif_id": "3746914",
   "powo_id": "325037-2",
   "iucn_id": null,

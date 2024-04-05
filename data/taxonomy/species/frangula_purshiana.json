@@ -1,8 +1,7 @@
 {
   "name": "Frangula purshiana",
   "authorship": "(DC.) A.Gray ex J.G.Cooper",
-  "genus_name": "Frangula",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Frangula",
   "gbif_id": "8286637",
   "powo_id": "30426867-2",
   "iucn_id": "61957071",

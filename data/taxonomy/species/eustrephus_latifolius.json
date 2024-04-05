@@ -1,8 +1,7 @@
 {
   "name": "Eustrephus latifolius",
   "authorship": "R.Br.",
-  "genus_name": "Eustrephus",
-  "family_name": "Asparagaceae",
+  "parent_name": "Eustrephus",
   "gbif_id": "2770473",
   "powo_id": "535022-1",
   "iucn_id": null,

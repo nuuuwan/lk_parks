@@ -1,8 +1,7 @@
 {
   "name": "Echinochloa stagnina",
   "authorship": "(Retz.) P.Beauv.",
-  "genus_name": "Echinochloa",
-  "family_name": "Poaceae",
+  "parent_name": "Echinochloa",
   "gbif_id": "2702806",
   "powo_id": "399746-1",
   "iucn_id": "177001",

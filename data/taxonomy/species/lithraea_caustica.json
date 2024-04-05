@@ -1,8 +1,7 @@
 {
   "name": "Lithraea caustica",
   "authorship": "(Molina) Hook. & Arn.",
-  "genus_name": "Lithraea",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Lithraea",
   "gbif_id": "3660323",
   "powo_id": "69838-1",
   "iucn_id": "135682687",

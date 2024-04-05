@@ -1,8 +1,7 @@
 {
   "name": "Calophyllum soulattri",
   "authorship": "Burm.f.",
-  "genus_name": "Calophyllum",
-  "family_name": "Calophyllaceae",
+  "parent_name": "Calophyllum",
   "gbif_id": "8029877",
   "powo_id": "136326-3",
   "iucn_id": "33180",

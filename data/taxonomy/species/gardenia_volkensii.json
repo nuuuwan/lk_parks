@@ -1,8 +1,7 @@
 {
   "name": "Gardenia volkensii",
   "authorship": "K.Schum.",
-  "genus_name": "Gardenia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Gardenia",
   "gbif_id": "5335053",
   "powo_id": "751323-1",
   "iucn_id": "146205516",

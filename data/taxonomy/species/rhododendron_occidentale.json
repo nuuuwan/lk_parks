@@ -1,8 +1,7 @@
 {
   "name": "Rhododendron occidentale",
   "authorship": "(Torr. & A.Gray) A.Gray",
-  "genus_name": "Rhododendron",
-  "family_name": "Ericaceae",
+  "parent_name": "Rhododendron",
   "gbif_id": "2883077",
   "powo_id": "332991-1",
   "iucn_id": null,

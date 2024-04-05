@@ -1,8 +1,7 @@
 {
   "name": "Passiflora edulis",
   "authorship": "Sims",
-  "genus_name": "Passiflora",
-  "family_name": "Passifloraceae",
+  "parent_name": "Passiflora",
   "gbif_id": "2874190",
   "powo_id": "321964-2",
   "iucn_id": null,

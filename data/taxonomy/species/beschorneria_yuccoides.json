@@ -1,8 +1,7 @@
 {
   "name": "Beschorneria yuccoides",
   "authorship": "K.Koch",
-  "genus_name": "Beschorneria",
-  "family_name": "Asparagaceae",
+  "parent_name": "Beschorneria",
   "gbif_id": "2769053",
   "powo_id": "63213-1",
   "iucn_id": null,

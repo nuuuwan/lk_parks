@@ -1,8 +1,7 @@
 {
   "name": "Salix purpurea",
   "authorship": "L.",
-  "genus_name": "Salix",
-  "family_name": "Salicaceae",
+  "parent_name": "Salix",
   "gbif_id": "5372800",
   "powo_id": "301321-2",
   "iucn_id": "203471",

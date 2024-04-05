@@ -1,8 +1,7 @@
 {
   "name": "Lantana camara",
   "authorship": "L.",
-  "genus_name": "Lantana",
-  "family_name": "Verbenaceae",
+  "parent_name": "Lantana",
   "gbif_id": "2925303",
   "powo_id": "325686-2",
   "iucn_id": null,

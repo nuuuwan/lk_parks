@@ -1,8 +1,7 @@
 {
   "name": "Ocotea insularis",
   "authorship": "(Meisn.) Mez",
-  "genus_name": "Ocotea",
-  "family_name": "Lauraceae",
+  "parent_name": "Ocotea",
   "gbif_id": "4180552",
   "powo_id": "171697-2",
   "iucn_id": "146610606",

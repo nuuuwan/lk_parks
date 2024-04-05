@@ -1,8 +1,7 @@
 {
   "name": "Euterpe oleracea",
   "authorship": "Mart.",
-  "genus_name": "Euterpe",
-  "family_name": "Arecaceae",
+  "parent_name": "Euterpe",
   "gbif_id": "5293398",
   "powo_id": "666941-1",
   "iucn_id": null,

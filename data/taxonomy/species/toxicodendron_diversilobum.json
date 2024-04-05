@@ -1,8 +1,7 @@
 {
   "name": "Toxicodendron diversilobum",
   "authorship": "(Torr. & A.Gray) Greene",
-  "genus_name": "Toxicodendron",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Toxicodendron",
   "gbif_id": "3190621",
   "powo_id": "255739-2",
   "iucn_id": null,

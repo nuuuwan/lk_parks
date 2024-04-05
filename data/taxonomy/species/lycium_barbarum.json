@@ -1,8 +1,7 @@
 {
   "name": "Lycium barbarum",
   "authorship": "L.",
-  "genus_name": "Lycium",
-  "family_name": "Solanaceae",
+  "parent_name": "Lycium",
   "gbif_id": "2928835",
   "powo_id": "816356-1",
   "iucn_id": null,

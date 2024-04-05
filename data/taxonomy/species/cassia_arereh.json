@@ -1,8 +1,7 @@
 {
   "name": "Cassia arereh",
   "authorship": "Delile",
-  "genus_name": "Cassia",
-  "family_name": "Fabaceae",
+  "parent_name": "Cassia",
   "gbif_id": "5357110",
   "powo_id": "484127-1",
   "iucn_id": null,

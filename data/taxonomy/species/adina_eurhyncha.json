@@ -1,8 +1,7 @@
 {
   "name": "Adina eurhyncha",
   "authorship": "(Miq.) \u00c5.Kr\u00fcger & L\u00f6fstrand",
-  "genus_name": "Adina",
-  "family_name": "Rubiaceae",
+  "parent_name": "Adina",
   "gbif_id": "9594413",
   "powo_id": "77142551-1",
   "iucn_id": null,

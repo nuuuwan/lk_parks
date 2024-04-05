@@ -1,8 +1,7 @@
 {
   "name": "Melodinus philliraeoides",
   "authorship": "Labill.",
-  "genus_name": "Melodinus",
-  "family_name": "Apocynaceae",
+  "parent_name": "Melodinus",
   "gbif_id": null,
   "powo_id": "80246-1",
   "iucn_id": null,

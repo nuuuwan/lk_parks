@@ -1,8 +1,7 @@
 {
   "name": "Astragalus atropilosulus",
   "authorship": "(Hochst.) Bunge",
-  "genus_name": "Astragalus",
-  "family_name": "Fabaceae",
+  "parent_name": "Astragalus",
   "gbif_id": "5344995",
   "powo_id": "476301-1",
   "iucn_id": null,

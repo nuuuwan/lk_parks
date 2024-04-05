@@ -1,8 +1,7 @@
 {
   "name": "Ludwigia octovalvis",
   "authorship": "(Jacq.) P.H.Raven",
-  "genus_name": "Ludwigia",
-  "family_name": "Onagraceae",
+  "parent_name": "Ludwigia",
   "gbif_id": "5420987",
   "powo_id": "144385-2",
   "iucn_id": "169056",

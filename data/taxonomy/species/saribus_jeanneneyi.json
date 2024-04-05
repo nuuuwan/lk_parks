@@ -1,8 +1,7 @@
 {
   "name": "Saribus jeanneneyi",
   "authorship": "(Becc.) Bacon & W.J.Baker",
-  "genus_name": "Saribus",
-  "family_name": "Arecaceae",
+  "parent_name": "Saribus",
   "gbif_id": "8378190",
   "powo_id": "77116515-1",
   "iucn_id": "38658",

@@ -1,8 +1,7 @@
 {
   "name": "Dendrolobium umbellatum",
   "authorship": "(L.) Benth.",
-  "genus_name": "Dendrolobium",
-  "family_name": "Fabaceae",
+  "parent_name": "Dendrolobium",
   "gbif_id": "2946798",
   "powo_id": "491250-1",
   "iucn_id": "66287136",

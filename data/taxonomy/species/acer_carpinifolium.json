@@ -1,8 +1,7 @@
 {
   "name": "Acer carpinifolium",
   "authorship": "Siebold & Zucc.",
-  "genus_name": "Acer",
-  "family_name": "Sapindaceae",
+  "parent_name": "Acer",
   "gbif_id": "3768602",
   "powo_id": "781254-1",
   "iucn_id": "193530",

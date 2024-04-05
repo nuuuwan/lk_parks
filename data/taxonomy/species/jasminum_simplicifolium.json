@@ -1,8 +1,7 @@
 {
   "name": "Jasminum simplicifolium",
   "authorship": "G.Forst.",
-  "genus_name": "Jasminum",
-  "family_name": "Oleaceae",
+  "parent_name": "Jasminum",
   "gbif_id": "3682067",
   "powo_id": "609775-1",
   "iucn_id": null,

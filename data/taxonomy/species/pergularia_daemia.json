@@ -1,8 +1,7 @@
 {
   "name": "Pergularia daemia",
   "authorship": "(Forssk.) Chiov.",
-  "genus_name": "Pergularia",
-  "family_name": "Apocynaceae",
+  "parent_name": "Pergularia",
   "gbif_id": "3170445",
   "powo_id": "100371-1",
   "iucn_id": "149444810",

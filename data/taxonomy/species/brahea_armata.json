@@ -1,8 +1,7 @@
 {
   "name": "Brahea armata",
   "authorship": "S.Watson",
-  "genus_name": "Brahea",
-  "family_name": "Arecaceae",
+  "parent_name": "Brahea",
   "gbif_id": "2736794",
   "powo_id": "664889-1",
   "iucn_id": "55948517",

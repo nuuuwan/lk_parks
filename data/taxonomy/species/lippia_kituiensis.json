@@ -1,8 +1,7 @@
 {
   "name": "Lippia kituiensis",
   "authorship": "Vatke",
-  "genus_name": "Lippia",
-  "family_name": "Verbenaceae",
+  "parent_name": "Lippia",
   "gbif_id": "4086601",
   "powo_id": "863686-1",
   "iucn_id": null,

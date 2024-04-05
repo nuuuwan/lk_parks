@@ -1,8 +1,7 @@
 {
   "name": "Tithonia tubaeformis",
   "authorship": "(Jacq.) Cass.",
-  "genus_name": "Tithonia",
-  "family_name": "Asteraceae",
+  "parent_name": "Tithonia",
   "gbif_id": "5396560",
   "powo_id": "255775-1",
   "iucn_id": null,

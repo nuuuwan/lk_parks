@@ -1,8 +1,7 @@
 {
   "name": "Mucuna sempervirens",
   "authorship": "Hemsl.",
-  "genus_name": "Mucuna",
-  "family_name": "Fabaceae",
+  "parent_name": "Mucuna",
   "gbif_id": "2951429",
   "powo_id": "509290-1",
   "iucn_id": "147651520",

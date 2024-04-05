@@ -1,8 +1,7 @@
 {
   "name": "Hibiscus boryanus",
   "authorship": "DC.",
-  "genus_name": "Hibiscus",
-  "family_name": "Malvaceae",
+  "parent_name": "Hibiscus",
   "gbif_id": "7525852",
   "powo_id": "560027-1",
   "iucn_id": null,

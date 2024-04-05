@@ -1,8 +1,7 @@
 {
   "name": "Tetracera scandens",
   "authorship": "(L.) Merr.",
-  "genus_name": "Tetracera",
-  "family_name": "Dilleniaceae",
+  "parent_name": "Tetracera",
   "gbif_id": "7370317",
   "powo_id": "317488-1",
   "iucn_id": null,

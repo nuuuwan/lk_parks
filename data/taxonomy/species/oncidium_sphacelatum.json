@@ -1,8 +1,7 @@
 {
   "name": "Oncidium sphacelatum",
   "authorship": "Lindl.",
-  "genus_name": "Oncidium",
-  "family_name": "Orchidaceae",
+  "parent_name": "Oncidium",
   "gbif_id": "5322412",
   "powo_id": "323062-2",
   "iucn_id": null,

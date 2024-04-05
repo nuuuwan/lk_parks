@@ -1,8 +1,7 @@
 {
   "name": "Peperomia glabella",
   "authorship": "(Sw.) A.Dietr.",
-  "genus_name": "Peperomia",
-  "family_name": "Piperaceae",
+  "parent_name": "Peperomia",
   "gbif_id": "3086385",
   "powo_id": "30001267-2",
   "iucn_id": null,

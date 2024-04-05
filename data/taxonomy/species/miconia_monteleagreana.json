@@ -1,8 +1,7 @@
 {
   "name": "Miconia monteleagreana",
   "authorship": "(Cogn.) Michelang.",
-  "genus_name": "Miconia",
-  "family_name": "Melastomataceae",
+  "parent_name": "Miconia",
   "gbif_id": "10684922",
   "powo_id": "77207511-1",
   "iucn_id": null,

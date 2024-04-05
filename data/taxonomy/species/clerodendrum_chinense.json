@@ -1,8 +1,7 @@
 {
   "name": "Clerodendrum chinense",
   "authorship": "(Osbeck) Mabb.",
-  "genus_name": "Clerodendrum",
-  "family_name": "Lamiaceae",
+  "parent_name": "Clerodendrum",
   "gbif_id": "2925357",
   "powo_id": "946989-1",
   "iucn_id": "158690618",

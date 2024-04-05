@@ -1,8 +1,7 @@
 {
   "name": "Himalayacalamus hookerianus",
   "authorship": "(Munro) Stapleton",
-  "genus_name": "Himalayacalamus",
-  "family_name": "Poaceae",
+  "parent_name": "Himalayacalamus",
   "gbif_id": "4121810",
   "powo_id": "970802-1",
   "iucn_id": null,

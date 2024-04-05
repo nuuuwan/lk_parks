@@ -1,8 +1,7 @@
 {
   "name": "Catalpa speciosa",
   "authorship": "Teas",
-  "genus_name": "Catalpa",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Catalpa",
   "gbif_id": "7568973",
   "powo_id": "77117561-1",
   "iucn_id": "61985370",

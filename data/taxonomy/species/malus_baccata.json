@@ -1,8 +1,7 @@
 {
   "name": "Malus baccata",
   "authorship": "(L.) Borkh.",
-  "genus_name": "Malus",
-  "family_name": "Rosaceae",
+  "parent_name": "Malus",
   "gbif_id": "3001362",
   "powo_id": "726243-1",
   "iucn_id": "50030498",

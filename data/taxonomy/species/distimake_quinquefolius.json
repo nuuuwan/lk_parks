@@ -1,8 +1,7 @@
 {
   "name": "Distimake quinquefolius",
   "authorship": "(L.) A.R.Sim\u00f5es & Staples",
-  "genus_name": "Distimake",
-  "family_name": "Convolvulaceae",
+  "parent_name": "Distimake",
   "gbif_id": "9340539",
   "powo_id": "77163286-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Alstonia balansae",
   "authorship": "Guillaumin",
-  "genus_name": "Alstonia",
-  "family_name": "Apocynaceae",
+  "parent_name": "Alstonia",
   "gbif_id": "5535763",
   "powo_id": "76508-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Aristotelia chilensis",
   "authorship": "(Molina) Stuntz",
-  "genus_name": "Aristotelia",
-  "family_name": "Elaeocarpaceae",
+  "parent_name": "Aristotelia",
   "gbif_id": "5651082",
   "powo_id": "19666-2",
   "iucn_id": "49832723",

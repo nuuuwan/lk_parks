@@ -1,8 +1,7 @@
 {
   "name": "Berberis sanguinea",
   "authorship": "Franch.",
-  "genus_name": "Berberis",
-  "family_name": "Berberidaceae",
+  "parent_name": "Berberis",
   "gbif_id": "3982286",
   "powo_id": "107060-1",
   "iucn_id": null,

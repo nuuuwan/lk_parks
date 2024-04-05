@@ -1,8 +1,7 @@
 {
   "name": "Chrysolepis chrysophylla",
   "authorship": "(Douglas ex Hook.) Hjelmq.",
-  "genus_name": "Chrysolepis",
-  "family_name": "Fagaceae",
+  "parent_name": "Chrysolepis",
   "gbif_id": "5333315",
   "powo_id": "57670-2",
   "iucn_id": "62004680",

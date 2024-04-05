@@ -1,8 +1,7 @@
 {
   "name": "Ruellia pedunculata",
   "authorship": "Torr. ex A.Gray",
-  "genus_name": "Ruellia",
-  "family_name": "Acanthaceae",
+  "parent_name": "Ruellia",
   "gbif_id": "5415393",
   "powo_id": "54411-1",
   "iucn_id": null,

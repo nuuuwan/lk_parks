@@ -1,8 +1,7 @@
 {
   "name": "Syagrus oleracea",
   "authorship": "(Mart.) Becc.",
-  "genus_name": "Syagrus",
-  "family_name": "Arecaceae",
+  "parent_name": "Syagrus",
   "gbif_id": "5293854",
   "powo_id": "246955-2",
   "iucn_id": null,

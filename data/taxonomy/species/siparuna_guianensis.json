@@ -1,8 +1,7 @@
 {
   "name": "Siparuna guianensis",
   "authorship": "Aubl.",
-  "genus_name": "Siparuna",
-  "family_name": "Siparunaceae",
+  "parent_name": "Siparuna",
   "gbif_id": "7264535",
   "powo_id": "582285-1",
   "iucn_id": "150010470",

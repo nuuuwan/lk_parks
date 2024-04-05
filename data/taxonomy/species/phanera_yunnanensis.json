@@ -1,8 +1,7 @@
 {
   "name": "Phanera yunnanensis",
   "authorship": "(Franch.) Wunderlin",
-  "genus_name": "Phanera",
-  "family_name": "Fabaceae",
+  "parent_name": "Phanera",
   "gbif_id": "4929140",
   "powo_id": "77113367-1",
   "iucn_id": null,

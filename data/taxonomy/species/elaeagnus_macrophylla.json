@@ -1,8 +1,7 @@
 {
   "name": "Elaeagnus macrophylla",
   "authorship": "Thunb.",
-  "genus_name": "Elaeagnus",
-  "family_name": "Elaeagnaceae",
+  "parent_name": "Elaeagnus",
   "gbif_id": "7293094",
   "powo_id": "323750-1",
   "iucn_id": null,

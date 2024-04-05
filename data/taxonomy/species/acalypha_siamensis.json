@@ -1,8 +1,7 @@
 {
   "name": "Acalypha siamensis",
   "authorship": "Oliv. ex Gage",
-  "genus_name": "Acalypha",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Acalypha",
   "gbif_id": "3056042",
   "powo_id": "337811-1",
   "iucn_id": null,

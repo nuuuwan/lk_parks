@@ -1,8 +1,7 @@
 {
   "name": "Terminalia lucida",
   "authorship": "Hoffmanns. ex Mart.",
-  "genus_name": "Terminalia",
-  "family_name": "Combretaceae",
+  "parent_name": "Terminalia",
   "gbif_id": "3698267",
   "powo_id": "171207-1",
   "iucn_id": "151970367",

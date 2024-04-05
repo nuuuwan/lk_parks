@@ -1,8 +1,7 @@
 {
   "name": "Clinosperma bracteale",
   "authorship": "(Brongn.) Becc.",
-  "genus_name": "Clinosperma",
-  "family_name": "Arecaceae",
+  "parent_name": "Clinosperma",
   "gbif_id": "2735157",
   "powo_id": "665987-1",
   "iucn_id": "38472",

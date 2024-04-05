@@ -1,8 +1,7 @@
 {
   "name": "Lantana canescens",
   "authorship": "Kunth",
-  "genus_name": "Lantana",
-  "family_name": "Verbenaceae",
+  "parent_name": "Lantana",
   "gbif_id": "2925332",
   "powo_id": "863236-1",
   "iucn_id": null,

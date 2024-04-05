@@ -1,8 +1,7 @@
 {
   "name": "Pouteria viridis",
   "authorship": "(Pittier) Cronquist",
-  "genus_name": "Pouteria",
-  "family_name": "Sapotaceae",
+  "parent_name": "Pouteria",
   "gbif_id": "2884255",
   "powo_id": "209924-2",
   "iucn_id": "149891821",

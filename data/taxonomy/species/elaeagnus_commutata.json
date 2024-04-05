@@ -1,8 +1,7 @@
 {
   "name": "Elaeagnus commutata",
   "authorship": "Bernh. ex Rydb.",
-  "genus_name": "Elaeagnus",
-  "family_name": "Elaeagnaceae",
+  "parent_name": "Elaeagnus",
   "gbif_id": "3039274",
   "powo_id": "315523-2",
   "iucn_id": "64311251",

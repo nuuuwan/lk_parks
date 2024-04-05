@@ -1,8 +1,7 @@
 {
   "name": "Abutilon densiflorum",
   "authorship": "(Hook. & Arn.) Walp.",
-  "genus_name": "Abutilon",
-  "family_name": "Malvaceae",
+  "parent_name": "Abutilon",
   "gbif_id": "3939396",
   "powo_id": "1213075-2",
   "iucn_id": null,

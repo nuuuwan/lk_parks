@@ -1,8 +1,7 @@
 {
   "name": "Colocasia fallax",
   "authorship": "Schott",
-  "genus_name": "Colocasia",
-  "family_name": "Araceae",
+  "parent_name": "Colocasia",
   "gbif_id": "5330769",
   "powo_id": "86589-1",
   "iucn_id": "194794",

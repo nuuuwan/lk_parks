@@ -1,8 +1,7 @@
 {
   "name": "Coleus decurrens",
   "authorship": "G\u00fcrke",
-  "genus_name": "Coleus",
-  "family_name": "Lamiaceae",
+  "parent_name": "Coleus",
   "gbif_id": "5605736",
   "powo_id": "445963-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Sideroxylon reclinatum",
   "authorship": "Michx.",
-  "genus_name": "Sideroxylon",
-  "family_name": "Sapotaceae",
+  "parent_name": "Sideroxylon",
   "gbif_id": "2886836",
   "powo_id": "789825-1",
   "iucn_id": null,

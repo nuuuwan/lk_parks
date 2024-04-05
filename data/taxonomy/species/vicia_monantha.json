@@ -1,8 +1,7 @@
 {
   "name": "Vicia monantha",
   "authorship": "Retz.",
-  "genus_name": "Vicia",
-  "family_name": "Fabaceae",
+  "parent_name": "Vicia",
   "gbif_id": "2975416",
   "powo_id": "524947-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Grindelia ciliata",
   "authorship": "(Nutt.) Spreng.",
-  "genus_name": "Grindelia",
-  "family_name": "Asteraceae",
+  "parent_name": "Grindelia",
   "gbif_id": "3146211",
   "powo_id": "1202587-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Coffea liberica",
   "authorship": "W.Bull",
-  "genus_name": "Coffea",
-  "family_name": "Rubiaceae",
+  "parent_name": "Coffea",
   "gbif_id": "8524134",
   "powo_id": "747169-1",
   "iucn_id": "18537594",

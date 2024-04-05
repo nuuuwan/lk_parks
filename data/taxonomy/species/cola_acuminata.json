@@ -1,8 +1,7 @@
 {
   "name": "Cola acuminata",
   "authorship": "(P.Beauv.) Schott & Endl.",
-  "genus_name": "Cola",
-  "family_name": "Malvaceae",
+  "parent_name": "Cola",
   "gbif_id": "5406685",
   "powo_id": "822645-1",
   "iucn_id": "111376285",

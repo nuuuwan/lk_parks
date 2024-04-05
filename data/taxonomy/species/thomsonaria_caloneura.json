@@ -1,8 +1,7 @@
 {
   "name": "Thomsonaria caloneura",
   "authorship": "(Stapf) Rushforth",
-  "genus_name": "Thomsonaria",
-  "family_name": "Rosaceae",
+  "parent_name": "Thomsonaria",
   "gbif_id": "10708377",
   "powo_id": "77208688-1",
   "iucn_id": null,

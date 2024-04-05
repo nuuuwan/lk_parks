@@ -1,8 +1,7 @@
 {
   "name": "Ulmus thomasii",
   "authorship": "Sarg.",
-  "genus_name": "Ulmus",
-  "family_name": "Ulmaceae",
+  "parent_name": "Ulmus",
   "gbif_id": "5361875",
   "powo_id": "300247-2",
   "iucn_id": "61967392",

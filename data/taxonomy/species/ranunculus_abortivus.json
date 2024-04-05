@@ -1,8 +1,7 @@
 {
   "name": "Ranunculus abortivus",
   "authorship": "L.",
-  "genus_name": "Ranunculus",
-  "family_name": "Ranunculaceae",
+  "parent_name": "Ranunculus",
   "gbif_id": "3033412",
   "powo_id": "712111-1",
   "iucn_id": null,

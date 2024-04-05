@@ -1,8 +1,7 @@
 {
   "name": "Bystropogon canariensis",
   "authorship": "(L.) L'H\u00e9r.",
-  "genus_name": "Bystropogon",
-  "family_name": "Lamiaceae",
+  "parent_name": "Bystropogon",
   "gbif_id": "3904098",
   "powo_id": "445275-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Quercus libani",
   "authorship": "G.Olivier",
-  "genus_name": "Quercus",
-  "family_name": "Fagaceae",
+  "parent_name": "Quercus",
   "gbif_id": "2880837",
   "powo_id": "296386-1",
   "iucn_id": "194187",

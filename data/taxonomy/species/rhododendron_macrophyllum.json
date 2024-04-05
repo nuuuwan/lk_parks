@@ -1,8 +1,7 @@
 {
   "name": "Rhododendron macrophyllum",
   "authorship": "D.Don ex G.Don",
-  "genus_name": "Rhododendron",
-  "family_name": "Ericaceae",
+  "parent_name": "Rhododendron",
   "gbif_id": "7894533",
   "powo_id": "332831-1",
   "iucn_id": "156822026",

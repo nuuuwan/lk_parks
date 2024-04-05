@@ -1,8 +1,7 @@
 {
   "name": "Echium hypertropicum",
   "authorship": "Webb",
-  "genus_name": "Echium",
-  "family_name": "Boraginaceae",
+  "parent_name": "Echium",
   "gbif_id": "4058783",
   "powo_id": "115710-1",
   "iucn_id": "107425921",

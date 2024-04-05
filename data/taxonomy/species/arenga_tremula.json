@@ -1,8 +1,7 @@
 {
   "name": "Arenga tremula",
   "authorship": "(Blanco) Becc.",
-  "genus_name": "Arenga",
-  "family_name": "Arecaceae",
+  "parent_name": "Arenga",
   "gbif_id": "2733953",
   "powo_id": "664265-1",
   "iucn_id": "153508514",

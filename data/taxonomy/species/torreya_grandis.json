@@ -1,8 +1,7 @@
 {
   "name": "Torreya grandis",
   "authorship": "Fortune ex Lindl.",
-  "genus_name": "Torreya",
-  "family_name": "Taxaceae",
+  "parent_name": "Torreya",
   "gbif_id": "5284483",
   "powo_id": "20002256-1",
   "iucn_id": "191881",

@@ -1,8 +1,7 @@
 {
   "name": "Celastrus scandens",
   "authorship": "L.",
-  "genus_name": "Celastrus",
-  "family_name": "Celastraceae",
+  "parent_name": "Celastrus",
   "gbif_id": "3169171",
   "powo_id": "319139-2",
   "iucn_id": null,

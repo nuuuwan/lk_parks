@@ -1,8 +1,7 @@
 {
   "name": "Secamone volubilis",
   "authorship": "(Lam.) Marais",
-  "genus_name": "Secamone",
-  "family_name": "Apocynaceae",
+  "parent_name": "Secamone",
   "gbif_id": "7312328",
   "powo_id": "915483-1",
   "iucn_id": null,

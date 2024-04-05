@@ -1,8 +1,7 @@
 {
   "name": "Jatropha curcas",
   "authorship": "L.",
-  "genus_name": "Jatropha",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Jatropha",
   "gbif_id": "3072953",
   "powo_id": "131462-2",
   "iucn_id": "60649230",

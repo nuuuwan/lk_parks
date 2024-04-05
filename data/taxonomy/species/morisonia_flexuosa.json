@@ -1,8 +1,7 @@
 {
   "name": "Morisonia flexuosa",
   "authorship": "L.",
-  "genus_name": "Morisonia",
-  "family_name": "Capparaceae",
+  "parent_name": "Morisonia",
   "gbif_id": "3873082",
   "powo_id": "316361-2",
   "iucn_id": null,

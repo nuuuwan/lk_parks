@@ -1,8 +1,7 @@
 {
   "name": "Amelanchier canadensis",
   "authorship": "(L.) Medik.",
-  "genus_name": "Amelanchier",
-  "family_name": "Rosaceae",
+  "parent_name": "Amelanchier",
   "gbif_id": "3023833",
   "powo_id": "721188-1",
   "iucn_id": "135957978",

@@ -1,8 +1,7 @@
 {
   "name": "Lagerstroemia limii",
   "authorship": "Merr.",
-  "genus_name": "Lagerstroemia",
-  "family_name": "Lythraceae",
+  "parent_name": "Lagerstroemia",
   "gbif_id": "3988684",
   "powo_id": "553586-1",
   "iucn_id": null,

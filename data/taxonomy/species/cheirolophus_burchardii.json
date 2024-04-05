@@ -1,8 +1,7 @@
 {
   "name": "Cheirolophus burchardii",
   "authorship": "Susanna",
-  "genus_name": "Cheirolophus",
-  "family_name": "Asteraceae",
+  "parent_name": "Cheirolophus",
   "gbif_id": "4240872",
   "powo_id": "989926-1",
   "iucn_id": null,

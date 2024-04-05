@@ -1,8 +1,7 @@
 {
   "name": "Epidendrum ibaguense",
   "authorship": "Kunth",
-  "genus_name": "Epidendrum",
-  "family_name": "Orchidaceae",
+  "parent_name": "Epidendrum",
   "gbif_id": "5320873",
   "powo_id": "633050-1",
   "iucn_id": "203443291",

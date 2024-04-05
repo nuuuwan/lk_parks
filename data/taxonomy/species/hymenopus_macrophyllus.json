@@ -1,8 +1,7 @@
 {
   "name": "Hymenopus macrophyllus",
   "authorship": "(Benth.) Sothers & Prance",
-  "genus_name": "Hymenopus",
-  "family_name": "Chrysobalanaceae",
+  "parent_name": "Hymenopus",
   "gbif_id": "10325594",
   "powo_id": "77157006-1",
   "iucn_id": "61988400",

@@ -1,8 +1,7 @@
 {
   "name": "Populus tomentosa",
   "authorship": "Carri\u00e8re",
-  "genus_name": "Populus",
-  "family_name": "Salicaceae",
+  "parent_name": "Populus",
   "gbif_id": "3040195",
   "powo_id": "776882-1",
   "iucn_id": null,

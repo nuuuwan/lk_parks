@@ -1,8 +1,7 @@
 {
   "name": "Ilex cornuta",
   "authorship": "Lindl. & Paxton",
-  "genus_name": "Ilex",
-  "family_name": "Aquifoliaceae",
+  "parent_name": "Ilex",
   "gbif_id": "5414258",
   "powo_id": "83182-1",
   "iucn_id": "18776178",

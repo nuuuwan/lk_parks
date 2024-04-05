@@ -1,8 +1,7 @@
 {
   "name": "Celosia argentea",
   "authorship": "L.",
-  "genus_name": "Celosia",
-  "family_name": "Amaranthaceae",
+  "parent_name": "Celosia",
   "gbif_id": "3085191",
   "powo_id": "316350-2",
   "iucn_id": "136637216",

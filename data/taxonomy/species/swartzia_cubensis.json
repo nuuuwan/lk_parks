@@ -1,8 +1,7 @@
 {
   "name": "Swartzia cubensis",
   "authorship": "(Britton & P.Wilson) Standl.",
-  "genus_name": "Swartzia",
-  "family_name": "Fabaceae",
+  "parent_name": "Swartzia",
   "gbif_id": "5351875",
   "powo_id": "519868-1",
   "iucn_id": null,

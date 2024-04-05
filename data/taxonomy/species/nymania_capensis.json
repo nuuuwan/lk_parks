@@ -1,8 +1,7 @@
 {
   "name": "Nymania capensis",
   "authorship": "(Thunb.) Lindb.",
-  "genus_name": "Nymania",
-  "family_name": "Meliaceae",
+  "parent_name": "Nymania",
   "gbif_id": "5598013",
   "powo_id": "783901-1",
   "iucn_id": "146458633",

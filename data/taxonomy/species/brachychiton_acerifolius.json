@@ -1,8 +1,7 @@
 {
   "name": "Brachychiton acerifolius",
   "authorship": "(A.Cunn. ex G.Don) F.Muell.",
-  "genus_name": "Brachychiton",
-  "family_name": "Malvaceae",
+  "parent_name": "Brachychiton",
   "gbif_id": "8119595",
   "powo_id": "822254-1",
   "iucn_id": "172066090",

@@ -1,8 +1,7 @@
 {
   "name": "Afrocarpus gracilior",
   "authorship": "(Pilg.) C.N.Page",
-  "genus_name": "Afrocarpus",
-  "family_name": "Podocarpaceae",
+  "parent_name": "Afrocarpus",
   "gbif_id": "2687628",
   "powo_id": "946474-1",
   "iucn_id": "42439",

@@ -1,8 +1,7 @@
 {
   "name": "Acacia macradenia",
   "authorship": "Benth.",
-  "genus_name": "Acacia",
-  "family_name": "Fabaceae",
+  "parent_name": "Acacia",
   "gbif_id": "2978346",
   "powo_id": "470822-1",
   "iucn_id": "177376111",

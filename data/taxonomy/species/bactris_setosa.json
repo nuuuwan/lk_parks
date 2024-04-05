@@ -1,8 +1,7 @@
 {
   "name": "Bactris setosa",
   "authorship": "Mart.",
-  "genus_name": "Bactris",
-  "family_name": "Arecaceae",
+  "parent_name": "Bactris",
   "gbif_id": "2733377",
   "powo_id": "664745-1",
   "iucn_id": null,

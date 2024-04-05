@@ -1,8 +1,7 @@
 {
   "name": "Forsythia giraldiana",
   "authorship": "Lingelsh.",
-  "genus_name": "Forsythia",
-  "family_name": "Oleaceae",
+  "parent_name": "Forsythia",
   "gbif_id": "7325954",
   "powo_id": "608890-1",
   "iucn_id": null,

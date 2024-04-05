@@ -1,8 +1,7 @@
 {
   "name": "Delonix floribunda",
   "authorship": "(Baill.) Capuron",
-  "genus_name": "Delonix",
-  "family_name": "Fabaceae",
+  "parent_name": "Delonix",
   "gbif_id": "2956188",
   "powo_id": "491230-1",
   "iucn_id": "36265",

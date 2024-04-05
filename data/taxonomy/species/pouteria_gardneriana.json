@@ -1,8 +1,7 @@
 {
   "name": "Pouteria gardneriana",
   "authorship": "(A.DC.) Radlk.",
-  "genus_name": "Pouteria",
-  "family_name": "Sapotaceae",
+  "parent_name": "Pouteria",
   "gbif_id": "2884422",
   "powo_id": "788958-1",
   "iucn_id": "154664634",

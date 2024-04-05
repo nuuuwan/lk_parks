@@ -1,8 +1,7 @@
 {
   "name": "Phoenix paludosa",
   "authorship": "Roxb.",
-  "genus_name": "Phoenix",
-  "family_name": "Arecaceae",
+  "parent_name": "Phoenix",
   "gbif_id": "5293182",
   "powo_id": "668936-1",
   "iucn_id": "178816",

@@ -1,8 +1,7 @@
 {
   "name": "Ruizia populnea",
   "authorship": "(Cav.) Dorr",
-  "genus_name": "Ruizia",
-  "family_name": "Malvaceae",
+  "parent_name": "Ruizia",
   "gbif_id": "11154000",
   "powo_id": "77217535-1",
   "iucn_id": null,

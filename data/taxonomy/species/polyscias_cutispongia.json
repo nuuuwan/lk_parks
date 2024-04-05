@@ -1,8 +1,7 @@
 {
   "name": "Polyscias cutispongia",
   "authorship": "(Lam.) Baker",
-  "genus_name": "Polyscias",
-  "family_name": "Araliaceae",
+  "parent_name": "Polyscias",
   "gbif_id": "3036789",
   "powo_id": "91752-1",
   "iucn_id": null,

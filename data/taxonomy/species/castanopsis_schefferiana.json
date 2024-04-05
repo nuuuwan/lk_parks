@@ -1,8 +1,7 @@
 {
   "name": "Castanopsis schefferiana",
   "authorship": "Hance",
-  "genus_name": "Castanopsis",
-  "family_name": "Fagaceae",
+  "parent_name": "Castanopsis",
   "gbif_id": "5332908",
   "powo_id": "295407-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Parasenegalia muricata",
   "authorship": "(L.) Seigler & Ebinger",
-  "genus_name": "Parasenegalia",
-  "family_name": "Fabaceae",
+  "parent_name": "Parasenegalia",
   "gbif_id": "9796599",
   "powo_id": "77175800-1",
   "iucn_id": null,

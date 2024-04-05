@@ -1,8 +1,7 @@
 {
   "name": "Acropogon megaphyllus",
   "authorship": "(Bureau & Poiss. ex Guillaumin) Morat",
-  "genus_name": "Acropogon",
-  "family_name": "Malvaceae",
+  "parent_name": "Acropogon",
   "gbif_id": "5547394",
   "powo_id": "943943-1",
   "iucn_id": "37422",

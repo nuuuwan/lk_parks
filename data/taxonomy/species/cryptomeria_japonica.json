@@ -1,8 +1,7 @@
 {
   "name": "Cryptomeria japonica",
   "authorship": "(Thunb. ex L.f.) D.Don",
-  "genus_name": "Cryptomeria",
-  "family_name": "Cupressaceae",
+  "parent_name": "Cryptomeria",
   "gbif_id": "5284237",
   "powo_id": "261870-1",
   "iucn_id": "39149",

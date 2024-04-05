@@ -1,8 +1,7 @@
 {
   "name": "Eragrostis tenella",
   "authorship": "(L.) P.Beauv. ex Roem. & Schult.",
-  "genus_name": "Eragrostis",
-  "family_name": "Poaceae",
+  "parent_name": "Eragrostis",
   "gbif_id": "2705426",
   "powo_id": "1088685-2",
   "iucn_id": null,

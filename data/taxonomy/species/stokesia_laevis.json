@@ -1,8 +1,7 @@
 {
   "name": "Stokesia laevis",
   "authorship": "(Hill) Greene",
-  "genus_name": "Stokesia",
-  "family_name": "Asteraceae",
+  "parent_name": "Stokesia",
   "gbif_id": "5403935",
   "powo_id": "246388-2",
   "iucn_id": null,

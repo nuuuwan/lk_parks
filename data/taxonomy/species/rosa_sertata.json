@@ -1,8 +1,7 @@
 {
   "name": "Rosa sertata",
   "authorship": "Rolfe",
-  "genus_name": "Rosa",
-  "family_name": "Rosaceae",
+  "parent_name": "Rosa",
   "gbif_id": "3005608",
   "powo_id": "734244-1",
   "iucn_id": null,

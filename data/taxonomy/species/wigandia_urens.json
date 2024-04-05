@@ -1,8 +1,7 @@
 {
   "name": "Wigandia urens",
   "authorship": "(Ruiz & Pav.) Kunth",
-  "genus_name": "Wigandia",
-  "family_name": "Boraginaceae",
+  "parent_name": "Wigandia",
   "gbif_id": "2928366",
   "powo_id": "114242-3",
   "iucn_id": "146704610",

@@ -1,8 +1,7 @@
 {
   "name": "Polytaenium feei",
   "authorship": "(W.Schaffn. ex F\u00e9e) Maxon",
-  "genus_name": "Polytaenium",
-  "family_name": "Pteridaceae",
+  "parent_name": "Polytaenium",
   "gbif_id": "2650228",
   "powo_id": "208094-2",
   "iucn_id": null,

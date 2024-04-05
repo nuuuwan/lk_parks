@@ -1,8 +1,7 @@
 {
   "name": "Theligonum cynocrambe",
   "authorship": "L.",
-  "genus_name": "Theligonum",
-  "family_name": "Rubiaceae",
+  "parent_name": "Theligonum",
   "gbif_id": "2919295",
   "powo_id": "856707-1",
   "iucn_id": null,

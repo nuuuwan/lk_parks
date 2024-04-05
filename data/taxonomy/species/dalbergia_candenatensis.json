@@ -1,8 +1,7 @@
 {
   "name": "Dalbergia candenatensis",
   "authorship": "(Dennst.) Prain",
-  "genus_name": "Dalbergia",
-  "family_name": "Fabaceae",
+  "parent_name": "Dalbergia",
   "gbif_id": "2968466",
   "powo_id": "490125-1",
   "iucn_id": "199825394",

@@ -1,8 +1,7 @@
 {
   "name": "Parrotia persica",
   "authorship": "C.A.Mey.",
-  "genus_name": "Parrotia",
-  "family_name": "Hamamelidaceae",
+  "parent_name": "Parrotia",
   "gbif_id": "5553951",
   "powo_id": "430741-1",
   "iucn_id": null,

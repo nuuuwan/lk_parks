@@ -1,8 +1,7 @@
 {
   "name": "Jubaea chilensis",
   "authorship": "(Molina) Baill.",
-  "genus_name": "Jubaea",
-  "family_name": "Arecaceae",
+  "parent_name": "Jubaea",
   "gbif_id": "2735138",
   "powo_id": "131713-2",
   "iucn_id": "38586",

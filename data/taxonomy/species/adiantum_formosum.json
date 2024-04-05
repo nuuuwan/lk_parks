@@ -1,8 +1,7 @@
 {
   "name": "Adiantum formosum",
   "authorship": "R.Br.",
-  "genus_name": "Adiantum",
-  "family_name": "Pteridaceae",
+  "parent_name": "Adiantum",
   "gbif_id": "9757006",
   "powo_id": "17010270-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Ipomoea violacea",
   "authorship": "L.",
-  "genus_name": "Ipomoea",
-  "family_name": "Convolvulaceae",
+  "parent_name": "Ipomoea",
   "gbif_id": "2928516",
   "powo_id": "270063-1",
   "iucn_id": null,

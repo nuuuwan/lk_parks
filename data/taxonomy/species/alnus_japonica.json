@@ -1,8 +1,7 @@
 {
   "name": "Alnus japonica",
   "authorship": "(Thunb.) Steud.",
-  "genus_name": "Alnus",
-  "family_name": "Betulaceae",
+  "parent_name": "Alnus",
   "gbif_id": "2876196",
   "powo_id": "294936-1",
   "iucn_id": "194581",

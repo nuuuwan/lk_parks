@@ -1,8 +1,7 @@
 {
   "name": "Aerides multiflora",
   "authorship": "Roxb.",
-  "genus_name": "Aerides",
-  "family_name": "Orchidaceae",
+  "parent_name": "Aerides",
   "gbif_id": "2811153",
   "powo_id": "1009116-1",
   "iucn_id": null,

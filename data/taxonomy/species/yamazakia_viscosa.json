@@ -1,8 +1,7 @@
 {
   "name": "Yamazakia viscosa",
   "authorship": "(Hornem.) W.R.Barker, Y.S.Liang & Wannan",
-  "genus_name": "Yamazakia",
-  "family_name": "Linderniaceae",
+  "parent_name": "Yamazakia",
   "gbif_id": "11084629",
   "powo_id": "77201454-1",
   "iucn_id": "177039",

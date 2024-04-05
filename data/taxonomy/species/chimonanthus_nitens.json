@@ -1,8 +1,7 @@
 {
   "name": "Chimonanthus nitens",
   "authorship": "Oliv.",
-  "genus_name": "Chimonanthus",
-  "family_name": "Calycanthaceae",
+  "parent_name": "Chimonanthus",
   "gbif_id": "7275861",
   "powo_id": "139245-1",
   "iucn_id": "152824925",

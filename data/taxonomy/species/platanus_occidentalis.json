@@ -1,8 +1,7 @@
 {
   "name": "Platanus occidentalis",
   "authorship": "L.",
-  "genus_name": "Platanus",
-  "family_name": "Platanaceae",
+  "parent_name": "Platanus",
   "gbif_id": "3152820",
   "powo_id": "685871-1",
   "iucn_id": "61956705",

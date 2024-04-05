@@ -1,8 +1,7 @@
 {
   "name": "Peltogyne purpurea",
   "authorship": "Pittier",
-  "genus_name": "Peltogyne",
-  "family_name": "Fabaceae",
+  "parent_name": "Peltogyne",
   "gbif_id": "2952734",
   "powo_id": "187015-2",
   "iucn_id": "118255631",

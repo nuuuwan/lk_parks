@@ -1,8 +1,7 @@
 {
   "name": "Bergeranthus multiceps",
   "authorship": "(Salm-Dyck) Schwantes",
-  "genus_name": "Bergeranthus",
-  "family_name": "Aizoaceae",
+  "parent_name": "Bergeranthus",
   "gbif_id": "3704120",
   "powo_id": "360746-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Caldcluvia paniculata",
   "authorship": "(Cav.) D.Don",
-  "genus_name": "Caldcluvia",
-  "family_name": "Cunoniaceae",
+  "parent_name": "Caldcluvia",
   "gbif_id": "3613200",
   "powo_id": "790442-1",
   "iucn_id": "175671010",

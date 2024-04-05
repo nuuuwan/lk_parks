@@ -1,8 +1,7 @@
 {
   "name": "Zanthoxylum americanum",
   "authorship": "Mill.",
-  "genus_name": "Zanthoxylum",
-  "family_name": "Rutaceae",
+  "parent_name": "Zanthoxylum",
   "gbif_id": "3190089",
   "powo_id": "775568-1",
   "iucn_id": "135956405",

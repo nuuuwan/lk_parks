@@ -1,8 +1,7 @@
 {
   "name": "Ophioglossum pendulum",
   "authorship": "L.",
-  "genus_name": "Ophioglossum",
-  "family_name": "Ophioglossaceae",
+  "parent_name": "Ophioglossum",
   "gbif_id": "2650130",
   "powo_id": "17167860-1",
   "iucn_id": null,

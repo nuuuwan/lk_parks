@@ -1,8 +1,7 @@
 {
   "name": "Clusia palmana",
   "authorship": "Standl.",
-  "genus_name": "Clusia",
-  "family_name": "Clusiaceae",
+  "parent_name": "Clusia",
   "gbif_id": "5556149",
   "powo_id": "61540-2",
   "iucn_id": "189171090",

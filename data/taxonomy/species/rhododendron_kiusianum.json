@@ -1,8 +1,7 @@
 {
   "name": "Rhododendron kiusianum",
   "authorship": "Makino",
-  "genus_name": "Rhododendron",
-  "family_name": "Ericaceae",
+  "parent_name": "Rhododendron",
   "gbif_id": "7135940",
   "powo_id": "332683-1",
   "iucn_id": null,

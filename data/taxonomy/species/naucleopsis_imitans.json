@@ -1,8 +1,7 @@
 {
   "name": "Naucleopsis imitans",
   "authorship": "(Ducke) C.C.Berg",
-  "genus_name": "Naucleopsis",
-  "family_name": "Moraceae",
+  "parent_name": "Naucleopsis",
   "gbif_id": "3767179",
   "powo_id": "167397-2",
   "iucn_id": null,

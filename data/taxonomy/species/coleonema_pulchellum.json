@@ -1,8 +1,7 @@
 {
   "name": "Coleonema pulchellum",
   "authorship": "I.Williams",
-  "genus_name": "Coleonema",
-  "family_name": "Rutaceae",
+  "parent_name": "Coleonema",
   "gbif_id": "5594397",
   "powo_id": "897433-1",
   "iucn_id": null,

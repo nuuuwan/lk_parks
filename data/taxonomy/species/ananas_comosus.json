@@ -1,8 +1,7 @@
 {
   "name": "Ananas comosus",
   "authorship": "(L.) Merr.",
-  "genus_name": "Ananas",
-  "family_name": "Bromeliaceae",
+  "parent_name": "Ananas",
   "gbif_id": "5288819",
   "powo_id": "12322-2",
   "iucn_id": null,

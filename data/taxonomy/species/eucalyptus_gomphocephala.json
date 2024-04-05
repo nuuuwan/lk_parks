@@ -1,8 +1,7 @@
 {
   "name": "Eucalyptus gomphocephala",
   "authorship": "A.Cunn. ex DC.",
-  "genus_name": "Eucalyptus",
-  "family_name": "Myrtaceae",
+  "parent_name": "Eucalyptus",
   "gbif_id": "3176772",
   "powo_id": "592967-1",
   "iucn_id": "133375329",

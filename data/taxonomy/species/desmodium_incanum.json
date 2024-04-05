@@ -1,8 +1,7 @@
 {
   "name": "Desmodium incanum",
   "authorship": "(Sw.) DC.",
-  "genus_name": "Desmodium",
-  "family_name": "Fabaceae",
+  "parent_name": "Desmodium",
   "gbif_id": "2967060",
   "powo_id": "1015219-2",
   "iucn_id": null,

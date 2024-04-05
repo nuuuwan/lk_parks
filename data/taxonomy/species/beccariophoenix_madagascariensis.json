@@ -1,8 +1,7 @@
 {
   "name": "Beccariophoenix madagascariensis",
   "authorship": "Jum. & H.Perrier",
-  "genus_name": "Beccariophoenix",
-  "family_name": "Arecaceae",
+  "parent_name": "Beccariophoenix",
   "gbif_id": "2732579",
   "powo_id": "664846-1",
   "iucn_id": "38448",

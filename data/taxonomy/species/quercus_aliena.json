@@ -1,8 +1,7 @@
 {
   "name": "Quercus aliena",
   "authorship": "Blume",
-  "genus_name": "Quercus",
-  "family_name": "Fagaceae",
+  "parent_name": "Quercus",
   "gbif_id": "2881654",
   "powo_id": "295765-1",
   "iucn_id": "194052",

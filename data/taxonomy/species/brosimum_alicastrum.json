@@ -1,8 +1,7 @@
 {
   "name": "Brosimum alicastrum",
   "authorship": "Sw.",
-  "genus_name": "Brosimum",
-  "family_name": "Moraceae",
+  "parent_name": "Brosimum",
   "gbif_id": "2984660",
   "powo_id": "850824-1",
   "iucn_id": "63080",

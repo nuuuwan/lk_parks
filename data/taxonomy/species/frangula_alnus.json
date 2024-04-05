@@ -1,8 +1,7 @@
 {
   "name": "Frangula alnus",
   "authorship": "Mill.",
-  "genus_name": "Frangula",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Frangula",
   "gbif_id": "3039454",
   "powo_id": "717344-1",
   "iucn_id": "164056",

@@ -1,8 +1,7 @@
 {
   "name": "Rhaphidophora korthalsii",
   "authorship": "Schott",
-  "genus_name": "Rhaphidophora",
-  "family_name": "Araceae",
+  "parent_name": "Rhaphidophora",
   "gbif_id": "5329733",
   "powo_id": "88513-1",
   "iucn_id": null,

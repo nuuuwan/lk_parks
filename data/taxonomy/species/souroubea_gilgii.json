@@ -1,8 +1,7 @@
 {
   "name": "Souroubea gilgii",
   "authorship": "V.A.Richt.",
-  "genus_name": "Souroubea",
-  "family_name": "Marcgraviaceae",
+  "parent_name": "Souroubea",
   "gbif_id": "7866756",
   "powo_id": "1002451-1",
   "iucn_id": null,

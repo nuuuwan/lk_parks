@@ -1,8 +1,7 @@
 {
   "name": "Cordia collococca",
   "authorship": "L.",
-  "genus_name": "Cordia",
-  "family_name": "Boraginaceae",
+  "parent_name": "Cordia",
   "gbif_id": "5341261",
   "powo_id": "114058-1",
   "iucn_id": "56496522",

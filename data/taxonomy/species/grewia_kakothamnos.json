@@ -1,8 +1,7 @@
 {
   "name": "Grewia kakothamnos",
   "authorship": "K.Schum.",
-  "genus_name": "Grewia",
-  "family_name": "Malvaceae",
+  "parent_name": "Grewia",
   "gbif_id": "4259534",
   "powo_id": "834303-1",
   "iucn_id": null,

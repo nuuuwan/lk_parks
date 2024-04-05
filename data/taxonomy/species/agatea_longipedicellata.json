@@ -1,8 +1,7 @@
 {
   "name": "Agatea longipedicellata",
   "authorship": "(Baker f.) Guillaumin & Thorne",
-  "genus_name": "Agatea",
-  "family_name": "Violaceae",
+  "parent_name": "Agatea",
   "gbif_id": "4077641",
   "powo_id": "866189-1",
   "iucn_id": null,

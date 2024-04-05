@@ -1,8 +1,7 @@
 {
   "name": "Cuphea aequipetala",
   "authorship": "Cav.",
-  "genus_name": "Cuphea",
-  "family_name": "Lythraceae",
+  "parent_name": "Cuphea",
   "gbif_id": "7534836",
   "powo_id": "275405-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Maackia hupehensis",
   "authorship": "Takeda",
-  "genus_name": "Maackia",
-  "family_name": "Fabaceae",
+  "parent_name": "Maackia",
   "gbif_id": "5360283",
   "powo_id": "505352-1",
   "iucn_id": "152840066",

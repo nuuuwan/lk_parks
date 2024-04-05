@@ -1,8 +1,7 @@
 {
   "name": "Roemeria argemone",
   "authorship": "(L.) C.Morales, R.Mend. & Romero Garc\u00eda",
-  "genus_name": "Roemeria",
-  "family_name": "Papaveraceae",
+  "parent_name": "Roemeria",
   "gbif_id": "5531435",
   "powo_id": "962053-1",
   "iucn_id": null,

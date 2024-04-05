@@ -1,8 +1,7 @@
 {
   "name": "Clethra alnifolia",
   "authorship": "L.",
-  "genus_name": "Clethra",
-  "family_name": "Clethraceae",
+  "parent_name": "Clethra",
   "gbif_id": "2888323",
   "powo_id": "319146-2",
   "iucn_id": "183218222",

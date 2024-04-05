@@ -1,8 +1,7 @@
 {
   "name": "Fuchsia magellanica",
   "authorship": "Lam.",
-  "genus_name": "Fuchsia",
-  "family_name": "Onagraceae",
+  "parent_name": "Fuchsia",
   "gbif_id": "5938224",
   "powo_id": "612572-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Dipteryx odorata",
   "authorship": "(Aubl.) Forsyth f.",
-  "genus_name": "Dipteryx",
-  "family_name": "Fabaceae",
+  "parent_name": "Dipteryx",
   "gbif_id": "10779983",
   "powo_id": "492769-1",
   "iucn_id": "62024955",

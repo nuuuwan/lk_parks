@@ -1,8 +1,7 @@
 {
   "name": "Terminalia ivorensis",
   "authorship": "A.Chev.",
-  "genus_name": "Terminalia",
-  "family_name": "Combretaceae",
+  "parent_name": "Terminalia",
   "gbif_id": "3189389",
   "powo_id": "171174-1",
   "iucn_id": "33062",

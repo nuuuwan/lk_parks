@@ -1,8 +1,7 @@
 {
   "name": "Hygrophila corymbosa",
   "authorship": "(Blume) Lindau",
-  "genus_name": "Hygrophila",
-  "family_name": "Acanthaceae",
+  "parent_name": "Hygrophila",
   "gbif_id": "5415353",
   "powo_id": "49671-1",
   "iucn_id": null,

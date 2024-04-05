@@ -1,8 +1,7 @@
 {
   "name": "Ficus minahassae",
   "authorship": "(Teijsm. & Vriese) Miq.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5571122",
   "powo_id": "853225-1",
   "iucn_id": "156203589",

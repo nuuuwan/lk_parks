@@ -1,8 +1,7 @@
 {
   "name": "Desmos chinensis",
   "authorship": "Lour.",
-  "genus_name": "Desmos",
-  "family_name": "Annonaceae",
+  "parent_name": "Desmos",
   "gbif_id": "3155130",
   "powo_id": "72771-1",
   "iucn_id": null,

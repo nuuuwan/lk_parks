@@ -1,8 +1,7 @@
 {
   "name": "Luehea candida",
   "authorship": "(Moc. & Sess\u00e9 ex DC.) Mart.",
-  "genus_name": "Luehea",
-  "family_name": "Malvaceae",
+  "parent_name": "Luehea",
   "gbif_id": "5706146",
   "powo_id": "834727-1",
   "iucn_id": "176100452",

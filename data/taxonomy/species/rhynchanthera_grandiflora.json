@@ -1,8 +1,7 @@
 {
   "name": "Rhynchanthera grandiflora",
   "authorship": "DC.",
-  "genus_name": "Rhynchanthera",
-  "family_name": "Melastomataceae",
+  "parent_name": "Rhynchanthera",
   "gbif_id": "3862015",
   "powo_id": "575460-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Alyxia ruscifolia",
   "authorship": "R.Br.",
-  "genus_name": "Alyxia",
-  "family_name": "Apocynaceae",
+  "parent_name": "Alyxia",
   "gbif_id": "7317370",
   "powo_id": "76782-1",
   "iucn_id": null,

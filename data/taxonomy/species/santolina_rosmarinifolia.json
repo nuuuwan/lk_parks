@@ -1,8 +1,7 @@
 {
   "name": "Santolina rosmarinifolia",
   "authorship": "L.",
-  "genus_name": "Santolina",
-  "family_name": "Asteraceae",
+  "parent_name": "Santolina",
   "gbif_id": "3125944",
   "powo_id": "241995-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Lonicera hildebrandtiana",
   "authorship": "Collett & Hemsl.",
-  "genus_name": "Lonicera",
-  "family_name": "Caprifoliaceae",
+  "parent_name": "Lonicera",
   "gbif_id": "5599210",
   "powo_id": "148823-1",
   "iucn_id": null,

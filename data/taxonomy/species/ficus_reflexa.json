@@ -1,8 +1,7 @@
 {
   "name": "Ficus reflexa",
   "authorship": "Thunb.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "8385498",
   "powo_id": "853557-1",
   "iucn_id": "63085",

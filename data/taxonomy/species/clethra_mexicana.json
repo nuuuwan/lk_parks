@@ -1,8 +1,7 @@
 {
   "name": "Clethra mexicana",
   "authorship": "DC.",
-  "genus_name": "Clethra",
-  "family_name": "Clethraceae",
+  "parent_name": "Clethra",
   "gbif_id": "3718266",
   "powo_id": "327610-1",
   "iucn_id": "126414515",

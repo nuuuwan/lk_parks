@@ -1,8 +1,7 @@
 {
   "name": "Hymenandra stenophylla",
   "authorship": "(Donn.Sm.) Pipoly & Ricketson",
-  "genus_name": "Hymenandra",
-  "family_name": "Primulaceae",
+  "parent_name": "Hymenandra",
   "gbif_id": "3722237",
   "powo_id": "1012303-1",
   "iucn_id": "151216122",

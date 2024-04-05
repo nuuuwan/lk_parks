@@ -1,8 +1,7 @@
 {
   "name": "Passiflora tenuifila",
   "authorship": "Killip",
-  "genus_name": "Passiflora",
-  "family_name": "Passifloraceae",
+  "parent_name": "Passiflora",
   "gbif_id": "3587686",
   "powo_id": "185205-2",
   "iucn_id": null,

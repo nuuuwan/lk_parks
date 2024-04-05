@@ -1,8 +1,7 @@
 {
   "name": "Rhododendron veitchianum",
   "authorship": "Hook.",
-  "genus_name": "Rhododendron",
-  "family_name": "Ericaceae",
+  "parent_name": "Rhododendron",
   "gbif_id": "4174642",
   "powo_id": "333544-1",
   "iucn_id": null,

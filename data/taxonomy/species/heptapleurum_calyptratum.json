@@ -1,8 +1,7 @@
 {
   "name": "Heptapleurum calyptratum",
   "authorship": "(Hook.f. & Thomson) Y.F.Deng",
-  "genus_name": "Heptapleurum",
-  "family_name": "Araliaceae",
+  "parent_name": "Heptapleurum",
   "gbif_id": "10931636",
   "powo_id": "77196875-1",
   "iucn_id": null,

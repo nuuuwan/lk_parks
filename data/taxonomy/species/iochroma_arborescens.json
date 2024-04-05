@@ -1,8 +1,7 @@
 {
   "name": "Iochroma arborescens",
   "authorship": "(L.) J.M.H.Shaw",
-  "genus_name": "Iochroma",
-  "family_name": "Solanaceae",
+  "parent_name": "Iochroma",
   "gbif_id": "10209961",
   "powo_id": "77186334-1",
   "iucn_id": null,

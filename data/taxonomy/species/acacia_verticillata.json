@@ -1,8 +1,7 @@
 {
   "name": "Acacia verticillata",
   "authorship": "(L'H\u00e9r.) Willd.",
-  "genus_name": "Acacia",
-  "family_name": "Fabaceae",
+  "parent_name": "Acacia",
   "gbif_id": "2979292",
   "powo_id": "471751-1",
   "iucn_id": "200144325",

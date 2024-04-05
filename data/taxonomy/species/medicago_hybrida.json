@@ -1,8 +1,7 @@
 {
   "name": "Medicago hybrida",
   "authorship": "(Pourr.) Trautv.",
-  "genus_name": "Medicago",
-  "family_name": "Fabaceae",
+  "parent_name": "Medicago",
   "gbif_id": "2965316",
   "powo_id": "506223-1",
   "iucn_id": null,

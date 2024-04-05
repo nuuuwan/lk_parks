@@ -1,8 +1,7 @@
 {
   "name": "Fontanesia philliraeoides",
   "authorship": "Labill.",
-  "genus_name": "Fontanesia",
-  "family_name": "Oleaceae",
+  "parent_name": "Fontanesia",
   "gbif_id": "7344906",
   "powo_id": "608844-1",
   "iucn_id": null,

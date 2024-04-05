@@ -1,8 +1,7 @@
 {
   "name": "Viburnum prunifolium",
   "authorship": "L.",
-  "genus_name": "Viburnum",
-  "family_name": "Viburnaceae",
+  "parent_name": "Viburnum",
   "gbif_id": "2888608",
   "powo_id": "326270-2",
   "iucn_id": "88331553",

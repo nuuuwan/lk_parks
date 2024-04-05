@@ -1,8 +1,7 @@
 {
   "name": "Fernandoa adenophylla",
   "authorship": "(Wall. ex G.Don) Steenis",
-  "genus_name": "Fernandoa",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Fernandoa",
   "gbif_id": "4093859",
   "powo_id": "109624-1",
   "iucn_id": null,

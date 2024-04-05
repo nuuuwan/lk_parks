@@ -1,8 +1,7 @@
 {
   "name": "Echium stenosiphon",
   "authorship": "Webb",
-  "genus_name": "Echium",
-  "family_name": "Boraginaceae",
+  "parent_name": "Echium",
   "gbif_id": "7295558",
   "powo_id": "115904-1",
   "iucn_id": "107425945",

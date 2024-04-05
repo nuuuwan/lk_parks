@@ -1,8 +1,7 @@
 {
   "name": "Blighia sapida",
   "authorship": "K.D.Koenig",
-  "genus_name": "Blighia",
-  "family_name": "Sapindaceae",
+  "parent_name": "Blighia",
   "gbif_id": "3189955",
   "powo_id": "782152-1",
   "iucn_id": "146420481",

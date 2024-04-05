@@ -1,8 +1,7 @@
 {
   "name": "Acacia mearnsii",
   "authorship": "De Wild.",
-  "genus_name": "Acacia",
-  "family_name": "Fabaceae",
+  "parent_name": "Acacia",
   "gbif_id": "2979775",
   "powo_id": "470860-1",
   "iucn_id": null,

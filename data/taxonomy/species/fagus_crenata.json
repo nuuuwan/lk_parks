@@ -1,8 +1,7 @@
 {
   "name": "Fagus crenata",
   "authorship": "Blume",
-  "genus_name": "Fagus",
-  "family_name": "Fagaceae",
+  "parent_name": "Fagus",
   "gbif_id": "2882300",
   "powo_id": "295581-1",
   "iucn_id": "138593394",

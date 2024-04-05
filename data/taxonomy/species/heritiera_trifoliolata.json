@@ -1,8 +1,7 @@
 {
   "name": "Heritiera trifoliolata",
   "authorship": "(F.Muell.) Kosterm.",
-  "genus_name": "Heritiera",
-  "family_name": "Malvaceae",
+  "parent_name": "Heritiera",
   "gbif_id": "8399629",
   "powo_id": "823594-1",
   "iucn_id": "135888936",

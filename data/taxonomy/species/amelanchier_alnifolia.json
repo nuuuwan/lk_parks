@@ -1,8 +1,7 @@
 {
   "name": "Amelanchier alnifolia",
   "authorship": "(Nutt.) Nutt. ex M.Roem.",
-  "genus_name": "Amelanchier",
-  "family_name": "Rosaceae",
+  "parent_name": "Amelanchier",
   "gbif_id": "3023905",
   "powo_id": "721172-1",
   "iucn_id": "135957919",

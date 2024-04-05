@@ -1,8 +1,7 @@
 {
   "name": "Beaucarnea pliabilis",
   "authorship": "(Baker) Rose",
-  "genus_name": "Beaucarnea",
-  "family_name": "Asparagaceae",
+  "parent_name": "Beaucarnea",
   "gbif_id": "2768042",
   "powo_id": "30277-2",
   "iucn_id": "162240408",

@@ -1,8 +1,7 @@
 {
   "name": "Elleanthus capitatus",
   "authorship": "(Poepp. & Endl.) Rchb.f.",
-  "genus_name": "Elleanthus",
-  "family_name": "Orchidaceae",
+  "parent_name": "Elleanthus",
   "gbif_id": "2839376",
   "powo_id": "630717-1",
   "iucn_id": null,

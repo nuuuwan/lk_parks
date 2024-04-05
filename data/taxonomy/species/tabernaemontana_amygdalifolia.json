@@ -1,8 +1,7 @@
 {
   "name": "Tabernaemontana amygdalifolia",
   "authorship": "Jacq.",
-  "genus_name": "Tabernaemontana",
-  "family_name": "Apocynaceae",
+  "parent_name": "Tabernaemontana",
   "gbif_id": "3169631",
   "powo_id": "81996-1",
   "iucn_id": "135866221",

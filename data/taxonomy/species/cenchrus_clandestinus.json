@@ -1,8 +1,7 @@
 {
   "name": "Cenchrus clandestinus",
   "authorship": "(Hochst. ex Chiov.) Morrone",
-  "genus_name": "Cenchrus",
-  "family_name": "Poaceae",
+  "parent_name": "Cenchrus",
   "gbif_id": "5828201",
   "powo_id": "77105989-1",
   "iucn_id": "13490715",

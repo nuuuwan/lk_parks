@@ -1,8 +1,7 @@
 {
   "name": "Cissus erosa",
   "authorship": "Rich.",
-  "genus_name": "Cissus",
-  "family_name": "Vitaceae",
+  "parent_name": "Cissus",
   "gbif_id": "3039162",
   "powo_id": "67646-1",
   "iucn_id": null,

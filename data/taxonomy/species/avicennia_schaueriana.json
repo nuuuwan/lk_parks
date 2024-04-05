@@ -1,8 +1,7 @@
 {
   "name": "Avicennia schaueriana",
   "authorship": "Stapf & Leechm. ex Moldenke",
-  "genus_name": "Avicennia",
-  "family_name": "Acanthaceae",
+  "parent_name": "Avicennia",
   "gbif_id": "6413455",
   "powo_id": "27238-2",
   "iucn_id": "178823",

@@ -1,8 +1,7 @@
 {
   "name": "Brachypodium distachyon",
   "authorship": "(L.) P.Beauv.",
-  "genus_name": "Brachypodium",
-  "family_name": "Poaceae",
+  "parent_name": "Brachypodium",
   "gbif_id": "5290143",
   "powo_id": "393098-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Camonea umbellata",
   "authorship": "(L.) A.R.Sim\u00f5es & Staples",
-  "genus_name": "Camonea",
-  "family_name": "Convolvulaceae",
+  "parent_name": "Camonea",
   "gbif_id": "9452352",
   "powo_id": "77163301-1",
   "iucn_id": null,

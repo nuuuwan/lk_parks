@@ -1,8 +1,7 @@
 {
   "name": "Andira inermis",
   "authorship": "(W.Wright) DC.",
-  "genus_name": "Andira",
-  "family_name": "Fabaceae",
+  "parent_name": "Andira",
   "gbif_id": "2952214",
   "powo_id": "1075415-2",
   "iucn_id": "60761659",

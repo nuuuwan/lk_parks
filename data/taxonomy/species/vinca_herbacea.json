@@ -1,8 +1,7 @@
 {
   "name": "Vinca herbacea",
   "authorship": "Waldst. & Kit.",
-  "genus_name": "Vinca",
-  "family_name": "Apocynaceae",
+  "parent_name": "Vinca",
   "gbif_id": "3169710",
   "powo_id": "82691-1",
   "iucn_id": null,

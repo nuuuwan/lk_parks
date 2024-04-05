@@ -1,8 +1,7 @@
 {
   "name": "Bocquillonia sessiliflora",
   "authorship": "Baill.",
-  "genus_name": "Bocquillonia",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Bocquillonia",
   "gbif_id": "3057412",
   "powo_id": "339986-1",
   "iucn_id": "156418110",

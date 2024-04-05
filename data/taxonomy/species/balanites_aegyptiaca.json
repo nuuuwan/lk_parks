@@ -1,8 +1,7 @@
 {
   "name": "Balanites aegyptiaca",
   "authorship": "(L.) Delile",
-  "genus_name": "Balanites",
-  "family_name": "Zygophyllaceae",
+  "parent_name": "Balanites",
   "gbif_id": "5421115",
   "powo_id": "813589-1",
   "iucn_id": "19182478",

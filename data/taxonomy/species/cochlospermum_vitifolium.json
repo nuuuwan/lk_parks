@@ -1,8 +1,7 @@
 {
   "name": "Cochlospermum vitifolium",
   "authorship": "(Willd.) Spreng.",
-  "genus_name": "Cochlospermum",
-  "family_name": "Bixaceae",
+  "parent_name": "Cochlospermum",
   "gbif_id": "2874865",
   "powo_id": "111539-1",
   "iucn_id": "126106703",

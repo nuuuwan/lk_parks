@@ -1,8 +1,7 @@
 {
   "name": "Nothofagus dombeyi",
   "authorship": "(Mirb.) Oerst.",
-  "genus_name": "Nothofagus",
-  "family_name": "Nothofagaceae",
+  "parent_name": "Nothofagus",
   "gbif_id": "2874895",
   "powo_id": "359083-1",
   "iucn_id": "34852",

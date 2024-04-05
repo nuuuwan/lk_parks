@@ -1,8 +1,7 @@
 {
   "name": "Sideroxylon grandiflorum",
   "authorship": "A.DC.",
-  "genus_name": "Sideroxylon",
-  "family_name": "Sapotaceae",
+  "parent_name": "Sideroxylon",
   "gbif_id": "2887061",
   "powo_id": "789673-1",
   "iucn_id": null,

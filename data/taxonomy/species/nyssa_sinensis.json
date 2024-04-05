@@ -1,8 +1,7 @@
 {
   "name": "Nyssa sinensis",
   "authorship": "Oliv.",
-  "genus_name": "Nyssa",
-  "family_name": "Nyssaceae",
+  "parent_name": "Nyssa",
   "gbif_id": "7322071",
   "powo_id": "271952-1",
   "iucn_id": null,

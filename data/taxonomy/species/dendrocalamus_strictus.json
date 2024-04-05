@@ -1,8 +1,7 @@
 {
   "name": "Dendrocalamus strictus",
   "authorship": "(Roxb.) Nees",
-  "genus_name": "Dendrocalamus",
-  "family_name": "Poaceae",
+  "parent_name": "Dendrocalamus",
   "gbif_id": "2703316",
   "powo_id": "397912-1",
   "iucn_id": null,

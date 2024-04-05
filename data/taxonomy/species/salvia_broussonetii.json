@@ -1,8 +1,7 @@
 {
   "name": "Salvia broussonetii",
   "authorship": "Benth.",
-  "genus_name": "Salvia",
-  "family_name": "Lamiaceae",
+  "parent_name": "Salvia",
   "gbif_id": "3883093",
   "powo_id": "455826-1",
   "iucn_id": null,

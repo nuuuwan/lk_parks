@@ -1,8 +1,7 @@
 {
   "name": "Terminalia australis",
   "authorship": "Cambess.",
-  "genus_name": "Terminalia",
-  "family_name": "Combretaceae",
+  "parent_name": "Terminalia",
   "gbif_id": "3699475",
   "powo_id": "170968-1",
   "iucn_id": "163033838",

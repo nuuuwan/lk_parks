@@ -1,8 +1,7 @@
 {
   "name": "Virola sebifera",
   "authorship": "Aubl.",
-  "genus_name": "Virola",
-  "family_name": "Myristicaceae",
+  "parent_name": "Virola",
   "gbif_id": "3152846",
   "powo_id": "267199-2",
   "iucn_id": "61905556",

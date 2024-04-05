@@ -1,8 +1,7 @@
 {
   "name": "Limnophyton obtusifolium",
   "authorship": "(L.) Miq.",
-  "genus_name": "Limnophyton",
-  "family_name": "Alismataceae",
+  "parent_name": "Limnophyton",
   "gbif_id": "2865247",
   "powo_id": "58415-1",
   "iucn_id": "168929",

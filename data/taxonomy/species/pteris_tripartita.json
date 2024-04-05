@@ -1,8 +1,7 @@
 {
   "name": "Pteris tripartita",
   "authorship": "Sw.",
-  "genus_name": "Pteris",
-  "family_name": "Pteridaceae",
+  "parent_name": "Pteris",
   "gbif_id": "5275407",
   "powo_id": "17217170-1",
   "iucn_id": null,

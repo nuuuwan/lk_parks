@@ -1,8 +1,7 @@
 {
   "name": "Roseodendron chryseum",
   "authorship": "(S.F.Blake) Miranda",
-  "genus_name": "Roseodendron",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Roseodendron",
   "gbif_id": "4091640",
   "powo_id": "222517-2",
   "iucn_id": "61986180",

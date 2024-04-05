@@ -1,8 +1,7 @@
 {
   "name": "Glyptostrobus pensilis",
   "authorship": "(D.Don) K.Koch",
-  "genus_name": "Glyptostrobus",
-  "family_name": "Cupressaceae",
+  "parent_name": "Glyptostrobus",
   "gbif_id": "2684155",
   "powo_id": "262131-1",
   "iucn_id": "32312",

@@ -1,8 +1,7 @@
 {
   "name": "Asimina parviflora",
   "authorship": "(Michx.) Dunal",
-  "genus_name": "Asimina",
-  "family_name": "Annonaceae",
+  "parent_name": "Asimina",
   "gbif_id": "3158051",
   "powo_id": "72510-1",
   "iucn_id": "143321751",

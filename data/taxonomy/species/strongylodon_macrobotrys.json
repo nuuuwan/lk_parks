@@ -1,8 +1,7 @@
 {
   "name": "Strongylodon macrobotrys",
   "authorship": "A.Gray",
-  "genus_name": "Strongylodon",
-  "family_name": "Fabaceae",
+  "parent_name": "Strongylodon",
   "gbif_id": "2981499",
   "powo_id": "519595-1",
   "iucn_id": null,

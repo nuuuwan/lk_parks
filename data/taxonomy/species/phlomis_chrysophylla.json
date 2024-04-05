@@ -1,8 +1,7 @@
 {
   "name": "Phlomis chrysophylla",
   "authorship": "Boiss.",
-  "genus_name": "Phlomis",
-  "family_name": "Lamiaceae",
+  "parent_name": "Phlomis",
   "gbif_id": "3888314",
   "powo_id": "453848-1",
   "iucn_id": null,

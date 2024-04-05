@@ -1,8 +1,7 @@
 {
   "name": "Senegalia catechu",
   "authorship": "(L.f.) P.J.H.Hurter & Mabb.",
-  "genus_name": "Senegalia",
-  "family_name": "Fabaceae",
+  "parent_name": "Senegalia",
   "gbif_id": "3796190",
   "powo_id": "77089268-1",
   "iucn_id": "169300001",

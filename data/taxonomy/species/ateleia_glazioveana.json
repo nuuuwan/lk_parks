@@ -1,8 +1,7 @@
 {
   "name": "Ateleia glazioveana",
   "authorship": "Baill.",
-  "genus_name": "Ateleia",
-  "family_name": "Fabaceae",
+  "parent_name": "Ateleia",
   "gbif_id": "5361709",
   "powo_id": "480643-1",
   "iucn_id": null,

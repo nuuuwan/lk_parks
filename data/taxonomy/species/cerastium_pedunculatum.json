@@ -1,8 +1,7 @@
 {
   "name": "Cerastium pedunculatum",
   "authorship": "Gaudin",
-  "genus_name": "Cerastium",
-  "family_name": "Caryophyllaceae",
+  "parent_name": "Cerastium",
   "gbif_id": "8293072",
   "powo_id": "152504-1",
   "iucn_id": null,

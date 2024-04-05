@@ -1,8 +1,7 @@
 {
   "name": "Cyrtopodium punctatum",
   "authorship": "(L.) Lindl.",
-  "genus_name": "Cyrtopodium",
-  "family_name": "Orchidaceae",
+  "parent_name": "Cyrtopodium",
   "gbif_id": "5319612",
   "powo_id": "1147853-2",
   "iucn_id": null,

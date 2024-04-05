@@ -1,8 +1,7 @@
 {
   "name": "Hypericum canariense",
   "authorship": "L.",
-  "genus_name": "Hypericum",
-  "family_name": "Hypericaceae",
+  "parent_name": "Hypericum",
   "gbif_id": "3189481",
   "powo_id": "433294-1",
   "iucn_id": "83764446",

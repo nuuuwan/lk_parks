@@ -1,8 +1,7 @@
 {
   "name": "Cussonia natalensis",
   "authorship": "Sond.",
-  "genus_name": "Cussonia",
-  "family_name": "Araliaceae",
+  "parent_name": "Cussonia",
   "gbif_id": "3035224",
   "powo_id": "90174-1",
   "iucn_id": "149512122",

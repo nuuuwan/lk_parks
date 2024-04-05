@@ -1,8 +1,7 @@
 {
   "name": "Benincasa hispida",
   "authorship": "(Thunb.) Cogn.",
-  "genus_name": "Benincasa",
-  "family_name": "Cucurbitaceae",
+  "parent_name": "Benincasa",
   "gbif_id": "2874524",
   "powo_id": "163640-3",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Tuberaria globulariifolia",
   "authorship": "(Lam.) Willk.",
-  "genus_name": "Tuberaria",
-  "family_name": "Cistaceae",
+  "parent_name": "Tuberaria",
   "gbif_id": "3595738",
   "powo_id": "169406-1",
   "iucn_id": null,

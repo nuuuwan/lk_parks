@@ -1,8 +1,7 @@
 {
   "name": "Pterospermum acerifolium",
   "authorship": "(L.) Willd.",
-  "genus_name": "Pterospermum",
-  "family_name": "Malvaceae",
+  "parent_name": "Pterospermum",
   "gbif_id": "3669210",
   "powo_id": "824743-1",
   "iucn_id": "61786850",

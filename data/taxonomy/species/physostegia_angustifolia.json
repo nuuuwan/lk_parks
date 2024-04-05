@@ -1,8 +1,7 @@
 {
   "name": "Physostegia angustifolia",
   "authorship": "Fernald",
-  "genus_name": "Physostegia",
-  "family_name": "Lamiaceae",
+  "parent_name": "Physostegia",
   "gbif_id": "2926580",
   "powo_id": "195659-2",
   "iucn_id": null,

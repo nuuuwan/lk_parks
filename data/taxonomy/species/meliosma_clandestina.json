@@ -1,8 +1,7 @@
 {
   "name": "Meliosma clandestina",
   "authorship": "J.F.Morales",
-  "genus_name": "Meliosma",
-  "family_name": "Sabiaceae",
+  "parent_name": "Meliosma",
   "gbif_id": "3838609",
   "powo_id": "328859-2",
   "iucn_id": "149461045",

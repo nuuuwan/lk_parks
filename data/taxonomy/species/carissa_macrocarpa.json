@@ -1,8 +1,7 @@
 {
   "name": "Carissa macrocarpa",
   "authorship": "(Eckl.) A.DC.",
-  "genus_name": "Carissa",
-  "family_name": "Apocynaceae",
+  "parent_name": "Carissa",
   "gbif_id": "5414420",
   "powo_id": "77727-1",
   "iucn_id": "149504239",

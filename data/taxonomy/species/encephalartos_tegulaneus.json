@@ -1,8 +1,7 @@
 {
   "name": "Encephalartos tegulaneus",
   "authorship": "Melville",
-  "genus_name": "Encephalartos",
-  "family_name": "Zamiaceae",
+  "parent_name": "Encephalartos",
   "gbif_id": "2683750",
   "powo_id": "871784-1",
   "iucn_id": "41911",

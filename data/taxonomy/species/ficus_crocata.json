@@ -1,8 +1,7 @@
 {
   "name": "Ficus crocata",
   "authorship": "(Miq.) Mart. ex Miq.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5569828",
   "powo_id": "852689-1",
   "iucn_id": "135833702",

@@ -1,8 +1,7 @@
 {
   "name": "Sauromatum venosum",
   "authorship": "(Dryand. ex Aiton) Kunth",
-  "genus_name": "Sauromatum",
-  "family_name": "Araceae",
+  "parent_name": "Sauromatum",
   "gbif_id": "2869597",
   "powo_id": "88690-1",
   "iucn_id": "44393221",

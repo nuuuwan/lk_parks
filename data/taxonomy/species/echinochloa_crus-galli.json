@@ -1,8 +1,7 @@
 {
   "name": "Echinochloa crus-galli",
   "authorship": "(L.) P.Beauv.",
-  "genus_name": "Echinochloa",
-  "family_name": "Poaceae",
+  "parent_name": "Echinochloa",
   "gbif_id": "2702808",
   "powo_id": "399660-1",
   "iucn_id": "169069",

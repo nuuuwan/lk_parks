@@ -1,8 +1,7 @@
 {
   "name": "Coccoloba striata",
   "authorship": "Benth.",
-  "genus_name": "Coccoloba",
-  "family_name": "Polygonaceae",
+  "parent_name": "Coccoloba",
   "gbif_id": "4035257",
   "powo_id": "693894-1",
   "iucn_id": "145685996",

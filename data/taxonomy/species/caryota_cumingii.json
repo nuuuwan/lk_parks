@@ -1,8 +1,7 @@
 {
   "name": "Caryota cumingii",
   "authorship": "Lodd. ex Mart.",
-  "genus_name": "Caryota",
-  "family_name": "Arecaceae",
+  "parent_name": "Caryota",
   "gbif_id": "2738920",
   "powo_id": "665602-1",
   "iucn_id": "153519465",

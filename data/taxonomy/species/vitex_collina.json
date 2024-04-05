@@ -1,8 +1,7 @@
 {
   "name": "Vitex collina",
   "authorship": "(Montrouz.) Beauvis.",
-  "genus_name": "Vitex",
-  "family_name": "Lamiaceae",
+  "parent_name": "Vitex",
   "gbif_id": "3881495",
   "powo_id": "865660-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Machilus sericea",
   "authorship": "(Nees) Blume",
-  "genus_name": "Machilus",
-  "family_name": "Lauraceae",
+  "parent_name": "Machilus",
   "gbif_id": "4177992",
   "powo_id": "466262-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Acropogon mesophilus",
   "authorship": "Munzinger & G\u00e2tebl\u00e9",
-  "genus_name": "Acropogon",
-  "family_name": "Malvaceae",
+  "parent_name": "Acropogon",
   "gbif_id": "9469179",
   "powo_id": "77163073-1",
   "iucn_id": "178658010",

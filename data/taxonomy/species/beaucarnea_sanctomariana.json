@@ -1,8 +1,7 @@
 {
   "name": "Beaucarnea sanctomariana",
   "authorship": "L.Hern.",
-  "genus_name": "Beaucarnea",
-  "family_name": "Asparagaceae",
+  "parent_name": "Beaucarnea",
   "gbif_id": "2768018",
   "powo_id": "321067-2",
   "iucn_id": "136808308",

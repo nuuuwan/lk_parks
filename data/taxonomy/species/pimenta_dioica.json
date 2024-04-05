@@ -1,8 +1,7 @@
 {
   "name": "Pimenta dioica",
   "authorship": "(L.) Merr.",
-  "genus_name": "Pimenta",
-  "family_name": "Myrtaceae",
+  "parent_name": "Pimenta",
   "gbif_id": "3186061",
   "powo_id": "196799-2",
   "iucn_id": "103121329",

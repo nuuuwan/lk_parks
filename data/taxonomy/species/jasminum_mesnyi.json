@@ -1,8 +1,7 @@
 {
   "name": "Jasminum mesnyi",
   "authorship": "Hance",
-  "genus_name": "Jasminum",
-  "family_name": "Oleaceae",
+  "parent_name": "Jasminum",
   "gbif_id": "3172272",
   "powo_id": "609624-1",
   "iucn_id": null,

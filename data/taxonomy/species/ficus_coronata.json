@@ -1,8 +1,7 @@
 {
   "name": "Ficus coronata",
   "authorship": "Spin",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "8378551",
   "powo_id": "583382-1",
   "iucn_id": "179866186",

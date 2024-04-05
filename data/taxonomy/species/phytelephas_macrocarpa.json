@@ -1,8 +1,7 @@
 {
   "name": "Phytelephas macrocarpa",
   "authorship": "Ruiz & Pav.",
-  "genus_name": "Phytelephas",
-  "family_name": "Arecaceae",
+  "parent_name": "Phytelephas",
   "gbif_id": "2736300",
   "powo_id": "668996-1",
   "iucn_id": "67556255",

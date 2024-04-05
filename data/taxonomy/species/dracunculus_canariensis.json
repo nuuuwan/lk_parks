@@ -1,8 +1,7 @@
 {
   "name": "Dracunculus canariensis",
   "authorship": "Kunth",
-  "genus_name": "Dracunculus",
-  "family_name": "Araceae",
+  "parent_name": "Dracunculus",
   "gbif_id": "5330012",
   "powo_id": "86970-1",
   "iucn_id": null,

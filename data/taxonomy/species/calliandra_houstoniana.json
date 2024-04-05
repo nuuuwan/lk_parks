@@ -1,8 +1,7 @@
 {
   "name": "Calliandra houstoniana",
   "authorship": "(Mill.) Standl.",
-  "genus_name": "Calliandra",
-  "family_name": "Fabaceae",
+  "parent_name": "Calliandra",
   "gbif_id": "2982067",
   "powo_id": "42191-2",
   "iucn_id": "130103720",

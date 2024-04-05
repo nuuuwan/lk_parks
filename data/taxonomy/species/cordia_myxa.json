@@ -1,8 +1,7 @@
 {
   "name": "Cordia myxa",
   "authorship": "L.",
-  "genus_name": "Cordia",
-  "family_name": "Boraginaceae",
+  "parent_name": "Cordia",
   "gbif_id": "5341290",
   "powo_id": "114380-1",
   "iucn_id": "137733199",

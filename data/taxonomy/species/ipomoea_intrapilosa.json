@@ -1,8 +1,7 @@
 {
   "name": "Ipomoea intrapilosa",
   "authorship": "Rose",
-  "genus_name": "Ipomoea",
-  "family_name": "Convolvulaceae",
+  "parent_name": "Ipomoea",
   "gbif_id": "3676861",
   "powo_id": "129407-2",
   "iucn_id": "126300407",

@@ -1,8 +1,7 @@
 {
   "name": "Nothofagus betuloides",
   "authorship": "(Mirb.) Oerst.",
-  "genus_name": "Nothofagus",
-  "family_name": "Nothofagaceae",
+  "parent_name": "Nothofagus",
   "gbif_id": "2874949",
   "powo_id": "359071-1",
   "iucn_id": "96477315",

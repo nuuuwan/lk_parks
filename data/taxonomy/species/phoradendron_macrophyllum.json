@@ -1,8 +1,7 @@
 {
   "name": "Phoradendron macrophyllum",
   "authorship": "(Engelm.) Cockerell",
-  "genus_name": "Phoradendron",
-  "family_name": "Santalaceae",
+  "parent_name": "Phoradendron",
   "gbif_id": "2889914",
   "powo_id": "194130-2",
   "iucn_id": null,

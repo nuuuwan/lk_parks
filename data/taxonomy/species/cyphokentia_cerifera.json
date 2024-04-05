@@ -1,8 +1,7 @@
 {
   "name": "Cyphokentia cerifera",
   "authorship": "(H.E.Moore) Pintaud & W.J.Baker",
-  "genus_name": "Cyphokentia",
-  "family_name": "Arecaceae",
+  "parent_name": "Cyphokentia",
   "gbif_id": "2739211",
   "powo_id": "77090322-1",
   "iucn_id": "38612",

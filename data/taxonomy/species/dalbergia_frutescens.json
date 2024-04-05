@@ -1,8 +1,7 @@
 {
   "name": "Dalbergia frutescens",
   "authorship": "(Vell.) Britton",
-  "genus_name": "Dalbergia",
-  "family_name": "Fabaceae",
+  "parent_name": "Dalbergia",
   "gbif_id": "2968824",
   "powo_id": "75939-2",
   "iucn_id": "62022507",

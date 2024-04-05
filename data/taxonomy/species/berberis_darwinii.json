@@ -1,8 +1,7 @@
 {
   "name": "Berberis darwinii",
   "authorship": "Hook.",
-  "genus_name": "Berberis",
-  "family_name": "Berberidaceae",
+  "parent_name": "Berberis",
   "gbif_id": "3033905",
   "powo_id": "273235-2",
   "iucn_id": null,

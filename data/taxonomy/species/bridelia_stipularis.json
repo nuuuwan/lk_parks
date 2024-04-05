@@ -1,8 +1,7 @@
 {
   "name": "Bridelia stipularis",
   "authorship": "(L.) Blume",
-  "genus_name": "Bridelia",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Bridelia",
   "gbif_id": "3076290",
   "powo_id": "340241-1",
   "iucn_id": "149653493",

@@ -1,8 +1,7 @@
 {
   "name": "Hygrophila polysperma",
   "authorship": "(Roxb.) T.Anderson",
-  "genus_name": "Hygrophila",
-  "family_name": "Acanthaceae",
+  "parent_name": "Hygrophila",
   "gbif_id": "5415355",
   "powo_id": "49756-1",
   "iucn_id": "168988",

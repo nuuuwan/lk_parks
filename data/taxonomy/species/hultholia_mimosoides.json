@@ -1,8 +1,7 @@
 {
   "name": "Hultholia mimosoides",
   "authorship": "(Lam.) Gagnon & G.P.Lewis",
-  "genus_name": "Hultholia",
-  "family_name": "Fabaceae",
+  "parent_name": "Hultholia",
   "gbif_id": "9362258",
   "powo_id": "77158068-1",
   "iucn_id": null,

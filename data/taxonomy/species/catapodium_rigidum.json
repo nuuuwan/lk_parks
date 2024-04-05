@@ -1,8 +1,7 @@
 {
   "name": "Catapodium rigidum",
   "authorship": "(L.) C.E.Hubb.",
-  "genus_name": "Catapodium",
-  "family_name": "Poaceae",
+  "parent_name": "Catapodium",
   "gbif_id": "2705228",
   "powo_id": "395167-1",
   "iucn_id": null,

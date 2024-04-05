@@ -1,8 +1,7 @@
 {
   "name": "Fraxinus griffithii",
   "authorship": "C.B.Clarke",
-  "genus_name": "Fraxinus",
-  "family_name": "Oleaceae",
+  "parent_name": "Fraxinus",
   "gbif_id": "6433113",
   "powo_id": "609034-1",
   "iucn_id": "96443960",

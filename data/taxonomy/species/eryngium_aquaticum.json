@@ -1,8 +1,7 @@
 {
   "name": "Eryngium aquaticum",
   "authorship": "L.",
-  "genus_name": "Eryngium",
-  "family_name": "Apiaceae",
+  "parent_name": "Eryngium",
   "gbif_id": "3034418",
   "powo_id": "841652-1",
   "iucn_id": null,

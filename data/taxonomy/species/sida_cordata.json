@@ -1,8 +1,7 @@
 {
   "name": "Sida cordata",
   "authorship": "(Burm.f.) Borss.Waalk.",
-  "genus_name": "Sida",
-  "family_name": "Malvaceae",
+  "parent_name": "Sida",
   "gbif_id": "5406739",
   "powo_id": "563597-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Diospyros kaki",
   "authorship": "L.f.",
-  "genus_name": "Diospyros",
-  "family_name": "Ebenaceae",
+  "parent_name": "Diospyros",
   "gbif_id": "3032984",
   "powo_id": "322553-1",
   "iucn_id": "173538",

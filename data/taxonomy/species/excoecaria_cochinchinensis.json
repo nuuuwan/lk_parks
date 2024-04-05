@@ -1,8 +1,7 @@
 {
   "name": "Excoecaria cochinchinensis",
   "authorship": "Lour.",
-  "genus_name": "Excoecaria",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Excoecaria",
   "gbif_id": "3071716",
   "powo_id": "348839-1",
   "iucn_id": "136140927",

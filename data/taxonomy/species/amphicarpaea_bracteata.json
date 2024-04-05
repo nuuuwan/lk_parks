@@ -1,8 +1,7 @@
 {
   "name": "Amphicarpaea bracteata",
   "authorship": "(L.) Fernald",
-  "genus_name": "Amphicarpaea",
-  "family_name": "Fabaceae",
+  "parent_name": "Amphicarpaea",
   "gbif_id": "2960161",
   "powo_id": "11520-2",
   "iucn_id": null,

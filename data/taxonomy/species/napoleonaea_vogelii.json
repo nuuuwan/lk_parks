@@ -1,8 +1,7 @@
 {
   "name": "Napoleonaea vogelii",
   "authorship": "Hook. & Planch.",
-  "genus_name": "Napoleonaea",
-  "family_name": "Lecythidaceae",
+  "parent_name": "Napoleonaea",
   "gbif_id": "3083469",
   "powo_id": "600389-1",
   "iucn_id": "136101418",

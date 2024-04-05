@@ -1,8 +1,7 @@
 {
   "name": "Elsholtzia pilosa",
   "authorship": "(Benth.) Benth.",
-  "genus_name": "Elsholtzia",
-  "family_name": "Lamiaceae",
+  "parent_name": "Elsholtzia",
   "gbif_id": "3900245",
   "powo_id": "446683-1",
   "iucn_id": null,

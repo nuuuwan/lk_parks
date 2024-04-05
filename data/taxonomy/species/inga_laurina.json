@@ -1,8 +1,7 @@
 {
   "name": "Inga laurina",
   "authorship": "(Sw.) Willd.",
-  "genus_name": "Inga",
-  "family_name": "Fabaceae",
+  "parent_name": "Inga",
   "gbif_id": "5358039",
   "powo_id": "1199545-2",
   "iucn_id": "136789974",

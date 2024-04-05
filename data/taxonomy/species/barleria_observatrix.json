@@ -1,8 +1,7 @@
 {
   "name": "Barleria observatrix",
   "authorship": "Bosser & Heine",
-  "genus_name": "Barleria",
-  "family_name": "Acanthaceae",
+  "parent_name": "Barleria",
   "gbif_id": "3771647",
   "powo_id": "935657-1",
   "iucn_id": "39454",

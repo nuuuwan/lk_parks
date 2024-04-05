@@ -1,8 +1,7 @@
 {
   "name": "Gagea reticulata",
   "authorship": "(Pall.) Schult. & Schult.f.",
-  "genus_name": "Gagea",
-  "family_name": "Liliaceae",
+  "parent_name": "Gagea",
   "gbif_id": "5300187",
   "powo_id": "535638-1",
   "iucn_id": null,

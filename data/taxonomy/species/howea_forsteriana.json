@@ -1,8 +1,7 @@
 {
   "name": "Howea forsteriana",
   "authorship": "(F.Muell.) Becc.",
-  "genus_name": "Howea",
-  "family_name": "Arecaceae",
+  "parent_name": "Howea",
   "gbif_id": "7857942",
   "powo_id": "667434-1",
   "iucn_id": "38577",

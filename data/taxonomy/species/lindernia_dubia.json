@@ -1,8 +1,7 @@
 {
   "name": "Lindernia dubia",
   "authorship": "(L.) Pennell",
-  "genus_name": "Lindernia",
-  "family_name": "Linderniaceae",
+  "parent_name": "Lindernia",
   "gbif_id": "3171888",
   "powo_id": "140517-2",
   "iucn_id": "64317051",

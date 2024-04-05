@@ -1,8 +1,7 @@
 {
   "name": "Sideroxylon salicifolium",
   "authorship": "(L.) Lam.",
-  "genus_name": "Sideroxylon",
-  "family_name": "Sapotaceae",
+  "parent_name": "Sideroxylon",
   "gbif_id": "2886818",
   "powo_id": "60449494-2",
   "iucn_id": "150102256",

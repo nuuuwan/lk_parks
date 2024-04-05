@@ -1,8 +1,7 @@
 {
   "name": "Aglaonema costatum",
   "authorship": "N.E.Br.",
-  "genus_name": "Aglaonema",
-  "family_name": "Araceae",
+  "parent_name": "Aglaonema",
   "gbif_id": "2866357",
   "powo_id": "84052-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Vicia ervilia",
   "authorship": "(L.) Willd.",
-  "genus_name": "Vicia",
-  "family_name": "Fabaceae",
+  "parent_name": "Vicia",
   "gbif_id": "2974887",
   "powo_id": "524727-1",
   "iucn_id": "180099",

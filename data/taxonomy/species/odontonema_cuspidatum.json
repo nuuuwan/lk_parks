@@ -1,8 +1,7 @@
 {
   "name": "Odontonema cuspidatum",
   "authorship": "(Nees) Kuntze",
-  "genus_name": "Odontonema",
-  "family_name": "Acanthaceae",
+  "parent_name": "Odontonema",
   "gbif_id": "5415341",
   "powo_id": "1210381-2",
   "iucn_id": null,

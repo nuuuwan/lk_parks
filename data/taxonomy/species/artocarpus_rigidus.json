@@ -1,8 +1,7 @@
 {
   "name": "Artocarpus rigidus",
   "authorship": "Blume",
-  "genus_name": "Artocarpus",
-  "family_name": "Moraceae",
+  "parent_name": "Artocarpus",
   "gbif_id": "2984576",
   "powo_id": "850443-1",
   "iucn_id": "61360159",

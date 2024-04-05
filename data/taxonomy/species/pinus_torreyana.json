@@ -1,8 +1,7 @@
 {
   "name": "Pinus torreyana",
   "authorship": "Parry ex Carri\u00e8re",
-  "genus_name": "Pinus",
-  "family_name": "Pinaceae",
+  "parent_name": "Pinus",
   "gbif_id": "5285764",
   "powo_id": "282913-2",
   "iucn_id": "42424",

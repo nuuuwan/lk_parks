@@ -1,8 +1,7 @@
 {
   "name": "Hygrophila costata",
   "authorship": "Nees",
-  "genus_name": "Hygrophila",
-  "family_name": "Acanthaceae",
+  "parent_name": "Hygrophila",
   "gbif_id": "5415348",
   "powo_id": "49672-1",
   "iucn_id": null,

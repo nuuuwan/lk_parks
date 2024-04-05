@@ -1,8 +1,7 @@
 {
   "name": "Searsia longipes",
   "authorship": "(Engl.) Moffett",
-  "genus_name": "Searsia",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Searsia",
   "gbif_id": "7321774",
   "powo_id": "77088456-1",
   "iucn_id": "153943520",

@@ -1,8 +1,7 @@
 {
   "name": "Cichorium endivia",
   "authorship": "L.",
-  "genus_name": "Cichorium",
-  "family_name": "Asteraceae",
+  "parent_name": "Cichorium",
   "gbif_id": "5392243",
   "powo_id": "194527-1",
   "iucn_id": null,

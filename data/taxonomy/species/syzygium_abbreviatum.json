@@ -1,8 +1,7 @@
 {
   "name": "Syzygium abbreviatum",
   "authorship": "Merr.",
-  "genus_name": "Syzygium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syzygium",
   "gbif_id": "3182878",
   "powo_id": "601364-1",
   "iucn_id": "154343117",

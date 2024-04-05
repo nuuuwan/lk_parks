@@ -1,8 +1,7 @@
 {
   "name": "Mercurialis annua",
   "authorship": "L.",
-  "genus_name": "Mercurialis",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Mercurialis",
   "gbif_id": "3062975",
   "powo_id": "352179-1",
   "iucn_id": null,

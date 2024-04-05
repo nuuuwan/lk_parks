@@ -1,8 +1,7 @@
 {
   "name": "Hesperis tristis",
   "authorship": "L.",
-  "genus_name": "Hesperis",
-  "family_name": "Brassicaceae",
+  "parent_name": "Hesperis",
   "gbif_id": "3042221",
   "powo_id": "324659-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Liquidambar formosana",
   "authorship": "Hance",
-  "genus_name": "Liquidambar",
-  "family_name": "Altingiaceae",
+  "parent_name": "Liquidambar",
   "gbif_id": "3702542",
   "powo_id": "430709-1",
   "iucn_id": "61983495",

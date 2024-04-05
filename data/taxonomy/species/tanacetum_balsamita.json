@@ -1,8 +1,7 @@
 {
   "name": "Tanacetum balsamita",
   "authorship": "L.",
-  "genus_name": "Tanacetum",
-  "family_name": "Asteraceae",
+  "parent_name": "Tanacetum",
   "gbif_id": "3118254",
   "powo_id": "249302-2",
   "iucn_id": null,

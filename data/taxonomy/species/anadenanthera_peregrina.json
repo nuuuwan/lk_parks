@@ -1,8 +1,7 @@
 {
   "name": "Anadenanthera peregrina",
   "authorship": "(L.) Speg.",
-  "genus_name": "Anadenanthera",
-  "family_name": "Fabaceae",
+  "parent_name": "Anadenanthera",
   "gbif_id": "2952808",
   "powo_id": "12268-2",
   "iucn_id": "144262459",

@@ -1,8 +1,7 @@
 {
   "name": "Cryptocarya lifuensis",
   "authorship": "Guillaumin",
-  "genus_name": "Cryptocarya",
-  "family_name": "Lauraceae",
+  "parent_name": "Cryptocarya",
   "gbif_id": "4175829",
   "powo_id": "463977-1",
   "iucn_id": null,

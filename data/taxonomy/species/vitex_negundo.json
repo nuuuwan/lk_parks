@@ -1,8 +1,7 @@
 {
   "name": "Vitex negundo",
   "authorship": "L.",
-  "genus_name": "Vitex",
-  "family_name": "Lamiaceae",
+  "parent_name": "Vitex",
   "gbif_id": "2925564",
   "powo_id": "865894-1",
   "iucn_id": "145823627",

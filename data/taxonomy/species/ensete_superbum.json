@@ -1,8 +1,7 @@
 {
   "name": "Ensete superbum",
   "authorship": "(Roxb.) Cheesman",
-  "genus_name": "Ensete",
-  "family_name": "Musaceae",
+  "parent_name": "Ensete",
   "gbif_id": "2763083",
   "powo_id": "584808-1",
   "iucn_id": "98248855",

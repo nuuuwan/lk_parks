@@ -1,8 +1,7 @@
 {
   "name": "Carya cordiformis",
   "authorship": "(Wangenh.) K.Koch",
-  "genus_name": "Carya",
-  "family_name": "Juglandaceae",
+  "parent_name": "Carya",
   "gbif_id": "3054299",
   "powo_id": "30187393-2",
   "iucn_id": "62019598",

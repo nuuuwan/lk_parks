@@ -1,8 +1,7 @@
 {
   "name": "Kalmia buxifolia",
   "authorship": "(P.J.Bergius) Gift & Kron",
-  "genus_name": "Kalmia",
-  "family_name": "Ericaceae",
+  "parent_name": "Kalmia",
   "gbif_id": "4165164",
   "powo_id": "77095107-1",
   "iucn_id": null,

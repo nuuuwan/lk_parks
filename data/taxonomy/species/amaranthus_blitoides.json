@@ -1,8 +1,7 @@
 {
   "name": "Amaranthus blitoides",
   "authorship": "S.Watson",
-  "genus_name": "Amaranthus",
-  "family_name": "Amaranthaceae",
+  "parent_name": "Amaranthus",
   "gbif_id": "5384395",
   "powo_id": "10615-2",
   "iucn_id": null,

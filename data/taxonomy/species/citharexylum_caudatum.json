@@ -1,8 +1,7 @@
 {
   "name": "Citharexylum caudatum",
   "authorship": "L.",
-  "genus_name": "Citharexylum",
-  "family_name": "Verbenaceae",
+  "parent_name": "Citharexylum",
   "gbif_id": "2925393",
   "powo_id": "330600-2",
   "iucn_id": "136793687",

@@ -1,8 +1,7 @@
 {
   "name": "Veronica agrestis",
   "authorship": "L.",
-  "genus_name": "Veronica",
-  "family_name": "Plantaginaceae",
+  "parent_name": "Veronica",
   "gbif_id": "3172082",
   "powo_id": "326368-2",
   "iucn_id": null,

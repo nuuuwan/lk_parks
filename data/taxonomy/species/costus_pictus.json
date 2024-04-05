@@ -1,8 +1,7 @@
 {
   "name": "Costus pictus",
   "authorship": "D.Don",
-  "genus_name": "Costus",
-  "family_name": "Costaceae",
+  "parent_name": "Costus",
   "gbif_id": "2756779",
   "powo_id": "796354-1",
   "iucn_id": null,

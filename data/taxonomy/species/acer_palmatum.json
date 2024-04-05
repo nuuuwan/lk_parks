@@ -1,8 +1,7 @@
 {
   "name": "Acer palmatum",
   "authorship": "Thunb.",
-  "genus_name": "Acer",
-  "family_name": "Sapindaceae",
+  "parent_name": "Acer",
   "gbif_id": "3189882",
   "powo_id": "927504-1",
   "iucn_id": "193845",

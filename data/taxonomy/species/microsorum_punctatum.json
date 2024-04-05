@@ -1,8 +1,7 @@
 {
   "name": "Microsorum punctatum",
   "authorship": "(L.) Copel.",
-  "genus_name": "Microsorum",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Microsorum",
   "gbif_id": "2650536",
   "powo_id": "17341250-1",
   "iucn_id": null,

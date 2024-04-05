@@ -1,8 +1,7 @@
 {
   "name": "Pyrus calleryana",
   "authorship": "Decne.",
-  "genus_name": "Pyrus",
-  "family_name": "Rosaceae",
+  "parent_name": "Pyrus",
   "gbif_id": "5363119",
   "powo_id": "730740-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Cojoba costaricensis",
   "authorship": "Britton & Rose",
-  "genus_name": "Cojoba",
-  "family_name": "Fabaceae",
+  "parent_name": "Cojoba",
   "gbif_id": "2981360",
   "powo_id": "62885-2",
   "iucn_id": "152001402",

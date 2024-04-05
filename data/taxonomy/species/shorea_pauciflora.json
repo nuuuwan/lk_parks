@@ -1,8 +1,7 @@
 {
   "name": "Shorea pauciflora",
   "authorship": "King",
-  "genus_name": "Shorea",
-  "family_name": "Dipterocarpaceae",
+  "parent_name": "Shorea",
   "gbif_id": "4096275",
   "powo_id": "321397-1",
   "iucn_id": "33134",

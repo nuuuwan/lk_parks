@@ -1,8 +1,7 @@
 {
   "name": "Vitex pooara",
   "authorship": "Corbishley",
-  "genus_name": "Vitex",
-  "family_name": "Lamiaceae",
+  "parent_name": "Vitex",
   "gbif_id": "3903553",
   "powo_id": "865940-1",
   "iucn_id": "158846326",

@@ -1,8 +1,7 @@
 {
   "name": "Boscia coriacea",
   "authorship": "Graells",
-  "genus_name": "Boscia",
-  "family_name": "Capparaceae",
+  "parent_name": "Boscia",
   "gbif_id": "7779310",
   "powo_id": "146091-1",
   "iucn_id": null,

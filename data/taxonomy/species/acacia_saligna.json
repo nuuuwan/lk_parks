@@ -1,8 +1,7 @@
 {
   "name": "Acacia saligna",
   "authorship": "(Labill.) H.L.Wendl.",
-  "genus_name": "Acacia",
-  "family_name": "Fabaceae",
+  "parent_name": "Acacia",
   "gbif_id": "2978552",
   "powo_id": "471383-1",
   "iucn_id": "18435881",

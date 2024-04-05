@@ -1,8 +1,7 @@
 {
   "name": "Prunus mume",
   "authorship": "(Siebold) Siebold & Zucc.",
-  "genus_name": "Prunus",
-  "family_name": "Rosaceae",
+  "parent_name": "Prunus",
   "gbif_id": "3021046",
   "powo_id": "730000-1",
   "iucn_id": "136775345",

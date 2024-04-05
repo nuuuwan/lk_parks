@@ -1,8 +1,7 @@
 {
   "name": "Ficus scabra",
   "authorship": "G.Forst.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5570907",
   "powo_id": "853652-1",
   "iucn_id": "160297765",

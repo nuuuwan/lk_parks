@@ -1,8 +1,7 @@
 {
   "name": "Corylus colurna",
   "authorship": "L.",
-  "genus_name": "Corylus",
-  "family_name": "Betulaceae",
+  "parent_name": "Corylus",
   "gbif_id": "2875968",
   "powo_id": "295453-1",
   "iucn_id": "194668",

@@ -1,8 +1,7 @@
 {
   "name": "Asclepias incarnata",
   "authorship": "L.",
-  "genus_name": "Asclepias",
-  "family_name": "Apocynaceae",
+  "parent_name": "Asclepias",
   "gbif_id": "3170266",
   "powo_id": "94351-1",
   "iucn_id": "64264155",

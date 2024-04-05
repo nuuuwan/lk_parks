@@ -1,8 +1,7 @@
 {
   "name": "Calophyllum caledonicum",
   "authorship": "Vieill. ex Planch. & Triana",
-  "genus_name": "Calophyllum",
-  "family_name": "Calophyllaceae",
+  "parent_name": "Calophyllum",
   "gbif_id": "7972481",
   "powo_id": "427122-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Meriania speciosa",
   "authorship": "(Bonpl.) Naudin",
-  "genus_name": "Meriania",
-  "family_name": "Melastomataceae",
+  "parent_name": "Meriania",
   "gbif_id": "5599602",
   "powo_id": "1103281-2",
   "iucn_id": null,

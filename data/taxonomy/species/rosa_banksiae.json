@@ -1,8 +1,7 @@
 {
   "name": "Rosa banksiae",
   "authorship": "R.Br.",
-  "genus_name": "Rosa",
-  "family_name": "Rosaceae",
+  "parent_name": "Rosa",
   "gbif_id": "7827393",
   "powo_id": "731723-1",
   "iucn_id": null,

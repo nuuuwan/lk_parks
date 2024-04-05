@@ -1,8 +1,7 @@
 {
   "name": "Calophyllum neoebudicum",
   "authorship": "Guillaumin",
-  "genus_name": "Calophyllum",
-  "family_name": "Calophyllaceae",
+  "parent_name": "Calophyllum",
   "gbif_id": "8330251",
   "powo_id": "427235-1",
   "iucn_id": "37648",

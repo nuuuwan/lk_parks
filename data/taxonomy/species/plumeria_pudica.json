@@ -1,8 +1,7 @@
 {
   "name": "Plumeria pudica",
   "authorship": "Jacq.",
-  "genus_name": "Plumeria",
-  "family_name": "Apocynaceae",
+  "parent_name": "Plumeria",
   "gbif_id": "3614691",
   "powo_id": "81268-1",
   "iucn_id": "151953739",

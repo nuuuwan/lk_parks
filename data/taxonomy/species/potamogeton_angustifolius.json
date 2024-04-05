@@ -1,8 +1,7 @@
 {
   "name": "Potamogeton angustifolius",
   "authorship": "J.Presl",
-  "genus_name": "Potamogeton",
-  "family_name": "Potamogetonaceae",
+  "parent_name": "Potamogeton",
   "gbif_id": "5301140",
   "powo_id": "603122-1",
   "iucn_id": null,

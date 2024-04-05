@@ -1,8 +1,7 @@
 {
   "name": "Cymbidium tracyanum",
   "authorship": "L.Castle",
-  "genus_name": "Cymbidium",
-  "family_name": "Orchidaceae",
+  "parent_name": "Cymbidium",
   "gbif_id": "5305552",
   "powo_id": "77110029-1",
   "iucn_id": "44392410",

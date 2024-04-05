@@ -1,8 +1,7 @@
 {
   "name": "Aesculus pavia",
   "authorship": "L.",
-  "genus_name": "Aesculus",
-  "family_name": "Sapindaceae",
+  "parent_name": "Aesculus",
   "gbif_id": "3189807",
   "powo_id": "781619-1",
   "iucn_id": "152909167",

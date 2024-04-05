@@ -1,8 +1,7 @@
 {
   "name": "Viburnum rugosum",
   "authorship": "Pers.",
-  "genus_name": "Viburnum",
-  "family_name": "Viburnaceae",
+  "parent_name": "Viburnum",
   "gbif_id": "3856160",
   "powo_id": "149912-1",
   "iucn_id": null,

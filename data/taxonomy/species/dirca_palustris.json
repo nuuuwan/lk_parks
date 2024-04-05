@@ -1,8 +1,7 @@
 {
   "name": "Dirca palustris",
   "authorship": "L.",
-  "genus_name": "Dirca",
-  "family_name": "Thymelaeaceae",
+  "parent_name": "Dirca",
   "gbif_id": "3188462",
   "powo_id": "319178-2",
   "iucn_id": null,

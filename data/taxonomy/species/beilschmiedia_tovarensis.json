@@ -1,8 +1,7 @@
 {
   "name": "Beilschmiedia tovarensis",
   "authorship": "(Klotzsch & H.Karst. ex Meisn.) Sachiko Nishida",
-  "genus_name": "Beilschmiedia",
-  "family_name": "Lauraceae",
+  "parent_name": "Beilschmiedia",
   "gbif_id": "4182784",
   "powo_id": "1116029-2",
   "iucn_id": "145295376",

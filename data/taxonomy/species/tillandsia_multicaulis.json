@@ -1,8 +1,7 @@
 {
   "name": "Tillandsia multicaulis",
   "authorship": "Steud.",
-  "genus_name": "Tillandsia",
-  "family_name": "Bromeliaceae",
+  "parent_name": "Tillandsia",
   "gbif_id": "2694501",
   "powo_id": "125413-1",
   "iucn_id": null,

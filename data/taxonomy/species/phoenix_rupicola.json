@@ -1,8 +1,7 @@
 {
   "name": "Phoenix rupicola",
   "authorship": "T.Anderson",
-  "genus_name": "Phoenix",
-  "family_name": "Arecaceae",
+  "parent_name": "Phoenix",
   "gbif_id": "5293176",
   "powo_id": "668946-1",
   "iucn_id": "38629",

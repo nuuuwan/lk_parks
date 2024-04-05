@@ -1,8 +1,7 @@
 {
   "name": "Magnolia grandiflora",
   "authorship": "L.",
-  "genus_name": "Magnolia",
-  "family_name": "Magnoliaceae",
+  "parent_name": "Magnolia",
   "gbif_id": "9605163",
   "powo_id": "554723-1",
   "iucn_id": "193948",

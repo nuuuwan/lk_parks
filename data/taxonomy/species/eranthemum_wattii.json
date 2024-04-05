@@ -1,8 +1,7 @@
 {
   "name": "Eranthemum wattii",
   "authorship": "(Bedd.) Stapf",
-  "genus_name": "Eranthemum",
-  "family_name": "Acanthaceae",
+  "parent_name": "Eranthemum",
   "gbif_id": "3776008",
   "powo_id": "48945-1",
   "iucn_id": null,

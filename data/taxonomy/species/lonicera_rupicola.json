@@ -1,8 +1,7 @@
 {
   "name": "Lonicera rupicola",
   "authorship": "Hook.f. & Thomson",
-  "genus_name": "Lonicera",
-  "family_name": "Caprifoliaceae",
+  "parent_name": "Lonicera",
   "gbif_id": "7272550",
   "powo_id": "149064-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Cenostigma tocantinum",
   "authorship": "Ducke",
-  "genus_name": "Cenostigma",
-  "family_name": "Fabaceae",
+  "parent_name": "Cenostigma",
   "gbif_id": "2947120",
   "powo_id": "51279-2",
   "iucn_id": "150580856",

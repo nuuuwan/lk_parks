@@ -1,8 +1,7 @@
 {
   "name": "Puccinellia distans",
   "authorship": "(Jacq.) Parl.",
-  "genus_name": "Puccinellia",
-  "family_name": "Poaceae",
+  "parent_name": "Puccinellia",
   "gbif_id": "2704688",
   "powo_id": "1026660-2",
   "iucn_id": null,

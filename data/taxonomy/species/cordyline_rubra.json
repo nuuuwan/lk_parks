@@ -1,8 +1,7 @@
 {
   "name": "Cordyline rubra",
   "authorship": "Otto & A.Dietr.",
-  "genus_name": "Cordyline",
-  "family_name": "Asparagaceae",
+  "parent_name": "Cordyline",
   "gbif_id": "8369856",
   "powo_id": "97540-3",
   "iucn_id": "192204741",

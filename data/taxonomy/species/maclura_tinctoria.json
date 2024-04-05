@@ -1,8 +1,7 @@
 {
   "name": "Maclura tinctoria",
   "authorship": "(L.) D.Don ex G.Don",
-  "genus_name": "Maclura",
-  "family_name": "Moraceae",
+  "parent_name": "Maclura",
   "gbif_id": "12340747",
   "powo_id": "1151750-2",
   "iucn_id": "61886731",

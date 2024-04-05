@@ -1,8 +1,7 @@
 {
   "name": "Pigafetta filaris",
   "authorship": "(Giseke) Becc.",
-  "genus_name": "Pigafetta",
-  "family_name": "Arecaceae",
+  "parent_name": "Pigafetta",
   "gbif_id": "5293794",
   "powo_id": "669011-1",
   "iucn_id": "155288970",

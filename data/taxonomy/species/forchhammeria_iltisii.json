@@ -1,8 +1,7 @@
 {
   "name": "Forchhammeria iltisii",
   "authorship": "J.F.Morales",
-  "genus_name": "Forchhammeria",
-  "family_name": "Resedaceae",
+  "parent_name": "Forchhammeria",
   "gbif_id": "8010651",
   "powo_id": "77135556-1",
   "iucn_id": "149401261",

@@ -1,8 +1,7 @@
 {
   "name": "Maianthemum japonicum",
   "authorship": "(A.Gray) LaFrankie",
-  "genus_name": "Maianthemum",
-  "family_name": "Asparagaceae",
+  "parent_name": "Maianthemum",
   "gbif_id": "2769420",
   "powo_id": "943006-1",
   "iucn_id": null,

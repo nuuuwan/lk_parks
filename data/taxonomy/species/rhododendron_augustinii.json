@@ -1,8 +1,7 @@
 {
   "name": "Rhododendron augustinii",
   "authorship": "Hemsl.",
-  "genus_name": "Rhododendron",
-  "family_name": "Ericaceae",
+  "parent_name": "Rhododendron",
   "gbif_id": "7328064",
   "powo_id": "331981-1",
   "iucn_id": null,

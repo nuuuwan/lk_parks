@@ -1,8 +1,7 @@
 {
   "name": "Picrasma quassioides",
   "authorship": "(D.Don) Benn.",
-  "genus_name": "Picrasma",
-  "family_name": "Simaroubaceae",
+  "parent_name": "Picrasma",
   "gbif_id": "3190677",
   "powo_id": "813963-1",
   "iucn_id": null,

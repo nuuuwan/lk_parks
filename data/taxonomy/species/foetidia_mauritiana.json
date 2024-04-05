@@ -1,8 +1,7 @@
 {
   "name": "Foetidia mauritiana",
   "authorship": "Lam.",
-  "genus_name": "Foetidia",
-  "family_name": "Lecythidaceae",
+  "parent_name": "Foetidia",
   "gbif_id": "3083082",
   "powo_id": "596478-1",
   "iucn_id": null,

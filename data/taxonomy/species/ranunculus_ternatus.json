@@ -1,8 +1,7 @@
 {
   "name": "Ranunculus ternatus",
   "authorship": "Thunb.",
-  "genus_name": "Ranunculus",
-  "family_name": "Ranunculaceae",
+  "parent_name": "Ranunculus",
   "gbif_id": "3923071",
   "powo_id": "927389-1",
   "iucn_id": null,

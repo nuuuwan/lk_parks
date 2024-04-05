@@ -1,8 +1,7 @@
 {
   "name": "Alangium salviifolium",
   "authorship": "(L.f.) Wangerin",
-  "genus_name": "Alangium",
-  "family_name": "Cornaceae",
+  "parent_name": "Alangium",
   "gbif_id": "3701897",
   "powo_id": "271431-1",
   "iucn_id": "149616445",

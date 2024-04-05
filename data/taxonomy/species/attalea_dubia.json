@@ -1,8 +1,7 @@
 {
   "name": "Attalea dubia",
   "authorship": "(Mart.) Burret",
-  "genus_name": "Attalea",
-  "family_name": "Arecaceae",
+  "parent_name": "Attalea",
   "gbif_id": "2732744",
   "powo_id": "26562-2",
   "iucn_id": null,

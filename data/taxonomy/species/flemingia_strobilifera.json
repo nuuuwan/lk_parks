@@ -1,8 +1,7 @@
 {
   "name": "Flemingia strobilifera",
   "authorship": "(L.) W.T.Aiton",
-  "genus_name": "Flemingia",
-  "family_name": "Fabaceae",
+  "parent_name": "Flemingia",
   "gbif_id": "5359843",
   "powo_id": "495307-1",
   "iucn_id": null,

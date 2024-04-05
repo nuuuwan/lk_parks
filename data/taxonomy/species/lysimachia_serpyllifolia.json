@@ -1,8 +1,7 @@
 {
   "name": "Lysimachia serpyllifolia",
   "authorship": "Schreb.",
-  "genus_name": "Lysimachia",
-  "family_name": "Primulaceae",
+  "parent_name": "Lysimachia",
   "gbif_id": "4005673",
   "powo_id": "701355-1",
   "iucn_id": null,

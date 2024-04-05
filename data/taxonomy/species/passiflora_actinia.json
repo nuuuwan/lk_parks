@@ -1,8 +1,7 @@
 {
   "name": "Passiflora actinia",
   "authorship": "Hook.",
-  "genus_name": "Passiflora",
-  "family_name": "Passifloraceae",
+  "parent_name": "Passiflora",
   "gbif_id": "3586769",
   "powo_id": "324146-2",
   "iucn_id": null,

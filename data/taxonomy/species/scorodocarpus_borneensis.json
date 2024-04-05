@@ -1,8 +1,7 @@
 {
   "name": "Scorodocarpus borneensis",
   "authorship": "(Baill.) Becc.",
-  "genus_name": "Scorodocarpus",
-  "family_name": "Olacaceae",
+  "parent_name": "Scorodocarpus",
   "gbif_id": "3685861",
   "powo_id": "608407-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Dendrocnide meyeniana",
   "authorship": "(Walp.) Chew",
-  "genus_name": "Dendrocnide",
-  "family_name": "Urticaceae",
+  "parent_name": "Dendrocnide",
   "gbif_id": "4098765",
   "powo_id": "851451-1",
   "iucn_id": null,

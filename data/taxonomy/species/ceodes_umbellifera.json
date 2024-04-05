@@ -1,8 +1,7 @@
 {
   "name": "Ceodes umbellifera",
   "authorship": "J.R.Forst. & G.Forst.",
-  "genus_name": "Ceodes",
-  "family_name": "Nyctaginaceae",
+  "parent_name": "Ceodes",
   "gbif_id": "3086267",
   "powo_id": "604437-1",
   "iucn_id": "49277895",

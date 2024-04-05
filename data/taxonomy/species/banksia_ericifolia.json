@@ -1,8 +1,7 @@
 {
   "name": "Banksia ericifolia",
   "authorship": "L.f.",
-  "genus_name": "Banksia",
-  "family_name": "Proteaceae",
+  "parent_name": "Banksia",
   "gbif_id": "7124454",
   "powo_id": "703098-1",
   "iucn_id": "112522332",

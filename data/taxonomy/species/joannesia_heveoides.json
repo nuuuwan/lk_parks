@@ -1,8 +1,7 @@
 {
   "name": "Joannesia heveoides",
   "authorship": "Ducke",
-  "genus_name": "Joannesia",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Joannesia",
   "gbif_id": "3075092",
   "powo_id": "131668-2",
   "iucn_id": "177817395",

@@ -1,8 +1,7 @@
 {
   "name": "Luma apiculata",
   "authorship": "(DC.) Burret",
-  "genus_name": "Luma",
-  "family_name": "Myrtaceae",
+  "parent_name": "Luma",
   "gbif_id": "5420309",
   "powo_id": "144523-2",
   "iucn_id": "131397182",

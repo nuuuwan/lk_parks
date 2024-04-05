@@ -1,8 +1,7 @@
 {
   "name": "Forestiera acuminata",
   "authorship": "(Michx.) Poir.",
-  "genus_name": "Forestiera",
-  "family_name": "Oleaceae",
+  "parent_name": "Forestiera",
   "gbif_id": "3172390",
   "powo_id": "30282606-2",
   "iucn_id": "152907710",

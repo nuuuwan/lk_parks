@@ -1,8 +1,7 @@
 {
   "name": "Melicoccus jimenezii",
   "authorship": "(Alain) Acev.-Rodr.",
-  "genus_name": "Melicoccus",
-  "family_name": "Sapindaceae",
+  "parent_name": "Melicoccus",
   "gbif_id": "3788355",
   "powo_id": "997288-1",
   "iucn_id": null,

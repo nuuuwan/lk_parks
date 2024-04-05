@@ -1,8 +1,7 @@
 {
   "name": "Ficus rubiginosa",
   "authorship": "Desf. ex Vent.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5361929",
   "powo_id": "60466944-2",
   "iucn_id": "73089151",

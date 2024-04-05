@@ -1,8 +1,7 @@
 {
   "name": "Curatella americana",
   "authorship": "L.",
-  "genus_name": "Curatella",
-  "family_name": "Dilleniaceae",
+  "parent_name": "Curatella",
   "gbif_id": "7304064",
   "powo_id": "321019-2",
   "iucn_id": "158456855",

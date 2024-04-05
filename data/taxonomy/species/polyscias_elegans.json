@@ -1,8 +1,7 @@
 {
   "name": "Polyscias elegans",
   "authorship": "(C.Moore & F.Muell.) Harms",
-  "genus_name": "Polyscias",
-  "family_name": "Araliaceae",
+  "parent_name": "Polyscias",
   "gbif_id": "3035862",
   "powo_id": "107794-3",
   "iucn_id": "198374209",

@@ -1,8 +1,7 @@
 {
   "name": "Ismene amancaes",
   "authorship": "(Ruiz & Pav.) Herb.",
-  "genus_name": "Ismene",
-  "family_name": "Amaryllidaceae",
+  "parent_name": "Ismene",
   "gbif_id": "5326970",
   "powo_id": "65663-1",
   "iucn_id": null,

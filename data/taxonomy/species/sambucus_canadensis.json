@@ -1,8 +1,7 @@
 {
   "name": "Sambucus canadensis",
   "authorship": "L.",
-  "genus_name": "Sambucus",
-  "family_name": "Viburnaceae",
+  "parent_name": "Sambucus",
   "gbif_id": "6369819",
   "powo_id": "321978-2",
   "iucn_id": null,

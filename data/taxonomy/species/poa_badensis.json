@@ -1,8 +1,7 @@
 {
   "name": "Poa badensis",
   "authorship": "Haenke ex Willd.",
-  "genus_name": "Poa",
-  "family_name": "Poaceae",
+  "parent_name": "Poa",
   "gbif_id": "4127566",
   "powo_id": "416575-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Artemisia pedemontana",
   "authorship": "Balb.",
-  "genus_name": "Artemisia",
-  "family_name": "Asteraceae",
+  "parent_name": "Artemisia",
   "gbif_id": "8344033",
   "powo_id": "179943-1",
   "iucn_id": null,

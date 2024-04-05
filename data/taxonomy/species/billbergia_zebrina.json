@@ -1,8 +1,7 @@
 {
   "name": "Billbergia zebrina",
   "authorship": "(Herb.) Lindl.",
-  "genus_name": "Billbergia",
-  "family_name": "Bromeliaceae",
+  "parent_name": "Billbergia",
   "gbif_id": "2693714",
   "powo_id": "122235-1",
   "iucn_id": null,

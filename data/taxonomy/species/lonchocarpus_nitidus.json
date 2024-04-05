@@ -1,8 +1,7 @@
 {
   "name": "Lonchocarpus nitidus",
   "authorship": "(Vogel) Benth.",
-  "genus_name": "Lonchocarpus",
-  "family_name": "Fabaceae",
+  "parent_name": "Lonchocarpus",
   "gbif_id": "2968992",
   "powo_id": "503045-1",
   "iucn_id": "144283515",

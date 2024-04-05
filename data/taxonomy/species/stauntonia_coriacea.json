@@ -1,8 +1,7 @@
 {
   "name": "Stauntonia coriacea",
   "authorship": "(Diels) Christenh.",
-  "genus_name": "Stauntonia",
-  "family_name": "Lardizabalaceae",
+  "parent_name": "Stauntonia",
   "gbif_id": "7398353",
   "powo_id": "77122492-1",
   "iucn_id": null,

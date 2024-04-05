@@ -1,8 +1,7 @@
 {
   "name": "Sedum atratum",
   "authorship": "L.",
-  "genus_name": "Sedum",
-  "family_name": "Crassulaceae",
+  "parent_name": "Sedum",
   "gbif_id": "8144117",
   "powo_id": "275094-1",
   "iucn_id": null,

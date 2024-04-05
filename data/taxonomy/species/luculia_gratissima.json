@@ -1,8 +1,7 @@
 {
   "name": "Luculia gratissima",
   "authorship": "(Wall.) Sweet",
-  "genus_name": "Luculia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Luculia",
   "gbif_id": "2900019",
   "powo_id": "755396-1",
   "iucn_id": "150282410",

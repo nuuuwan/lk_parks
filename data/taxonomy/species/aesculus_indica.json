@@ -1,8 +1,7 @@
 {
   "name": "Aesculus indica",
   "authorship": "(Wall. ex Cambess.) Hook.",
-  "genus_name": "Aesculus",
-  "family_name": "Sapindaceae",
+  "parent_name": "Aesculus",
   "gbif_id": "8566446",
   "powo_id": "60450399-2",
   "iucn_id": "150283250",

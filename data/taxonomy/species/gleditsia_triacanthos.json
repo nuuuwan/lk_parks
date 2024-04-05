@@ -1,8 +1,7 @@
 {
   "name": "Gleditsia triacanthos",
   "authorship": "L.",
-  "genus_name": "Gleditsia",
-  "family_name": "Fabaceae",
+  "parent_name": "Gleditsia",
   "gbif_id": "2959443",
   "powo_id": "110723-2",
   "iucn_id": "62026061",

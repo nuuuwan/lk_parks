@@ -1,8 +1,7 @@
 {
   "name": "Acacia koaia",
   "authorship": "Hillebr.",
-  "genus_name": "Acacia",
-  "family_name": "Fabaceae",
+  "parent_name": "Acacia",
   "gbif_id": "2980853",
   "powo_id": "470660-1",
   "iucn_id": "30902",

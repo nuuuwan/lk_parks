@@ -1,8 +1,7 @@
 {
   "name": "Passiflora lutea",
   "authorship": "L.",
-  "genus_name": "Passiflora",
-  "family_name": "Passifloraceae",
+  "parent_name": "Passiflora",
   "gbif_id": "2874220",
   "powo_id": "675171-1",
   "iucn_id": null,

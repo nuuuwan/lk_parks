@@ -1,8 +1,7 @@
 {
   "name": "Cephalotaxus harringtonia",
   "authorship": "(Knight ex J.Forbes) K.Koch",
-  "genus_name": "Cephalotaxus",
-  "family_name": "Taxaceae",
+  "parent_name": "Cephalotaxus",
   "gbif_id": "6360715",
   "powo_id": "261818-1",
   "iucn_id": null,

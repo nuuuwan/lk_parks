@@ -1,8 +1,7 @@
 {
   "name": "Grona heterocarpos",
   "authorship": "(L.) H.Ohashi & K.Ohashi",
-  "genus_name": "Grona",
-  "family_name": "Fabaceae",
+  "parent_name": "Grona",
   "gbif_id": "10775938",
   "powo_id": "77187416-1",
   "iucn_id": null,

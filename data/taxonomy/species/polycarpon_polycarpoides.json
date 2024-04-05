@@ -1,8 +1,7 @@
 {
   "name": "Polycarpon polycarpoides",
   "authorship": "(Biv.) Zodda",
-  "genus_name": "Polycarpon",
-  "family_name": "Caryophyllaceae",
+  "parent_name": "Polycarpon",
   "gbif_id": "7635378",
   "powo_id": "990567-1",
   "iucn_id": null,

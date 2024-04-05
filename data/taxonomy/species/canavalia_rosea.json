@@ -1,8 +1,7 @@
 {
   "name": "Canavalia rosea",
   "authorship": "(Sw.) DC.",
-  "genus_name": "Canavalia",
-  "family_name": "Fabaceae",
+  "parent_name": "Canavalia",
   "gbif_id": "2962021",
   "powo_id": "30187778-2",
   "iucn_id": "65899681",

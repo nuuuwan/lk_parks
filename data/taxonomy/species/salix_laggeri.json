@@ -1,8 +1,7 @@
 {
   "name": "Salix laggeri",
   "authorship": "Wimm.",
-  "genus_name": "Salix",
-  "family_name": "Salicaceae",
+  "parent_name": "Salix",
   "gbif_id": "5583211",
   "powo_id": "777978-1",
   "iucn_id": "83826297",

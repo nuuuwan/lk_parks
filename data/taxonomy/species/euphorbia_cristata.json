@@ -1,8 +1,7 @@
 {
   "name": "Euphorbia cristata",
   "authorship": "B.Heyne ex Roth",
-  "genus_name": "Euphorbia",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Euphorbia",
   "gbif_id": "3066084",
   "powo_id": "346160-1",
   "iucn_id": null,

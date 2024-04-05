@@ -1,8 +1,7 @@
 {
   "name": "Chaenomeles japonica",
   "authorship": "(Thunb.) Lindl. ex Spach",
-  "genus_name": "Chaenomeles",
-  "family_name": "Rosaceae",
+  "parent_name": "Chaenomeles",
   "gbif_id": "3000610",
   "powo_id": "77105966-1",
   "iucn_id": "170120919",

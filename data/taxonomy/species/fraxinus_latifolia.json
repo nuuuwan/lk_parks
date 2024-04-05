@@ -1,8 +1,7 @@
 {
   "name": "Fraxinus latifolia",
   "authorship": "Benth.",
-  "genus_name": "Fraxinus",
-  "family_name": "Oleaceae",
+  "parent_name": "Fraxinus",
   "gbif_id": "3172343",
   "powo_id": "609072-1",
   "iucn_id": "61918519",

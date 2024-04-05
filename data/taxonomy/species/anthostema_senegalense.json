@@ -1,8 +1,7 @@
 {
   "name": "Anthostema senegalense",
   "authorship": "A.Juss.",
-  "genus_name": "Anthostema",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Anthostema",
   "gbif_id": "3055961",
   "powo_id": "338814-1",
   "iucn_id": "144303148",

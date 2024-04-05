@@ -1,8 +1,7 @@
 {
   "name": "Asparagus asparagoides",
   "authorship": "(L.) Druce",
-  "genus_name": "Asparagus",
-  "family_name": "Asparagaceae",
+  "parent_name": "Asparagus",
   "gbif_id": "2768367",
   "powo_id": "531013-1",
   "iucn_id": null,

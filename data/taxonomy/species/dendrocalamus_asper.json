@@ -1,8 +1,7 @@
 {
   "name": "Dendrocalamus asper",
   "authorship": "(Schult.) Backer",
-  "genus_name": "Dendrocalamus",
-  "family_name": "Poaceae",
+  "parent_name": "Dendrocalamus",
   "gbif_id": "2703315",
   "powo_id": null,
   "iucn_id": null,

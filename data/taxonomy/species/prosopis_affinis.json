@@ -1,8 +1,7 @@
 {
   "name": "Prosopis affinis",
   "authorship": "Spreng.",
-  "genus_name": "Prosopis",
-  "family_name": "Fabaceae",
+  "parent_name": "Prosopis",
   "gbif_id": "5358534",
   "powo_id": "210409-2",
   "iucn_id": "33952",

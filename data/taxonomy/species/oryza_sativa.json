@@ -1,8 +1,7 @@
 {
   "name": "Oryza sativa",
   "authorship": "L.",
-  "genus_name": "Oryza",
-  "family_name": "Poaceae",
+  "parent_name": "Oryza",
   "gbif_id": "2703459",
   "powo_id": "316812-2",
   "iucn_id": null,

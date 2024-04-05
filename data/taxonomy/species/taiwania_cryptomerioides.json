@@ -1,8 +1,7 @@
 {
   "name": "Taiwania cryptomerioides",
   "authorship": "Hayata",
-  "genus_name": "Taiwania",
-  "family_name": "Cupressaceae",
+  "parent_name": "Taiwania",
   "gbif_id": "5284272",
   "powo_id": "263753-1",
   "iucn_id": "31255",

@@ -1,8 +1,7 @@
 {
   "name": "Amaranthus hypochondriacus",
   "authorship": "L.",
-  "genus_name": "Amaranthus",
-  "family_name": "Amaranthaceae",
+  "parent_name": "Amaranthus",
   "gbif_id": "9080185",
   "powo_id": "10665-2",
   "iucn_id": null,

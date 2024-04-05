@@ -1,8 +1,7 @@
 {
   "name": "Solidago altissima",
   "authorship": "L.",
-  "genus_name": "Solidago",
-  "family_name": "Asteraceae",
+  "parent_name": "Solidago",
   "gbif_id": "5389058",
   "powo_id": "285347-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Phyllanthus brasiliensis",
   "authorship": "(Aubl.) Poir.",
-  "genus_name": "Phyllanthus",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Phyllanthus",
   "gbif_id": "5382560",
   "powo_id": "353613-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Fagus grandifolia",
   "authorship": "Ehrh.",
-  "genus_name": "Fagus",
-  "family_name": "Fagaceae",
+  "parent_name": "Fagus",
   "gbif_id": "2882274",
   "powo_id": "295597-1",
   "iucn_id": "62004694",

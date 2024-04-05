@@ -1,8 +1,7 @@
 {
   "name": "Galium trifidum",
   "authorship": "L.",
-  "genus_name": "Galium",
-  "family_name": "Rubiaceae",
+  "parent_name": "Galium",
   "gbif_id": "2913365",
   "powo_id": "750768-1",
   "iucn_id": "64313534",

@@ -1,8 +1,7 @@
 {
   "name": "Alsophila australis",
   "authorship": "R.Br.",
-  "genus_name": "Alsophila",
-  "family_name": "Cyatheaceae",
+  "parent_name": "Alsophila",
   "gbif_id": "7314637",
   "powo_id": "17016010-1",
   "iucn_id": null,

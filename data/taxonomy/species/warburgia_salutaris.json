@@ -1,8 +1,7 @@
 {
   "name": "Warburgia salutaris",
   "authorship": "(G.Bertol.) Chiov.",
-  "genus_name": "Warburgia",
-  "family_name": "Canellaceae",
+  "parent_name": "Warburgia",
   "gbif_id": "5603223",
   "powo_id": "146036-1",
   "iucn_id": "30364",

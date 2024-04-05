@@ -1,8 +1,7 @@
 {
   "name": "Triplaris weigeltiana",
   "authorship": "(Rchb.) Kuntze",
-  "genus_name": "Triplaris",
-  "family_name": "Polygonaceae",
+  "parent_name": "Triplaris",
   "gbif_id": "4037419",
   "powo_id": "258621-2",
   "iucn_id": "61956822",

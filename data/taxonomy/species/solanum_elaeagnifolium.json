@@ -1,8 +1,7 @@
 {
   "name": "Solanum elaeagnifolium",
   "authorship": "Cav.",
-  "genus_name": "Solanum",
-  "family_name": "Solanaceae",
+  "parent_name": "Solanum",
   "gbif_id": "2929892",
   "powo_id": "819099-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Rhaphiolepis deflexa",
   "authorship": "(Hemsl.) B.B.Liu & J.Wen",
-  "genus_name": "Rhaphiolepis",
-  "family_name": "Rosaceae",
+  "parent_name": "Rhaphiolepis",
   "gbif_id": "10855510",
   "powo_id": "77207165-1",
   "iucn_id": "147633311",

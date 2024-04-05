@@ -1,8 +1,7 @@
 {
   "name": "Clethra arborea",
   "authorship": "Aiton",
-  "genus_name": "Clethra",
-  "family_name": "Clethraceae",
+  "parent_name": "Clethra",
   "gbif_id": "7866157",
   "powo_id": "327572-1",
   "iucn_id": "38395",

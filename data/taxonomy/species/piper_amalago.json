@@ -1,8 +1,7 @@
 {
   "name": "Piper amalago",
   "authorship": "L.",
-  "genus_name": "Piper",
-  "family_name": "Piperaceae",
+  "parent_name": "Piper",
   "gbif_id": "3086333",
   "powo_id": "680359-1",
   "iucn_id": "62801",

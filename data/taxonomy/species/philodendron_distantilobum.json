@@ -1,8 +1,7 @@
 {
   "name": "Philodendron distantilobum",
   "authorship": "K.Krause",
-  "genus_name": "Philodendron",
-  "family_name": "Araceae",
+  "parent_name": "Philodendron",
   "gbif_id": "2871246",
   "powo_id": "193019-2",
   "iucn_id": null,

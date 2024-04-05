@@ -1,8 +1,7 @@
 {
   "name": "Crotalaria juncea",
   "authorship": "L.",
-  "genus_name": "Crotalaria",
-  "family_name": "Fabaceae",
+  "parent_name": "Crotalaria",
   "gbif_id": "2942877",
   "powo_id": "322601-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Jasminum beesianum",
   "authorship": "Forrest & Diels",
-  "genus_name": "Jasminum",
-  "family_name": "Oleaceae",
+  "parent_name": "Jasminum",
   "gbif_id": "3682568",
   "powo_id": "609361-1",
   "iucn_id": null,

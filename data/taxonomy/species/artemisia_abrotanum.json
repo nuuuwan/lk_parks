@@ -1,8 +1,7 @@
 {
   "name": "Artemisia abrotanum",
   "authorship": "L.",
-  "genus_name": "Artemisia",
-  "family_name": "Asteraceae",
+  "parent_name": "Artemisia",
   "gbif_id": "8042568",
   "powo_id": "306365-2",
   "iucn_id": null,

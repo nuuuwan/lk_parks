@@ -1,8 +1,7 @@
 {
   "name": "Rhododendron maximum",
   "authorship": "L.",
-  "genus_name": "Rhododendron",
-  "family_name": "Ericaceae",
+  "parent_name": "Rhododendron",
   "gbif_id": "2883094",
   "powo_id": "219492-2",
   "iucn_id": "82889952",

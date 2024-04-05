@@ -1,8 +1,7 @@
 {
   "name": "Simira maxonii",
   "authorship": "(Standl.) Steyerm.",
-  "genus_name": "Simira",
-  "family_name": "Rubiaceae",
+  "parent_name": "Simira",
   "gbif_id": "5335269",
   "powo_id": "236581-2",
   "iucn_id": "151999337",

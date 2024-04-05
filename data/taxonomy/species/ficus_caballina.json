@@ -1,8 +1,7 @@
 {
   "name": "Ficus caballina",
   "authorship": "Standl.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5571084",
   "powo_id": "583293-1",
   "iucn_id": "145580004",

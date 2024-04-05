@@ -1,8 +1,7 @@
 {
   "name": "Myrmecophila brysiana",
   "authorship": "(Lem.) G.C.Kenn.",
-  "genus_name": "Myrmecophila",
-  "family_name": "Orchidaceae",
+  "parent_name": "Myrmecophila",
   "gbif_id": "5308735",
   "powo_id": "645052-1",
   "iucn_id": null,

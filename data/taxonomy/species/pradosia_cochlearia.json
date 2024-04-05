@@ -1,8 +1,7 @@
 {
   "name": "Pradosia cochlearia",
   "authorship": "(Lecomte) T.D.Penn.",
-  "genus_name": "Pradosia",
-  "family_name": "Sapotaceae",
+  "parent_name": "Pradosia",
   "gbif_id": "2883851",
   "powo_id": "948096-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Pterocarpus angolensis",
   "authorship": "DC.",
-  "genus_name": "Pterocarpus",
-  "family_name": "Fabaceae",
+  "parent_name": "Pterocarpus",
   "gbif_id": "5349240",
   "powo_id": "516403-1",
   "iucn_id": "33190",

@@ -1,8 +1,7 @@
 {
   "name": "Amelanchier laevis",
   "authorship": "Wiegand",
-  "genus_name": "Amelanchier",
-  "family_name": "Rosaceae",
+  "parent_name": "Amelanchier",
   "gbif_id": "3023832",
   "powo_id": "721220-1",
   "iucn_id": "135956199",

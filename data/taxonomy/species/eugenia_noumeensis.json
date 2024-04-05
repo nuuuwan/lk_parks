@@ -1,8 +1,7 @@
 {
   "name": "Eugenia noumeensis",
   "authorship": "Guillaumin",
-  "genus_name": "Eugenia",
-  "family_name": "Myrtaceae",
+  "parent_name": "Eugenia",
   "gbif_id": "5417077",
   "powo_id": "595297-1",
   "iucn_id": "35029",

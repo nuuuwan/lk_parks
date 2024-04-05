@@ -1,8 +1,7 @@
 {
   "name": "Flaveria trinervia",
   "authorship": "(Spreng.) C.Mohr",
-  "genus_name": "Flaveria",
-  "family_name": "Asteraceae",
+  "parent_name": "Flaveria",
   "gbif_id": "3086845",
   "powo_id": "105061-2",
   "iucn_id": null,

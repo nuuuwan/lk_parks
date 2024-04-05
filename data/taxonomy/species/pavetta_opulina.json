@@ -1,8 +1,7 @@
 {
   "name": "Pavetta opulina",
   "authorship": "(G.Forst.) DC.",
-  "genus_name": "Pavetta",
-  "family_name": "Rubiaceae",
+  "parent_name": "Pavetta",
   "gbif_id": "2924983",
   "powo_id": "759929-1",
   "iucn_id": null,

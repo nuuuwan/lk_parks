@@ -1,8 +1,7 @@
 {
   "name": "Vallesia glabra",
   "authorship": "(Cav.) Link",
-  "genus_name": "Vallesia",
-  "family_name": "Apocynaceae",
+  "parent_name": "Vallesia",
   "gbif_id": "5414418",
   "powo_id": "82668-1",
   "iucn_id": "62543",

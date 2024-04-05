@@ -1,8 +1,7 @@
 {
   "name": "Bellucia aequiloba",
   "authorship": "Pilg.",
-  "genus_name": "Bellucia",
-  "family_name": "Melastomataceae",
+  "parent_name": "Bellucia",
   "gbif_id": "3866826",
   "powo_id": "273208-2",
   "iucn_id": "145684816",

@@ -1,8 +1,7 @@
 {
   "name": "Acer truncatum",
   "authorship": "Bunge",
-  "genus_name": "Acer",
-  "family_name": "Sapindaceae",
+  "parent_name": "Acer",
   "gbif_id": "7263012",
   "powo_id": "781552-1",
   "iucn_id": "193886",

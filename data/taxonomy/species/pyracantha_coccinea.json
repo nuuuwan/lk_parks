@@ -1,8 +1,7 @@
 {
   "name": "Pyracantha coccinea",
   "authorship": "M.Roem.",
-  "genus_name": "Pyracantha",
-  "family_name": "Rosaceae",
+  "parent_name": "Pyracantha",
   "gbif_id": "2988188",
   "powo_id": "730611-1",
   "iucn_id": null,

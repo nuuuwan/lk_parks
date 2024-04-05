@@ -1,8 +1,7 @@
 {
   "name": "Myrsine guianensis",
   "authorship": "(Aubl.) Kuntze",
-  "genus_name": "Myrsine",
-  "family_name": "Primulaceae",
+  "parent_name": "Myrsine",
   "gbif_id": "3169446",
   "powo_id": "166565-2",
   "iucn_id": "205353907",

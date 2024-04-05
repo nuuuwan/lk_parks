@@ -1,8 +1,7 @@
 {
   "name": "Triphasia trifolia",
   "authorship": "(Burm.f.) P.Wilson",
-  "genus_name": "Triphasia",
-  "family_name": "Rutaceae",
+  "parent_name": "Triphasia",
   "gbif_id": "3190406",
   "powo_id": "258565-2",
   "iucn_id": null,

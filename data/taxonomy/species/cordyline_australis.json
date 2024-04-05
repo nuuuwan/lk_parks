@@ -1,8 +1,7 @@
 {
   "name": "Cordyline australis",
   "authorship": "(G.Forst.) Endl.",
-  "genus_name": "Cordyline",
-  "family_name": "Asparagaceae",
+  "parent_name": "Cordyline",
   "gbif_id": "2766411",
   "powo_id": "533544-1",
   "iucn_id": null,

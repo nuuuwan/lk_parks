@@ -1,8 +1,7 @@
 {
   "name": "Cyperus iria",
   "authorship": "L.",
-  "genus_name": "Cyperus",
-  "family_name": "Cyperaceae",
+  "parent_name": "Cyperus",
   "gbif_id": "2715729",
   "powo_id": "304844-1",
   "iucn_id": "169017",

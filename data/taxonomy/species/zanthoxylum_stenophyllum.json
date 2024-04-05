@@ -1,8 +1,7 @@
 {
   "name": "Zanthoxylum stenophyllum",
   "authorship": "Hemsl.",
-  "genus_name": "Zanthoxylum",
-  "family_name": "Rutaceae",
+  "parent_name": "Zanthoxylum",
   "gbif_id": "3834071",
   "powo_id": "776036-1",
   "iucn_id": "147621851",

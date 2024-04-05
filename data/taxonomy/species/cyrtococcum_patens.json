@@ -1,8 +1,7 @@
 {
   "name": "Cyrtococcum patens",
   "authorship": "(L.) A.Camus",
-  "genus_name": "Cyrtococcum",
-  "family_name": "Poaceae",
+  "parent_name": "Cyrtococcum",
   "gbif_id": "2705908",
   "powo_id": "397258-1",
   "iucn_id": null,

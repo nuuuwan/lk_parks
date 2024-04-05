@@ -1,8 +1,7 @@
 {
   "name": "Campomanesia adamantium",
   "authorship": "(Cambess.) O.Berg",
-  "genus_name": "Campomanesia",
-  "family_name": "Myrtaceae",
+  "parent_name": "Campomanesia",
   "gbif_id": "3180949",
   "powo_id": "60466515-2",
   "iucn_id": null,

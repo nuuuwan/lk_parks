@@ -1,8 +1,7 @@
 {
   "name": "Polygonum aviculare",
   "authorship": "L.",
-  "genus_name": "Polygonum",
-  "family_name": "Polygonaceae",
+  "parent_name": "Polygonum",
   "gbif_id": "7821030",
   "powo_id": "695422-1",
   "iucn_id": null,

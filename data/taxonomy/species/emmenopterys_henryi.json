@@ -1,8 +1,7 @@
 {
   "name": "Emmenopterys henryi",
   "authorship": "Oliv.",
-  "genus_name": "Emmenopterys",
-  "family_name": "Rubiaceae",
+  "parent_name": "Emmenopterys",
   "gbif_id": "2901228",
   "powo_id": "748742-1",
   "iucn_id": null,

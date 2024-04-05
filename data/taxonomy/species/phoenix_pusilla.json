@@ -1,8 +1,7 @@
 {
   "name": "Phoenix pusilla",
   "authorship": "Gaertn.",
-  "genus_name": "Phoenix",
-  "family_name": "Arecaceae",
+  "parent_name": "Phoenix",
   "gbif_id": "5293121",
   "powo_id": "668940-1",
   "iucn_id": null,

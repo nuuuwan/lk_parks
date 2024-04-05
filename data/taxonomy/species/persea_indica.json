@@ -1,8 +1,7 @@
 {
   "name": "Persea indica",
   "authorship": "(L.) Spreng.",
-  "genus_name": "Persea",
-  "family_name": "Lauraceae",
+  "parent_name": "Persea",
   "gbif_id": "4181596",
   "powo_id": "468067-1",
   "iucn_id": "30329",

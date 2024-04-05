@@ -1,8 +1,7 @@
 {
   "name": "Enterolobium contortisiliquum",
   "authorship": "(Vell.) Morong",
-  "genus_name": "Enterolobium",
-  "family_name": "Fabaceae",
+  "parent_name": "Enterolobium",
   "gbif_id": "2961170",
   "powo_id": "1032130-2",
   "iucn_id": "62025135",

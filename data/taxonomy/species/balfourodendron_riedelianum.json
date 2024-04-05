@@ -1,8 +1,7 @@
 {
   "name": "Balfourodendron riedelianum",
   "authorship": "(Engl.) Engl.",
-  "genus_name": "Balfourodendron",
-  "family_name": "Rutaceae",
+  "parent_name": "Balfourodendron",
   "gbif_id": "3833515",
   "powo_id": "28809-2",
   "iucn_id": "32987",

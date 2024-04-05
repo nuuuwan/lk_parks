@@ -1,8 +1,7 @@
 {
   "name": "Fascicularia bicolor",
   "authorship": "(Ruiz & Pav.) Mez",
-  "genus_name": "Fascicularia",
-  "family_name": "Bromeliaceae",
+  "parent_name": "Fascicularia",
   "gbif_id": "5287984",
   "powo_id": "103504-2",
   "iucn_id": null,

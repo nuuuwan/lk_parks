@@ -1,8 +1,7 @@
 {
   "name": "Parasenegalia visco",
   "authorship": "(Lorentz ex Griseb.) Seigler & Ebinger",
-  "genus_name": "Parasenegalia",
-  "family_name": "Fabaceae",
+  "parent_name": "Parasenegalia",
   "gbif_id": "9657641",
   "powo_id": "77175804-1",
   "iucn_id": "34360",

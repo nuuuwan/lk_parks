@@ -1,8 +1,7 @@
 {
   "name": "Oreopanax dactylifolius",
   "authorship": "T.Moore",
-  "genus_name": "Oreopanax",
-  "family_name": "Araliaceae",
+  "parent_name": "Oreopanax",
   "gbif_id": "3036535",
   "powo_id": "77176922-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Ficus variegata",
   "authorship": "Blume",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "3234563",
   "powo_id": "853928-1",
   "iucn_id": "147494668",

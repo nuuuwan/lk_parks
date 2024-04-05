@@ -1,8 +1,7 @@
 {
   "name": "Handroanthus guayacan",
   "authorship": "(Seem.) S.O.Grose",
-  "genus_name": "Handroanthus",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Handroanthus",
   "gbif_id": "4092274",
   "powo_id": "77085089-1",
   "iucn_id": "61985460",

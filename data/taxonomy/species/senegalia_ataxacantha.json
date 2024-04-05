@@ -1,8 +1,7 @@
 {
   "name": "Senegalia ataxacantha",
   "authorship": "(DC.) Kyal. & Boatwr.",
-  "genus_name": "Senegalia",
-  "family_name": "Fabaceae",
+  "parent_name": "Senegalia",
   "gbif_id": "7510932",
   "powo_id": "77130760-1",
   "iucn_id": "146218274",

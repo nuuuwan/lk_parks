@@ -1,8 +1,7 @@
 {
   "name": "Alnus spaethii",
   "authorship": "Callier",
-  "genus_name": "Alnus",
-  "family_name": "Betulaceae",
+  "parent_name": "Alnus",
   "gbif_id": "4097656",
   "powo_id": "107698-1",
   "iucn_id": null,

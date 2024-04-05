@@ -1,8 +1,7 @@
 {
   "name": "Ruellia beddomei",
   "authorship": "C.B.Clarke",
-  "genus_name": "Ruellia",
-  "family_name": "Acanthaceae",
+  "parent_name": "Ruellia",
   "gbif_id": "5575211",
   "powo_id": "53834-1",
   "iucn_id": null,

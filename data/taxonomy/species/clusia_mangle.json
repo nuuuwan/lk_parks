@@ -1,8 +1,7 @@
 {
   "name": "Clusia mangle",
   "authorship": "Rich. ex Planch. & Triana",
-  "genus_name": "Clusia",
-  "family_name": "Clusiaceae",
+  "parent_name": "Clusia",
   "gbif_id": "5556287",
   "powo_id": "427575-1",
   "iucn_id": null,

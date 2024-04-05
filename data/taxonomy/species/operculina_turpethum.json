@@ -1,8 +1,7 @@
 {
   "name": "Operculina turpethum",
   "authorship": "(L.) Silva Manso",
-  "genus_name": "Operculina",
-  "family_name": "Convolvulaceae",
+  "parent_name": "Operculina",
   "gbif_id": "5341747",
   "powo_id": "270819-1",
   "iucn_id": null,

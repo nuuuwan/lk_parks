@@ -1,8 +1,7 @@
 {
   "name": "Gymnostoma leucodon",
   "authorship": "(Poiss.) L.A.S.Johnson",
-  "genus_name": "Gymnostoma",
-  "family_name": "Casuarinaceae",
+  "parent_name": "Gymnostoma",
   "gbif_id": "2891813",
   "powo_id": "910716-1",
   "iucn_id": null,

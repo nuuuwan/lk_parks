@@ -1,8 +1,7 @@
 {
   "name": "Guarianthe aurantiaca",
   "authorship": "(Bateman ex Lindl.) Dressler & W.E.Higgins",
-  "genus_name": "Guarianthe",
-  "family_name": "Orchidaceae",
+  "parent_name": "Guarianthe",
   "gbif_id": "2816071",
   "powo_id": "1056444-2",
   "iucn_id": null,

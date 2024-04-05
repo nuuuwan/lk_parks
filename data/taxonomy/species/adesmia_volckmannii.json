@@ -1,8 +1,7 @@
 {
   "name": "Adesmia volckmannii",
   "authorship": "Phil.",
-  "genus_name": "Adesmia",
-  "family_name": "Fabaceae",
+  "parent_name": "Adesmia",
   "gbif_id": "5356155",
   "powo_id": "472605-1",
   "iucn_id": null,

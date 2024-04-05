@@ -1,8 +1,7 @@
 {
   "name": "Coriandrum sativum",
   "authorship": "L.",
-  "genus_name": "Coriandrum",
-  "family_name": "Apiaceae",
+  "parent_name": "Coriandrum",
   "gbif_id": "3034871",
   "powo_id": "840760-1",
   "iucn_id": null,

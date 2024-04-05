@@ -1,8 +1,7 @@
 {
   "name": "Bourreria costaricensis",
   "authorship": "(Standl.) A.H.Gentry",
-  "genus_name": "Bourreria",
-  "family_name": "Boraginaceae",
+  "parent_name": "Bourreria",
   "gbif_id": "4063296",
   "powo_id": "35482-2",
   "iucn_id": "149892088",

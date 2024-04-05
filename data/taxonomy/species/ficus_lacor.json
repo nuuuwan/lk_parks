@@ -1,8 +1,7 @@
 {
   "name": "Ficus lacor",
   "authorship": "Buch.-Ham.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5572206",
   "powo_id": "853069-1",
   "iucn_id": null,

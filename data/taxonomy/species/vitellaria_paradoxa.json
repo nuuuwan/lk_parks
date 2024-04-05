@@ -1,8 +1,7 @@
 {
   "name": "Vitellaria paradoxa",
   "authorship": "C.F.Gaertn.",
-  "genus_name": "Vitellaria",
-  "family_name": "Sapotaceae",
+  "parent_name": "Vitellaria",
   "gbif_id": "2886750",
   "powo_id": "790034-1",
   "iucn_id": "37083",

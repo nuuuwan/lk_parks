@@ -1,8 +1,7 @@
 {
   "name": "Eleutheranthera ruderalis",
   "authorship": "(Sw.) Sch.Bip.",
-  "genus_name": "Eleutheranthera",
-  "family_name": "Asteraceae",
+  "parent_name": "Eleutheranthera",
   "gbif_id": "3119915",
   "powo_id": "202984-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Persicaria glabra",
   "authorship": "(Willd.) M.G\u00f3mez",
-  "genus_name": "Persicaria",
-  "family_name": "Polygonaceae",
+  "parent_name": "Persicaria",
   "gbif_id": "6391450",
   "powo_id": "1005755-2",
   "iucn_id": null,

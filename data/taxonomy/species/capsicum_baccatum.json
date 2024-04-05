@@ -1,8 +1,7 @@
 {
   "name": "Capsicum baccatum",
   "authorship": "L.",
-  "genus_name": "Capsicum",
-  "family_name": "Solanaceae",
+  "parent_name": "Capsicum",
   "gbif_id": "2932938",
   "powo_id": "814733-1",
   "iucn_id": null,

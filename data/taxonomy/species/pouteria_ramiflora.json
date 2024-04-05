@@ -1,8 +1,7 @@
 {
   "name": "Pouteria ramiflora",
   "authorship": "(Mart.) Radlk.",
-  "genus_name": "Pouteria",
-  "family_name": "Sapotaceae",
+  "parent_name": "Pouteria",
   "gbif_id": "2884228",
   "powo_id": "789144-1",
   "iucn_id": "154664944",

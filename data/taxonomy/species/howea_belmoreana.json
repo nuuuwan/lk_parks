@@ -1,8 +1,7 @@
 {
   "name": "Howea belmoreana",
   "authorship": "(C.Moore & F.Muell.) Becc.",
-  "genus_name": "Howea",
-  "family_name": "Arecaceae",
+  "parent_name": "Howea",
   "gbif_id": "7783777",
   "powo_id": "667432-1",
   "iucn_id": "38576",

@@ -1,8 +1,7 @@
 {
   "name": "Dentella repens",
   "authorship": "(L.) J.R.Forst. & G.Forst.",
-  "genus_name": "Dentella",
-  "family_name": "Rubiaceae",
+  "parent_name": "Dentella",
   "gbif_id": "2900952",
   "powo_id": "748287-1",
   "iucn_id": "199701",

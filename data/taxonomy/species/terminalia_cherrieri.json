@@ -1,8 +1,7 @@
 {
   "name": "Terminalia cherrieri",
   "authorship": "MacKee",
-  "genus_name": "Terminalia",
-  "family_name": "Combretaceae",
+  "parent_name": "Terminalia",
   "gbif_id": "3698616",
   "powo_id": "905425-1",
   "iucn_id": "31324",

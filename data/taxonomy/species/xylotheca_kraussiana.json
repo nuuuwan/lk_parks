@@ -1,8 +1,7 @@
 {
   "name": "Xylotheca kraussiana",
   "authorship": "Hochst.",
-  "genus_name": "Xylotheca",
-  "family_name": "Achariaceae",
+  "parent_name": "Xylotheca",
   "gbif_id": "5603635",
   "powo_id": "112183-1",
   "iucn_id": "146436800",

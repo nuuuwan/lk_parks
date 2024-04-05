@@ -1,8 +1,7 @@
 {
   "name": "Bassia scoparia",
   "authorship": "(L.) A.J.Scott",
-  "genus_name": "Bassia",
-  "family_name": "Amaranthaceae",
+  "parent_name": "Bassia",
   "gbif_id": "5383936",
   "powo_id": "164422-1",
   "iucn_id": null,

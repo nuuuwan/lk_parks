@@ -1,8 +1,7 @@
 {
   "name": "Artocarpus camansi",
   "authorship": "Blanco",
-  "genus_name": "Artocarpus",
-  "family_name": "Moraceae",
+  "parent_name": "Artocarpus",
   "gbif_id": "3765081",
   "powo_id": "850363-1",
   "iucn_id": "86528651",

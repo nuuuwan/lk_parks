@@ -1,8 +1,7 @@
 {
   "name": "Arbutus xalapensis",
   "authorship": "Kunth",
-  "genus_name": "Arbutus",
-  "family_name": "Ericaceae",
+  "parent_name": "Arbutus",
   "gbif_id": "2882799",
   "powo_id": "309483-2",
   "iucn_id": "38918",

@@ -1,8 +1,7 @@
 {
   "name": "Flagellaria indica",
   "authorship": "L.",
-  "genus_name": "Flagellaria",
-  "family_name": "Flagellariaceae",
+  "parent_name": "Flagellaria",
   "gbif_id": "5287564",
   "powo_id": "366164-1",
   "iucn_id": null,

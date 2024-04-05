@@ -1,8 +1,7 @@
 {
   "name": "Ochna insculpta",
   "authorship": "Sleumer",
-  "genus_name": "Ochna",
-  "family_name": "Ochnaceae",
+  "parent_name": "Ochna",
   "gbif_id": "3695987",
   "powo_id": "606650-1",
   "iucn_id": null,

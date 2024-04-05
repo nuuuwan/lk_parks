@@ -1,8 +1,7 @@
 {
   "name": "Dulichium arundinaceum",
   "authorship": "(L.) Britton",
-  "genus_name": "Dulichium",
-  "family_name": "Cyperaceae",
+  "parent_name": "Dulichium",
   "gbif_id": "5292775",
   "powo_id": "85782-2",
   "iucn_id": "64311222",

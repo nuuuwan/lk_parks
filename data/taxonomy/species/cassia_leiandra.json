@@ -1,8 +1,7 @@
 {
   "name": "Cassia leiandra",
   "authorship": "Benth.",
-  "genus_name": "Cassia",
-  "family_name": "Fabaceae",
+  "parent_name": "Cassia",
   "gbif_id": "5357153",
   "powo_id": "48715-2",
   "iucn_id": "58966355",

@@ -1,8 +1,7 @@
 {
   "name": "Guarea gentryi",
   "authorship": "Coronado",
-  "genus_name": "Guarea",
-  "family_name": "Meliaceae",
+  "parent_name": "Guarea",
   "gbif_id": "3852231",
   "powo_id": "77085502-1",
   "iucn_id": "151949087",

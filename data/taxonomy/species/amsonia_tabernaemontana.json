@@ -1,8 +1,7 @@
 {
   "name": "Amsonia tabernaemontana",
   "authorship": "Walter",
-  "genus_name": "Amsonia",
-  "family_name": "Apocynaceae",
+  "parent_name": "Amsonia",
   "gbif_id": "3169689",
   "powo_id": "76931-1",
   "iucn_id": null,

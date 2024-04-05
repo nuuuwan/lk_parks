@@ -1,8 +1,7 @@
 {
   "name": "Cenchrus ciliaris",
   "authorship": "L.",
-  "genus_name": "Cenchrus",
-  "family_name": "Poaceae",
+  "parent_name": "Cenchrus",
   "gbif_id": "4109540",
   "powo_id": "395214-1",
   "iucn_id": "13490705",

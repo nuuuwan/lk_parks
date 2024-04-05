@@ -1,8 +1,7 @@
 {
   "name": "Pentapetes phoenicea",
   "authorship": "L.",
-  "genus_name": "Pentapetes",
-  "family_name": "Malvaceae",
+  "parent_name": "Pentapetes",
   "gbif_id": "3152140",
   "powo_id": "824676-1",
   "iucn_id": null,

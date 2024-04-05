@@ -1,8 +1,7 @@
 {
   "name": "Acokanthera oblongifolia",
   "authorship": "(Hochst.) Benth. & Hook.f. ex B.D.Jacks.",
-  "genus_name": "Acokanthera",
-  "family_name": "Apocynaceae",
+  "parent_name": "Acokanthera",
   "gbif_id": "7934175",
   "powo_id": "77164695-1",
   "iucn_id": "141549206",

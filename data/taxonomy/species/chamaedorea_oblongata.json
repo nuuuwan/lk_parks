@@ -1,8 +1,7 @@
 {
   "name": "Chamaedorea oblongata",
   "authorship": "Mart.",
-  "genus_name": "Chamaedorea",
-  "family_name": "Arecaceae",
+  "parent_name": "Chamaedorea",
   "gbif_id": "2734422",
   "powo_id": "54920-2",
   "iucn_id": "55958329",

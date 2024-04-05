@@ -1,8 +1,7 @@
 {
   "name": "Rhus typhina",
   "authorship": "L.",
-  "genus_name": "Rhus",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Rhus",
   "gbif_id": "3190538",
   "powo_id": "70939-1",
   "iucn_id": "61984086",

@@ -1,8 +1,7 @@
 {
   "name": "Rhododendron nivale",
   "authorship": "Hook.f.",
-  "genus_name": "Rhododendron",
-  "family_name": "Ericaceae",
+  "parent_name": "Rhododendron",
   "gbif_id": "7328203",
   "powo_id": "332966-1",
   "iucn_id": null,

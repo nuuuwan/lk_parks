@@ -1,8 +1,7 @@
 {
   "name": "Lemna minor",
   "authorship": "L.",
-  "genus_name": "Lemna",
-  "family_name": "Araceae",
+  "parent_name": "Lemna",
   "gbif_id": "2867589",
   "powo_id": "526194-1",
   "iucn_id": "164057",

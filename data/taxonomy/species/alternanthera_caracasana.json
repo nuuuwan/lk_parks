@@ -1,8 +1,7 @@
 {
   "name": "Alternanthera caracasana",
   "authorship": "Kunth",
-  "genus_name": "Alternanthera",
-  "family_name": "Amaranthaceae",
+  "parent_name": "Alternanthera",
   "gbif_id": "3084958",
   "powo_id": "327344-2",
   "iucn_id": null,

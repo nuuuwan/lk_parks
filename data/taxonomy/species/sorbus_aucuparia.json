@@ -1,8 +1,7 @@
 {
   "name": "Sorbus aucuparia",
   "authorship": "L.",
-  "genus_name": "Sorbus",
-  "family_name": "Rosaceae",
+  "parent_name": "Sorbus",
   "gbif_id": "3012167",
   "powo_id": "741641-1",
   "iucn_id": "61957558",

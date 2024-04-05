@@ -1,8 +1,7 @@
 {
   "name": "Olea lancea",
   "authorship": "Lam.",
-  "genus_name": "Olea",
-  "family_name": "Oleaceae",
+  "parent_name": "Olea",
   "gbif_id": "5549923",
   "powo_id": "610718-1",
   "iucn_id": "99011497",

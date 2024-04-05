@@ -1,8 +1,7 @@
 {
   "name": "Lactuca indica",
   "authorship": "L.",
-  "genus_name": "Lactuca",
-  "family_name": "Asteraceae",
+  "parent_name": "Lactuca",
   "gbif_id": "3140510",
   "powo_id": "228047-1",
   "iucn_id": null,

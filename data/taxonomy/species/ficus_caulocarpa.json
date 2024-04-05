@@ -1,8 +1,7 @@
 {
   "name": "Ficus caulocarpa",
   "authorship": "(Miq.) Miq.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5570779",
   "powo_id": "852573-1",
   "iucn_id": "145362901",

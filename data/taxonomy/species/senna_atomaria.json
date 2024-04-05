@@ -1,8 +1,7 @@
 {
   "name": "Senna atomaria",
   "authorship": "(L.) H.S.Irwin & Barneby",
-  "genus_name": "Senna",
-  "family_name": "Fabaceae",
+  "parent_name": "Senna",
   "gbif_id": "2957695",
   "powo_id": "234410-2",
   "iucn_id": "130524697",

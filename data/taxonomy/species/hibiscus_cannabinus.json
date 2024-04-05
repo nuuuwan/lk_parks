@@ -1,8 +1,7 @@
 {
   "name": "Hibiscus cannabinus",
   "authorship": "L.",
-  "genus_name": "Hibiscus",
-  "family_name": "Malvaceae",
+  "parent_name": "Hibiscus",
   "gbif_id": "3152547",
   "powo_id": "560068-1",
   "iucn_id": null,

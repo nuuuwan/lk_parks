@@ -1,8 +1,7 @@
 {
   "name": "Ludwigia peruviana",
   "authorship": "(L.) H.Hara",
-  "genus_name": "Ludwigia",
-  "family_name": "Onagraceae",
+  "parent_name": "Ludwigia",
   "gbif_id": "5421024",
   "powo_id": "144406-2",
   "iucn_id": null,

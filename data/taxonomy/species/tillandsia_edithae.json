@@ -1,8 +1,7 @@
 {
   "name": "Tillandsia edithae",
   "authorship": "Rauh",
-  "genus_name": "Tillandsia",
-  "family_name": "Bromeliaceae",
+  "parent_name": "Tillandsia",
   "gbif_id": "2694583",
   "powo_id": "253804-2",
   "iucn_id": null,

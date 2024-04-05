@@ -1,8 +1,7 @@
 {
   "name": "Cassinia arcuata",
   "authorship": "R.Br.",
-  "genus_name": "Cassinia",
-  "family_name": "Asteraceae",
+  "parent_name": "Cassinia",
   "gbif_id": "5390398",
   "powo_id": "189551-1",
   "iucn_id": null,

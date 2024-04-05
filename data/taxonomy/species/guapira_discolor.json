@@ -1,8 +1,7 @@
 {
   "name": "Guapira discolor",
   "authorship": "(Spreng.) Little",
-  "genus_name": "Guapira",
-  "family_name": "Nyctaginaceae",
+  "parent_name": "Guapira",
   "gbif_id": "3086055",
   "powo_id": "113927-2",
   "iucn_id": "181463873",

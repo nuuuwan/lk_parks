@@ -1,8 +1,7 @@
 {
   "name": "Combretum mossambicense",
   "authorship": "(Klotzsch) Engl.",
-  "genus_name": "Combretum",
-  "family_name": "Combretaceae",
+  "parent_name": "Combretum",
   "gbif_id": "3699963",
   "powo_id": "170296-1",
   "iucn_id": "146220399",

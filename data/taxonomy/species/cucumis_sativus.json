@@ -1,8 +1,7 @@
 {
   "name": "Cucumis sativus",
   "authorship": "L.",
-  "genus_name": "Cucumis",
-  "family_name": "Cucurbitaceae",
+  "parent_name": "Cucumis",
   "gbif_id": "2874569",
   "powo_id": "292296-1",
   "iucn_id": null,

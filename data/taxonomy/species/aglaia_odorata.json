@@ -1,8 +1,7 @@
 {
   "name": "Aglaia odorata",
   "authorship": "Lour.",
-  "genus_name": "Aglaia",
-  "family_name": "Meliaceae",
+  "parent_name": "Aglaia",
   "gbif_id": "5597349",
   "powo_id": "577227-1",
   "iucn_id": "34913",

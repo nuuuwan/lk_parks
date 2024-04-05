@@ -1,8 +1,7 @@
 {
   "name": "Sterculia urens",
   "authorship": "Roxb.",
-  "genus_name": "Sterculia",
-  "family_name": "Malvaceae",
+  "parent_name": "Sterculia",
   "gbif_id": "5406674",
   "powo_id": "825508-1",
   "iucn_id": null,

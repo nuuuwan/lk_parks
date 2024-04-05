@@ -1,8 +1,7 @@
 {
   "name": "Paspalum vaginatum",
   "authorship": "Sw.",
-  "genus_name": "Paspalum",
-  "family_name": "Poaceae",
+  "parent_name": "Paspalum",
   "gbif_id": "8100050",
   "powo_id": "184742-2",
   "iucn_id": "177401",

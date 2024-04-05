@@ -1,8 +1,7 @@
 {
   "name": "Ruellia ciliatiflora",
   "authorship": "Hook.",
-  "genus_name": "Ruellia",
-  "family_name": "Acanthaceae",
+  "parent_name": "Ruellia",
   "gbif_id": "5415406",
   "powo_id": "53920-1",
   "iucn_id": null,

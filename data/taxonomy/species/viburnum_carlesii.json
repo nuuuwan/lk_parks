@@ -1,8 +1,7 @@
 {
   "name": "Viburnum carlesii",
   "authorship": "Hemsl.",
-  "genus_name": "Viburnum",
-  "family_name": "Viburnaceae",
+  "parent_name": "Viburnum",
   "gbif_id": "3857225",
   "powo_id": "149599-1",
   "iucn_id": null,

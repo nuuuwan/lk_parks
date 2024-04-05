@@ -1,8 +1,7 @@
 {
   "name": "Geonoma schottiana",
   "authorship": "Mart.",
-  "genus_name": "Geonoma",
-  "family_name": "Arecaceae",
+  "parent_name": "Geonoma",
   "gbif_id": "2734237",
   "powo_id": "667248-1",
   "iucn_id": null,

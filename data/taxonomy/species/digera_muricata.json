@@ -1,8 +1,7 @@
 {
   "name": "Digera muricata",
   "authorship": "(L.) Mart.",
-  "genus_name": "Digera",
-  "family_name": "Amaranthaceae",
+  "parent_name": "Digera",
   "gbif_id": "6429755",
   "powo_id": "60279-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Plumbago zeylanica",
   "authorship": "L.",
-  "genus_name": "Plumbago",
-  "family_name": "Plumbaginaceae",
+  "parent_name": "Plumbago",
   "gbif_id": "3082282",
   "powo_id": "687109-1",
   "iucn_id": null,

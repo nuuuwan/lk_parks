@@ -1,8 +1,7 @@
 {
   "name": "Inga longispica",
   "authorship": "Standl.",
-  "genus_name": "Inga",
-  "family_name": "Fabaceae",
+  "parent_name": "Inga",
   "gbif_id": "5357740",
   "powo_id": "128590-2",
   "iucn_id": "142674486",

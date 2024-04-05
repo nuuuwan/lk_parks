@@ -1,8 +1,7 @@
 {
   "name": "Cryptostegia madagascariensis",
   "authorship": "Bojer ex Decne.",
-  "genus_name": "Cryptostegia",
-  "family_name": "Apocynaceae",
+  "parent_name": "Cryptostegia",
   "gbif_id": "3170471",
   "powo_id": "95963-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Ailanthus excelsa",
   "authorship": "Roxb.",
-  "genus_name": "Ailanthus",
-  "family_name": "Simaroubaceae",
+  "parent_name": "Ailanthus",
   "gbif_id": "3709036",
   "powo_id": "813527-1",
   "iucn_id": null,

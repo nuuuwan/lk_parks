@@ -1,8 +1,7 @@
 {
   "name": "Aechmea huebneri",
   "authorship": "Harms",
-  "genus_name": "Aechmea",
-  "family_name": "Bromeliaceae",
+  "parent_name": "Aechmea",
   "gbif_id": "2698467",
   "powo_id": "5477-2",
   "iucn_id": null,

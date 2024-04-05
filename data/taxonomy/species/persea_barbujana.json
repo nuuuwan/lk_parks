@@ -1,8 +1,7 @@
 {
   "name": "Persea barbujana",
   "authorship": "(Cav.) Mabb. & Nieto Fel.",
-  "genus_name": "Persea",
-  "family_name": "Lauraceae",
+  "parent_name": "Persea",
   "gbif_id": "9495972",
   "powo_id": "77164254-1",
   "iucn_id": null,

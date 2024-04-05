@@ -1,8 +1,7 @@
 {
   "name": "Parinari excelsa",
   "authorship": "Sabine",
-  "genus_name": "Parinari",
-  "family_name": "Chrysobalanaceae",
+  "parent_name": "Parinari",
   "gbif_id": "2985000",
   "powo_id": "727101-1",
   "iucn_id": "61988748",

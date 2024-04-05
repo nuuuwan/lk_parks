@@ -1,8 +1,7 @@
 {
   "name": "Aristolochia tricaudata",
   "authorship": "Lem.",
-  "genus_name": "Aristolochia",
-  "family_name": "Aristolochiaceae",
+  "parent_name": "Aristolochia",
   "gbif_id": "3589728",
   "powo_id": "93404-1",
   "iucn_id": null,

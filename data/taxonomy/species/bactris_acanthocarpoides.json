@@ -1,8 +1,7 @@
 {
   "name": "Bactris acanthocarpoides",
   "authorship": "Barb.Rodr.",
-  "genus_name": "Bactris",
-  "family_name": "Arecaceae",
+  "parent_name": "Bactris",
   "gbif_id": "2733177",
   "powo_id": "664490-1",
   "iucn_id": null,

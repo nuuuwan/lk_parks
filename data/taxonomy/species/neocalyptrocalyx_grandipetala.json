@@ -1,8 +1,7 @@
 {
   "name": "Neocalyptrocalyx grandipetala",
   "authorship": "(Maguire & Steyerm.) Cornejo & Iltis",
-  "genus_name": "Neocalyptrocalyx",
-  "family_name": "Capparaceae",
+  "parent_name": "Neocalyptrocalyx",
   "gbif_id": "3872999",
   "powo_id": "77096478-1",
   "iucn_id": null,

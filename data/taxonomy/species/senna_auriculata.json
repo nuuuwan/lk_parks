@@ -1,8 +1,7 @@
 {
   "name": "Senna auriculata",
   "authorship": "(L.) Roxb.",
-  "genus_name": "Senna",
-  "family_name": "Fabaceae",
+  "parent_name": "Senna",
   "gbif_id": "2956966",
   "powo_id": "518328-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Cattleya wittigiana",
   "authorship": "(Barb.Rodr.) Van den Berg",
-  "genus_name": "Cattleya",
-  "family_name": "Orchidaceae",
+  "parent_name": "Cattleya",
   "gbif_id": "2811938",
   "powo_id": "60448130-2",
   "iucn_id": null,

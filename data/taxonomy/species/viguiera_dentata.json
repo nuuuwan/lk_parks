@@ -1,8 +1,7 @@
 {
   "name": "Viguiera dentata",
   "authorship": "(Cav.) Spreng.",
-  "genus_name": "Viguiera",
-  "family_name": "Asteraceae",
+  "parent_name": "Viguiera",
   "gbif_id": "5389737",
   "powo_id": "259782-1",
   "iucn_id": null,

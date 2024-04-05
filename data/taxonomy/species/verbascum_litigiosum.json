@@ -1,8 +1,7 @@
 {
   "name": "Verbascum litigiosum",
   "authorship": "Samp.",
-  "genus_name": "Verbascum",
-  "family_name": "Scrophulariaceae",
+  "parent_name": "Verbascum",
   "gbif_id": "9644635",
   "powo_id": "811242-1",
   "iucn_id": "162235",

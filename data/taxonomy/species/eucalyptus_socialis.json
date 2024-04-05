@@ -1,8 +1,7 @@
 {
   "name": "Eucalyptus socialis",
   "authorship": "F.Muell. ex Miq.",
-  "genus_name": "Eucalyptus",
-  "family_name": "Myrtaceae",
+  "parent_name": "Eucalyptus",
   "gbif_id": "3177243",
   "powo_id": "593366-1",
   "iucn_id": "61916119",

@@ -1,8 +1,7 @@
 {
   "name": "Spathiphyllum friedrichsthalii",
   "authorship": "Schott",
-  "genus_name": "Spathiphyllum",
-  "family_name": "Araceae",
+  "parent_name": "Spathiphyllum",
   "gbif_id": "2869742",
   "powo_id": "88964-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Palicourea glomerulata",
   "authorship": "(Donn.Sm.) Borhidi",
-  "genus_name": "Palicourea",
-  "family_name": "Rubiaceae",
+  "parent_name": "Palicourea",
   "gbif_id": "7941503",
   "powo_id": "77115607-1",
   "iucn_id": "151977809",

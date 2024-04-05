@@ -1,8 +1,7 @@
 {
   "name": "Chimarrhis parviflora",
   "authorship": "Standl.",
-  "genus_name": "Chimarrhis",
-  "family_name": "Rubiaceae",
+  "parent_name": "Chimarrhis",
   "gbif_id": "2918960",
   "powo_id": "56528-2",
   "iucn_id": "150120347",

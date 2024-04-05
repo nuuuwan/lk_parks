@@ -1,8 +1,7 @@
 {
   "name": "Pycnandra grandifolia",
   "authorship": "(Vink) Munzinger & Swenson",
-  "genus_name": "Pycnandra",
-  "family_name": "Sapotaceae",
+  "parent_name": "Pycnandra",
   "gbif_id": "7518875",
   "powo_id": "77152190-1",
   "iucn_id": "158035636",

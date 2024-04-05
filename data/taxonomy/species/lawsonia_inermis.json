@@ -1,8 +1,7 @@
 {
   "name": "Lawsonia inermis",
   "authorship": "L.",
-  "genus_name": "Lawsonia",
-  "family_name": "Lythraceae",
+  "parent_name": "Lawsonia",
   "gbif_id": "5420912",
   "powo_id": "553638-1",
   "iucn_id": "138450837",

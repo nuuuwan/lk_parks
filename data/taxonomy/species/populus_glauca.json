@@ -1,8 +1,7 @@
 {
   "name": "Populus glauca",
   "authorship": "Haines",
-  "genus_name": "Populus",
-  "family_name": "Salicaceae",
+  "parent_name": "Populus",
   "gbif_id": "3804440",
   "powo_id": "776698-1",
   "iucn_id": null,

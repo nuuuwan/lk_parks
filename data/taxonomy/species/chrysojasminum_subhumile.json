@@ -1,8 +1,7 @@
 {
   "name": "Chrysojasminum subhumile",
   "authorship": "(W.W.Sm.) Banfi & Galasso",
-  "genus_name": "Chrysojasminum",
-  "family_name": "Oleaceae",
+  "parent_name": "Chrysojasminum",
   "gbif_id": "9453304",
   "powo_id": "77144237-1",
   "iucn_id": null,

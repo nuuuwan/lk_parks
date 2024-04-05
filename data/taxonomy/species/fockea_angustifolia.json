@@ -1,8 +1,7 @@
 {
   "name": "Fockea angustifolia",
   "authorship": "K.Schum.",
-  "genus_name": "Fockea",
-  "family_name": "Apocynaceae",
+  "parent_name": "Fockea",
   "gbif_id": "3576109",
   "powo_id": "1004792-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Campyloneurum phyllitidis",
   "authorship": "(L.) C.Presl",
-  "genus_name": "Campyloneurum",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Campyloneurum",
   "gbif_id": "2650516",
   "powo_id": "17063380-1",
   "iucn_id": null,

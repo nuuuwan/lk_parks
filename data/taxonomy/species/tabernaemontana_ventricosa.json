@@ -1,8 +1,7 @@
 {
   "name": "Tabernaemontana ventricosa",
   "authorship": "Hochst. ex A.DC.",
-  "genus_name": "Tabernaemontana",
-  "family_name": "Apocynaceae",
+  "parent_name": "Tabernaemontana",
   "gbif_id": "3621302",
   "powo_id": "82377-1",
   "iucn_id": "146457429",

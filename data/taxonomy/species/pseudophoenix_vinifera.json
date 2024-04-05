@@ -1,8 +1,7 @@
 {
   "name": "Pseudophoenix vinifera",
   "authorship": "(Mart.) Becc.",
-  "genus_name": "Pseudophoenix",
-  "family_name": "Arecaceae",
+  "parent_name": "Pseudophoenix",
   "gbif_id": "2737013",
   "powo_id": "669309-1",
   "iucn_id": "201637",

@@ -1,8 +1,7 @@
 {
   "name": "Artocarpus kemando",
   "authorship": "Miq.",
-  "genus_name": "Artocarpus",
-  "family_name": "Moraceae",
+  "parent_name": "Artocarpus",
   "gbif_id": "3764693",
   "powo_id": "850399-1",
   "iucn_id": "86529216",

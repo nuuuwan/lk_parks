@@ -1,8 +1,7 @@
 {
   "name": "Vanda coerulescens",
   "authorship": "Griff.",
-  "genus_name": "Vanda",
-  "family_name": "Orchidaceae",
+  "parent_name": "Vanda",
   "gbif_id": "2783181",
   "powo_id": "660988-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Convolvulus floridus",
   "authorship": "L.f.",
-  "genus_name": "Convolvulus",
-  "family_name": "Convolvulaceae",
+  "parent_name": "Convolvulus",
   "gbif_id": "7943397",
   "powo_id": "266222-1",
   "iucn_id": "104193084",

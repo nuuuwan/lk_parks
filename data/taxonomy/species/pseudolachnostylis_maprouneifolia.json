@@ -1,8 +1,7 @@
 {
   "name": "Pseudolachnostylis maprouneifolia",
   "authorship": "Pax",
-  "genus_name": "Pseudolachnostylis",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Pseudolachnostylis",
   "gbif_id": "3079056",
   "powo_id": "355079-1",
   "iucn_id": "147269133",

@@ -1,8 +1,7 @@
 {
   "name": "Aganope stuhlmannii",
   "authorship": "(Taub.) Adema",
-  "genus_name": "Aganope",
-  "family_name": "Fabaceae",
+  "parent_name": "Aganope",
   "gbif_id": "3968934",
   "powo_id": "1020686-1",
   "iucn_id": "147040135",

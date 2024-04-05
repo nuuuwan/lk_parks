@@ -1,8 +1,7 @@
 {
   "name": "Koelreuteria paniculata",
   "authorship": "Laxm.",
-  "genus_name": "Koelreuteria",
-  "family_name": "Sapindaceae",
+  "parent_name": "Koelreuteria",
   "gbif_id": "5421180",
   "powo_id": "783426-1",
   "iucn_id": "18776387",

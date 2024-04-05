@@ -1,8 +1,7 @@
 {
   "name": "Dahlia cultorum",
   "authorship": "Thorsrud & Reisaeter",
-  "genus_name": "Dahlia",
-  "family_name": "Asteraceae",
+  "parent_name": "Dahlia",
   "gbif_id": "5701337",
   "powo_id": "200947-1",
   "iucn_id": null,

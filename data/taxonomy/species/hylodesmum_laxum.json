@@ -1,8 +1,7 @@
 {
   "name": "Hylodesmum laxum",
   "authorship": "(DC.) H.Ohashi & R.R.Mill",
-  "genus_name": "Hylodesmum",
-  "family_name": "Fabaceae",
+  "parent_name": "Hylodesmum",
   "gbif_id": "2971248",
   "powo_id": "1014613-1",
   "iucn_id": null,

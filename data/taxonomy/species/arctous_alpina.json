@@ -1,8 +1,7 @@
 {
   "name": "Arctous alpina",
   "authorship": "(L.) Nied.",
-  "genus_name": "Arctous",
-  "family_name": "Ericaceae",
+  "parent_name": "Arctous",
   "gbif_id": "2882527",
   "powo_id": "17976-2",
   "iucn_id": null,

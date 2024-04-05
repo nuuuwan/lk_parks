@@ -1,8 +1,7 @@
 {
   "name": "Carpinus orientalis",
   "authorship": "Mill.",
-  "genus_name": "Carpinus",
-  "family_name": "Betulaceae",
+  "parent_name": "Carpinus",
   "gbif_id": "2875780",
   "powo_id": "295271-1",
   "iucn_id": "194499",

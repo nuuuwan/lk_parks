@@ -1,8 +1,7 @@
 {
   "name": "Cycas thouarsii",
   "authorship": "R.Br.",
-  "genus_name": "Cycas",
-  "family_name": "Cycadaceae",
+  "parent_name": "Cycas",
   "gbif_id": "8193274",
   "powo_id": "297044-1",
   "iucn_id": "41940",

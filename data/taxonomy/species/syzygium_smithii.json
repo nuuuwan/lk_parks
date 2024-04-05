@@ -1,8 +1,7 @@
 {
   "name": "Syzygium smithii",
   "authorship": "(Poir.) Nied.",
-  "genus_name": "Syzygium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syzygium",
   "gbif_id": "3184410",
   "powo_id": "68629-3",
   "iucn_id": null,

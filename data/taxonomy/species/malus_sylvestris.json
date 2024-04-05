@@ -1,8 +1,7 @@
 {
   "name": "Malus sylvestris",
   "authorship": "(L.) Mill.",
-  "genus_name": "Malus",
-  "family_name": "Rosaceae",
+  "parent_name": "Malus",
   "gbif_id": "3001509",
   "powo_id": "726415-1",
   "iucn_id": "172170",

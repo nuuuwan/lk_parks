@@ -1,8 +1,7 @@
 {
   "name": "Barbarea orthoceras",
   "authorship": "Ledeb.",
-  "genus_name": "Barbarea",
-  "family_name": "Brassicaceae",
+  "parent_name": "Barbarea",
   "gbif_id": "5374604",
   "powo_id": "278881-1",
   "iucn_id": null,

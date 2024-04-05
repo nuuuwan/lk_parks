@@ -1,8 +1,7 @@
 {
   "name": "Dicorynia guianensis",
   "authorship": "Amshoff",
-  "genus_name": "Dicorynia",
-  "family_name": "Fabaceae",
+  "parent_name": "Dicorynia",
   "gbif_id": "2944663",
   "powo_id": "79811-2",
   "iucn_id": null,

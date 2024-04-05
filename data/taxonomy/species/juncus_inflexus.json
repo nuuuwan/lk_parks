@@ -1,8 +1,7 @@
 {
   "name": "Juncus inflexus",
   "authorship": "L.",
-  "genus_name": "Juncus",
-  "family_name": "Juncaceae",
+  "parent_name": "Juncus",
   "gbif_id": "2701841",
   "powo_id": "443065-1",
   "iucn_id": "164245",

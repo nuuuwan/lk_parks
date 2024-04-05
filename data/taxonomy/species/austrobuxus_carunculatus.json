@@ -1,8 +1,7 @@
 {
   "name": "Austrobuxus carunculatus",
   "authorship": "(Baill.) Airy Shaw",
-  "genus_name": "Austrobuxus",
-  "family_name": "Picrodendraceae",
+  "parent_name": "Austrobuxus",
   "gbif_id": "3075284",
   "powo_id": "339566-1",
   "iucn_id": null,

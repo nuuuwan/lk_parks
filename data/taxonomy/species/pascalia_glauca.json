@@ -1,8 +1,7 @@
 {
   "name": "Pascalia glauca",
   "authorship": "Ortega",
-  "genus_name": "Pascalia",
-  "family_name": "Asteraceae",
+  "parent_name": "Pascalia",
   "gbif_id": "3126654",
   "powo_id": "184125-2",
   "iucn_id": null,

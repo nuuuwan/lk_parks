@@ -1,8 +1,7 @@
 {
   "name": "Tabebuia cassinoides",
   "authorship": "(Lam.) DC.",
-  "genus_name": "Tabebuia",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Tabebuia",
   "gbif_id": "4094621",
   "powo_id": "110873-1",
   "iucn_id": null,

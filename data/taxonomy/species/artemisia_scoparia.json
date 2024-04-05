@@ -1,8 +1,7 @@
 {
   "name": "Artemisia scoparia",
   "authorship": "Waldst. & Kit.",
-  "genus_name": "Artemisia",
-  "family_name": "Asteraceae",
+  "parent_name": "Artemisia",
   "gbif_id": "3120713",
   "powo_id": "180092-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Tillandsia globosa",
   "authorship": "Wawra",
-  "genus_name": "Tillandsia",
-  "family_name": "Bromeliaceae",
+  "parent_name": "Tillandsia",
   "gbif_id": "2695697",
   "powo_id": "125182-1",
   "iucn_id": null,

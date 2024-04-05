@@ -1,8 +1,7 @@
 {
   "name": "Indigofera australis",
   "authorship": "Willd.",
-  "genus_name": "Indigofera",
-  "family_name": "Fabaceae",
+  "parent_name": "Indigofera",
   "gbif_id": "2971785",
   "powo_id": "499017-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Arenga caudata",
   "authorship": "(Lour.) H.E.Moore",
-  "genus_name": "Arenga",
-  "family_name": "Arecaceae",
+  "parent_name": "Arenga",
   "gbif_id": "2733957",
   "powo_id": "664247-1",
   "iucn_id": null,

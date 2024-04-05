@@ -1,8 +1,7 @@
 {
   "name": "Castilleja miniata",
   "authorship": "Douglas ex Benth.",
-  "genus_name": "Castilleja",
-  "family_name": "Orobanchaceae",
+  "parent_name": "Castilleja",
   "gbif_id": "11016707",
   "powo_id": "801055-1",
   "iucn_id": null,

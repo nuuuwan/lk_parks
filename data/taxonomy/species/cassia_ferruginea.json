@@ -1,8 +1,7 @@
 {
   "name": "Cassia ferruginea",
   "authorship": "(Schrad.) DC.",
-  "genus_name": "Cassia",
-  "family_name": "Fabaceae",
+  "parent_name": "Cassia",
   "gbif_id": "5357068",
   "powo_id": "484499-1",
   "iucn_id": "22484044",

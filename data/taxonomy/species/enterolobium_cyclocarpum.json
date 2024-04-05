@@ -1,8 +1,7 @@
 {
   "name": "Enterolobium cyclocarpum",
   "authorship": "(Jacq.) Griseb.",
-  "genus_name": "Enterolobium",
-  "family_name": "Fabaceae",
+  "parent_name": "Enterolobium",
   "gbif_id": "2961150",
   "powo_id": "1037928-2",
   "iucn_id": "62025161",

@@ -1,8 +1,7 @@
 {
   "name": "Gymnosporia senegalensis",
   "authorship": "(Lam.) Loes.",
-  "genus_name": "Gymnosporia",
-  "family_name": "Celastraceae",
+  "parent_name": "Gymnosporia",
   "gbif_id": "3793847",
   "powo_id": "161441-1",
   "iucn_id": "79913832",

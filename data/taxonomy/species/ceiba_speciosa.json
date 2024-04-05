@@ -1,8 +1,7 @@
 {
   "name": "Ceiba speciosa",
   "authorship": "(A.St.-Hil., A.Juss. & Cambess.) Ravenna",
-  "genus_name": "Ceiba",
-  "family_name": "Malvaceae",
+  "parent_name": "Ceiba",
   "gbif_id": "8688929",
   "powo_id": "1005661-1",
   "iucn_id": "61782892",

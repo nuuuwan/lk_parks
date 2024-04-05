@@ -1,8 +1,7 @@
 {
   "name": "Diploglottis campbellii",
   "authorship": "Cheel",
-  "genus_name": "Diploglottis",
-  "family_name": "Sapindaceae",
+  "parent_name": "Diploglottis",
   "gbif_id": null,
   "powo_id": "782806-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Lysimachia europaea",
   "authorship": "(L.) U.Manns & Anderb.",
-  "genus_name": "Lysimachia",
-  "family_name": "Primulaceae",
+  "parent_name": "Lysimachia",
   "gbif_id": "8272844",
   "powo_id": "77100395-1",
   "iucn_id": null,

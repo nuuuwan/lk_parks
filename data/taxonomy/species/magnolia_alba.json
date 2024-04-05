@@ -1,8 +1,7 @@
 {
   "name": "Magnolia alba",
   "authorship": "(DC.) Figlar",
-  "genus_name": "Magnolia",
-  "family_name": "Magnoliaceae",
+  "parent_name": "Magnolia",
   "gbif_id": "3987892",
   "powo_id": "20011680-1",
   "iucn_id": null,

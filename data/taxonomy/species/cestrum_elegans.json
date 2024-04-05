@@ -1,8 +1,7 @@
 {
   "name": "Cestrum elegans",
   "authorship": "(Brongn. ex Neumann) Schltdl.",
-  "genus_name": "Cestrum",
-  "family_name": "Solanaceae",
+  "parent_name": "Cestrum",
   "gbif_id": "6403186",
   "powo_id": "815003-1",
   "iucn_id": "126624876",

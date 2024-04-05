@@ -1,8 +1,7 @@
 {
   "name": "Physocarpus capitatus",
   "authorship": "(Pursh) Kuntze",
-  "genus_name": "Physocarpus",
-  "family_name": "Rosaceae",
+  "parent_name": "Physocarpus",
   "gbif_id": "2988390",
   "powo_id": "195615-2",
   "iucn_id": null,

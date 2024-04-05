@@ -1,8 +1,7 @@
 {
   "name": "Gardenia gummifera",
   "authorship": "L.f.",
-  "genus_name": "Gardenia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Gardenia",
   "gbif_id": "5335166",
   "powo_id": "751047-1",
   "iucn_id": "34622",

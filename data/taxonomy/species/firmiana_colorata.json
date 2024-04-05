@@ -1,8 +1,7 @@
 {
   "name": "Firmiana colorata",
   "authorship": "(Roxb.) R.Br.",
-  "genus_name": "Firmiana",
-  "family_name": "Malvaceae",
+  "parent_name": "Firmiana",
   "gbif_id": "7322920",
   "powo_id": "941596-1",
   "iucn_id": "191689117",

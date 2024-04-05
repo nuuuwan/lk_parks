@@ -1,8 +1,7 @@
 {
   "name": "Byrsonima punctulata",
   "authorship": "A.Juss.",
-  "genus_name": "Byrsonima",
-  "family_name": "Malpighiaceae",
+  "parent_name": "Byrsonima",
   "gbif_id": "3984830",
   "powo_id": "556167-1",
   "iucn_id": "145523283",

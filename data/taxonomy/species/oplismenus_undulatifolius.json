@@ -1,8 +1,7 @@
 {
   "name": "Oplismenus undulatifolius",
   "authorship": "(Ard.) P.Beauv.",
-  "genus_name": "Oplismenus",
-  "family_name": "Poaceae",
+  "parent_name": "Oplismenus",
   "gbif_id": "7745203",
   "powo_id": "941386-1",
   "iucn_id": null,

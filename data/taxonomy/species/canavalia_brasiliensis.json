@@ -1,8 +1,7 @@
 {
   "name": "Canavalia brasiliensis",
   "authorship": "Mart. ex Benth.",
-  "genus_name": "Canavalia",
-  "family_name": "Fabaceae",
+  "parent_name": "Canavalia",
   "gbif_id": "2962154",
   "powo_id": "483623-1",
   "iucn_id": null,

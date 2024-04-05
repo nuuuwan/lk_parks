@@ -1,8 +1,7 @@
 {
   "name": "Alnus nepalensis",
   "authorship": "D.Don",
-  "genus_name": "Alnus",
-  "family_name": "Betulaceae",
+  "parent_name": "Alnus",
   "gbif_id": "2876187",
   "powo_id": "294958-1",
   "iucn_id": "194649",

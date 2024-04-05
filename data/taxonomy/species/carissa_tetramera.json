@@ -1,8 +1,7 @@
 {
   "name": "Carissa tetramera",
   "authorship": "(Sacleux) Stapf",
-  "genus_name": "Carissa",
-  "family_name": "Apocynaceae",
+  "parent_name": "Carissa",
   "gbif_id": "5536267",
   "powo_id": "77759-1",
   "iucn_id": null,

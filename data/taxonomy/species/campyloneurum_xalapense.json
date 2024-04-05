@@ -1,8 +1,7 @@
 {
   "name": "Campyloneurum xalapense",
   "authorship": "F\u00e9e",
-  "genus_name": "Campyloneurum",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Campyloneurum",
   "gbif_id": "4023784",
   "powo_id": "17063470-1",
   "iucn_id": null,

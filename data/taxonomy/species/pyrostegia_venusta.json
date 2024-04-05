@@ -1,8 +1,7 @@
 {
   "name": "Pyrostegia venusta",
   "authorship": "(Ker Gawl.) Miers",
-  "genus_name": "Pyrostegia",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Pyrostegia",
   "gbif_id": "3172569",
   "powo_id": "110483-1",
   "iucn_id": null,

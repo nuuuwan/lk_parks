@@ -1,8 +1,7 @@
 {
   "name": "Alpinia caerulea",
   "authorship": "(R.Br.) Benth.",
-  "genus_name": "Alpinia",
-  "family_name": "Zingiberaceae",
+  "parent_name": "Alpinia",
   "gbif_id": "5302094",
   "powo_id": "795224-1",
   "iucn_id": null,

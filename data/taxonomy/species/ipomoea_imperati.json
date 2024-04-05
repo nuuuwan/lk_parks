@@ -1,8 +1,7 @@
 {
   "name": "Ipomoea imperati",
   "authorship": "(Vahl) Griseb.",
-  "genus_name": "Ipomoea",
-  "family_name": "Convolvulaceae",
+  "parent_name": "Ipomoea",
   "gbif_id": "2928596",
   "powo_id": "60442184-2",
   "iucn_id": null,

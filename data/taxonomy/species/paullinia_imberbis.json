@@ -1,8 +1,7 @@
 {
   "name": "Paullinia imberbis",
   "authorship": "Radlk.",
-  "genus_name": "Paullinia",
-  "family_name": "Sapindaceae",
+  "parent_name": "Paullinia",
   "gbif_id": "3784204",
   "powo_id": "928208-1",
   "iucn_id": null,

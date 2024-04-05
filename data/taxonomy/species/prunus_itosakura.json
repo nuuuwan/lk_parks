@@ -1,8 +1,7 @@
 {
   "name": "Prunus itosakura",
   "authorship": "Siebold",
-  "genus_name": "Prunus",
-  "family_name": "Rosaceae",
+  "parent_name": "Prunus",
   "gbif_id": "3021023",
   "powo_id": "729838-1",
   "iucn_id": null,

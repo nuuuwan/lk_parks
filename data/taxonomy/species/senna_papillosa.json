@@ -1,8 +1,7 @@
 {
   "name": "Senna papillosa",
   "authorship": "(Britton & Rose) H.S.Irwin & Barneby",
-  "genus_name": "Senna",
-  "family_name": "Fabaceae",
+  "parent_name": "Senna",
   "gbif_id": "2957797",
   "powo_id": "234589-2",
   "iucn_id": "144278002",

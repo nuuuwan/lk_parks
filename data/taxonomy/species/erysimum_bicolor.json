@@ -1,8 +1,7 @@
 {
   "name": "Erysimum bicolor",
   "authorship": "(Hornem.) DC.",
-  "genus_name": "Erysimum",
-  "family_name": "Brassicaceae",
+  "parent_name": "Erysimum",
   "gbif_id": "3048397",
   "powo_id": "283640-1",
   "iucn_id": null,

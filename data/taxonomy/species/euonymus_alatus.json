@@ -1,8 +1,7 @@
 {
   "name": "Euonymus alatus",
   "authorship": "(Thunb.) Siebold",
-  "genus_name": "Euonymus",
-  "family_name": "Celastraceae",
+  "parent_name": "Euonymus",
   "gbif_id": "3169120",
   "powo_id": "30148396-2",
   "iucn_id": null,

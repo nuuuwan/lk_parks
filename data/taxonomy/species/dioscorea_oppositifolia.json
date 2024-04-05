@@ -1,8 +1,7 @@
 {
   "name": "Dioscorea oppositifolia",
   "authorship": "L.",
-  "genus_name": "Dioscorea",
-  "family_name": "Dioscoreaceae",
+  "parent_name": "Dioscorea",
   "gbif_id": "2754965",
   "powo_id": "318348-1",
   "iucn_id": null,

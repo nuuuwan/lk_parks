@@ -1,8 +1,7 @@
 {
   "name": "Hibbertia scandens",
   "authorship": "(Willd.) Gilg",
-  "genus_name": "Hibbertia",
-  "family_name": "Dilleniaceae",
+  "parent_name": "Hibbertia",
   "gbif_id": "8129928",
   "powo_id": "317060-1",
   "iucn_id": null,

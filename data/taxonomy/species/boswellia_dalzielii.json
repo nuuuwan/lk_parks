@@ -1,8 +1,7 @@
 {
   "name": "Boswellia dalzielii",
   "authorship": "Hutch.",
-  "genus_name": "Boswellia",
-  "family_name": "Burseraceae",
+  "parent_name": "Boswellia",
   "gbif_id": "5636150",
   "powo_id": "127040-1",
   "iucn_id": null,

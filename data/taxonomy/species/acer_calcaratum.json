@@ -1,8 +1,7 @@
 {
   "name": "Acer calcaratum",
   "authorship": "Gagnep.",
-  "genus_name": "Acer",
-  "family_name": "Sapindaceae",
+  "parent_name": "Acer",
   "gbif_id": "3768225",
   "powo_id": "56620-1",
   "iucn_id": "191458",

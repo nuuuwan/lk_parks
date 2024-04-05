@@ -1,8 +1,7 @@
 {
   "name": "Helianthemum lippii",
   "authorship": "(L.) Dum.Cours.",
-  "genus_name": "Helianthemum",
-  "family_name": "Cistaceae",
+  "parent_name": "Helianthemum",
   "gbif_id": "3596007",
   "powo_id": "168981-1",
   "iucn_id": null,

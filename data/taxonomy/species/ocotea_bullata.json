@@ -1,8 +1,7 @@
 {
   "name": "Ocotea bullata",
   "authorship": "(Burch.) Baill.",
-  "genus_name": "Ocotea",
-  "family_name": "Lauraceae",
+  "parent_name": "Ocotea",
   "gbif_id": "4176561",
   "powo_id": "467173-1",
   "iucn_id": "210909122",

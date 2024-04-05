@@ -1,8 +1,7 @@
 {
   "name": "Sasa palmata",
   "authorship": "(Burb.) E.G.Camus",
-  "genus_name": "Sasa",
-  "family_name": "Poaceae",
+  "parent_name": "Sasa",
   "gbif_id": "8362005",
   "powo_id": "420437-1",
   "iucn_id": null,

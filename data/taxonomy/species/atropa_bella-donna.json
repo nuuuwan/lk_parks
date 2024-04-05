@@ -1,8 +1,7 @@
 {
   "name": "Atropa bella-donna",
   "authorship": "L.",
-  "genus_name": "Atropa",
-  "family_name": "Solanaceae",
+  "parent_name": "Atropa",
   "gbif_id": "2928893",
   "powo_id": "814358-1",
   "iucn_id": null,

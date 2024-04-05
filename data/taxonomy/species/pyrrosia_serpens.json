@@ -1,8 +1,7 @@
 {
   "name": "Pyrrosia serpens",
   "authorship": "(G.Forst.) Ching",
-  "genus_name": "Pyrrosia",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Pyrrosia",
   "gbif_id": "5647812",
   "powo_id": "17416600-1",
   "iucn_id": null,

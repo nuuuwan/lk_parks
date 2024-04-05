@@ -1,8 +1,7 @@
 {
   "name": "Caraipa rodriguesii",
   "authorship": "Paula",
-  "genus_name": "Caraipa",
-  "family_name": "Calophyllaceae",
+  "parent_name": "Caraipa",
   "gbif_id": "3712313",
   "powo_id": "427380-1",
   "iucn_id": "189619968",

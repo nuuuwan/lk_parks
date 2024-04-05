@@ -1,8 +1,7 @@
 {
   "name": "Pyrostria commersonii",
   "authorship": "J.F.Gmel.",
-  "genus_name": "Pyrostria",
-  "family_name": "Rubiaceae",
+  "parent_name": "Pyrostria",
   "gbif_id": "2894231",
   "powo_id": "763903-1",
   "iucn_id": null,

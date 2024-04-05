@@ -1,8 +1,7 @@
 {
   "name": "Vachellia robusta",
   "authorship": "(Burch.) Kyal. & Boatwr.",
-  "genus_name": "Vachellia",
-  "family_name": "Fabaceae",
+  "parent_name": "Vachellia",
   "gbif_id": "8166188",
   "powo_id": "77131776-1",
   "iucn_id": "146451072",

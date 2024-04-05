@@ -1,8 +1,7 @@
 {
   "name": "Parietaria pensylvanica",
   "authorship": "Muhl. ex Willd.",
-  "genus_name": "Parietaria",
-  "family_name": "Urticaceae",
+  "parent_name": "Parietaria",
   "gbif_id": "5361796",
   "powo_id": "183216-2",
   "iucn_id": null,

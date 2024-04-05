@@ -1,8 +1,7 @@
 {
   "name": "Bupleurum fruticosum",
   "authorship": "L.",
-  "genus_name": "Bupleurum",
-  "family_name": "Apiaceae",
+  "parent_name": "Bupleurum",
   "gbif_id": "3638793",
   "powo_id": "839164-1",
   "iucn_id": null,

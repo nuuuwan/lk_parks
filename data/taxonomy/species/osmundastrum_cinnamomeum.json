@@ -1,8 +1,7 @@
 {
   "name": "Osmundastrum cinnamomeum",
   "authorship": "(L.) C.Presl",
-  "genus_name": "Osmundastrum",
-  "family_name": "Osmundaceae",
+  "parent_name": "Osmundastrum",
   "gbif_id": "7319895",
   "powo_id": "60447721-2",
   "iucn_id": "192143416",

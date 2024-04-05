@@ -1,8 +1,7 @@
 {
   "name": "Theobroma grandiflorum",
   "authorship": "(Willd. ex Spreng.) K.Schum.",
-  "genus_name": "Theobroma",
-  "family_name": "Malvaceae",
+  "parent_name": "Theobroma",
   "gbif_id": "3152208",
   "powo_id": "825580-1",
   "iucn_id": "191158664",

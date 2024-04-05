@@ -88,3 +88,10 @@ class Taxon(TaxonSerialize, TaxonList):
     @classmethod
     def get_parent_class(cls):
         raise NotImplementedError
+
+
+    @cached_property 
+    def rank_names(self):
+        return [self.name] + (
+            self.parent.rank_names if self.parent else []
+        )

@@ -1,8 +1,7 @@
 {
   "name": "Pterocarpus erinaceus",
   "authorship": "Poir.",
-  "genus_name": "Pterocarpus",
-  "family_name": "Fabaceae",
+  "parent_name": "Pterocarpus",
   "gbif_id": "5349317",
   "powo_id": "516454-1",
   "iucn_id": "62027797",

@@ -1,8 +1,7 @@
 {
   "name": "Grevillea exul",
   "authorship": "Lindl.",
-  "genus_name": "Grevillea",
-  "family_name": "Proteaceae",
+  "parent_name": "Grevillea",
   "gbif_id": "3998325",
   "powo_id": "703818-1",
   "iucn_id": null,

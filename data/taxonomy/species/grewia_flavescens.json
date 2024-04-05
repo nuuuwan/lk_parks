@@ -1,8 +1,7 @@
 {
   "name": "Grewia flavescens",
   "authorship": "Juss.",
-  "genus_name": "Grewia",
-  "family_name": "Malvaceae",
+  "parent_name": "Grewia",
   "gbif_id": "4260042",
   "powo_id": "834301-1",
   "iucn_id": "146452936",

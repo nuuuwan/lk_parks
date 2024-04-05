@@ -1,8 +1,7 @@
 {
   "name": "Medicago polymorpha",
   "authorship": "L.",
-  "genus_name": "Medicago",
-  "family_name": "Fabaceae",
+  "parent_name": "Medicago",
   "gbif_id": "2965531",
   "powo_id": "60465997-2",
   "iucn_id": null,

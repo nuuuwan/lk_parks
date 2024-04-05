@@ -1,8 +1,7 @@
 {
   "name": "Viscum album",
   "authorship": "L.",
-  "genus_name": "Viscum",
-  "family_name": "Santalaceae",
+  "parent_name": "Viscum",
   "gbif_id": "2889828",
   "powo_id": "300881-2",
   "iucn_id": null,

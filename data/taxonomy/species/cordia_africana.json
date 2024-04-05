@@ -1,8 +1,7 @@
 {
   "name": "Cordia africana",
   "authorship": "Lam.",
-  "genus_name": "Cordia",
-  "family_name": "Boraginaceae",
+  "parent_name": "Cordia",
   "gbif_id": "5660325",
   "powo_id": "113939-1",
   "iucn_id": "61986332",

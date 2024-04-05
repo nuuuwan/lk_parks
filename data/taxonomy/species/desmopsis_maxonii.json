@@ -1,8 +1,7 @@
 {
   "name": "Desmopsis maxonii",
   "authorship": "Saff.",
-  "genus_name": "Desmopsis",
-  "family_name": "Annonaceae",
+  "parent_name": "Desmopsis",
   "gbif_id": "3158104",
   "powo_id": "78724-2",
   "iucn_id": "136093183",

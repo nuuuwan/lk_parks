@@ -1,8 +1,7 @@
 {
   "name": "Persoonia levis",
   "authorship": "(Cav.) Domin",
-  "genus_name": "Persoonia",
-  "family_name": "Proteaceae",
+  "parent_name": "Persoonia",
   "gbif_id": "5637255",
   "powo_id": "705422-1",
   "iucn_id": "118153811",

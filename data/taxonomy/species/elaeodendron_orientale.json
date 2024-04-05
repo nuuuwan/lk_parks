@@ -1,8 +1,7 @@
 {
   "name": "Elaeodendron orientale",
   "authorship": "Jacq.",
-  "genus_name": "Elaeodendron",
-  "family_name": "Celastraceae",
+  "parent_name": "Elaeodendron",
   "gbif_id": "3791348",
   "powo_id": "160712-1",
   "iucn_id": null,

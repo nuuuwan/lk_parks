@@ -1,8 +1,7 @@
 {
   "name": "Tabebuia roseoalba",
   "authorship": "(Ridl.) Sandwith",
-  "genus_name": "Tabebuia",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Tabebuia",
   "gbif_id": "4091431",
   "powo_id": "248789-2",
   "iucn_id": "145693608",

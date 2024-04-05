@@ -1,8 +1,7 @@
 {
   "name": "Dioscorea bulbifera",
   "authorship": "L.",
-  "genus_name": "Dioscorea",
-  "family_name": "Dioscoreaceae",
+  "parent_name": "Dioscorea",
   "gbif_id": "2755489",
   "powo_id": "323908-2",
   "iucn_id": null,

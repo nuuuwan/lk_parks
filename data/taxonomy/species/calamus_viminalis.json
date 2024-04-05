@@ -1,8 +1,7 @@
 {
   "name": "Calamus viminalis",
   "authorship": "Willd.",
-  "genus_name": "Calamus",
-  "family_name": "Arecaceae",
+  "parent_name": "Calamus",
   "gbif_id": "5294114",
   "powo_id": "665477-1",
   "iucn_id": null,

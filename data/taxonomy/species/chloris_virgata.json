@@ -1,8 +1,7 @@
 {
   "name": "Chloris virgata",
   "authorship": "Sw.",
-  "genus_name": "Chloris",
-  "family_name": "Poaceae",
+  "parent_name": "Chloris",
   "gbif_id": "5289624",
   "powo_id": "396063-1",
   "iucn_id": null,

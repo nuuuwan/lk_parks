@@ -1,8 +1,7 @@
 {
   "name": "Prunus tenella",
   "authorship": "Batsch",
-  "genus_name": "Prunus",
-  "family_name": "Rosaceae",
+  "parent_name": "Prunus",
   "gbif_id": "3022879",
   "powo_id": "730347-1",
   "iucn_id": "172171",

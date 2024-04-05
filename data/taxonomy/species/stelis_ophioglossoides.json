@@ -1,8 +1,7 @@
 {
   "name": "Stelis ophioglossoides",
   "authorship": "(Jacq.) Sw.",
-  "genus_name": "Stelis",
-  "family_name": "Orchidaceae",
+  "parent_name": "Stelis",
   "gbif_id": "5308995",
   "powo_id": "659015-1",
   "iucn_id": null,

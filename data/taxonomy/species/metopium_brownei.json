@@ -1,8 +1,7 @@
 {
   "name": "Metopium brownei",
   "authorship": "(Jacq.) Urb.",
-  "genus_name": "Metopium",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Metopium",
   "gbif_id": "7321731",
   "powo_id": "158605-2",
   "iucn_id": "61984043",

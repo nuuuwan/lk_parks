@@ -1,8 +1,7 @@
 {
   "name": "Joannesia princeps",
   "authorship": "Vell.",
-  "genus_name": "Joannesia",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Joannesia",
   "gbif_id": "3075087",
   "powo_id": "350527-1",
   "iucn_id": "32981",

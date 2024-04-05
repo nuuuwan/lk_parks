@@ -1,8 +1,7 @@
 {
   "name": "Asplenium viride",
   "authorship": "Huds.",
-  "genus_name": "Asplenium",
-  "family_name": "Aspleniaceae",
+  "parent_name": "Asplenium",
   "gbif_id": "2650716",
   "powo_id": "17053570-1",
   "iucn_id": null,

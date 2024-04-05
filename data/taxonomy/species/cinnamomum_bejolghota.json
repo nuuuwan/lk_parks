@@ -1,8 +1,7 @@
 {
   "name": "Cinnamomum bejolghota",
   "authorship": "(Buch.-Ham.) Sweet",
-  "genus_name": "Cinnamomum",
-  "family_name": "Lauraceae",
+  "parent_name": "Cinnamomum",
   "gbif_id": "7304259",
   "powo_id": "463310-1",
   "iucn_id": "145301455",

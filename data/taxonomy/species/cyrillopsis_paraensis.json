@@ -1,8 +1,7 @@
 {
   "name": "Cyrillopsis paraensis",
   "authorship": "Kuhlm.",
-  "genus_name": "Cyrillopsis",
-  "family_name": "Ixonanthaceae",
+  "parent_name": "Cyrillopsis",
   "gbif_id": "4259153",
   "powo_id": "75419-2",
   "iucn_id": null,

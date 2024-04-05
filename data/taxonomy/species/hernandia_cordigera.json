@@ -1,8 +1,7 @@
 {
   "name": "Hernandia cordigera",
   "authorship": "Vieill.",
-  "genus_name": "Hernandia",
-  "family_name": "Hernandiaceae",
+  "parent_name": "Hernandia",
   "gbif_id": "3685447",
   "powo_id": "464644-1",
   "iucn_id": "198495159",

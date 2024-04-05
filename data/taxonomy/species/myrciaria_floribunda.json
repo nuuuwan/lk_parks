@@ -1,8 +1,7 @@
 {
   "name": "Myrciaria floribunda",
   "authorship": "(H.West ex Willd.) O.Berg",
-  "genus_name": "Myrciaria",
-  "family_name": "Myrtaceae",
+  "parent_name": "Myrciaria",
   "gbif_id": "3186420",
   "powo_id": "599327-1",
   "iucn_id": "136783953",

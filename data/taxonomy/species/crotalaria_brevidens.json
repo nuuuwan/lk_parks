@@ -1,8 +1,7 @@
 {
   "name": "Crotalaria brevidens",
   "authorship": "Benth.",
-  "genus_name": "Crotalaria",
-  "family_name": "Fabaceae",
+  "parent_name": "Crotalaria",
   "gbif_id": "2942220",
   "powo_id": "487901-1",
   "iucn_id": null,

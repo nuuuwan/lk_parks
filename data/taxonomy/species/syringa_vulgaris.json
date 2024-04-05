@@ -1,8 +1,7 @@
 {
   "name": "Syringa vulgaris",
   "authorship": "L.",
-  "genus_name": "Syringa",
-  "family_name": "Oleaceae",
+  "parent_name": "Syringa",
   "gbif_id": "5415039",
   "powo_id": "289009-2",
   "iucn_id": "61919333",

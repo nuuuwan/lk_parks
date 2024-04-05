@@ -1,8 +1,7 @@
 {
   "name": "Varronia leucocephala",
   "authorship": "(Moric.) J.S.Mill.",
-  "genus_name": "Varronia",
-  "family_name": "Boraginaceae",
+  "parent_name": "Varronia",
   "gbif_id": "4060181",
   "powo_id": "77084347-1",
   "iucn_id": null,

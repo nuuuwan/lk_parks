@@ -1,8 +1,7 @@
 {
   "name": "Sinobambusa tootsik",
   "authorship": "(Makino) Makino ex Nakai",
-  "genus_name": "Sinobambusa",
-  "family_name": "Poaceae",
+  "parent_name": "Sinobambusa",
   "gbif_id": "4110514",
   "powo_id": "421969-1",
   "iucn_id": null,

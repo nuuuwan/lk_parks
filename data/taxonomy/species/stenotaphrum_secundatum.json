@@ -1,8 +1,7 @@
 {
   "name": "Stenotaphrum secundatum",
   "authorship": "(Walter) Kuntze",
-  "genus_name": "Stenotaphrum",
-  "family_name": "Poaceae",
+  "parent_name": "Stenotaphrum",
   "gbif_id": "2702870",
   "powo_id": "423051-1",
   "iucn_id": "192156108",

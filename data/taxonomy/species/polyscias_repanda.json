@@ -1,8 +1,7 @@
 {
   "name": "Polyscias repanda",
   "authorship": "(DC.) Baker",
-  "genus_name": "Polyscias",
-  "family_name": "Araliaceae",
+  "parent_name": "Polyscias",
   "gbif_id": "3035799",
   "powo_id": "91809-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Terminalia superba",
   "authorship": "Engl. & Diels",
-  "genus_name": "Terminalia",
-  "family_name": "Combretaceae",
+  "parent_name": "Terminalia",
   "gbif_id": "3189393",
   "powo_id": "171417-1",
   "iucn_id": null,

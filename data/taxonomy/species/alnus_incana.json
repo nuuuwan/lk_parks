@@ -1,8 +1,7 @@
 {
   "name": "Alnus incana",
   "authorship": "(L.) Moench",
-  "genus_name": "Alnus",
-  "family_name": "Betulaceae",
+  "parent_name": "Alnus",
   "gbif_id": "9148577",
   "powo_id": "30106706-2",
   "iucn_id": "194472",

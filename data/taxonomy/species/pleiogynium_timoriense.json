@@ -1,8 +1,7 @@
 {
   "name": "Pleiogynium timoriense",
   "authorship": "(DC.) Leenh.",
-  "genus_name": "Pleiogynium",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Pleiogynium",
   "gbif_id": "3661589",
   "powo_id": "70288-1",
   "iucn_id": "146095426",

@@ -1,8 +1,7 @@
 {
   "name": "Catasetum maculatum",
   "authorship": "Kunth",
-  "genus_name": "Catasetum",
-  "family_name": "Orchidaceae",
+  "parent_name": "Catasetum",
   "gbif_id": "2803739",
   "powo_id": "305692-2",
   "iucn_id": null,

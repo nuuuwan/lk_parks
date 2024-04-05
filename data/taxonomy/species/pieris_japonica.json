@@ -1,8 +1,7 @@
 {
   "name": "Pieris japonica",
   "authorship": "(Thunb.) D.Don ex G.Don",
-  "genus_name": "Pieris",
-  "family_name": "Ericaceae",
+  "parent_name": "Pieris",
   "gbif_id": "2882631",
   "powo_id": "331662-1",
   "iucn_id": "147632270",

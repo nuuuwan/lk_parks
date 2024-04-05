@@ -1,8 +1,7 @@
 {
   "name": "Chrysolepis sempervirens",
   "authorship": "(Kellogg) Hjelmq.",
-  "genus_name": "Chrysolepis",
-  "family_name": "Fagaceae",
+  "parent_name": "Chrysolepis",
   "gbif_id": "5333311",
   "powo_id": "57672-2",
   "iucn_id": null,

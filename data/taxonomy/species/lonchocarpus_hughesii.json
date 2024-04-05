@@ -1,8 +1,7 @@
 {
   "name": "Lonchocarpus hughesii",
   "authorship": "M.Sousa",
-  "genus_name": "Lonchocarpus",
-  "family_name": "Fabaceae",
+  "parent_name": "Lonchocarpus",
   "gbif_id": "2969088",
   "powo_id": "306229-2",
   "iucn_id": "151998557",

@@ -1,8 +1,7 @@
 {
   "name": "Aralia spinosa",
   "authorship": "L.",
-  "genus_name": "Aralia",
-  "family_name": "Araliaceae",
+  "parent_name": "Aralia",
   "gbif_id": "3036972",
   "powo_id": "89797-1",
   "iucn_id": "152911024",

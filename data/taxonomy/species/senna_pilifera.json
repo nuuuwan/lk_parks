@@ -1,8 +1,7 @@
 {
   "name": "Senna pilifera",
   "authorship": "(Vogel) H.S.Irwin & Barneby",
-  "genus_name": "Senna",
-  "family_name": "Fabaceae",
+  "parent_name": "Senna",
   "gbif_id": "2957576",
   "powo_id": "911389-1",
   "iucn_id": null,

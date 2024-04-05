@@ -1,8 +1,7 @@
 {
   "name": "Sesbania grandiflora",
   "authorship": "(L.) Poir.",
-  "genus_name": "Sesbania",
-  "family_name": "Fabaceae",
+  "parent_name": "Sesbania",
   "gbif_id": "8281950",
   "powo_id": "518476-1",
   "iucn_id": "198989879",

@@ -1,8 +1,7 @@
 {
   "name": "Zanthoxylum bungeanum",
   "authorship": "Maxim.",
-  "genus_name": "Zanthoxylum",
-  "family_name": "Rutaceae",
+  "parent_name": "Zanthoxylum",
   "gbif_id": "7269010",
   "powo_id": "775625-1",
   "iucn_id": "150282557",

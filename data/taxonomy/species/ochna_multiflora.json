@@ -1,8 +1,7 @@
 {
   "name": "Ochna multiflora",
   "authorship": "DC.",
-  "genus_name": "Ochna",
-  "family_name": "Ochnaceae",
+  "parent_name": "Ochna",
   "gbif_id": "8008581",
   "powo_id": "606698-1",
   "iucn_id": "143713573",

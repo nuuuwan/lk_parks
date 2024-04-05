@@ -1,8 +1,7 @@
 {
   "name": "Dianthus japonicus",
   "authorship": "Thunb.",
-  "genus_name": "Dianthus",
-  "family_name": "Caryophyllaceae",
+  "parent_name": "Dianthus",
   "gbif_id": "7267525",
   "powo_id": "153487-1",
   "iucn_id": null,

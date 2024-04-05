@@ -1,8 +1,7 @@
 {
   "name": "Liatris pycnostachya",
   "authorship": "Michx.",
-  "genus_name": "Liatris",
-  "family_name": "Asteraceae",
+  "parent_name": "Liatris",
   "gbif_id": "3104293",
   "powo_id": "230623-1",
   "iucn_id": null,

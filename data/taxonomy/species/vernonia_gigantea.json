@@ -1,8 +1,7 @@
 {
   "name": "Vernonia gigantea",
   "authorship": "(Walter) Trel.",
-  "genus_name": "Vernonia",
-  "family_name": "Asteraceae",
+  "parent_name": "Vernonia",
   "gbif_id": "5397391",
   "powo_id": "258416-1",
   "iucn_id": null,

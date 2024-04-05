@@ -1,8 +1,7 @@
 {
   "name": "Senna reticulata",
   "authorship": "(Willd.) H.S.Irwin & Barneby",
-  "genus_name": "Senna",
-  "family_name": "Fabaceae",
+  "parent_name": "Senna",
   "gbif_id": "2957303",
   "powo_id": "234636-2",
   "iucn_id": "144286555",

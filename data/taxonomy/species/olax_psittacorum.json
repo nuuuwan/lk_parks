@@ -1,8 +1,7 @@
 {
   "name": "Olax psittacorum",
   "authorship": "(Lam.) Vahl",
-  "genus_name": "Olax",
-  "family_name": "Olacaceae",
+  "parent_name": "Olax",
   "gbif_id": "3686148",
   "powo_id": "608138-1",
   "iucn_id": "30558",

@@ -1,8 +1,7 @@
 {
   "name": "Polygonum arenastrum",
   "authorship": "Boreau",
-  "genus_name": "Polygonum",
-  "family_name": "Polygonaceae",
+  "parent_name": "Polygonum",
   "gbif_id": "5334294",
   "powo_id": "695383-1",
   "iucn_id": null,

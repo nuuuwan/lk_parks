@@ -1,8 +1,7 @@
 {
   "name": "Artemisia ludoviciana",
   "authorship": "Nutt.",
-  "genus_name": "Artemisia",
-  "family_name": "Asteraceae",
+  "parent_name": "Artemisia",
   "gbif_id": "3120950",
   "powo_id": "303755-2",
   "iucn_id": null,

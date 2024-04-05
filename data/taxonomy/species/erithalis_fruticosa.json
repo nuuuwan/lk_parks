@@ -1,8 +1,7 @@
 {
   "name": "Erithalis fruticosa",
   "authorship": "L.",
-  "genus_name": "Erithalis",
-  "family_name": "Rubiaceae",
+  "parent_name": "Erithalis",
   "gbif_id": "5334692",
   "powo_id": "315444-2",
   "iucn_id": "152911382",

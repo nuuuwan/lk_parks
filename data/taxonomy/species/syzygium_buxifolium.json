@@ -1,8 +1,7 @@
 {
   "name": "Syzygium buxifolium",
   "authorship": "Hook. & Arn.",
-  "genus_name": "Syzygium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syzygium",
   "gbif_id": "3182771",
   "powo_id": "601489-1",
   "iucn_id": null,

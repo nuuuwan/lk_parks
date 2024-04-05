@@ -1,8 +1,7 @@
 {
   "name": "Coprosma baueri",
   "authorship": "Endl.",
-  "genus_name": "Coprosma",
-  "family_name": "Rubiaceae",
+  "parent_name": "Coprosma",
   "gbif_id": "2911479",
   "powo_id": "747373-1",
   "iucn_id": null,

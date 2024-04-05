@@ -1,8 +1,7 @@
 {
   "name": "Barringtonia integrifolia",
   "authorship": "(Montrouz.) Schltr.",
-  "genus_name": "Barringtonia",
-  "family_name": "Lecythidaceae",
+  "parent_name": "Barringtonia",
   "gbif_id": "3082914",
   "powo_id": "469098-1",
   "iucn_id": null,

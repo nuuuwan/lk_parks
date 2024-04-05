@@ -1,8 +1,7 @@
 {
   "name": "Stauntonia hexaphylla",
   "authorship": "(Thunb.) Decne.",
-  "genus_name": "Stauntonia",
-  "family_name": "Lardizabalaceae",
+  "parent_name": "Stauntonia",
   "gbif_id": "4191611",
   "powo_id": "107615-1",
   "iucn_id": null,

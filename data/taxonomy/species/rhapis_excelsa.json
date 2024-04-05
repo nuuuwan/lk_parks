@@ -1,8 +1,7 @@
 {
   "name": "Rhapis excelsa",
   "authorship": "(Thunb.) A.Henry",
-  "genus_name": "Rhapis",
-  "family_name": "Arecaceae",
+  "parent_name": "Rhapis",
   "gbif_id": "2736747",
   "powo_id": "669577-1",
   "iucn_id": null,

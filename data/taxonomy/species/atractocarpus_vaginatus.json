@@ -1,8 +1,7 @@
 {
   "name": "Atractocarpus vaginatus",
   "authorship": "Guillaumin",
-  "genus_name": "Atractocarpus",
-  "family_name": "Rubiaceae",
+  "parent_name": "Atractocarpus",
   "gbif_id": "2898512",
   "powo_id": "744253-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Amyris balsamifera",
   "authorship": "L.",
-  "genus_name": "Amyris",
-  "family_name": "Rutaceae",
+  "parent_name": "Amyris",
   "gbif_id": "5421190",
   "powo_id": "12146-2",
   "iucn_id": "156771790",

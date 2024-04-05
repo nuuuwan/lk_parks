@@ -1,8 +1,7 @@
 {
   "name": "Acmella radicans",
   "authorship": "(Jacq.) R.K.Jansen",
-  "genus_name": "Acmella",
-  "family_name": "Asteraceae",
+  "parent_name": "Acmella",
   "gbif_id": "5386729",
   "powo_id": "271548-2",
   "iucn_id": null,

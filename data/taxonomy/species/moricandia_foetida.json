@@ -1,8 +1,7 @@
 {
   "name": "Moricandia foetida",
   "authorship": "Bourg. ex Coss.",
-  "genus_name": "Moricandia",
-  "family_name": "Brassicaceae",
+  "parent_name": "Moricandia",
   "gbif_id": "7666206",
   "powo_id": "287147-1",
   "iucn_id": null,

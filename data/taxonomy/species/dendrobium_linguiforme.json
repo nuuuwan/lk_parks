@@ -1,8 +1,7 @@
 {
   "name": "Dendrobium linguiforme",
   "authorship": "Sw.",
-  "genus_name": "Dendrobium",
-  "family_name": "Orchidaceae",
+  "parent_name": "Dendrobium",
   "gbif_id": "5317691",
   "powo_id": "627862-1",
   "iucn_id": null,

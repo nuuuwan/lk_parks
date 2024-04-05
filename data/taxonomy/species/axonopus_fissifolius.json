@@ -1,8 +1,7 @@
 {
   "name": "Axonopus fissifolius",
   "authorship": "(Raddi) Kuhlm.",
-  "genus_name": "Axonopus",
-  "family_name": "Poaceae",
+  "parent_name": "Axonopus",
   "gbif_id": "2705932",
   "powo_id": "27338-2",
   "iucn_id": null,

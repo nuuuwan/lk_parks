@@ -1,8 +1,7 @@
 {
   "name": "Pentas lanceolata",
   "authorship": "(Forssk.) Deflers",
-  "genus_name": "Pentas",
-  "family_name": "Rubiaceae",
+  "parent_name": "Pentas",
   "gbif_id": "2908986",
   "powo_id": "760275-1",
   "iucn_id": null,

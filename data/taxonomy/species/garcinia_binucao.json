@@ -1,8 +1,7 @@
 {
   "name": "Garcinia binucao",
   "authorship": "(Blanco) Choisy",
-  "genus_name": "Garcinia",
-  "family_name": "Clusiaceae",
+  "parent_name": "Garcinia",
   "gbif_id": "3710915",
   "powo_id": "427834-1",
   "iucn_id": "198112305",

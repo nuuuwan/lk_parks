@@ -1,8 +1,7 @@
 {
   "name": "Sporobolus alopecuroides",
   "authorship": "(Piller & Mitterp.) P.M.Peterson",
-  "genus_name": "Sporobolus",
-  "family_name": "Poaceae",
+  "parent_name": "Sporobolus",
   "gbif_id": "9632508",
   "powo_id": "77144671-1",
   "iucn_id": null,

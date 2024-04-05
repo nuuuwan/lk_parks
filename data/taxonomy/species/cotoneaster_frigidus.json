@@ -1,8 +1,7 @@
 {
   "name": "Cotoneaster frigidus",
   "authorship": "Wall. ex Lindl.",
-  "genus_name": "Cotoneaster",
-  "family_name": "Rosaceae",
+  "parent_name": "Cotoneaster",
   "gbif_id": "3026190",
   "powo_id": "722495-1",
   "iucn_id": null,

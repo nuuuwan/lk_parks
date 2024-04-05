@@ -1,8 +1,7 @@
 {
   "name": "Galpinia transvaalica",
   "authorship": "N.E.Br.",
-  "genus_name": "Galpinia",
-  "family_name": "Lythraceae",
+  "parent_name": "Galpinia",
   "gbif_id": "3988775",
   "powo_id": "553442-1",
   "iucn_id": "146451543",

@@ -1,8 +1,7 @@
 {
   "name": "Tsuga sieboldii",
   "authorship": "Carri\u00e8re",
-  "genus_name": "Tsuga",
-  "family_name": "Pinaceae",
+  "parent_name": "Tsuga",
   "gbif_id": "2687220",
   "powo_id": "264018-1",
   "iucn_id": "191663",

@@ -1,8 +1,7 @@
 {
   "name": "Peumus boldus",
   "authorship": "Molina",
-  "genus_name": "Peumus",
-  "family_name": "Monimiaceae",
+  "parent_name": "Peumus",
   "gbif_id": "3034108",
   "powo_id": "191376-2",
   "iucn_id": "135682641",

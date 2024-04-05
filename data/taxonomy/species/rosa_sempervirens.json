@@ -1,8 +1,7 @@
 {
   "name": "Rosa sempervirens",
   "authorship": "L.",
-  "genus_name": "Rosa",
-  "family_name": "Rosaceae",
+  "parent_name": "Rosa",
   "gbif_id": "3002660",
   "powo_id": "734215-1",
   "iucn_id": null,

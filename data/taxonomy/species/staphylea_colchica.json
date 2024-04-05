@@ -1,8 +1,7 @@
 {
   "name": "Staphylea colchica",
   "authorship": "Steven",
-  "genus_name": "Staphylea",
-  "family_name": "Staphyleaceae",
+  "parent_name": "Staphylea",
   "gbif_id": "3686281",
   "powo_id": "785251-1",
   "iucn_id": null,

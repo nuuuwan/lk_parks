@@ -1,8 +1,7 @@
 {
   "name": "Coussarea caroliana",
   "authorship": "Standl.",
-  "genus_name": "Coussarea",
-  "family_name": "Rubiaceae",
+  "parent_name": "Coussarea",
   "gbif_id": "2904933",
   "powo_id": "67402-2",
   "iucn_id": "136093060",

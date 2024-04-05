@@ -1,8 +1,7 @@
 {
   "name": "Neurada procumbens",
   "authorship": "L.",
-  "genus_name": "Neurada",
-  "family_name": "Neuradaceae",
+  "parent_name": "Neurada",
   "gbif_id": "3701813",
   "powo_id": "726834-1",
   "iucn_id": null,

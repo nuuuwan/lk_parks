@@ -1,8 +1,7 @@
 {
   "name": "Quercus leana",
   "authorship": "Nutt.",
-  "genus_name": "Quercus",
-  "family_name": "Fagaceae",
+  "parent_name": "Quercus",
   "gbif_id": "8920502",
   "powo_id": "296376-1",
   "iucn_id": null,

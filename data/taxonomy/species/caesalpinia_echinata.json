@@ -1,8 +1,7 @@
 {
   "name": "Caesalpinia echinata",
   "authorship": "Lam.",
-  "genus_name": "Caesalpinia",
-  "family_name": "Fabaceae",
+  "parent_name": "Caesalpinia",
   "gbif_id": "2958549",
   "powo_id": null,
   "iucn_id": null,

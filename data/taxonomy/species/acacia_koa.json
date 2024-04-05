@@ -1,8 +1,7 @@
 {
   "name": "Acacia koa",
   "authorship": "A.Gray",
-  "genus_name": "Acacia",
-  "family_name": "Fabaceae",
+  "parent_name": "Acacia",
   "gbif_id": "2980514",
   "powo_id": "470659-1",
   "iucn_id": "19891713",

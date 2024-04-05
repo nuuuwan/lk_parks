@@ -1,8 +1,7 @@
 {
   "name": "Dipcadi viride",
   "authorship": "(L.) Moench",
-  "genus_name": "Dipcadi",
-  "family_name": "Asparagaceae",
+  "parent_name": "Dipcadi",
   "gbif_id": "2768199",
   "powo_id": "534009-1",
   "iucn_id": null,

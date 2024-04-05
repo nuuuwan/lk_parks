@@ -1,8 +1,7 @@
 {
   "name": "Livistona australis",
   "authorship": "(R.Br.) Mart.",
-  "genus_name": "Livistona",
-  "family_name": "Arecaceae",
+  "parent_name": "Livistona",
   "gbif_id": "2733456",
   "powo_id": "668014-1",
   "iucn_id": "200141795",

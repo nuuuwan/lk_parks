@@ -1,8 +1,7 @@
 {
   "name": "Forsteronia myriantha",
   "authorship": "Donn.Sm.",
-  "genus_name": "Forsteronia",
-  "family_name": "Apocynaceae",
+  "parent_name": "Forsteronia",
   "gbif_id": "3617628",
   "powo_id": "105373-2",
   "iucn_id": null,

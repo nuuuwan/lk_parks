@@ -1,8 +1,7 @@
 {
   "name": "Mimosa bimucronata",
   "authorship": "(DC.) Kuntze",
-  "genus_name": "Mimosa",
-  "family_name": "Fabaceae",
+  "parent_name": "Mimosa",
   "gbif_id": "9217666",
   "powo_id": "161532-2",
   "iucn_id": "19892097",

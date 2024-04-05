@@ -1,8 +1,7 @@
 {
   "name": "Glochidion billardierei",
   "authorship": "Baill.",
-  "genus_name": "Glochidion",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Glochidion",
   "gbif_id": "3080859",
   "powo_id": "349269-1",
   "iucn_id": null,

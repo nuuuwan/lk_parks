@@ -1,8 +1,7 @@
 {
   "name": "Parapiptadenia excelsa",
   "authorship": "(Griseb.) Burkart",
-  "genus_name": "Parapiptadenia",
-  "family_name": "Fabaceae",
+  "parent_name": "Parapiptadenia",
   "gbif_id": "2941636",
   "powo_id": "183013-2",
   "iucn_id": "144309064",

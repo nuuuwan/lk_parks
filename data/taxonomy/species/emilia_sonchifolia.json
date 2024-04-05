@@ -1,8 +1,7 @@
 {
   "name": "Emilia sonchifolia",
   "authorship": "(L.) DC.",
-  "genus_name": "Emilia",
-  "family_name": "Asteraceae",
+  "parent_name": "Emilia",
   "gbif_id": "5401598",
   "powo_id": "203080-1",
   "iucn_id": null,

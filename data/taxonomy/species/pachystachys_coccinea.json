@@ -1,8 +1,7 @@
 {
   "name": "Pachystachys coccinea",
   "authorship": "(Aubl.) Nees",
-  "genus_name": "Pachystachys",
-  "family_name": "Acanthaceae",
+  "parent_name": "Pachystachys",
   "gbif_id": "3778711",
   "powo_id": "52812-1",
   "iucn_id": null,

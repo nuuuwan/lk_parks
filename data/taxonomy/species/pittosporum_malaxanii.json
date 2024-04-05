@@ -1,8 +1,7 @@
 {
   "name": "Pittosporum malaxanii",
   "authorship": "Veillon & Tirel",
-  "genus_name": "Pittosporum",
-  "family_name": "Pittosporaceae",
+  "parent_name": "Pittosporum",
   "gbif_id": "4161510",
   "powo_id": "983814-1",
   "iucn_id": "82948103",

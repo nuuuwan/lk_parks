@@ -1,8 +1,7 @@
 {
   "name": "Commiphora glandulosa",
   "authorship": "Schinz",
-  "genus_name": "Commiphora",
-  "family_name": "Burseraceae",
+  "parent_name": "Commiphora",
   "gbif_id": "3993045",
   "powo_id": "127666-1",
   "iucn_id": "146223165",

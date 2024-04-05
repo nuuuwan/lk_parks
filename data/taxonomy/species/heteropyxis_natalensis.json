@@ -1,8 +1,7 @@
 {
   "name": "Heteropyxis natalensis",
   "authorship": "Harv.",
-  "genus_name": "Heteropyxis",
-  "family_name": "Myrtaceae",
+  "parent_name": "Heteropyxis",
   "gbif_id": "5418504",
   "powo_id": "553494-1",
   "iucn_id": "146449229",

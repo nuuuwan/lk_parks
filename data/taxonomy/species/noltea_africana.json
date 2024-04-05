@@ -1,8 +1,7 @@
 {
   "name": "Noltea africana",
   "authorship": "(L.) Endl.",
-  "genus_name": "Noltea",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Noltea",
   "gbif_id": "3877365",
   "powo_id": "941571-1",
   "iucn_id": "149352288",

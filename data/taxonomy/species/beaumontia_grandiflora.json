@@ -1,8 +1,7 @@
 {
   "name": "Beaumontia grandiflora",
   "authorship": "Wall.",
-  "genus_name": "Beaumontia",
-  "family_name": "Apocynaceae",
+  "parent_name": "Beaumontia",
   "gbif_id": "5535537",
   "powo_id": "77539-1",
   "iucn_id": null,

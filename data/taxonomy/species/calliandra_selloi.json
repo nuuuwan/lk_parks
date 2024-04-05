@@ -1,8 +1,7 @@
 {
   "name": "Calliandra selloi",
   "authorship": "(Spreng.) J.F.Macbr.",
-  "genus_name": "Calliandra",
-  "family_name": "Fabaceae",
+  "parent_name": "Calliandra",
   "gbif_id": "2981788",
   "powo_id": "42298-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Pothos scandens",
   "authorship": "L.",
-  "genus_name": "Pothos",
-  "family_name": "Araceae",
+  "parent_name": "Pothos",
   "gbif_id": "5330394",
   "powo_id": "88366-1",
   "iucn_id": null,

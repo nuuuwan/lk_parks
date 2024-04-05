@@ -1,8 +1,7 @@
 {
   "name": "Plinia rivularis",
   "authorship": "(Cambess.) Rotman",
-  "genus_name": "Plinia",
-  "family_name": "Myrtaceae",
+  "parent_name": "Plinia",
   "gbif_id": "5415592",
   "powo_id": "942130-1",
   "iucn_id": "152941266",

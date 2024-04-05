@@ -1,8 +1,7 @@
 {
   "name": "Irvingia malayana",
   "authorship": "Oliv. ex A.W.Benn.",
-  "genus_name": "Irvingia",
-  "family_name": "Irvingiaceae",
+  "parent_name": "Irvingia",
   "gbif_id": "5380959",
   "powo_id": "813775-1",
   "iucn_id": "33227",

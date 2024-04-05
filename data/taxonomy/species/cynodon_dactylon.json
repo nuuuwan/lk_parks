@@ -1,8 +1,7 @@
 {
   "name": "Cynodon dactylon",
   "authorship": "(L.) Pers.",
-  "genus_name": "Cynodon",
-  "family_name": "Poaceae",
+  "parent_name": "Cynodon",
   "gbif_id": "6109637",
   "powo_id": "397065-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Hibiscus tiliaceus",
   "authorship": "L.",
-  "genus_name": "Hibiscus",
-  "family_name": "Malvaceae",
+  "parent_name": "Hibiscus",
   "gbif_id": "3152584",
   "powo_id": "30143354-2",
   "iucn_id": "61786470",

@@ -1,8 +1,7 @@
 {
   "name": "Calliandra surinamensis",
   "authorship": "Benth.",
-  "genus_name": "Calliandra",
-  "family_name": "Fabaceae",
+  "parent_name": "Calliandra",
   "gbif_id": "2982188",
   "powo_id": "316281-2",
   "iucn_id": "170268073",

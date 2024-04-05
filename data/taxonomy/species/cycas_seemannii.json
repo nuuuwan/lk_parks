@@ -1,8 +1,7 @@
 {
   "name": "Cycas seemannii",
   "authorship": "A.Braun",
-  "genus_name": "Cycas",
-  "family_name": "Cycadaceae",
+  "parent_name": "Cycas",
   "gbif_id": "2683297",
   "powo_id": "297035-1",
   "iucn_id": "42064",

@@ -1,8 +1,7 @@
 {
   "name": "Entada phaseoloides",
   "authorship": "(L.) Merr.",
-  "genus_name": "Entada",
-  "family_name": "Fabaceae",
+  "parent_name": "Entada",
   "gbif_id": "2976244",
   "powo_id": "493866-1",
   "iucn_id": null,

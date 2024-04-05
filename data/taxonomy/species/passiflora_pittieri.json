@@ -1,8 +1,7 @@
 {
   "name": "Passiflora pittieri",
   "authorship": "Mast.",
-  "genus_name": "Passiflora",
-  "family_name": "Passifloraceae",
+  "parent_name": "Passiflora",
   "gbif_id": "3586772",
   "powo_id": "185124-2",
   "iucn_id": null,

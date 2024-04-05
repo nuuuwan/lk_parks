@@ -1,8 +1,7 @@
 {
   "name": "Zingiber zerumbet",
   "authorship": "(L.) Roscoe ex Sm.",
-  "genus_name": "Zingiber",
-  "family_name": "Zingiberaceae",
+  "parent_name": "Zingiber",
   "gbif_id": "2757108",
   "powo_id": "798401-1",
   "iucn_id": "96816015",

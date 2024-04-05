@@ -1,8 +1,7 @@
 {
   "name": "Euphorbia fiherenensis",
   "authorship": "Poiss.",
-  "genus_name": "Euphorbia",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Euphorbia",
   "gbif_id": "3067511",
   "powo_id": "346496-1",
   "iucn_id": "44350",

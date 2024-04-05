@@ -1,8 +1,7 @@
 {
   "name": "Verbesina gigantea",
   "authorship": "Jacq.",
-  "genus_name": "Verbesina",
-  "family_name": "Asteraceae",
+  "parent_name": "Verbesina",
   "gbif_id": "3147859",
   "powo_id": "257411-1",
   "iucn_id": null,

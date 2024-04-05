@@ -1,8 +1,7 @@
 {
   "name": "Inga pezizifera",
   "authorship": "Benth.",
-  "genus_name": "Inga",
-  "family_name": "Fabaceae",
+  "parent_name": "Inga",
   "gbif_id": "5357576",
   "powo_id": "128673-2",
   "iucn_id": "62026241",

@@ -1,8 +1,7 @@
 {
   "name": "Justicia adhatoda",
   "authorship": "L.",
-  "genus_name": "Justicia",
-  "family_name": "Acanthaceae",
+  "parent_name": "Justicia",
   "gbif_id": "3173105",
   "powo_id": "50237-1",
   "iucn_id": "169274250",

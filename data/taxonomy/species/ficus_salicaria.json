@@ -1,8 +1,7 @@
 {
   "name": "Ficus salicaria",
   "authorship": "C.C.Berg",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5571067",
   "powo_id": "330197-2",
   "iucn_id": null,

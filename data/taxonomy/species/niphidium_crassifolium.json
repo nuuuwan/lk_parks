@@ -1,8 +1,7 @@
 {
   "name": "Niphidium crassifolium",
   "authorship": "(L.) Lellinger",
-  "genus_name": "Niphidium",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Niphidium",
   "gbif_id": "2650442",
   "powo_id": "170054-2",
   "iucn_id": null,

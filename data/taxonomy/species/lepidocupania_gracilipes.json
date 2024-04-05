@@ -1,8 +1,7 @@
 {
   "name": "Lepidocupania gracilipes",
   "authorship": "(Radlk.) Buerki, Callm., Munzinger & Lowry",
-  "genus_name": "Lepidocupania",
-  "family_name": "Sapindaceae",
+  "parent_name": "Lepidocupania",
   "gbif_id": "11218356",
   "powo_id": "77212760-1",
   "iucn_id": null,

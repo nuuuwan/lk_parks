@@ -1,8 +1,7 @@
 {
   "name": "Populus fremontii",
   "authorship": "S.Watson",
-  "genus_name": "Populus",
-  "family_name": "Salicaceae",
+  "parent_name": "Populus",
   "gbif_id": "3040237",
   "powo_id": "306544-2",
   "iucn_id": "153746001",

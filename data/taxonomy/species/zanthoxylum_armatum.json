@@ -1,8 +1,7 @@
 {
   "name": "Zanthoxylum armatum",
   "authorship": "DC.",
-  "genus_name": "Zanthoxylum",
-  "family_name": "Rutaceae",
+  "parent_name": "Zanthoxylum",
   "gbif_id": "7716390",
   "powo_id": "775583-1",
   "iucn_id": "149660605",

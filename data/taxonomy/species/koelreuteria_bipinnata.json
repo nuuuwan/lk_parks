@@ -1,8 +1,7 @@
 {
   "name": "Koelreuteria bipinnata",
   "authorship": "Franch.",
-  "genus_name": "Koelreuteria",
-  "family_name": "Sapindaceae",
+  "parent_name": "Koelreuteria",
   "gbif_id": "5421179",
   "powo_id": "783415-1",
   "iucn_id": null,

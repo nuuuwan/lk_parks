@@ -1,8 +1,7 @@
 {
   "name": "Physocalymma scaberrimum",
   "authorship": "Pohl",
-  "genus_name": "Physocalymma",
-  "family_name": "Lythraceae",
+  "parent_name": "Physocalymma",
   "gbif_id": "7286107",
   "powo_id": "554105-1",
   "iucn_id": "144308707",

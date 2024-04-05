@@ -1,8 +1,7 @@
 {
   "name": "Epicharis parasitica",
   "authorship": "(Osbeck) Mabb.",
-  "genus_name": "Epicharis",
-  "family_name": "Meliaceae",
+  "parent_name": "Epicharis",
   "gbif_id": "11721227",
   "powo_id": "77222489-1",
   "iucn_id": null,

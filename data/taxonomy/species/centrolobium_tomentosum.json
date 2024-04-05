@@ -1,8 +1,7 @@
 {
   "name": "Centrolobium tomentosum",
   "authorship": "Guill. ex Benth.",
-  "genus_name": "Centrolobium",
-  "family_name": "Fabaceae",
+  "parent_name": "Centrolobium",
   "gbif_id": "2945575",
   "powo_id": "485538-1",
   "iucn_id": null,

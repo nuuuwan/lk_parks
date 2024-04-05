@@ -1,8 +1,7 @@
 {
   "name": "Zelkova sicula",
   "authorship": "Di Pasq., Garfi & Qu\u00e9zel",
-  "genus_name": "Zelkova",
-  "family_name": "Ulmaceae",
+  "parent_name": "Zelkova",
   "gbif_id": "4159433",
   "powo_id": "961554-1",
   "iucn_id": "61678",

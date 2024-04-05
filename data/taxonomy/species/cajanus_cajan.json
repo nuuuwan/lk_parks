@@ -1,8 +1,7 @@
 {
   "name": "Cajanus cajan",
   "authorship": "(L.) Huth",
-  "genus_name": "Cajanus",
-  "family_name": "Fabaceae",
+  "parent_name": "Cajanus",
   "gbif_id": "7587087",
   "powo_id": "1152177-2",
   "iucn_id": null,

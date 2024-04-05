@@ -1,8 +1,7 @@
 {
   "name": "Linum arboreum",
   "authorship": "L.",
-  "genus_name": "Linum",
-  "family_name": "Linaceae",
+  "parent_name": "Linum",
   "gbif_id": "7992207",
   "powo_id": "544335-1",
   "iucn_id": null,

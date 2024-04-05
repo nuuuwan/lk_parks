@@ -1,8 +1,7 @@
 {
   "name": "Hippocratea volubilis",
   "authorship": "L.",
-  "genus_name": "Hippocratea",
-  "family_name": "Celastraceae",
+  "parent_name": "Hippocratea",
   "gbif_id": "3169012",
   "powo_id": "161653-1",
   "iucn_id": null,

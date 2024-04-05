@@ -1,8 +1,7 @@
 {
   "name": "Leptospermum scoparium",
   "authorship": "J.R.Forst. & G.Forst.",
-  "genus_name": "Leptospermum",
-  "family_name": "Myrtaceae",
+  "parent_name": "Leptospermum",
   "gbif_id": "3181762",
   "powo_id": "597505-1",
   "iucn_id": "161478142",

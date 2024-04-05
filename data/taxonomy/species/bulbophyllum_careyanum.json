@@ -1,8 +1,7 @@
 {
   "name": "Bulbophyllum careyanum",
   "authorship": "(Hook.) Spreng.",
-  "genus_name": "Bulbophyllum",
-  "family_name": "Orchidaceae",
+  "parent_name": "Bulbophyllum",
   "gbif_id": "2845447",
   "powo_id": "618531-1",
   "iucn_id": null,

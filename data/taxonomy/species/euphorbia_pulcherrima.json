@@ -1,8 +1,7 @@
 {
   "name": "Euphorbia pulcherrima",
   "authorship": "Willd. ex Klotzsch",
-  "genus_name": "Euphorbia",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Euphorbia",
   "gbif_id": "3066465",
   "powo_id": "30176564-2",
   "iucn_id": "150008228",

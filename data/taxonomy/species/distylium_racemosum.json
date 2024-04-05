@@ -1,8 +1,7 @@
 {
   "name": "Distylium racemosum",
   "authorship": "Siebold & Zucc.",
-  "genus_name": "Distylium",
-  "family_name": "Hamamelidaceae",
+  "parent_name": "Distylium",
   "gbif_id": "7329084",
   "powo_id": "430636-1",
   "iucn_id": "147377399",

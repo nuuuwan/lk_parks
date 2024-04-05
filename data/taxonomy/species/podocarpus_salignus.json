@@ -1,8 +1,7 @@
 {
   "name": "Podocarpus salignus",
   "authorship": "D.Don",
-  "genus_name": "Podocarpus",
-  "family_name": "Podocarpaceae",
+  "parent_name": "Podocarpus",
   "gbif_id": "5285968",
   "powo_id": "263576-1",
   "iucn_id": "32030",

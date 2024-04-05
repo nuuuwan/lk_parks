@@ -1,8 +1,7 @@
 {
   "name": "Corylus maxima",
   "authorship": "Mill.",
-  "genus_name": "Corylus",
-  "family_name": "Betulaceae",
+  "parent_name": "Corylus",
   "gbif_id": "2876049",
   "powo_id": "295467-1",
   "iucn_id": "194619",

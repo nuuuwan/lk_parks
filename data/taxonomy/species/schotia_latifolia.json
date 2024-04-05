@@ -1,8 +1,7 @@
 {
   "name": "Schotia latifolia",
   "authorship": "Jacq.",
-  "genus_name": "Schotia",
-  "family_name": "Fabaceae",
+  "parent_name": "Schotia",
   "gbif_id": "2959238",
   "powo_id": "518046-1",
   "iucn_id": "146454742",

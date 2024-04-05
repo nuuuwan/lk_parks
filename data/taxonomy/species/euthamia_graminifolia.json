@@ -1,8 +1,7 @@
 {
   "name": "Euthamia graminifolia",
   "authorship": "(L.) Nutt.",
-  "genus_name": "Euthamia",
-  "family_name": "Asteraceae",
+  "parent_name": "Euthamia",
   "gbif_id": "3092782",
   "powo_id": "1004467-1",
   "iucn_id": "64311584",

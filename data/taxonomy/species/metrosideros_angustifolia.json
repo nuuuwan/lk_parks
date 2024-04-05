@@ -1,8 +1,7 @@
 {
   "name": "Metrosideros angustifolia",
   "authorship": "(L.) Sm.",
-  "genus_name": "Metrosideros",
-  "family_name": "Myrtaceae",
+  "parent_name": "Metrosideros",
   "gbif_id": "3173472",
   "powo_id": "598157-1",
   "iucn_id": "208458072",

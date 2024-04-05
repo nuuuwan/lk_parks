@@ -1,8 +1,7 @@
 {
   "name": "Scaphium scaphigerum",
   "authorship": "(Wall. ex G.Don) G.Planch.",
-  "genus_name": "Scaphium",
-  "family_name": "Malvaceae",
+  "parent_name": "Scaphium",
   "gbif_id": "5835379",
   "powo_id": "77221783-1",
   "iucn_id": null,

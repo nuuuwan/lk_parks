@@ -1,8 +1,7 @@
 {
   "name": "Vachellia collinsii",
   "authorship": "(Saff.) Seigler & Ebinger",
-  "genus_name": "Vachellia",
-  "family_name": "Fabaceae",
+  "parent_name": "Vachellia",
   "gbif_id": "3795578",
   "powo_id": "60441206-2",
   "iucn_id": "151965488",

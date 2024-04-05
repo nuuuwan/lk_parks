@@ -1,8 +1,7 @@
 {
   "name": "Falcatifolium falciforme",
   "authorship": "(Parl.) de Laub.",
-  "genus_name": "Falcatifolium",
-  "family_name": "Podocarpaceae",
+  "parent_name": "Falcatifolium",
   "gbif_id": "2687745",
   "powo_id": "687976-1",
   "iucn_id": "42475",

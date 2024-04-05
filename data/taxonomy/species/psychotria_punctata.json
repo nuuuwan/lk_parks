@@ -1,8 +1,7 @@
 {
   "name": "Psychotria punctata",
   "authorship": "Vatke",
-  "genus_name": "Psychotria",
-  "family_name": "Rubiaceae",
+  "parent_name": "Psychotria",
   "gbif_id": "2922220",
   "powo_id": "763141-1",
   "iucn_id": null,

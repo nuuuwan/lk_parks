@@ -1,8 +1,7 @@
 {
   "name": "Sonneratia alba",
   "authorship": "Sm.",
-  "genus_name": "Sonneratia",
-  "family_name": "Lythraceae",
+  "parent_name": "Sonneratia",
   "gbif_id": "5406998",
   "powo_id": "554265-1",
   "iucn_id": "178804",

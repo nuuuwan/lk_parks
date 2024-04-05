@@ -1,8 +1,7 @@
 {
   "name": "Ruellia simplex",
   "authorship": "C.Wright",
-  "genus_name": "Ruellia",
-  "family_name": "Acanthaceae",
+  "parent_name": "Ruellia",
   "gbif_id": "5572994",
   "powo_id": "54585-1",
   "iucn_id": null,

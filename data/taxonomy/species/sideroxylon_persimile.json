@@ -1,8 +1,7 @@
 {
   "name": "Sideroxylon persimile",
   "authorship": "(Hemsl.) T.D.Penn.",
-  "genus_name": "Sideroxylon",
-  "family_name": "Sapotaceae",
+  "parent_name": "Sideroxylon",
   "gbif_id": "2886860",
   "powo_id": "948021-1",
   "iucn_id": "62425",

@@ -1,8 +1,7 @@
 {
   "name": "Salix pedicellata",
   "authorship": "Desf.",
-  "genus_name": "Salix",
-  "family_name": "Salicaceae",
+  "parent_name": "Salix",
   "gbif_id": "5583320",
   "powo_id": "778436-1",
   "iucn_id": "164032",

@@ -1,8 +1,7 @@
 {
   "name": "Poa compressa",
   "authorship": "L.",
-  "genus_name": "Poa",
-  "family_name": "Poaceae",
+  "parent_name": "Poa",
   "gbif_id": "2704265",
   "powo_id": "204172-2",
   "iucn_id": null,

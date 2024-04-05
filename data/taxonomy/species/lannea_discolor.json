@@ -1,8 +1,7 @@
 {
   "name": "Lannea discolor",
   "authorship": "(Sond.) Engl.",
-  "genus_name": "Lannea",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Lannea",
   "gbif_id": "3661097",
   "powo_id": "69764-1",
   "iucn_id": "146202219",

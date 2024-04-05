@@ -1,8 +1,7 @@
 {
   "name": "Gardenia thunbergia",
   "authorship": "Thunb.",
-  "genus_name": "Gardenia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Gardenia",
   "gbif_id": "5334998",
   "powo_id": "751291-1",
   "iucn_id": "209386113",

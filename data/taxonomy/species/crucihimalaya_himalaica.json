@@ -1,8 +1,7 @@
 {
   "name": "Crucihimalaya himalaica",
   "authorship": "(Edgew.) Al-Shehbaz, O'Kane & R.A.Price",
-  "genus_name": "Crucihimalaya",
-  "family_name": "Brassicaceae",
+  "parent_name": "Crucihimalaya",
   "gbif_id": "3041702",
   "powo_id": "1009835-1",
   "iucn_id": null,

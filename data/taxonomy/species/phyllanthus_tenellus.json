@@ -1,8 +1,7 @@
 {
   "name": "Phyllanthus tenellus",
   "authorship": "Roxb.",
-  "genus_name": "Phyllanthus",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Phyllanthus",
   "gbif_id": "5381097",
   "powo_id": "354756-1",
   "iucn_id": null,

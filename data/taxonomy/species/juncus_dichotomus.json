@@ -1,8 +1,7 @@
 {
   "name": "Juncus dichotomus",
   "authorship": "Elliott",
-  "genus_name": "Juncus",
-  "family_name": "Juncaceae",
+  "parent_name": "Juncus",
   "gbif_id": "2701120",
   "powo_id": "442886-1",
   "iucn_id": null,

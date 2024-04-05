@@ -1,8 +1,7 @@
 {
   "name": "Brugmansia suaveolens",
   "authorship": "(Humb. & Bonpl. ex Willd.) Sweet",
-  "genus_name": "Brugmansia",
-  "family_name": "Solanaceae",
+  "parent_name": "Brugmansia",
   "gbif_id": "9406432",
   "powo_id": "77109576-1",
   "iucn_id": "51247699",

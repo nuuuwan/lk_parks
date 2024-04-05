@@ -1,8 +1,7 @@
 {
   "name": "Oemleria cerasiformis",
   "authorship": "(Torr. & A.Gray ex Hook. & Arn.) J.W.Landon",
-  "genus_name": "Oemleria",
-  "family_name": "Rosaceae",
+  "parent_name": "Oemleria",
   "gbif_id": "2988485",
   "powo_id": "172648-2",
   "iucn_id": "156821753",

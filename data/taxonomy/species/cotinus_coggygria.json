@@ -1,8 +1,7 @@
 {
   "name": "Cotinus coggygria",
   "authorship": "Scop.",
-  "genus_name": "Cotinus",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Cotinus",
   "gbif_id": "3190522",
   "powo_id": "69498-1",
   "iucn_id": "202959",

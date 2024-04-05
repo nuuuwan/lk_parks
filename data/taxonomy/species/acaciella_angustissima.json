@@ -1,8 +1,7 @@
 {
   "name": "Acaciella angustissima",
   "authorship": "(Mill.) Britton & Rose",
-  "genus_name": "Acaciella",
-  "family_name": "Fabaceae",
+  "parent_name": "Acaciella",
   "gbif_id": "2981071",
   "powo_id": "712-2",
   "iucn_id": "130035828",

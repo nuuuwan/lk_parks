@@ -1,8 +1,7 @@
 {
   "name": "Polyalthia stenopetala",
   "authorship": "(Hook.f. & Thomson) Finet & Gagnep.",
-  "genus_name": "Polyalthia",
-  "family_name": "Annonaceae",
+  "parent_name": "Polyalthia",
   "gbif_id": "3155170",
   "powo_id": "74728-1",
   "iucn_id": "180810451",

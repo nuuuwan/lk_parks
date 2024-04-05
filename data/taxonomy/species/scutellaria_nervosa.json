@@ -1,8 +1,7 @@
 {
   "name": "Scutellaria nervosa",
   "authorship": "Pursh",
-  "genus_name": "Scutellaria",
-  "family_name": "Lamiaceae",
+  "parent_name": "Scutellaria",
   "gbif_id": "5341363",
   "powo_id": "458486-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Drymaria cordata",
   "authorship": "(L.) Willd. ex Schult.",
-  "genus_name": "Drymaria",
-  "family_name": "Caryophyllaceae",
+  "parent_name": "Drymaria",
   "gbif_id": "5384509",
   "powo_id": "30172747-2",
   "iucn_id": null,

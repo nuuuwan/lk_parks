@@ -1,8 +1,7 @@
 {
   "name": "Tapinanthus belvisii",
   "authorship": "(DC.) Danser",
-  "genus_name": "Tapinanthus",
-  "family_name": "Loranthaceae",
+  "parent_name": "Tapinanthus",
   "gbif_id": "4004441",
   "powo_id": "551853-1",
   "iucn_id": null,

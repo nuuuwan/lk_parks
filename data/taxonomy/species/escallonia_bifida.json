@@ -1,8 +1,7 @@
 {
   "name": "Escallonia bifida",
   "authorship": "Link & Otto",
-  "genus_name": "Escallonia",
-  "family_name": "Escalloniaceae",
+  "parent_name": "Escallonia",
   "gbif_id": "7428724",
   "powo_id": "790989-1",
   "iucn_id": "160422395",

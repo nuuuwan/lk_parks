@@ -1,8 +1,7 @@
 {
   "name": "Stromanthe thalia",
   "authorship": "(Vell.) J.M.A.Braga",
-  "genus_name": "Stromanthe",
-  "family_name": "Marantaceae",
+  "parent_name": "Stromanthe",
   "gbif_id": "2761259",
   "powo_id": "1211666-2",
   "iucn_id": null,

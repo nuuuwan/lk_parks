@@ -1,8 +1,7 @@
 {
   "name": "Phyllanthus niruri",
   "authorship": "L.",
-  "genus_name": "Phyllanthus",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Phyllanthus",
   "gbif_id": "5381945",
   "powo_id": "194900-2",
   "iucn_id": null,

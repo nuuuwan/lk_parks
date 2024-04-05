@@ -1,8 +1,7 @@
 {
   "name": "Cunonia aoupiniensis",
   "authorship": "Hoogland",
-  "genus_name": "Cunonia",
-  "family_name": "Cunoniaceae",
+  "parent_name": "Cunonia",
   "gbif_id": "5535296",
   "powo_id": "995830-1",
   "iucn_id": "35189",

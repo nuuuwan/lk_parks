@@ -1,8 +1,7 @@
 {
   "name": "Melaleuca saligna",
   "authorship": "S.Schauer",
-  "genus_name": "Melaleuca",
-  "family_name": "Myrtaceae",
+  "parent_name": "Melaleuca",
   "gbif_id": "5415887",
   "powo_id": "598081-1",
   "iucn_id": "192232954",

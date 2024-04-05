@@ -1,8 +1,7 @@
 {
   "name": "Barringtonia racemosa",
   "authorship": "(L.) Spreng.",
-  "genus_name": "Barringtonia",
-  "family_name": "Lecythidaceae",
+  "parent_name": "Barringtonia",
   "gbif_id": "3082727",
   "powo_id": "155081-3",
   "iucn_id": "160298203",

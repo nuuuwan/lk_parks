@@ -1,8 +1,7 @@
 {
   "name": "Apeiba membranacea",
   "authorship": "Spruce ex Benth.",
-  "genus_name": "Apeiba",
-  "family_name": "Malvaceae",
+  "parent_name": "Apeiba",
   "gbif_id": "4260481",
   "powo_id": "833266-1",
   "iucn_id": "145677708",

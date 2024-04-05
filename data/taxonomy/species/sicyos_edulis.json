@@ -1,8 +1,7 @@
 {
   "name": "Sicyos edulis",
   "authorship": "Jacq.",
-  "genus_name": "Sicyos",
-  "family_name": "Cucurbitaceae",
+  "parent_name": "Sicyos",
   "gbif_id": "3625017",
   "powo_id": "293946-1",
   "iucn_id": null,

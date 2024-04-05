@@ -1,8 +1,7 @@
 {
   "name": "Salvia mellifera",
   "authorship": "Greene",
-  "genus_name": "Salvia",
-  "family_name": "Lamiaceae",
+  "parent_name": "Salvia",
   "gbif_id": "2926986",
   "powo_id": "289832-2",
   "iucn_id": null,

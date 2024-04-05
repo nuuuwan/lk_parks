@@ -1,8 +1,7 @@
 {
   "name": "Westringia fruticosa",
   "authorship": "(Willd.) Druce",
-  "genus_name": "Westringia",
-  "family_name": "Lamiaceae",
+  "parent_name": "Westringia",
   "gbif_id": "3900949",
   "powo_id": "461913-1",
   "iucn_id": null,

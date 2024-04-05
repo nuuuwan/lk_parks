@@ -1,8 +1,7 @@
 {
   "name": "Eryngium foetidum",
   "authorship": "L.",
-  "genus_name": "Eryngium",
-  "family_name": "Apiaceae",
+  "parent_name": "Eryngium",
   "gbif_id": "3034425",
   "powo_id": "841793-1",
   "iucn_id": null,

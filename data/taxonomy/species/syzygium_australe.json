@@ -1,8 +1,7 @@
 {
   "name": "Syzygium australe",
   "authorship": "(J.C.Wendl. ex Link) B.Hyland",
-  "genus_name": "Syzygium",
-  "family_name": "Myrtaceae",
+  "parent_name": "Syzygium",
   "gbif_id": "3182605",
   "powo_id": "913371-1",
   "iucn_id": null,

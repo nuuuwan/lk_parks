@@ -1,8 +1,7 @@
 {
   "name": "Coccoloba venosa",
   "authorship": "L.",
-  "genus_name": "Coccoloba",
-  "family_name": "Polygonaceae",
+  "parent_name": "Coccoloba",
   "gbif_id": "2888844",
   "powo_id": "693921-1",
   "iucn_id": "204726163",

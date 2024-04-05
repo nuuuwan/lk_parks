@@ -1,8 +1,7 @@
 {
   "name": "Morus rubra",
   "authorship": "L.",
-  "genus_name": "Morus",
-  "family_name": "Moraceae",
+  "parent_name": "Morus",
   "gbif_id": "5361886",
   "powo_id": "854710-1",
   "iucn_id": "61890109",

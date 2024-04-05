@@ -1,8 +1,7 @@
 {
   "name": "Ornithogalum trichophyllum",
   "authorship": "Boiss.",
-  "genus_name": "Ornithogalum",
-  "family_name": "Asparagaceae",
+  "parent_name": "Ornithogalum",
   "gbif_id": "2773482",
   "powo_id": "539587-1",
   "iucn_id": null,

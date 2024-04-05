@@ -1,8 +1,7 @@
 {
   "name": "Ostrya virginiana",
   "authorship": "(Mill.) K.Koch",
-  "genus_name": "Ostrya",
-  "family_name": "Betulaceae",
+  "parent_name": "Ostrya",
   "gbif_id": "5332289",
   "powo_id": "295672-1",
   "iucn_id": "194540",

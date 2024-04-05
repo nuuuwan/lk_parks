@@ -1,8 +1,7 @@
 {
   "name": "Strophanthus speciosus",
   "authorship": "(Ward & Harv.) Reber",
-  "genus_name": "Strophanthus",
-  "family_name": "Apocynaceae",
+  "parent_name": "Strophanthus",
   "gbif_id": "3619673",
   "powo_id": "81956-1",
   "iucn_id": "149511893",

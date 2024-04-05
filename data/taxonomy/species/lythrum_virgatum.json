@@ -1,8 +1,7 @@
 {
   "name": "Lythrum virgatum",
   "authorship": "L.",
-  "genus_name": "Lythrum",
-  "family_name": "Lythraceae",
+  "parent_name": "Lythrum",
   "gbif_id": "3188735",
   "powo_id": "553831-1",
   "iucn_id": null,

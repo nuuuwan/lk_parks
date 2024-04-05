@@ -1,8 +1,7 @@
 {
   "name": "Paulownia kawakamii",
   "authorship": "T.It\u00f4",
-  "genus_name": "Paulownia",
-  "family_name": "Paulowniaceae",
+  "parent_name": "Paulownia",
   "gbif_id": "8953685",
   "powo_id": "806716-1",
   "iucn_id": "31352",

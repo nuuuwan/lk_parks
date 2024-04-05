@@ -1,8 +1,7 @@
 {
   "name": "Alyxia clusiophylla",
   "authorship": "(Baill.) Guillaumin",
-  "genus_name": "Alyxia",
-  "family_name": "Apocynaceae",
+  "parent_name": "Alyxia",
   "gbif_id": "3615783",
   "powo_id": "76639-1",
   "iucn_id": null,

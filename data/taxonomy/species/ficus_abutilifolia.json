@@ -1,8 +1,7 @@
 {
   "name": "Ficus abutilifolia",
   "authorship": "(Miq.) Miq.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "5570182",
   "powo_id": "852334-1",
   "iucn_id": "146435124",

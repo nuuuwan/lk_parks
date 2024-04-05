@@ -1,8 +1,7 @@
 {
   "name": "Trichanthera gigantea",
   "authorship": "(Bonpl.) Nees",
-  "genus_name": "Trichanthera",
-  "family_name": "Acanthaceae",
+  "parent_name": "Trichanthera",
   "gbif_id": "8138695",
   "powo_id": "56505-1",
   "iucn_id": "150000011",

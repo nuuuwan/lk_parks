@@ -1,8 +1,7 @@
 {
   "name": "Pachystroma longifolium",
   "authorship": "(Nees) I.M.Johnst.",
-  "genus_name": "Pachystroma",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Pachystroma",
   "gbif_id": "5379804",
   "powo_id": "179963-2",
   "iucn_id": "146075365",

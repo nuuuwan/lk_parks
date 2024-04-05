@@ -1,8 +1,7 @@
 {
   "name": "Tabernaemontana macrocarpa",
   "authorship": "Jack",
-  "genus_name": "Tabernaemontana",
-  "family_name": "Apocynaceae",
+  "parent_name": "Tabernaemontana",
   "gbif_id": "3616206",
   "powo_id": "82203-1",
   "iucn_id": "136144197",

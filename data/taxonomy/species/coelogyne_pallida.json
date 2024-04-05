@@ -1,8 +1,7 @@
 {
   "name": "Coelogyne pallida",
   "authorship": "(Lindl.) Rchb.f.",
-  "genus_name": "Coelogyne",
-  "family_name": "Orchidaceae",
+  "parent_name": "Coelogyne",
   "gbif_id": "2838772",
   "powo_id": "623980-1",
   "iucn_id": null,

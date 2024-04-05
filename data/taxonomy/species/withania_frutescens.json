@@ -1,8 +1,7 @@
 {
   "name": "Withania frutescens",
   "authorship": "(L.) Pauquy",
-  "genus_name": "Withania",
-  "family_name": "Solanaceae",
+  "parent_name": "Withania",
   "gbif_id": "3801152",
   "powo_id": "821680-1",
   "iucn_id": null,

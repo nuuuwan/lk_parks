@@ -1,8 +1,7 @@
 {
   "name": "Musa nagensium",
   "authorship": "Prain",
-  "genus_name": "Musa",
-  "family_name": "Musaceae",
+  "parent_name": "Musa",
   "gbif_id": "2763023",
   "powo_id": "797587-1",
   "iucn_id": "158541691",

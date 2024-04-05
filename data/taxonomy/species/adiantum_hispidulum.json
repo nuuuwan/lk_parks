@@ -1,8 +1,7 @@
 {
   "name": "Adiantum hispidulum",
   "authorship": "Sw.",
-  "genus_name": "Adiantum",
-  "family_name": "Pteridaceae",
+  "parent_name": "Adiantum",
   "gbif_id": "2651839",
   "powo_id": "17010780-1",
   "iucn_id": null,

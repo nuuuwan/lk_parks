@@ -1,8 +1,7 @@
 {
   "name": "Heteropterys glabra",
   "authorship": "Hook. & Arn.",
-  "genus_name": "Heteropterys",
-  "family_name": "Malpighiaceae",
+  "parent_name": "Heteropterys",
   "gbif_id": "3983448",
   "powo_id": "556547-1",
   "iucn_id": null,

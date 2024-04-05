@@ -1,8 +1,7 @@
 {
   "name": "Ficus deltoidea",
   "authorship": "Jack",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "7262889",
   "powo_id": "852727-1",
   "iucn_id": "163458901",

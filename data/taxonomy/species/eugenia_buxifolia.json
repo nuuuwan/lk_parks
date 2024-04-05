@@ -1,8 +1,7 @@
 {
   "name": "Eugenia buxifolia",
   "authorship": "Lam.",
-  "genus_name": "Eugenia",
-  "family_name": "Myrtaceae",
+  "parent_name": "Eugenia",
   "gbif_id": "5417759",
   "powo_id": "593857-1",
   "iucn_id": null,

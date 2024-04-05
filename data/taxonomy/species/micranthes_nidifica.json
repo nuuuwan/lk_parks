@@ -1,8 +1,7 @@
 {
   "name": "Micranthes nidifica",
   "authorship": "(Greene) Small",
-  "genus_name": "Micranthes",
-  "family_name": "Saxifragaceae",
+  "parent_name": "Micranthes",
   "gbif_id": "5567624",
   "powo_id": "160054-2",
   "iucn_id": null,

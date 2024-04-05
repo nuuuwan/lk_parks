@@ -1,8 +1,7 @@
 {
   "name": "Adenia fruticosa",
   "authorship": "Burtt Davy",
-  "genus_name": "Adenia",
-  "family_name": "Passifloraceae",
+  "parent_name": "Adenia",
   "gbif_id": "7313486",
   "powo_id": "674083-1",
   "iucn_id": "141549460",

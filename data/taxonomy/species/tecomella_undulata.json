@@ -1,8 +1,7 @@
 {
   "name": "Tecomella undulata",
   "authorship": "(Sm.) Seem.",
-  "genus_name": "Tecomella",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Tecomella",
   "gbif_id": "4093643",
   "powo_id": "111345-1",
   "iucn_id": "137731325",

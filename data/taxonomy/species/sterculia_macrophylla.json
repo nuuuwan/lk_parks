@@ -1,8 +1,7 @@
 {
   "name": "Sterculia macrophylla",
   "authorship": "Vent.",
-  "genus_name": "Sterculia",
-  "family_name": "Malvaceae",
+  "parent_name": "Sterculia",
   "gbif_id": "5546232",
   "powo_id": "825329-1",
   "iucn_id": null,

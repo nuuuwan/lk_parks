@@ -1,8 +1,7 @@
 {
   "name": "Aloe castilloniae",
   "authorship": "J.-B.Castillon",
-  "genus_name": "Aloe",
-  "family_name": "Asphodelaceae",
+  "parent_name": "Aloe",
   "gbif_id": "2777746",
   "powo_id": "77075849-1",
   "iucn_id": "110040949",

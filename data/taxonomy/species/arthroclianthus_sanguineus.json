@@ -1,8 +1,7 @@
 {
   "name": "Arthroclianthus sanguineus",
   "authorship": "Baill.",
-  "genus_name": "Arthroclianthus",
-  "family_name": "Fabaceae",
+  "parent_name": "Arthroclianthus",
   "gbif_id": "3979949",
   "powo_id": "475308-1",
   "iucn_id": null,

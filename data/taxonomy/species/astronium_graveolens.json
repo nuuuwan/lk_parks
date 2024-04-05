@@ -1,8 +1,7 @@
 {
   "name": "Astronium graveolens",
   "authorship": "Jacq.",
-  "genus_name": "Astronium",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Astronium",
   "gbif_id": "7321588",
   "powo_id": "69240-1",
   "iucn_id": "61530992",

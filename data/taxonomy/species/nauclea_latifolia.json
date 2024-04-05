@@ -1,8 +1,7 @@
 {
   "name": "Nauclea latifolia",
   "authorship": "Sm.",
-  "genus_name": "Nauclea",
-  "family_name": "Rubiaceae",
+  "parent_name": "Nauclea",
   "gbif_id": "5336165",
   "powo_id": "757144-1",
   "iucn_id": "136114785",

@@ -1,8 +1,7 @@
 {
   "name": "Parinari campestris",
   "authorship": "Aubl.",
-  "genus_name": "Parinari",
-  "family_name": "Chrysobalanaceae",
+  "parent_name": "Parinari",
   "gbif_id": "2984941",
   "powo_id": "727083-1",
   "iucn_id": "61988591",

@@ -1,8 +1,7 @@
 {
   "name": "Prunus umbellata",
   "authorship": "Elliott",
-  "genus_name": "Prunus",
-  "family_name": "Rosaceae",
+  "parent_name": "Prunus",
   "gbif_id": "3022674",
   "powo_id": "30282888-2",
   "iucn_id": "50668331",

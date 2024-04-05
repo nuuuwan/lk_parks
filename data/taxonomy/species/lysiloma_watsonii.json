@@ -1,8 +1,7 @@
 {
   "name": "Lysiloma watsonii",
   "authorship": "Rose",
-  "genus_name": "Lysiloma",
-  "family_name": "Fabaceae",
+  "parent_name": "Lysiloma",
   "gbif_id": "2965845",
   "powo_id": "148110-2",
   "iucn_id": "130223383",

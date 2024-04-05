@@ -1,8 +1,7 @@
 {
   "name": "Amorphophallus paeoniifolius",
   "authorship": "(Dennst.) Nicolson",
-  "genus_name": "Amorphophallus",
-  "family_name": "Araceae",
+  "parent_name": "Amorphophallus",
   "gbif_id": "2871533",
   "powo_id": "60444138-2",
   "iucn_id": "44393336",

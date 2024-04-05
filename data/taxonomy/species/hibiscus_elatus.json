@@ -1,8 +1,7 @@
 {
   "name": "Hibiscus elatus",
   "authorship": "Sw.",
-  "genus_name": "Hibiscus",
-  "family_name": "Malvaceae",
+  "parent_name": "Hibiscus",
   "gbif_id": "3152571",
   "powo_id": "121930-2",
   "iucn_id": "70402353",

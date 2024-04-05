@@ -1,8 +1,7 @@
 {
   "name": "Dalbergia melanocardium",
   "authorship": "Pittier",
-  "genus_name": "Dalbergia",
-  "family_name": "Fabaceae",
+  "parent_name": "Dalbergia",
   "gbif_id": "2968683",
   "powo_id": "75960-2",
   "iucn_id": "145395447",

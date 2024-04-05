@@ -1,8 +1,7 @@
 {
   "name": "Alnus rubra",
   "authorship": "Bong.",
-  "genus_name": "Alnus",
-  "family_name": "Betulaceae",
+  "parent_name": "Alnus",
   "gbif_id": "2876176",
   "powo_id": "294986-1",
   "iucn_id": "194598",

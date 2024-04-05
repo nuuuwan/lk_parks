@@ -1,8 +1,7 @@
 {
   "name": "Manilkara huberi",
   "authorship": "(Ducke) Standl.",
-  "genus_name": "Manilkara",
-  "family_name": "Sapotaceae",
+  "parent_name": "Manilkara",
   "gbif_id": "2885087",
   "powo_id": "152609-2",
   "iucn_id": null,

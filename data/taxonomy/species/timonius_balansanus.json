@@ -1,8 +1,7 @@
 {
   "name": "Timonius balansanus",
   "authorship": "(Baill.) Schltr.",
-  "genus_name": "Timonius",
-  "family_name": "Rubiaceae",
+  "parent_name": "Timonius",
   "gbif_id": "9505464",
   "powo_id": "767716-1",
   "iucn_id": null,

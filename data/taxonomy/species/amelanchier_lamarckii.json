@@ -1,8 +1,7 @@
 {
   "name": "Amelanchier lamarckii",
   "authorship": "F.G.Schroed.",
-  "genus_name": "Amelanchier",
-  "family_name": "Rosaceae",
+  "parent_name": "Amelanchier",
   "gbif_id": "3024109",
   "powo_id": "721221-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Perilla frutescens",
   "authorship": "(L.) Britton",
-  "genus_name": "Perilla",
-  "family_name": "Lamiaceae",
+  "parent_name": "Perilla",
   "gbif_id": "5341394",
   "powo_id": "190343-2",
   "iucn_id": "149445472",

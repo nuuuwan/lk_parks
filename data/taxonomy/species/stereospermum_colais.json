@@ -1,8 +1,7 @@
 {
   "name": "Stereospermum colais",
   "authorship": "(Buch.-Ham. ex Dillwyn) Mabb.",
-  "genus_name": "Stereospermum",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Stereospermum",
   "gbif_id": "7298473",
   "powo_id": "110775-1",
   "iucn_id": null,

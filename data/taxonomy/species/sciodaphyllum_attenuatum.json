@@ -1,8 +1,7 @@
 {
   "name": "Sciodaphyllum attenuatum",
   "authorship": "(Sw.) Lowry, G.M.Plunkett & M.M.Mora",
-  "genus_name": "Sciodaphyllum",
-  "family_name": "Araliaceae",
+  "parent_name": "Sciodaphyllum",
   "gbif_id": "11077149",
   "powo_id": "77210452-1",
   "iucn_id": null,

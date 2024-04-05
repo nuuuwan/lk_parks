@@ -1,8 +1,7 @@
 {
   "name": "Shorea acuminata",
   "authorship": "Dyer",
-  "genus_name": "Shorea",
-  "family_name": "Dipterocarpaceae",
+  "parent_name": "Shorea",
   "gbif_id": "4096530",
   "powo_id": "321185-1",
   "iucn_id": "33921",

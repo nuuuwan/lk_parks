@@ -1,8 +1,7 @@
 {
   "name": "Lathyrus tremolsianus",
   "authorship": "Pau",
-  "genus_name": "Lathyrus",
-  "family_name": "Fabaceae",
+  "parent_name": "Lathyrus",
   "gbif_id": "5356570",
   "powo_id": "502058-1",
   "iucn_id": null,

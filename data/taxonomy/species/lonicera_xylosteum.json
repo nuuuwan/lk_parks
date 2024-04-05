@@ -1,8 +1,7 @@
 {
   "name": "Lonicera xylosteum",
   "authorship": "L.",
-  "genus_name": "Lonicera",
-  "family_name": "Caprifoliaceae",
+  "parent_name": "Lonicera",
   "gbif_id": "5334259",
   "powo_id": "149194-1",
   "iucn_id": null,

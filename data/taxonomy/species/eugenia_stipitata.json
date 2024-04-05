@@ -1,8 +1,7 @@
 {
   "name": "Eugenia stipitata",
   "authorship": "McVaugh",
-  "genus_name": "Eugenia",
-  "family_name": "Myrtaceae",
+  "parent_name": "Eugenia",
   "gbif_id": "5417551",
   "powo_id": "99059-2",
   "iucn_id": "152946445",

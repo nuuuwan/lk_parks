@@ -1,8 +1,7 @@
 {
   "name": "Syagrus schizophylla",
   "authorship": "(Mart.) Glassman",
-  "genus_name": "Syagrus",
-  "family_name": "Arecaceae",
+  "parent_name": "Syagrus",
   "gbif_id": "5293907",
   "powo_id": "246970-2",
   "iucn_id": null,

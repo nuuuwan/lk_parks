@@ -1,8 +1,7 @@
 {
   "name": "Bignonia callistegioides",
   "authorship": "Cham.",
-  "genus_name": "Bignonia",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Bignonia",
   "gbif_id": "4093976",
   "powo_id": "108621-1",
   "iucn_id": null,

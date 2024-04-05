@@ -1,8 +1,7 @@
 {
   "name": "Photinia davidiana",
   "authorship": "(Decne.) Cardot",
-  "genus_name": "Photinia",
-  "family_name": "Rosaceae",
+  "parent_name": "Photinia",
   "gbif_id": "5363911",
   "powo_id": "727366-1",
   "iucn_id": null,

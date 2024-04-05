@@ -1,8 +1,7 @@
 {
   "name": "Ziziphus spina-christi",
   "authorship": "(L.) Desf.",
-  "genus_name": "Ziziphus",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Ziziphus",
   "gbif_id": "8228089",
   "powo_id": "719427-1",
   "iucn_id": "19180920",

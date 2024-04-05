@@ -1,8 +1,7 @@
 {
   "name": "Jasminum sambac",
   "authorship": "(L.) Aiton",
-  "genus_name": "Jasminum",
-  "family_name": "Oleaceae",
+  "parent_name": "Jasminum",
   "gbif_id": "7587215",
   "powo_id": "609755-1",
   "iucn_id": null,

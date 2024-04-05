@@ -1,8 +1,7 @@
 {
   "name": "Tabernanthe iboga",
   "authorship": "Baill.",
-  "genus_name": "Tabernanthe",
-  "family_name": "Apocynaceae",
+  "parent_name": "Tabernanthe",
   "gbif_id": "3621082",
   "powo_id": "56090-1",
   "iucn_id": "120678584",

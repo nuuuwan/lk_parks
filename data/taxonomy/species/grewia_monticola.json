@@ -1,8 +1,7 @@
 {
   "name": "Grewia monticola",
   "authorship": "Sond.",
-  "genus_name": "Grewia",
-  "family_name": "Malvaceae",
+  "parent_name": "Grewia",
   "gbif_id": "4261567",
   "powo_id": "834389-1",
   "iucn_id": "146459640",

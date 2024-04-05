@@ -1,8 +1,7 @@
 {
   "name": "Eugenia sprengelii",
   "authorship": "DC.",
-  "genus_name": "Eugenia",
-  "family_name": "Myrtaceae",
+  "parent_name": "Eugenia",
   "gbif_id": "5416360",
   "powo_id": "596008-1",
   "iucn_id": "177793842",

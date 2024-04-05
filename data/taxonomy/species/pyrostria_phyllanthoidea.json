@@ -1,8 +1,7 @@
 {
   "name": "Pyrostria phyllanthoidea",
   "authorship": "(Baill.) Bridson",
-  "genus_name": "Pyrostria",
-  "family_name": "Rubiaceae",
+  "parent_name": "Pyrostria",
   "gbif_id": "2894208",
   "powo_id": "944182-1",
   "iucn_id": "164051952",

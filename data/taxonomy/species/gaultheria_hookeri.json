@@ -1,8 +1,7 @@
 {
   "name": "Gaultheria hookeri",
   "authorship": "C.B.Clarke",
-  "genus_name": "Gaultheria",
-  "family_name": "Ericaceae",
+  "parent_name": "Gaultheria",
   "gbif_id": "4171263",
   "powo_id": "330565-1",
   "iucn_id": null,

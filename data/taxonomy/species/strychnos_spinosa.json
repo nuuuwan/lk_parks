@@ -1,8 +1,7 @@
 {
   "name": "Strychnos spinosa",
   "authorship": "Lam.",
-  "genus_name": "Strychnos",
-  "family_name": "Loganiaceae",
+  "parent_name": "Strychnos",
   "gbif_id": "5414400",
   "powo_id": "547485-1",
   "iucn_id": null,

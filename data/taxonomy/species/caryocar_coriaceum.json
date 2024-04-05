@@ -1,8 +1,7 @@
 {
   "name": "Caryocar coriaceum",
   "authorship": "Wittm.",
-  "genus_name": "Caryocar",
-  "family_name": "Caryocaraceae",
+  "parent_name": "Caryocar",
   "gbif_id": "3826056",
   "powo_id": "47861-2",
   "iucn_id": "35343",

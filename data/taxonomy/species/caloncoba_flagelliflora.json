@@ -1,8 +1,7 @@
 {
   "name": "Caloncoba flagelliflora",
   "authorship": "(Mildbr.) Gilg ex Pellegr.",
-  "genus_name": "Caloncoba",
-  "family_name": "Achariaceae",
+  "parent_name": "Caloncoba",
   "gbif_id": "3878340",
   "powo_id": "365011-1",
   "iucn_id": null,

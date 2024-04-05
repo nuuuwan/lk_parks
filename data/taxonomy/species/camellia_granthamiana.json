@@ -1,8 +1,7 @@
 {
   "name": "Camellia granthamiana",
   "authorship": "Sealy",
-  "genus_name": "Camellia",
-  "family_name": "Theaceae",
+  "parent_name": "Camellia",
   "gbif_id": "3590429",
   "powo_id": "829914-1",
   "iucn_id": "62053240",

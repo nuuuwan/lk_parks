@@ -1,8 +1,7 @@
 {
   "name": "Apuleia leiocarpa",
   "authorship": "(Vogel) J.F.Macbr.",
-  "genus_name": "Apuleia",
-  "family_name": "Fabaceae",
+  "parent_name": "Apuleia",
   "gbif_id": "5353578",
   "powo_id": "16766-2",
   "iucn_id": "61220263",

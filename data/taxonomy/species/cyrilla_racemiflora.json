@@ -1,8 +1,7 @@
 {
   "name": "Cyrilla racemiflora",
   "authorship": "L.",
-  "genus_name": "Cyrilla",
-  "family_name": "Cyrillaceae",
+  "parent_name": "Cyrilla",
   "gbif_id": "5333448",
   "powo_id": "319176-2",
   "iucn_id": "144305218",

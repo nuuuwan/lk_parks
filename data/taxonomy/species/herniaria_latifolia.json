@@ -1,8 +1,7 @@
 {
   "name": "Herniaria latifolia",
   "authorship": "Lapeyr.",
-  "genus_name": "Herniaria",
-  "family_name": "Caryophyllaceae",
+  "parent_name": "Herniaria",
   "gbif_id": "7314268",
   "powo_id": "434811-1",
   "iucn_id": null,

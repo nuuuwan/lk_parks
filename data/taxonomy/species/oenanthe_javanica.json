@@ -1,8 +1,7 @@
 {
   "name": "Oenanthe javanica",
   "authorship": "(Blume) DC.",
-  "genus_name": "Oenanthe",
-  "family_name": "Apiaceae",
+  "parent_name": "Oenanthe",
   "gbif_id": "5371886",
   "powo_id": "845307-1",
   "iucn_id": "168749",

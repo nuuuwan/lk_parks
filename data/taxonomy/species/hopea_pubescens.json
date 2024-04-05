@@ -1,8 +1,7 @@
 {
   "name": "Hopea pubescens",
   "authorship": "Ridl.",
-  "genus_name": "Hopea",
-  "family_name": "Dipterocarpaceae",
+  "parent_name": "Hopea",
   "gbif_id": "5669163",
   "powo_id": "320981-1",
   "iucn_id": "31426",

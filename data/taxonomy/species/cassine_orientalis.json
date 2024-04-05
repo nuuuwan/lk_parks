@@ -1,8 +1,7 @@
 {
   "name": "Cassine orientalis",
   "authorship": "(Jacq.) Kuntze",
-  "genus_name": "Cassine",
-  "family_name": "Celastraceae",
+  "parent_name": "Cassine",
   "gbif_id": "3792262",
   "powo_id": null,
   "iucn_id": null,

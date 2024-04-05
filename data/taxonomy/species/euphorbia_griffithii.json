@@ -1,8 +1,7 @@
 {
   "name": "Euphorbia griffithii",
   "authorship": "Hook.f.",
-  "genus_name": "Euphorbia",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Euphorbia",
   "gbif_id": "4930714",
   "powo_id": "346690-1",
   "iucn_id": null,

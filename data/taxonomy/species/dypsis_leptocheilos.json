@@ -1,8 +1,7 @@
 {
   "name": "Dypsis leptocheilos",
   "authorship": "(Hodel) Beentje & J.Dransf.",
-  "genus_name": "Dypsis",
-  "family_name": "Arecaceae",
+  "parent_name": "Dypsis",
   "gbif_id": "2735895",
   "powo_id": "985344-1",
   "iucn_id": "195892",

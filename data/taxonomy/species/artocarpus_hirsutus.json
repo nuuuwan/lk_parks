@@ -1,8 +1,7 @@
 {
   "name": "Artocarpus hirsutus",
   "authorship": "Lam.",
-  "genus_name": "Artocarpus",
-  "family_name": "Moraceae",
+  "parent_name": "Artocarpus",
   "gbif_id": "2984572",
   "powo_id": "850390-1",
   "iucn_id": "61220325",

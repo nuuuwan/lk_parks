@@ -1,8 +1,7 @@
 {
   "name": "Cycas micholitzii",
   "authorship": "Dyer",
-  "genus_name": "Cycas",
-  "family_name": "Cycadaceae",
+  "parent_name": "Cycas",
   "gbif_id": "2683299",
   "powo_id": "297014-1",
   "iucn_id": "42058",

@@ -1,8 +1,7 @@
 {
   "name": "Xylopia brasiliensis",
   "authorship": "Spreng.",
-  "genus_name": "Xylopia",
-  "family_name": "Annonaceae",
+  "parent_name": "Xylopia",
   "gbif_id": "3157181",
   "powo_id": "269775-2",
   "iucn_id": null,

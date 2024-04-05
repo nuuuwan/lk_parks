@@ -1,8 +1,7 @@
 {
   "name": "Aristolochia arborea",
   "authorship": "Linden",
-  "genus_name": "Aristolochia",
-  "family_name": "Aristolochiaceae",
+  "parent_name": "Aristolochia",
   "gbif_id": "3589040",
   "powo_id": "92742-1",
   "iucn_id": "211023682",

@@ -1,8 +1,7 @@
 {
   "name": "Chimonanthus praecox",
   "authorship": "(L.) Link",
-  "genus_name": "Chimonanthus",
-  "family_name": "Calycanthaceae",
+  "parent_name": "Chimonanthus",
   "gbif_id": "7275851",
   "powo_id": "139248-1",
   "iucn_id": "147377321",

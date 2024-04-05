@@ -1,8 +1,7 @@
 {
   "name": "Araucaria bidwillii",
   "authorship": "Hook.",
-  "genus_name": "Araucaria",
-  "family_name": "Araucariaceae",
+  "parent_name": "Araucaria",
   "gbif_id": "2684918",
   "powo_id": "261684-1",
   "iucn_id": "42195",

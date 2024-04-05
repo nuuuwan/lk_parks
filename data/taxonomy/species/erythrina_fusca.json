@@ -1,8 +1,7 @@
 {
   "name": "Erythrina fusca",
   "authorship": "Lour.",
-  "genus_name": "Erythrina",
-  "family_name": "Fabaceae",
+  "parent_name": "Erythrina",
   "gbif_id": "5349620",
   "powo_id": "494431-1",
   "iucn_id": "165431910",

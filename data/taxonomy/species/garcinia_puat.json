@@ -1,8 +1,7 @@
 {
   "name": "Garcinia puat",
   "authorship": "(Montrouz.) Guillaumin",
-  "genus_name": "Garcinia",
-  "family_name": "Clusiaceae",
+  "parent_name": "Garcinia",
   "gbif_id": "3713078",
   "powo_id": "428188-1",
   "iucn_id": null,

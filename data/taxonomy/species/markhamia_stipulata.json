@@ -1,8 +1,7 @@
 {
   "name": "Markhamia stipulata",
   "authorship": "(Wall.) Seem.",
-  "genus_name": "Markhamia",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Markhamia",
   "gbif_id": "7541760",
   "powo_id": "110029-1",
   "iucn_id": "35972",

@@ -1,8 +1,7 @@
 {
   "name": "Guapira fragrans",
   "authorship": "(Dum.Cours.) Little",
-  "genus_name": "Guapira",
-  "family_name": "Nyctaginaceae",
+  "parent_name": "Guapira",
   "gbif_id": "3086063",
   "powo_id": "113934-2",
   "iucn_id": "208170974",

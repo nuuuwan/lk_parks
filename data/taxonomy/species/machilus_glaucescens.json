@@ -1,8 +1,7 @@
 {
   "name": "Machilus glaucescens",
   "authorship": "(Nees) Wight",
-  "genus_name": "Machilus",
-  "family_name": "Lauraceae",
+  "parent_name": "Machilus",
   "gbif_id": "7674380",
   "powo_id": "466175-1",
   "iucn_id": null,

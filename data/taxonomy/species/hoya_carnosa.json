@@ -1,8 +1,7 @@
 {
   "name": "Hoya carnosa",
   "authorship": "(L.f.) R.Br.",
-  "genus_name": "Hoya",
-  "family_name": "Apocynaceae",
+  "parent_name": "Hoya",
   "gbif_id": "8658195",
   "powo_id": "107308-3",
   "iucn_id": null,

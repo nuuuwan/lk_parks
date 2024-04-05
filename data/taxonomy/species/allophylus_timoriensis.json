@@ -1,8 +1,7 @@
 {
   "name": "Allophylus timoriensis",
   "authorship": "(DC.) Blume",
-  "genus_name": "Allophylus",
-  "family_name": "Sapindaceae",
+  "parent_name": "Allophylus",
   "gbif_id": "7610420",
   "powo_id": "781968-1",
   "iucn_id": null,

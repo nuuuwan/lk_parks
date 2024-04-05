@@ -1,8 +1,7 @@
 {
   "name": "Eucalyptus pilularis",
   "authorship": "Sm.",
-  "genus_name": "Eucalyptus",
-  "family_name": "Myrtaceae",
+  "parent_name": "Eucalyptus",
   "gbif_id": "3177246",
   "powo_id": "593246-1",
   "iucn_id": "61915612",

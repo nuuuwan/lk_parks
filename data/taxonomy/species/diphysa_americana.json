@@ -1,8 +1,7 @@
 {
   "name": "Diphysa americana",
   "authorship": "(Mill.) M.Sousa",
-  "genus_name": "Diphysa",
-  "family_name": "Fabaceae",
+  "parent_name": "Diphysa",
   "gbif_id": "5357263",
   "powo_id": "948330-1",
   "iucn_id": "144264286",

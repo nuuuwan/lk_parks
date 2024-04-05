@@ -1,8 +1,7 @@
 {
   "name": "Heptapleurum heptaphyllum",
   "authorship": "(L.) Y.F.Deng",
-  "genus_name": "Heptapleurum",
-  "family_name": "Araliaceae",
+  "parent_name": "Heptapleurum",
   "gbif_id": "11047823",
   "powo_id": "77196882-1",
   "iucn_id": "147647936",

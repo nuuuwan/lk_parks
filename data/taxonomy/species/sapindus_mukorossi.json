@@ -1,8 +1,7 @@
 {
   "name": "Sapindus mukorossi",
   "authorship": "Gaertn.",
-  "genus_name": "Sapindus",
-  "family_name": "Sapindaceae",
+  "parent_name": "Sapindus",
   "gbif_id": "5421133",
   "powo_id": "784657-1",
   "iucn_id": "169299323",

@@ -1,8 +1,7 @@
 {
   "name": "Tambourissa parvifolia",
   "authorship": "Baker",
-  "genus_name": "Tambourissa",
-  "family_name": "Monimiaceae",
+  "parent_name": "Tambourissa",
   "gbif_id": "3782146",
   "powo_id": "582464-1",
   "iucn_id": "69291999",

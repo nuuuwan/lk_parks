@@ -1,8 +1,7 @@
 {
   "name": "Pectis angustifolia",
   "authorship": "Torr.",
-  "genus_name": "Pectis",
-  "family_name": "Asteraceae",
+  "parent_name": "Pectis",
   "gbif_id": "5405568",
   "powo_id": "236553-1",
   "iucn_id": null,

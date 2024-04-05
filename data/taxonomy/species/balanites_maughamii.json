@@ -1,8 +1,7 @@
 {
   "name": "Balanites maughamii",
   "authorship": "Sprague",
-  "genus_name": "Balanites",
-  "family_name": "Zygophyllaceae",
+  "parent_name": "Balanites",
   "gbif_id": "5421114",
   "powo_id": "873111-1",
   "iucn_id": "158067",

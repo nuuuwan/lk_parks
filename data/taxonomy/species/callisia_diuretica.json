@@ -1,8 +1,7 @@
 {
   "name": "Callisia diuretica",
   "authorship": "(Mart.) Christenh. & Byng",
-  "genus_name": "Callisia",
-  "family_name": "Commelinaceae",
+  "parent_name": "Callisia",
   "gbif_id": "10021011",
   "powo_id": "77183775-1",
   "iucn_id": null,

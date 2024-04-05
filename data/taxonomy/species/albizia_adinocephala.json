@@ -1,8 +1,7 @@
 {
   "name": "Albizia adinocephala",
   "authorship": "(Donn.Sm.) Britton & Rose ex Record",
-  "genus_name": "Albizia",
-  "family_name": "Fabaceae",
+  "parent_name": "Albizia",
   "gbif_id": "2973023",
   "powo_id": "8013-2",
   "iucn_id": "144312260",

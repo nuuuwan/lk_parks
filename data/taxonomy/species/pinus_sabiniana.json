@@ -1,8 +1,7 @@
 {
   "name": "Pinus sabiniana",
   "authorship": "Douglas",
-  "genus_name": "Pinus",
-  "family_name": "Pinaceae",
+  "parent_name": "Pinus",
   "gbif_id": "7564817",
   "powo_id": "325668-2",
   "iucn_id": "42413",

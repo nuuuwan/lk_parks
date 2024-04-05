@@ -1,8 +1,7 @@
 {
   "name": "Griselinia lucida",
   "authorship": "(J.R.Forst. & G.Forst.) G.Forst.",
-  "genus_name": "Griselinia",
-  "family_name": "Griseliniaceae",
+  "parent_name": "Griselinia",
   "gbif_id": "5581558",
   "powo_id": "271807-1",
   "iucn_id": null,

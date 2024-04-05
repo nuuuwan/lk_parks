@@ -1,8 +1,7 @@
 {
   "name": "Cotinus obovatus",
   "authorship": "Raf.",
-  "genus_name": "Cotinus",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Cotinus",
   "gbif_id": "3190520",
   "powo_id": "69506-1",
   "iucn_id": "152909726",

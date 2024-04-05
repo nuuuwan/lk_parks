@@ -1,8 +1,7 @@
 {
   "name": "Satakentia liukiuensis",
   "authorship": "(Hatus.) H.E.Moore",
-  "genus_name": "Satakentia",
-  "family_name": "Arecaceae",
+  "parent_name": "Satakentia",
   "gbif_id": "2738322",
   "powo_id": "669837-1",
   "iucn_id": "38695",

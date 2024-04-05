@@ -1,8 +1,7 @@
 {
   "name": "Epiphyllum phyllanthus",
   "authorship": "(L.) Haw.",
-  "genus_name": "Epiphyllum",
-  "family_name": "Cactaceae",
+  "parent_name": "Epiphyllum",
   "gbif_id": "5384030",
   "powo_id": "132939-1",
   "iucn_id": "46520",

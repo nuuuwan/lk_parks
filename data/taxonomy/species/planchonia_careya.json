@@ -1,8 +1,7 @@
 {
   "name": "Planchonia careya",
   "authorship": "(F.Muell.) R.Knuth",
-  "genus_name": "Planchonia",
-  "family_name": "Lecythidaceae",
+  "parent_name": "Planchonia",
   "gbif_id": "5383741",
   "powo_id": "469491-1",
   "iucn_id": "136087354",

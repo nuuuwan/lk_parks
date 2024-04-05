@@ -1,8 +1,7 @@
 {
   "name": "Echinochloa colonum",
   "authorship": "(L.) Link",
-  "genus_name": "Echinochloa",
-  "family_name": "Poaceae",
+  "parent_name": "Echinochloa",
   "gbif_id": "6431411",
   "powo_id": "399655-1",
   "iucn_id": null,

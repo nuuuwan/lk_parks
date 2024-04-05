@@ -1,8 +1,7 @@
 {
   "name": "Circaea alpina",
   "authorship": "L.",
-  "genus_name": "Circaea",
-  "family_name": "Onagraceae",
+  "parent_name": "Circaea",
   "gbif_id": "3188797",
   "powo_id": "58893-2",
   "iucn_id": null,

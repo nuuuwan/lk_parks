@@ -1,8 +1,7 @@
 {
   "name": "Bourreria huanita",
   "authorship": "(Lex.) Hemsl.",
-  "genus_name": "Bourreria",
-  "family_name": "Boraginaceae",
+  "parent_name": "Bourreria",
   "gbif_id": "4063094",
   "powo_id": "113672-1",
   "iucn_id": "136813725",

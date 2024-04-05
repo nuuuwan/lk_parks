@@ -1,8 +1,7 @@
 {
   "name": "Andira anthelmia",
   "authorship": "(Vell.) J.F.Macbr.",
-  "genus_name": "Andira",
-  "family_name": "Fabaceae",
+  "parent_name": "Andira",
   "gbif_id": "2952152",
   "powo_id": "12560-2",
   "iucn_id": "149211639",

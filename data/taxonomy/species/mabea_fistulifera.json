@@ -1,8 +1,7 @@
 {
   "name": "Mabea fistulifera",
   "authorship": "Mart.",
-  "genus_name": "Mabea",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Mabea",
   "gbif_id": "3071744",
   "powo_id": "350959-1",
   "iucn_id": null,

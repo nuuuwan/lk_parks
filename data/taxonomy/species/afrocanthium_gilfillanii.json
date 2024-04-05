@@ -1,8 +1,7 @@
 {
   "name": "Afrocanthium gilfillanii",
   "authorship": "(N.E.Br.) Lantz",
-  "genus_name": "Afrocanthium",
-  "family_name": "Rubiaceae",
+  "parent_name": "Afrocanthium",
   "gbif_id": "2900892",
   "powo_id": "77062249-1",
   "iucn_id": "141554434",

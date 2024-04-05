@@ -1,8 +1,7 @@
 {
   "name": "Tragia involucrata",
   "authorship": "L.",
-  "genus_name": "Tragia",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Tragia",
   "gbif_id": "3061610",
   "powo_id": "357775-1",
   "iucn_id": null,

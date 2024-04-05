@@ -1,8 +1,7 @@
 {
   "name": "Lannea microcarpa",
   "authorship": "Engl. & K.Krause",
-  "genus_name": "Lannea",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Lannea",
   "gbif_id": "3660881",
   "powo_id": "69788-1",
   "iucn_id": "144309873",

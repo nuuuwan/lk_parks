@@ -1,8 +1,7 @@
 {
   "name": "Chambeyronia macrocarpa",
   "authorship": "(Brongn.) Vieill. ex Becc.",
-  "genus_name": "Chambeyronia",
-  "family_name": "Arecaceae",
+  "parent_name": "Chambeyronia",
   "gbif_id": "2732008",
   "powo_id": "665942-1",
   "iucn_id": "38470",

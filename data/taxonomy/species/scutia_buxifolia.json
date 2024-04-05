@@ -1,8 +1,7 @@
 {
   "name": "Scutia buxifolia",
   "authorship": "Reissek",
-  "genus_name": "Scutia",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Scutia",
   "gbif_id": "7819318",
   "powo_id": "718854-1",
   "iucn_id": "160422005",

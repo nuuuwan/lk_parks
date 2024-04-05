@@ -1,8 +1,7 @@
 {
   "name": "Pseudocydonia sinensis",
   "authorship": "(Dum.Cours.) C.K.Schneid.",
-  "genus_name": "Pseudocydonia",
-  "family_name": "Rosaceae",
+  "parent_name": "Pseudocydonia",
   "gbif_id": "3000699",
   "powo_id": "730448-1",
   "iucn_id": "152844357",

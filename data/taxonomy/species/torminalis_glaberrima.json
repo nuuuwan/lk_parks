@@ -1,8 +1,7 @@
 {
   "name": "Torminalis glaberrima",
   "authorship": "(Gand.) Sennikov & Kurtto",
-  "genus_name": "Torminalis",
-  "family_name": "Rosaceae",
+  "parent_name": "Torminalis",
   "gbif_id": "9410160",
   "powo_id": "77164867-1",
   "iucn_id": null,

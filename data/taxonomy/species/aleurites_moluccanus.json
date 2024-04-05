@@ -1,8 +1,7 @@
 {
   "name": "Aleurites moluccanus",
   "authorship": "(L.) Willd.",
-  "genus_name": "Aleurites",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Aleurites",
   "gbif_id": "4930679",
   "powo_id": "338514-1",
   "iucn_id": "18435618",

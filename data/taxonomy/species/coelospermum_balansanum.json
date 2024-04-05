@@ -1,8 +1,7 @@
 {
   "name": "Coelospermum balansanum",
   "authorship": "Baill.",
-  "genus_name": "Coelospermum",
-  "family_name": "Rubiaceae",
+  "parent_name": "Coelospermum",
   "gbif_id": "2897090",
   "powo_id": "747006-1",
   "iucn_id": null,

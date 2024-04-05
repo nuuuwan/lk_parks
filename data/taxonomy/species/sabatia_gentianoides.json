@@ -1,8 +1,7 @@
 {
   "name": "Sabatia gentianoides",
   "authorship": "Elliott",
-  "genus_name": "Sabatia",
-  "family_name": "Gentianaceae",
+  "parent_name": "Sabatia",
   "gbif_id": "5414536",
   "powo_id": "370528-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Campylocentrum neglectum",
   "authorship": "(Rchb.f. & Warm.) Cogn.",
-  "genus_name": "Campylocentrum",
-  "family_name": "Orchidaceae",
+  "parent_name": "Campylocentrum",
   "gbif_id": "2820905",
   "powo_id": "621681-1",
   "iucn_id": null,

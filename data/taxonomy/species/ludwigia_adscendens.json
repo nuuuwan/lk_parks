@@ -1,8 +1,7 @@
 {
   "name": "Ludwigia adscendens",
   "authorship": "(L.) H.Hara",
-  "genus_name": "Ludwigia",
-  "family_name": "Onagraceae",
+  "parent_name": "Ludwigia",
   "gbif_id": "7322187",
   "powo_id": "144324-2",
   "iucn_id": "168980",

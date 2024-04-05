@@ -1,8 +1,7 @@
 {
   "name": "Knema conferta",
   "authorship": "(King) Warb.",
-  "genus_name": "Knema",
-  "family_name": "Myristicaceae",
+  "parent_name": "Knema",
   "gbif_id": "3743623",
   "powo_id": "585849-1",
   "iucn_id": "33948",

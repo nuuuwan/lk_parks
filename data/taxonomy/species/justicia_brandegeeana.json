@@ -1,8 +1,7 @@
 {
   "name": "Justicia brandegeeana",
   "authorship": "Wassh. & L.B.Sm.",
-  "genus_name": "Justicia",
-  "family_name": "Acanthaceae",
+  "parent_name": "Justicia",
   "gbif_id": "3173122",
   "powo_id": "289220-2",
   "iucn_id": null,

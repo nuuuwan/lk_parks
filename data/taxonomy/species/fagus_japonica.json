@@ -1,8 +1,7 @@
 {
   "name": "Fagus japonica",
   "authorship": "Maxim.",
-  "genus_name": "Fagus",
-  "family_name": "Fagaceae",
+  "parent_name": "Fagus",
   "gbif_id": "2882368",
   "powo_id": "295601-1",
   "iucn_id": "138593408",

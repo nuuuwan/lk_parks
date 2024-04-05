@@ -1,8 +1,7 @@
 {
   "name": "Polyalthia cinnamomea",
   "authorship": "Hook.f. & Thomson",
-  "genus_name": "Polyalthia",
-  "family_name": "Annonaceae",
+  "parent_name": "Polyalthia",
   "gbif_id": "3156403",
   "powo_id": "74530-1",
   "iucn_id": "180811940",

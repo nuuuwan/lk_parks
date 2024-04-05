@@ -1,8 +1,7 @@
 {
   "name": "Paederia foetida",
   "authorship": "L.",
-  "genus_name": "Paederia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Paederia",
   "gbif_id": "2909527",
   "powo_id": "758897-1",
   "iucn_id": null,

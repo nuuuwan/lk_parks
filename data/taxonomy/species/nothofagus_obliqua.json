@@ -1,8 +1,7 @@
 {
   "name": "Nothofagus obliqua",
   "authorship": "(Mirb.) Oerst.",
-  "genus_name": "Nothofagus",
-  "family_name": "Nothofagaceae",
+  "parent_name": "Nothofagus",
   "gbif_id": "2874984",
   "powo_id": "359100-1",
   "iucn_id": "61918092",

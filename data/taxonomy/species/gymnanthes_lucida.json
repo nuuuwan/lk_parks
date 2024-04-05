@@ -1,8 +1,7 @@
 {
   "name": "Gymnanthes lucida",
   "authorship": "Sw.",
-  "genus_name": "Gymnanthes",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Gymnanthes",
   "gbif_id": "3061239",
   "powo_id": "349792-1",
   "iucn_id": "62003511",

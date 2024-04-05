@@ -1,8 +1,7 @@
 {
   "name": "Castanopsis sclerophylla",
   "authorship": "(Lindl. & Paxton) Schottky",
-  "genus_name": "Castanopsis",
-  "family_name": "Fagaceae",
+  "parent_name": "Castanopsis",
   "gbif_id": "5333066",
   "powo_id": "358447-1",
   "iucn_id": "138593097",

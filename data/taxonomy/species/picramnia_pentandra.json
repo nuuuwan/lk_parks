@@ -1,8 +1,7 @@
 {
   "name": "Picramnia pentandra",
   "authorship": "Sw.",
-  "genus_name": "Picramnia",
-  "family_name": "Picramniaceae",
+  "parent_name": "Picramnia",
   "gbif_id": "3190650",
   "powo_id": "813923-1",
   "iucn_id": "150110128",

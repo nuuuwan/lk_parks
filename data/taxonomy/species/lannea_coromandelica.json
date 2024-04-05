@@ -1,8 +1,7 @@
 {
   "name": "Lannea coromandelica",
   "authorship": "(Houtt.) Merr.",
-  "genus_name": "Lannea",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Lannea",
   "gbif_id": "3661151",
   "powo_id": "69758-1",
   "iucn_id": "61983955",

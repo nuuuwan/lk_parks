@@ -1,8 +1,7 @@
 {
   "name": "Dracaena mannii",
   "authorship": "Baker",
-  "genus_name": "Dracaena",
-  "family_name": "Asparagaceae",
+  "parent_name": "Dracaena",
   "gbif_id": "5304652",
   "powo_id": "534281-1",
   "iucn_id": "149352222",

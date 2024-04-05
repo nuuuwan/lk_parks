@@ -1,8 +1,7 @@
 {
   "name": "Gironniera subaequalis",
   "authorship": "Planch.",
-  "genus_name": "Gironniera",
-  "family_name": "Cannabaceae",
+  "parent_name": "Gironniera",
   "gbif_id": "4159324",
   "powo_id": "854119-1",
   "iucn_id": "147495251",

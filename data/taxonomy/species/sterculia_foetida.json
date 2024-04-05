@@ -1,8 +1,7 @@
 {
   "name": "Sterculia foetida",
   "authorship": "L.",
-  "genus_name": "Sterculia",
-  "family_name": "Malvaceae",
+  "parent_name": "Sterculia",
   "gbif_id": "5406675",
   "powo_id": "825227-1",
   "iucn_id": null,

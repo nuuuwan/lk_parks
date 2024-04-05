@@ -1,8 +1,7 @@
 {
   "name": "Bhesa indica",
   "authorship": "(Bedd.) Ding Hou",
-  "genus_name": "Bhesa",
-  "family_name": "Centroplacaceae",
+  "parent_name": "Bhesa",
   "gbif_id": "3793960",
   "powo_id": "159984-1",
   "iucn_id": null,

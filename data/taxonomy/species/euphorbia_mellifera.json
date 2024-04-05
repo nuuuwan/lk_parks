@@ -1,8 +1,7 @@
 {
   "name": "Euphorbia mellifera",
   "authorship": "Aiton",
-  "genus_name": "Euphorbia",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Euphorbia",
   "gbif_id": "3069311",
   "powo_id": "347318-1",
   "iucn_id": "102818634",

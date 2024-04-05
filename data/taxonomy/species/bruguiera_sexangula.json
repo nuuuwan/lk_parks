@@ -1,8 +1,7 @@
 {
   "name": "Bruguiera sexangula",
   "authorship": "(Lour.) Poir.",
-  "genus_name": "Bruguiera",
-  "family_name": "Rhizophoraceae",
+  "parent_name": "Bruguiera",
   "gbif_id": "6370882",
   "powo_id": "719546-1",
   "iucn_id": "178843",

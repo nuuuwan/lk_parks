@@ -1,8 +1,7 @@
 {
   "name": "Brugmansia aurea",
   "authorship": "Lagerh.",
-  "genus_name": "Brugmansia",
-  "family_name": "Solanaceae",
+  "parent_name": "Brugmansia",
   "gbif_id": "5581099",
   "powo_id": "37434-2",
   "iucn_id": "38124",

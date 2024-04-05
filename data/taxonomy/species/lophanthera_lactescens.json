@@ -1,8 +1,7 @@
 {
   "name": "Lophanthera lactescens",
   "authorship": "Ducke",
-  "genus_name": "Lophanthera",
-  "family_name": "Malpighiaceae",
+  "parent_name": "Lophanthera",
   "gbif_id": "5634534",
   "powo_id": "143553-2",
   "iucn_id": "191125694",

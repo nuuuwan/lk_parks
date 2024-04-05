@@ -1,8 +1,7 @@
 {
   "name": "Podranea ricasoliana",
   "authorship": "(Tanfani) Sprague",
-  "genus_name": "Podranea",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Podranea",
   "gbif_id": "3172592",
   "powo_id": "110440-1",
   "iucn_id": null,

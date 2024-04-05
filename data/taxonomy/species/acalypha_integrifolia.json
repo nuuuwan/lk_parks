@@ -1,8 +1,7 @@
 {
   "name": "Acalypha integrifolia",
   "authorship": "Willd.",
-  "genus_name": "Acalypha",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Acalypha",
   "gbif_id": "3056144",
   "powo_id": "337501-1",
   "iucn_id": null,

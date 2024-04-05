@@ -1,8 +1,7 @@
 {
   "name": "Pittosporum senacia",
   "authorship": "Putt.",
-  "genus_name": "Pittosporum",
-  "family_name": "Pittosporaceae",
+  "parent_name": "Pittosporum",
   "gbif_id": "7303851",
   "powo_id": "684688-1",
   "iucn_id": "62845",

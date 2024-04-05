@@ -1,8 +1,7 @@
 {
   "name": "Elaphoglossum succubus",
   "authorship": "Mickel",
-  "genus_name": "Elaphoglossum",
-  "family_name": "Polypodiaceae",
+  "parent_name": "Elaphoglossum",
   "gbif_id": "4012601",
   "powo_id": "276416-2",
   "iucn_id": null,

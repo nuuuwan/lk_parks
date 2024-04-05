@@ -1,8 +1,7 @@
 {
   "name": "Tragia ramosa",
   "authorship": "Torr.",
-  "genus_name": "Tragia",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Tragia",
   "gbif_id": "3061655",
   "powo_id": "357859-1",
   "iucn_id": null,

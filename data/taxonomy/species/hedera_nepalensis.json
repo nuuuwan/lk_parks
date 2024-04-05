@@ -1,8 +1,7 @@
 {
   "name": "Hedera nepalensis",
   "authorship": "K.Koch",
-  "genus_name": "Hedera",
-  "family_name": "Araliaceae",
+  "parent_name": "Hedera",
   "gbif_id": "3036051",
   "powo_id": "90752-1",
   "iucn_id": null,

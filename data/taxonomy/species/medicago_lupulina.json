@@ -1,8 +1,7 @@
 {
   "name": "Medicago lupulina",
   "authorship": "L.",
-  "genus_name": "Medicago",
-  "family_name": "Fabaceae",
+  "parent_name": "Medicago",
   "gbif_id": "2965201",
   "powo_id": "506268-1",
   "iucn_id": null,

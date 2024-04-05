@@ -1,8 +1,7 @@
 {
   "name": "Sageretia thea",
   "authorship": "(Osbeck) M.C.Johnst.",
-  "genus_name": "Sageretia",
-  "family_name": "Rhamnaceae",
+  "parent_name": "Sageretia",
   "gbif_id": "3039516",
   "powo_id": "718819-1",
   "iucn_id": null,

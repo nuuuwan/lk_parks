@@ -1,8 +1,7 @@
 {
   "name": "Erythronium klamathense",
   "authorship": "Applegate",
-  "genus_name": "Erythronium",
-  "family_name": "Liliaceae",
+  "parent_name": "Erythronium",
   "gbif_id": "2752870",
   "powo_id": "96841-2",
   "iucn_id": null,

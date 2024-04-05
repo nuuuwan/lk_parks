@@ -1,8 +1,7 @@
 {
   "name": "Ficus wildemaniana",
   "authorship": "Warb.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "7464050",
   "powo_id": "853980-1",
   "iucn_id": null,

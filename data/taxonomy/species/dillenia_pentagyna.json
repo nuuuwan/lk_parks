@@ -1,8 +1,7 @@
 {
   "name": "Dillenia pentagyna",
   "authorship": "Roxb.",
-  "genus_name": "Dillenia",
-  "family_name": "Dilleniaceae",
+  "parent_name": "Dillenia",
   "gbif_id": "5681100",
   "powo_id": "316734-1",
   "iucn_id": null,

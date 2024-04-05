@@ -1,8 +1,7 @@
 {
   "name": "Cipadessa baccifera",
   "authorship": "(Roxb. ex Roth) Miq.",
-  "genus_name": "Cipadessa",
-  "family_name": "Meliaceae",
+  "parent_name": "Cipadessa",
   "gbif_id": "3851819",
   "powo_id": "577971-1",
   "iucn_id": "147645456",

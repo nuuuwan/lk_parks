@@ -1,8 +1,7 @@
 {
   "name": "Annona paludosa",
   "authorship": "Aubl.",
-  "genus_name": "Annona",
-  "family_name": "Annonaceae",
+  "parent_name": "Annona",
   "gbif_id": "5407287",
   "powo_id": "72271-1",
   "iucn_id": "142423259",

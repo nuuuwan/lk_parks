@@ -1,8 +1,7 @@
 {
   "name": "Neobalanocarpus heimii",
   "authorship": "(King) P.S.Ashton",
-  "genus_name": "Neobalanocarpus",
-  "family_name": "Dipterocarpaceae",
+  "parent_name": "Neobalanocarpus",
   "gbif_id": "4096510",
   "powo_id": "321115-1",
   "iucn_id": "32314",

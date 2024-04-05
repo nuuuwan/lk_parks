@@ -1,8 +1,7 @@
 {
   "name": "Euclea racemosa",
   "authorship": "L.",
-  "genus_name": "Euclea",
-  "family_name": "Ebenaceae",
+  "parent_name": "Euclea",
   "gbif_id": "7414233",
   "powo_id": "323337-1",
   "iucn_id": "173650",

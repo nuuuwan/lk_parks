@@ -1,8 +1,7 @@
 {
   "name": "Bursera grandifolia",
   "authorship": "(Schltdl.) Engl.",
-  "genus_name": "Bursera",
-  "family_name": "Burseraceae",
+  "parent_name": "Bursera",
   "gbif_id": "7286888",
   "powo_id": "127137-1",
   "iucn_id": "126360299",

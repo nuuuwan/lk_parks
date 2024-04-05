@@ -1,8 +1,7 @@
 {
   "name": "Erythroxylum argentinum",
   "authorship": "O.E.Schulz",
-  "genus_name": "Erythroxylum",
-  "family_name": "Erythroxylaceae",
+  "parent_name": "Erythroxylum",
   "gbif_id": "7284806",
   "powo_id": "96883-2",
   "iucn_id": null,

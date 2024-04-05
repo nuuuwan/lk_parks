@@ -1,8 +1,7 @@
 {
   "name": "Selenicereus grandiflorus",
   "authorship": "(L.) Britton & Rose",
-  "genus_name": "Selenicereus",
-  "family_name": "Cactaceae",
+  "parent_name": "Selenicereus",
   "gbif_id": "3084466",
   "powo_id": "138488-1",
   "iucn_id": "152736",

@@ -1,8 +1,7 @@
 {
   "name": "Fernelia buxifolia",
   "authorship": "Lam.",
-  "genus_name": "Fernelia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Fernelia",
   "gbif_id": "2903355",
   "powo_id": "749338-1",
   "iucn_id": null,

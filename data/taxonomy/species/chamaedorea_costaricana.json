@@ -1,8 +1,7 @@
 {
   "name": "Chamaedorea costaricana",
   "authorship": "Oerst.",
-  "genus_name": "Chamaedorea",
-  "family_name": "Arecaceae",
+  "parent_name": "Chamaedorea",
   "gbif_id": "2734571",
   "powo_id": "54858-2",
   "iucn_id": null,

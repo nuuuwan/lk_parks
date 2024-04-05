@@ -1,8 +1,7 @@
 {
   "name": "Alstonia rostrata",
   "authorship": "C.E.C.Fisch.",
-  "genus_name": "Alstonia",
-  "family_name": "Apocynaceae",
+  "parent_name": "Alstonia",
   "gbif_id": "5535575",
   "powo_id": "76584-1",
   "iucn_id": null,

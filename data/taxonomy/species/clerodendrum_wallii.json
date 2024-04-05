@@ -1,8 +1,7 @@
 {
   "name": "Clerodendrum wallii",
   "authorship": "Moldenke",
-  "genus_name": "Clerodendrum",
-  "family_name": "Lamiaceae",
+  "parent_name": "Clerodendrum",
   "gbif_id": "3888593",
   "powo_id": "862583-1",
   "iucn_id": null,

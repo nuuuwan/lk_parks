@@ -1,8 +1,7 @@
 {
   "name": "Glochidion zeylanicum",
   "authorship": "(Gaertn.) A.Juss.",
-  "genus_name": "Glochidion",
-  "family_name": "Phyllanthaceae",
+  "parent_name": "Glochidion",
   "gbif_id": "3080562",
   "powo_id": "349711-1",
   "iucn_id": "147646560",

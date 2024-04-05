@@ -1,8 +1,7 @@
 {
   "name": "Prosopis pubescens",
   "authorship": "Benth.",
-  "genus_name": "Prosopis",
-  "family_name": "Fabaceae",
+  "parent_name": "Prosopis",
   "gbif_id": "5358508",
   "powo_id": "515855-1",
   "iucn_id": "130521598",

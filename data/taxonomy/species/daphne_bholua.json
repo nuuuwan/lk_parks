@@ -1,8 +1,7 @@
 {
   "name": "Daphne bholua",
   "authorship": "Buch.-Ham. ex D.Don",
-  "genus_name": "Daphne",
-  "family_name": "Thymelaeaceae",
+  "parent_name": "Daphne",
   "gbif_id": "7311442",
   "powo_id": "831159-1",
   "iucn_id": null,

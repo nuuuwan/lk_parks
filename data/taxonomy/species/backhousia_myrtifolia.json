@@ -1,8 +1,7 @@
 {
   "name": "Backhousia myrtifolia",
   "authorship": "Hook. & Harv.",
-  "genus_name": "Backhousia",
-  "family_name": "Myrtaceae",
+  "parent_name": "Backhousia",
   "gbif_id": "3185104",
   "powo_id": "591028-1",
   "iucn_id": null,

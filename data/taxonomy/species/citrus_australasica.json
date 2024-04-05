@@ -1,8 +1,7 @@
 {
   "name": "Citrus australasica",
   "authorship": "F.Muell.",
-  "genus_name": "Citrus",
-  "family_name": "Rutaceae",
+  "parent_name": "Citrus",
   "gbif_id": "8033094",
   "powo_id": "771856-1",
   "iucn_id": "64135401",

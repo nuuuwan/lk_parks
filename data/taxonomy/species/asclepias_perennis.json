@@ -1,8 +1,7 @@
 {
   "name": "Asclepias perennis",
   "authorship": "Walter",
-  "genus_name": "Asclepias",
-  "family_name": "Apocynaceae",
+  "parent_name": "Asclepias",
   "gbif_id": "3170346",
   "powo_id": "30270360-2",
   "iucn_id": null,

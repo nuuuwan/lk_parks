@@ -1,8 +1,7 @@
 {
   "name": "Malus coronaria",
   "authorship": "(L.) Mill.",
-  "genus_name": "Malus",
-  "family_name": "Rosaceae",
+  "parent_name": "Malus",
   "gbif_id": "3001166",
   "powo_id": "726269-1",
   "iucn_id": "64134541",

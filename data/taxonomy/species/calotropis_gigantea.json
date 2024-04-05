@@ -1,8 +1,7 @@
 {
   "name": "Calotropis gigantea",
   "authorship": "(L.) W.T.Aiton",
-  "genus_name": "Calotropis",
-  "family_name": "Apocynaceae",
+  "parent_name": "Calotropis",
   "gbif_id": "3579089",
   "powo_id": "95173-1",
   "iucn_id": null,

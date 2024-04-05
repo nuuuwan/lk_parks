@@ -1,8 +1,7 @@
 {
   "name": "Tilia platyphyllos",
   "authorship": "Scop.",
-  "genus_name": "Tilia",
-  "family_name": "Malvaceae",
+  "parent_name": "Tilia",
   "gbif_id": "3152048",
   "powo_id": "332109-2",
   "iucn_id": "203361",

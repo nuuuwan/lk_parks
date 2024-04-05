@@ -1,8 +1,7 @@
 {
   "name": "Callistemon citrinus",
   "authorship": "(Curtis) Skeels",
-  "genus_name": "Callistemon",
-  "family_name": "Myrtaceae",
+  "parent_name": "Callistemon",
   "gbif_id": "3173413",
   "powo_id": null,
   "iucn_id": null,

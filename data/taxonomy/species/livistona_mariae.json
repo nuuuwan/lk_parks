@@ -1,8 +1,7 @@
 {
   "name": "Livistona mariae",
   "authorship": "F.Muell.",
-  "genus_name": "Livistona",
-  "family_name": "Arecaceae",
+  "parent_name": "Livistona",
   "gbif_id": "2733437",
   "powo_id": "668048-1",
   "iucn_id": "209124857",

@@ -1,8 +1,7 @@
 {
   "name": "Triplaris americana",
   "authorship": "L.",
-  "genus_name": "Triplaris",
-  "family_name": "Polygonaceae",
+  "parent_name": "Triplaris",
   "gbif_id": "4038608",
   "powo_id": "697785-1",
   "iucn_id": "149997105",

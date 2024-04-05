@@ -1,8 +1,7 @@
 {
   "name": "Catostemma fragrans",
   "authorship": "Benth.",
-  "genus_name": "Catostemma",
-  "family_name": "Malvaceae",
+  "parent_name": "Catostemma",
   "gbif_id": "4073066",
   "powo_id": "559269-1",
   "iucn_id": "61781987",

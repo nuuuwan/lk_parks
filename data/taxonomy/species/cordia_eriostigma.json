@@ -1,8 +1,7 @@
 {
   "name": "Cordia eriostigma",
   "authorship": "Pittier",
-  "genus_name": "Cordia",
-  "family_name": "Boraginaceae",
+  "parent_name": "Cordia",
   "gbif_id": "5662350",
   "powo_id": "274935-2",
   "iucn_id": "149892147",

@@ -1,8 +1,7 @@
 {
   "name": "Buddleja saligna",
   "authorship": "Willd.",
-  "genus_name": "Buddleja",
-  "family_name": "Scrophulariaceae",
+  "parent_name": "Buddleja",
   "gbif_id": "3173331",
   "powo_id": "545876-1",
   "iucn_id": "146454967",

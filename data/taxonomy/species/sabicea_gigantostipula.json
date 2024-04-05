@@ -1,8 +1,7 @@
 {
   "name": "Sabicea gigantostipula",
   "authorship": "K.Schum.",
-  "genus_name": "Sabicea",
-  "family_name": "Rubiaceae",
+  "parent_name": "Sabicea",
   "gbif_id": "2899528",
   "powo_id": "765864-1",
   "iucn_id": null,

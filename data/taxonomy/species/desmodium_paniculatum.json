@@ -1,8 +1,7 @@
 {
   "name": "Desmodium paniculatum",
   "authorship": "(L.) DC.",
-  "genus_name": "Desmodium",
-  "family_name": "Fabaceae",
+  "parent_name": "Desmodium",
   "gbif_id": "2967543",
   "powo_id": "491980-1",
   "iucn_id": null,

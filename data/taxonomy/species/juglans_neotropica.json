@@ -1,8 +1,7 @@
 {
   "name": "Juglans neotropica",
   "authorship": "Diels",
-  "genus_name": "Juglans",
-  "family_name": "Juglandaceae",
+  "parent_name": "Juglans",
   "gbif_id": "3054364",
   "powo_id": "131772-2",
   "iucn_id": "32078",

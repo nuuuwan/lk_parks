@@ -1,8 +1,7 @@
 {
   "name": "Garcinia gummi-gutta",
   "authorship": "(L.) Roxb.",
-  "genus_name": "Garcinia",
-  "family_name": "Clusiaceae",
+  "parent_name": "Garcinia",
   "gbif_id": "8222778",
   "powo_id": "427982-1",
   "iucn_id": "117894456",

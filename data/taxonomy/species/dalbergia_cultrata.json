@@ -1,8 +1,7 @@
 {
   "name": "Dalbergia cultrata",
   "authorship": "T.S.Ralph",
-  "genus_name": "Dalbergia",
-  "family_name": "Fabaceae",
+  "parent_name": "Dalbergia",
   "gbif_id": "8108643",
   "powo_id": "1006521-1",
   "iucn_id": "62496",

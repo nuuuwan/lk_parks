@@ -1,8 +1,7 @@
 {
   "name": "Pappea capensis",
   "authorship": "Eckl. & Zeyh.",
-  "genus_name": "Pappea",
-  "family_name": "Sapindaceae",
+  "parent_name": "Pappea",
   "gbif_id": "3785741",
   "powo_id": "784027-1",
   "iucn_id": "146214278",

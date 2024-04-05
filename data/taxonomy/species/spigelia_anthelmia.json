@@ -1,8 +1,7 @@
 {
   "name": "Spigelia anthelmia",
   "authorship": "L.",
-  "genus_name": "Spigelia",
-  "family_name": "Loganiaceae",
+  "parent_name": "Spigelia",
   "gbif_id": "5414391",
   "powo_id": "318920-2",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Guettarda uruguensis",
   "authorship": "Cham. & Schltdl.",
-  "genus_name": "Guettarda",
-  "family_name": "Rubiaceae",
+  "parent_name": "Guettarda",
   "gbif_id": "2894814",
   "powo_id": "114647-2",
   "iucn_id": "163033222",

@@ -1,8 +1,7 @@
 {
   "name": "Dendrophthoe glabrescens",
   "authorship": "(Blakeley) Barlow",
-  "genus_name": "Dendrophthoe",
-  "family_name": "Loranthaceae",
+  "parent_name": "Dendrophthoe",
   "gbif_id": "4002432",
   "powo_id": "548280-1",
   "iucn_id": null,

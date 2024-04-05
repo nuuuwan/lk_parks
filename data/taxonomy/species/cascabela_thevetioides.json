@@ -1,8 +1,7 @@
 {
   "name": "Cascabela thevetioides",
   "authorship": "(Kunth) Lippold",
-  "genus_name": "Cascabela",
-  "family_name": "Apocynaceae",
+  "parent_name": "Cascabela",
   "gbif_id": "8667261",
   "powo_id": "47928-2",
   "iucn_id": "136751227",

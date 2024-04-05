@@ -1,8 +1,7 @@
 {
   "name": "Melodinus balansae",
   "authorship": "Baill.",
-  "genus_name": "Melodinus",
-  "family_name": "Apocynaceae",
+  "parent_name": "Melodinus",
   "gbif_id": "7316555",
   "powo_id": "80169-1",
   "iucn_id": null,

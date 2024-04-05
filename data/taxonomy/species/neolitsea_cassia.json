@@ -1,8 +1,7 @@
 {
   "name": "Neolitsea cassia",
   "authorship": "(L.) Kosterm.",
-  "genus_name": "Neolitsea",
-  "family_name": "Lauraceae",
+  "parent_name": "Neolitsea",
   "gbif_id": "4180148",
   "powo_id": "466940-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Laburnum alpinum",
   "authorship": "(Mill.) Bercht. & J.Presl",
-  "genus_name": "Laburnum",
-  "family_name": "Fabaceae",
+  "parent_name": "Laburnum",
   "gbif_id": "5356343",
   "powo_id": "501425-1",
   "iucn_id": "79919356",

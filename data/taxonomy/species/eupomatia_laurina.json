@@ -1,8 +1,7 @@
 {
   "name": "Eupomatia laurina",
   "authorship": "R.Br.",
-  "genus_name": "Eupomatia",
-  "family_name": "Eupomatiaceae",
+  "parent_name": "Eupomatia",
   "gbif_id": "5565488",
   "powo_id": "72995-1",
   "iucn_id": "144297071",

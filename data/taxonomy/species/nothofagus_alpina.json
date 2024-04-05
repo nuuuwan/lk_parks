@@ -1,8 +1,7 @@
 {
   "name": "Nothofagus alpina",
   "authorship": "(Poepp. & Endl.) Oerst.",
-  "genus_name": "Nothofagus",
-  "family_name": "Nothofagaceae",
+  "parent_name": "Nothofagus",
   "gbif_id": "2874878",
   "powo_id": "359064-1",
   "iucn_id": "34628",

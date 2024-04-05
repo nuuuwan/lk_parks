@@ -1,8 +1,7 @@
 {
   "name": "Poa supina",
   "authorship": "Schrad.",
-  "genus_name": "Poa",
-  "family_name": "Poaceae",
+  "parent_name": "Poa",
   "gbif_id": "2704322",
   "powo_id": "418156-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Senna bicapsularis",
   "authorship": "(L.) Roxb.",
-  "genus_name": "Senna",
-  "family_name": "Fabaceae",
+  "parent_name": "Senna",
   "gbif_id": "2958076",
   "powo_id": "518330-1",
   "iucn_id": "19892212",

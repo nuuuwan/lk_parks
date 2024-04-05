@@ -1,8 +1,7 @@
 {
   "name": "Fuchsia triphylla",
   "authorship": "L.",
-  "genus_name": "Fuchsia",
-  "family_name": "Onagraceae",
+  "parent_name": "Fuchsia",
   "gbif_id": "6029253",
   "powo_id": "106297-2",
   "iucn_id": null,

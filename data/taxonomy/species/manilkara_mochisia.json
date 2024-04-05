@@ -1,8 +1,7 @@
 {
   "name": "Manilkara mochisia",
   "authorship": "(Baker) Dubard",
-  "genus_name": "Manilkara",
-  "family_name": "Sapotaceae",
+  "parent_name": "Manilkara",
   "gbif_id": "2885311",
   "powo_id": "787674-1",
   "iucn_id": "142331931",

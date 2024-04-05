@@ -1,8 +1,7 @@
 {
   "name": "Ipomoea obscura",
   "authorship": "(L.) Ker Gawl.",
-  "genus_name": "Ipomoea",
-  "family_name": "Convolvulaceae",
+  "parent_name": "Ipomoea",
   "gbif_id": "2928565",
   "powo_id": "269406-1",
   "iucn_id": null,

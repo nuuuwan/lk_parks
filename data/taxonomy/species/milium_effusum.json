@@ -1,8 +1,7 @@
 {
   "name": "Milium effusum",
   "authorship": "L.",
-  "genus_name": "Milium",
-  "family_name": "Poaceae",
+  "parent_name": "Milium",
   "gbif_id": "2706196",
   "powo_id": "408599-1",
   "iucn_id": null,

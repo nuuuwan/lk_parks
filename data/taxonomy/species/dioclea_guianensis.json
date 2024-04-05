@@ -1,8 +1,7 @@
 {
   "name": "Dioclea guianensis",
   "authorship": "Benth.",
-  "genus_name": "Dioclea",
-  "family_name": "Fabaceae",
+  "parent_name": "Dioclea",
   "gbif_id": "5359611",
   "powo_id": "492636-1",
   "iucn_id": "19891780",

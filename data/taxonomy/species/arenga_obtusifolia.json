@@ -1,8 +1,7 @@
 {
   "name": "Arenga obtusifolia",
   "authorship": "Mart.",
-  "genus_name": "Arenga",
-  "family_name": "Arecaceae",
+  "parent_name": "Arenga",
   "gbif_id": "2733990",
   "powo_id": "664260-1",
   "iucn_id": "111452804",

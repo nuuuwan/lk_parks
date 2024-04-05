@@ -1,8 +1,7 @@
 {
   "name": "Holigarna arnottiana",
   "authorship": "Hook.f.",
-  "genus_name": "Holigarna",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Holigarna",
   "gbif_id": "3661655",
   "powo_id": "69712-1",
   "iucn_id": null,

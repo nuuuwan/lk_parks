@@ -1,8 +1,7 @@
 {
   "name": "Codiaeum variegatum",
   "authorship": "(L.) Rumph. ex A.Juss.",
-  "genus_name": "Codiaeum",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Codiaeum",
   "gbif_id": "3071476",
   "powo_id": "85073-3",
   "iucn_id": "146095610",

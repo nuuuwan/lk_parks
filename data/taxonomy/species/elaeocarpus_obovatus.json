@@ -1,8 +1,7 @@
 {
   "name": "Elaeocarpus obovatus",
   "authorship": "G.Don",
-  "genus_name": "Elaeocarpus",
-  "family_name": "Elaeocarpaceae",
+  "parent_name": "Elaeocarpus",
   "gbif_id": "7984704",
   "powo_id": "833896-1",
   "iucn_id": "201139844",

@@ -1,8 +1,7 @@
 {
   "name": "Cyperus eragrostis",
   "authorship": "Lam.",
-  "genus_name": "Cyperus",
-  "family_name": "Cyperaceae",
+  "parent_name": "Cyperus",
   "gbif_id": "2715482",
   "powo_id": "304426-1",
   "iucn_id": "64310884",

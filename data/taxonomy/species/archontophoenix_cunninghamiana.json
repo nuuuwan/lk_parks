@@ -1,8 +1,7 @@
 {
   "name": "Archontophoenix cunninghamiana",
   "authorship": "(H.Wendl.) H.Wendl. & Drude",
-  "genus_name": "Archontophoenix",
-  "family_name": "Arecaceae",
+  "parent_name": "Archontophoenix",
   "gbif_id": "2732621",
   "powo_id": "134734-3",
   "iucn_id": "13506860",

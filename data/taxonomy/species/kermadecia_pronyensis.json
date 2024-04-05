@@ -1,8 +1,7 @@
 {
   "name": "Kermadecia pronyensis",
   "authorship": "(Guillaumin) Guillaumin",
-  "genus_name": "Kermadecia",
-  "family_name": "Proteaceae",
+  "parent_name": "Kermadecia",
   "gbif_id": "3994501",
   "powo_id": "704686-1",
   "iucn_id": "31008",

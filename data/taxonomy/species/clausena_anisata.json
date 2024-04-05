@@ -1,8 +1,7 @@
 {
   "name": "Clausena anisata",
   "authorship": "(Willd.) Hook.f. ex Benth.",
-  "genus_name": "Clausena",
-  "family_name": "Rutaceae",
+  "parent_name": "Clausena",
   "gbif_id": "8012566",
   "powo_id": "772111-1",
   "iucn_id": "146453629",

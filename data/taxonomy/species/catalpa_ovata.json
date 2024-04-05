@@ -1,8 +1,7 @@
 {
   "name": "Catalpa ovata",
   "authorship": "G.Don",
-  "genus_name": "Catalpa",
-  "family_name": "Bignoniaceae",
+  "parent_name": "Catalpa",
   "gbif_id": "3172613",
   "powo_id": "109171-1",
   "iucn_id": "147620355",

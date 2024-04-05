@@ -1,8 +1,7 @@
 {
   "name": "Ficus semicordata",
   "authorship": "Buch.-Ham. ex Sm.",
-  "genus_name": "Ficus",
-  "family_name": "Moraceae",
+  "parent_name": "Ficus",
   "gbif_id": "7422755",
   "powo_id": "927561-1",
   "iucn_id": "147494419",

@@ -1,8 +1,7 @@
 {
   "name": "Schinus terebinthifolia",
   "authorship": "Raddi",
-  "genus_name": "Schinus",
-  "family_name": "Anacardiaceae",
+  "parent_name": "Schinus",
   "gbif_id": "3660419",
   "powo_id": "71069-1",
   "iucn_id": null,

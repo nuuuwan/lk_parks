@@ -1,8 +1,7 @@
 {
   "name": "Prionostemma aspera",
   "authorship": "(Lam.) Miers",
-  "genus_name": "Prionostemma",
-  "family_name": "Celastraceae",
+  "parent_name": "Prionostemma",
   "gbif_id": "5579703",
   "powo_id": "162403-1",
   "iucn_id": "179310127",

@@ -1,8 +1,7 @@
 {
   "name": "Cordia dodecandra",
   "authorship": "A.DC.",
-  "genus_name": "Cordia",
-  "family_name": "Boraginaceae",
+  "parent_name": "Cordia",
   "gbif_id": "5662394",
   "powo_id": "114110-1",
   "iucn_id": "32481",

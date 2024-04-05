@@ -1,8 +1,7 @@
 {
   "name": "Rubus canadensis",
   "authorship": "L.",
-  "genus_name": "Rubus",
-  "family_name": "Rosaceae",
+  "parent_name": "Rubus",
   "gbif_id": "2991408",
   "powo_id": "30010653-2",
   "iucn_id": null,

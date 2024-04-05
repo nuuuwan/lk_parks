@@ -1,8 +1,7 @@
 {
   "name": "Magnolia loebneri",
   "authorship": "Kache",
-  "genus_name": "Magnolia",
-  "family_name": "Magnoliaceae",
+  "parent_name": "Magnolia",
   "gbif_id": "3987841",
   "powo_id": "992044-1",
   "iucn_id": null,

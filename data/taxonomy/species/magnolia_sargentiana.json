@@ -1,8 +1,7 @@
 {
   "name": "Magnolia sargentiana",
   "authorship": "Rehder & E.H.Wilson",
-  "genus_name": "Magnolia",
-  "family_name": "Magnoliaceae",
+  "parent_name": "Magnolia",
   "gbif_id": "3153419",
   "powo_id": "554832-1",
   "iucn_id": "31289",

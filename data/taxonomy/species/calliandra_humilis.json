@@ -1,8 +1,7 @@
 {
   "name": "Calliandra humilis",
   "authorship": "Benth.",
-  "genus_name": "Calliandra",
-  "family_name": "Fabaceae",
+  "parent_name": "Calliandra",
   "gbif_id": "2982270",
   "powo_id": "316267-2",
   "iucn_id": null,

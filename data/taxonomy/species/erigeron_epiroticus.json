@@ -1,8 +1,7 @@
 {
   "name": "Erigeron epiroticus",
   "authorship": "(Vierh.) Hal\u00e1csy",
-  "genus_name": "Erigeron",
-  "family_name": "Asteraceae",
+  "parent_name": "Erigeron",
   "gbif_id": "3147306",
   "powo_id": "77181204-1",
   "iucn_id": null,

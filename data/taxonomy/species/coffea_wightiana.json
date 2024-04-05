@@ -1,8 +1,7 @@
 {
   "name": "Coffea wightiana",
   "authorship": "Wall. ex Wight & Arn.",
-  "genus_name": "Coffea",
-  "family_name": "Rubiaceae",
+  "parent_name": "Coffea",
   "gbif_id": "2907312",
   "powo_id": "747309-1",
   "iucn_id": "18539056",

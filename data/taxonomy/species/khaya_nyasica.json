@@ -1,8 +1,7 @@
 {
   "name": "Khaya nyasica",
   "authorship": "Stapf ex Baker f.",
-  "genus_name": "Khaya",
-  "family_name": "Meliaceae",
+  "parent_name": "Khaya",
   "gbif_id": "3190509",
   "powo_id": "578864-1",
   "iucn_id": null,

@@ -1,8 +1,7 @@
 {
   "name": "Dracaena draco",
   "authorship": "(L.) L.",
-  "genus_name": "Dracaena",
-  "family_name": "Asparagaceae",
+  "parent_name": "Dracaena",
   "gbif_id": "5304469",
   "powo_id": "534171-1",
   "iucn_id": "30394",

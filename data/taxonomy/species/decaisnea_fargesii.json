@@ -1,8 +1,7 @@
 {
   "name": "Decaisnea fargesii",
   "authorship": "Franch.",
-  "genus_name": "Decaisnea",
-  "family_name": "Lardizabalaceae",
+  "parent_name": "Decaisnea",
   "gbif_id": "5686497",
   "powo_id": "107239-1",
   "iucn_id": null,

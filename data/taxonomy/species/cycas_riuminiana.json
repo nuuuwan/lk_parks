@@ -1,8 +1,7 @@
 {
   "name": "Cycas riuminiana",
   "authorship": "Porte ex Regel",
-  "genus_name": "Cycas",
-  "family_name": "Cycadaceae",
+  "parent_name": "Cycas",
   "gbif_id": "2683249",
   "powo_id": "297030-1",
   "iucn_id": "239047689",

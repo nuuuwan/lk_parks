@@ -1,8 +1,7 @@
 {
   "name": "Galium verticillatum",
   "authorship": "Danthoine ex Lam.",
-  "genus_name": "Galium",
-  "family_name": "Rubiaceae",
+  "parent_name": "Galium",
   "gbif_id": "2914589",
   "powo_id": "750827-1",
   "iucn_id": null,

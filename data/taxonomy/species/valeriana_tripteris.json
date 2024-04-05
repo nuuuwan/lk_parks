@@ -1,8 +1,7 @@
 {
   "name": "Valeriana tripteris",
   "authorship": "L.",
-  "genus_name": "Valeriana",
-  "family_name": "Caprifoliaceae",
+  "parent_name": "Valeriana",
   "gbif_id": "7298997",
   "powo_id": "860266-1",
   "iucn_id": null,

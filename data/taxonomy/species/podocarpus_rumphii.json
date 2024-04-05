@@ -1,8 +1,7 @@
 {
   "name": "Podocarpus rumphii",
   "authorship": "Blume",
-  "genus_name": "Podocarpus",
-  "family_name": "Podocarpaceae",
+  "parent_name": "Podocarpus",
   "gbif_id": "5285898",
   "powo_id": "263574-1",
   "iucn_id": "42529",

@@ -1,8 +1,7 @@
 {
   "name": "Alchornea rugosa",
   "authorship": "(Lour.) M\u00fcll.Arg.",
-  "genus_name": "Alchornea",
-  "family_name": "Euphorbiaceae",
+  "parent_name": "Alchornea",
   "gbif_id": "3055402",
   "powo_id": "338454-1",
   "iucn_id": "146907244",

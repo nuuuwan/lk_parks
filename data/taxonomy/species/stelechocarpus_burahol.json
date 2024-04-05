@@ -1,8 +1,7 @@
 {
   "name": "Stelechocarpus burahol",
   "authorship": "(Blume) Hook.f. & Thomson",
-  "genus_name": "Stelechocarpus",
-  "family_name": "Annonaceae",
+  "parent_name": "Stelechocarpus",
   "gbif_id": "3154679",
   "powo_id": "75160-1",
   "iucn_id": null,

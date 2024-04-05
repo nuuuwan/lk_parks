@@ -1,8 +1,7 @@
 {
   "name": "Shorea materialis",
   "authorship": "Ridl.",
-  "genus_name": "Shorea",
-  "family_name": "Dipterocarpaceae",
+  "parent_name": "Shorea",
   "gbif_id": "4096915",
   "powo_id": "321351-1",
   "iucn_id": "31972",

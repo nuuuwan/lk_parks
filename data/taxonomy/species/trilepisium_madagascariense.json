@@ -1,8 +1,7 @@
 {
   "name": "Trilepisium madagascariense",
   "authorship": "DC.",
-  "genus_name": "Trilepisium",
-  "family_name": "Moraceae",
+  "parent_name": "Trilepisium",
   "gbif_id": "3766911",
   "powo_id": "584677-1",
   "iucn_id": "204681388",

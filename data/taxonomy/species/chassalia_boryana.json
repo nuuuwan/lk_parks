@@ -1,8 +1,7 @@
 {
   "name": "Chassalia boryana",
   "authorship": "DC.",
-  "genus_name": "Chassalia",
-  "family_name": "Rubiaceae",
+  "parent_name": "Chassalia",
   "gbif_id": "2912761",
   "powo_id": "746280-1",
   "iucn_id": null,
