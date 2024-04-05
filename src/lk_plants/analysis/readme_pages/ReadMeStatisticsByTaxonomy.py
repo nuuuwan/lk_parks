@@ -84,7 +84,7 @@ class ReadMeStatisticsByTaxonomy(MarkdownPage, InfoReadMe):
                 if rank == 'species':
                     species = Species.from_name(key)
                     common_names = species.common_names
-                    description += "\n\n" + Markdown.italic(
+                    description += "\n" + Markdown.italic(
                         ', '.join(common_names)
                     )
 
