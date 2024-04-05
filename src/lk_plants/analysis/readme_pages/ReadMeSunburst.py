@@ -52,7 +52,7 @@ class ReadMeSunburst(MarkdownPage, InfoReadMe):
         sequence = []
 
         for s in [100]:
-            for l in range(20, 35,5):
+            for l in range(20, 35, 5):
                 for h in range(0, 150, 10):
                     color = f'hsl({h},{s}%,{l}%)'
                     sequence.append(color)
@@ -74,12 +74,10 @@ class ReadMeSunburst(MarkdownPage, InfoReadMe):
             'species',
         ]
 
-
         names = []
         parents = []
         values = []
         colors = []
-
 
         color_rank_type = "genus"
 
@@ -109,7 +107,6 @@ class ReadMeSunburst(MarkdownPage, InfoReadMe):
             values=values,
             colors=colors,
         )
- 
 
         fig = px.sunburst(
             data,

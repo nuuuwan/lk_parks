@@ -21,7 +21,7 @@ class Markdown:
             return Markdown.italic(text)
         if 'Unknown-' in text:
             return Markdown.italic(text)
-        
+
         url = 'https://en.wikipedia.org/wiki/' + text.replace(' ', '_')
         return Markdown.link(label or Markdown.italic(text), url)
 

@@ -25,7 +25,7 @@ class ReadMeStatisticsByTaxonomy(MarkdownPage, InfoReadMe):
             key = rank_idx[rank]
             if key is None:
                 continue
- 
+
             if key not in key_to_data_list:
                 key_to_data_list[key] = []
             key_to_data_list[key].append(plant_photo)
@@ -97,7 +97,6 @@ class ReadMeStatisticsByTaxonomy(MarkdownPage, InfoReadMe):
     def lines_analysis_families(self):
         return self.get_lines_analysis_by_rank('family')
 
-
     @cached_property
     def file_path(self):
         return 'README.statistics.taxonomy.md'
@@ -106,7 +105,6 @@ class ReadMeStatisticsByTaxonomy(MarkdownPage, InfoReadMe):
     def lines_for_ranks(self):
         lines = []
         for rank in [
-           
             'species',
             'genus',
             'family',
@@ -114,10 +112,10 @@ class ReadMeStatisticsByTaxonomy(MarkdownPage, InfoReadMe):
             'classis',
             'phylum',
         ]:
-            lines_for_rank =   self.get_lines_analysis_by_rank(rank)
+            lines_for_rank = self.get_lines_analysis_by_rank(rank)
             lines.extend(lines_for_rank)
         return lines
-    
+
     @cached_property
     def lines(self) -> list[str]:
         return [
