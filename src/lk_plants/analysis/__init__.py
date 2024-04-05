@@ -7,7 +7,6 @@ from lk_plants.analysis.readme_pages import (ReadMeAbout, ReadMeApp,
                                              ReadMeFunnelByDay,
                                              ReadMeIdentification,
                                              ReadMeIdentificationCommon,
-                                             ReadMeMostCommonSpecies,
                                              ReadMePlantNet,
                                              ReadMeStatisticsByTaxonomy,
                                              ReadMeSunburst, ReadMeVMDPark)

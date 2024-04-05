@@ -44,23 +44,26 @@ class ReadMeSunburst(MarkdownPage, InfoReadMe):
             key=lambda x: -x[1],
         ):
             rank_idx = species_to_rank_idx[species_name]
-            d_list.append(rank_idx | dict(n=n) | dict(color="red"))
+            rank_to_name = {
+                rank: rank_obj.name for rank, rank_obj in rank_idx.items()
+            }
+            d_list.append(rank_to_name | dict(n=n) | dict(color="red"))
         return d_list
 
     @staticmethod
     def get_color_sequence():
         sequence = []
 
-        for s in [100]:
-            for l in range(20, 35, 5):
-                for h in range(0, 150, 10):
-                    color = f'hsl({h},{s}%,{l}%)'
+        for saturation in [100]:
+            for light in range(20, 35, 5):
+                for hue in range(0, 150, 10):
+                    color = f'hsl({hue},{saturation}%,{light}%)'
                     sequence.append(color)
         random.shuffle(sequence)
         return sequence
 
     @cached_property
-    def line_chart(self):
+    def line_chart_data(self):
         d_list = self.d_list
 
         rank_type_list = [
@@ -101,15 +104,17 @@ class ReadMeSunburst(MarkdownPage, InfoReadMe):
                 values.append(n)
                 colors.append(name_to_color[name])
 
-        data = dict(
+        return dict(
             names=names,
             parents=parents,
             values=values,
             colors=colors,
         )
 
+    @cached_property
+    def line_chart(self):
         fig = px.sunburst(
-            data,
+            self.line_chart_data,
             names="names",
             parents="parents",
             values="values",

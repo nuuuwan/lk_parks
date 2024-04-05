@@ -48,23 +48,30 @@ class WikiPage:
 
     @staticmethod
     @cache
-    def get_wiki_page_name_from_plant_photo(plant_photo: PlantPhoto) -> str:
+    def get_wiki_page_name_list_from_plant_photo(
+        plant_photo: PlantPhoto,
+    ) -> str:
         plant_net_result = PlantNetResult.from_plant_photo(plant_photo)
         top_species_name = plant_net_result.top_species_name
         if not top_species_name:
             return None
         species = Species.from_name(top_species_name)
-        wiki_page_name = species.wiki_page_name
-        return wiki_page_name
+        rank_idx = species.rank_idx
+        return [rank.wiki_page_name for rank in rank_idx.values()]
 
     @staticmethod
     @cache
     def get_wiki_page_name_list() -> list[str]:
         plant_photo_list = PlantPhoto.list_all()
-        wiki_page_name_list = [
-            WikiPage.get_wiki_page_name_from_plant_photo(plant_photo)
-            for plant_photo in plant_photo_list
-        ]
+        wiki_page_name_list = []
+        for plant_photo in plant_photo_list:
+            for_plant_photo = (
+                WikiPage.get_wiki_page_name_list_from_plant_photo(plant_photo)
+            )
+            if not for_plant_photo:
+                continue
+            wiki_page_name_list.extend(for_plant_photo)
+
         wiki_page_name_list_filtered = [
             wiki_page_name
             for wiki_page_name in wiki_page_name_list

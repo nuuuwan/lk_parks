@@ -91,6 +91,6 @@ class Taxon(TaxonSerialize, TaxonList):
 
     @cached_property
     def rank_idx(self):
-        return {self.__class__.get_class_key(): self.name} | (
+        return {self.__class__.get_class_key(): self} | (
             self.parent.rank_idx if self.parent else {}
         )

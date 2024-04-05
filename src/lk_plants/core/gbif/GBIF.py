@@ -35,26 +35,28 @@ class GBIF:
             return None
 
     @cached_property
-    def data_nocache(self):
+    def data_nocache_novalidate(self):
         gbif_data = pygbif_species.name_backbone(
             name=self.species_name, rank="species", limit=1, strict=True
         )
+        return dict(
+            scientific_name=gbif_data['scientificName'],
+            canonical_name=gbif_data['canonicalName'],
+            domain="Eukaryota",
+            kingdom=gbif_data['kingdom'],
+            phylum=gbif_data['phylum'],
+            class_=gbif_data['class'],
+            order=gbif_data['order'],
+            family=gbif_data['family'],
+            genus=gbif_data['genus'],
+            species=gbif_data['species'],
+        )
 
+    @cached_property
+    def data_nocache(self):
         try:
-            data = dict(
-                scientific_name=gbif_data['scientificName'],
-                canonical_name=gbif_data['canonicalName'],
-                domain="Eukaryota",
-                kingdom=gbif_data['kingdom'],
-                phylum=gbif_data['phylum'],
-                class_=gbif_data['class'],
-                order=gbif_data['order'],
-                family=gbif_data['family'],
-                genus=gbif_data['genus'],
-                species=gbif_data['species'],
-            )
+            data = self.data_nocache_novalidate
         except Exception as e:
-            print(gbif_data)
             raise Exception(f"Failed to get data: {e}")
 
         observed_species = data['canonical_name']

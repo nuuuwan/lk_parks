@@ -22,7 +22,7 @@ class ReadMeStatisticsByTaxonomy(MarkdownPage, InfoReadMe):
                 continue
             species = Species.from_name(plant_net_result.top_species_name)
             rank_idx = species.rank_idx
-            key = rank_idx[rank]
+            key = rank_idx[rank].name
             if key is None:
                 continue
 
