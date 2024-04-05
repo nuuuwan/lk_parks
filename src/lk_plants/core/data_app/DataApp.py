@@ -36,6 +36,10 @@ class DataApp:
             species_name = species_names[0]
             species = Species.from_name(species_name)
             d['species'] = species.to_dict()
+            d['species']['genus_name'] = species.genus.name
+            d['species']['family_name'] = species.genus.family.name
+            del d['species']['parent_name']
+
 
             d['wiki_page'] = WikiPage.from_wiki_page_name(
                 species.wiki_page_name
