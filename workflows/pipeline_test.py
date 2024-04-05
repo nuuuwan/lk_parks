@@ -1,8 +1,8 @@
-from lk_plants import ReadMeStatisticsByTaxonomy
+from lk_plants import ReadMeSunburst
 
 
 def test_main():
-    ReadMeStatisticsByTaxonomy().write()
+    ReadMeSunburst().write()
 
 
 if __name__ == "__main__":
