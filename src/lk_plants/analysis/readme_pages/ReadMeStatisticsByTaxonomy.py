@@ -14,19 +14,25 @@ class ReadMeStatisticsByTaxonomy(MarkdownPage, InfoReadMe):
     N_DISPLAY = 10
 
     @cache
-    def get_key_to_data_list(self, get_key):
+    def get_rank_to_data_list(self, rank):
         key_to_data_list = {}
-        for data in self.plant_photo_list:
-            key = get_key(data)
+        for plant_photo in self.plant_photo_list:
+            plant_net_result = PlantNetResult.from_plant_photo(plant_photo)
+            if not plant_net_result:
+                continue
+            species = Species.from_name(plant_net_result.top_species_name)
+            rank_idx = species.rank_idx
+            key = rank_idx[rank]
             if key is None:
                 continue
+ 
             if key not in key_to_data_list:
                 key_to_data_list[key] = []
-            key_to_data_list[key].append(data)
+            key_to_data_list[key].append(plant_photo)
         return key_to_data_list
 
-    def get_sorted_key_and_data_list(self, get_key):
-        key_to_data_list = self.get_key_to_data_list(get_key)
+    def get_sorted_rank_and_data_list(self, get_key):
+        key_to_data_list = self.get_rank_to_data_list(get_key)
         sorted_key_and_data_list = sorted(
             key_to_data_list.items(), key=lambda x: -len(x[1])
         )
@@ -43,9 +49,9 @@ class ReadMeStatisticsByTaxonomy(MarkdownPage, InfoReadMe):
         return top_list
 
     @cache
-    def get_lines_analysis_by_key_table(self, label, get_key):
+    def get_lines_analysis_by_rank_table(self, rank):
         lines = Markdown.table(
-            ['#', label, 'n(Photos)', '%'],
+            ['#', rank.title(), 'n(Photos)', '%'],
             [
                 Markdown.ALIGN_RIGHT,
                 Markdown.ALIGN_LEFT,
@@ -55,7 +61,7 @@ class ReadMeStatisticsByTaxonomy(MarkdownPage, InfoReadMe):
         )
 
         for i, [key, data_list] in enumerate(
-            self.get_sorted_key_and_data_list(get_key)
+            self.get_sorted_rank_and_data_list(rank)
         ):
             n = len(data_list)
             p = n / self.n_plant_photos
@@ -72,9 +78,10 @@ class ReadMeStatisticsByTaxonomy(MarkdownPage, InfoReadMe):
         return lines
 
     @cache
-    def get_lines_analysis_by_key(self, label, get_key):
-        key_to_data_list = self.get_key_to_data_list(get_key)
-        n_unique = len(key_to_data_list)
+    def get_lines_analysis_by_rank(self, rank):
+        rank_to_data_list = self.get_rank_to_data_list(rank)
+        n_unique = len(rank_to_data_list)
+        label = rank.title()
         return (
             [
                 f'### {label}',
@@ -82,62 +89,38 @@ class ReadMeStatisticsByTaxonomy(MarkdownPage, InfoReadMe):
                 f'**{n_unique}** unique {label}.',
                 '',
             ]
-            + self.get_lines_analysis_by_key_table(label, get_key)
+            + self.get_lines_analysis_by_rank_table(rank)
             + ['']
         )
 
     @cached_property
     def lines_analysis_families(self):
-        def get_key(plant_photo):
-            plant_net_result = PlantNetResult.from_plant_photo(plant_photo)
-            species_name_to_score = plant_net_result.species_name_to_score
-            if not species_name_to_score:
-                return None
-            species_name = list(species_name_to_score.keys())[0]
-            species = Species.from_name(species_name)
-            return species.genus.family.name
+        return self.get_lines_analysis_by_rank('family')
 
-        return self.get_lines_analysis_by_key('Families', get_key)
-
-    @cached_property
-    def lines_analysis_genera(self):
-        def get_key(plant_photo):
-            plant_net_result = PlantNetResult.from_plant_photo(plant_photo)
-            species_name_to_score = plant_net_result.species_name_to_score
-            if not species_name_to_score:
-                return None
-            species_name = list(species_name_to_score.keys())[0]
-            species = Species.from_name(species_name)
-            return species.genus.name
-
-        return self.get_lines_analysis_by_key('Genera', get_key)
-
-    @staticmethod
-    def get_key_species(plant_photo):
-        plant_net_result = PlantNetResult.from_plant_photo(plant_photo)
-        species_name_to_score = plant_net_result.species_name_to_score
-        if not species_name_to_score:
-            return None
-        species_name = list(species_name_to_score.keys())[0]
-        return species_name
-
-    @cached_property
-    def lines_analysis_species(self):
-        return self.get_lines_analysis_by_key(
-            'Species', ReadMeStatisticsByTaxonomy.get_key_species
-        )
 
     @cached_property
     def file_path(self):
         return 'README.statistics.taxonomy.md'
 
     @cached_property
+    def lines_for_ranks(self):
+        lines = []
+        for rank in [
+           
+            'species',
+            'genus',
+            'family',
+            'order',
+            'classis',
+            'phyllum',
+        ]:
+            lines_for_rank =   self.get_lines_analysis_by_rank(rank)
+            lines.extend(lines_for_rank)
+        return lines
+    
+    @cached_property
     def lines(self) -> list[str]:
         return [
             '## Statistics by Taxonomy',
             '',
-        ] + (
-            self.lines_analysis_species
-            + self.lines_analysis_genera
-            + self.lines_analysis_families
-        )
+        ] + self.lines_for_ranks
