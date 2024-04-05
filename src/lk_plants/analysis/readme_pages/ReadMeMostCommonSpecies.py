@@ -79,8 +79,8 @@ class ReadMeMostCommonSpecies(ReadMeStatisticsByTaxonomy):
 
     @cached_property
     def lines_most_common_species(self):
-        key_and_data_list = self.get_sorted_key_and_data_list(
-            ReadMeStatisticsByTaxonomy.get_key_species
+        key_and_data_list = self.get_sorted_rank_and_data_list(
+            "species",
         )
         lines = []
         for key, data_list in key_and_data_list[

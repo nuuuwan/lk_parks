@@ -4,7 +4,7 @@
 
 This project aims to use Computer Vision and Artificial Intelligence to identify plants in Sri Lanka's public parks, beginning with Viharamahadevi Park, Colombo.
 
-🤖 *This report was automatically generated on  **Apr 05, 2024 (03:13 PM)**, and is based on **918** plant photos.*
+🤖 *This report was automatically generated on  **Apr 05, 2024 (04:33 PM)**, and is based on **918** plant photos.*
 
 You can also follow us on our Twitter/X page [@lk_plants](https://twitter.com/lk_plants)
 
@@ -76,11 +76,11 @@ This sunburst chart shows the distribution of plant photos, by family, genus and
 | 10 | [*Tecoma stans*](https://en.wikipedia.org/wiki/Tecoma_stans) | 17 | 1.9% |
 |  | *(All Others)* | 426 | 46.4% |
 
-### Genera
+### Genus
 
-**167** unique Genera.
+**167** unique Genus.
 
-| # | Genera | n(Photos) | % |
+| # | Genus | n(Photos) | % |
 | ---: | :--- | ---: | ---: |
 | 1 | [*Terminalia*](https://en.wikipedia.org/wiki/Terminalia) | 83 | 9.0% |
 | 2 | [*Mesua*](https://en.wikipedia.org/wiki/Mesua) | 60 | 6.5% |
@@ -94,11 +94,11 @@ This sunburst chart shows the distribution of plant photos, by family, genus and
 | 10 | [*Tectona*](https://en.wikipedia.org/wiki/Tectona) | 22 | 2.4% |
 |  | *(All Others)* | 314 | 34.2% |
 
-### Families
+### Family
 
-**67** unique Families.
+**67** unique Family.
 
-| # | Families | n(Photos) | % |
+| # | Family | n(Photos) | % |
 | ---: | :--- | ---: | ---: |
 | 1 | [*Fabaceae*](https://en.wikipedia.org/wiki/Fabaceae) | 161 | 17.5% |
 | 2 | [*Combretaceae*](https://en.wikipedia.org/wiki/Combretaceae) | 87 | 9.5% |
@@ -111,6 +111,48 @@ This sunburst chart shows the distribution of plant photos, by family, genus and
 | 9 | [*Apocynaceae*](https://en.wikipedia.org/wiki/Apocynaceae) | 41 | 4.5% |
 | 10 | [*Lamiaceae*](https://en.wikipedia.org/wiki/Lamiaceae) | 23 | 2.5% |
 |  | *(All Others)* | 114 | 12.4% |
+
+### Order
+
+**32** unique Order.
+
+| # | Order | n(Photos) | % |
+| ---: | :--- | ---: | ---: |
+| 1 | [*Fabales*](https://en.wikipedia.org/wiki/Fabales) | 161 | 17.5% |
+| 2 | [*Myrtales*](https://en.wikipedia.org/wiki/Myrtales) | 144 | 15.7% |
+| 3 | [*Sapindales*](https://en.wikipedia.org/wiki/Sapindales) | 97 | 10.6% |
+| 4 | [*Malpighiales*](https://en.wikipedia.org/wiki/Malpighiales) | 86 | 9.4% |
+| 5 | [*Lamiales*](https://en.wikipedia.org/wiki/Lamiales) | 83 | 9.0% |
+| 6 | [*Rosales*](https://en.wikipedia.org/wiki/Rosales) | 77 | 8.4% |
+| 7 | [*Gentianales*](https://en.wikipedia.org/wiki/Gentianales) | 57 | 6.2% |
+| 8 | [*Arecales*](https://en.wikipedia.org/wiki/Arecales) | 46 | 5.0% |
+| 9 | [*Fagales*](https://en.wikipedia.org/wiki/Fagales) | 32 | 3.5% |
+| 10 | [*Ericales*](https://en.wikipedia.org/wiki/Ericales) | 30 | 3.3% |
+|  | *(All Others)* | 44 | 4.8% |
+
+### Classis
+
+**6** unique Classis.
+
+| # | Classis | n(Photos) | % |
+| ---: | :--- | ---: | ---: |
+| 1 | [*Magnoliopsida*](https://en.wikipedia.org/wiki/Magnoliopsida) | 826 | 90.0% |
+| 2 | [*Liliopsida*](https://en.wikipedia.org/wiki/Liliopsida) | 71 | 7.7% |
+| 3 | [*Polypodiopsida*](https://en.wikipedia.org/wiki/Polypodiopsida) | 14 | 1.5% |
+| 4 | [*Pinopsida*](https://en.wikipedia.org/wiki/Pinopsida) | 5 | 0.5% |
+| 5 | *Unknown-Classis* | 1 | 0.1% |
+| 6 | [*Cycadopsida*](https://en.wikipedia.org/wiki/Cycadopsida) | 1 | 0.1% |
+| 7 | *(All Others)* | 0 | 0.0% |
+
+### Phylum
+
+**2** unique Phylum.
+
+| # | Phylum | n(Photos) | % |
+| ---: | :--- | ---: | ---: |
+| 1 | [*Tracheophyta*](https://en.wikipedia.org/wiki/Tracheophyta) | 917 | 99.9% |
+| 2 | *Unknown-Phylum* | 1 | 0.1% |
+| 3 | *(All Others)* | 0 | 0.0% |
 
 ## Identification Confidence
 
