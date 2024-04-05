@@ -125,6 +125,10 @@ class WikiPage:
         text = re.sub(f'\\s+', ' ', text).strip()
         if 'may refer to' in text or 'may also refer' in text:
             return 'See ' + Markdown.wiki_link(self.wiki_page_name)
+        
+        key = self.wiki_page_name.replace("_", " ")
+        
+        text = text.replace(f' {key} ', Markdown.bold(key))
 
         if len(text) <= n_chars:
             return text
