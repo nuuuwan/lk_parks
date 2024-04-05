@@ -9,6 +9,7 @@ class Genus(Taxon):
     def get_parent_class(cls):
         return Family
 
+    @property
     def family(self) -> Family:
         return self.parent
 

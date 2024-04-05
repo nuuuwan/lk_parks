@@ -13,6 +13,8 @@ class PlantNetResultBase:
     plant_photo_id: str
     species_name_to_score: dict[str, float]
 
+    DIR_DATA_PLANT_NET_RESULTS = os.path.join('data', 'plant_net_results')
+
     @cached_property
     def top_species_name(self):
         if not self.species_name_to_score:

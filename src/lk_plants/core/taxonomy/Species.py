@@ -15,6 +15,9 @@ class Species(Taxon):
     iucn_category: str
     common_names: list[str]
 
+    def __hash__(self):
+        return hash(self.__class__.__name__ + '.' + self.name)
+    
     @property
     def genus(self):
         return self.parent

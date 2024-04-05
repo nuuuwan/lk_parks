@@ -12,6 +12,7 @@ log = Log('PlantNetResultIdentify')
 
 
 class PlantNetResultIdentify:
+   
     URL_BASE = 'https://my-api.plantnet.org'
 
     T_DELAY = 1
@@ -91,31 +92,22 @@ class PlantNetResultIdentify:
                 log.debug(f'\t{score:.1%}: {species.name}{emoji}')
         return species_name_to_score
 
-    @staticmethod
-    def filter_with_no_results(plant_photo: PlantPhoto):
+    @classmethod
+    def filter_with_no_results(cls, plant_photo: PlantPhoto):
         return not os.path.exists(
-            PlantNetResultIdentify.get_data_path(plant_photo.id)
+            cls.get_data_path(plant_photo.id)
         )
 
     @classmethod
     def from_plant_photo(cls, plant_photo: PlantPhoto):
         if os.path.exists(
-            PlantNetResultIdentify.get_data_path(plant_photo.id)
+            cls.get_data_path(plant_photo.id)
         ):
-            plant_net_result = PlantNetResultIdentify.from_plant_photo_id(
+            plant_net_result = cls.from_plant_photo_id(
                 plant_photo.id
             )
 
-            if not plant_net_result.FORCE_RETRY:
-                return plant_net_result
-
-            top_confidence = plant_net_result.top_confidence
-            if (
-                top_confidence
-                and top_confidence > PlantNetResultIdentify.MIN_SCORE
-            ):
-                return plant_net_result
-            log.warn(f'Re-trying {plant_photo.id} ({top_confidence:.1%})')
+            return plant_net_result
 
         ut_api_call = time.time()
         results = PlantNetResultIdentify.identify(plant_photo.image_path)

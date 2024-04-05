@@ -69,9 +69,8 @@ class Taxon:
         if needs_update:
             taxon.write()
         return taxon
-
     def __hash__(self):
-        return hash(self.__class__.name + '.' + self.name)
+        return hash(self.__class__.__name__ + '.' + self.name)
 
     @cached_property
     def wiki_page_name(self) -> str:
@@ -148,11 +147,16 @@ class Taxon:
 
     @classmethod
     def from_species_name(cls, species_name):
-        gbif = GBIF(species_name)
         class_key = cls.get_class_key()
         parent_cls = cls.get_parent_class()
+        
+        gbif = GBIF(species_name)
+        gbif_data = gbif.data
+        if not gbif_data or class_key not in gbif_data:
+            return cls.unknown()
+        
         taxon = cls(
-            name=gbif.data[class_key],
+            name=gbif_data[class_key],
             authorship="",
             parent=parent_cls.from_species_name(species_name),
         )

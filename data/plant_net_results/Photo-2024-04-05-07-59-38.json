@@ -1,0 +1,20 @@
+{
+  "ut_api_call": 1712300682.0734253,
+  "plant_photo_id": "Photo-2024-04-05-07-59-38",
+  "species_name_to_score": {
+    "Casuarina equisetifolia": 0.65743,
+    "Casuarina cunninghamiana": 0.21364,
+    "Retama monosperma": 0.01999,
+    "Tamarix aphylla": 0.00944,
+    "Tamarix gallica": 0.00753,
+    "Parkinsonia aculeata": 0.00635,
+    "Gymnostoma nodiflorum": 0.00476,
+    "Viminaria juncea": 0.00437,
+    "Tamarix ramosissima": 0.00205,
+    "Allocasuarina verticillata": 0.00199,
+    "Casuarina glauca": 0.0017,
+    "Gymnostoma nobile": 0.00126,
+    "Genista aetnensis": 0.00121,
+    "Elegia capensis": 0.00104
+  }
+}
