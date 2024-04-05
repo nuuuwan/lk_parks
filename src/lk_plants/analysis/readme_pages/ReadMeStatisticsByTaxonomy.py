@@ -86,7 +86,7 @@ class ReadMeStatisticsByTaxonomy(MarkdownPage, InfoReadMe):
             [
                 f'### {label}',
                 '',
-                f'**{n_unique}** unique {label}.',
+                f'**{n_unique}** unique {label}(s).',
                 '',
             ]
             + self.get_lines_analysis_by_rank_table(rank)

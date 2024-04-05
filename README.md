@@ -4,7 +4,7 @@
 
 This project aims to use Computer Vision and Artificial Intelligence to identify plants in Sri Lanka's public parks, beginning with Viharamahadevi Park, Colombo.
 
-🤖 *This report was automatically generated on  **Apr 05, 2024 (04:33 PM)**, and is based on **918** plant photos.*
+🤖 *This report was automatically generated on  **Apr 05, 2024 (04:36 PM)**, and is based on **918** plant photos.*
 
 You can also follow us on our Twitter/X page [@lk_plants](https://twitter.com/lk_plants)
 
@@ -60,7 +60,7 @@ This sunburst chart shows the distribution of plant photos, by family, genus and
 
 ### Species
 
-**223** unique Species.
+**223** unique Species(s).
 
 | # | Species | n(Photos) | % |
 | ---: | :--- | ---: | ---: |
@@ -78,7 +78,7 @@ This sunburst chart shows the distribution of plant photos, by family, genus and
 
 ### Genus
 
-**167** unique Genus.
+**167** unique Genus(s).
 
 | # | Genus | n(Photos) | % |
 | ---: | :--- | ---: | ---: |
@@ -96,7 +96,7 @@ This sunburst chart shows the distribution of plant photos, by family, genus and
 
 ### Family
 
-**67** unique Family.
+**67** unique Family(s).
 
 | # | Family | n(Photos) | % |
 | ---: | :--- | ---: | ---: |
@@ -114,7 +114,7 @@ This sunburst chart shows the distribution of plant photos, by family, genus and
 
 ### Order
 
-**32** unique Order.
+**32** unique Order(s).
 
 | # | Order | n(Photos) | % |
 | ---: | :--- | ---: | ---: |
@@ -132,7 +132,7 @@ This sunburst chart shows the distribution of plant photos, by family, genus and
 
 ### Classis
 
-**6** unique Classis.
+**6** unique Classis(s).
 
 | # | Classis | n(Photos) | % |
 | ---: | :--- | ---: | ---: |
@@ -146,40 +146,13 @@ This sunburst chart shows the distribution of plant photos, by family, genus and
 
 ### Phylum
 
-**2** unique Phylum.
+**2** unique Phylum(s).
 
 | # | Phylum | n(Photos) | % |
 | ---: | :--- | ---: | ---: |
 | 1 | [*Tracheophyta*](https://en.wikipedia.org/wiki/Tracheophyta) | 917 | 99.9% |
 | 2 | *Unknown-Phylum* | 1 | 0.1% |
 | 3 | *(All Others)* | 0 | 0.0% |
-
-## Identification Confidence
-
-### Time Of Day
-
-![images\identification.time-of-day.png](images/identification.time-of-day.png)
-
-### Date
-
-![images\identification.date.png](images/identification.date.png)
-
-### Camera Direction
-
-![images\identification.camera-direction.png](images/identification.camera-direction.png)
-
-### Species
-
-![images\identification.species.png](images/identification.species.png)
-
-### Family
-
-![images\identification.family.png](images/identification.family.png)
-
-### Latlng
-
-![images\identification.latlng.png](images/identification.latlng.png)
-
 
 ## Most Common Species
 
@@ -282,6 +255,33 @@ Peltophorum pterocarpum (commonly known as copperpod, yellow-flamboyant, yellow 
 *Kaelanitissa, Kelantissa, Rankaerali, Swarnaptti, Tankarali, Trumpet-flower, Yellow trumpet flower, Yellow-bells*
 
 Tecoma stans is a species of flowering perennial shrub in the trumpet vine family, Bignoniaceae, that is native to the Americas.  Common names include yellow trumpetbush, yellow bells, yellow elder, ginger Thomas. Tecoma stans is the official flower of the United States Virgin Islands and the floral emblem of The Bahamas. [[Wikipedia](https://en.wikipedia.org/wiki/Tecoma_stans)]
+
+## Identification Confidence
+
+### Time Of Day
+
+![images\identification.time-of-day.png](images/identification.time-of-day.png)
+
+### Date
+
+![images\identification.date.png](images/identification.date.png)
+
+### Camera Direction
+
+![images\identification.camera-direction.png](images/identification.camera-direction.png)
+
+### Species
+
+![images\identification.species.png](images/identification.species.png)
+
+### Family
+
+![images\identification.family.png](images/identification.family.png)
+
+### Latlng
+
+![images\identification.latlng.png](images/identification.latlng.png)
+
 
 ## Sample of Recent Plant Photos difficult to Identify
 
