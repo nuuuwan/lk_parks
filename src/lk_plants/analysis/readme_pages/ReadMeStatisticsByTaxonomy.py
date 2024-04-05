@@ -53,7 +53,7 @@ class ReadMeStatisticsByTaxonomy(MarkdownPage, InfoReadMe):
 
     @cache
     def get_lines_analysis_by_rank_table(self, rank):
-        LEN_DESCRIPTION = 200
+        LEN_DESCRIPTION = 400
         lines = Markdown.table(
             ['#', rank.title(), 'n(Photos)', '%', 'Description'],
             [
