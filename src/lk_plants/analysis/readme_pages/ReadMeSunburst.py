@@ -2,7 +2,6 @@ import os
 import random
 from functools import cached_property
 
-import pandas
 import plotly.express as px
 import plotly.io as pio
 from utils import Log
@@ -22,7 +21,7 @@ class ReadMeSunburst(MarkdownPage, InfoReadMe):
         return 'README.sunburst.md'
 
     @cached_property
-    def df(self):
+    def d_list(self):
         species_to_rank_idx = {}
         species_to_n = {}
         for plant_photo in self.plant_photo_list:
@@ -42,40 +41,83 @@ class ReadMeSunburst(MarkdownPage, InfoReadMe):
         d_list = []
         for species_name, n in sorted(
             species_to_n.items(),
-            key=lambda x: x[1],
+            key=lambda x: -x[1],
         ):
             rank_idx = species_to_rank_idx[species_name]
             d_list.append(rank_idx | dict(n=n) | dict(color="red"))
-        return pandas.DataFrame(d_list)
+        return d_list
 
     @staticmethod
     def get_color_sequence():
         sequence = []
 
-        for h in range(0, 150, 5):
-            color = f'hsl({h},100%,30%)'
-            sequence.append(color)
+        for s in [100]:
+            for l in [25, 30,35]:
+                for h in range(0, 150, 10):
+                    color = f'hsl({h},{s}%,{l}%)'
+                    sequence.append(color)
         random.shuffle(sequence)
         return sequence
 
     @cached_property
     def line_chart(self):
-        df = self.df
+        d_list = self.d_list
+
+        rank_type_list = [
+            'domain',
+            'kingdom',
+            'phylum',
+            'classis',
+            'order',
+            'family',
+            'genus',
+            'species',
+        ]
+
+
+        names = []
+        parents = []
+        values = []
+        colors = []
+
+
+        color_rank_type = "species"
+
+        for i, rank_type in enumerate(rank_type_list[1:], start=1):
+            parent_rank_type = rank_type_list[i - 1]
+
+            name_to_n = {}
+            name_to_parent = {}
+            name_to_color = {}
+            for d in d_list:
+                name = d[rank_type]
+                if name not in name_to_n:
+                    name_to_n[name] = 0
+                    name_to_parent[name] = d[parent_rank_type]
+                    name_to_color[name] = d[color_rank_type]
+                name_to_n[name] += d['n']
+
+            for name, n in sorted(name_to_n.items(), key=lambda x: -x[1]):
+                names.append(name)
+                parents.append(name_to_parent[name])
+                values.append(n)
+                colors.append(name_to_color[name])
+
+        data = dict(
+            names=names,
+            parents=parents,
+            values=values,
+            colors=colors,
+        )
+ 
 
         fig = px.sunburst(
-            df,
-            path=[
-                'domain',
-                'kingdom',
-                'phylum',
-                'classis',
-                'order',
-                'family',
-                'genus',
-                'species',
-            ],
-            values='n',
-            color="order",
+            data,
+            names="names",
+            parents="parents",
+            values="values",
+            color="colors",
+            branchvalues='total',
             color_discrete_sequence=ReadMeSunburst.get_color_sequence(),
         )
 
