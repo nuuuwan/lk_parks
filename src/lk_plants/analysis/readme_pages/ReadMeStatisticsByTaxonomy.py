@@ -6,6 +6,8 @@ from lk_plants.analysis.InfoReadMe import InfoReadMe
 from lk_plants.core.plant_net.PlantNetResult import PlantNetResult
 from lk_plants.core.taxonomy import RankClass
 from lk_plants.core.taxonomy.Species import Species
+from lk_plants.core.taxonomy.taxon import Taxon
+from lk_plants.core.wiki import WikiPage
 from utils_future import Markdown, MarkdownPage
 
 log = Log('ReadMeStatisticsByTaxonomy')
@@ -51,13 +53,15 @@ class ReadMeStatisticsByTaxonomy(MarkdownPage, InfoReadMe):
 
     @cache
     def get_lines_analysis_by_rank_table(self, rank):
+        LEN_DESCRIPTION = 200
         lines = Markdown.table(
-            ['#', rank.title(), 'n(Photos)', '%'],
+            ['#', rank.title(), 'n(Photos)', '%', 'Description'],
             [
                 Markdown.ALIGN_RIGHT,
                 Markdown.ALIGN_LEFT,
                 Markdown.ALIGN_RIGHT,
                 Markdown.ALIGN_RIGHT,
+                 Markdown.ALIGN_LEFT,
             ],
         )
 
@@ -70,9 +74,14 @@ class ReadMeStatisticsByTaxonomy(MarkdownPage, InfoReadMe):
                 (i + 1) if i < ReadMeStatisticsByTaxonomy.N_DISPLAY else ''
             )
 
+            wiki_page_name = Taxon.get_wiki_page_name(key)
+            description = ''
+            if 'Others' not in key and 'Unknown-' not in key:
+                description = WikiPage.from_wiki_page_name(wiki_page_name).get_summary_truncated(LEN_DESCRIPTION)
+
             lines.extend(
                 Markdown.table(
-                    [row_str, Markdown.wiki_link(key), f'{n:,}', f'{p:.1%}'],
+                    [row_str, Markdown.wiki_link(key), f'{n:,}', f'{p:.1%}', description],
                 )
             )
 

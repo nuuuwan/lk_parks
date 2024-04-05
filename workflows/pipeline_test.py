@@ -2,7 +2,7 @@ from lk_plants import ReadMeSunburst, ReadMeStatisticsByTaxonomy
 
 
 def test_main():
-    ReadMeSunburst().write()
+    # ReadMeSunburst().write()
     ReadMeStatisticsByTaxonomy().write()
 
 

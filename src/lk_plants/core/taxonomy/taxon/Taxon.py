@@ -75,9 +75,13 @@ class Taxon(TaxonSerialize, TaxonList):
     def __hash__(self):
         return hash(self.__class__.__name__ + '.' + self.name)
 
+    @staticmethod
+    def get_wiki_page_name(x: str) -> str:
+        return x.replace(' ', '_')
+
     @cached_property
     def wiki_page_name(self) -> str:
-        return self.name.replace(' ', '_')
+        return Taxon.get_wiki_page_name(self.name)
 
     @staticmethod
     def clean_name(name: str) -> str:

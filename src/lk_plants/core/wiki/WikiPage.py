@@ -115,3 +115,8 @@ class WikiPage:
             log.debug(f'{i + 1}/{n_pages}')
             WikiPage.from_wiki_page_name(wiki_page_name)
         log.info('build_from_plant_photos: done')
+
+    def get_summary_truncated(self, n_chars: int) -> str:
+        if len(self.summary) <= n_chars:
+            return self.summary
+        return self.summary[:(n_chars-3)] + '...'
