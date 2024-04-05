@@ -1,0 +1,25 @@
+{
+  "ut_api_call": 1712289172.8207226,
+  "plant_photo_id": "Photo-2024-04-05-07-39-11",
+  "species_name_to_score": {
+    "Terminalia arjuna": 0.65815,
+    "Quercus virginiana": 0.15102,
+    "Quercus fusiformis": 0.02793,
+    "Quercus engelmannii": 0.00873,
+    "Hexalobus monopetalus": 0.00828,
+    "Quercus phellos": 0.00752,
+    "Embothrium coccineum": 0.00604,
+    "Diospyros mespiliformis": 0.00415,
+    "Quercus laurifolia": 0.0034,
+    "Quercus oblongifolia": 0.00272,
+    "Ficus natalensis": 0.00197,
+    "Ficus craterostoma": 0.00182,
+    "Psidium guajava": 0.00172,
+    "Gardenia urvillei": 0.00169,
+    "Semialarium mexicanum": 0.00144,
+    "Annona spinescens": 0.00118,
+    "Manilkara mochisia": 0.00114,
+    "Avicennia germinans": 0.00112,
+    "Quercus nigra": 0.00104
+  }
+}

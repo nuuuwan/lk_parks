@@ -1,0 +1,26 @@
+{
+  "ut_api_call": 1712289157.0186572,
+  "plant_photo_id": "Photo-2024-04-05-07-21-47",
+  "species_name_to_score": {
+    "Casuarina cunninghamiana": 0.64311,
+    "Casuarina equisetifolia": 0.21391,
+    "Pinus canariensis": 0.01048,
+    "Allocasuarina torulosa": 0.00732,
+    "Pinus radiata": 0.00485,
+    "Pinus pinea": 0.00477,
+    "Pinus attenuata": 0.00472,
+    "Pinus halepensis": 0.00455,
+    "Pinus roxburghii": 0.00415,
+    "Pinus pinaster": 0.00409,
+    "Pinus sabiniana": 0.00393,
+    "Pinus serotina": 0.00371,
+    "Allocasuarina verticillata": 0.00329,
+    "Pinus taeda": 0.00311,
+    "Casuarina glauca": 0.00285,
+    "Pinus pseudostrobus": 0.00232,
+    "Pinus massoniana": 0.00221,
+    "Pinus strobus": 0.00219,
+    "Pinus wallichiana": 0.00197,
+    "Pinus elliottii": 0.00103
+  }
+}

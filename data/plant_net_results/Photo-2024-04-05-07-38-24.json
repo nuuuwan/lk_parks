@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1712289168.413244,
+  "plant_photo_id": "Photo-2024-04-05-07-38-24",
+  "species_name_to_score": {
+    "Bauhinia monandra": 0.88217,
+    "Bauhinia purpurea": 0.0516,
+    "Bauhinia acuminata": 0.02075,
+    "Bauhinia forficata": 0.01271,
+    "Bauhinia variegata": 0.00462,
+    "Bauhinia divaricata": 0.00342,
+    "Phanera yunnanensis": 0.00185,
+    "Bauhinia blakeana": 0.00161,
+    "Bauhinia hildebrandtii": 0.0015,
+    "Bauhinia tomentosa": 0.00147
+  }
+}
