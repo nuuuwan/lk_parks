@@ -9,6 +9,7 @@ from utils import JSONFile, Log
 from lk_plants.core.plant_net.PlantNetResult import PlantNetResult
 from lk_plants.core.plant_photo.PlantPhoto import PlantPhoto
 from lk_plants.core.taxonomy.Species import Species
+from utils_future import Markdown
 
 log = Log('WikiPage')
 
@@ -118,7 +119,11 @@ class WikiPage:
 
     def get_summary_truncated(self, n_chars: int) -> str:
         text = self.summary
-        text = text.replace('()', '')
+        for k in ['()', '( or )']:
+            text = text.replace(k, '')
+        if 'may refer to' in text:
+            return Markdown.wiki_link(self.wiki_page_name)
+
         if len(text) <= n_chars:
             return text
         return text[:(n_chars-3)] + '...'
