@@ -9,6 +9,7 @@ from lk_plants.analysis import (InfoReadMe, ReadMe, ReadMeAbout, ReadMeApp,
 from lk_plants.app import App
 from lk_plants.core import (GBIF, Classis, DataApp, Domain, Family, Genus,
                             Kingdom, NameTranslator, Order, Phylum,
-                            PlantNetResult, PlantPhoto, PlantPhotoBase,
+                            PlantNetResult, PlantNetResultBase,
+                            PlantNetResultIdentify, PlantPhoto, PlantPhotoBase,
                             PlantPhotoOriginalImage, Species, Taxon, WikiPage)
 from lk_plants.twtr import Twtr
