@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1712289665.927029,
+  "plant_photo_id": "Photo-2024-04-05-07-52-43",
+  "species_name_to_score": {
+    "Barringtonia asiatica": 0.92737,
+    "Anthocleista grandiflora": 0.01306,
+    "Meryta denhamii": 0.00589,
+    "Barringtonia edulis": 0.00411,
+    "Genipa americana": 0.00326,
+    "Barringtonia macrocarpa": 0.00314,
+    "Terminalia catappa": 0.00267,
+    "Anacardium occidentale": 0.0018,
+    "Mammea americana": 0.00166,
+    "Crescentia cujete": 0.0011
+  }
+}

@@ -5,14 +5,10 @@ from lk_plants.core.taxonomy.Taxon import Taxon
 
 @dataclass
 class Domain(Taxon):
-    def to_dict(self):
-        return dict(
-            name=self.name,
-        )
-
-    @staticmethod
-    def from_dict(d):
-        return Domain(name=d['name'])
+    @classmethod
+    def get_parent_class(cls):
+        return None
 
 
-Domain.EUKARYOTA = Domain(name='Eukaryota')
+Domain.EUKARYOTA = Domain(name='Eukaryota', authorship="", parent=None)
+Domain.SINGLETON = Domain.EUKARYOTA

@@ -1,0 +1,24 @@
+{
+  "ut_api_call": 1712289541.1075594,
+  "plant_photo_id": "Photo-2024-04-05-07-43-35",
+  "species_name_to_score": {
+    "Terminalia arjuna": 0.84929,
+    "Syzygium jambos": 0.01424,
+    "Virola surinamensis": 0.00774,
+    "Quercus phellos": 0.00437,
+    "Tristaniopsis laurina": 0.00419,
+    "Ficus insipida": 0.00349,
+    "Syzygium cumini": 0.00257,
+    "Terminalia australis": 0.00251,
+    "Ficus salicifolia": 0.00246,
+    "Lepechinia meyenii": 0.00209,
+    "Garcinia atroviridis": 0.00181,
+    "Buckinghamia celsissima": 0.00163,
+    "Elaeocarpus grandiflorus": 0.0016,
+    "Saraca asoca": 0.00144,
+    "Breonadia salicina": 0.00132,
+    "Guarea guidonia": 0.00129,
+    "Ficus caballina": 0.00108,
+    "Tabernaemontana elegans": 0.00103
+  }
+}

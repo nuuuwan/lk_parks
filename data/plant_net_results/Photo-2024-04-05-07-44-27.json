@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1712289553.0591915,
+  "plant_photo_id": "Photo-2024-04-05-07-44-27",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.84952,
+    "Myrcia splendens": 0.01164,
+    "Cinnamomum verum": 0.00603,
+    "Syzygium wilsonii": 0.00283,
+    "Eperua rubiginosa": 0.00144,
+    "Eugenia rostrifolia": 0.00139,
+    "Dryobalanops oblongifolia": 0.00126,
+    "Litchi chinensis": 0.00125,
+    "Eucalyptus robusta": 0.00121,
+    "Syzygium cumini": 0.00115
+  }
+}

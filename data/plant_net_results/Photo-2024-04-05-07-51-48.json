@@ -1,0 +1,13 @@
+{
+  "ut_api_call": 1712289652.7774606,
+  "plant_photo_id": "Photo-2024-04-05-07-51-48",
+  "species_name_to_score": {
+    "Artocarpus altilis": 0.24013,
+    "Bocconia frutescens": 0.00906,
+    "Artocarpus camansi": 0.00427,
+    "Carica papaya": 0.00391,
+    "Neolamarckia cadamba": 0.0016,
+    "Tetrapanax papyrifer": 0.00145,
+    "Verbesina gigantea": 0.00109
+  }
+}

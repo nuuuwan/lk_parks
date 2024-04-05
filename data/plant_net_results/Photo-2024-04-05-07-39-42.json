@@ -1,0 +1,30 @@
+{
+  "ut_api_call": 1712289480.514354,
+  "plant_photo_id": "Photo-2024-04-05-07-39-42",
+  "species_name_to_score": {
+    "Mangifera indica": 0.75739,
+    "Pouteria campechiana": 0.01514,
+    "Pouteria caimito": 0.0118,
+    "Magnolia champaca": 0.0064,
+    "Casimiroa edulis": 0.00549,
+    "Monoon longifolium": 0.00503,
+    "Sideroxylon foetidissimum": 0.00492,
+    "Manilkara zapota": 0.00355,
+    "Cerbera manghas": 0.00344,
+    "Persea indica": 0.00298,
+    "Ficus insipida": 0.00262,
+    "Ipomoea arborescens": 0.00242,
+    "Balfourodendron riedelianum": 0.00227,
+    "Sapium glandulosum": 0.00199,
+    "Bombax ceiba": 0.00156,
+    "Garcinia cochinchinensis": 0.00153,
+    "Plumeria alba": 0.00152,
+    "Euphorbia leucocephala": 0.00137,
+    "Pittosporum undulatum": 0.00133,
+    "Trichostigma octandrum": 0.00129,
+    "Sideroxylon capiri": 0.00116,
+    "Calodendrum capense": 0.0011,
+    "Madhuca longifolia": 0.00106,
+    "Ficus salicifolia": 0.00105
+  }
+}

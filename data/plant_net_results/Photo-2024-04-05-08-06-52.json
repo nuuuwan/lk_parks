@@ -1,0 +1,33 @@
+{
+  "ut_api_call": 1712289996.9040504,
+  "plant_photo_id": "Photo-2024-04-05-08-06-52",
+  "species_name_to_score": {
+    "Ochna serrulata": 0.05219,
+    "Jasminum mesnyi": 0.01625,
+    "Ochna integerrima": 0.01105,
+    "Rhododendron calendulaceum": 0.01094,
+    "Eugenia uniflora": 0.00542,
+    "Ochna insculpta": 0.0051,
+    "Ochna gamostigmata": 0.00493,
+    "Camellia sasanqua": 0.00341,
+    "Allamanda schottii": 0.00286,
+    "Jasminum nudiflorum": 0.00277,
+    "Ochna multiflora": 0.00236,
+    "Metrosideros polymorpha": 0.00209,
+    "Viburnum suspensum": 0.00192,
+    "Carissa macrocarpa": 0.00188,
+    "Mitraria coccinea": 0.00138,
+    "Malpighia glabra": 0.00137,
+    "Hibiscus arnottianus": 0.00137,
+    "Dillenia alata": 0.00136,
+    "Ochna atropurpurea": 0.00127,
+    "Chaenomeles speciosa": 0.00124,
+    "Ixora borboniae": 0.00121,
+    "Quercus agrifolia": 0.0012,
+    "Eugenia brasiliensis": 0.00116,
+    "Ehretia microphylla": 0.00115,
+    "Lysimachia serpyllifolia": 0.00105,
+    "Dillenia suffruticosa": 0.00103,
+    "Uvaria siamensis": 0.00103
+  }
+}

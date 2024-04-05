@@ -41,7 +41,12 @@ class ReadMeSunburst(MarkdownPage, InfoReadMe):
 
             n_total += 1
             if species_name not in species_name_to_info:
-                species_name_to_info[species_name] = [genus_name, family_name, order_name, classis_name]
+                species_name_to_info[species_name] = [
+                    genus_name,
+                    family_name,
+                    order_name,
+                    classis_name,
+                ]
 
             if species_name not in taxon_to_n:
                 taxon_to_n[species_name] = 0
@@ -56,11 +61,11 @@ class ReadMeSunburst(MarkdownPage, InfoReadMe):
             taxon_to_n[family_name] += 1
 
             if order_name not in taxon_to_n:
-                taxon_to_n[order_name] = 0  
+                taxon_to_n[order_name] = 0
             taxon_to_n[order_name] += 1
-            
+
             if classis_name not in taxon_to_n:
-                taxon_to_n[classis_name] = 0  
+                taxon_to_n[classis_name] = 0
             taxon_to_n[classis_name] += 1
 
         categories = []

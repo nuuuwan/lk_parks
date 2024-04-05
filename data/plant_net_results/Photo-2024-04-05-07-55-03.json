@@ -1,0 +1,15 @@
+{
+  "ut_api_call": 1712290552.7741911,
+  "plant_photo_id": "Photo-2024-04-05-07-55-03",
+  "species_name_to_score": {
+    "Ruellia prostrata": 0.92484,
+    "Ruellia humilis": 0.01432,
+    "Ruellia patula": 0.00854,
+    "Ruellia pedunculata": 0.00434,
+    "Ruellia longepetiolata": 0.00293,
+    "Ruellia ciliatiflora": 0.00267,
+    "Ruellia geminiflora": 0.00246,
+    "Browallia speciosa": 0.00193,
+    "Ruellia beddomei": 0.00142
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ut_api_call": 1712289492.5962443,
+  "plant_photo_id": "Photo-2024-04-05-07-40-18",
+  "species_name_to_score": {
+    "Terminalia arjuna": 0.6967,
+    "Combretum collinum": 0.02041,
+    "Triplaris americana": 0.01224,
+    "Antidesma madagascariense": 0.00799,
+    "Psidium guajava": 0.00677,
+    "Schleichera oleosa": 0.00601,
+    "Terminalia catappa": 0.00436,
+    "Terminalia buceras": 0.0043,
+    "Annona purpurea": 0.00365,
+    "Handroanthus impetiginosus": 0.00278,
+    "Syzygium polyanthum": 0.00276,
+    "Miconia impetiolaris": 0.00255,
+    "Vismia macrophylla": 0.00218,
+    "Qualea parviflora": 0.00208,
+    "Dipterocarpus alatus": 0.00196,
+    "Virola koschnyi": 0.00181,
+    "Eugenia mespiloides": 0.00171,
+    "Peltophorum pterocarpum": 0.00163,
+    "Salvia spinosa": 0.00137,
+    "Brosimum gaudichaudii": 0.00127,
+    "Cupania americana": 0.0012,
+    "Sapindus emarginatus": 0.00109,
+    "Synsepalum dulcificum": 0.00101,
+    "Doratoxylon apetalum": 0.00101
+  }
+}

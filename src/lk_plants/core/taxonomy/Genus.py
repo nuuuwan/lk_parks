@@ -1,29 +1,16 @@
 import os
-from dataclasses import dataclass
 
 from lk_plants.core.taxonomy.Family import Family
 from lk_plants.core.taxonomy.Taxon import Taxon
 
 
-@dataclass
 class Genus(Taxon):
-    authorship: str
-    family: Family
+    @classmethod
+    def get_parent_class(cls):
+        return Family
 
-    def to_dict(self) -> dict:
-        return dict(
-            name=self.name,
-            authorship=self.authorship,
-            family_name=self.family.name,
-        )
-
-    @staticmethod
-    def from_dict(d: dict) -> 'Genus':
-        return Genus(
-            name=d['name'],
-            authorship=d['authorship'],
-            family=Family.from_name(d['family_name']),
-        )
+    def family(self) -> Family:
+        return self.parent
 
     @staticmethod
     def from_plant_net_raw_result(d: dict) -> 'Genus':
@@ -38,7 +25,7 @@ class Genus(Taxon):
         genus = Genus(
             name=name,
             authorship=d_genus['scientificNameAuthorship'],
-            family=family,
+            parent=family,
         )
         genus.write()
         return genus

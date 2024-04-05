@@ -1,0 +1,11 @@
+{
+  "ut_api_call": 1712289537.6803277,
+  "plant_photo_id": "Photo-2024-04-05-07-43-19",
+  "species_name_to_score": {
+    "Terminalia arjuna": 0.97487,
+    "Diospyros mespiliformis": 0.00384,
+    "Quercus virginiana": 0.00315,
+    "Lagerstroemia parviflora": 0.00134,
+    "Moquilea tomentosa": 0.00118
+  }
+}

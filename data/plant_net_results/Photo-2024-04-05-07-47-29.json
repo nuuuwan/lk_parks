@@ -1,0 +1,22 @@
+{
+  "ut_api_call": 1712289595.9182134,
+  "plant_photo_id": "Photo-2024-04-05-07-47-29",
+  "species_name_to_score": {
+    "Pongamia pinnata": 0.86979,
+    "Pterocarpus indicus": 0.00828,
+    "Sandoricum koetjape": 0.00564,
+    "Bischofia javanica": 0.00411,
+    "Radermachera sinica": 0.00386,
+    "Poecilanthe parviflora": 0.00346,
+    "Ptelea trifoliata": 0.00341,
+    "Chukrasia tabularis": 0.00334,
+    "Swietenia mahagoni": 0.0025,
+    "Pterocarpus rohrii": 0.00238,
+    "Campomanesia xanthocarpa": 0.00213,
+    "Chloroleucon tortum": 0.00208,
+    "Vitex lucens": 0.00128,
+    "Radermachera hainanensis": 0.00127,
+    "Hovenia dulcis": 0.00123,
+    "Tabebuia roseoalba": 0.00121
+  }
+}

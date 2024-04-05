@@ -1,0 +1,22 @@
+{
+  "ut_api_call": 1712289823.6555378,
+  "plant_photo_id": "Photo-2024-04-05-07-58-04",
+  "species_name_to_score": {
+    "Casuarina cunninghamiana": 0.45229,
+    "Casuarina equisetifolia": 0.38994,
+    "Casuarina glauca": 0.06515,
+    "Allocasuarina torulosa": 0.01282,
+    "Allocasuarina verticillata": 0.01253,
+    "Gymnostoma nodiflorum": 0.00514,
+    "Retama monosperma": 0.0036,
+    "Viminaria juncea": 0.00265,
+    "Allocasuarina distyla": 0.00207,
+    "Genista aetnensis": 0.00199,
+    "Pinus pinea": 0.00178,
+    "Tamarix aphylla": 0.0017,
+    "Gymnostoma nobile": 0.00158,
+    "Allocasuarina paludosa": 0.00125,
+    "Grevillea johnsonii": 0.00117,
+    "Parkinsonia aculeata": 0.00111
+  }
+}

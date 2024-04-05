@@ -23,13 +23,16 @@ class GBIF:
     def data(self):
         if os.path.exists(self.file_path):
             return JSONFile(self.file_path).read()
-        data = self.data_nocache
+        try:
+            data = self.data_nocache
+            os.makedirs(GBIF.DIR_DATA_GBIF, exist_ok=True)
+            JSONFile(self.file_path).write(data)
+            log.info(f'Wrote {self.file_path}')
 
-        os.makedirs(GBIF.DIR_DATA_GBIF, exist_ok=True)
-        JSONFile(self.file_path).write(data)
-        log.info(f'Wrote {self.file_path}')
-
-        return data
+            return data
+        except Exception as e:
+            log.error(f"{self.species_name}: {e}")
+            return None
 
     @cached_property
     def data_nocache(self):
@@ -39,7 +42,6 @@ class GBIF:
 
         try:
             data = dict(
-                species_key=gbif_data['speciesKey'],
                 scientific_name=gbif_data['scientificName'],
                 canonical_name=gbif_data['canonicalName'],
                 domain="Eukaryota",
@@ -52,8 +54,9 @@ class GBIF:
                 species=gbif_data['species'],
             )
         except Exception as e:
-
+            print(gbif_data)
             raise Exception(f"Failed to get data: {e}")
+
         observed_species = data['canonical_name']
         if observed_species != self.species_name:
             raise Exception(

@@ -1,0 +1,23 @@
+{
+  "ut_api_call": 1712290548.642005,
+  "plant_photo_id": "Photo-2024-04-05-07-54-37",
+  "species_name_to_score": {
+    "Synedrella nodiflora": 0.85437,
+    "Eleutheranthera ruderalis": 0.02182,
+    "Wedelia silphioides": 0.00265,
+    "Acalypha virginica": 0.00264,
+    "Acmella oleracea": 0.00259,
+    "Acmella uliginosa": 0.00224,
+    "Calyptocarpus vialis": 0.00198,
+    "Acanthospermum hispidum": 0.00175,
+    "Sphagneticola trilobata": 0.00156,
+    "Melampodium costaricense": 0.00154,
+    "Bidens alba": 0.00138,
+    "Melampodium perfoliatum": 0.00123,
+    "Acmella caulirhiza": 0.00119,
+    "Galinsoga parviflora": 0.00117,
+    "Sigesbeckia orientalis": 0.00112,
+    "Acmella radicans": 0.00104,
+    "Mercurialis annua": 0.00101
+  }
+}

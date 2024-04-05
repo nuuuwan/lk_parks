@@ -1,0 +1,10 @@
+{
+  "ut_api_call": 1712289810.359356,
+  "plant_photo_id": "Photo-2024-04-05-07-55-25",
+  "species_name_to_score": {
+    "Couroupita guianensis": 0.95687,
+    "Syzygium samarangense": 0.00209,
+    "Saurauia yasicae": 0.0014,
+    "Syzygium malaccense": 0.00115
+  }
+}

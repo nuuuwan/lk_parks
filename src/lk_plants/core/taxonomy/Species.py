@@ -9,29 +9,26 @@ from lk_plants.core.taxonomy.Taxon import Taxon
 
 @dataclass
 class Species(Taxon):
-    authorship: str
-    genus: Genus
     gbif_id: str
     powo_id: str
     iucn_id: str
     iucn_category: str
     common_names: list[str]
 
-    def __hash__(self):
-        return hash(self.name)
+    @property
+    def genus(self):
+        return self.parent
 
     @property
     def family(self):
         return self.genus.family
 
-    # static methods
-
     def to_dict(self) -> dict:
         return dict(
             name=self.name,
             authorship=self.authorship,
-            genus_name=self.genus.name,
-            family_name=self.family.name,
+            parent_name=self.parent.name,
+            #
             gbif_id=self.gbif_id,
             powo_id=self.powo_id,
             iucn_id=self.iucn_id,
@@ -44,7 +41,8 @@ class Species(Taxon):
         return Species(
             name=d['name'],
             authorship=d['authorship'],
-            genus=Genus.from_name(d['genus_name']),
+            parent=Genus.from_name(d['genus_name']),
+            #
             gbif_id=d['gbif_id'],
             powo_id=d['powo_id'],
             iucn_id=d['iucn_id'],
@@ -75,7 +73,7 @@ class Species(Taxon):
         species = Species(
             name=name,
             authorship=d_species['scientificNameAuthorship'],
-            genus=genus,
+            parent=genus,
             gbif_id=get_attr(d, 'gbif', 'id'),
             powo_id=get_attr(d, 'powo', 'id'),
             iucn_id=get_attr(d, 'iucn', 'id'),

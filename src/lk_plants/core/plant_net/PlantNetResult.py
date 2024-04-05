@@ -111,6 +111,7 @@ class PlantNetResult:
             s = requests.Session()
             response = s.send(prepared)
             data = json.loads(response.text)
+
             results = data.get('results', [])
             n = len(results)
             logger = log.debug if n > 0 else log.warn
@@ -180,7 +181,10 @@ class PlantNetResult:
 
         for i, plant_photo in enumerate(plant_photo_list_filtered):
             log.debug(f'{i + 1}/{n_filtered}')
-            PlantNetResult.from_plant_photo(plant_photo)
+            try:
+                PlantNetResult.from_plant_photo(plant_photo)
+            except Exception as e:
+                log.error(e)
         log.info('build_from_plant_photos: done')
 
     @cached_property
