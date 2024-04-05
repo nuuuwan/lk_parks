@@ -1,5 +1,6 @@
 import os
 from functools import cached_property
+import random
 import pandas
 import plotly
 import plotly.express as px
@@ -53,10 +54,11 @@ class ReadMeSunburst(MarkdownPage, InfoReadMe):
     @staticmethod
     def get_color_sequence():
         sequence = []
-        for h in range(0, 160, 5):
+        
+        for h in range(0, 150, 5):
             color = f'hsl({h},100%,30%)'
             sequence.append(color)
-
+        random.shuffle(sequence)
         return sequence
         
 
