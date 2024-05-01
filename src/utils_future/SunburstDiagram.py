@@ -90,12 +90,18 @@ class SunburstDiagram:
             real_text_width = 2 * math.pi * (r - r_unit) * min(0.25, p_label)
 
             if real_text_width < real_text_height:
-                real_text_width, real_text_height =  real_text_height, real_text_width
+                real_text_width, real_text_height = (
+                    real_text_height,
+                    real_text_width,
+                )
                 direction = False
             else:
                 direction = True
 
-            scale_factor = min(real_text_width / base_text_width, real_text_height / base_text_height)
+            scale_factor = min(
+                real_text_width / base_text_width,
+                real_text_height / base_text_height,
+            )
             font_size = int(BASE_FONT_SIZE * scale_factor)
             if font_size > BASE_FONT_SIZE:
                 font_size = BASE_FONT_SIZE
@@ -160,4 +166,4 @@ class SunburstDiagram:
         return im
 
     def write(self, path):
-        self.im.save(path, dpi=(600,600))
+        self.im.save(path, dpi=(600, 600))

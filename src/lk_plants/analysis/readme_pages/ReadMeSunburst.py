@@ -1,5 +1,4 @@
 import os
-import random
 from functools import cached_property
 
 import plotly.express as px
@@ -40,79 +39,40 @@ class ReadMeSunburst(MarkdownPage, InfoReadMe):
             species_to_n[species_name] += 1
 
         d_list = []
-        for species_name, n in sorted(
-            species_to_n.items(),
-            key=lambda x: -x[1],
+        n_species = len(species_to_n)
+
+        for i_species, [species_name, n] in enumerate(
+            sorted(
+                species_to_n.items(),
+                key=lambda x: -x[1],
+            )
         ):
             rank_idx = species_to_rank_idx[species_name]
             rank_to_name = {
                 rank: rank_obj.name for rank, rank_obj in rank_idx.items()
             }
-            d_list.append(rank_to_name | dict(n=n) | dict(color="red"))
+            p = 1 - i_species / n_species
+            d_list.append(rank_to_name | dict(n=n) | dict(color=p))
         return d_list
-
-    @staticmethod
-    def get_color_sequence():
-        sequence = []
-
-        for saturation in [100]:
-            for light in range(20, 35, 5):
-                for hue in range(0, 150, 10):
-                    color = f'hsl({hue},{saturation}%,{light}%)'
-                    sequence.append(color)
-        random.shuffle(sequence)
-        return sequence
-
-    @cached_property
-    def line_chart_data(self):
-        d_list = self.d_list
-
-        rank_type_list = RankClass.list_all_keys()
-
-        names, parents, values, colors = [], [], [], []
-        color_rank_type = "genus"
-
-        for i, rank_type in enumerate(rank_type_list[1:], start=1):
-            parent_rank_type = rank_type_list[i - 1]
-
-            name_to_n = {}
-            name_to_parent = {}
-            name_to_color = {}
-            for d in d_list:
-                name = d[rank_type]
-                if name not in name_to_n:
-                    name_to_n[name] = 0
-                    name_to_parent[name] = d[parent_rank_type]
-                    name_to_color[name] = d[color_rank_type]
-                name_to_n[name] += d['n']
-
-            for name, n in sorted(name_to_n.items(), key=lambda x: -x[1]):
-                names.append(name)
-                parents.append(name_to_parent[name])
-                values.append(n)
-                colors.append(name_to_color[name])
-
-        return dict(
-            names=names,
-            parents=parents,
-            values=values,
-            colors=colors,
-        )
 
     @cached_property
     def line_chart(self):
         fig = px.sunburst(
-            self.line_chart_data,
-            names="names",
-            parents="parents",
-            values="values",
-            color="colors",
-            branchvalues='total',
-            color_discrete_sequence=ReadMeSunburst.get_color_sequence(),
+            self.d_list,
+            path=RankClass.list_all_keys(),
+            values="n",
+            color="color",
+            color_continuous_scale='Greens',
         )
 
         width = ReadMeSunburst.IMAGE_WIDTH
-        fig.update_layout(autosize=False, width=width, height=width)
+        fig.update_layout(
+            autosize=False,
+            coloraxis_showscale=False,
+            width=width,
+            height=width,
+        )
+        fig.update_coloraxes(showscale=False)
 
         image_path = os.path.join('images', 'sunburst.png')
         pio.write_image(fig, image_path, scale=5)

@@ -57104,5 +57104,75 @@
     "wiki_page": {
       "summary_short": "Saribus rotundifolius, also known as the footstool palm, is a common fan palm found in Southeast Asia. It is a member of the genus Saribus."
     }
+  },
+  "Photo-2024-05-01-07-02-41": {
+    "id": "Photo-2024-05-01-07-02-41",
+    "ut": 1714527161,
+    "latlng": {
+      "lat": 6.914672,
+      "lng": 79.859992
+    },
+    "image_path": "data\\images\\Photo-2024-05-01-07-02-41.jpg",
+    "direction": 110.7256392536282,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Delonix regia": 0.46809,
+        "Caesalpinia pulcherrima": 0.00172
+      }
+    },
+    "species": {
+      "name": "Delonix regia",
+      "authorship": "(Bojer) Raf.",
+      "iucn_category": "LC",
+      "common_names": [
+        "Flamboyant",
+        "Flame-of-the-forest",
+        "Flametree"
+      ],
+      "genus_name": "Delonix",
+      "family_name": "Fabaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Delonix regia is a species of flowering plant in the bean family Fabaceae, subfamily Caesalpinioideae native to Madagascar. It is noted for its fern-like leaves and flamboyant display of orange-red flowers over summer. In many tropical parts of the world it is grown as an ornamental tree and in English it is given the name royal poinciana, flamboyant, phoenix flower, flame of the forest, or flame tree (one of several species given this name).\nThis species was previously placed in the genus ..."
+    }
+  },
+  "Photo-2024-05-01-07-17-53": {
+    "id": "Photo-2024-05-01-07-17-53",
+    "ut": 1714528073,
+    "latlng": {
+      "lat": 6.914003,
+      "lng": 79.863411
+    },
+    "image_path": "data\\images\\Photo-2024-05-01-07-17-53.jpg",
+    "direction": 124.85510257076083,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Mesua ferrea": 0.91369,
+        "Oncoba spinosa": 0.00438,
+        "Gordonia fruticosa": 0.00366,
+        "Polyspora axillaris": 0.00204,
+        "Romneya coulteri": 0.00139
+      }
+    },
+    "species": {
+      "name": "Mesua ferrea",
+      "authorship": "L.",
+      "iucn_category": null,
+      "common_names": [
+        "Ceylon Ironwood",
+        "Cirunakappu",
+        "Iron Wood Tree",
+        "Mesua",
+        "Na",
+        "Naa",
+        "Nagakesarah Nagapuspa",
+        "Nangu"
+      ],
+      "genus_name": "Mesua",
+      "family_name": "Calophyllaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Mesua ferrea, the Ceylon ironwood,  or cobra saffron, is a species in the family Calophyllaceae native to the Indomalayan realm. This slow-growing tree is named after the heaviness and hardness of its timber. It is widely cultivated as an ornamental for its graceful shape, grayish-green foliage with a beautiful pink to red flush of drooping young leaves, and large, fragrant white flowers. It is the national tree of Sri Lanka, as well as the state tree of Mizoram and state flower of Tripura in ..."
+    }
   }
 }
