@@ -138,9 +138,13 @@ class PlantPhotoOriginalImage:
             if os.path.exists(data_path):
                 n_has_data += 1
                 continue
-
-            cls.from_original_image(original_image_path)
-            n_new += 1
+            try:
+                cls.from_original_image(original_image_path)
+                n_new += 1
+            except:
+                log.error(f'Error in {original_image_path}')
+                n_error += 1
+            
 
         log.info(
             'build_from_dir_data_original_image: '

@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1715220250.0152853,
+  "plant_photo_id": "Photo-2024-05-09-06-31-33",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.37373,
+    "Calophyllum caledonicum": 0.02491,
+    "Oncoba spinosa": 0.0129,
+    "Camellia fraterna": 0.00997,
+    "Camellia yunnanensis": 0.00841,
+    "Camellia tsaii": 0.00807,
+    "Tabernaemontana catharinensis": 0.00742,
+    "Polyspora axillaris": 0.0041,
+    "Camellia crapnelliana": 0.00327,
+    "Eucalyptus globulus": 0.003
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1715220268.9723754,
+  "plant_photo_id": "Photo-2024-05-09-06-49-59",
+  "species_name_to_score": {
+    "Hymenocallis littoralis": 0.62986,
+    "Hymenocallis caribaea": 0.0946,
+    "Hymenocallis liriosme": 0.05167,
+    "Hymenocallis latifolia": 0.02893,
+    "Hymenocallis tubiflora": 0.02809,
+    "Hymenocallis occidentalis": 0.02798,
+    "Hymenocallis speciosa": 0.02165,
+    "Hymenocallis fragrans": 0.00821,
+    "Hymenocallis rotata": 0.00539,
+    "Crinum asiaticum": 0.00537
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1715220266.3032658,
+  "plant_photo_id": "Photo-2024-05-09-06-45-26",
+  "species_name_to_score": {
+    "Vitex pinnata": 0.10067,
+    "Nephelium lappaceum": 0.04993,
+    "Pongamia pinnata": 0.04403,
+    "Centrosema pubescens": 0.02726,
+    "Spathodea campanulata": 0.02696,
+    "Markhamia zanzibarica": 0.0238,
+    "Holarrhena floribunda": 0.01896,
+    "Swietenia mahagoni": 0.01712,
+    "Picrasma excelsa": 0.015,
+    "Senna papillosa": 0.01347
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1715220260.7379413,
+  "plant_photo_id": "Photo-2024-05-09-06-42-05",
+  "species_name_to_score": {
+    "Aegle marmelos": 0.24517,
+    "Entada phaseoloides": 0.02905,
+    "Akebia quinata": 0.01818,
+    "Flacourtia jangomas": 0.01763,
+    "Kigelia africana": 0.01524,
+    "Tabernaemontana donnell-smithii": 0.00968,
+    "Diospyros melanoxylon": 0.00953,
+    "Akebia trifoliata": 0.00897,
+    "Genipa americana": 0.00825,
+    "Bourreria huanita": 0.00763
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1715220258.0179534,
+  "plant_photo_id": "Photo-2024-05-09-06-37-28",
+  "species_name_to_score": {
+    "Diospyros mespiliformis": 0.33132,
+    "Ziziphus jujuba": 0.04101,
+    "Diospyros blancoi": 0.03727,
+    "Arbutus andrachne": 0.01956,
+    "Salix pentandra": 0.01194,
+    "Diospyros malabarica": 0.00971,
+    "Umbellularia californica": 0.00901,
+    "Arbutus unedo": 0.00857,
+    "Strychnos nux-vomica": 0.00709,
+    "Dimocarpus longan": 0.00557
+  }
+}

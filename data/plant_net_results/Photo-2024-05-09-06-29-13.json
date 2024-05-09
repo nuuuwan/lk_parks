@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1715220243.9882798,
+  "plant_photo_id": "Photo-2024-05-09-06-29-13",
+  "species_name_to_score": {
+    "Mesua ferrea": 0.31636,
+    "Oncoba spinosa": 0.02383,
+    "Camellia sinensis": 0.01781,
+    "Eschweilera ovata": 0.01578,
+    "Calophyllum caledonicum": 0.01222,
+    "Camellia yunnanensis": 0.00866,
+    "Camellia fraterna": 0.00525,
+    "Camellia sasanqua": 0.00415,
+    "Camellia tsaii": 0.00412,
+    "Garcinia lanceifolia": 0.00278
+  }
+}

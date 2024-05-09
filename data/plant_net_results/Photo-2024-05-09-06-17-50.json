@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1715220236.178727,
+  "plant_photo_id": "Photo-2024-05-09-06-17-50",
+  "species_name_to_score": {
+    "Combretum indicum": 0.15892,
+    "Cananga odorata": 0.0606,
+    "Pachystachys coccinea": 0.03358,
+    "Celtis gomphophylla": 0.02753,
+    "Uncaria macrophylla": 0.02393,
+    "Clerodendrum speciosum": 0.02061,
+    "Eusideroxylon zwageri": 0.01475,
+    "Mercurialis leiocarpa": 0.01001,
+    "Clerodendrum cyrtophyllum": 0.00959,
+    "Piper dilatatum": 0.00947
+  }
+}

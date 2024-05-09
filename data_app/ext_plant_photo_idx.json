@@ -57174,5 +57174,505 @@
     "wiki_page": {
       "summary_short": "Mesua ferrea, the Ceylon ironwood,  or cobra saffron, is a species in the family Calophyllaceae native to the Indomalayan realm. This slow-growing tree is named after the heaviness and hardness of its timber. It is widely cultivated as an ornamental for its graceful shape, grayish-green foliage with a beautiful pink to red flush of drooping young leaves, and large, fragrant white flowers. It is the national tree of Sri Lanka, as well as the state tree of Mizoram and state flower of Tripura in ..."
     }
+  },
+  "Photo-2024-05-09-06-17-01": {
+    "id": "Photo-2024-05-09-06-17-01",
+    "ut": 1715215621,
+    "latlng": {
+      "lat": 6.914517,
+      "lng": 79.859633
+    },
+    "image_path": "data\\images\\Photo-2024-05-09-06-17-01.jpg",
+    "direction": 125.275390625,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Combretum indicum": 0.59464
+      }
+    },
+    "species": {
+      "name": "Combretum indicum",
+      "authorship": "(L.) DeFilipps",
+      "iucn_category": null,
+      "common_names": [
+        "Madhumalti",
+        "Rangoon creeper",
+        "\u092e\u0927\u0941\u092e\u093e\u0932\u0924\u0940"
+      ],
+      "genus_name": "Combretum",
+      "family_name": "Combretaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Combretum indicum, also commonly known as the Rangoon creeper or Burma creeper, is a vine with red flower clusters which is native to tropical Asia and grows in thickets, primary and secondary forest, and along river banks in the Indian subcontinent, Malaysia and the Philippines.:\u200a547\u200a It has since been cultivated and naturalized in tropical areas such as Burma, Vietnam, and Thailand.\nThis plant is grown as an ornament."
+    }
+  },
+  "Photo-2024-05-09-06-17-22": {
+    "id": "Photo-2024-05-09-06-17-22",
+    "ut": 1715215642,
+    "latlng": {
+      "lat": 6.913228,
+      "lng": 79.859519
+    },
+    "image_path": "data\\images\\Photo-2024-05-09-06-17-22.jpg",
+    "direction": 167.13609281906554,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Adenanthera pavonina": 0.87012,
+        "Albizia lebbeck": 0.0063,
+        "Gleditsia triacanthos": 0.00475,
+        "Tara spinosa": 0.00467,
+        "Gleditsia japonica": 0.00313
+      }
+    },
+    "species": {
+      "name": "Adenanthera pavonina",
+      "authorship": "L.",
+      "iucn_category": "LC",
+      "common_names": [
+        "Coralwood",
+        "Kusandana",
+        "Madatiya",
+        "Madhatiya",
+        "Manjadi",
+        "Red sandalwood-tree",
+        "Sandal beadtree",
+        "Tilam"
+      ],
+      "genus_name": "Adenanthera",
+      "family_name": "Fabaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Adenanthera pavonina  is a perennial and non-climbing species of leguminous tree.  Its uses include food and drink, traditional medicine, and timber."
+    }
+  },
+  "Photo-2024-05-09-06-17-50": {
+    "id": "Photo-2024-05-09-06-17-50",
+    "ut": 1715215670,
+    "latlng": {
+      "lat": 6.913158,
+      "lng": 79.859511
+    },
+    "image_path": "data\\images\\Photo-2024-05-09-06-17-50.jpg",
+    "direction": 49.7163772557031,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Combretum indicum": 0.15892,
+        "Cananga odorata": 0.0606,
+        "Pachystachys coccinea": 0.03358,
+        "Celtis gomphophylla": 0.02753,
+        "Uncaria macrophylla": 0.02393
+      }
+    },
+    "species": {
+      "name": "Combretum indicum",
+      "authorship": "(L.) DeFilipps",
+      "iucn_category": null,
+      "common_names": [
+        "Madhumalti",
+        "Rangoon creeper",
+        "\u092e\u0927\u0941\u092e\u093e\u0932\u0924\u0940"
+      ],
+      "genus_name": "Combretum",
+      "family_name": "Combretaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Combretum indicum, also commonly known as the Rangoon creeper or Burma creeper, is a vine with red flower clusters which is native to tropical Asia and grows in thickets, primary and secondary forest, and along river banks in the Indian subcontinent, Malaysia and the Philippines.:\u200a547\u200a It has since been cultivated and naturalized in tropical areas such as Burma, Vietnam, and Thailand.\nThis plant is grown as an ornament."
+    }
+  },
+  "Photo-2024-05-09-06-18-39": {
+    "id": "Photo-2024-05-09-06-18-39",
+    "ut": 1715215719,
+    "latlng": {
+      "lat": 6.912878,
+      "lng": 79.859847
+    },
+    "image_path": "data\\images\\Photo-2024-05-09-06-18-39.jpg",
+    "direction": 217.41943359375,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Combretum indicum": 0.37802,
+        "Kopsia fruticosa": 0.00132,
+        "Combretum mussaendiflorum": 0.00106
+      }
+    },
+    "species": {
+      "name": "Combretum indicum",
+      "authorship": "(L.) DeFilipps",
+      "iucn_category": null,
+      "common_names": [
+        "Madhumalti",
+        "Rangoon creeper",
+        "\u092e\u0927\u0941\u092e\u093e\u0932\u0924\u0940"
+      ],
+      "genus_name": "Combretum",
+      "family_name": "Combretaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Combretum indicum, also commonly known as the Rangoon creeper or Burma creeper, is a vine with red flower clusters which is native to tropical Asia and grows in thickets, primary and secondary forest, and along river banks in the Indian subcontinent, Malaysia and the Philippines.:\u200a547\u200a It has since been cultivated and naturalized in tropical areas such as Burma, Vietnam, and Thailand.\nThis plant is grown as an ornament."
+    }
+  },
+  "Photo-2024-05-09-06-23-54": {
+    "id": "Photo-2024-05-09-06-23-54",
+    "ut": 1715216034,
+    "latlng": {
+      "lat": 6.912328,
+      "lng": 79.862914
+    },
+    "image_path": "data\\images\\Photo-2024-05-09-06-23-54.jpg",
+    "direction": 349.09640522875816,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Mesua ferrea": 0.95953
+      }
+    },
+    "species": {
+      "name": "Mesua ferrea",
+      "authorship": "L.",
+      "iucn_category": null,
+      "common_names": [
+        "Ceylon Ironwood",
+        "Cirunakappu",
+        "Iron Wood Tree",
+        "Mesua",
+        "Na",
+        "Naa",
+        "Nagakesarah Nagapuspa",
+        "Nangu"
+      ],
+      "genus_name": "Mesua",
+      "family_name": "Calophyllaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Mesua ferrea, the Ceylon ironwood,  or cobra saffron, is a species in the family Calophyllaceae native to the Indomalayan realm. This slow-growing tree is named after the heaviness and hardness of its timber. It is widely cultivated as an ornamental for its graceful shape, grayish-green foliage with a beautiful pink to red flush of drooping young leaves, and large, fragrant white flowers. It is the national tree of Sri Lanka, as well as the state tree of Mizoram and state flower of Tripura in ..."
+    }
+  },
+  "Photo-2024-05-09-06-29-13": {
+    "id": "Photo-2024-05-09-06-29-13",
+    "ut": 1715216353,
+    "latlng": {
+      "lat": 6.914344,
+      "lng": 79.863128
+    },
+    "image_path": "data\\images\\Photo-2024-05-09-06-29-13.jpg",
+    "direction": 249.86910994764398,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Mesua ferrea": 0.31636,
+        "Oncoba spinosa": 0.02383,
+        "Camellia sinensis": 0.01781,
+        "Eschweilera ovata": 0.01578,
+        "Calophyllum caledonicum": 0.01222
+      }
+    },
+    "species": {
+      "name": "Mesua ferrea",
+      "authorship": "L.",
+      "iucn_category": null,
+      "common_names": [
+        "Ceylon Ironwood",
+        "Cirunakappu",
+        "Iron Wood Tree",
+        "Mesua",
+        "Na",
+        "Naa",
+        "Nagakesarah Nagapuspa",
+        "Nangu"
+      ],
+      "genus_name": "Mesua",
+      "family_name": "Calophyllaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Mesua ferrea, the Ceylon ironwood,  or cobra saffron, is a species in the family Calophyllaceae native to the Indomalayan realm. This slow-growing tree is named after the heaviness and hardness of its timber. It is widely cultivated as an ornamental for its graceful shape, grayish-green foliage with a beautiful pink to red flush of drooping young leaves, and large, fragrant white flowers. It is the national tree of Sri Lanka, as well as the state tree of Mizoram and state flower of Tripura in ..."
+    }
+  },
+  "Photo-2024-05-09-06-30-38": {
+    "id": "Photo-2024-05-09-06-30-38",
+    "ut": 1715216438,
+    "latlng": {
+      "lat": 6.914022,
+      "lng": 79.863419
+    },
+    "image_path": "data\\images\\Photo-2024-05-09-06-30-38.jpg",
+    "direction": 345.23382577687215,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Mesua ferrea": 0.83674,
+        "Oncoba spinosa": 0.00275,
+        "Gordonia fruticosa": 0.00248,
+        "Calophyllum caledonicum": 0.00207,
+        "Eucalyptus camaldulensis": 0.00101
+      }
+    },
+    "species": {
+      "name": "Mesua ferrea",
+      "authorship": "L.",
+      "iucn_category": null,
+      "common_names": [
+        "Ceylon Ironwood",
+        "Cirunakappu",
+        "Iron Wood Tree",
+        "Mesua",
+        "Na",
+        "Naa",
+        "Nagakesarah Nagapuspa",
+        "Nangu"
+      ],
+      "genus_name": "Mesua",
+      "family_name": "Calophyllaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Mesua ferrea, the Ceylon ironwood,  or cobra saffron, is a species in the family Calophyllaceae native to the Indomalayan realm. This slow-growing tree is named after the heaviness and hardness of its timber. It is widely cultivated as an ornamental for its graceful shape, grayish-green foliage with a beautiful pink to red flush of drooping young leaves, and large, fragrant white flowers. It is the national tree of Sri Lanka, as well as the state tree of Mizoram and state flower of Tripura in ..."
+    }
+  },
+  "Photo-2024-05-09-06-31-33": {
+    "id": "Photo-2024-05-09-06-31-33",
+    "ut": 1715216493,
+    "latlng": {
+      "lat": 6.913875,
+      "lng": 79.863578
+    },
+    "image_path": "data\\images\\Photo-2024-05-09-06-31-33.jpg",
+    "direction": 306.1885988279169,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Mesua ferrea": 0.37373,
+        "Calophyllum caledonicum": 0.02491,
+        "Oncoba spinosa": 0.0129,
+        "Camellia fraterna": 0.00997,
+        "Camellia yunnanensis": 0.00841
+      }
+    },
+    "species": {
+      "name": "Mesua ferrea",
+      "authorship": "L.",
+      "iucn_category": null,
+      "common_names": [
+        "Ceylon Ironwood",
+        "Cirunakappu",
+        "Iron Wood Tree",
+        "Mesua",
+        "Na",
+        "Naa",
+        "Nagakesarah Nagapuspa",
+        "Nangu"
+      ],
+      "genus_name": "Mesua",
+      "family_name": "Calophyllaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Mesua ferrea, the Ceylon ironwood,  or cobra saffron, is a species in the family Calophyllaceae native to the Indomalayan realm. This slow-growing tree is named after the heaviness and hardness of its timber. It is widely cultivated as an ornamental for its graceful shape, grayish-green foliage with a beautiful pink to red flush of drooping young leaves, and large, fragrant white flowers. It is the national tree of Sri Lanka, as well as the state tree of Mizoram and state flower of Tripura in ..."
+    }
+  },
+  "Photo-2024-05-09-06-36-54": {
+    "id": "Photo-2024-05-09-06-36-54",
+    "ut": 1715216814,
+    "latlng": {
+      "lat": 6.91425,
+      "lng": 79.863503
+    },
+    "image_path": "data\\images\\Photo-2024-05-09-06-36-54.jpg",
+    "direction": 147.43525686136525,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Mesua ferrea": 0.63728,
+        "Oncoba spinosa": 0.03748,
+        "Camellia yunnanensis": 0.00821,
+        "Camellia fraterna": 0.00449,
+        "Calophyllum caledonicum": 0.00435
+      }
+    },
+    "species": {
+      "name": "Mesua ferrea",
+      "authorship": "L.",
+      "iucn_category": null,
+      "common_names": [
+        "Ceylon Ironwood",
+        "Cirunakappu",
+        "Iron Wood Tree",
+        "Mesua",
+        "Na",
+        "Naa",
+        "Nagakesarah Nagapuspa",
+        "Nangu"
+      ],
+      "genus_name": "Mesua",
+      "family_name": "Calophyllaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Mesua ferrea, the Ceylon ironwood,  or cobra saffron, is a species in the family Calophyllaceae native to the Indomalayan realm. This slow-growing tree is named after the heaviness and hardness of its timber. It is widely cultivated as an ornamental for its graceful shape, grayish-green foliage with a beautiful pink to red flush of drooping young leaves, and large, fragrant white flowers. It is the national tree of Sri Lanka, as well as the state tree of Mizoram and state flower of Tripura in ..."
+    }
+  },
+  "Photo-2024-05-09-06-37-28": {
+    "id": "Photo-2024-05-09-06-37-28",
+    "ut": 1715216848,
+    "latlng": {
+      "lat": 6.914225,
+      "lng": 79.863586
+    },
+    "image_path": "data\\images\\Photo-2024-05-09-06-37-28.jpg",
+    "direction": 269.7355958958169,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Diospyros mespiliformis": 0.33132,
+        "Ziziphus jujuba": 0.04101,
+        "Diospyros blancoi": 0.03727,
+        "Arbutus andrachne": 0.01956,
+        "Salix pentandra": 0.01194
+      }
+    },
+    "species": {
+      "name": "Diospyros mespiliformis",
+      "authorship": "Hochst. ex A.DC.",
+      "iucn_category": "LC",
+      "common_names": [
+        "Ebony diospyros",
+        "Kalum",
+        "West African Ebony"
+      ],
+      "genus_name": "Diospyros",
+      "family_name": "Ebenaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Diospyros mespiliformis, the jackalberry (also known as African ebony and by its Afrikaans name jakkalsbessie), is a large dioecious evergreen tree found mostly in the savannas of Africa. Jackals are fond of the fruit, hence the common names. It is a member of the family Ebenaceae, and is related to the true ebony (D. ebenum) and edible persimmon (D. kaki)."
+    }
+  },
+  "Photo-2024-05-09-06-42-05": {
+    "id": "Photo-2024-05-09-06-42-05",
+    "ut": 1715217125,
+    "latlng": {
+      "lat": 6.915469,
+      "lng": 79.861786
+    },
+    "image_path": "data\\images\\Photo-2024-05-09-06-42-05.jpg",
+    "direction": 355.0473328324568,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Aegle marmelos": 0.24517,
+        "Entada phaseoloides": 0.02905,
+        "Akebia quinata": 0.01818,
+        "Flacourtia jangomas": 0.01763,
+        "Kigelia africana": 0.01524
+      }
+    },
+    "species": {
+      "name": "Aegle marmelos",
+      "authorship": "(L.) Corr\u00eaa",
+      "iucn_category": "NT",
+      "common_names": [
+        "Adhararuha",
+        "Beli",
+        "Bila",
+        "Indian bael",
+        "Kuvilam",
+        "Shreephal",
+        "Sivadrumah",
+        "Tripatre",
+        "Vilvam",
+        "\u0c2e\u0c3e\u0c30\u0c47\u0c21\u0c41"
+      ],
+      "genus_name": "Aegle",
+      "family_name": "Rutaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Aegle marmelos, commonly known as bael (or bili or bhel), also Bengal quince, golden apple, Japanese bitter orange, stone apple or wood apple, is a species of tree native to the Indian subcontinent and Southeast Asia. It is present in India, Pakistan, Bangladesh, Sri Lanka, and Nepal as a naturalized species. The tree is considered to be sacred by Hindus and Buddhists."
+    }
+  },
+  "Photo-2024-05-09-06-45-22": {
+    "id": "Photo-2024-05-09-06-45-22",
+    "ut": 1715217322,
+    "latlng": {
+      "lat": 6.913472,
+      "lng": 79.862472
+    },
+    "image_path": "data\\images\\Photo-2024-05-09-06-45-22.jpg",
+    "direction": 284.92584227366837,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Dypsis lutescens": 0.62142,
+        "Dictyosperma album": 0.12143,
+        "Phoenix roebelenii": 0.01478,
+        "Dypsis decaryi": 0.0141,
+        "Phoenix reclinata": 0.01067
+      }
+    },
+    "species": {
+      "name": "Dypsis lutescens",
+      "authorship": "(H.Wendl.) Beentje & J.Dransf.",
+      "iucn_category": "NT",
+      "common_names": [
+        "Areca palm",
+        "Butterfly palm",
+        "Yellow butterfly palm"
+      ],
+      "genus_name": "Dypsis",
+      "family_name": "Arecaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Dypsis lutescens, also known as golden cane palm, areca palm, yellow palm, butterfly palm, or bamboo palm, is a species of flowering plant in the family Arecaceae, native to Madagascar and naturalized in the Andaman Islands, Thailand, Vietnam, R\u00e9union, El Salvador, Cuba, Puerto Rico, the Canary Islands, southern Florida, Haiti, the Dominican Republic, Jamaica, the Leeward Islands and the Leeward Antilles. Its native names are rehazo and lafahazo (from Malagasy hazo 'tree' with reha 'pride' and ..."
+    }
+  },
+  "Photo-2024-05-09-06-45-26": {
+    "id": "Photo-2024-05-09-06-45-26",
+    "ut": 1715217326,
+    "latlng": {
+      "lat": 6.91385,
+      "lng": 79.861939
+    },
+    "image_path": "data\\images\\Photo-2024-05-09-06-45-26.jpg",
+    "direction": 310.50576752440105,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Vitex pinnata": 0.10067,
+        "Nephelium lappaceum": 0.04993,
+        "Pongamia pinnata": 0.04403,
+        "Centrosema pubescens": 0.02726,
+        "Spathodea campanulata": 0.02696
+      }
+    },
+    "species": {
+      "name": "Vitex pinnata",
+      "authorship": "L.",
+      "iucn_category": "LC",
+      "common_names": [
+        "Man\u00e8"
+      ],
+      "genus_name": "Vitex",
+      "family_name": "Lamiaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Vitex pinnata is  a tree of the family Lamiaceae. It is native to south and south east Asia. It grows slowly, ultimately reaching 20 metres in height with 1\u20133 m. circumference trunk. It features a grey-brown-yellow bark. Its leaves are scented."
+    }
+  },
+  "Photo-2024-05-09-06-49-59": {
+    "id": "Photo-2024-05-09-06-49-59",
+    "ut": 1715217599,
+    "latlng": {
+      "lat": 6.913039,
+      "lng": 79.860939
+    },
+    "image_path": "data\\images\\Photo-2024-05-09-06-49-59.jpg",
+    "direction": 27.701274859765427,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Hymenocallis littoralis": 0.62986,
+        "Hymenocallis caribaea": 0.0946,
+        "Hymenocallis liriosme": 0.05167,
+        "Hymenocallis latifolia": 0.02893,
+        "Hymenocallis tubiflora": 0.02809
+      }
+    },
+    "species": {
+      "name": "Hymenocallis littoralis",
+      "authorship": "(Jacq.) Salisb.",
+      "iucn_category": null,
+      "common_names": [
+        "Beach spiderlily",
+        "Tropical Spider-Lily"
+      ],
+      "genus_name": "Hymenocallis",
+      "family_name": "Amaryllidaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Hymenocallis littoralis, commonly known as the beach spider lily, is a species of plant in the amaryllis family Amaryllidaceae. It is native to warmer coastal regions of Latin America and a widely cultivated and naturalized plant in many tropical countries."
+    }
   }
 }

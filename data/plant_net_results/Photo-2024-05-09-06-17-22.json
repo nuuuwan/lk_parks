@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1715220233.4812794,
+  "plant_photo_id": "Photo-2024-05-09-06-17-22",
+  "species_name_to_score": {
+    "Adenanthera pavonina": 0.87012,
+    "Albizia lebbeck": 0.0063,
+    "Gleditsia triacanthos": 0.00475,
+    "Tara spinosa": 0.00467,
+    "Gleditsia japonica": 0.00313,
+    "Entada africana": 0.00283,
+    "Gleditsia sinensis": 0.00239,
+    "Libidibia punctata": 0.0022,
+    "Chloroleucon mangense": 0.00191,
+    "Calpurnia aurea": 0.00162
+  }
+}

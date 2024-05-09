@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1715220263.4087605,
+  "plant_photo_id": "Photo-2024-05-09-06-45-22",
+  "species_name_to_score": {
+    "Dypsis lutescens": 0.62142,
+    "Dictyosperma album": 0.12143,
+    "Phoenix roebelenii": 0.01478,
+    "Dypsis decaryi": 0.0141,
+    "Phoenix reclinata": 0.01067,
+    "Dypsis baronii": 0.0063,
+    "Cocos nucifera": 0.00619,
+    "Chamaedorea tepejilote": 0.00592,
+    "Areca triandra": 0.00504,
+    "Ptychosperma salomonense": 0.0043
+  }
+}
