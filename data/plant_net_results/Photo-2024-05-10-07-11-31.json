@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1715496723.635034,
+  "plant_photo_id": "Photo-2024-05-10-07-11-31",
+  "species_name_to_score": {
+    "Syzygium cumini": 0.85444,
+    "Syzygium jambos": 0.01773,
+    "Annona montana": 0.0095,
+    "Syzygium guineense": 0.00755,
+    "Calophyllum inophyllum": 0.00521,
+    "Aspidosperma polyneuron": 0.00369,
+    "Eschweilera ovata": 0.00328,
+    "Annona muricata": 0.00246,
+    "Ficus retusa": 0.00193,
+    "Psidium cattleyanum": 0.00186
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ut_api_call": 1715496720.9958766,
+  "plant_photo_id": "Photo-2024-05-10-06-46-37",
+  "species_name_to_score": {
+    "Couroupita guianensis": 0.97684,
+    "Arbutus canariensis": 0.00385,
+    "Arbutus menziesii": 0.00353,
+    "Bursera tomentosa": 0.00152
+  }
+}

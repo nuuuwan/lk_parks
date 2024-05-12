@@ -57674,5 +57674,147 @@
     "wiki_page": {
       "summary_short": "Hymenocallis littoralis, commonly known as the beach spider lily, is a species of plant in the amaryllis family Amaryllidaceae. It is native to warmer coastal regions of Latin America and a widely cultivated and naturalized plant in many tropical countries."
     }
+  },
+  "Photo-2024-05-10-06-39-15": {
+    "id": "Photo-2024-05-10-06-39-15",
+    "ut": 1715303355,
+    "latlng": {
+      "lat": 6.914922,
+      "lng": 79.859978
+    },
+    "image_path": "data\\images\\Photo-2024-05-10-06-39-15.jpg",
+    "direction": 70.89821627647714,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Delonix regia": 0.47881,
+        "Caesalpinia pulcherrima": 0.0019,
+        "Delonix floribunda": 0.00108
+      }
+    },
+    "species": {
+      "name": "Delonix regia",
+      "authorship": "(Bojer) Raf.",
+      "iucn_category": "LC",
+      "common_names": [
+        "Flamboyant",
+        "Flame-of-the-forest",
+        "Flametree"
+      ],
+      "genus_name": "Delonix",
+      "family_name": "Fabaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Delonix regia is a species of flowering plant in the bean family Fabaceae, subfamily Caesalpinioideae native to Madagascar. It is noted for its fern-like leaves and flamboyant display of orange-red flowers over summer. In many tropical parts of the world it is grown as an ornamental tree and in English it is given the name royal poinciana, flamboyant, phoenix flower, flame of the forest, or flame tree (one of several species given this name).\nThis species was previously placed in the genus ..."
+    }
+  },
+  "Photo-2024-05-10-06-46-37": {
+    "id": "Photo-2024-05-10-06-46-37",
+    "ut": 1715303797,
+    "latlng": {
+      "lat": 6.911925,
+      "lng": 79.859536
+    },
+    "image_path": "data\\images\\Photo-2024-05-10-06-46-37.jpg",
+    "direction": 39.66533277169334,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Couroupita guianensis": 0.97684,
+        "Arbutus canariensis": 0.00385,
+        "Arbutus menziesii": 0.00353,
+        "Bursera tomentosa": 0.00152
+      }
+    },
+    "species": {
+      "name": "Couroupita guianensis",
+      "authorship": "Aubl.",
+      "iucn_category": "LC",
+      "common_names": [
+        "Cannon ball tree",
+        "Cannonball-tree",
+        "Kunturukkam",
+        "Naagalingam Tree",
+        "Nagakesara",
+        "Salgaha",
+        "\u0c28\u0c3e\u0c17 \u0c2e\u0c32\u0c4d\u0c32\u0c3f"
+      ],
+      "genus_name": "Couroupita",
+      "family_name": "Lecythidaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Couroupita guianensis, known by a variety of common names including cannonball tree, is a deciduous tree in the flowering plant family Lecythidaceae. It is native to the tropical forests of Central and South America, and it is cultivated in many other tropical areas throughout the world because of its fragrant flowers and large fruits, which are brownish grey. There are potential medicinal uses for many parts of Couroupita guianensis, and the tree has cultural and religious significance in ..."
+    }
+  },
+  "Photo-2024-05-10-07-11-31": {
+    "id": "Photo-2024-05-10-07-11-31",
+    "ut": 1715305291,
+    "latlng": {
+      "lat": 6.915669,
+      "lng": 79.861739
+    },
+    "image_path": "data\\images\\Photo-2024-05-10-07-11-31.jpg",
+    "direction": 214.81596339603456,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Syzygium cumini": 0.85444,
+        "Syzygium jambos": 0.01773,
+        "Annona montana": 0.0095,
+        "Syzygium guineense": 0.00755,
+        "Calophyllum inophyllum": 0.00521
+      }
+    },
+    "species": {
+      "name": "Syzygium cumini",
+      "authorship": "(L.) Skeels",
+      "iucn_category": "LC",
+      "common_names": [
+        "Jaman",
+        "Kaadan",
+        "Kalu Dan",
+        "Madan",
+        "Naaval Pazham",
+        "Naavali",
+        "\u091c\u093e\u092e\u0941\u0928",
+        "\u0c05\u0c32\u0c4d\u0c32\u0c28\u0c47\u0c30\u0c47\u0c21\u0c41"
+      ],
+      "genus_name": "Syzygium",
+      "family_name": "Myrtaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Syzygium cumini, commonly known as Malabar plum, Java plum, black plum, jamun, jaman, jambul, or jambolan, is an evergreen tropical tree in the flowering plant family Myrtaceae, and favored for its fruit, timber, and ornamental value. It is native to the Indian subcontinent and Southeast Asia, including Myanmar, Sri Lanka, Bangladesh and the Andaman Islands. It can reach heights of up to 30 metres (98 ft) and can live more than 100 years. A rapidly growing plant, it is considered an invasive ..."
+    }
+  },
+  "Photo-2024-05-10-07-11-44": {
+    "id": "Photo-2024-05-10-07-11-44",
+    "ut": 1715305304,
+    "latlng": {
+      "lat": 6.915475,
+      "lng": 79.862092
+    },
+    "image_path": "data\\images\\Photo-2024-05-10-07-11-44.jpg",
+    "direction": 129.12187195320118,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Guaiacum officinale": 0.04193,
+        "Zanthoxylum fagara": 0.03723,
+        "Paubrasilia echinata": 0.03274,
+        "Searsia crenata": 0.01979,
+        "Searsia natalensis": 0.01779
+      }
+    },
+    "species": {
+      "name": "Guaiacum officinale",
+      "authorship": "L.",
+      "iucn_category": "EN",
+      "common_names": [
+        "Guaiacum",
+        "Guayacan",
+        "Lignum-vitae"
+      ],
+      "genus_name": "Guaiacum",
+      "family_name": "Zygophyllaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Guaiacum officinale, commonly known as roughbark lignum-vitae, guaiacwood or ga\u00efacwood, is a species of tree in the caltrop family, Zygophyllaceae, that is native to the Caribbean and the northern coast of South America."
+    }
   }
 }

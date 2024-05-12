@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1715496726.2575343,
+  "plant_photo_id": "Photo-2024-05-10-07-11-44",
+  "species_name_to_score": {
+    "Guaiacum officinale": 0.04193,
+    "Zanthoxylum fagara": 0.03723,
+    "Paubrasilia echinata": 0.03274,
+    "Searsia crenata": 0.01979,
+    "Searsia natalensis": 0.01779,
+    "Pithecellobium unguis-cati": 0.01674,
+    "Citrus trifoliata": 0.00964,
+    "Dermatophyllum secundiflorum": 0.00955,
+    "Commiphora kataf": 0.00923,
+    "Crossopetalum rhacoma": 0.00829
+  }
+}
