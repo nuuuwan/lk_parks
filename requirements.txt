@@ -1,3 +1,7 @@
+# HACK!
+numpy<2
+
+# Others
 utils-nuuuwan
 exif
 selenium
