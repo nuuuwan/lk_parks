@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1719569861.6356583,
+  "plant_photo_id": "Photo-2024-06-15-06-53-11",
+  "species_name_to_score": {
+    "Cassia fistula": 0.14102,
+    "Nandina domestica": 0.06797,
+    "Pandorea jasminoides": 0.02477,
+    "Spondias dulcis": 0.02304,
+    "Fraxinus americana": 0.01664,
+    "Fraxinus pennsylvanica": 0.01644,
+    "Styphnolobium japonicum": 0.0134,
+    "Secamone elliptica": 0.01081,
+    "Gliricidia sepium": 0.01078,
+    "Wisteria floribunda": 0.00987
+  }
+}

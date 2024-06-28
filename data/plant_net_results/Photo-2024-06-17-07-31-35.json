@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1719569881.2042124,
+  "plant_photo_id": "Photo-2024-06-17-07-31-35",
+  "species_name_to_score": {
+    "Dendrobium victoriae-reginae": 0.50531,
+    "Dendrobium aphyllum": 0.06624,
+    "Dendrobium nobile": 0.03577,
+    "Dendrobium crumenatum": 0.02485,
+    "Dendrobium kingianum": 0.02049,
+    "Dendrobium bigibbum": 0.00811,
+    "Myrmecophila tibicinis": 0.00514,
+    "Epidendrum atacazoicum": 0.00379,
+    "Ionopsis utricularioides": 0.00354,
+    "Epidendrum porphyreum": 0.00342
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1719569910.015759,
+  "plant_photo_id": "Photo-2024-06-19-07-33-14",
+  "species_name_to_score": {
+    "Gardenia jasminoides": 0.53627,
+    "Gardenia taitensis": 0.18949,
+    "Jasminum sambac": 0.02799,
+    "Tabernaemontana divaricata": 0.02525,
+    "Tabernaemontana africana": 0.00298,
+    "Wrightia antidysenterica": 0.00217,
+    "Eugenia brasiliensis": 0.00206,
+    "Gardenia gummifera": 0.00196,
+    "Gardenia brighamii": 0.00175,
+    "Magnolia virginiana": 0.00167
+  }
+}

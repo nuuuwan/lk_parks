@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1719569915.0266514,
+  "plant_photo_id": "Photo-2024-06-28-07-19-36",
+  "species_name_to_score": {
+    "Wodyetia bifurcata": 0.80061,
+    "Adonidia merrillii": 0.07486,
+    "Syagrus romanzoffiana": 0.03831,
+    "Areca catechu": 0.00977,
+    "Phoenix dactylifera": 0.00383,
+    "Chambeyronia oliviformis": 0.00349,
+    "Roystonea regia": 0.00209,
+    "Butia capitata": 0.00209,
+    "Cocos nucifera": 0.00198,
+    "Astrocaryum standleyanum": 0.00157
+  }
+}

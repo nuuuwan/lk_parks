@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1719569854.7721293,
+  "plant_photo_id": "Photo-2024-06-15-06-52-44",
+  "species_name_to_score": {
+    "Poliothyrsis sinensis": 0.05349,
+    "Catalpa ovata": 0.03504,
+    "Hernandia stenura": 0.02829,
+    "Premna serratifolia": 0.01699,
+    "Paulownia tomentosa": 0.01244,
+    "Catalpa bignonioides": 0.01076,
+    "Christiana africana": 0.01068,
+    "Mallotus oppositifolius": 0.00938,
+    "Pterygota alata": 0.00849,
+    "Cissus verticillata": 0.00809
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1719569888.7547903,
+  "plant_photo_id": "Photo-2024-06-17-07-33-20",
+  "species_name_to_score": {
+    "Mangifera indica": 0.05148,
+    "Quercus humboldtii": 0.04116,
+    "Quercus phellos": 0.03378,
+    "Quercus imbricaria": 0.03218,
+    "Crescentia cujete": 0.02679,
+    "Xanthostemon chrysanthus": 0.01389,
+    "Salix integra": 0.01192,
+    "Dodonaea viscosa": 0.01157,
+    "Cordia alliodora": 0.0109,
+    "Quercus castaneifolia": 0.01068
+  }
+}

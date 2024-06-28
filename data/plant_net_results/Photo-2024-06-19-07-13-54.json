@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1719569901.5952466,
+  "plant_photo_id": "Photo-2024-06-19-07-13-54",
+  "species_name_to_score": {
+    "Diospyros mespiliformis": 0.3177,
+    "Umbellularia californica": 0.08166,
+    "Diospyros blancoi": 0.05459,
+    "Arbutus andrachne": 0.02703,
+    "Litchi chinensis": 0.0178,
+    "Ziziphus jujuba": 0.01537,
+    "Ocotea diospyrifolia": 0.01276,
+    "Diospyros malabarica": 0.01145,
+    "Arbutus canariensis": 0.009,
+    "Ocotea foetens": 0.00643
+  }
+}

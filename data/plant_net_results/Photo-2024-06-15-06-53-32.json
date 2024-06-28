@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1719569864.8059506,
+  "plant_photo_id": "Photo-2024-06-15-06-53-32",
+  "species_name_to_score": {
+    "Murraya paniculata": 0.14097,
+    "Brunfelsia uniflora": 0.06469,
+    "Jasminum grandiflorum": 0.03066,
+    "Citrus aurantium": 0.02253,
+    "Jasminum sambac": 0.02078,
+    "Brunfelsia australis": 0.01908,
+    "Citrus maxima": 0.01896,
+    "Coccinia grandis": 0.01176,
+    "Gardenia jasminoides": 0.00569,
+    "Brunfelsia pauciflora": 0.00564
+  }
+}

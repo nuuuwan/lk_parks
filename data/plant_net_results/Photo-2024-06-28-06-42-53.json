@@ -1,0 +1,15 @@
+{
+  "ut_api_call": 1719569912.5590158,
+  "plant_photo_id": "Photo-2024-06-28-06-42-53",
+  "species_name_to_score": {
+    "Lagerstroemia speciosa": 0.75997,
+    "Solanum bonariense": 0.00846,
+    "Vitex parviflora": 0.00405,
+    "Banisteriopsis caapi": 0.00336,
+    "Solanum crispum": 0.00228,
+    "Vitex negundo": 0.00166,
+    "Lagerstroemia limii": 0.00152,
+    "Lagerstroemia indica": 0.0013,
+    "Syringa persica": 0.00116
+  }
+}

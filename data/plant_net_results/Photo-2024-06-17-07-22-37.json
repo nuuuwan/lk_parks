@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1719569875.5067139,
+  "plant_photo_id": "Photo-2024-06-17-07-22-37",
+  "species_name_to_score": {
+    "Hippeastrum reticulatum": 0.46796,
+    "Amaryllis belladonna": 0.23125,
+    "Crinum bulbispermum": 0.06196,
+    "Crinum moorei": 0.01983,
+    "Hippeastrum striatum": 0.0155,
+    "Hippeastrum reginae": 0.01114,
+    "Hippeastrum vittatum": 0.00922,
+    "Zephyranthes robusta": 0.00875,
+    "Crinum powellii": 0.00609,
+    "Hippeastrum correiense": 0.00582
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1719569919.014097,
+  "plant_photo_id": "Photo-2024-06-28-07-20-47",
+  "species_name_to_score": {
+    "Cercidiphyllum japonicum": 0.09365,
+    "Bauhinia variegata": 0.07061,
+    "Bauhinia purpurea": 0.06071,
+    "Robinia pseudoacacia": 0.05999,
+    "Cleistanthus collinus": 0.04051,
+    "Tipuana tipu": 0.02779,
+    "Annona senegalensis": 0.02605,
+    "Bridelia mollis": 0.02519,
+    "Breynia disticha": 0.02227,
+    "Annona cherimola": 0.01468
+  }
+}

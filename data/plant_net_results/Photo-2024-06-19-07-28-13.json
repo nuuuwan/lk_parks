@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1719569906.8621752,
+  "plant_photo_id": "Photo-2024-06-19-07-28-13",
+  "species_name_to_score": {
+    "Inga alba": 0.0224,
+    "Toxicodendron radicans": 0.02098,
+    "Picrasma excelsa": 0.01911,
+    "Bignonia capreolata": 0.01835,
+    "Paullinia cupana": 0.01824,
+    "Fraxinus latifolia": 0.01482,
+    "Fraxinus caroliniana": 0.01135,
+    "Toona ciliata": 0.00945,
+    "Swietenia macrophylla": 0.00923,
+    "Toxicodendron pubescens": 0.00879
+  }
+}

@@ -57816,5 +57816,684 @@
     "wiki_page": {
       "summary_short": "Guaiacum officinale, commonly known as roughbark lignum-vitae, guaiacwood or ga\u00efacwood, is a species of tree in the caltrop family, Zygophyllaceae, that is native to the Caribbean and the northern coast of South America."
     }
+  },
+  "Photo-2024-06-15-06-52-44": {
+    "id": "Photo-2024-06-15-06-52-44",
+    "ut": 1718414564,
+    "latlng": {
+      "lat": 6.911681,
+      "lng": 79.861611
+    },
+    "image_path": "data\\images\\Photo-2024-06-15-06-52-44.jpg",
+    "direction": 65.60865015695849,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Poliothyrsis sinensis": 0.05349,
+        "Catalpa ovata": 0.03504,
+        "Hernandia stenura": 0.02829,
+        "Premna serratifolia": 0.01699,
+        "Paulownia tomentosa": 0.01244
+      }
+    },
+    "species": {
+      "name": "Poliothyrsis sinensis",
+      "authorship": "Hook.f.",
+      "iucn_category": "LC",
+      "common_names": [
+        "Chinese Pearlbloom"
+      ],
+      "genus_name": "Poliothyrsis",
+      "family_name": "Salicaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Poliothyrsis is a monotypic genus of flowering plants belonging to the willow family Salicaceae (although placed formerly in the now defunct family Flacourtiaceae (within which it is usually to be found listed in older works of reference)). The single arborescent species is Poliothyrsis sinensis, Chinese common name: \u5c71\u62d0\u67a3 sh\u0101n gu\u01cei z\u01ceo  English common name: Chinese pearl-bloom tree"
+    }
+  },
+  "Photo-2024-06-15-06-53-11": {
+    "id": "Photo-2024-06-15-06-53-11",
+    "ut": 1718414591,
+    "latlng": {
+      "lat": 6.911933,
+      "lng": 79.861458
+    },
+    "image_path": "data\\images\\Photo-2024-06-15-06-53-11.jpg",
+    "direction": 146.15599051008303,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Cassia fistula": 0.14102,
+        "Nandina domestica": 0.06797,
+        "Pandorea jasminoides": 0.02477,
+        "Spondias dulcis": 0.02304,
+        "Fraxinus americana": 0.01664
+      }
+    },
+    "species": {
+      "name": "Cassia fistula",
+      "authorship": "L.",
+      "iucn_category": "LC",
+      "common_names": [
+        "Aehaela",
+        "Amaltas",
+        "Aragvadha",
+        "Ehela",
+        "Golden Shower Tree",
+        "Indian-laburnum",
+        "Konnai",
+        "Konrai",
+        "Mullaimaram"
+      ],
+      "genus_name": "Cassia",
+      "family_name": "Fabaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Cassia fistula, also known as golden shower, purging cassia, Indian laburnum, Kani Konna (Malayalam: \u0d15\u0d23\u0d3f\u0d15\u0d4d\u0d15\u0d4a\u0d28\u0d4d\u0d28),, Konna Poo or pudding-pipe tree, is a flowering plant in the family Fabaceae. The species is native to the Indian subcontinent and adjacent regions of Southeast Asia. It is the official state flower of Kerala state in India. It is also a popular ornamental plant and is also used in herbal medicine."
+    }
+  },
+  "Photo-2024-06-15-06-53-32": {
+    "id": "Photo-2024-06-15-06-53-32",
+    "ut": 1718414612,
+    "latlng": {
+      "lat": 6.912047,
+      "lng": 79.861656
+    },
+    "image_path": "data\\images\\Photo-2024-06-15-06-53-32.jpg",
+    "direction": 98.07146451937594,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Murraya paniculata": 0.14097,
+        "Brunfelsia uniflora": 0.06469,
+        "Jasminum grandiflorum": 0.03066,
+        "Citrus aurantium": 0.02253,
+        "Jasminum sambac": 0.02078
+      }
+    },
+    "species": {
+      "name": "Murraya paniculata",
+      "authorship": "(L.) Jack",
+      "iucn_category": null,
+      "common_names": [
+        "Kamini",
+        "Orange jasmine",
+        "\u0995\u09be\u09ae\u09bf\u09a8\u09c0"
+      ],
+      "genus_name": "Murraya",
+      "family_name": "Rutaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Murraya paniculata, commonly known as orange jasmine, orange jessamine, china box or mock orange, is a species of shrub or small tree in the family Rutaceae and is native to South Asia, Southeast Asia and Australia. It has smooth bark, pinnate leaves with up to seven egg-shaped to elliptical leaflets, fragrant white or cream-coloured flowers and oval, orange-red berries containing hairy seeds."
+    }
+  },
+  "Photo-2024-06-15-07-06-45": {
+    "id": "Photo-2024-06-15-07-06-45",
+    "ut": 1718415405,
+    "latlng": {
+      "lat": 6.914208,
+      "lng": 79.863625
+    },
+    "image_path": "data\\images\\Photo-2024-06-15-07-06-45.jpg",
+    "direction": 207.33113097551495,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Diospyros mespiliformis": 0.42627,
+        "Diospyros blancoi": 0.10484,
+        "Ziziphus jujuba": 0.02283,
+        "Umbellularia californica": 0.01446,
+        "Harpephyllum caffrum": 0.01405
+      }
+    },
+    "species": {
+      "name": "Diospyros mespiliformis",
+      "authorship": "Hochst. ex A.DC.",
+      "iucn_category": "LC",
+      "common_names": [
+        "Ebony diospyros",
+        "Kalum",
+        "West African Ebony"
+      ],
+      "genus_name": "Diospyros",
+      "family_name": "Ebenaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Diospyros mespiliformis, the jackalberry (also known as African ebony and by its Afrikaans name jakkalsbessie), is a large dioecious evergreen tree found mostly in the savannas of Africa. Jackals are fond of the fruit, hence the common names. It is a member of the family Ebenaceae, and is related to the true ebony (D. ebenum) and edible persimmon (D. kaki)."
+    }
+  },
+  "Photo-2024-06-15-07-11-42": {
+    "id": "Photo-2024-06-15-07-11-42",
+    "ut": 1718415702,
+    "latlng": {
+      "lat": 6.915403,
+      "lng": 79.862161
+    },
+    "image_path": "data\\images\\Photo-2024-06-15-07-11-42.jpg",
+    "direction": 305.7156371730662,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Cassia fistula": 0.93768,
+        "Cassia sieberiana": 0.00277,
+        "Laburnum alpinum": 0.00227,
+        "Senna spectabilis": 0.00159,
+        "Laburnum anagyroides": 0.00143
+      }
+    },
+    "species": {
+      "name": "Cassia fistula",
+      "authorship": "L.",
+      "iucn_category": "LC",
+      "common_names": [
+        "Aehaela",
+        "Amaltas",
+        "Aragvadha",
+        "Ehela",
+        "Golden Shower Tree",
+        "Indian-laburnum",
+        "Konnai",
+        "Konrai",
+        "Mullaimaram"
+      ],
+      "genus_name": "Cassia",
+      "family_name": "Fabaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Cassia fistula, also known as golden shower, purging cassia, Indian laburnum, Kani Konna (Malayalam: \u0d15\u0d23\u0d3f\u0d15\u0d4d\u0d15\u0d4a\u0d28\u0d4d\u0d28),, Konna Poo or pudding-pipe tree, is a flowering plant in the family Fabaceae. The species is native to the Indian subcontinent and adjacent regions of Southeast Asia. It is the official state flower of Kerala state in India. It is also a popular ornamental plant and is also used in herbal medicine."
+    }
+  },
+  "Photo-2024-06-17-07-22-37": {
+    "id": "Photo-2024-06-17-07-22-37",
+    "ut": 1718589157,
+    "latlng": {
+      "lat": 6.913422,
+      "lng": 79.861528
+    },
+    "image_path": "data\\images\\Photo-2024-06-17-07-22-37.jpg",
+    "direction": 32.229686714692576,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Hippeastrum reticulatum": 0.46796,
+        "Amaryllis belladonna": 0.23125,
+        "Crinum bulbispermum": 0.06196,
+        "Crinum moorei": 0.01983,
+        "Hippeastrum striatum": 0.0155
+      }
+    },
+    "species": {
+      "name": "Hippeastrum reticulatum",
+      "authorship": "(L'H\u00e9r.) Herb.",
+      "iucn_category": null,
+      "common_names": [
+        "Netted Veined Amaryllis"
+      ],
+      "genus_name": "Hippeastrum",
+      "family_name": "Amaryllidaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Hippeastrum reticulatum, the netted-veined amaryllis, is a flowering perennial herbaceous bulbous plant, in the family Amaryllidaceae, native to South America."
+    }
+  },
+  "Photo-2024-06-17-07-26-32": {
+    "id": "Photo-2024-06-17-07-26-32",
+    "ut": 1718589392,
+    "latlng": {
+      "lat": 6.911683,
+      "lng": 79.861519
+    },
+    "image_path": "data\\images\\Photo-2024-06-17-07-26-32.jpg",
+    "direction": 41.67662048096831,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Terminalia bellirica": 0.05719,
+        "Combretum collinum": 0.03686,
+        "Ficus benghalensis": 0.02086,
+        "Terminalia chebula": 0.02003,
+        "Ficus callosa": 0.01745
+      }
+    },
+    "species": {
+      "name": "Terminalia bellirica",
+      "authorship": "(Gaertn.) Roxb.",
+      "iucn_category": "LC",
+      "common_names": [
+        "Beleric myrobalan",
+        "Belleric",
+        "Belleric myrobalan",
+        "Bhaira",
+        "Bibhitaki",
+        "Bulu",
+        "Pulu",
+        "Tanikkay",
+        "Tanri"
+      ],
+      "genus_name": "Terminalia",
+      "family_name": "Combretaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Terminalia bellirica, known as baheda, bahera, behada, beleric or bastard myrobalan (Arabic: beliledj \u0628\u0644\u064a\u0644\u062c, borrowed from Middle Persian Balilag), Persian \u0628\u0644\u06cc\u0644\u0647 (Balileh), Sanskrit: Vibh\u012btaka \u092c\u093f\u092d\u0940\u0924\u0915, Aksha \u0905\u0915\u094d\u0937) is a large deciduous tree in the Combretaceae family. It is common on the plains and lower hills in South and Southeast Asia, where it is also grown as an avenue tree. The basionym is Myrobalanus bellirica Gaertn. (Fruct. Sem. Pl. 2: 90, t. 97. 1791). William Roxburgh transferred M. ..."
+    }
+  },
+  "Photo-2024-06-17-07-31-35": {
+    "id": "Photo-2024-06-17-07-31-35",
+    "ut": 1718589695,
+    "latlng": {
+      "lat": 6.913839,
+      "lng": 79.860328
+    },
+    "image_path": "data\\images\\Photo-2024-06-17-07-31-35.jpg",
+    "direction": 330.7154538021259,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Dendrobium victoriae-reginae": 0.50531,
+        "Dendrobium aphyllum": 0.06624,
+        "Dendrobium nobile": 0.03577,
+        "Dendrobium crumenatum": 0.02485,
+        "Dendrobium kingianum": 0.02049
+      }
+    },
+    "species": {
+      "name": "Dendrobium victoriae-reginae",
+      "authorship": "Loher",
+      "iucn_category": null,
+      "common_names": [
+        "Queen Victoria's Dendrobium",
+        "\u0627\u0631\u06a9\u06cc\u062f\u0647"
+      ],
+      "genus_name": "Dendrobium",
+      "family_name": "Orchidaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Dendrobium victoriae-reginae (Queen Victoria's dendrobium) is a member of the family Orchidaceae endemic to the Philippines.\nDendrobium victoriae-reginae is a small to medium-sized, warm to cold growing epiphyte with thin, descending, clumping pseudobulbs that rarely branch and carry many, unsubdivided, pointed papery leaves, and inflorescences that are violet or purple with a darker tip and white center of 3 to 4 centimeters. It is found in Montane ecoregion of the Philippines growing on moss ..."
+    }
+  },
+  "Photo-2024-06-17-07-32-12": {
+    "id": "Photo-2024-06-17-07-32-12",
+    "ut": 1718589732,
+    "latlng": {
+      "lat": 6.913553,
+      "lng": 79.8601
+    },
+    "image_path": "data\\images\\Photo-2024-06-17-07-32-12.jpg",
+    "direction": 222.68669131238448,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Monoon longifolium": 0.60293,
+        "Drypetes deplanchei": 0.06002,
+        "Diospyros mespiliformis": 0.05276,
+        "Putranjiva roxburghii": 0.00988,
+        "Moquilea tomentosa": 0.00746
+      }
+    },
+    "species": {
+      "name": "Monoon longifolium",
+      "authorship": "(Sonn.) B.Xue & R.M.K.Saunders",
+      "iucn_category": null,
+      "common_names": [
+        "Ashok",
+        "Ashoka",
+        "Debdaru (HI)"
+      ],
+      "genus_name": "Monoon",
+      "family_name": "Annonaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Monoon longifolium, the false ashoka, also commonly known  by its synonym Polyalthia longifolia, is an Asian small tree species in the family Annonaceae.  It is native to southern India and Sri Lanka, but has been widely introduced elsewhere in tropical Asia. This evergreen tree is known to grow over 20 m. in height and is commonly planted due to its effectiveness in alleviating noise pollution. It exhibits symmetrical pyramidal growth with willowy weeping pendulous branches and long narrow ..."
+    }
+  },
+  "Photo-2024-06-17-07-33-20": {
+    "id": "Photo-2024-06-17-07-33-20",
+    "ut": 1718589800,
+    "latlng": {
+      "lat": 6.913581,
+      "lng": 79.85955
+    },
+    "image_path": "data\\images\\Photo-2024-06-17-07-33-20.jpg",
+    "direction": 279.08245877061466,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Mangifera indica": 0.05148,
+        "Quercus humboldtii": 0.04116,
+        "Quercus phellos": 0.03378,
+        "Quercus imbricaria": 0.03218,
+        "Crescentia cujete": 0.02679
+      }
+    },
+    "species": {
+      "name": "Mangifera indica",
+      "authorship": "L.",
+      "iucn_category": "DD",
+      "common_names": [
+        "Amba",
+        "Amiram",
+        "Amra",
+        "Ma",
+        "Mamaram",
+        "Mangai",
+        "Mango",
+        "Mango Tree",
+        "Mee Amba",
+        "Sahakara",
+        "\u0906\u092e"
+      ],
+      "genus_name": "Mangifera",
+      "family_name": "Anacardiaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Mangifera indica, commonly known as mango, is a species of flowering plant in the family Anacardiaceae. It is a large fruit tree, capable of growing to a height of 30 metres (100 feet). There are two distinct genetic populations in modern mangoes \u2013 the \"Indian type\" and the \"Southeast Asian type\"."
+    }
+  },
+  "Photo-2024-06-18-07-05-40": {
+    "id": "Photo-2024-06-18-07-05-40",
+    "ut": 1718674540,
+    "latlng": {
+      "lat": 6.913294,
+      "lng": 79.858406
+    },
+    "image_path": "data\\images\\Photo-2024-06-18-07-05-40.jpg",
+    "direction": 48.60752864157119,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Lagerstroemia speciosa": 0.92306,
+        "Banisteriopsis caapi": 0.00111
+      }
+    },
+    "species": {
+      "name": "Lagerstroemia speciosa",
+      "authorship": "(L.) Pers.",
+      "iucn_category": "LC",
+      "common_names": [
+        "Pride-of-India",
+        "Queen's crape-myrtle",
+        "Queen's-flower"
+      ],
+      "genus_name": "Lagerstroemia",
+      "family_name": "Lythraceae"
+    },
+    "wiki_page": {
+      "summary_short": "Lagerstroemia speciosa (giant crepe-myrtle, Queen's crepe-myrtle, banab\u00e1 plant, or pride of India, or \"Queen's Flower\" or \"Jarul\") is a species of Lagerstroemia native to tropical southern Asia. It is a deciduous tree with bright pink to light purple flowers.The name \"Queen's Flower\" is derived from the specific epithet 'reginae' or 'flosreginae', which means \"imperial or flower of the queen\". The tree bears beautiful attractive flowers in profusion in purple, lilac or pinkish-violet colours, ..."
+    }
+  },
+  "Photo-2024-06-18-07-56-02": {
+    "id": "Photo-2024-06-18-07-56-02",
+    "ut": 1718677562,
+    "latlng": {
+      "lat": 6.913817,
+      "lng": 79.861572
+    },
+    "image_path": "data\\images\\Photo-2024-06-18-07-56-02.jpg",
+    "direction": 214.2564850843061,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Lagerstroemia speciosa": 0.95158
+      }
+    },
+    "species": {
+      "name": "Lagerstroemia speciosa",
+      "authorship": "(L.) Pers.",
+      "iucn_category": "LC",
+      "common_names": [
+        "Pride-of-India",
+        "Queen's crape-myrtle",
+        "Queen's-flower"
+      ],
+      "genus_name": "Lagerstroemia",
+      "family_name": "Lythraceae"
+    },
+    "wiki_page": {
+      "summary_short": "Lagerstroemia speciosa (giant crepe-myrtle, Queen's crepe-myrtle, banab\u00e1 plant, or pride of India, or \"Queen's Flower\" or \"Jarul\") is a species of Lagerstroemia native to tropical southern Asia. It is a deciduous tree with bright pink to light purple flowers.The name \"Queen's Flower\" is derived from the specific epithet 'reginae' or 'flosreginae', which means \"imperial or flower of the queen\". The tree bears beautiful attractive flowers in profusion in purple, lilac or pinkish-violet colours, ..."
+    }
+  },
+  "Photo-2024-06-19-06-58-00": {
+    "id": "Photo-2024-06-19-06-58-00",
+    "ut": 1718760480,
+    "latlng": {
+      "lat": 6.915244,
+      "lng": 79.860069
+    },
+    "image_path": "data\\images\\Photo-2024-06-19-06-58-00.jpg",
+    "direction": 233.94204724409448,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Combretum indicum": 0.63141
+      }
+    },
+    "species": {
+      "name": "Combretum indicum",
+      "authorship": "(L.) DeFilipps",
+      "iucn_category": null,
+      "common_names": [
+        "Madhumalti",
+        "Rangoon creeper",
+        "\u092e\u0927\u0941\u092e\u093e\u0932\u0924\u0940"
+      ],
+      "genus_name": "Combretum",
+      "family_name": "Combretaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Combretum indicum, also commonly known as the Rangoon creeper or Burma creeper, is a vine with red flower clusters which is native to tropical Asia and grows in thickets, primary and secondary forest, and along river banks in the Indian subcontinent, Malaysia and the Philippines.:\u200a547\u200a It has since been cultivated and naturalized in tropical areas such as Burma, Vietnam, and Thailand.\nThis plant is grown as an ornament."
+    }
+  },
+  "Photo-2024-06-19-07-13-54": {
+    "id": "Photo-2024-06-19-07-13-54",
+    "ut": 1718761434,
+    "latlng": {
+      "lat": 6.914322,
+      "lng": 79.863572
+    },
+    "image_path": "data\\images\\Photo-2024-06-19-07-13-54.jpg",
+    "direction": 231.60183706070288,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Diospyros mespiliformis": 0.3177,
+        "Umbellularia californica": 0.08166,
+        "Diospyros blancoi": 0.05459,
+        "Arbutus andrachne": 0.02703,
+        "Litchi chinensis": 0.0178
+      }
+    },
+    "species": {
+      "name": "Diospyros mespiliformis",
+      "authorship": "Hochst. ex A.DC.",
+      "iucn_category": "LC",
+      "common_names": [
+        "Ebony diospyros",
+        "Kalum",
+        "West African Ebony"
+      ],
+      "genus_name": "Diospyros",
+      "family_name": "Ebenaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Diospyros mespiliformis, the jackalberry (also known as African ebony and by its Afrikaans name jakkalsbessie), is a large dioecious evergreen tree found mostly in the savannas of Africa. Jackals are fond of the fruit, hence the common names. It is a member of the family Ebenaceae, and is related to the true ebony (D. ebenum) and edible persimmon (D. kaki)."
+    }
+  },
+  "Photo-2024-06-19-07-22-35": {
+    "id": "Photo-2024-06-19-07-22-35",
+    "ut": 1718761955,
+    "latlng": {
+      "lat": 6.913375,
+      "lng": 79.861642
+    },
+    "image_path": "data\\images\\Photo-2024-06-19-07-22-35.jpg",
+    "direction": 140.096328607779,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Allamanda blanchetii": 0.8732,
+        "Mandevilla sanderi": 0.0035
+      }
+    },
+    "species": {
+      "name": "Allamanda blanchetii",
+      "authorship": "A.DC.",
+      "iucn_category": null,
+      "common_names": [
+        "Hanchinal",
+        "Purple allamanda"
+      ],
+      "genus_name": "Allamanda",
+      "family_name": "Apocynaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Allamanda blanchetii (purple allamanda, violet allamanda; Pilaghanti in Sanskrit syn. Allamanda violacea) is a species of perennial flowering plant in the family Apocynaceae native to Brazil. Cultivated as an ornamental plant, it grows in full sun in USDA Zones 9b through 11 including central and south Florida, southernmost Texas, and coastal California. This plant's purple, bell-shaped blooms are about 3\" across. It is also called red bell. From the stem fiber can be extracted which is very ..."
+    }
+  },
+  "Photo-2024-06-19-07-28-13": {
+    "id": "Photo-2024-06-19-07-28-13",
+    "ut": 1718762293,
+    "latlng": {
+      "lat": 6.911883,
+      "lng": 79.862397
+    },
+    "image_path": "data\\images\\Photo-2024-06-19-07-28-13.jpg",
+    "direction": 330.9391480730223,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Inga alba": 0.0224,
+        "Toxicodendron radicans": 0.02098,
+        "Picrasma excelsa": 0.01911,
+        "Bignonia capreolata": 0.01835,
+        "Paullinia cupana": 0.01824
+      }
+    },
+    "species": {
+      "name": "Inga alba",
+      "authorship": "(Sw.) Willd.",
+      "iucn_category": "LC",
+      "common_names": [],
+      "genus_name": "Inga",
+      "family_name": "Fabaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Inga alba is a species of tree from the family Fabaceae, native to Central and South America. The common name in English is white inga."
+    }
+  },
+  "Photo-2024-06-19-07-33-14": {
+    "id": "Photo-2024-06-19-07-33-14",
+    "ut": 1718762594,
+    "latlng": {
+      "lat": 6.913597,
+      "lng": 79.864594
+    },
+    "image_path": "data\\images\\Photo-2024-06-19-07-33-14.jpg",
+    "direction": 301.8790588235294,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Gardenia jasminoides": 0.53627,
+        "Gardenia taitensis": 0.18949,
+        "Jasminum sambac": 0.02799,
+        "Tabernaemontana divaricata": 0.02525,
+        "Tabernaemontana africana": 0.00298
+      }
+    },
+    "species": {
+      "name": "Gardenia jasminoides",
+      "authorship": "J.Ellis",
+      "iucn_category": null,
+      "common_names": [
+        "Cape jasmine",
+        "Gardenia",
+        "\u0917\u0928\u094d\u0927\u0930\u093e\u091c"
+      ],
+      "genus_name": "Gardenia",
+      "family_name": "Rubiaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Gardenia jasminoides, commonly known as gardenia and cape jasmine, is an evergreen flowering plant in the coffee family Rubiaceae. It is native to parts of South-East Asia. Wild plants range from 30 centimetres to 3 metres (about 1 to 10 feet) in height. They have a rounded habit with very dense branches with opposite leaves that are lanceolate-oblong, leathery or gathered in groups on the same node and by a dark green, shiny and slightly waxy surface and prominent veins.\nWith its shiny green ..."
+    }
+  },
+  "Photo-2024-06-28-06-42-53": {
+    "id": "Photo-2024-06-28-06-42-53",
+    "ut": 1719537173,
+    "latlng": {
+      "lat": 6.913181,
+      "lng": 79.858414
+    },
+    "image_path": "data\\images\\Photo-2024-06-28-06-42-53.jpg",
+    "direction": 138.1533966398831,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Lagerstroemia speciosa": 0.75997,
+        "Solanum bonariense": 0.00846,
+        "Vitex parviflora": 0.00405,
+        "Banisteriopsis caapi": 0.00336,
+        "Solanum crispum": 0.00228
+      }
+    },
+    "species": {
+      "name": "Lagerstroemia speciosa",
+      "authorship": "(L.) Pers.",
+      "iucn_category": "LC",
+      "common_names": [
+        "Pride-of-India",
+        "Queen's crape-myrtle",
+        "Queen's-flower"
+      ],
+      "genus_name": "Lagerstroemia",
+      "family_name": "Lythraceae"
+    },
+    "wiki_page": {
+      "summary_short": "Lagerstroemia speciosa (giant crepe-myrtle, Queen's crepe-myrtle, banab\u00e1 plant, or pride of India, or \"Queen's Flower\" or \"Jarul\") is a species of Lagerstroemia native to tropical southern Asia. It is a deciduous tree with bright pink to light purple flowers.The name \"Queen's Flower\" is derived from the specific epithet 'reginae' or 'flosreginae', which means \"imperial or flower of the queen\". The tree bears beautiful attractive flowers in profusion in purple, lilac or pinkish-violet colours, ..."
+    }
+  },
+  "Photo-2024-06-28-07-19-36": {
+    "id": "Photo-2024-06-28-07-19-36",
+    "ut": 1719539376,
+    "latlng": {
+      "lat": 6.912181,
+      "lng": 79.861603
+    },
+    "image_path": "data\\images\\Photo-2024-06-28-07-19-36.jpg",
+    "direction": 184.98631273330568,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Wodyetia bifurcata": 0.80061,
+        "Adonidia merrillii": 0.07486,
+        "Syagrus romanzoffiana": 0.03831,
+        "Areca catechu": 0.00977,
+        "Phoenix dactylifera": 0.00383
+      }
+    },
+    "species": {
+      "name": "Wodyetia bifurcata",
+      "authorship": "A.K.Irvine",
+      "iucn_category": "LR/cd",
+      "common_names": [
+        "Foxtail palm"
+      ],
+      "genus_name": "Wodyetia",
+      "family_name": "Arecaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Wodyetia bifurcata, the foxtail palm,  is a species of palm in the family Arecaceae, native to Queensland, Australia. It is the sole species in the genus Wodyetia.\nThe Palm and Cycads Societies of Australia (PACSOA) describes this palm as follows:"
+    }
+  },
+  "Photo-2024-06-28-07-20-47": {
+    "id": "Photo-2024-06-28-07-20-47",
+    "ut": 1719539447,
+    "latlng": {
+      "lat": 6.911703,
+      "lng": 79.861344
+    },
+    "image_path": "data\\images\\Photo-2024-06-28-07-20-47.jpg",
+    "direction": 171.9578093306288,
+    "plant_net_result": {
+      "species_name_to_score": {
+        "Cercidiphyllum japonicum": 0.09365,
+        "Bauhinia variegata": 0.07061,
+        "Bauhinia purpurea": 0.06071,
+        "Robinia pseudoacacia": 0.05999,
+        "Cleistanthus collinus": 0.04051
+      }
+    },
+    "species": {
+      "name": "Cercidiphyllum japonicum",
+      "authorship": "Siebold & Zucc. ex J.J.Hoffm. & J.H.Schult.bis",
+      "iucn_category": "LC",
+      "common_names": [
+        "Katsura",
+        "Katsura tree"
+      ],
+      "genus_name": "Cercidiphyllum",
+      "family_name": "Cercidiphyllaceae"
+    },
+    "wiki_page": {
+      "summary_short": "Cercidiphyllum japonicum, known as the Katsura (from its Japanese name \u30ab\u30c4\u30e9, \u6842), is a species of flowering tree in the family Cercidiphyllaceae native to China and Japan. It is sometimes called caramel tree for the light caramel smell it emits during leaf fall."
+    }
   }
 }

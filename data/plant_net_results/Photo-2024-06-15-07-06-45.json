@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1719569869.7169752,
+  "plant_photo_id": "Photo-2024-06-15-07-06-45",
+  "species_name_to_score": {
+    "Diospyros mespiliformis": 0.42627,
+    "Diospyros blancoi": 0.10484,
+    "Ziziphus jujuba": 0.02283,
+    "Umbellularia californica": 0.01446,
+    "Harpephyllum caffrum": 0.01405,
+    "Diospyros malabarica": 0.01264,
+    "Ekebergia capensis": 0.00928,
+    "Syzygium jambos": 0.00807,
+    "Salix pentandra": 0.00427,
+    "Ocotea foetens": 0.00368
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ut_api_call": 1719569878.0830488,
+  "plant_photo_id": "Photo-2024-06-17-07-26-32",
+  "species_name_to_score": {
+    "Terminalia bellirica": 0.05719,
+    "Combretum collinum": 0.03686,
+    "Ficus benghalensis": 0.02086,
+    "Terminalia chebula": 0.02003,
+    "Ficus callosa": 0.01745,
+    "Amelanchier canadensis": 0.01452,
+    "Ficus craterostoma": 0.01122,
+    "Ficus altissima": 0.00743,
+    "Persea caerulea": 0.00652,
+    "Vitex doniana": 0.00562
+  }
+}
